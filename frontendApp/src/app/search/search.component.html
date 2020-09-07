@@ -1,0 +1,31 @@
+<p-scrollPanel [style]="{width: '100%', height: '80vh'}" styleClass="custombar1">
+<p-dataView #dv [value]="hits" [paginator]="true"  [rows]="3" paginatorPosition="both" filterBy="score "
+    [sortField]="sortField" [sortOrder]="sortOrder">
+    <p-header>
+        <div class="ui-helper-clearfix">
+            <div class="p-grid">
+                <div class="p-col-6 p-md-6 filter-container">
+                    <div>
+                        <input style="position:relative;width:100%;text-align:None" type="search" pInputText placeholder="Type sentence and hit enter" (keyup.enter)="search($event.target.value)">
+                    </div>
+                </div>
+            </div>
+        </div>
+    <app-progress-bar *ngIf="searching==true"></app-progress-bar>
+
+    </p-header>
+    <ng-template let-Hit pTemplate="listItem">
+        <div class="p-col-12">
+            <div class="hit-details">
+                <div>
+                    <div class="p-grid">
+                        <div class="p-col-12">Score: <b>{{Hit.score}}</b></div>
+                        <div class="p-col-12">Text: <b>{{Hit.match}}</b></div>
+                    </div>
+                    <button pButton type="button" icon="pi pi-search" (click)="selectHit($event, Hit)"></button>
+                </div>
+            </div>
+        </div>
+    </ng-template>
+</p-dataView>
+</p-scrollPanel>

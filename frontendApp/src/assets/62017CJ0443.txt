@@ -1,0 +1,920 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+<p class="sum-title-1">21 March 2019 (<span class="note">
+<a href="#t-ECR_62017CJ0443_EN_01-E0001" id="c-ECR_62017CJ0443_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Medicinal product for human use — Supplementary protection certificate for medicinal products — Regulation (EC) No 469/2009 — Article 3(d) — Conditions for granting — Grant of first authorisation to place the product on the market as a medicinal product — Authorisation covering a product as a medicinal product constituting a new formulation of a known active ingredient)</p>
+<p class="normal">In Case C‑443/17,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the High Court of Justice (England &amp; Wales), Chancery Division (Patents Court), made by decision of 16 March 2017, received at the Court on 24 July 2017, in the proceedings</p>
+<p class="normal">
+<span class="bold">Abraxis Bioscience LLC</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Comptroller General of Patents,</span>
+</p>
+<p class="normal">THE COURT (Fourth Chamber),</p>
+<p class="normal">composed of T. von Danwitz, President of the Seventh Chamber, acting as President of the Fourth Chamber, K. Jürimäe (Rapporteur), C. Lycourgos, E. Juhász and C. Vajda, Judges,</p>
+<p class="normal">Advocate General: H. Saugmandsgaard Øe,</p>
+<p class="normal">Registrar: L. Hewlett, Principal Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 21 June 2018,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Abraxis Bioscience LLC, by R. Meade QC and J. Antcliff, Solicitor,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the United Kingdom Government, by Z. Lavery and D. Robertson, acting as Agents, and by B. Nicholson, Barrister,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Czech Government, by M. Smolek, J. Vláčil and A. Kasalická, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Hungarian Government, by M.Z. Fehér, G. Koós and R. Kissné Berta, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Netherlands Government, by M.L. Noort, M.K. Bulterman, C.S. Schillemans, M.H.S. Gijzen and J.M. Hoogveld, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Polish Government, by B. Majczyna, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by N. Yerrell and J. Samnadda, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 13 December 2018,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 3(d) of Regulation (EC) No 469/2009 of the European Parliament and of the Council of 6 May 2009 concerning the supplementary protection certificate for medicinal products (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:152:TOC" hreflang="en" target="CourtTab">OJ 2009 L 152, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Abraxis Bioscience LLC (‘Abraxis’) and the United Kingdom’s Comptroller General of Patents concerning the rejection of an application for the grant of a supplementary protection certificate (‘SPC’) for a medicinal product marketed under the name ‘Abraxane’.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Recitals 3 to 5 and 7 to 10 of Regulation No 469/2009 state as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(3)</p>
+</td>
+<td valign="top">
+<p class="normal">Medicinal products, especially those that are the result of long, costly research will not continue to be developed in the [European Union] and in Europe unless they are covered by favourable rules that provide for sufficient protection to encourage such research.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">At the moment, the period that elapses between the filing of an application for a patent for a new medicinal product and authorisation to place the medicinal product on the market makes the period of effective protection under the patent insufficient to cover the investment put into the research.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(5)</p>
+</td>
+<td valign="top">
+<p class="normal">This situation leads to a lack of protection which penalises pharmaceutical research.</p>
+</td>
+</tr>
+</table>
+<p class="normal">...</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(7)</p>
+</td>
+<td valign="top">
+<p class="normal">A uniform solution at [EU] level should be provided for, thereby preventing the heterogeneous development of national laws leading to further disparities which would be likely to create obstacles to the free movement of medicinal products within the [European Union] and thus directly affect the functioning of the internal market.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(8)</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, the provision of an [SPC] granted, under the same conditions, by each of the Member States at the request of the holder of a national or European patent relating to a medicinal product for which marketing authorisation has been granted is necessary. A regulation is therefore the most appropriate legal instrument.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(9)</p>
+</td>
+<td valign="top">
+<p class="normal">The duration of the protection granted by the [SPC] should be such as to provide adequate effective protection. For this purpose, the holder of both a patent and an [SPC] should be able to enjoy an overall maximum of 15 years of exclusivity from the time the medicinal product in question first obtains authorisation to be placed on the market in the [European Union].</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(10)</p>
+</td>
+<td valign="top">
+<p class="normal">All the interests at stake, including those of public health, in a sector as complex and sensitive as the pharmaceutical sector should nevertheless be taken into account. For this purpose, the [SPC] cannot be granted for a period exceeding five years. The protection granted should furthermore be strictly confined to the product which obtained authorisation to be placed on the market as a medicinal product.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1 of that regulation provides:</p>
+<p class="normal">‘For the purposes of this Regulation, the following definitions shall apply:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">“medicinal product” means any substance or combination of substances presented for treating or preventing disease in human beings or animals and any substance or combination of substances which may be administered to human beings or animals with a view to making a medical diagnosis or to restoring, correcting or modifying physiological functions in humans or in animals;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">“product” means the active ingredient or combination of active ingredients of a medicinal product;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">“basic patent” means a patent which protects a product as such, a process to obtain a product or an application of a product, and which is designated by its holder for the purpose of the procedure for grant of an [SPC];</p>
+</td>
+</tr>
+</table>
+<p class="normal">...’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 2 of that regulation provides:</p>
+<p class="normal">‘Any product protected by a patent in the territory of a Member State and subject, prior to being placed on the market as a medicinal product, to an administrative authorisation procedure as laid down in Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use [(<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2001:311:TOC" hreflang="en" target="CourtTab">OJ 2001 L 311, p. 67</a>)] or Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products [(<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2001:311:TOC" hreflang="en" target="CourtTab">OJ 2001 L 311, p. 1</a>)] may, under the terms and conditions provided for in this Regulation, be the subject of a certificate.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3 of that regulation states:</p>
+<p class="normal">‘An [SPC] shall be granted if, in the Member State in which the application referred to in Article 7 is submitted and at the date of that application:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the product is protected by a basic patent in force;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">a valid authorisation to place the product on the market as a medicinal product has been granted in accordance with Directive [2001/83] or Directive [2001/82], as appropriate;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">the product has not already been the subject of an [SPC];</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">the authorisation referred to in point (b) is the first authorisation to place the product on the market as a medicinal product.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 4 of Regulation No 469/2009 provides:</p>
+<p class="normal">‘Within the limits of the protection conferred by the basic patent, the protection conferred by an [SPC] shall extend only to the product covered by the authorisation to place the corresponding medicinal product on the market and for any use of the product as a medicinal product that has been authorised before the expiry of the [SPC].’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Abraxis is a pharmaceutical company which markets, under the name ‘Abraxane’, a medicinal product indicated for the treatment of certain cancers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Abraxane contains a substance which Abraxis calls ‘nab-paclitaxel’, being a combination of nanoparticles of paclitaxel coated with albumin and protected by European Patent EP 0 961612. In that substance, the albumin and the paclitaxel are closely linked in such a way that they pass the cell membrane as a single entity. Nab-paclitaxel thus demonstrates greater efficacy than earlier formulations of paclitaxel for the treatment of certain cancerous tumours.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Abraxane was granted a marketing authorisation (‘MA’) in 2008 by the European Medicines Agency (EMA). Prior to the date on which that MA was granted for that medicinal product, paclitaxel had been marketed in another form by other companies under previous MAs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Abraxis applied for an SPC on the basis of the basic patent at issue and the MA granted for Abraxane. By decision of 26 August 2016, the Comptroller General of Patents turned down that application on the ground that it did not comply with Article 3(d) of Regulation No 469/2009. It held that, although that provision permits the grant of an SPC for a new and inventive therapeutic use of an old active ingredient, its scope does not extend to a new and inventive formulation of an old active ingredient.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Abraxis appealed against that decision to the High Court of Justice (England &amp; Wales), Chancery Division (Patents Court). It argues before that court that the condition laid down in Article 3(d) of Regulation No 469/2009 is met in the case of Abraxane in the light of the solution arrived at by the Court in the judgment of 19 July 2012, Neurim Pharmaceuticals (1991) (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A489&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑130/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A489&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:489</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">As it took the view that the scope of that judgment was not clear and that, therefore, the interpretation of Article 3(d) of that regulation was not obvious in the case of a new or inventive formulation of an old active ingredient, the High Court of Justice (England &amp; Wales), Chancery Division (Patents Court), decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="normal">‘Is Article 3(d) of Regulation [No 469/2009] to be interpreted as permitting the grant of an SPC where the [MA] referred to in Article 3(b) [of that regulation] is the first [MA] within the scope of the basic patent to place the product on the market as a medicinal product and where the product is a new formulation of an old active ingredient?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The request for the oral procedure to be reopened</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">By a letter lodged at the Court Registry on 31 January 2019, Abraxis requested that the oral procedure be reopened pursuant to Article 83 of the Rules of Procedure of the Court of Justice.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">In support of its request, Abraxis submits, in essence, that the Advocate General based his Opinion on arguments which were not debated between the parties and that, in his Opinion, he proposed a departure from the case-law resulting from the judgment of 19 July 2012, Neurim Pharmaceuticals (1991) (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A489&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑130/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A489&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:489</a>), or a limitation of that case-law solely to the factual circumstances giving rise to that judgment, which goes beyond the preliminary question asked by the referring court without taking into account its specificity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is a matter of settled case-law that the Court may, of its own motion, on a proposal from the Advocate General, or at the request of the parties, order the reopening of the oral procedure under Article 83 of its Rules of Procedure if it considers that it lacks sufficient information or that the case must be decided on the basis of an argument which has not been debated between the parties. By contrast, neither the Statute of the Court of Justice of the European Union nor the Rules of Procedure make provision for the parties to submit observations in response to the Advocate General’s Opinion (judgment of 23 January 2018, F. Hoffmann-La Roche and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A25&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑179/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A25&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:25</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A25&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point39" hreflang="en" target="CourtTab" type="application/xhtml+xml">39</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, although Abraxis’s observations are submitted as a response to certain points of the Advocate General’s Opinion, it follows from the case-law cited in the preceding paragraph that there is no provision in the texts governing the procedure before the Court for the lodging of such observations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">In addition, after hearing the Advocate General, the Court finds that it has sufficient information to answer the question submitted by the referring court and that all the arguments necessary for the determination of the present case have been debated between the parties.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">The request for the oral procedure to be reopened must therefore be rejected.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">By its question, the referring court asks, in essence, whether Article 3(d) of Regulation No 469/2009, read in conjunction with Article 1(b) of that regulation, must be interpreted as meaning that the MA referred to in Article 3(b) of that regulation, relied on in support of an application for an SPC concerning a new formulation of an old active ingredient, may be regarded as being the first MA for the product concerned as a medicinal product, when that active ingredient has already been granted an MA as an active ingredient.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">At the outset, it should be noted that, as is clear from the order for reference, the dispute in the main proceedings concerns an application for an SPC, the subject of which is a new formulation of an old active ingredient, paclitaxel, in the form of nanoparticles coated with albumin which acts as a carrier for paclitaxel. According to the information provided by the referring court, that new formulation, called ‘nab-paclitaxel’, allows the active ingredient to exercise its therapeutic effects with an increased efficacy. It is marketed as a medicinal product under the mark ‘Abraxane’. That medicinal product was subject to an MA which is the first MA coming within the scope of the basic patent covering that new formulation. The referring court also states that paclitaxel had already, prior to the grant of the MA in respect of Abraxane, been marketed under other MAs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">It is against that background that the question referred for a preliminary ruling by the referring court must be understood.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In order to answer that question, it is necessary, in the first place, to determine whether Article 1(b) of Regulation No 469/2009 must be interpreted as meaning that a new formulation of an old active ingredient, which, such as nab-paclitaxel, consists of that active ingredient and a carrier linked together in the form of nanoparticles permitting that active ingredient to exercise its therapeutic effects with increased efficacy, may be regarded as being a product that is distinct from the product consisting solely of the same active ingredient.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is important to note that that provision states that the term ‘product’ means the active ingredient or combination of active ingredients of a medicinal product.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">According to the Court’s settled case-law, in the absence of any definition of the concept of ‘active ingredient’ in Regulation No 469/2009, the meaning and scope of those terms must be determined by considering the general context in which they are used and their usual meaning in everyday language. In this case, it is generally accepted in pharmacology that the term ‘active ingredient’ does not include substances forming part of a medicinal product which do not have an effect of their own on the human or animal body (order of 14 November 2013, Glaxosmithkline Biologicals and Glaxosmithkline Biologicals, Niederlassung der Smithkline Beecham Pharma, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑210/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:762</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point27" hreflang="en" target="CourtTab" type="application/xhtml+xml">27</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point28" hreflang="en" target="CourtTab" type="application/xhtml+xml">28</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, paragraph 11 of the Explanatory Memorandum of 11 April 1990 to the Proposal for a Council Regulation (EEC) concerning the creation of a supplementary protection certificate for medicinal products (COM(90) 101 final), which led to Regulation (EEC) No 1768/92 of 18 June 1992 concerning the creation of a supplementary protection certificate for medicinal products (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1992:182:TOC" hreflang="en" target="CourtTab">OJ 1992 L 182, p. 1</a>), itself repealed and replaced by Regulation No 469/2009, indicates that the term ‘product’ is understood to mean an active substance in the strict sense and that minor changes to the medicinal product such as a new dose, the use of a different salt or ester or even of a different pharmaceutical form will not lead to the issue of a new SPC.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has inferred from this that the pharmaceutical form of the medicinal product, to which an excipient may contribute, does not form part of the definition of ‘product’, which is understood to mean an ‘active substance’ or ‘active ingredient’ in the strict sense. Whether a substance without any therapeutic effect of its own is necessary for the therapeutic efficacy of the active ingredient cannot, in this case, be regarded as a sufficiently precise test (order of 14 November 2013, Glaxosmithkline Biologicals and Glaxosmithkline Biologicals, Niederlassung der Smithkline Beecham Pharma, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑210/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:762</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point29" hreflang="en" target="CourtTab" type="application/xhtml+xml">29</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, a substance which does not have any therapeutic effect of its own and which is used to obtain a certain pharmaceutical form of a medicinal product is not covered by the concept of ‘active ingredient’ which is used to define the term ‘product’ (order of 14 November 2013, Glaxosmithkline Biologicals and Glaxosmithkline Biologicals, Niederlassung der Smithkline Beecham Pharma, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑210/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:762</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="en" target="CourtTab" type="application/xhtml+xml">30</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, first, the alliance of such a substance with a substance which does have therapeutic effects of its own cannot give rise to a ‘combination of active ingredients’ within the meaning of Article 1(b) of Regulation No 469/2009. Second, the fact that the substance without any therapeutic effect of its own renders possible a pharmaceutical form of the medicinal product necessary for the therapeutic efficacy of the substance which does have therapeutic effects cannot invalidate that interpretation (order of 14 November 2013, Glaxosmithkline Biologicals and Glaxosmithkline Biologicals, Niederlassung der Smithkline Beecham Pharma, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑210/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:762</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="en" target="CourtTab" type="application/xhtml+xml">31</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point32" hreflang="en" target="CourtTab" type="application/xhtml+xml">32</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Those considerations apply equally to a substance which, such as the albumin in the main proceedings, acts as a carrier of the active ingredient, according to the indications listed in the request for a preliminary ruling referred to in paragraph 21 of the present judgment. Since such a carrier does not have any therapeutic effects of its own – this being a matter which must, however, be verified by the referring court –, it cannot be regarded as being an active ingredient within the meaning of Article 1(b) of Regulation No 469/2009 even if it allows the active ingredient with which it is associated to exercise its therapeutic effect more effectively. Therefore, even the alliance of such a carrier with another substance which does have therapeutic effects of its own cannot give rise to a combination of active ingredients within the meaning of that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the foregoing that Article 1(b) of Regulation No 469/2009 must be interpreted as meaning that a new formulation of an old active ingredient, which, such as nab-paclitaxel, consists of that active ingredient and a carrier which has no therapeutic effect on its own linked together in the form of nanoparticles, cannot be regarded as being a product distinct from the product consisting solely of that active ingredient even if such a formulation allows that active ingredient to exercise its therapeutic effect with increased efficacy.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, it is appropriate to determine whether an MA granted for a new formulation of an old active ingredient, such as nab-paclitaxel, may be regarded as being the first MA granted for that product as a medicinal product within the meaning of Article 3(d) of Regulation No 469/2009, in the case where that MA is the first MA to come within the scope of protection of the basic patent concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be pointed out that, according to that provision, one of the conditions to which the grant of an SPC is made subject is that, in the Member State in which the SPC application is submitted and at the date of that application, the MA obtained in respect of the product which was the subject of that application must be the first MA for that product as a medicinal product.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">As the Advocate General noted, in essence, in point 30 of his Opinion, in the light of the definition of the scope of ‘product’, as is clear from the Court’s settled case-law, a literal interpretation of Article 3(d) of Regulation No 469/2009 presupposes that the first MA for the product as a medicinal product within the meaning of that provision means the first MA for a medicinal product incorporating the active ingredient or the combination of active ingredients at issue.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">According to such an interpretation, only the authorisation in respect of the first medicinal product placed on the market, consisting of the product concerned, may be regarded as the first MA within the meaning of Article 3(d) of Regulation No 469/2009, as defined in Article 1(b) of that regulation (see, to that effect, judgment of 24 November 2011, Medeva, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A773&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑322/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A773&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2011:773</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A773&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point40" hreflang="en" target="CourtTab" type="application/xhtml+xml">40</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">It should be added that, with regard to the objective of Regulation No 469/2009, it is clear from the wording of recitals 3 to 5 and 9 thereof, as the Advocate General observed in point 50 of his Opinion, that the SPC regime has the purpose of compensating for the lack of protection conferred by a patent with respect to covering the investment put into research concerning new medicinal products and, therefore, of encouraging that research. However, it follows from recital 10 of that regulation that the legislature intended to achieve that objective so as to take into account all the interests at stake, including those of public health, in a sector as complex and sensitive as the pharmaceutical sector.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">That finding, which supports a narrow interpretation of Article 3(d) of Regulation No 469/2009, is confirmed by the Explanatory Memorandum of 11 April 1990 to the Proposal for a Regulation, referred to in paragraph 26 of the present judgment, the effect of which is, as the Advocate General observed in points 52 to 55, 66 and 69 of his Opinion, that the legislature intended, in establishing the SPC regime, to protect not all pharmaceutical research giving rise to the grant of a patent and the marketing of a new medicinal product, but to protect research leading to the first placing on the market of an active ingredient or a combination of active ingredients as a medicinal product.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Such an objective would be jeopardised if, in order to fulfil the condition set out in Article 3(d) of Regulation No 469/2009, it were possible to take into account, in respect of a new formulation of an old active ingredient, solely the first MA to be covered by the scope of the basic patent protecting that new formulation and to disregard an MA which had been granted previously in respect of the same active ingredient in another formulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, such an interpretation of Article 3(d) of Regulation No 469/2009 would risk leading to legal uncertainty and inconsistencies as to the circumstances in which an SPC may be obtained, as it would be difficult to determine in which specific circumstances an MA granted in respect of a new formulation of an old active ingredient may be covered by that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, an MA granted for a new formulation of an old active ingredient, such as nab-paclitaxel, cannot be regarded as being the first MA granted for that product as a medicinal product within the meaning of Article 3(d) of Regulation No 469/2009, when that active ingredient has already been the subject of an MA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">The case-law arising from the judgment of 19 July 2012, Neurim Pharmaceuticals (1991) (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A489&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑130/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A489&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:489</a>) cannot call into question such an interpretation. In that judgment, the Court held that Articles 3 and 4 of Regulation No 469/2009 must be interpreted as meaning that, in a situation such as that in the case which gave rise to that judgment, the mere existence of an earlier MA obtained for a veterinary medicinal product does not preclude the grant of an SPC for a different application of the same product for which an MA has been granted, provided that the application is within the limits of the protection conferred by the basic patent relied upon for the purposes of the SPC application.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">However, the Court did not, in that judgment, cast doubt on the narrow interpretation of the notion of ‘product’, referred to in Article 1(b) of that regulation, according to which that scope cannot cover a substance which does not correspond to the definition of an ‘active ingredient’ or to that of a ‘combination of active ingredients’ (see, to that effect, order of 14 November 2013, Glaxosmithkline Biologicals and Glaxosmithkline Biologicals, Niederlassung der Smithkline Beecham Pharma, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑210/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:762</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A762&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point44" hreflang="en" target="CourtTab" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, it should be noted that the exception to the narrow interpretation of Article 3(d) of that regulation, as held in the judgment of 19 July 2012, Neurim Pharmaceuticals (1991) (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A489&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑130/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A489&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:489</a>), does not, in any event, refer to cases of a new formulation of the product at issue. That exception cannot, therefore, in any event, be relied on in the case of an MA granted for a new formulation of an active ingredient which has already been the subject of an MA, even if the MA for that new formulation was the first to come within the scope of the basic patent relied on in support of the SCP application for that new formulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the answer to the question referred is that Article 3(d) of Regulation No 469/2009, read in conjunction with Article 1(b) of that regulation, must be interpreted as meaning that the MA referred to in Article 3(b) of that regulation, relied on in support of an application for an SPC concerning a new formulation of an old active ingredient, cannot be regarded as being the first MA for the product concerned as a medicinal product in the case where that active ingredient has already been the subject of an MA as an active ingredient.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fourth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 3(d) of Regulation (EC) No 469/2009 of the European Parliament and of the Council of 6 May 2009 concerning the supplementary protection certificate for medicinal products, read in conjunction with Article 1(b) of that regulation, must be interpreted as meaning that the marketing authorisation referred to in Article 3(b) of that regulation, relied on in support of an application for a supplementary protection certificate concerning a new formulation of an old active ingredient, cannot be regarded as being the first marketing authorisation for the product concerned as a medicinal product in the case where that active ingredient has already been the subject of a marketing authorisation as an active ingredient.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<div class="signaturecaserow">
+<div class="signatory3left">
+<p class="normal">von Danwitz</p>
+</div>
+<div class="signatorycenter">
+<p class="normal">Jürimäe</p>
+</div>
+<div class="signatory3right">
+<p class="normal">Lycourgos</p>
+</div>
+</div>
+<div class="signaturecaserow">
+<div class="signatory2left">
+<p class="normal">Juhász</p>
+</div>
+<div class="signatory2right">
+<p class="normal">Vajda</p>
+</div>
+</div>
+<p class="normal">Delivered in open court in Luxembourg on 21 March 2019.</p>
+<div class="signaturecaserow">
+<div class="signatory2left">
+<p class="normal">A. Calot Escobar</p>
+<p class="normal">Registrar</p>
+</div>
+<div class="signatory2right">
+<p class="normal">K. Lenaerts</p>
+<p class="normal">President</p>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62017CJ0443_EN_01-E0001" id="t-ECR_62017CJ0443_EN_01-E0001">*1</a>
+</span>)	Language of the case: English.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

@@ -1,0 +1,998 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Grand Chamber)</p>
+<p class="sum-title-1">3 March 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0482_EN_01-E0001" id="c-ECR_62018CJ0482_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Freedom to provide services — Article 56 TFEU — Restrictions — Tax provisions — Tax on advertising activities based on turnover — Obligations relating to registration with a tax authority — Principle of non-discrimination — Fines — Principle of proportionality)</p>
+<p class="normal">In Case C‑482/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Fővárosi Közigazgatási és Munkaügyi Bíróság (Budapest Administrative and Labour Court, Hungary), made by decision of 13 July 2018, received at the Court on 24 July 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Google Ireland Limited</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Nemzeti Adó- és Vámhivatal Kiemelt Adó- és Vámigazgatósága,</span>
+</p>
+<p class="normal">THE COURT (Grand Chamber),</p>
+<p class="normal">composed of K. Lenaerts, President, R. Silva de Lapuerta, Vice-President, J.‑C. Bonichot, A. Arabadjiev, E. Regan, S. Rodin, L.S. Rossi (Rapporteur) and I. Jarukaitis, Presidents of Chambers, E. Juhász, C. Toader, D. Šváby, F. Biltgen and K. Jürimäe, Judges</p>
+<p class="normal">Advocate General: J. Kokott,</p>
+<p class="normal">Registrar: R. Șereș, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 4 June 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Google Ireland Limited, by Z. Szür and D. Kelemen, ügyvédek,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Hungarian Government, by M.Z. Fehér, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Czech Government, by M. Smolek, J. Vláčil and O. Serdula, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by N. Gossement, L. Malferrari and A. Sipos, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 12 September 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Articles 18 and 56 TFEU and of Articles 41 and 47 of the Charter of Fundamental Rights of the European Union (‘the Charter’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Google Ireland Limited, a company established in Ireland, and the Nemzeti Adó- és Vámhivatal Kiemelt Adó- és Vámigazgatósága (National Tax and Customs Authority, Hungary; ‘the tax authority’) concerning decisions by which that authority imposed a series of fines on that company for having infringed the obligation to submit a tax declaration of persons exercising an activity subject to the tax on advertisements laid down in Hungarian legislation.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The Hungarian law on the taxation of advertisements</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 2(1)(e) of the reklámadóról szóló 2014. évi XXII. törvény (Law No XXII of 2014 on the taxation of advertisements), in the version in force on 1 January 2017 (‘the Law on the taxation of advertisements’), provides that the publication of advertisements on the internet is to be subject to the tax on advertisements where the advertisements are mainly in Hungarian or mainly on internet pages that are in Hungarian.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 2(2)(b) of that law:</p>
+<p class="normal">‘the commissioning of the publication of an advertisement shall be subject to the tax unless … the customer who has commissioned the publication of the advertisement:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(ba)</p>
+</td>
+<td valign="top">
+<p class="normal">has requested a taxpayer within the meaning of Article 3(1) to submit the tax declaration referred to in Article 3(3) and can provide reliable evidence that it has done so;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(bb)</p>
+</td>
+<td valign="top">
+<p class="normal">has not received the declaration requested under subparagraph (ba) within 10 working days of receipt of the invoice or accounting document concerning publication of the advertisement; and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(bc)</p>
+</td>
+<td valign="top">
+<p class="normal">has submitted a declaration to the tax authority regarding the situation referred to in subparagraph (ba), the person who has published the advertisement and the payment for publication’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 3(1) of that law, any person who undertakes the publication of advertisements on the internet, where the advertisements are mainly in Hungarian or mainly on internet pages that are in Hungarian, is a ‘taxpayer irrespective of its place of residence’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3(3) of the Law on the taxation of advertisements provides:</p>
+<p class="normal">‘A taxpayer within the meaning of Article 3(1) must state in the invoice, accounting document or other document stating the payment for the publication of the advertisement (in particular, in the contract for publication of an advertisement) either that it is required to pay the tax and will comply with its obligations to submit a tax declaration and to pay the tax, or that in that tax year it is not required to pay the tax on publication of advertisements. …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 7/B of that law reads as follows:</p>
+<p class="normal">‘1.   A taxpayer within the meaning of Article 3(1) who is not registered with the tax authority as a taxpayer for the purposes of some form of tax must register by submitting the relevant form supplied by the tax authority within 15 days of commencing an activity that is subject to the tax under Article 2(1). …</p>
+<p class="normal">2.   Where a taxpayer fails to comply with the obligation to submit a tax declaration under Article 7/B(1) — in addition to ordering him to comply — the tax authority shall impose an initial fine of 10000000 forint [(HUF) (approximately EUR 31000)] for failure to comply.</p>
+<p class="normal">3.   If it is still found that there is non-compliance with the obligation, the tax authority shall impose a fine for failure to comply of three times the amount of the previous fine.</p>
+<p class="normal">4.   The tax authority shall issue daily decisions confirming non-compliance with the obligation to register under Article 7/B(1). These decisions shall be final and enforceable from the moment when notice of them is served and may be contested by way of judicial review. In the judicial review procedure, only documentary evidence shall be admissible and the court must reach its decision without holding a hearing.</p>
+<p class="normal">5.   If the taxpayer complies with the obligation to submit a tax declaration when first requested to do so by the tax authority, the fine provided for in paragraphs 2 and 3 may be reduced without limit.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 7/D of that law states:</p>
+<p class="normal">‘The total maximum amount of the fines for failure to comply which the tax authority may impose on the same taxpayer under Article 7/B is HUF 1000000000 [(approximately EUR 3100000)].’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The Hungarian Law on general tax procedures</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">It is clear from Article 17(1)(b) of the adózás rendjéről szóló 2003. évi XCII. törvény (Law No XCII of 2003 on general tax procedures; ‘the Law on general tax procedures’), that a resident taxpayer automatically satisfies the obligation to register with the tax authority when it submits an application for registration (a completed form) plus attachments, together with an application for a tax identification number, to the court with jurisdiction with respect to the registry.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">A taxpayer who fails to comply with any disclosure obligation, whether the obligations to register or to report any changes, to disclose data, to open a bank account or to submit a tax declaration may, pursuant to Article 172 of that law, be fined either HUF 500000 (approximately EUR 1550) or HUF 1000000 (approximately EUR 3100), depending on the circumstances. The tax authority is also required, when it imposes a fine on that basis, to order the taxpayer to comply with the obligation which it infringed by a prescribed deadline. If the taxpayer fails to meet the prescribed deadline, the amount of the fine is to be doubled. In the event of compliance with the obligation, the fine imposed may be reduced without limit.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The case in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">By decision of 16 January 2017, the tax authority found, first, that Google Ireland was exercising an activity which fell within the scope of that law and, second, that it had not registered with the tax authority within 15 days of commencing its activity contrary to Article 7/B(1) of the Law on the taxation of advertisements. Consequently, the tax authority imposed a fine of HUF 10000000 (approximately EUR 31000) on Google Ireland pursuant to Article 7/B(2) of that law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">By decisions adopted on the following four days, the tax authority imposed four new fines on Google Ireland, each of which, in accordance with Article 7/B(3) of the Law on the taxation of advertisements, was equal to three times the amount of the fine previously imposed. Following the decision of 20 January 2017, Google Ireland had been fined, in total, the statutory maximum amount of HUF 1000000000 (approximately EUR 3100000) laid down in Article 7/D of that law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Google Ireland brought an action for the annulment of those decisions before the referring court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">In support of its action, Google Ireland submits, first of all, that the imposition of fines on the ground of a failure to comply with the obligation to register laid down in Article 7/B of the Law on the taxation of advertisements is contrary to Articles 18 and 56 TFEU. Furthermore, it submits that companies established in Hungary may satisfy the obligations laid down by that law more easily than those established outside Hungary. Lastly, it maintains that fines imposed on companies established outside Hungary on the ground that they fail to comply with their obligations to submit a tax declaration differ from those applicable to companies established in Hungary which fail to comply with a similar obligation, and are disproportionate to the seriousness of the infringement committed, thereby constituting a restriction on the freedom to provide services in the European Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">According to Google Ireland, taxpayers established abroad are also in a less favourable situation than companies established in Hungary as regards the exercise of the right to an effective remedy. Although they have the right to judicial review of a decision imposing a fine on them, which is, pursuant to the provisions of Articles 7/B and 7/D of the Law on the taxation of advertisements, final and enforceable merely by notification thereof, the rules governing the exercise of that right, however, restrict its scope. In particular, in the judicial review procedure under Article 7/B(4) of the Law on the taxation of advertisements, the court with jurisdiction can admit only documentary evidence and gives judgment without holding a hearing, whereas the objection procedure applicable to domestic taxpayers under the Law on general tax procedures is not subject to such limitations, since such taxpayers would have, inter alia, the right to bring an administrative law action. The provisions of the Law on the taxation of advertisements do not therefore afford the person fined the right to an effective remedy or a fair trial, as provided for in Article 47 of the Charter.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">In that context, the referring court asks whether Articles 7/B and 7/D of the Law on the taxation of advertisements are compatible with Article 56 TFEU and the principle of non-discrimination. According to that court, the obligation to submit a tax declaration and the fines for failure to comply with that obligation — fines forming part of a very repressive and punitive system of penalties — are highly detrimental to companies established outside of Hungary and are in fact likely to restrict the freedom to provide services in the European Union. It considers in particular, as far as concerns the fines for failure to comply with the obligation to submit a tax declaration which were imposed on those companies, that the principle of proportionality was probably not observed in the present case. In that regard, it points, first, to the fact that a series of fines may be imposed on those taxpayers in five days during which the tax authority can triple the amount of the previous fine every day. Those penalties apply even before taxpayers are able to have notice of the daily tripling of the amount of the previous fine and before they can remedy the infringement, thus making it impossible for them to prevent the final fine from reaching the ceiling of HUF 1000000000 (EUR 3100000). In the referring court’s view, that fact can also give rise to the question of the compatibility of that administrative procedure with Article 41 of the Charter. Second, the referring court notes that the amount of the fine imposed under Article 7/D of the Law on the taxation of advertisements is, in total, up to 2000 times higher than that of the fine which may be imposed on a company established in Hungary which does not comply with the obligation to register for tax purposes laid down in Article 172 of the Law on general tax procedures.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, the referring court raises the question of compliance with Article 47 of the Charter in so far as, in the context of the judicial review procedure provided for in Article 7/B(4) of the Law on the taxation of advertisements, unlike the ordinary procedure for administrative law actions, only documentary evidence is admitted, since the court with jurisdiction cannot hold a hearing.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">On the ground that the case-law of the Court does not provide an answer to those questions, the Fővárosi Közigazgatási és Munkaügyi Bíróság (Budapest Administrative and Labour Court, Hungary) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Should Articles 18 and 56 [TFEU] and the prohibition on discrimination be interpreted as precluding a Member State’s tax legislation in which the penalty provisions require, for breach of the obligation to register for the purposes of an advertisement tax, the imposition of a fine for failure to comply, the total amount of which, for companies not established in Hungary, can be, in total, 2000 times greater than the amount of the fine for companies established in Hungary?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Can the penalty described in the previous question, which involves a markedly large sum and is punitive in nature, be considered as capable of discouraging service providers who are not established in Hungary from providing services in that country?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">Should Article 56 TFEU and the prohibition on discrimination be interpreted as precluding legislation under which, for undertakings established in Hungary, the obligation to register is satisfied automatically, without making an explicit application, through the [mere] allocation of a Hungarian tax identification number as part of the process of registering with the Companies Registry, irrespective of whether or not the undertaking publishes advertisements, whereas for undertakings that are not established in Hungary but that publish advertisements in that country it is not satisfied automatically, and instead they have specifically to comply with the obligation to register, and can be subject to a specific penalty if they fail to do so?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">If the answer to the first question is in the affirmative, should Article 56 TFEU and the prohibition on discrimination be interpreted as precluding a penalty such as the one at issue in the main proceedings, imposed for breach of the obligation to register for the purposes of an advertisement tax, in so far as the aforesaid legislation may be contrary to that article?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(5)</p>
+</td>
+<td valign="top">
+<p class="normal">Should Article 56 TFEU and the prohibition on discrimination be interpreted as precluding a provision under which the decision to impose a fine on an undertaking established abroad is final and enforceable from the moment when notice of it is served, and the decision may be contested only through judicial proceedings in which the court may not hold a hearing and only documentary evidence is admissible, while fines imposed on undertakings established in Hungary may be contested in an administrative procedure and, moreover, the judicial proceedings are not restricted in any way?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">([6])</p>
+</td>
+<td valign="top">
+<p class="normal">Should Article 56 TFEU, read in the light of the right to good administration in Article 41(1) of the [Charter], be interpreted as meaning that that requirement is not satisfied where the fine for failure to comply is imposed in the form of a fine the amount of which is tripled each day in such a way that the service provider, given that it still unaware of the earlier decision, is therefore unable to remedy its omission before the imposition of the next fine?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">([7])</p>
+</td>
+<td valign="top">
+<p class="normal">Should Article 56 TFEU, read with the right to good administration in Article 41(1) of the Charter, the right to be heard in Article 41(2)(a) of the Charter, and the right to an effective remedy and to a fair trial in Article 47 of the Charter, be interpreted as meaning that those requirements are not satisfied where the decision cannot be contested in an administrative procedure and where, in the administrative court proceedings, only documentary evidence is admissible and the court cannot hold a hearing?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">By its seven questions, the referring court raises, in essence, the following three categories of question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">First, by its third question, it asks whether Article 56 TFEU must be interpreted as precluding legislation of a Member State which imposes an obligation to submit a tax declaration on suppliers of advertising services established in another Member State for the purposes of their liability to a tax on advertising, whereas suppliers of such services established in the Member State where the tax is levied are exempt from that obligation on the ground that they are subject to obligations to submit a tax declaration or to register on the basis of liability to all other taxes applicable in that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Second, by its first, second, fourth and sixth questions, the referring court wishes to know, in essence, whether Article 56 TFEU must be interpreted as precluding legislation of a Member State which fines suppliers of services established in another Member State for non-compliance with an obligation to submit a tax declaration for the purposes of their liability to a tax on advertising in a series of fines issued within several days, the amount of which, from the second day, is tripled in relation to the amount of the previous fine if it is still found that that obligation has not been complied with, leading to a total amount of several million euros, and those suppliers are not able to comply with such an obligation to submit a tax declaration before notification of the final decision fixing the total amount of those fines, whereas the amount of the fine which suppliers of services established in the Member State where the tax is levied who fail to comply with a similar obligation to submit a tax declaration or to register, contrary to the general provisions of national tax legislation, would be significantly less and is not increased, in the event of continued failure to comply with such an obligation, in the same proportions, nor necessarily within such a short period of time.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Third, by its fifth and seventh questions, the referring court wishes to know, in essence, whether Article 56 TFEU, read in conjunction with Articles 41 and 47 of the Charter, must be interpreted as precluding legislation of a Member State which provides that decisions taken by a tax authority to fine a supplier of services established in another Member State, who has failed to comply with the obligation to submit a tax declaration under that legislation, are subject to judicial review in a written procedure where, contrary to the ordinary procedure of an administrative law action in tax matters, the national court with jurisdiction is not able to hold a hearing.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">It is appropriate to consider those questions in that order.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The third question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary matter, it should be noted that the referring court is not asking the Court whether the liability of suppliers of advertising services to a tax on online advertisements, such as that applicable in Hungary, constitutes a restriction on the freedom to provide services under Article 56 TFEU, but only whether the obligation imposed in that Member State on those suppliers to submit a tax declaration for the purposes of their liability to that tax constitutes such a restriction.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be borne in mind that Article 56 TFEU precludes the application of any national rules which have the effect of making the provision of services between Member States more difficult than the provision of services purely within a Member State (judgment of 18 June 2019, Austria v Germany, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A504&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑591/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A504&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:504</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A504&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point135" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">135</a> and the case-law cited). Article 56 TFEU requires the abolition of any restriction on the freedom to provide services imposed on the ground that the person providing a service is established in a Member State other than that in which the service is provided (see, inter alia, judgment of 22 November 2018, Vorarlberger Landes- und Hypothekenbank, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A939&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑625/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A939&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:939</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A939&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">National measures which prohibit, impede or render less attractive the exercise of the freedom to provide services are restrictions on that freedom. On the other hand, measures the only effect of which is to create additional costs in respect of the service in question and which affect in the same way the provision of services between Member States and such provision within one Member State do not fall within the scope of the prohibition laid down in Article 56 TFEU (see, inter alia, judgment of 18 June 2019, Austria v Germany, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A504&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑591/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A504&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:504</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A504&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point136" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">136</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A504&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point137" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">137</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it is important to note that, under Article 7/B(1) of the Law on the taxation of advertisements, a person liable to the tax on advertisements who is not registered with the tax authority as a taxpayer for the purposes of some form of tax must register with the tax authority by submitting the relevant form within 15 days of commencing the taxable activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">It follows, first, that the obligation to submit a tax declaration, laid down in Article 7/B(1) of that law, does not impinge on the exercise of the activity of advertising online in Hungary and, second, that a supplier of advertising services who, before commencing its advertising activity which is taxable, has not registered for tax purposes in Hungary is subject to that obligation, whereas that obligation does not apply to a supplier of advertising services who is already registered for tax purposes in that Member State for the purposes of some form of tax, that being so irrespective of either supplier’s place of establishment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">The obligation to submit a tax declaration, which is an administrative formality, does not per se constitute an obstacle to the freedom to provide services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">It is in no way apparent that the obligation to submit a tax declaration, laid down in Article 7/B(1) of the Law on the taxation of advertisements, means that suppliers of advertising services who are not established in Hungary are subject to an additional administrative burden in relation to that borne by suppliers of advertising services established in Hungary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">It is true that the suppliers of advertising services established in Hungary are exempt from that obligation. As stated by the referring court, they are considered, under national tax law, to satisfy that obligation automatically.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">However, the fact that those suppliers are exempt from the obligation to submit a tax declaration is not, in relation to suppliers of advertising services established in other Member States, a difference in treatment capable of constituting a restriction on the freedom to provide services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">First of all, it is common ground that those suppliers are also exempt from the obligation to submit a tax declaration under Article 7/B(1) of the Law on the taxation of advertisements if they have already submitted a tax declaration or registered with the tax authority for the purposes of some form of direct or indirect tax levied in Hungary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Next, the exemption from the obligation to submit a tax declaration, whilst mainly benefiting suppliers of services established in Hungary, does not result in deterring the cross-border supply of advertising services, but in preventing suppliers already registered with the tax authority from being required to complete a meaningless administrative formality, since the purpose of the obligation to submit a tax declaration is precisely to enable that authority to identify those persons liable to the tax on advertisements. In particular, it is clear from the information before the Court that a supplier of services established in Hungary is required to submit an application for registration with the traders registry in order to be given a tax identification number.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, nothing brought to the Court's attention in the course of the present proceedings suggests that the steps to be taken to satisfy the obligation to submit a tax declaration at issue are more onerous than those which must be taken both in order to register with the tax authority for the purposes of another tax and to register with the national traders registry.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answer to the third question referred is that Article 56 TFEU must be interpreted as not precluding legislation of a Member State which imposes an obligation to submit a tax declaration on suppliers of advertising services established in another Member State for the purposes of their liability to a tax on advertising, whereas suppliers of such services established in the Member State where the tax is levied are exempt from that obligation on the ground that they are subject to obligations to submit a tax declaration or to register on the basis of liability to all other taxes applicable in that Member State.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first, second, fourth and sixth questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">It should be noted that, although systems of penalties in the field of taxation fall within the competencies of the Member States in the absence of harmonisation at EU level, such systems should not have the effect of jeopardising the freedoms provided for by the FEU Treaty (see, to that effect, judgment of 25 February 1988, Drexl, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1988%3A103&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">299/86</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1988%3A103&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1988:103</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1988%3A103&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point17" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">17</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, as the Advocate General observed, in essence, in point 63 of her Opinion, it is appropriate to consider whether the penalties connected with failure to submit the tax declaration laid down in Article 7/B(1) of the Law on the taxation of advertisements infringe the freedom to provide services under Article 56 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">It is clear from the information before the Court that, according to Article 7/B(2) and (3) of that law, any person liable to the tax on advertisements who is not yet registered with the tax authority as a taxpayer for the purposes of another tax and does not comply with the obligation to submit a tax declaration to which it is subject, risks being required to pay a series of fines, the first of which is set at HUF 10000000 (approximately EUR 31000) and tripled every day if it is still found that that obligation has not been complied with, until several days later, pursuant to Article 7/D of that law, the total amount of the fines is capped at approximately HUF 1000000000 (approximately EUR 3100000).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Strictly speaking, that system of penalties applies without distinction to all taxpayers who fail to comply with their obligation to submit a tax declaration pursuant to the Law on the taxation of advertisements, irrespective of the Member State in which they are established.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">However, as the Advocate General noted, in essence, in point 77 of her Opinion, only taxpayers not resident in Hungary are, in reality, capable of being fined pursuant to Article 7/B(2) and (3) and Article 7/D of the Law on the taxation of advertisements, since, in the light of the scope <span class="italic">ratione personae</span> of Article 7/B(1) of that law, suppliers which the tax authority has registered as taxpayers for the purposes of any tax in Hungary are exempt from the obligation to submit a tax declaration.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Indeed, suppliers of advertising services established in Hungary may be fined for failure to comply with similar obligations to submit a tax declaration and to register required of them under the general provisions of the national tax legislation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">However, the system of penalties, laid down in Articles 7/B and 7/D of the Law on the taxation of advertisements, enables significantly higher fines to be issued than those resulting from the application of Article 172 of the Law on general tax procedures in the event of infringement, by a supplier of advertising services established in Hungary, of its obligation to register laid down in Article 17(1)(b) of that law. Furthermore, the amount of the fines imposed under that system is not increased for continued non-compliance with the corresponding obligation to register to such an extent, nor necessarily within such a short period of time, as that applied under the system of penalties laid down in the Law on the taxation of advertisements.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Having regard to the difference in treatment introduced between suppliers of advertising services according to whether or not they are already registered for tax purposes in Hungary, the system of penalties at issue in the main proceedings constitutes a restriction on the freedom to provide services, which is, in principle, prohibited by Article 56 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Such a restriction may nevertheless be warranted if it is justified by overriding reasons of public interest and, provided that that is the case, its application is suitable for securing the attainment of the objective which it pursues and does not go beyond what is necessary in order to attain it (see, inter alia, to that effect, judgments of 26 May 2016, NN (L) International, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑48/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:356</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point58" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">58</a>, and of 25 July 2018, TTL, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑553/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:604</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point52" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">52</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, in order to justify that restriction, the Hungarian Government formally invokes the need to preserve the integrity of its tax regime, but essentially relies on grounds based on ensuring the effectiveness of fiscal supervision and the effective collection of tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the Court has previously accepted that the need to ensure the effectiveness of fiscal supervision and the effective collection of tax may constitute overriding reasons in the public interest capable of justifying a restriction on the freedom to provide services. It has also held that the imposition of penalties, including criminal penalties, may be considered to be necessary in order to ensure compliance with national rules, subject, however, to the condition that the nature and amount of the penalty imposed is, in each individual case, proportionate to the gravity of the infringement which it is designed to penalise (see, to that effect, judgments of 26 May 2016, NN (L) International, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑48/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:356</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point59" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">59</a>, and of 25 July 2018, TTL, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑553/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:604</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point57" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">57</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">In the first place, as regards the suitability of the system of penalties imposed by Articles 7/B and 7/D of the Law on the taxation of advertisements for securing the attainment of the objectives invoked by the Hungarian Government, it should be made clear that issuing fines of a sufficiently high amount to penalise failure to comply with the obligation to submit a tax declaration, laid down in Article 7/B(1) of that law, is capable of deterring the suppliers of advertising services subject to such an obligation from infringing it and thus preventing the Member State where the tax is levied from being deprived of the possibility of policing effectively the conditions for the application of, and exemption from, the tax in question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, as to whether or not the national legislation at issue in the main proceedings goes beyond what is necessary in order to attain the objectives relied on by Hungary, as far as concerns the amount of the fines incurred in the event of failure to comply with the obligation to submit a tax declaration, it must be found that that legislation introduces a system of penalties under which a supplier who has not complied with that administrative formality may, within a few days, at intervals of only one day apart, be fined, from the second day, in amounts which are tripled in relation to the amount of the previous fine if it is still found that that obligation has not been complied with, thereby resulting in a total amount of HUF 1000000000 (approximately EUR 3100000), without the competent authority giving the supplier the time necessary to comply with its obligations or the opportunity to submit its observations, or having itself examined the seriousness of the infringement. In those circumstances, such legislation is disproportionate.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">First, there is no link between the exponential increase, within particularly short periods of time, in the total amount of the fines, which may amount to several million euros, and the seriousness of the failure to comply, within such a period, with the administrative formality constituted by the obligation to submit a tax declaration laid down in Article 7/B(1) of the Law on the taxation of advertisements. Thus, it is clear that the amount of the fines imposed is determined without taking account of turnover, which constitutes the basis of assessment for the tax which is supposed to be recovered. In those circumstances, it is quite possible that the total amount of the penalties imposed under Article 7/B(2) and (3) of the Law on the taxation of advertisements exceeds the taxpayer’s turnover.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Second, in so far as the legislation at issue provides for the automatic and daily adoption by the tax authority of decisions issuing fines such as those issued in the main proceedings, only a few days elapse between the adoption and notification of the initial decision to fine the taxpayer HUF 10000000 (approximately EUR 31000), on the one hand, and the notification of the last decision to issue a fine, on the other, as a result of which the total amount of the fines may reach the statutory ceiling of HUF 1000000000 (approximately EUR 3100000). Thus, even if that taxpayer acted with due diligence, it would, in any event, be in effect unable to comply with its obligation to submit a tax declaration in the Member State where the tax is levied prior to receiving the last decision in its Member State of establishment and could not therefore avoid significant increases in the amount of the previous fines. This also shows that the method of calculating fines laid down in the national legislation at issue in the main proceedings does not take account of the seriousness of the conduct of suppliers of advertising services who fail to comply with their obligation to submit a tax declaration.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Indeed, as the Hungarian Government claimed in its written observations, under Article 7/B(5) of the Law on the taxation of advertisements, the tax authority may reduce the amount of the fines provided for in Article 7/B(2) and (3) of that law ‘without limit’ if the taxpayer complies with its obligation to submit a tax declaration when requested to do so by that authority for the first time.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">However, it is clear from the very wording of that provision, subject to verification by the referring court, that the tax authority has at its disposal a mere discretion in that regard. A fine is no less disproportionate merely because the authorities of a Member State may, at their sole discretion, reduce its amount.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answer to the first, second, fourth and sixth questions is that Article 56 TFEU must be interpreted as precluding legislation of a Member State which fines suppliers of services established in another Member State for non-compliance with the obligation to submit a tax declaration for the purposes of their liability to a tax on advertising in a series of fines issued within several days, the amount of which, from the second day, is tripled in relation to the amount of the previous fine if it is still found that that obligation has not been complied with, leading to a total amount of several million euros, without the competent authority giving those suppliers of services the time necessary to comply with their obligations or the opportunity to submit their observations, or having itself examined the seriousness of the infringement, before adopting the final decision fixing the total amount of those fines, whereas the amount of the fine which suppliers of services established in the Member State where the tax is levied who fail to comply with a similar obligation to submit a tax declaration or to register contrary to the general provisions of national tax legislation is significantly less and is not increased, in the event of continued failure to comply with such an obligation, in the same proportions, nor necessarily within such a short period of time.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The fifth and seventh questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the answer given to the first, second, fourth and sixth questions that national legislation providing for a system of fines such as that applicable in the event of failure to comply with the obligation to submit a tax declaration at issue in the main proceedings is incompatible with Article 56 TFEU. Accordingly, it is not necessary to answer the fifth and seventh questions.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Grand Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 56 TFEU must be interpreted as not precluding legislation of a Member State which imposes an obligation to submit a tax declaration on suppliers of advertising services established in another Member State for the purposes of their liability to a tax on advertising, whereas suppliers of such services established in the Member State where the tax is levied are exempt from that obligation on the ground that they are subject to obligations to submit a tax declaration or to register on the basis of liability to all other taxes applicable in that Member State.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 56 TFEU must be interpreted as precluding legislation of a Member State which fines suppliers of services established in another Member State for non-compliance with the obligation to submit a tax declaration for the purposes of their liability to a tax on advertising in a series of fines issued within several days, the amount of which, from the second day, is tripled in relation to the amount of the previous fine if it is still found that that obligation has not been complied with, leading to a total amount of several million euros, without the competent authority giving those suppliers of services the time necessary to comply with their obligations or the opportunity to submit their observations, or having itself examined the seriousness of the infringement, before adopting the final decision fixing the total amount of those fines, whereas the amount of the fine which suppliers of services established in the Member State where the tax is levied who fail to comply with a similar obligation to submit a tax declaration or to register contrary to the general provisions of national tax legislation is significantly less and is not increased, in the event of continued failure to comply with such an obligation, in the same proportions, nor necessarily within such a short period of time.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0482_EN_01-E0001" id="t-ECR_62018CJ0482_EN_01-E0001">*1</a>
+</span>)	Language of the case: Hungarian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

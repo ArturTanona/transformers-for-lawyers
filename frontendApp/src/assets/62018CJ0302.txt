@@ -1,0 +1,1023 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Third Chamber)</p>
+<p class="sum-title-1">3 October 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0302_EN_01-E0001" id="c-ECR_62018CJ0302_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Immigration policy — Status of third-country nationals who are long-term residents — Directive 2003/109/EC — Conditions for acquiring long-term resident status — Article 5(1)(a) — Stable, regular and sufficient resources)</p>
+<p class="normal">In Case C‑302/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Raad voor Vreemdelingenbetwistingen (Council for asylum and immigration proceedings, Belgium), made by decision of 14 December 2017, received at the Court on 4 May 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">X</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Belgische Staat,</span>
+</p>
+<p class="normal">THE COURT (Third Chamber),</p>
+<p class="normal">composed of A. Prechal (Rapporteur), President of the Chamber, F. Biltgen, J. Malenovský, C.G. Fernlund and L.S. Rossi, Judges,</p>
+<p class="normal">Advocate General: H. Saugmandsgaard Øe,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">X, by J. Hardy, advocaat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Belgian Government, by C. Pochet, M. Jacobs and P. Cottin, acting as Agents, and by E. Matterne, advocaat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Czech Government, by M. Smolek and J. Vláčil, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the German Government, by T. Henze and J. Möller, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the French Government, by E. de Moustier, A.‑L. Desjonquères and E. Armoet, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Italian Government, by G. Palmieri, acting as Agent, and by L. D’Ascia, avvocato dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Austrian Government, by J. Schmoll, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by C. Cattabriga and G. Wils, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 6 June 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 5(1)(a) of Council Directive 2003/109/EC of 25 November 2003 concerning the status of third-country nationals who are long-term residents (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:016:TOC" hreflang="en" target="CourtTab">OJ 2004 L 16, p. 44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between X and the Belgische Staat (Belgian State) concerning, in particular, the rejection of an application for authorisation to settle and to obtain long-term resident status.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Directive 2003/86/EC</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 7(1) of Council Directive 2003/86/EC of 22 September 2003 on the right to family reunification (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2003:251:TOC" hreflang="en" target="CourtTab">OJ 2003 L 251, p. 12</a>):</p>
+<p class="normal">‘1.   When the application for family reunification is submitted, the Member State concerned may require the person who has submitted the application to provide evidence that the sponsor has:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">stable and regular resources which are sufficient to maintain himself/herself and the members of his/her family, without recourse to the social assistance system of the Member State concerned. Member States shall evaluate these resources by reference to their nature and regularity and may take into account the level of minimum national wages and pensions as well as the number of family members.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Directive 2003/109</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Recitals 1, 2, 4, 6, 7 and 10 of Directive 2003/109 state:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">With a view to the progressive establishment of an area of freedom, security and justice, the [EC] Treaty … provides both for the adoption of measures aimed at ensuring the free movement of persons, in conjunction with flanking measures relating to external border controls, asylum and immigration, and for the adoption of measures relating to asylum, immigration and safeguarding the rights of third-country nationals.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">The European Council, at its special meeting in Tampere on 15 and 16 October 1999, stated that the legal status of third-country nationals should be approximated to that of Member States’ nationals and that a person who has resided legally in a Member State for a period of time to be determined and who holds a long-term residence permit should be granted in that Member State a set of uniform rights which are as near as possible to those enjoyed by citizens of the European Union.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">The integration of third-country nationals who are long-term residents in the Member States is a key element in promoting economic and social cohesion, a fundamental objective of the Community stated in the Treaty.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(6)</p>
+</td>
+<td valign="top">
+<p class="normal">The main criterion for acquiring the status of long-term resident should be the duration of residence in the territory of a Member State. Residence should be both legal and continuous in order to show that the person has put down roots in the country. Provision should be made for a degree of flexibility so that account can be taken of circumstances in which a person might have to leave the territory on a temporary basis.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(7)</p>
+</td>
+<td valign="top">
+<p class="normal">To acquire long-term resident status, third-country nationals should prove that they have adequate resources and sickness insurance, to avoid becoming a burden for the Member State. Member States, when making an assessment of the possession of stable and regular resources may take into account factors such as contributions to the pension system and fulfilment of tax obligations.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(10)</p>
+</td>
+<td valign="top">
+<p class="normal">A set of rules governing the procedures for the examination of application for long-term resident status should be laid down. Those procedures should be effective and manageable, taking account of the normal workload of the Member States’ administrations, as well as being transparent and fair, in order to offer appropriate legal certainty to those concerned. They should not constitute a means of hindering the exercise of the right of residence.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 5 of that directive, entitled ‘Conditions for acquiring long-term resident status’, provides:</p>
+<p class="normal">‘1.   Member States shall require third-country nationals to provide evidence that they have, for themselves and for dependent family members:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">stable and regular resources which are sufficient to maintain himself/herself and the members of his/her family, without recourse to the social assistance system of the Member State concerned. Member States shall evaluate these resources by reference to their nature and regularity and may take into account the level of minimum wages and pensions prior to the application for long-term resident status;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">sickness insurance in respect of all risks normally covered for [their] own nationals in the Member State concerned.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 7(1) of that directive provides:</p>
+<p class="normal">‘To acquire long-term resident status, the third-country national concerned shall lodge an application with the competent authorities of the Member State in which he/she resides. The application shall be accompanied by documentary evidence to be determined by national law that he/she meets the conditions set out in Articles 4 and 5 as well as, if required, by a valid travel document or its certified copy.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 8(1) of that directive:</p>
+<p class="normal">‘The status as long-term resident shall be permanent, subject to Article 9.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 9 of Directive 2003/109, entitled ‘Withdrawal or loss of status’, provides in paragraph 1:</p>
+<p class="normal">‘1.   Long-term residents shall no longer be entitled to maintain long-term resident status in the following cases:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">detection of fraudulent acquisition of long-term resident status;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">adoption of an expulsion measure under the conditions provided for in Article 12;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">in the event of absence from the territory of the Community for a period of 12 consecutive months.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Article 11 of that directive provides:</p>
+<p class="normal">‘1.   Long-term residents shall enjoy equal treatment with nationals as regards:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">access to employment and self-employed activity, provided such activities do not entail even occasional involvement in the exercise of public authority, and conditions of employment and working conditions, including conditions regarding dismissal and remuneration;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 12 of that directive provides:</p>
+<p class="normal">‘1.   Member States may take a decision to expel a long-term resident solely where he/she constitutes an actual and sufficiently serious threat to public policy or public security.</p>
+<p class="normal">2.   The decision referred to in paragraph 1 shall not be founded on economic considerations.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Article 13 of that directive states:</p>
+<p class="normal">‘Member States may issue residence permits of permanent or unlimited validity on terms that are more favourable than those laid down by this Directive. Such residence permits shall not confer the right of residence in the other Member States as provided by Chapter III of this Directive.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Directive 2004/38/EC</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Article 7 of Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States, amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:158:TOC" hreflang="en" target="CourtTab">OJ 2004 L 158, p. 77</a>, and corrigendum in <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:229:TOC" hreflang="en" target="CourtTab">OJ 2004 L 229, p. 34</a>) provides:</p>
+<p class="normal">‘1.   All Union citizens shall have the right of residence on the territory of another Member State for a period of longer than three months if they:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">are workers or self-employed persons in the host Member State; or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">have sufficient resources for themselves and their family members not to become a burden on the social assistance system of the host Member State during their period of residence and have comprehensive sickness insurance cover in the host Member State; or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">are enrolled at a private or public establishment, accredited or financed by the host Member State on the basis of its legislation or administrative practice, for the principal purpose of following a course of study, including vocational training; and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">have comprehensive sickness insurance cover in the host Member State and assure the relevant national authority, by means of a declaration or by such equivalent means as they may choose, that they have sufficient resources for themselves and their family members not to become a burden on the social assistance system of the host Member State during their period of residence …</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Article 14, entitled ‘Retention of the right of residence’, provides in paragraph 2:</p>
+<p class="normal">‘Union citizens and their family members shall have the right of residence provided for in Articles 7, 12 and 13 as long as they meet the conditions set out therein.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Belgian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 15a of the Wet betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen (Law on entry to the territory, residence, establishment and removal of foreign nationals) of 15 December 1980 (<span class="italic">Belgisch Staatsblad</span>, 31 December 1980, p. 14584), in the version applicable to the facts in the main proceedings (‘the Law on foreign nationals’):</p>
+<p class="normal">‘§ 1.   Save where grounds of public policy or public security so preclude, long-term resident status must be granted to a non-EU foreign national who satisfies the conditions laid down in paragraph 3 and who can prove that he has resided legally and continuously within the Kingdom [of Belgium] for five years immediately prior to the application for long-term resident status.</p>
+<p class="normal">…</p>
+<p class="normal">§ 3.   The foreign national referred to in paragraph 1 must prove that he/she has, for himself/herself and for dependent family members, stable and regular means of subsistence which are sufficient to maintain himself/herself and the members of his/her family to avoid becoming a burden for the State, as well as health insurance covering risks in Belgium.</p>
+<p class="normal">The means of subsistence referred to in paragraph 1 shall at least correspond to the level of resources below which social assistance may be granted. In the assessment of those means of subsistence, account shall be taken of their nature and regularity.</p>
+<p class="normal">The King shall lay down, by Royal Order deliberated upon by the Conseil des Ministres (Council of Ministers) and taking into account the criteria set out in paragraph 2, the minimum amount of means of subsistence required.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">In the circular on the status of long-term residents, of 14 July 2009 (<span class="italic">Belgisch Staatsblad</span>, 11 August 2009), it is specified that evidence of those means of subsistence may be established as follows:</p>
+<p class="normal">‘Evidence of means of subsistence may be adduced by professional income, an unemployment allowance, a disability allowance, an early retirement pension, an old-age allowance, a benefit paid under occupational accident or illness insurance … This list is non-exhaustive.’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">On 26 July 2007, X, who declared that he is a Cameroonian national, submitted an application for a student visa to the Belgian Embassy in Yaoundé (Cameroon). He obtained the visa and his right of residence in Belgium was renewed annually until 15 January 2016. On 19 January 2016, a residence permit was granted at X’s request, on the ground that he was in possession of a work permit. That residence permit was valid until 14 January 2017.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">On 27 December 2016, X applied for long-term resident status. In support of that application, he produced inter alia, as evidence of stable, regular and sufficient means of subsistence, employment contracts, a tax assessment notice and pay slips in his brother’s name. In addition, X provided a document signed by his brother, in which the latter undertook to ensure that ‘the person concerned has, “for himself and for his dependent family members, stable and regular means of subsistence which are sufficient to maintain himself and the members of his family to avoid becoming a burden for the State” in accordance with Article 15a of the [Law on foreign nationals]’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">The gemachtigde van de staatssecretaris voor Asiel en Migratie en Administratieve Vereenvoudiging (the representative of the Secretary of State for Asylum and Migration and administrative simplification, Belgium) (‘the representative’) rejected that application by decision of 5 April 2017. With regard to stable, regular and sufficient means of subsistence within the meaning of Article 15a of the Law on foreign nationals, the decision was worded as follows:</p>
+<p class="normal">‘The person concerned does not have his own resources. It appears that he has not been engaged in gainful employment since 31 May 2016, and that he does not currently have any resources. He is currently relying on his brother’s resources. The person concerned must establish that he has sufficient means of subsistence for himself so as not to become a burden on the Belgian State.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">X brought an action against that decision before the Raad voor Vreemdelingenbetwistingen (Council for asylum and immigration proceedings, Belgium), in which he claims that the decision was based on a misinterpretation of the condition relating to means of subsistence contained in Article 5(1) of Directive 2003/109, the provision transposed by Article 15a of the Law on foreign nationals, on the ground that those provisions do not require that account should be taken only of the applicant’s own resources.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">X states that the expression ‘have sufficient resources’, within the meaning of Article 5(1) of Directive 2003/109, had to be interpreted in the same way as the identical wording used in Directives 2003/86 and 2004/38. He claims that Directive 2003/109 is aimed at approximating the legal status of holders of a long-term residence permit to that conferred on EU citizens. He states that it follows, in particular, that the case-law relating to Directive 2004/38 and the relevant case-law prior to the entry into force of that directive, from which it appears that that directive does not contain any requirement whatsoever as to the origin of the sufficient resources, must be applied by analogy.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">The representative, on the other hand, contends that the mere fact that X’s costs are borne by his brother does not imply that he has a regular and stable income. In the representative’s view, the assessment of resources in the context of a family reunification procedure cannot be carried out in the same way as that carried out in the context of a procedure for obtaining long-term resident status. The representative adds that, in the case of family reunification relating to a Union citizen, only the latter’s income may be taken into account.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of those observations, the national court wonders, in particular, whether Article 5(1)(a) of Directive 2003/109 must be interpreted as meaning that the ‘resources’ referred to in that provision are solely the applicant’s ‘own resources’ or whether that concept covers other types of resources.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Raad voor Vreemdelingenbetwistingen (Council for asylum and immigration proceedings) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Should Article 5(1)(a) of [Directive 2003/109], which provides that, in order to acquire long-term resident status, third-country nationals must prove that they “have”, for themselves and for dependent family members, stable and regular resources which are sufficient to maintain himself/herself and the members of his/her family, without recourse to the social assistance system of the Member State concerned, be interpreted as meaning that it is only the third-country national’s “own resources” that are concerned?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">If not, is it sufficient for those resources to be at the disposal of a third-country national, without any requirement regarding the origin of those resources being imposed, so that those resources can be made available to the third-country national also by a family member or by another person?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">If the last question is answered in the affirmative, is it sufficient that a commitment of cost bearing is entered into by another person whereby that other person undertakes to ensure that the applicant for long-term resident status “has, for himself/herself and for his/her dependent family members, stable, regular and sufficient resources to maintain himself/herself and the members of his/her family to avoid becoming a burden for the State” in order to prove that the applicant has resources within the meaning of Article 5(1)(a) of [Directive 2003/109]?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">By its questions, which it is appropriate to consider together, the referring court seeks to ascertain, in essence, whether Article 5(1)(a) of Directive 2003/109 must be interpreted as meaning that the concept of ‘resources’, which is referred to in that provision, concerns only the ‘own resources’ of the applicant for long-term resident status or whether this concept also covers the resources made available to that applicant by a third party and, if so, whether a commitment of cost bearing entered into by that third party is sufficient to provide proof that the applicant has stable, regular and sufficient resources within the meaning of that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 5(1)(a) of Directive 2003/109, Member States are to require third-country nationals to provide evidence that they have, for themselves and for dependent family members Member States stable and regular resources which are sufficient to maintain himself/herself and the members of his/her family, without recourse to the social assistance system of the Member State concerned. Member States are to evaluate these resources by reference to their nature and regularity and may take into account the level of minimum wages and pensions prior to the application for long-term resident status.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Since Article 5(1)(a) of Directive 2003/109 does not contain any reference to the national law of the Member States, the concept of ‘resources’, used in that provision, must be regarded as an autonomous concept of EU law and interpreted uniformly throughout the European Union, irrespective of characterisation in the Member States, taking into account the wording of that provision and also the purpose of the rules of which it forms part and its context (see, to that effect, judgment of 9 November 2017, Maio Marques da Rosa, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A844&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑306/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A844&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:844</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A844&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="en" target="CourtTab" type="application/xhtml+xml">38</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, first, the wording of Article 5(1)(a) of Directive 2003/109, it should be noted that the Spanish, English, French and Italian versions of that provision use a term equivalent to the word ‘resources’, that concept, in accordance with its usual meaning, being capable of referring to all the financial means available to an applicant for long-term resident status, irrespective of their origin. On the other hand, the Dutch and German versions of that provision use terms equivalent to the concept of ‘income’, which refers more restrictively to personal resources, such as, in particular, those resulting from the economic activity of the applicant for long-term resident status, which would tend to exclude resources from a third party, such as a member of his family.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">In view of that ambiguity, the wording of Article 5(1)(a) of Directive 2003/109 does not, on its own, make it possible to determine the nature or origin of the resources referred to therein.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">As regards second, the principal objective of Directive 2003/109, it is the integration of third-country nationals who are settled on a long-term basis in the Member States. Moreover, as is apparent from recital 2 of that directive, by granting the status of long-term resident to such third-country nationals, the directive seeks to approximate the legal status of those nationals to that of Member States’ nationals (see, to that effect, judgment of 18 October 2012, Singh, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A636&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑502/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A636&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:636</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A636&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point45" hreflang="en" target="CourtTab" type="application/xhtml+xml">45</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">As regards that integration, according to settled case-law, and as is also confirmed by recital 6 of Directive 2003/109, it results above all from the five-year duration of the legal and continuous residence that shows that the person concerned has put down roots in the country and therefore that that person is a long-term resident (see, to that effect, judgment of 17 July 2014, Tahir, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2094&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑469/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2094&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:2094</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2094&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point33" hreflang="en" target="CourtTab" type="application/xhtml+xml">33</a> and the case-law cited). From that perspective, the origin of the resources which an applicant for long-term resident status must possess does not appear to be a decisive criterion.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, third, the context of which Article 5(1)(a) of Directive 2003/109 forms part, it must be noted that the requirement of having stable, regular and sufficient resources is one of the substantive conditions for obtaining the status of long-term resident. In the light of the objective pursued by Directive 2003/109 and the system which it puts in place, where the third-country nationals satisfy the conditions and comply with the procedures laid down in Directive 2003/109, they have the right to obtain long-term resident status as well as the other rights which stem from the grant of that status (see, to that effect, judgment of 26 April 2012, Commission v Netherlands, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A243&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑508/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A243&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:243</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A243&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point68" hreflang="en" target="CourtTab" type="application/xhtml+xml">68</a>). In that context, as the Advocate General also noted in essence in point 46 of his Opinion, Article 5(1)(a) of Directive 2003/109 does not, in principle, allow additional conditions to be laid down relating to the origin of the resources referred to in that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, account being taken of the broader contextual framework of that provision, it should be noted that a comparable requirement to have ‘resources’ also appears in Article 7(1)(b) of Directive 2004/38, according to which all Union citizens are to have the right of residence on the territory of another Member State for a period of longer than three months, inter alia, if they have sufficient resources for themselves and their family members not to become a burden on the social assistance system of the host Member State during their period of residence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has held that an interpretation of the condition concerning the sufficiency of resources laid down in Article 7(1)(b) of Directive 2004/38 as meaning that the person concerned must have such resources himself, without being able to use for that purpose the resources of an accompanying family member, would add to that condition, as formulated in Directive 2004/38, a requirement as to the origin of the resources which, not being necessary for the attainment of the objective pursued by Article 7(1)(b) of Directive 2004/38, namely the protection of the public finances of the Member States, would constitute a disproportionate interference with the exercise of the fundamental right of freedom of movement and residence guaranteed by Article 21 TFEU (see, to that effect, judgment of 16 July 2015, Singh and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A476&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑218/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A476&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:476</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A476&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point75" hreflang="en" target="CourtTab" type="application/xhtml+xml">75</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">The concept of ‘resources’ referred to in Article 5(1)(a) of Directive 2003/109 may be interpreted in a manner analogous to that referred to in Article 7(1)(b) of Directive 2004/38 as not precluding the person concerned from relying on resources from a third party who is a member of his family.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">However, in view of the definitive nature of the acquisition of long-term resident status and of the objective of Article 5(1)(a) of Directive 2003/109, which is to preserve the social assistance system of the Member State concerned, the conditions of ‘resources’ within the meaning of that directive have a scope different from that provided for in Directive 2004/38.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from Article 5(1)(a) of Directive 2003/109 that Member States are to evaluate the resources by reference to their nature and regularity and may take into account the level of minimum wages and pensions prior to the application for long-term resident status. In addition, contrary to Article 7(1)(b) of Directive 2004/38, Article 5(1)(a) of Directive 2003/109 requires that the resources referred to therein be not only ‘sufficient’ but also ‘stable’ and ‘regular’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Still in relation to the context of Article 5(1)(a) of Directive 2003/109, it should be noted that a requirement to have ‘stable and regular resources which are sufficient’ also appears in Article 7(1)(c) of Directive 2003/86. The Court has already held that it follows from the actual wording of that provision, in particular the use of the words ‘stable’ and ‘regular’, that the financial resources referred to in that provision must have a certain degree of permanence and continuity. In that regard, according to the second sentence of Article 7(1)(c) of Directive 2003/86, the Member States are to assess those resources by reference to, inter alia, their ‘regularity’ (see, to that effect, judgment of 21 April 2016, Khachab, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A285&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑558/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A285&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:285</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A285&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="en" target="CourtTab" type="application/xhtml+xml">30</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, Article 7(1)(c) of Directive 2003/86 cannot be interpreted as precluding the competent authority of the Member State concerned by an application for family reunification from examining whether the condition relating to the sponsor’s resources is met by taking into account an assessment as regards whether those resources will be retained beyond the date of submission of that application (see, to that effect, judgment of 21 April 2016, Khachab, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A285&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑558/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A285&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:285</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A285&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="en" target="CourtTab" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, with regard to that provision, and in particular the wording ‘sufficient’, the Court has already noted that, since the extent of needs can vary greatly depending on the individuals, that provision must be interpreted as meaning that the Member States may indicate a certain sum as a reference amount, but not as meaning that they may impose a minimum income level, irrespective of an actual examination of the situation of each applicant (see, to that effect, judgment of 4 March 2010, Chakroun, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A117&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑578/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A117&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2010:117</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A117&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point48" hreflang="en" target="CourtTab" type="application/xhtml+xml">48</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, it follows from Article 7(1)(c) of Directive 2003/86 that it is not the source of the resources, but their sustainability and sufficiency, in view of the individual situation of the person concerned, that is decisive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the examination of the wording, objective and context of Article 5(1)(a) of Directive 2003/109, in the light, inter alia, of the comparable provisions of Directives 2004/38 and 2003/86, that the origin of the resources referred to in that provision is not a decisive criterion for the Member State concerned for the purpose of ascertaining whether they are stable, regular and sufficient.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, as the Advocate General observed in point 77 of his Opinion, it is for the competent authorities of the Member States to specifically analyse the individual circumstances of the applicant for long-term resident status taken as a whole and state the reasons why those resources are sufficient or insufficient and do or do not have a certain degree of permanence and continuity, so that that applicant does not become a burden for the host Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Resources from a third party or a member of the applicant’s family are therefore not excluded by Article 5(1)(a) of Directive 2003/109, provided that they are stable, regular and sufficient. In that regard, in a situation such as that at issue in the main proceedings, the legally binding nature of a commitment of cost bearing by a third party or a member of the applicant’s family may be an important factor to be taken into account. It is also permissible for the competent authorities of the Member States to take into account, inter alia, the family relationship between the applicant for long-term residence and the member or members of the family prepared to bear his costs. Similarly, the nature and permanence of the resources of the member or members of the applicant’s family may be relevant factors to that effect.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answer to the questions referred is that Article 5(1)(a) of Directive 2003/109 must be interpreted as meaning that the concept of ‘resources’ referred to in that provision does not concern solely the ‘own resources’ of the applicant for long-term resident status, but may also cover the resources made available to that applicant by a third party provided that, in the light of the individual circumstances of the applicant concerned, they are considered to be stable, regular and sufficient.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Third Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 5(1)(a) of Council Directive 2003/109/EC of 25 November 2003 concerning the status of third-country nationals who are long-term residents must be interpreted as meaning that the concept of ‘resources’ referred to in that provision does not concern solely the ‘own resources’ of the applicant for long-term resident status, but may also cover the resources made available to that applicant by a third party provided that, in the light of the individual circumstances of the applicant concerned, they are considered to be stable, regular and sufficient.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0302_EN_01-E0001" id="t-ECR_62018CJ0302_EN_01-E0001">*1</a>
+</span>)	Language of the case: Dutch.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

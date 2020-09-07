@@ -1,0 +1,672 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="coj-sum-title-1">7 May 2020 (<span class="coj-note">
+<a href="#t-ECR_62018CJ0547_EN_01-E0001" id="c-ECR_62018CJ0547_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Taxation — Value added tax (VAT) — Directive 2006/112/EC — Article 44 — Implementing Regulation (EU) No 282/2011 — Article 11(1) — Supply of services — Point of reference for tax purposes — Concept of a ‘fixed establishment’ — Taxable person for VAT purposes — Subsidiary of a company of a non-Member State located in a Member State)</p>
+<p class="coj-normal">In Case C‑547/18,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Wojewódzki Sąd Administracyjny we Wrocławiu (Regional Administrative Court, Wrocław, Poland), made by decision of 6 June 2018, received at the Court on 23 August 2018, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">Dong Yang Electronics sp. z o.o.</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Dyrektor Izby Administracji Skarbowej we Wrocławiu,</span>
+</p>
+<p class="coj-normal">THE COURT (Fifth Chamber),</p>
+<p class="coj-normal">composed of E. Regan, President of the Chamber, I. Jarukaitis, E. Juhász (Rapporteur), M. Ilešič and C. Lycourgos, Judges,</p>
+<p class="coj-normal">Advocate General: J. Kokott,</p>
+<p class="coj-normal">Registrar: C. Strömholm, Administrator,</p>
+<p class="coj-normal">having regard to the written procedure and further to the hearing on 5 September 2019,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dong Yang Electronics sp. z o.o., by M. Goj, T. Dziadura, I. Rymanowska and D. Pokrop, doradcy podatkowi,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Dyrektor Izby Administracji Skarbowej we Wrocławiu, by M. Kowalewska, J. Grzebyk, B. Kołodziej and T. Wojciechowski,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Polish Government, by B. Majczyna and A. Kramarczyk-Szaładzińska, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the United Kingdom Government, by F. Shibli, D. Thorneloe and J. Kraehling, acting as Agents, and by R. Hill, Barrister,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by M. Siekierzyńska and N. Gossement, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">after hearing the Opinion of the Advocate General at the sitting on 14 November 2019,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Article 44 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 347, p. 1</a>), as amended by Council Directive 2008/8/EC of 12 February 2008 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:044:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2008 L 44, p. 11</a>) (‘Directive 2006/112’), and Article 11(1) of Council Implementing Regulation (EU) No 282/2011 of 15 March 2011 laying down implementing measures for Directive 2006/112 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:077:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2011 L 77, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between Dong Yang Electronics sp. z o.o. (‘Dong Yang’) and the Dyrektor Izby Administracji Skarbowej we Wrocławiu (Director of the Tax Administration Chamber, Wrocław, Poland) concerning a decision of the latter imposing on Dong Yang an additional assessment to value added tax (VAT).</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">European Union law</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">The Free Trade Agreement</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Free Trade Agreement between the European Union and its Member States, of the one part, and the Republic of Korea, of the other part, approved on behalf of the European Union by Council Decision 2011/265/EU of 16 September 2010 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:127:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2011 L 127, p. 1</a>), states, in the table in Annex 7-A-2 thereof, second column, under the title ‘Types of establishment’:</p>
+<p class="coj-normal">‘PL: With the exception of financial services, unbound for branches. Korean investors can undertake and conduct economic activity only in the form of a limited partnership, limited joint-stock partnership, limited liability company, and joint-stock company (in the case of legal services only in the form of registered partnership and limited partnership).’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Directive 2006/112</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Title V of Directive 2006/112, entitled ‘Place of taxable transactions’, Chapter 3, entitled ‘Place of supply of services’ includes Article 44 of that directive, which provides:</p>
+<p class="coj-normal">‘The place of supply of services to a taxable person acting as such shall be the place where that person has established his business. However, if those services are provided to a fixed establishment of the taxable person located in a place other than the place where he has established his business, the place of supply of those services shall be the place where that fixed establishment is located. In the absence of such place of establishment or fixed establishment, the place of supply of services shall be the place where the taxable person who receives such services has his permanent address or usually resides.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Implementing Regulation No 282/2011</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 11 of Implementing Regulation No 282/2011 provides:</p>
+<p class="coj-normal">‘1.   For the application of Article 44 of Directive 2006/112/EC, a “fixed establishment” shall be any establishment, other than the place of establishment of a business referred to in Article 10 of this Regulation, characterised by a sufficient degree of permanence and a suitable structure in terms of human and technical resources to enable it to receive and use the services supplied to it for its own needs.</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">3.   The fact of having a VAT identification number shall not in itself be sufficient to consider that a taxable person has a fixed establishment.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 22 of that regulation provides:</p>
+<p class="coj-normal">‘1.   In order to identify the customer’s fixed establishment to which the service is provided, the supplier shall examine the nature and use of the service provided.</p>
+<p class="coj-normal">Where the nature and use of the service provided do not enable him to identify the fixed establishment to which the service is provided, the supplier, in identifying that fixed establishment, shall pay particular attention to whether the contract, the order form and the VAT identification number attributed by the Member State of the customer and communicated to him by the customer identify the fixed establishment as the customer of the service and whether the fixed establishment is the entity paying for the service.</p>
+<p class="coj-normal">Where the customer’s fixed establishment to which the service is provided cannot be determined in accordance with the first and second subparagraphs of this paragraph or where services covered by Article 44 of Directive 2006/112/EC are supplied to a taxable person under a contract covering one or more services used in an unidentifiable and non-quantifiable manner, the supplier may legitimately consider that the services have been supplied at the place where the customer has established his business.</p>
+<p class="coj-normal">2.   The application of this Article shall be without prejudice to the customer’s obligations.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Polish law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 28(b)(1) to (3) of the ustawa o podatku od towarów i usług (Law on the Tax on Goods and Services) of 11 March 2004 (Dz. U. of 2011, No 177, heading 1054), in the version applicable to the dispute in the main proceedings, provides as follows:</p>
+<p class="coj-normal">‘1.   In the case of services supplied to a taxable person, the place of supply of services shall be the place where the taxable person who is the customer of such services has established his business, subject to paragraphs 2 to 4 and Article 28e, Article 28f(1) and (1a), Article 28g(1), Article 28(i), Article 28j(1) and (2), and Article 28n.</p>
+<p class="coj-normal">2.   Where those services are supplied to a fixed establishment of the taxable person located in a place other than the place where he has established his business, the place of supply of services shall be the place where that fixed establishment is located.</p>
+<p class="coj-normal">3.   Where the taxable person who is the customer of such services does not have a place of establishment of his business or does not have a fixed establishment within the meaning of Article 28b(2), the place of supply of services shall be the place where he has his permanent address or usually resides.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 27 October 2010, Dong Yang, a company incorporated under Polish law, concluded with LG Display Co. Ltd. (Korea) (‘LG Korea’), a company incorporated under Korean law and established in Seoul (South Korea), a contract for the supply of services consisting in the assembly of printed circuit boards (‘PCB’) from materials and components owned by LG Korea.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The materials and components necessary for the manufacture of the PCB were cleared through customs and then supplied to Dong Yang by a subsidiary of LG Korea, LG Display Polska sp. z o.o. (‘LG Poland’), a company incorporated under Polish law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dong Yang supplied the PCB to LG Poland which, on the basis of a contract with LG Korea, used those PCB to produce TFT-LCD modules. Those modules, which were the property of LG Korea, were supplied to another company, LG Display Germany GmbH.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">LG Poland has its own means of production. That company and LG Korea have separate VAT identification numbers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dong Yang invoiced the PCB assembly services to LG Korea, treating those services as not subject to VAT within Poland.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">LG Korea assured Dong Yang that it did not have a fixed establishment in Poland and that it did not employ staff, own immovable property or have technical resources there.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Director of the Tax Administration Chamber, Wrocław, took the view that Dong Yang had supplied PCB assembly services in Poland, inasmuch as LG Poland constituted a fixed establishment of LG Korea. On 28 February 2017, that Director thus claimed from Dong Yang the amount of VAT relating to the assembly services which it had performed during 2012.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that decision, the Director of the Tax Administration Chamber, Wrocław, observed that, by the contractual relationships which it had established, LG Korea used LG Poland as its own establishment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It added that the onus was on Dong Yang not to rely solely on the statement of LG Korea that it did not have any fixed establishment in Poland, but to examine, in accordance with Article 22 of Implementing Regulation No 282/2011, who the actual beneficiary of the services which it provided was and such an examination would have enabled it to conclude that that beneficiary was in fact LG Poland.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dong Yang brought an action before the Wojewódzki Sąd Administracyjny we Wrocławiu (Regional Administrative Court, Wrocław, Poland) seeking annulment of the decision of the Director of the Tax Administration Chamber, Wrocław, on the ground that that decision infringes Article 44 of Directive 2006/112 and Article 11(1) and Articles 21 and 22 of Implementing Regulation No 282/2011.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court cites the judgments of 4 July 1985, Berkholz (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1985%3A299&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">168/84</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1985%3A299" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1985:299</a>); of 2 May 1996, Faaborg-Gelting Linien (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1996%3A184&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑231/94</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1996%3A184" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1996:184</a>); of 17 July 1997, ARO Lease (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A374&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑190/95</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A374" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1997:374</a>); and of 16 October 2014, Welmory (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2298&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑605/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2298" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2298</a>), in relation to the concept of a ‘fixed establishment’ within the meaning of Article 44 of that directive. However, it takes the view that the case before it has significant factual differences from those cases. On account of the fact that LG Korea is established in a non-Member State, namely the Republic of Korea, that company does not enjoy the freedoms conferred under the TFEU and may not freely conduct economic activity in the Republic of Poland.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Given that conducting such activity is possible only by owning a subsidiary that is a company, the referring court takes the view that the company established in a non-Member State always has the possibility of influencing the activities of its subsidiary and, accordingly, of having access to the subsidiary’s resources.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, the referring court raises the issue of whether and, if so, under what conditions, the subsidiary held in Poland by a company established in a non-Member State must be regarded by the supplier of services, having regard, in particular, to that supplier’s obligations under Article 22 of Implementing Regulation No 282/2011, as a fixed establishment for the purposes of determining the place of supply of the services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In particular, it raises the issue of whether the existence of a fixed establishment may be deduced from the mere existence of a subsidiary or whether the supplier of services must take account of the contractual relationships between the parent company and that subsidiary. In this connection, the referring court states that cooperation agreements linking the parent company and the subsidiary, on the basis of which the Polish tax authorities concluded that there was a fixed establishment, were collected in the course of tax proceedings other than those at the origin of the dispute in the main proceedings and were not available to the supplier of services in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the Wojewódzki Sąd Administracyjny we Wrocławiu (Regional Administrative Court, Wrocław), considering it necessary to obtain clarification from the Court of Justice, decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Can it be inferred, from the mere fact that a company established outside the European Union has a subsidiary in the territory of Poland, that a fixed establishment exists in Poland within the meaning of Article 44 of Directive 2006/112 … and Article 11(1) of Implementing Regulation No 282/2011 … ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If the first question is answered in the negative, is a third party required to examine contractual relationships between a company established outside the European Union and its subsidiary in order to determine whether the former company has a fixed establishment in Poland?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its two questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 44 of Directive 2006/112 and Article 11(1) and Article 22(1) of Implementing Regulation No 282/2011 must be interpreted as meaning that the existence, in the territory of a Member State, of a fixed establishment of a company established in a non-Member State may be inferred by a supplier of services from the mere fact that that company has a subsidiary there or whether that supplier is required to inquire, for the purposes of such an assessment, into contractual relationships between the two entities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The first sentence of Article 44 of Directive 2006/112 provides that the place of supply of services to a taxable person acting as such is to be the place where that person has established his business. However, the second sentence of that article provides that, if those services are provided to a fixed establishment of the taxable person located in a place other than the place where he has established his business, the place of supply of those services is to be the place where that fixed establishment is located.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Those provisions determine the point of reference for tax purposes of supplies of services in order to avoid, first, conflicts of jurisdiction which may result in double taxation and, secondly, non-taxation (judgment of 16 October 2014, Welmory, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2298&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑605/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2298" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2298</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2298" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">42</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Court has already held that, while the most appropriate, and thus the primary, point of reference for determining the place of supply of services for tax purposes is the place where the taxable person has established his business, as an exception to that general rule, a fixed establishment of the taxable person may be taken into consideration, provided certain conditions are satisfied (judgment of 16 October 2014, Welmory, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2298&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑605/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2298" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2298</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2298" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">53</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2298" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In this respect, in order to prevent circumstances arising which could compromise the proper functioning of the common system of VAT, the European Union legislature provided in Article 44 of Directive 2006/112 that, where the service was provided to an establishment which can be characterised as a fixed establishment of the taxable person, the place of supply of the services must be considered to be the place where that fixed establishment is located.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the issue of whether there is a ‘fixed establishment’ within the meaning of the second sentence of Article 44 of that directive, that issue must be examined by reference to the taxable person constituting the customer to whom the services are supplied (judgment of 16 October 2014, Welmory, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2298&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑605/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2298" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2298</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2298" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">57</a>). In this connection, pursuant to Article 11 of Implementing Regulation No 282/2011, a ‘fixed establishment’ is to be any establishment, other than the place of establishment of a business referred to in Article 10 of that Regulation, characterised by a sufficient degree of permanence and a suitable structure in terms of human and technical resources to enable it to receive and use the services supplied to it for its own needs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Admittedly, in that regard, it must be observed that the Free Trade Agreement referred to in paragraph 3 above contains, in the table in Annex 7-A-2 thereof, second column, under the title ‘Types of establishment’, a reservation for the Republic of Poland according to which Korean investors can undertake and conduct economic activity in Poland only in the form of a limited partnership, limited joint-stock partnership, limited liability company and joint-stock company. That provision precludes undertakings incorporated under Korean law from directly conducting economic activity in Poland.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Nevertheless, it cannot be ruled out that the subsidiary held for the purposes of conducting economic activity by the parent company established in South Korea may constitute a fixed establishment of that parent company in a Member State of the European Union, within the meaning of Article 44 of Directive 2006/112, read in the light of Article 11(1) of Implementing Regulation No 282/2011. Consequently, the reservation mentioned in the preceding paragraph has no effect on the interpretation of the concept of ‘fixed establishment’ within the meaning of Article 44 of Directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consideration of economic and commercial realities form a fundamental criterion for the application of the common system of VAT (see, to that effect, judgment of 2 May 2019, Budimex, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A347&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑224/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A347" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:347</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A347" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and the case-law cited). Therefore, the treatment of an establishment as a fixed establishment cannot depend solely on the legal status of the entity concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, while it is possible that a subsidiary constitutes the fixed establishment of its parent company (see, to that effect, judgment of 20 February 1997, DFDS, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A77&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑260/95</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A77" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1997:77</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A77" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A77" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>), such treatment depends on the substantive conditions set out in Implementing Regulation No 282/2011, in particular in Article 11 thereof, which must be assessed in the light of economic and commercial realities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows from the foregoing considerations that the existence, in the territory of a Member State, of a fixed establishment of a company established in a non-Member State may not be inferred by a supplier of services from the mere fact that that company has a subsidiary there.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the issue of whether the supplier of services is required to examine contractual relationships between that company and its subsidiary to determine whether the former has a fixed establishment in that Member State, it must be observed that the referring court mentions Article 22 of the Implementing Regulation in the grounds of the order for reference.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In this respect, Article 22 provides for a series of criteria which the supplier of services must take into account in order to identify the customer’s fixed establishment. First of all, it must examine the nature and use of the service provided to the taxable person constituting the customer. Next, where that examination does not enable the fixed establishment of that customer of the service to be identified, it is necessary to pay particular attention to whether the contract, the order form and the VAT identification number attributed by the Member State of the customer and communicated to him by the customer identify the fixed establishment as the customer of the service and whether the fixed establishment is the entity paying for the service. Lastly, where the two abovementioned criteria do not enable the fixed establishment of the customer to be identified, the supplier may legitimately consider that the services have been supplied at the place where the customer has established his business.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, it must be held that, as maintained by the Polish and United Kingdom Governments and the European Commission, Article 22 of that regulation does not show that the supplier of the services concerned is required to examine contractual relationships between a company established in a non-Member State and its subsidiary established in a Member State in order to determine whether the former has a fixed establishment in that Member State. Specifically, the second subparagraph of Article 22(1) concerns the contract for the supply of services between the supplier and the taxable person constituting the customer of the services and not the contractual relationships between that customer and an entity which could, depending on the case, be identified as its fixed establishment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Moreover, as the Advocate General observed in points 73 and 74 of her Opinion, obligations which are the responsibility of the tax authorities may not be imposed on the service supplier, by asking it to inquire into contractual relationships between the parent company and the subsidiary even though that information is in principle inaccessible to it (see, to that effect, judgment of 3 October 2019, Altic, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A831&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑329/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A831" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:831</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A831" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Having regard to the foregoing considerations, the answer to the questions referred is that Article 44 of Directive 2006/112 and Article 11(1) and Article 22(1) of Implementing Regulation No 282/2011 must be interpreted as meaning that the existence, in the territory of a Member State, of a fixed establishment of a company established in a non-Member State may not be inferred by a supplier of services from the mere fact that that company has a subsidiary there, and that supplier is not required to inquire, for the purposes of such an assessment, into contractual relationships between the two entities.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="coj-normal">
+<span class="coj-bold">Article 44 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, as amended by Council Directive 2008/8/EC of 12 February 2008, and Article 11(1) and Article 22(1) of Council Implementing Regulation (EU) No 282/2011 of 15 March 2011 laying down implementing measures for Directive 2006/112, must be interpreted as meaning that the existence, in the territory of a Member State, of a fixed establishment of a company established in a non-Member State may not be inferred by a supplier of services from the mere fact that that company has a subsidiary there, and that supplier is not required to inquire, for the purposes of such an assessment, into contractual relationships between the two entities.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62018CJ0547_EN_01-E0001" id="t-ECR_62018CJ0547_EN_01-E0001">*1</a>
+</span>)	Language of the case: Polish.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

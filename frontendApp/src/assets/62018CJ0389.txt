@@ -1,0 +1,851 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Seventh Chamber)</p>
+<p class="sum-title-1">19 December 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0389_EN_01-E0001" id="c-ECR_62018CJ0389_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Common system of taxation applicable in the case of parent companies and subsidiaries of different Member States — Directive 90/435/EEC — Prevention of double taxation — First indent of Article 4(1) — Prohibition on taxing profits received — Inclusion of the dividend distributed by the subsidiary in the parent company’s tax base — Deduction of the dividend distributed from the parent company’s tax base and the indefinite carrying forward of the surplus to the following tax years — The order in which tax deductions on profits are to be applied — Loss of a tax advantage)</p>
+<p class="normal">In Case C‑389/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the tribunal de première instance francophone de Bruxelles (Court of First Instance (French-speaking), Brussels, Belgium), made by decision of 26 January 2018, received at the Court on 13 June 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Brussels Securities SA</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">État Belge</span>
+</p>
+<p class="normal">THE COURT (Seventh Chamber),</p>
+<p class="normal">composed of P.G. Xuereb, President of the Chamber, T. von Danwitz (Rapporteur) and A. Kumin, Judges,</p>
+<p class="normal">Advocate General: H. Saugmandsgaard Øe,</p>
+<p class="normal">Registrar: V. Giacobbo-Peyronnel, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearings on 4 April and 3 July 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Brussels Securities SA, by R. Forestini, avocat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Belgian Government, by C. Pochet, P. Cottin and J.-C. Halleux, acting as Agents, and G. Vercauteren, expert,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by W. Roels and N. Gossement, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 5 September 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 4(1) of Council Directive 90/435/EEC of 23 July 1990 on the common system of taxation applicable in the case of parent companies and subsidiaries of different Member States (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1990:225:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1990 L 225, p. 6</a>), as amended by Council Directive 2003/123/EC of 22 December 2003 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:007:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 L 7, p. 41</a>) (‘Directive 90/435’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Brussels Securities NV, and the Belgian State concerning the order in which the deductible income must be deducted from taxable profits.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">The third recital of Directive 90/435 states as follows:</p>
+<p class="normal">‘whereas the existing tax provisions which govern the relations between parent companies and subsidiaries of different Member States vary appreciably from one Member State to another and are generally less advantageous than those applicable to parent companies and subsidiaries of the same Member State; whereas cooperation between companies of different Member States is thereby disadvantaged in comparison with cooperation between companies of the same Member State; whereas it is necessary to eliminate this disadvantage by the introduction of a common system in order to facilitate the grouping together of companies’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 4 of that directive reads as follows:</p>
+<p class="normal">‘1.   Where a parent company or its permanent establishment, by virtue of the association of the parent company with its subsidiary, receives distributed profits, the State of the parent company and the State of its permanent establishment shall, except when the subsidiary is liquidated, either:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">refrain from taxing such profits, or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">tax such profits while authorising the parent company and the permanent establishment to deduct from the amount of tax due that fraction of the corporation tax related to those profits and paid by the subsidiary and any lower-tier subsidiary, subject to the condition that at each tier a company and its lower-tier subsidiary meet the requirements provided for in Articles 2 and 3, up to the limit of the amount of the corresponding tax due.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">2.   However, each Member State shall retain the option of providing that any charges relating to the holding and any losses resulting from the distribution of the profits of the subsidiary may not be deducted from the taxable profits of the parent company. Where the management costs relating to the holding in such a case are fixed as a flat rate, the fixed amount may not exceed 5% of the profits distributed by the subsidiary.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Directive 90/435 was repealed by Council Directive 2011/96/EU of 30 November 2011 on the common system of taxation applicable in the case of parent companies and subsidiaries of different Member States (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:345:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2011 L 345, p. 8</a>), which entered into force on 18 January 2012. Nevertheless, given the date of the facts of the dispute in the main proceedings, Directive 90/435 applies <span class="italic">ratione temporis</span>.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Belgian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 202 of the 1992 Income Tax Code, in the version in force during the 2011 tax year (‘the ITC 1992’), provides, with regard to the system of definitively taxed income (‘DTI’), as follows:</p>
+<p class="normal">‘1.   There shall also be deducted from the profits for the tax period, to the extent to which they are included:</p>
+<p class="normal">(1) dividends, with the exception of income which is received on the transfer to a company of its own listed or unlisted shares or during the complete or partial distribution of the assets of a company;</p>
+<p class="normal">…</p>
+<p class="normal">2.   Income referred to in paragraph 1(1) and 1(2), except to the extent that a surplus results from the application of the third subparagraph of Article 211(2) or provisions having analogous effect in another Member State of the European Union, shall be deductible only to the extent that:</p>
+<p class="normal">(1) at the date of declaration or payment of that income, the recipient company has a holding in the capital of the company making the distribution of not less than 10[%] or of a value of at least EUR 2500000.</p>
+<p class="normal">(2) such income relates to listed or unlisted shares in the form of financial fixed assets and which are or have been owned outright for an interrupted period of at least 1 year.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 204(1) of the ITC 1992 states as follows:</p>
+<p class="normal">‘The income deductible under paragraph 1(1), (3) and (4) of Article 202 shall be deemed to be found in the profits for the tax period up to 95% of the amount collected or received, which may be increased by real or notional tax on immoveable property or, with regard to the income mentioned in paragraph 1(4) and (5) of Article 202, decreased by the interest credited to the seller in cases where the securities were acquired during the tax period.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 205(2) and (3) of the ITC 1992 is worded as follows:</p>
+<p class="normal">‘2.   The deduction provided for under Article 202 shall be limited to the amount of profit remaining in the relevant tax period after the application of Article 199, less:</p>
+<p class="normal">…</p>
+<p class="normal">The expenses referred to in subparagraph 1 shall not be deducted from the income referred to in paragraph 1(1) and (3) of Article 202 which has been allocated or attributed by a subsidiary established in a Member State of the European Union.</p>
+<p class="normal">For the purposes of the preceding paragraph, “subsidiary” is to be understood in accordance with the definition in Directive [90/435].</p>
+<p class="normal">3.   Income, to the extent of 95% of the total amount, referred to in paragraph 1(1) and (3) of Article 202 which has been allocated or attributed by a subsidiary referred to in paragraph 2, subparagraph 3, and established in a Member State of the European Union may, in so far as it has not been possible to deduct it, be carried forward to subsequent tax years.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">The first subparagraph of Article 205b(1) of the ITC 1992 provides that, in order to determine the deduction for risk capital (‘DRC’) in respect of a tax period, the risk capital to be taken into account corresponds, subject to the provisions of Article 205b(2) to (7), to the amount of the company’s equity capital at the end of the previous tax period, determined in accordance with accounting legislation and the annual accounts as shown on the balance sheet. The second subparagraph of Article 205b(1) of the ITC 1992 provides that the risk capital determined under the first subparagraph of that article is to be reduced by the net tax value at the end of the previous tax period of the company’s own listed or unlisted shares and financial fixed assets consisting of holdings and other shares, as well as by the net tax value at the end of the previous tax period of shares or units issued by investment companies, any income from which may be deducted from profits pursuant to Articles 202 and 203 of the ITC 1992.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 205b(2) to (7) of the ITC 1992 sets out the situations in which the equity capital must be adjusted in order to provide a basis for calculation for the purposes of determining the amount of the deduction for risk capital.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Article 205d of the ITC 1992 provides as follows:</p>
+<p class="normal">‘Where there are no profits for a tax period in respect of which the [DRC] may be deducted, or where the profits are insufficient, the relief not granted for that tax period shall be carried over successively to the profits of the following seven tax periods.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Article 206(1) of the ITC 1992, relating to the deduction of carried-forward losses, provides that carried-forward business losses are to be successively deducted from the business income for each of the following tax periods.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with Article 207 of the ITC 1992, the King is to determine the manner in which the deductions provided for in Articles 199 to 206 of that code are to be made.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Article 77 of the Royal Decree of 27 August 1993 implementing the ITC 1992 (<span class="italic">Moniteur Belge</span> of 13 September 1993), in the version applicable to the case in the main proceedings, (‘the RD/ITC 1992’) provides as follows:</p>
+<p class="normal">‘The amounts referred to in Articles 202 to 205 of the [ITC] 1992 which are deductible as definitively taxed income or as exempt income from moveable property shall be deducted to the extent of the profits remaining after application of Article 76; that deduction shall be made having regard to the origin of the profits and, as a matter of priority, from the profits which contain those amounts.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Article 77/1 of the RD/ITC 1992 states as follows:</p>
+<p class="normal">‘The deduction for patent income referred to in Articles 205/1 to 205/4 of the [ITC] 1992 shall be deducted to the extent of the profits remaining after application of Article 77.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Article 77a of the RD/ITC 1992 reads as follows:</p>
+<p class="normal">‘The [DRC] referred to in Articles 205a to 205f of the [ITC] 1992 shall be deducted to the extent of the profits remaining after application of Article 77/1.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 78 of the RD/ITC 1992 provides as follows:</p>
+<p class="normal">‘The business losses incurred during previous tax periods referred to in Article 206 of the [ITC] 1992 shall be deducted from the profits determined in accordance with Article 74 to 77a, in so far as it has previously not been possible for those losses, which shall be calculated in accordance with the legislation applicable to the tax periods to which they relate, to be deducted or those losses have not previously been covered by profits exempted under a convention or were not previously distributed among the shareholders.</p>
+<p class="normal">That deduction shall be made in accordance with the rules laid down in the second paragraph of Article 75, it being accepted that those losses incurred in countries in which the profits are exempted under a convention may be deducted only in so far as they exceed the profits exempted under a convention.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Article 79 of the ITC 1992 is worded as follows:</p>
+<p class="normal">‘The investment deduction referred to in Articles 68 to 77 and 201 of the [ITC] 1992 shall then be deducted from the amount of Belgian profits remaining after the application of Article 78.’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Brussels Securities, a company established in Belgium, is subject to corporation tax in that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">In its tax return for the 2011 financial year, Brussels Securities stated that it had determined its tax base by deducting, first, the DRC and, second, the DTI. It also claimed the right to carry forward deductions to the 2012 tax year in respect of DTI in an amount of EUR 6027 313.39, DRC in an amount of EUR 38787 618.70 and tax losses in an amount of EUR 4600 991.75.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">In a correction notice dated 21 May 2013, the tax authorities stated that they intended to review the amount of DRC which could be carried forward at the beginning and at end of the 2011 tax year on the basis of the order in which tax deductions are to be applied as set out in Articles 77 to 79 of the RD/ITC 1992. According to that order, first DTI must be deducted from the taxable profits, then the DRC, and finally the losses to be carried forward. Since Brussels Securities had not made the deductions in that order in respect of the tax years 2005 to 2011, the tax authorities considered that no amounts could be carried forward to the 2012 tax year in respect of DTI and that the amount of the DRC should be increased to EUR 44630 643.66. The losses to be carried forward were maintained at EUR 4600 991.75.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">On 23 October 2013, the tax authorities took a review decision, maintaining the position set out in the correction notice of 21 May 2013.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Since its objection to that decision was rejected, Brussels Securities brought an action before the referring court, the tribunal de première instance francophone de Bruxelles (Court of First Instance (French-speaking), Brussels, Belgium), seeking annulment of the correction notice of 21 May 2013 and of the decision of 23 October 2013, and a declaration that the amounts of DTI and surplus DTI, as well as the amounts of the DRC and surplus DRC on which Brussels Securities is entitled to rely, had been correctly stated in its tax return for the 2011 tax year.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">According to Brussels Securities, the order in which tax deductions are to be applied, as provided for in Articles 77 to 79 of the RD/ITC 1992, would mean that a company covered by the DTI system would lose the benefit of the tax advantage represented by the DRC, up to the amount of DTI that it may deduct. The national legislation therefore, allegedly, does not comply with Article 4 of Directive 90/435.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court queries whether, by reason of the order in which tax deductions are to be applied as set out in the RD/ITC 1992 and taking into account the right to the DRC and the right to deduct the outstanding amount of losses carried forward, the exemption system consisting, first, in including the dividend distributed by the subsidiary in the parent company’s tax base and, second, in deducting that dividend from that tax base up to 95% of its amount, in respect of DTI, leads to a higher tax burden on the parent company by comparison with an exemption system in which the dividends declared by the subsidiary are simply excluded from the profits of the tax year during which they were received, thereby reducing the taxable profits and increasing in the same amount, where relevant, the tax losses which may be carried forward.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">In that respect, that court states that if, during one of the following seven tax periods referred to in Article 205d of the ITC 1992, the parent company achieves a positive financial balance, the system of immediately excluding dividends declared by the subsidiary would result in the DRC being deducted as a priority over the outstanding amount of losses carried forward, increased by the amount of the exempt dividends, so that the outstanding amount of those losses to be carried forward to the following tax period would be higher than it would be under the DTI deduction system. Under that system, the outstanding amount of the DTI carried forward must be deducted as a priority over the outstanding amount of the deferred DRC. Therefore, according to that court, by reason of the order in which tax deductions are to be applied as set out in the national legislation at issue in the main proceedings, the deduction of DTI is likely to result in a heavier tax burden than would be the case in a scheme which immediately excluded dividends declared by the subsidiary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the tribunal de première instance francophone de Bruxelles (Court of First Instance (French-speaking), Brussels, Belgium) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="normal">‘Must Article 4 of Directive 90/435, combined with other sources of [EU] law, be interpreted as precluding that regulations of a national authority, such as the [ITC 1992] and the [RD/ITC 1992], in the versions applicable in respect of the tax year 2011,</p>
+<p class="normal">which opted for a system of exemption (refraining from taxing the distributed profits received by a parent company by virtue of its association with its subsidiary) under which, first, the dividend distributed by the subsidiary is included in the tax base of the parent company and, secondly, 95% of that dividend is deducted from that tax base as [DTI],</p>
+<p class="normal">by reason of the combined application, for the purpose of determining the basis for assessing the corporation tax of the parent company, of that Belgian system of deducting [DTI] and of (1) rules relating to another deduction constituting a tax advantage provided for by those regulations ([DRC]), (2) entitlement to deduct the outstanding amount of previous recoverable losses, (3) entitlement to carry forward to following tax years, where the relevant amount in respect of a tax year is higher than that of the taxable profits, imputation of the surplus [DTI], of the [DRC] and of the outstanding amount of the previous recoverable losses, and (4) the order in which deductions are to be applied, whereby, during those following tax years, deductions must be applied in the following order, until the taxable profits are used up: first, the [DTI], then the [DRC] carried forward (which may only be carried forward for the “following seven tax periods”), and then the outstanding amount of previous recoverable losses,</p>
+<p class="normal">lead to the reduction, in respect of part or all of the dividends received from the subsidiary, of the losses that the parent company would have been able to deduct if the dividends had been simply excluded from the profits for the tax year during which they were received (with the effect of reducing the taxable profits for that tax year and increasing, where relevant, the tax losses that may be carried forward) rather than being retained within those profits and subsequently being subject to rules governing exemption and carrying forward the amounts which are exempted where there are insufficient profits,</p>
+<p class="normal">that is to say, reduction of the outstanding amount of the parent company’s previous recoverable losses that may occur during tax years following a tax year in respect of which the [DTI], the [DRC] and the outstanding amount of the previous recoverable losses exceed the amount of the taxable profits?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Procedure before the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">A first hearing took place on 4 April 2019. Following the departure of a Member of the Court, namely the Judge-Rapporteur in the present case, his replacement in the Chamber which delivered judgment by another Judge and the appointment of a new Judge-Rapporteur, a second hearing was held on 3 July 2019. At both hearings the same parties and interested parties were represented.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">By its question, the referring court asks, in essence, whether Article 4(1) of Directive 90/435 must be interpreted as precluding legislation of a Member State which provides that dividends received by a parent company from its subsidiary must first be included in the tax base of the parent company, before 95% of the amount of the dividends is then deducted, and any surplus may be carried forward to subsequent tax years indefinitely, that deduction having priority over another tax deduction which may only be carried forward for a limited time.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">In that respect, it should be recalled that Article 4(1) of Directive 90/435 provides that, where a parent company or its permanent establishment, by virtue of the association of the parent company with its subsidiary, receives distributed profits, the State of the parent company and the State of its permanent establishment are, except when the subsidiary is liquidated, to either (i) refrain from taxing such profits, or (ii) tax such profits while authorising the parent company and the permanent establishment to deduct from the amount of tax due that fraction of the corporation tax related to those profits and paid by the subsidiary and any lower-tier subsidiary, subject to the condition that at each tier a company and its lower-tier subsidiary meet the requirements provided for in Articles 2 and 3 of that directive, up to the limit of the amount of the corresponding tax due.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Directive 90/435 therefore expressly leaves it open to Member States to choose between the exemption system and the imputation system, set out in the first and second indents respectively of Article 4(1) of that directive (see, to that effect, judgment of 12 February 2009, Cobelfret, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑138/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:82</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">According to the information contained in the request for a preliminary ruling, the Kingdom of Belgium has opted for the exemption system, set out in the first indent of Article 4(1) of Directive 90/435. Therefore, the question referred must be answered by reference to that provision alone.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">In that respect, the Court has held that the obligation on a Member State which has chosen the system set out in the first indent of Article 4(1) of Directive 90/435 to refrain from taxing the profits of the parent company which it receives by virtue of its association with its subsidiary is not subordinated to any condition and is expressly subject only to Articles 4(2) and (3) and 1(2) of that directive (judgment of 12 February 2009, Cobelfret, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑138/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:82</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, Member States may not make the benefit of the advantage derived from the first indent of Article 4(1)of Directive 90/435 subject to conditions other than those laid down in that directive (see, to that effect, judgment of 12 February 2009, Cobelfret, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑138/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:82</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, it is apparent from, in particular, the third recital of Directive 90/435 that that directive aims, by introducing a common system of taxation, to eliminate any disadvantage to cooperation between companies of different Member States as compared with cooperation between companies of the same Member State and thereby facilitate the grouping together of companies at EU level. That directive therefore seeks to ensure the neutrality, from the tax point of view, of the distribution of profits by a subsidiary established in one Member State to its parent company established in another Member State (judgments of 1 October 2009, Gaz de France — Berliner Investissement, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A600&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑247/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A600&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:600</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A600&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and the case-law cited, and of 8 March 2017, Wereldhave Belgium and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A180&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑448/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A180&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:180</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A180&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In order to ensure the neutrality, from the tax point of view, of the distribution of profits by a subsidiary established in one Member State to its parent company established in another Member State, Directive 90/435 aims to avoid, in particular by the rule laid down in the first indent of Article 4(1) in economic terms, double taxation of profits, in other words, to avoid taxation of distributed profits, first, in the hands of the subsidiary and, then, in the hands of the parent company (see, to that effect, judgments of 3 April 2008, Banque Fédérative du Crédit Mutuel, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A195&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑27/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A195&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:195</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A195&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point24" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A195&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A195&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>, and of 12 February 2009, Cobelfret, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑138/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:82</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point30" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, the Court has held that the first indent of Article 4(1) of Directive 90/435 prohibits Member States from taxing the parent company in respect of the profits distributed by its subsidiary, without drawing a distinction based on whether the chargeable event of the taxation of the parent company is the receipt of those profits or their redistribution (see, to that effect, judgment of 17 May 2017, X, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A379&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑68/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A379&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:379</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A379&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point79" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">79</a>) and that that prohibition also applies to national legislation which, although it does not tax the dividends received by the parent company in themselves, may have the effect that the parent company is subject indirectly to taxation on those dividends (see, to that effect, judgment of 12 February 2009, Cobelfret, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑138/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:82</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point40" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">In fact, such legislation is compatible neither with the terms, nor with objectives and scheme of Directive 90/435, since it does not allow the objective of preventing economic double taxation, as set out in the rule established at the first indent of Article 4(1) of that directive, to be fully attained (see, to that effect, judgment of 12 February 2009, Cobelfret, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑138/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:82</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point41" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point45" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">In that respect, it should be noted that the Belgian DTI tax system, as was in force during the tax years 1992 to 1998, which was at issue in the case giving rise to the judgment of 12 February 2009, Cobelfret (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑138/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:82</a>), provided that dividends received by the parent company were added to its tax base and that, subsequently, an amount corresponding to 95% of those dividends was deducted from that base, but only to the extent that the parent company continued to have taxable profits, there being no possibility of carrying forward to subsequent tax years the part of the DTI which was not deducted. The Court held, in paragraphs 37 and 39 of that judgment, that, when the parent company did not make other taxable profits in the tax period concerned, such legislation had the effect of reducing the parent company’s losses up to the amount of the dividends received and, in so far as it allowed losses to be carried forward to subsequent tax years, was likely to increase the parent company’s tax base in subsequent tax years.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the request for a preliminary ruling that, following the judgment of 12 February 2009, Cobelfret (Case <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑138/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A82&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:82</a>), the DTI system was altered. In accordance with Article 205(3) of the ITC 1992, the part of the DTI that cannot be deducted in the relevant tax year due to insufficient profits may now be carried forward to subsequent tax years. In addition, the ability to carry forward is not limited in time. It is therefore apparent that the reduction in losses which may be carried forward, due to the inclusion of dividends in the parent company’s tax base, is now offset by an unlimited ability to carry forward DTI in the same amount.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">However, it is apparent from the information in the order for reference that, under the provisions of the ITC 1992, DTI carried forward must be deducted as a priority from the positive results achieved by the parent company in subsequent years, other deductible items, in particular the DRC and losses, being deductible only if, and to the extent that, that continues to be possible after the DTI has first been deducted. In particular, the parent company’s tax base is established by deducting from its profits, first DTI carried forward, then, to the extent that there remain taxable profits, DRC carried forward, if the time limit for its use has not expired, and finally, losses carried forward.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, the deduction as a priority of DTI may reduce or even extinguish, the tax base, which may have the effect of depriving the taxpayer, totally or partially, of another tax advantage.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Indeed, while, in accordance with the national legislation applicable to the dispute in the main proceedings, losses may be carried forward indefinitely, DRC may be carried forward only to the following seven tax years. In those circumstances, the order in which deductions must be applied, as described in paragraph 41 above, may result in the expiry of the right to use the deferred DRC, up to the amount of DTI that has been deducted as a priority from the parent company’s taxable profits.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">The DRC granted to a company subject to corporation tax in Belgium constitutes a tax advantage which has the effect of reducing the actual rate of corporation tax that such a company must pay in that Member State (judgment of 17 October 2019, Argenta Spaarbank, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A871&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑459/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A871&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:871</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A871&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">It is therefore apparent that the combination of the DTI scheme applicable to dividends received, the order of deductions set out in national legislation, and the time limit on the ability to use DRC can have the effect that receiving dividends is likely to result in the parent company losing another tax advantage provided for by national legislation, and, therefore, that company being taxed more heavily than would have been the case if it had not received dividends from its non-resident subsidiary or if, as the referring court states, the dividends had simply been excluded from the parent company’s tax base.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, contrary to the objective pursued by the first indent of Article 4(1) of Directive 90/435, the receipt of such dividends is not fiscally neutral for the parent company.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">The Belgian Government has argued before the Court that the effects on the parent company’s tax base, as described in paragraphs 42, 43 and 45 of the present judgment, are due solely to factors unrelated to the receipt of dividends which are not covered by Directive 90/435, such as the order in which tax deductions are to be applied or the time limit on the carrying forward of DRC, which are governed by national legislation alone.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">In that respect, it is admittedly true that, under the principle of Member States’ fiscal autonomy, in the absence of EU level harmonisation measures, it is for the Member States to determine both the order in which deductions may be applied to the tax base of a parent company and the time limits for carrying forward such advantages. However, that power must be exercised in compliance with EU law (see, to that effect, judgment of 14 March 2019, Jacob and Lennertz, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A205&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑174/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A205&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:205</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A205&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point30" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a> and the case-law cited, and order of 15 July 2019, Galeria Parque Nascente, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A619&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑438/18</a>, not published, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A619&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:619</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A619&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, as noted in paragraph 32 above, the Kingdom of Belgium opted, in transposing Directive 90/435, for the exemption scheme set out in the first indent of Article 4(1) of that directive and chose to implement that scheme by providing for dividends to be included in the parent company’s tax base and subsequently deducted from that base and for the possibility of carrying forward DTI to subsequent tax years, with a view to their being deducted as a priority. That choice necessarily implies an interaction between dividends and other elements of the tax base, such as the DRC. In those circumstances, the effects of that interaction must comply with Directive 90/435, irrespective of the fact that establishing the order in which tax deductions are to be applied and the time limit for carrying forward the DRC are solely a matter of national competence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, the argument put forward by the Belgian Government in its written observations that, first, the parent company is not systematically taxed on the dividends it receives from its subsidiary, but is taxed only where it has not been able to exercise its right to the DRC for seven consecutive years, in the absence of sufficient profits during that period, and, second, even if such taxation were to occur, it would not apply to the dividends in themselves, is of no relevance.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">As the Advocate General observed, in essence, in point 82 of his Opinion, although the harmful effects of national legislation such as that at issue in the main proceedings are likely to occur only in certain situations and not systematically, the fact remains that such legislation has effects which are incompatible with Directive 90/435.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Finally, the Belgian Government states that, where there are still profits at the stage at which the DRC may be deducted, it has already been possible to deduct the DTI from the parent company’s profits, so that the prior inclusion in its tax base of dividends distributed by its non-resident subsidiary has been fully offset for tax purposes by an amount equal to the DTI deducted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">However, that observation only seeks to establish that the dividends have not been taxed directly, in themselves. As pointed out in paragraphs 33 and 37 above, the first indent of Article 4(1) of Directive 90/435 precludes, subject only to what is permitted by Article 4(2) and (3), both direct taxation of the parent company in respect of profits distributed by its subsidiary and situations in which the parent company is indirectly taxed on dividends received from its subsidiary. As stated in paragraph 45 et seq. above, the receipt of dividends, in connection with the application of a tax regime such as that at issue in the main proceedings, may, in certain situations, result in the loss of a tax advantage, which in turn may result in higher taxation of the parent company than would be the case if such dividends had been excluded from its tax base. Since the parent company’s tax burden is likely to be affected, it must be concluded that the parent company is, as a result, indirectly taxed on the dividends received from its subsidiary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing, the answer to the question referred is that Article 4(1) of Directive 90/435 must be interpreted as precluding legislation of a Member State which provides that dividends received by a parent company from its subsidiary must first be included in the tax base of the parent company before 95% of the amount of the dividends is then deducted, and any surplus may be carried forward to subsequent tax years indefinitely, that deduction having priority over another tax deduction which may only be carried forward for a limited time.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Seventh Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 4(1) of Directive 90/435/EEC of 23 July 1990 on the common system of taxation applicable in the case of parent companies and subsidiaries of different Member States, as amended by Council Directive 2003/123/EC of 22 December 2003 must be interpreted as precluding legislation of a Member State which provides that dividends received by a parent company from its subsidiary must first be included in the tax base of the parent company, before 95% of the amount of the dividends is then deducted, and any surplus may be carried forward to subsequent tax years indefinitely, that deduction having priority over another tax deduction which may only be carried forward for a limited time.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0389_EN_01-E0001" id="t-ECR_62018CJ0389_EN_01-E0001">*1</a>
+</span>)	Language of the case: French.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

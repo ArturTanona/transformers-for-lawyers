@@ -1,0 +1,824 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>ARRÊT DE LA COUR (deuxième chambre)</p>
+<p class="sum-title-1">14 mai 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0446_FR_01-E0001" id="c-ECR_62018CJ0446_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Système commun de taxe sur la valeur ajoutée (TVA) – Directive 2006/112/CE – Déduction de la TVA payée en amont – Excédent de TVA – Retenue de l’excédent à la suite de l’ouverture d’une procédure de contrôle fiscal – Demande de restitution de la partie de l’excédent se rapportant aux opérations non visées par cette procédure – Refus de l’administration fiscale »</p>
+<p class="normal">Dans l’affaire C‑446/18,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par le Nejvyšší správní soud (Cour administrative suprême, République tchèque), par décision du 31 mai 2018, parvenue à la Cour le 9 juillet 2018, dans la procédure</p>
+<p class="normal">
+<span class="bold">Agrobet CZ</span>
+<span class="bold">s. r. o.</span>
+</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">Finanční úřad pro Středočeský kraj,</span>
+</p>
+<p class="normal">LA COUR (deuxième chambre),</p>
+<p class="normal">composée de M. A. Arabadjiev (rapporteur), président de chambre, MM. P. G. Xuereb et T. von Danwitz, juges,</p>
+<p class="normal">avocat général : M<span class="super">me</span> J. Kokott,</p>
+<p class="normal">greffier : M. M. Longar, administrateur,</p>
+<p class="normal">vu la procédure écrite et à la suite de l’audience du 11 septembre 2019,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour Agrobet CZ s. r. o., par M<span class="super">es</span> M. Jelínek et O. Moravec, advokáti,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement tchèque, par MM. M. Smolek, J. Vláčil et O. Serdula, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement espagnol, par M. S. Jiménez García, en qualité d’agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M<span class="super">mes</span> L. Lozano Palacios et M. Salyková, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">ayant entendu l’avocate générale en ses conclusions à l’audience du 19 décembre 2019,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation des articles 179, 183 et 273 de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2006, L 347, p. 1</a>, ci-après la « directive TVA »), ainsi que sur le principe de neutralité de la taxe sur la valeur ajoutée (TVA).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant Agrobet CZ s. r. o. (ci-après « Agrobet ») au Finanční úřad pro Středočeský kraj (bureau fiscal de la région de Bohême centrale, République tchèque) au sujet de la retenue d’un excédent de TVA par ce dernier à la suite de l’ouverture d’une procédure de contrôle fiscal.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit de l’Union</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 1<span class="super">er</span>, paragraphe 2, deuxième alinéa, de la directive TVA dispose :</p>
+<p class="normal">« À chaque opération, la TVA, calculée sur le prix du bien ou du service au taux applicable à ce bien ou à ce service, est exigible déduction faite du montant de la taxe qui a grevé directement le coût des divers éléments constitutifs du prix. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 167 de cette directive prévoit :</p>
+<p class="normal">« Le droit à déduction prend naissance au moment où la taxe déductible devient exigible. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 168, sous a), de ladite directive est rédigé de la manière suivante :</p>
+<p class="normal">« Dans la mesure où les biens et les services sont utilisés pour les besoins de ses opérations taxées, l’assujetti a le droit, dans l’État membre dans lequel il effectue ces opérations, de déduire du montant de la taxe dont il est redevable les montants suivants :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">la TVA due ou acquittée dans cet État membre pour les biens qui lui sont ou lui seront livrés et pour les services qui lui sont ou lui seront fournis par un autre assujetti ;</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 179, premier alinéa, de la même directive énonce :</p>
+<p class="normal">« La déduction est opérée globalement par l’assujetti par imputation, sur le montant de la taxe due pour une période imposable, du montant de la TVA pour laquelle le droit à déduction a pris naissance et est exercé en vertu de l’article 178, au cours de la même période. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 183, premier alinéa, de la directive TVA est libellé comme suit :</p>
+<p class="normal">« Lorsque le montant des déductions dépasse celui de la TVA due pour une période imposable, les États membres peuvent soit faire reporter l’excédent sur la période suivante, soit procéder au remboursement selon les modalités qu’ils fixent. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 273, premier alinéa, de la directive TVA prévoit :</p>
+<p class="normal">« Les États membres peuvent prévoir d’autres obligations qu’ils jugeraient nécessaires pour assurer l’exacte perception de la TVA et pour éviter la fraude, sous réserve du respect de l’égalité de traitement des opérations intérieures et des opérations effectuées entre États membres par des assujettis, et à condition que ces obligations ne donnent pas lieu dans les échanges entre les États membres à des formalités liées au passage d’une frontière. »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit tchèque</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 105, paragraphe 1, du zákon č. 235/2004 Sb., o dani z přidané hodnoty (loi n<span class="super">o</span> 235/2004 relative à la taxe sur la valeur ajoutée), dans sa version applicable au litige au principal, dispose :</p>
+<p class="normal">« Si l’établissement de l’excédent de la taxe fait apparaître un trop-perçu remboursable supérieur à 100 [couronnes tchèques (CZK) (environ 3,94 euros)], il est remboursé d’office à l’assujetti dans un délai de 30 jours à dater de l’établissement de l’excédent. Cela ne s’applique pas si le trop-perçu remboursable est le résultat d’une modification de la taxe fixée à la suite d’un redressement. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 85, paragraphes 1, 3 et 4, du zákon č. 280/2009 Sb., daňový řád (loi n<span class="super">o</span> 280/2009 établissant le code de procédure fiscale), dans sa version applicable au litige au principal (ci-après le « code de procédure fiscale »), prévoit :</p>
+<p class="normal">« 1.   Le contrôle fiscal a pour objet les obligations fiscales, les déclarations de l’assujetti ou d’autres circonstances déterminantes pour l’établissement et la détermination exacte de la taxe afférente à une procédure fiscale.</p>
+<p class="normal">[...]</p>
+<p class="normal">3.   L’administration fiscale vérifie l’objet du contrôle fiscal dans la mesure déterminée. La portée du contrôle fiscal peut être étendue ou réduite en cours de procédure selon la procédure prévue pour son ouverture.</p>
+<p class="normal">4.   Le contrôle fiscal peut être effectué ensemble avec plusieurs procédures fiscales concernant un même assujetti. L’administration fiscale peut initier un contrôle fiscal également pour d’autres procédures fiscales en élargissant le contrôle fiscal en cours portant sur une autre procédure fiscale. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 89, paragraphe 4, du code de procédure fiscale énonce :</p>
+<p class="normal">« S’il ressort de la déclaration fiscale ordinaire introduite ou de la déclaration fiscale complémentaire que l’assujetti a droit à une déduction fiscale, l’administration fiscale, en cas de doute, invite ce dernier à dissiper les doutes dans un délai de 30 jours à dater du dépôt d’une telle déclaration, au plus tôt à dater du dernier jour du délai fixé pour le dépôt de la déclaration fiscale ordinaire ou de la déclaration fiscale complémentaire. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 90, paragraphes 2 et 3, de ce code est libellé comme suit :</p>
+<p class="normal">« 2.   Si les doutes n’ont pas été dissipés et que le montant de la taxe n’a pas été établi de manière suffisamment crédible, l’administration fiscale communique à l’assujetti le résultat de la procédure de clarification et de régularisation. L’assujetti peut, dans un délai de 15 jours à dater du jour où il a eu connaissance du résultat de la procédure de clarification et de régularisation, introduire une demande de poursuite de l’administration de la preuve accompagnée d’une offre d’autres moyens de preuve.</p>
+<p class="normal">3.   Si l’administration fiscale trouve des motifs pour la poursuite de l’administration de la preuve, elle initie un contrôle fiscal dans la mesure de ces motifs. Si l’administration fiscale ne trouve pas de motifs pour la poursuite de l’administration de la preuve, elle adopte une décision établissant la taxe dans un délai de 15 jours à dater du jour où l’assujetti a introduit une demande de poursuite de l’administration de la preuve. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 148 dudit code dispose :</p>
+<p class="normal">« 1.   L’impôt ne peut être fixé après l’extinction du délai prévu pour la fixation de l’impôt, qui est de trois ans. Le délai pour la fixation de l’impôt commence à courir le jour où s’est écoulé le délai pour le dépôt de la déclaration fiscale ordinaire, ou le jour où l’impôt est devenu exigible sans qu’il y ait eu dans le même temps une obligation de déposer une déclaration fiscale ordinaire.</p>
+<p class="normal">[...]</p>
+<p class="normal">3.   Si, avant l’expiration du délai pour la fixation de l’impôt, a été initié un contrôle fiscal, a été déposé une déclaration fiscale ordinaire ou a été initiée une invitation à déposer une déclaration fiscale ordinaire, le délai pour la fixation de l’impôt recommence à courir à nouveau à dater du jour où cet acte a été effectué.</p>
+<p class="normal">4.   Le délai pour la fixation de l’impôt cesse de courir à dater :</p>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">f)</p>
+</td>
+<td valign="top">
+<p class="normal">du jour de la demande de coopération internationale dans le cadre de la gestion de l’impôt jusqu’au jour de l’obtention de la réponse à cette demande, ou jusqu’au jour de l’envoi de la communication de la cessation de la coopération internationale dans le cadre de la gestion de l’impôt dans le cas d’espèce.</p>
+</td>
+</tr>
+</table>
+<p class="normal">5.   Le délai pour la fixation de l’impôt expire au plus tard 10 ans après qu’il a commencé à courir conformément au paragraphe 1.</p>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 254a du même code énonce :</p>
+<p class="normal">« 1.   Dans l’hypothèse où la procédure de clarification et de régularisation concernant une déclaration fiscale ordinaire ou une déclaration fiscale complémentaire, dont il ressort que l’assujetti a droit à une déduction fiscale, dure plus de cinq mois, l’assujetti a droit à un intérêt sur la déduction fiscale telle que fixée par l’administration fiscale.</p>
+<p class="normal">2.   L’assujetti a droit à des intérêts sur la déduction fiscale à dater du jour consécutif à l’expiration du délai de cinq mois qui court depuis le jour de l’ouverture de la procédure de clarification et de régularisation, qui dure plus de cinq mois, jusqu’au jour du remboursement de la déduction fiscale ou de son utilisation aux fins du paiement de l’arriéré, au plus tard toutefois avant l’expiration du délai pour son remboursement.</p>
+<p class="normal">3.   L’intérêt sur la déduction fiscale correspond au taux annuel de référence “repo” fixé par la banque nationale tchèque, augmenté d’un point de pourcentage, applicable pour le premier jour du semestre calendrier concerné.</p>
+<p class="normal">[...]</p>
+<p class="normal">6.   L’intérêt reconnu en application de cette disposition est appliqué pour le dédommagement reconnu d’un préjudice ou pour l’indemnisation reconnue au titre du préjudice moral causé à l’assujetti par une décision illégale ou une procédure administrative irrégulière de l’administration fiscale. »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et la question préjudicielle</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Au mois de février 2016, Agrobet a déposé deux déclarations de TVA pour les périodes d’imposition correspondant aux mois de décembre 2015 et de janvier 2016 en indiquant des excédents de TVA à hauteur respectivement de 2958167 CZK (environ 116462 euros) et de 1559241 CZK (environ 61386 euros). Ayant des doutes sérieux sur la régularité des opérations portant sur l’huile de colza réalisées par Agrobet au cours de ces deux périodes d’imposition, le bureau fiscal de la région de Bohême centrale a initié des procédures de contrôle fiscal circonscrites à ces seules opérations. Plus spécifiquement, dès lors que, selon les constatations effectuées par ce bureau fiscal, l’huile de colza originaire de Pologne avait été commercialisée en République tchèque sous une forme non modifiée avant d’être à nouveau livrée en Pologne par Agrobet, ledit bureau fiscal s’est interrogé sur le respect des conditions nécessaires pour qu’Agrobet puisse bénéficier de l’exonération de la TVA sur les livraisons d’huile de colza et puisse déduire la TVA payée en amont sur les achats y afférents. La juridiction de renvoi précise que le bureau fiscal de la région de Bohême centrale avait déjà initié de telles procédures pour les périodes d’imposition correspondant aux mois d’octobre et de novembre 2015.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Ayant introduit des réclamations contre l’ouverture de ces procédures, Agrobet a notamment fait valoir que, puisque les doutes de l’administration fiscale ne concernaient qu’une faible partie de l’excédent de TVA déclaré, la retenue de l’intégralité de cet excédent sur plusieurs périodes d’imposition successives représentait pour elle une charge disproportionnée au regard de l’objectif visant à lutter contre la fraude fiscale. Agrobet a donc réclamé le versement de la partie non litigieuse dudit excédent, c’est-à-dire la partie de celui-ci se rapportant aux opérations non visées par lesdites procédures.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">À la suite du rejet de ses réclamations par le bureau fiscal de la région de Bohême centrale, Agrobet a, au mois de mai 2016, demandé à l’Odvolací finanční ředitelství (direction d’appel des finances, République tchèque) d’examiner la manière dont ces réclamations avaient été traitées en réitérant notamment que la retenue pendant plusieurs mois successifs des excédents de TVA déclarés, dont une partie substantielle n’était pas visée par les doutes de l’administration fiscale, était disproportionnée. La direction d’appel des finances a considéré que cette demande n’était pas fondée au motif que le code de procédure fiscale ne prévoit pas la délivrance d’un avis d’imposition partiel et que la TVA se rapporte toujours à l’ensemble de la période d’imposition et non pas uniquement à une partie des prestations imposables.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Agrobet a alors demandé au Krajský soud v Praze (cour régionale de Prague, République tchèque) d’enjoindre à l’administration fiscale d’établir, pour la période d’imposition du mois d’octobre 2015, l’excédent de TVA à concurrence du montant qui n’était pas visé par les procédures de contrôle fiscal en cause. Par un arrêt du 4 octobre 2016, cette juridiction a fait droit à la demande d’Agrobet, en se référant notamment à l’article 183 de la directive TVA et à l’arrêt du 18 décembre 1997, Molenheide e.a. (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A623&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑286/94, C‑340/95, C‑401/95 et C‑47/96</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A623&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:1997:623</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">La direction d’appel des finances ayant refusé d’appliquer cet arrêt du 4 octobre 2016 aux périodes d’imposition des mois de décembre 2015 et de janvier 2016, Agrobet a de nouveau saisi le Krajský soud v Praze (cour régionale de Prague) pour obtenir une décision équivalente pour ces périodes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">L’arrêt du Krajský soud v Praze (cour régionale de Prague) du 4 octobre 2016 a entretemps été annulé par un arrêt de la juridiction de renvoi du 11 mai 2017 au motif que, puisque le code de procédure fiscale ne prévoit pas expressément la possibilité d’établir un avis d’imposition partiel, l’administration fiscale ne peut pas s’approprier un tel pouvoir en l’absence de fondement juridique. La juridiction de renvoi a précisé, en outre, qu’il ne ressort pas de l’arrêt du 18 décembre 1997, Molenheide e.a. (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A623&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑286/94, C‑340/95, C‑401/95 et C‑47/96</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A623&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:1997:623</a>), que le droit national doit permettre l’établissement partiel de l’excédent de TVA à concurrence de la somme non contestée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">En se référant audit arrêt du 11 mai 2017, le Krajský soud v Praze (cour régionale de Prague) a rejeté, par arrêt du 13 juin 2017, les recours d’Agrobet concernant les périodes d’imposition des mois de décembre 2015 et de janvier 2016.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Agrobet a introduit un recours en cassation devant la juridiction de renvoi contre ledit arrêt du 13 juin 2017, faisant valoir que, en ne permettant pas l’adoption d’un avis d’imposition partiel, le droit procédural national est incompatible avec la directive TVA et la jurisprudence de la Cour. Selon Agrobet, le droit de l’Union et, en particulier, le principe de proportionnalité ne permettent de reporter le remboursement de l’excédent de TVA à la suite de l’ouverture d’une procédure de contrôle fiscal que dans la mesure nécessaire pour atteindre l’objectif poursuivi par cette procédure. Dès lors qu’une partie de l’excédent de TVA n’est pas remise en cause par l’administration fiscale et ne fait pas l’objet de ladite procédure, il ne serait pas possible de conclure au caractère proportionné de la retenue de la partie non litigieuse de cet excédent.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Devant la juridiction de renvoi, le bureau fiscal de la région de Bohème centrale fait valoir que, puisque l’excédent de TVA se rapportait à l’ensemble de la période d’imposition, il ne pouvait naître qu’en un tout indivisible. Selon lui, il n’existe donc pas de partie non litigieuse de l’excédent de TVA qu’il serait possible d’établir partiellement et de rembourser à l’assujetti. En outre, ce bureau fiscal a considéré qu’il ne ressortait pas de l’arrêt du 18 décembre 1997, Molenheide e.a. (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A623&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑286/94, C‑340/95, C‑401/95 et C‑47/96</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A623&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:1997:623</a>), que les administrations fiscales des États membres sont tenues de procéder à de tels remboursements partiels.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi reconnaît que les mesures nationales adoptées en vertu de l’article 273 de la directive TVA pour lutter contre la fraude fiscale peuvent entraîner une limitation du droit à déduction de la TVA et amener ainsi les États membres, au titre de l’autonomie procédurale qui leur est reconnue à l’article 183 de cette directive, à retenir l’excédent de TVA dans le cadre d’une vérification fiscale. Tout en rappelant, en se référant notamment aux points 33 et 53 de l’arrêt du 12 mai 2011, Enel Maritsa Iztok 3 (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A298&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑107/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A298&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:298</a>), qu’une telle retenue ne doit pas aller au-delà de ce qui est nécessaire pour mener à bien cette vérification et que tout désavantage économique subi par l’assujetti doit être compensé par le versement d’intérêts de manière à garantir le respect du principe de neutralité fiscale, la juridiction de renvoi relève que, conformément au point 49 de l’arrêt du 28 juillet 2016, Astone (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A614&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑332/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A614&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:614</a>), les mesures destinées à lutter contre la fraude fiscale ne doivent pas être utilisées de manière telle qu’elles remettraient systématiquement en cause le droit à déduction de la TVA et, partant, la neutralité de la TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi considère, en substance, qu’une législation nationale qui, à l’instar de la législation tchèque, ne reconnaît pas, pendant une certaine période, une prestation imposable déclarée dont le bien-fondé ne fait pas de doute ou qui n’autorise même pas la preuve de son bien-fondé remet systématiquement en cause le droit à déduction de la TVA. Ainsi, selon cette juridiction, lorsque la régularité de certaines prestations ne fait l’objet d’aucun doute au sein d’une période d’imposition, l’administration fiscale ne devrait pas être autorisée à retenir l’excédent de TVA qui se rapporte à ces prestations. En effet, dès lors que les conditions pour le remboursement de la partie de l’excédent de TVA se rapportant auxdites prestations sont remplies, cette partie de l’excédent ne devrait pas être retenue plus longtemps et devrait faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, le Nejvyšší správní soud (Cour administrative suprême, République tchèque) a décidé de surseoir à statuer et de poser à la Cour la question préjudicielle suivante :</p>
+<p class="normal">« Une mesure d’un État membre qui subordonne l’établissement et le paiement d’une partie de la déduction de la TVA demandée à la clôture de procédures portant sur l’ensemble des prestations imposables au cours d’une période d’imposition déterminée est-elle compatible avec le droit de l’Union, notamment le principe de neutralité de la TVA ? »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur la question préjudicielle</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa question, la juridiction de renvoi demande, en substance, si les articles 179, 183 et 273 de la directive TVA, lus à la lumière du principe de neutralité fiscale, doivent être interprétés en ce sens qu’ils s’opposent à une réglementation nationale qui ne prévoit pas la possibilité pour l’administration fiscale d’accorder, avant l’issue d’une procédure de contrôle fiscal relative à une déclaration de TVA indiquant un excédent pour une période imposable déterminée, le remboursement de la partie de cet excédent se rapportant aux opérations qui ne sont pas visées par cette procédure au moment de son ouverture.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">À titre liminaire, il convient de relever que cette question se pose dans le contexte où, selon les indications fournies par la juridiction de renvoi, l’administration fiscale a déclaré circonscrire la procédure de contrôle fiscal en cause à certaines des opérations ayant contribué à l’établissement de la déclaration de TVA et où il apparaît ainsi, lors de l’ouverture de cette procédure, que la partie de l’excédent de TVA se rapportant aux opérations non visées par ladite procédure pourrait être considérée comme étant non litigieuse et, le cas échéant, faire l’objet d’un remboursement avant l’issue de celle-ci. Or, une telle possibilité n’est pas prévue en droit tchèque.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant, en premier lieu, de la perspective d’appréhender l’excédent de TVA apparu au cours d’une période imposable déterminée de manière à pouvoir identifier, le cas échéant, une partie non litigieuse de cet excédent, il convient de rappeler que, en vertu de l’article 179, paragraphe 1, de la directive TVA, la déduction est opérée globalement par l’assujetti par imputation, sur le montant de la taxe due pour une période imposable, du montant de la TVA pour laquelle le droit à déduction a pris naissance et est exercé au cours de la même période. L’article 183, paragraphe 1, de cette directive précise que, lorsque le montant des déductions dépasse celui de la TVA due pour une période imposable, il existe un excédent qui peut être soit reporté sur la période suivante, soit remboursé, le droit tchèque ayant opté pour un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Il ressort des dispositions combinées de l’article 179, paragraphe 1, et de l’article 183, paragraphe 1, de la directive TVA qu’un excédent de TVA résulte d’une opération arithmétique effectuée globalement par l’assujetti pour l’ensemble d’une période imposable, de sorte qu’un tel excédent de TVA ne peut apparaître, dans la déclaration de TVA, que sous la forme d’un résultat unique.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Ce caractère global du calcul de l’excédent de TVA n’implique cependant pas que celui-ci doit être considéré comme constituant, ainsi que l’ont soutenu en substance les gouvernements tchèque et espagnol ainsi que la Commission européenne dans leurs observations écrites et orales, un tout indissociable qu’il serait impossible de diviser en une partie litigieuse et une partie incontestée afférentes respectivement à des opérations précises visées ou non par une procédure de contrôle fiscal telle que celle en cause au principal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">En effet, d’une part, il ressort du libellé de l’article 179 de la directive TVA, ainsi que M<span class="super">me</span> l’avocate générale l’a relevé au point 34 de ses conclusions, que cet article impose uniquement, à son paragraphe 1, l’obligation pour l’assujetti de procéder globalement à la déduction de TVA. De même, le libellé de l’article 183, paragraphe 1, de ladite directive ne s’oppose pas, en soi, à un report ou à un remboursement partiels ou fractionnés de l’excédent de TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Cette interprétation est confortée par le contexte dans lequel les articles 179 et 183 de la directive TVA s’inscrivent. Ainsi que la Cour l’a en effet déjà constaté, tandis que les articles 178 à 183 de cette directive sont relatifs aux seules modalités d’exercice du droit à déduction, l’existence même de ce droit, lequel prend naissance au moment où la taxe déductible devient exigible, relève des articles 167 à 172 de ladite directive figurant dans le chapitre 1 du titre X de cette dernière, intitulé « Naissance et étendue du droit à déduction » (voir, en ce sens, arrêt du 28 juillet 2011, Commission/Hongrie, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A530&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑274/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A530&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:530</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A530&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point44" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">44</a> et jurisprudence citée). Il s’ensuit que la directive TVA opère une distinction nette entre les exigences de fond du droit à déduction de la TVA et les exigences formelles de ce droit (arrêt du 28 juillet 2016, Astone, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A614&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑332/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A614&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:614</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A614&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point47" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">47</a>). Ainsi, si l’assujetti est tenu de se conformer aux modalités d’exercice du droit à déduction de la TVA et, en particulier, de soumettre une déclaration de TVA unique pour l’ensemble d’une période imposable, il ne saurait être empêché par la suite, en l’absence de dispositions contraires dans cette directive, de faire valoir de manière partielle les droits et les prétentions matériels qu’il tire, pour chaque opération, dudit chapitre 1.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">D’autre part, il ressort de l’article 1<span class="super">er</span>, paragraphe 2, deuxième alinéa, et de l’article 168, sous a), de cette directive que l’assujetti est redevable de la TVA ou peut en demander la déduction au regard de chaque opération qu’il effectue. Ainsi que M<span class="super">me</span> l’avocate générale l’a relevé au point 36 de ses conclusions, le droit à la déduction de la TVA payée en amont s’entend ainsi en rapport avec une opération précise.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Par ailleurs, la Cour a précisé que, si les États membres disposent d’une liberté certaine dans l’établissement des modalités visées à l’article 183 de la directive TVA, ces modalités ne peuvent pas porter atteinte au principe de la neutralité fiscale en faisant supporter à l’assujetti, en tout ou en partie, le poids de cette taxe. En particulier, de telles modalités doivent permettre à l’assujetti de récupérer, dans des conditions adéquates, la totalité de la créance résultant de cet excédent de TVA, cela impliquant que le remboursement soit effectué, dans un délai raisonnable, par un paiement en liquidités ou d’une manière équivalente, et que, en tout état de cause, le mode de remboursement adopté ne doive faire courir aucun risque financier à l’assujetti (voir, en ce sens, arrêt du 10 juillet 2008, Sosnowska, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A395&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑25/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A395&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:395</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A395&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point17" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">17</a> et jurisprudence citée). Or, des modalités qui, dans une situation telle que celle en cause au principal, ne permettraient pas à un assujetti de pouvoir cibler une certaine partie de l’excédent de TVA, qu’il considère comme étant non litigieuse, reviendraient à empêcher cet assujetti de faire valoir l’existence d’une telle partie non litigieuse et de pouvoir prétendre au bénéfice du remboursement de cette partie en le contraignant ainsi à supporter, en partie, le poids de la taxe au mépris du principe de neutralité fiscale.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit que les articles 179 et 183 de la directive TVA, lus à la lumière du principe de neutralité fiscale, ne sauraient être interprétés en ce sens qu’ils excluraient, par principe, la possibilité d’identifier, pour une période imposable, une partie incontestée de l’excédent de TVA indiqué sur une déclaration de TVA susceptible de donner lieu à un report ou à un remboursement partiels de cet excédent.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant, en second lieu, de la question de savoir dans quelles conditions il peut être considéré que la partie d’un excédent de TVA n’est effectivement pas litigieuse dans le cadre d’une procédure de contrôle fiscal circonscrite par l’administration fiscale, en vertu de son droit national, à certaines opérations d’une période imposable, il convient de relever que, dès lors que l’excédent de TVA résulte de l’opération arithmétique rappelée aux points 30 et 31 du présent arrêt, il n’est possible de parler d’une partie non litigieuse de cet excédent que si le montant de la taxe due et le montant de la taxe déductible afférents à ces opérations sont eux-mêmes non litigieux.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Or, si, lors de l’ouverture d’une procédure de contrôle fiscal ou au cours de celle-ci, l’administration fiscale n’est pas en mesure d’exclure que, à l’issue de cette procédure, les montants de la taxe due et de la taxe déductible correspondant aux opérations non visées par ladite procédure soient susceptibles de varier par rapport aux montants déclarés par l’assujetti, il ne saurait être considéré que la partie correspondante de l’excédent de TVA en cause n’est pas litigieuse. Encore faut-il que l’administration fiscale se soit assurée, lors de l’ouverture de la procédure de contrôle fiscal en cause ou au cours de celle-ci, que les éléments ayant contribué au calcul de ladite partie ne pourront plus être remis en cause avant l’issue de cette procédure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit que, pour qu’une partie de l’excédent de TVA puisse être considérée comme étant non litigieuse, il ne suffit pas que l’assujetti affirme unilatéralement qu’il existe une partie incontestée de cet excédent ni qu’il semble exister une telle partie du seul fait que, lors de l’ouverture de la procédure de contrôle en cause, l’administration fiscale a circonscrit cette procédure à certaines des opérations de l’assujetti. Au contraire, il est nécessaire que l’administration fiscale s’assure, d’une part, que les éventuelles irrégularités qu’elle soupçonne ne pourront pas, si elles sont avérées, avoir de répercussions sur les montants de la TVA due et de la TVA déductible correspondant aux opérations non visées par ladite procédure et, partant, sur le montant de l’excédent de TVA qui semble incontesté et, d’autre part, qu’elle ne sera pas amenée à élargir la portée de cette même procédure pour y inclure tout ou partie des opérations originellement non contrôlées. De tels éléments doivent ressortir de manière claire, précise et non équivoque de l’ensemble des pièces de la procédure de contrôle fiscal et des circonstances pertinentes de l’espèce.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ce cadre, il convient de rappeler, d’une part, que le délai pour effectuer le remboursement de l’excédent de TVA peut, en principe, être prolongé afin d’effectuer une vérification fiscale sans qu’un tel délai prolongé doive être considéré comme déraisonnable pour autant que la prolongation n’aille pas au-delà de ce qui est nécessaire pour mener à bien cette procédure de vérification (arrêt du 12 mai 2011, Enel Maritsa Iztok 3, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A298&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑107/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A298&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:298</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A298&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point53" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">53</a> et jurisprudence citée) et, d’autre part, que, lorsque le remboursement à l’assujetti d’un tel excédent intervient au-delà d’un délai raisonnable, le principe de neutralité du système fiscal de la TVA exige que les pertes financières ainsi générées, au préjudice de l’assujetti, par l’indisponibilité des sommes d’argent en cause soient compensées par le paiement d’intérêts de retard (arrêt du 28 février 2018, Nidera, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑387/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:121</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">En outre, étant donné que l’objectif de lutte contre la fraude, l’évasion fiscale et les abus éventuels est reconnu et encouragé par la directive TVA et, notamment, par l’article 273 de celle-ci, et que les justiciables ne sauraient frauduleusement ou abusivement se prévaloir des normes du droit de l’Union, il appartient aux autorités et aux juridictions nationales de refuser le bénéfice du droit à déduction s’il est établi, au vu d’éléments objectifs, que ce droit est invoqué frauduleusement ou abusivement (voir, en ce sens, arrêts du 28 juillet 2016, Astone, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A614&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑332/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A614&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:614</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A614&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>, ainsi que du 16 octobre 2019, Glencore Agriculture Hungary, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A861&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑189/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A861&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:861</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A861&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>). Ainsi, dans le cadre de procédures de contrôle fiscal, les autorités fiscales doivent, dans le but ultime d’établir correctement le montant de la taxe, non seulement dissiper les doutes qu’elles peuvent avoir à l’égard de la régularité de certaines opérations effectuées par l’assujetti, mais également s’assurer que les irrégularités éventuelles qu’elles seront amenées à détecter ne sont pas d’une ampleur plus grande que ce qu’elles soupçonnent.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Il convient également de relever que, ainsi que la juridiction de renvoi l’indique dans le cadre de son argumentation exposée au point 25 du présent arrêt, la réglementation tchèque en cause au principal n’autorise même pas la possibilité pour un assujetti d’apporter la preuve du bien-fondé de ses allégations relatives à l’existence d’une partie non litigieuse de l’excédent de TVA, en méconnaissance des exigences ressortant du principe général de bonne administration.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il y a lieu, d’une part, de rappeler que, dès lors qu’un État membre met en œuvre le droit de l’Union, les exigences découlant du droit à une bonne administration, lequel reflète un principe général du droit de l’Union, et, notamment, le droit de toute personne de voir ses affaires traitées impartialement et dans un délai raisonnable, trouvent à s’appliquer dans le cadre d’une procédure de contrôle fiscal (voir, par analogie, arrêt du 8 mai 2014, N., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A302&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑604/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A302&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:302</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A302&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point49" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">49</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A302&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">D’autre part, il importe de relever que ce principe de bonne administration exige d’une autorité administrative telle l’administration fiscale en cause au principal de procéder, dans le cadre des obligations de vérification qui lui incombent, à un examen diligent et impartial de tous les aspects pertinents de sorte à s’assurer qu’elle dispose, lors de l’adoption de sa décision, des éléments les plus complets et fiables possibles pour ce faire (voir, en ce sens, arrêt du 2 septembre 2010, Commission/Scott, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A480&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑290/07 P</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A480&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:480</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A480&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point90" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">90</a> et jurisprudence citée). Par ailleurs, cette obligation de diligence, qui a comme corollaire le droit conféré à toute personne de voir ses affaires traitées impartialement, équitablement et dans un délai raisonnable par les autorités administratives, requiert, en substance, que celles-ci examinent, avec soin et impartialité, tous les éléments pertinents du cas d’espèce, y compris et surtout ceux relatifs aux allégations exprimées par un assujetti tel qu’Agrobet (voir, par analogie, arrêt du 22 octobre 1991, Nölle, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1991%3A402&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑16/90</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1991%3A402&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:1991:402</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1991%3A402&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point30" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">30</a> à <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1991%3A402&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point35" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Cette jurisprudence s’applique également dans le cas où l’assujetti affirme que les soupçons que l’autorité fiscale entretient à l’égard de la régularité d’une partie des opérations ayant contribué à l’établissement de la déclaration de TVA en cause ne peuvent pas avoir de répercussions sur les opérations non visées par la procédure de contrôle fiscal en cause ni sur une partie de l’excédent de TVA indiqué dans cette déclaration et qu’il existe ainsi une partie non litigieuse de cet excédent. En effet, il peut aller de l’intérêt légitime de l’assujetti de chercher à obtenir une décision de l’administration fiscale confirmant que ladite procédure restera circonscrite à certaines opérations seulement, qui plus est dans le cas où ces opérations ne concernent qu’une faible partie de l’activité économique de l’assujetti.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il convient de souligner qu’une réglementation nationale qui, dans le cadre des mesures adoptées par un État membre au titre de l’article 273 de la directive TVA, n’autoriserait pas un assujetti à apporter de tels éléments de preuve ni l’administration fiscale à prendre une décision à cet égard irait à l’encontre du principe de bonne administration et ne serait par conséquent pas compatible avec la directive TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">Par ailleurs, il convient de préciser que la possibilité pour l’assujetti de faire valoir l’existence d’une partie non litigieuse de l’excédent de TVA pour une période imposable de manière à en obtenir le remboursement avant l’issue de la procédure de contrôle fiscal n’implique pas automatiquement l’obligation pour l’administration fiscale de rembourser cette partie de manière anticipée, y compris lorsqu’elle reconnaît le caractère non litigieux de ladite partie. En effet, il ressort de l’article 183 de la directive TVA que, indépendamment des modalités qu’ils fixent, les États membres ne sont tenus de rembourser ou de reporter l’excédent de TVA que lorsque le montant des déductions dépasse celui de la TVA due pour la période imposable concernée. Ainsi, l’obligation de remboursement ou de report qui incombe aux États membres en vertu de cette disposition est conditionnée par l’existence d’un excédent de TVA relatif à l’ensemble de la période imposable en cause.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il y a lieu de considérer que, dans le cas où un assujetti invoque l’existence d’une partie non litigieuse de l’excédent de TVA dans le cadre d’une procédure de contrôle fiscal, l’administration fiscale n’est tenue de rembourser ou de reporter que la partie de l’excédent de TVA qu’elle est en mesure, compte tenu des doutes soulevés par elle à l’occasion de cette procédure et au regard des circonstances pertinentes de l’espèce, d’identifier de manière claire, précise et non équivoque, indépendamment de l’issue de ladite procédure, au regard de l’ensemble de la période imposable faisant l’objet de la déclaration de TVA initiale. Une telle obligation de remboursement ou de report, du fait qu’elle se rapporte à une période imposable déterminée, doit ainsi exister non pas au regard des seuls montants de la taxe due et de la taxe déductible correspondant aux opérations non visées par la procédure de contrôle fiscal en cause, identifiés comme étant non litigieux par l’administration fiscale, mais au regard de la partie de l’excédent de TVA qui subsistera indépendamment du sort de cette procédure et qui, seule, peut être regardée, in fine, comme étant non litigieuse. À cet égard, il y a lieu d’observer que cette partie non litigieuse de l’excédent de TVA peut, le cas échéant, être inférieure à la partie de l’excédent réclamée par l’assujetti et se rapportant auxdits montants, reconnus comme étant non litigieux par l’administration fiscale.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, il appartient à la juridiction de renvoi de vérifier si, au regard des éléments de preuve éventuellement fournis par Agrobet, l’administration fiscale a identifié ou aurait dû identifier de manière claire, précise et non équivoque, à un quelconque stade de la procédure de contrôle fiscal en cause au principal, l’existence d’une partie non litigieuse de l’excédent de TVA et si, en particulier, elle a déterminé ou aurait dû déterminer que les montants de la taxe due et de la taxe déductible correspondant aux opérations non visées par cette procédure n’étaient plus susceptibles de varier, avant l’issue de celle-ci, par rapport aux montants déclarés par l’assujetti. Il lui appartient en outre de vérifier si l’administration fiscale a été ou aurait dû être en mesure, compte tenu des doutes soulevés par elle à l’occasion de ladite procédure et au regard de l’ensemble des pièces de celle-ci ainsi que des circonstances pertinentes de l’espèce, de déterminer de la même manière qu’un excédent de TVA, dont le montant peut être inférieur à celui se rapportant aux opérations non visées par le contrôle, subsistera quelle que soit l’issue de cette même procédure. Une telle vérification devrait, en particulier, tenir compte d’éventuelles sanctions que l’assujetti pourrait être amené à encourir dans l’hypothèse d’un remboursement partiel ou provisoire de la partie de l’excédent de TVA réclamée en cas de succès du contrôle fiscal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Si l’administration fiscale n’était pas en mesure de procéder à ces constatations, il ne saurait lui être reproché d’avoir refusé l’établissement d’un avis d’imposition partiel avant l’issue de la procédure de contrôle fiscal en cause au principal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard aux considérations qui précèdent, il convient de répondre à la question posée que les articles 179, 183 et 273 de la directive TVA, lus à la lumière du principe de neutralité fiscale, doivent être interprétés en ce sens qu’ils ne s’opposent pas à une réglementation nationale qui ne prévoit pas la possibilité pour l’administration fiscale d’accorder, avant l’issue d’une procédure de contrôle fiscal relative à une déclaration de TVA indiquant un excédent pour une période imposable déterminée, le remboursement de la partie de cet excédent se rapportant aux opérations qui ne sont pas visées par cette procédure au moment de son ouverture, pour autant qu’il ne soit pas possible de déterminer de manière claire, précise et non équivoque qu’un excédent de TVA, dont le montant peut être éventuellement inférieur à celui se rapportant aux opérations non visées par ladite procédure, subsistera quelle que soit l’issue de celle-ci, ce qu’il appartient à la juridiction de renvoi de vérifier.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (deuxième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Les articles 179, 183 et 273 de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée, lus à la lumière du principe de neutralité fiscale, doivent être interprétés en ce sens qu’ils ne s’opposent pas à une réglementation nationale qui ne prévoit pas la possibilité pour l’administration fiscale d’accorder, avant l’issue d’une procédure de contrôle fiscal relative à une déclaration de taxe sur la valeur ajoutée (TVA) indiquant un excédent pour une période imposable déterminée, le remboursement de la partie de cet excédent se rapportant aux opérations qui ne sont pas visées par cette procédure au moment de son ouverture, pour autant qu’il ne soit pas possible de déterminer de manière claire, précise et non équivoque qu’un excédent de TVA, dont le montant peut être éventuellement inférieur à celui se rapportant aux opérations non visées par ladite procédure, subsistera quelle que soit l’issue de celle-ci, ce qu’il appartient à la juridiction de renvoi de vérifier.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0446_FR_01-E0001" id="t-ECR_62018CJ0446_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : le tchèque.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

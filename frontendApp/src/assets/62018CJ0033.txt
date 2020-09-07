@@ -1,0 +1,851 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Sixth Chamber)</p>
+<p class="sum-title-1">6 June 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0033_EN_01-E0001" id="c-ECR_62018CJ0033_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Coordination of social security systems — Migrant workers — Regulation (EC) No 883/2004 — Transitional provisions — Article 87(8) — Regulation (EEC) No 1408/71 — Article 14c(b) — Worker pursuing an activity as an employed person and an activity as a self-employed person in different Member States — Derogations from the principle that the legislation of a single Member State is to apply — Dual affiliation — Submission of a request to be subject to the legislation applicable pursuant to Regulation No 883/2004)</p>
+<p class="normal">In Case C‑33/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the cour du travail de Liège (Labour Court, Liège, Belgium), made by decision of 21 December 2017, received at the Court on 18 January 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">V</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Institut national d’assurances sociales pour travailleurs indépendants (Inasti),</span>
+</p>
+<p class="normal">
+<span class="bold">Securex Integrity ASBL,</span>
+</p>
+<p class="normal">THE COURT (Sixth Chamber),</p>
+<p class="normal">composed of C. Toader, President of the Chamber, A. Rosas (Rapporteur) and L. Bay Larsen, Judges,</p>
+<p class="normal">Advocate General: G. Pitruzzella,</p>
+<p class="normal">Registrar: V. Giacobbo‑Peyronnel, administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 5 December 2018,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Belgian Government, by M. Jacobs and L. Van den Broeck, acting as Agents, and by S. Rodrigues, avocat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by D. Martin and M. Van Hoof, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Mr V, by himself,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the hearing on 26 February 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 87(8) of Regulation (EC) No 883/2004 of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:166:TOC" hreflang="en" target="CourtTab">OJ 2004 L 166, p. 1</a>, and corrigendum <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:200:TOC" hreflang="en" target="CourtTab">OJ 2004 L 200, p. 1</a>), as amended by Regulation (EC) No 988/2009 of the European Parliament and of the Council of 16 September 2009 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:284:TOC" hreflang="en" target="CourtTab">OJ 2009 L 284, p. 43</a>) (‘Regulation No 883/2004’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Mr V and the Institut national d’assurances sociales pour travailleurs indépendants (National Social Security Institute for Self-Employed Persons, Belgium; ‘Inasti’) and Securex Integrity ASBL (‘Securex’) concerning whether Mr V is subject to Belgian social legislation.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal framework</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Regulation No 1408/71</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Council Regulation (EEC) No 1408/71 of 14 June 1971 on the application of social security schemes to employed persons, to self-employed person and to members of their families moving within the Community, as amended and updated by Council Regulation (EC) No 118/97 of 2 December 1996 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1997:028:TOC" hreflang="en" target="CourtTab">OJ 1997 L 28, p. 1</a>), as last amended by Regulation (EC) No 592/2008 of the European Parliament and of the Council of 17 June 2008 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:177:TOC" hreflang="en" target="CourtTab">OJ 2008 L 177, p. 1</a>) (‘Regulation No 1408/71’), provided, in Article 14c(b), which is in Title II:</p>
+<p class="normal">‘A person who is simultaneously employed in the territory of one Member State and self-employed in the territory of another Member State shall be subject:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">in the cases mentioned in Annex VII:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">to the legislation of the Member State in the territory of which he is engaged in paid employment, that legislation having been determined in accordance with the provisions of Article 14(2) or (3), where he pursues such an activity in the territory of two or more Member States</p>
+</td>
+</tr>
+</table>
+<p class="normal">and</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">to the legislation of the Member State in the territory of which he is self-employed, that legislation having been determined in accordance with Article 14a(2), (3) or (4), where he pursues such an activity in the territory of two or more Member States.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Annex VII to that regulation listed the cases in which a person was simultaneously subject to the legislation of two Member States, in accordance with Article 14c(b) of that regulation. Those cases included, in point 1 of that Annex, ‘where he is self-employed in Belgium and gainfully employed in any other Member State’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Regulation No 1408/71 was repealed and replaced by Regulation No 883/2004, in its original version, from 1 May 2010, the date on which the latter regulation became applicable.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Regulation No 883/2004</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Recital 4 of Regulation No 883/2004 states that it is necessary to respect the special characteristics of national social security legislation and to draw up only a system of coordination.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Recital 45 of that regulation states:</p>
+<p class="normal">‘Since the objective of the proposed action, namely the coordination measures to guarantee that the right to free movement of persons can be exercised effectively, cannot be sufficiently achieved by the Member States and can therefore, by reason of the scale and effects of that action, be better achieved at Community level, the Community may adopt measures in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality as set out in that article, this Regulation does not go beyond what is necessary, in order to achieve that objective.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 11(1) of that regulation provides:</p>
+<p class="normal">‘Persons to whom this Regulation applies shall be subject to the legislation of a single Member State only. Such legislation shall be determined in accordance with this Title.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Article 13(3) of the same regulation is worded as follows:</p>
+<p class="normal">‘A person who normally pursues an activity as an employed person and an activity as a self-employed person in different Member States shall be subject to the legislation of the Member State in which he/she pursues an activity as an employed person or, if he/she pursues such an activity in two or more Member States, to the legislation determined in accordance with paragraph 1.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 87(8) of Regulation No 883/2004 provides:</p>
+<p class="normal">‘If, as a result of this Regulation, a person is subject to the legislation of a Member State other than that determined in accordance with Title II of [Regulation No 1408/71], that legislation shall continue to apply while the relevant situation remains unchanged and in any case for no longer than 10 years from the date of application of this Regulation unless the person concerned requests that he/she be subject to the legislation applicable under this Regulation. The request shall be submitted within 3 months after the date of application of this Regulation to the competent institution of the Member State whose legislation is applicable under this Regulation if the person concerned is to be subject to the legislation of that Member State as of the date of application of this Regulation. If the request is made after the time limit indicated, the change of applicable legislation shall take place on the first day of the following month.’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Mr V worked as a lawyer registered with the Brussels Bar (Belgium) from September 1980 to 30 September 2007. During that period he was registered with Inasti and affiliated to the Belgian social insurance fund Securex.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">On 30 September 2007, Mr V requested that his name be removed from the Bar Council Register and, as a result, his affiliation to Securex was terminated. On the same day, the law firm for which he was working went into liquidation and Mr V was appointed as a liquidator.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Since 1 October 2007, Mr V has worked as legal director of a company established in Luxembourg and has been subject, as an employed person, to the Luxembourg Social Security scheme.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">On 11 June 2010, Inasti asked Mr V for detailed information concerning his duties as liquidator. By letter of 24 June 2010, Mr V replied that the emoluments which had been paid to him as liquidator by the law firm in liquidation did not mean that he should be treated as a self-employed person or subject to the social security scheme for self-employed persons.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">On 11 December 2013, Inasti served on Securex a regularisation decision relating to the income received by Mr V for the years from 2008 to 2010. On 23 December 2013, Securex informed Mr V that, in the light of information provided by Inasti, he was to be regarded as subject to the Belgian social security scheme, as a self-employed worker on a supplementary basis from 1 October 2007 and that, therefore, he had to pay Securex a balance of EUR 35 198.42 in respect of contributions and increases payable for the period from the fourth quarter of 2007 to the fourth quarter of 2013.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">On 12 March 2014, Mr V brought an action before the tribunal du travail de Liège (Labour Court, Liège, Belgium), challenging his supplementary liability to the Belgian social security scheme as a self-employed person and the request for payment of social security contributions made by Securex.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">After bringing that action, Mr V sent Securex a sworn statement concerning the fact that his position as liquidator was unpaid, attaching to that statement the minutes of the meeting of the cooperative members of the law firm concerned in the main proceedings, held on 24 February 2014, in which it was stated, inter alia, that he had performed his duties as liquidator free of charge since 1 January 2010 and that that situation was to continue until completion of the liquidation. By the same communication, Mr V requested that he no longer be subject to the Belgian social security scheme as from the date of that meeting.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">By judgment of 17 August 2016, the tribunal du travail de Liège (Labour Court, Liège), while recognising that the statutory interest calculated in respect of the social security contributions at issue in the main proceedings was not payable for the period from October 2011 to September 2013, dismissed Mr V’s action as unfounded.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">On 22 September 2016, Mr V lodged an appeal against that judgment before the referring court, requesting that court to vary the judgment and arguing, inter alia, that, under Regulation No 883/2004, Inasti and Securex could not claim payment of the contributions at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the order for reference that Mr V was no longer subject to the Belgian social security scheme as of 30 September 2007, the date on which he ceased to work as a lawyer. The referring court therefore raises the question whether Mr V, who, at the date of application of Regulation No 883/2004, was subject only to the Luxembourg Social Security system, was nevertheless required to submit an express request within 3 months, in accordance with Article 87(8) of Regulation No 883/2004, so as to be able to benefit from the application of that regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court adds that, according to the Practical Guide for determining the legislation applicable to workers in the European Union, the European Economic Area and in Switzerland, drawn up by the Administrative Commission for the coordination of social security systems, the first requirement for applying Article 87(8) of Regulation 883/2004 is that, as a result of that regulation, a person is subject to the legislation of a Member State other than ‘that already determined’ in accordance with Regulation 1408/71. According to that court, that guide seems to indicate that that provision is applicable on condition that, on 1 May 2010, which is the date on which Regulation No 1408/71 was repealed and Regulation No 883/2004 became applicable, the person concerned was in fact subject to the legislation of the competent Member State under Regulation No 1408/71. However, that requirement is not expressly mentioned in Article 87(8) of Regulation No 883/2004, which raises a problem of interpretation regarding that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the cour du travail de Liège (Higher Labour Court, Liège, Belgium) decided to stay the proceedings and refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Is Article 87(8) of [Regulation No 883/2004] to be interpreted as meaning that a person who, before 1 May 2010, began to pursue an activity as an employed person in [Luxembourg] and an activity as a self-employed person in Belgium must, in order to be subject to the legislation applicable pursuant to [Regulation No 883/2004], submit an express request to that effect, even if he was not subject to any obligation to pay contributions in Belgium before 1 May 2010 and was made subject to the Belgian legislation on the social security scheme for self-employed persons only retroactively, following the expiry of the 3-month period starting on 1 May 2010?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">If the first question is answered in the affirmative: does the request referred to in Article 87(8) of [Regulation No 883/2004], where it is submitted in the circumstances described above, entail the application of the legislation of the competent [Member] State pursuant to [Regulation No 883/2004] with retroactive effect from 1 May 2010?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Admissibility</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In its written observations, the Kingdom of Belgium contends that the analysis of the referring court is based on an incorrect factual premiss that Mr V was not subject to any tax liability in Belgium on 1 May 2010, the date of application of Regulation No 883/2004. According to that Member State, Mr V continued to be subject to the Belgian social security scheme without any interruption after 30 September 2007, on account of his activity as liquidator.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, the questions referred for a preliminary ruling raise a purely hypothetical problem, which is not necessary for resolving the dispute in the main proceedings and are therefore inadmissible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">It should be pointed out that, following a request for clarification made by the Court pursuant to Article 101 of its Rules of Procedure, the referring court stated that, at the date of application of Regulation No 883/2004, Mr V could be regarded as being subject to Belgian legislation as a self-employed worker by virtue of his activity as liquidator.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, in light of the clarification provided in its reply by the referring court, the Belgian Government stated, at the hearing before the Court, that it would not persist with its contention that the request for a preliminary ruling is inadmissible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In any event, it should be noted that, according to settled case-law, where questions submitted by national courts concern the interpretation of a provision of EU law, the Court of Justice is bound, in principle, to give a ruling unless it is obvious that the request for a preliminary ruling is in reality designed to induce the Court to give a ruling by means of a fictitious dispute, or to deliver advisory opinions on general or hypothetical questions, or that the interpretation of EU law requested bears no relation to the actual facts of the main action or its purpose, or that the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of 7 December 2010, VEBIC, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A739&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑439/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A739&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2010:739</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A739&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point42" hreflang="en" target="CourtTab" type="application/xhtml+xml">42</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, as pointed out by the Advocate General in point 25 of his Opinion, it is apparent from the file submitted to the Court that the question whether, in order to be able to be subject only to the legislation determined under Regulation No 883/2004, namely, in this case, Luxembourg legislation, after 1 May 2010, Mr V was required to submit a request pursuant to Article 87(8) of that regulation, and the question — if the reply to the previous question is in the affirmative — of what the consequences would be of submitting such a request several years after that date, have a definite impact on the outcome of the dispute in the main proceedings. The answer to those questions has a direct effect on the determination of the number of years for which the Belgian authorities are entitled to claim payment of contributions from Mr V.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the request for a preliminary ruling is admissible.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Substance</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the information provided by the referring court following the Court’s request for clarification, by its first question, the referring court must be regarded as asking whether Article 87(8) of Regulation No 883/2004 is to be interpreted as meaning that a person who, on the date of application of that regulation, was engaged in paid employment in one Member State and self-employed in another Member State, and therefore subject at the same time to the social security legislation applicable in those two Member States, in accordance with Title II of Regulation No 1408/71, must, in order to be subject to the legislation applicable pursuant to Regulation No 883/2004, submit an express request to that effect.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be noted that Article 87(8) of Regulation No 883/2004 provides, in respect of a person who, as a result of that regulation, is subject to the legislation of a Member State other than that to whose legislation he was subject under Title II of Regulation No 1408/71, for the continued application of the latter legislation for a certain period after the date of application of Regulation No 883/2004, provided that the relevant situation remains unchanged.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, that provision applies, first, on condition that the applicable legislation is covered by Title II of Regulation No 1408/71 and, second, on condition that the relevant situation remained unchanged (judgment of 11 April 2013, Jeltes and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A224&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑443/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A224&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:224</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A224&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point50" hreflang="en" target="CourtTab" type="application/xhtml+xml">50</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the first of those two conditions, it is not disputed that, on the date of application of Regulation No 883/2004, Mr V’s situation was covered by Article 14c(b) of Regulation No 1408/71, which is in Title II thereof. It should be noted, however, that Article 87(8) of Regulation No 883/2004 does not expressly govern situations such as those referred to in Article 14c(b) of Regulation No 1408/71, in which the social security legislation of two Member States is applicable at the same time and, as a result of Regulation No 883/2004, only one of those two remains applicable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">The question therefore arises as to whether that fact means that a person in Mr V’s situation is not covered by Article 87(8) of Regulation No 883/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">According to settled case-law, in interpreting a provision of EU law, it is necessary to consider not only the wording of that provision, but also its context and the objectives pursued by the rules of which it is part (judgment of 21 March 2018, Klein Schiphorst, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A200&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑551/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A200&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:200</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A200&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point34" hreflang="en" target="CourtTab" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">As regards its wording, Article 87(8) of Regulation No 883/2004, which is a transitional provision, covers the case of a person who, as a result of Regulation No 883/2004, ‘is subject to the legislation of a Member State other than that determined in accordance with Title II of [Regulation No 1408/71]’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">It would therefore appear to be clear from the wording of that provision, as the adjective ‘other’ refers to the word ‘State’, that the EU legislature is referring to a situation in which the application of the legislation of one Member State replaces the application of legislation of another Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, on a literal interpretation of Article 87(8) of Regulation No 883/2004, the first part of the first sentence appears to cover only situations in which, from the date of application of Regulation No 883/2004, a person is subject to the legislation of a Member State other than the State to whose legislation he was previously subject.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">However, a person who, under Regulation No 1408/71, was subject to the simultaneous application of the legislation of two Member States, pursuant to Regulation No 883/2004, continues to be subject to the legislation of one of those two Member States and his situation will be changed only because the legislation of the other Member State is no longer applicable to him.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the context of Article 87(8) of Regulation No 883/2004, it should be pointed out that, when Regulation No 1408/71 was extended to self-employed workers, Article 14c of that regulation was introduced in order to provide an exception to the rule that the legislation of a single Member State is to apply, in the case of a person who is at the same time self-employed in the territory of one Member State and engaged in paid employment in the territory of another Member State. In the cases mentioned in Annex VII to Regulation No 1408/71, such a person was then subject to the legislation of both those two Member States.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">As the Court has previously stated, according to recitals 4 and 45 of Regulation No 883/2004, the purpose of that regulation is to coordinate Member States’ social security systems in order to guarantee that the right to free movement of persons can be exercised effectively. That regulation modernised and simplified the rules contained in Regulation No 1408/71, while retaining the same objective as the latter (see, to that effect, judgment of 21 March 2018, Klein Schiphorst, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A200&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑551/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A200&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:200</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A200&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="en" target="CourtTab" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Article 11(1) of Regulation No 883/2004 reaffirms the principle of a single applicable law, under which the persons to whom that regulation applies are subject to the legislation of a single Member State. Therefore, that principle aims to avoid the complications which may arise from the simultaneous application of several national forms of legislation and to eliminate unequal treatment, which, for persons moving within the Union, would be the consequence of partial or total overlapping of the applicable legislation (see, to that effect, judgment of 9 March 2006, Piatkowski, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A167&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑493/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A167&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2006:167</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A167&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point21" hreflang="en" target="CourtTab" type="application/xhtml+xml">21</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with the principle that the legislation of only one Member State is to apply, Article 13(3) of Regulation No 883/2004 provides that a person who is normally employed in one Member State and self-employed in another Member State is subject to the legislation of the Member State in which he is employed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, it is clear, as the Advocate General pointed out in point 35 of his Opinion, that Regulation No 883/2004 abolished all the exceptions to the principle that the legislation of only one Member State is to apply, which existed under Regulation No 1408/71.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, an interpretation of Article 87(8) of Regulation No 883/2004 which takes account of the context of that provision cannot advocate the continuation of derogating rules providing for dual affiliation, which is inconsistent with the system established by that regulation, based on the principle that the legislation of only one Member State is to apply.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">With regard to the purpose of Article 87(8) of Regulation No 883/2004, as the Advocate General stated in point 36 of his Opinion, it is apparent from the Practical Guide for determining the legislation applicable to workers in the European Union, the European Economic Area and in Switzerland that it has been defined as being to avoid a large number of changes in the applicable legislation on the changeover to Regulation No 883/2004 and to enable the persons concerned to have a ‘smooth transition’ with regard to the legislation applicable if there is a discrepancy between the legislation applicable under Regulation No 1408/71 and the legislation applicable under the provisions of Regulation No 883/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">By that transitional provision, the EU legislature therefore intended to afford workers a necessary period of adaptation, in particular to enable them to acquaint themselves with the legislation of another Member State which would be new for them.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from paragraph 39 above that, in a situation in which a person was subject, under Regulation No 1408/71, at the same time to the legislation of two Member States, the application of Regulation No 883/2004 does not result in the application to a worker of the legislation of another Member State, which would therefore be new, but merely involves a change in his situation owing to the fact that the legislation of one of the two Member States to which he was hitherto subject is no longer applicable as far as he is concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing, and without it being necessary to examine the second question referred to in paragraph 32 above, the answer to the first question is that Article 87(8) of Regulation No 883/2004 is not applicable to a situation, such as that of Mr V, who, on the date of application of Regulation No 883/2004, was subject, pursuant to Article 14c(b) of Regulation No 1408/71, to the legislation of two Member States at the same time.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that, from 1 May 2010, in order to be subject solely to the legislation determined by Regulation No 883/2004, that is, in the present case, under Article 13(3) of that regulation, to Luxembourg legislation, a person in a situation such as that at issue in the main proceedings is not required to submit the request referred to in Article 87(8) of Regulation No 883/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, the answer to the first question is that Article 87(8) of Regulation No 883/2004 is to be interpreted as meaning that a person who, on the date of application of Regulation No 883/2004, was engaged in paid employment in one Member State and self-employed in another Member State and therefore subject at the same time to the social security legislation applicable in those two Member States, was not required, in order to be subject to the legislation applicable under Regulation No 883/2004, to submit an express request to that effect.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the answer given to the first question, there is no need to answer the second question.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Sixth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 87(8) of Regulation (EC) No 883/2004 of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems, as amended by Regulation (EC) No 988/2009 of the European Parliament and of the Council of 16 September 2009, is to be interpreted as meaning that a person who, on the date of application of Regulation No 883/2004, was engaged in paid employment in one Member State and self-employed in another Member State and therefore subject at the same time to the social security legislation applicable in those two Member States, was not required, in order to be subject to the legislation applicable under Regulation No 883/2004, as amended by Regulation No 988/2009, to submit an express request to that effect.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0033_EN_01-E0001" id="t-ECR_62018CJ0033_EN_01-E0001">*1</a>
+</span>)	Language of the case: French.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

@@ -1,0 +1,815 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Ninth Chamber)</p>
+<p class="coj-sum-title-1">11 June 2020 (<span class="coj-note">
+<a href="#t-ECR_62019CJ0472_EN_01-E0001" id="c-ECR_62019CJ0472_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Concession contract award procedure — Directive 2014/23/EU — Article 38(9) — System of compliance measures to demonstrate the reliability of an economic operator affected by a ground for exclusion — National legislation prohibiting economic operators which are the subject of a ground for compulsory exclusion from participating, for a period of 5 years, in a concession contract award procedure — Impossible for such operators to demonstrate that compliance measures have been taken)</p>
+<p class="coj-normal">In Case C‑472/19,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Conseil d’État (Council of State, France), made by decision of 14 June 2019, received at the Court on 20 June 2019, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">Vert Marine SAS</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Premier ministre,</span>
+</p>
+<p class="coj-normal">
+<span class="coj-bold">Ministre de l’Économie et des Finances,</span>
+</p>
+<p class="coj-normal">THE COURT (Ninth Chamber),</p>
+<p class="coj-normal">composed of S. Rodin, President of the Chamber, D. Šváby (Rapporteur) and N. Piçarra, Judges,</p>
+<p class="coj-normal">Advocate General: M. Campos Sánchez-Bordona,</p>
+<p class="coj-normal">Registrar: V. Giacobbo-Peyronnel, Administrator,</p>
+<p class="coj-normal">having regard to the written procedure,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Vert Marine SAS, by F. Dereux, avocat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the French Government, by P. Dodeller, A.-L. Desjonquères and C. Mosser, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Greek Government, by A. Dimitrakopoulou, D. Tsagkaraki and L. Kotroni, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by J.-F. Brakeland, P. Ondrůšek and L. Haasbeek, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Article 38(9) and (10) of Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2014:094:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2014 L 94, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between Vert Marine SAS (‘Vert Marine’) and the Premier ministre (Prime Minister) and the Ministre de l’Économie et des Finances (Minister for the Economy and Finance, France) concerning an application submitted by Vert Marine for the repeal of certain provisions of décret n<span class="coj-super">o</span> 2016-86, du 1<span class="coj-super">er</span> février 2016, relatif aux contrats de concession (Decree No 2016-86 of 1 February 2016 concerning concession contracts; ‘the decree’) (JORF, 2 February 2016, text No 20).</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Recital 71 of Directive 2014/23 states:</p>
+<p class="coj-normal">‘Allowance should, however, be made for the possibility that economic operators can adopt compliance measures aimed at remedying the consequences of any criminal offences or misconduct and at effectively preventing further occurrences of the misbehaviour. Those measures might consist in particular of personnel and organisational measures such as the severance of all links with persons or organisations involved in the misbehaviour, appropriate staff reorganisation measures, the implementation of reporting and control systems, the creation of an internal audit structure to monitor compliance and the adoption of internal liability and compensation rules. Where such measures offer sufficient guarantees, the economic operator in question should no longer be excluded on those grounds alone. Economic operators should have the possibility to request that compliance measures taken with a view to possible admission to the concession award procedure be examined. However, it should be left to Member States to determine the exact procedural and substantive conditions applicable in such cases. They should, in particular, be free to decide whether to allow the individual contracting authorities or contracting entities to carry out the relevant assessments or to entrust other authorities on a central or decentralised level with that task.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 38(4), (9) and (10) of that directive provides:</p>
+<p class="coj-normal">‘4.   Contracting authorities and contracting entities as referred to in point (a) of Article 7(1) shall exclude an economic operator from participation in a concession award procedure where they have established that that economic operator has been the subject of a conviction by final judgment for one of the following reasons:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">participation in a criminal organisation, as defined in Article 2 of Council Framework Decision 2008/841/JHA [of 24 October 2008 on combating organised crime (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:300:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2008 L 300, p. 42</a>)];</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">corruption, as defined in Article 3 of the Convention on the fight against corruption involving officials of the European Communities or officials of Member States of the European Union [(<a href="./../../../legal-content/EN/AUTO/?uri=OJ:C:1997:195:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1997 C 195, p. 1</a>)] and Article 2(1) of Council Framework Decision 2003/568/JHA [of 22 July 2003 on combating corruption in the private sector (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2003:192:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2003 L 192, p. 54</a>)], as well as corruption as defined in the national law of the contracting authority or entity or the economic operator;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">fraud within the meaning of Article 1 of the Convention relating to the protection of the European Communities’ financial interests [(<a href="./../../../legal-content/EN/AUTO/?uri=OJ:C:1995:316:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1995 C 316, p. 48</a>)];</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(d)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">terrorist offences or offences linked to terrorist activities, as defined in Articles 1 and 3 of Council Framework Decision 2002/475/JHA [of 13 June 2002 on combating terrorism (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2002:164:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2002 L 164, p. 3</a>)] respectively, or inciting, aiding or abetting or attempting to commit an offence, as referred to in Article 4 of that Framework Decision;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(e)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">money laundering or terrorist financing, as defined in Article 1 of Directive 2005/60/EC of the European Parliament and of the Council [of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2005:309:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2005 L 309, p. 15</a>)];</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(f)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">child labour and other forms of trafficking in human beings as defined in Article 2 of Directive 2011/36/EU of the European Parliament and of the Council [of 5 April 2011 on preventing and combating trafficking in human beings and protecting its victims, and replacing Council Framework Decision 2002/629/JHA (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:101:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2011 L 101, p. 1</a>)].</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<p class="coj-normal">9.   Any economic operator that is in one of the situations referred to in paragraphs 4 and 7 may provide evidence to the effect that measures taken by the economic operator are sufficient to demonstrate its reliability despite the existence of the relevant ground for exclusion. If such evidence is considered to be sufficient, the economic operator concerned shall not be excluded from the procedure.</p>
+<p class="coj-normal">For this purpose, the economic operator shall prove that it has paid or undertaken to pay compensation in respect of any damage caused by the criminal offence or misconduct, clarified the facts and circumstances in a comprehensive manner by actively collaborating with the investigating authorities and taken concrete technical, organisational and personnel measures that are appropriate to prevent further criminal offences or misconduct. The measures taken by the economic operators shall be evaluated taking into account the gravity and particular circumstances of the criminal offence or misconduct. Where the measures are considered to be insufficient, the economic operator concerned shall receive a statement of the reasons for that decision.</p>
+<p class="coj-normal">An economic operator which has been excluded by final judgment from participating in procurement or concession award procedures shall not be entitled to make use of the possibility provided for under this paragraph during the period of exclusion resulting from that judgment in the Member States where the judgment is effective.</p>
+<p class="coj-normal">10.   By law, regulation or administrative provision and having regard for Union law, Member States shall specify the implementing conditions for this article. They shall in particular, determine the maximum period of exclusion if no measures as specified in paragraph 9 are taken by the economic operator to demonstrate its reliability. Where the period of exclusion has not been set by final judgment, that period shall not exceed 5 years from the date of the conviction by final judgment in the cases referred to in paragraph 4 and 3 years from the date of the relevant event in the cases referred to in paragraph 7.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 51 of the directive reads as follows:</p>
+<p class="coj-normal">‘1.   Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this directive by 18 April 2016. They shall forthwith communicate to the Commission the text thereof.</p>
+<p class="coj-normal">When Member States adopt those measures, they shall contain a reference to this directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.</p>
+<p class="coj-normal">2.   Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this directive.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">French law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 30 of ordonnance n<span class="coj-super">o</span> 2016-65, du 29 janvier 2016, relative aux contrats de concession (Order No 2016-65, of 29 January 2016, on concession contracts) (JORF, 30 January 2016, text No 66), provided:</p>
+<p class="coj-normal">‘The following shall be excluded from the procedure for the award of concession contracts:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">1°</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Persons who have been the subject of a conviction by final judgment for one of the offences listed in Articles 222-34 to 222-40, 313-1, 313-3, 314-1, 324-1, 324-5, 324-6, 421-1 to 421-2-4, 421-5, 432-10, 432-11, 432-12 to 432-16, 433-1, 433-2, 434-9, 434-9-1, 435-3, 435-4, 435-9, 435-10, 441-1 to 441-7, 441-9, 445-1 to 445-2-1 or 450-1 of the code pénal (Criminal Code), Articles 1741 to 1743, 1746 or 1747 of the code général des impôts (General Tax Code), and, in respect of concession contracts which are not defence or security concession contracts, Articles 225-4-1 et 225-4-7 of the code pénal (Criminal Code), or for concealing such offences, and for equivalent offences provided for in the legislation of another Member State of the European Union […]</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<p class="coj-normal">Exclusion from the procedure for procurement by concession contracts pursuant to point 1° shall apply for a period of 5 years from the date of delivery of the sentence;</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 19 of décret n<span class="coj-super">o</span> 2016-86 (Decree No 2016-86) was worded as follows:</p>
+<p class="coj-normal">‘I. –   In support of the application, the candidate shall produce a sworn statement stating:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">1°</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That it is not subject to any of the exclusions from participation in the procedure for the award of concession contracts laid down in Articles 39, 40 and 42 of the abovementioned order of 29 January 2016;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2°</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That the information and documents relating to its abilities and aptitudes, required pursuant to Article 45 of the abovementioned order of 29 January and in accordance with the conditions laid down in Articles 20 and 21, are correct.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">II. –   The candidate shall produce all the documents proving that it is not subject to any of the exclusions from participation in the procedure for the award of concession contracts laid down in Articles 39, 40 and 42 of the abovementioned order of 29 January 2016.</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 23 of that decree provided as follows:</p>
+<p class="coj-normal">‘I. –   Before considering the applications, an awarding authority which finds that documents or information, the production of which was required under Articles 19, 20 and 21, [are missing] may request the candidates concerned to complete their application file within an appropriate time limit. It shall then inform the other applicants of the implementation of this provision.</p>
+<p class="coj-normal">II. –   … Inadmissible applications shall also be eliminated. An application submitted by a candidate which is unable to take part in the procurement procedure pursuant to Articles 39, 40, 42 and 44 of Order [No 2016-65] referred to above, or which does not have the abilities or aptitudes required pursuant to article 45 of that order, shall be inadmissible.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">All the abovementioned provisions of Order No 2016-65 and of Decree 2016-86 were repealed on 1 April 2019 and reproduced, in essence, in Article L. 3123-1 and Articles R. 3123-1 to R. 3123-21 of the code de la commande publique (Public Procurement Code) respectively.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Vert Marine, a company specialising in the delegated management of sports and leisure facilities, with the core part of its business stemming from the use of concession contracts with public authorities, brought an action before the Conseil d’État (Council of State, France) challenging the implied rejection, by the Premier Ministre (Prime Minister), of its application for the repeal of Articles 19 and 23 of Decree No 2016-86.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it submits in particular that those provisions are incompatible with Article 38 of Directive 2014/23, in that they do not grant, to an economic operator which is automatically excluded from participation in concession contract award procedures as a result of a definitive conviction for one of the serious offences referred to in Article 39(1) of Order No 2016-65, the possibility of providing evidence that it has taken compliance measures enabling it to demonstrate its restored reliability despite the existence of its conviction. It is apparent from the file submitted to the Court that the infringements referred to in Article 39(1) of Order No 2016-65 correspond, in essence, to the offences referred to in Article 38(4) of Directive 2014/23.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that context, the referring court asks whether Article 38(9) and (10) of Directive 2014/23 precludes national legislation which deprives an economic operator of the possibility of providing such evidence, where that economic operator has been automatically excluded from participation in concession contract award procedures following a definitive conviction for offences of specific gravity that the national legislature intended to suppress, with the aim of promoting accountability in public procurement, in order to ensure that candidates are exemplary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In addition, that court asks whether, if the examination of the appropriateness of the compliance measures taken by the economic operator may be entrusted to the judicial authorities, a number of judicial mechanisms provided for in national law, namely release, judicial rehabilitation and the removal of any mention of the conviction from Bulletin No 2 of the criminal record, may be regarded as satisfying the system of compliance measures established in Article 38(9) of Directive 2014/23.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the Conseil d’État (Council of State) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘1.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Must [Directive 2014/23] be interpreted as precluding the legislation of a Member State, with an objective of promoting accountability in public procurement, from not giving an economic operator which has been convicted by final judgment of an offence of specific gravity, and which, on that ground, is the subject of a measure prohibiting it from participating in a procedure for procurement by a concession contract for a period of 5 years, the opportunity of providing evidence to the effect that the measures which it has taken are sufficient to demonstrate its reliability despite the existence of that ground for exclusion?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If [Directive 2014/23] allows the Member States to entrust authorities other than the contracting authority concerned with the responsibility of assessing the compliance mechanism for operators, does that power enable that authority to entrust the courts with that mechanism? If so, can mechanisms such as the provisions of French law on release, judicial rehabilitation and the removal of any mention of the conviction from Bulletin No 2 of the criminal record be treated in the same way as compliance mechanisms in accordance with the directive?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its first question, the referring court asks, in essence, whether Article 38(9) and (10) of Directive 2014/23 must be interpreted as precluding national legislation which does not allow an economic operator which has been definitively convicted of one of the offences referred to in Article 38(4) of that directive and which, on that ground, is automatically prohibited from participating in concession contract award procedures to provide evidence that it has taken compliance measures capable of demonstrating its restored reliability.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it must be recalled that, under the first subparagraph of Article 38(9) of Directive 2014/23, any economic operator which is in one of the situations referred to, inter alia, in paragraph 4 of that article may provide evidence to demonstrate that the measures it has taken are sufficient to demonstrate its reliability despite the existence of the ground for exclusion relied on and that, if that evidence is deemed sufficient, the economic operator concerned is not to be excluded from the procedure. That provision thus introduces a ‘self-cleaning’ mechanism (see, by analogy, as regards Article 57(6) of Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2014:094:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2014 L 94, p. 65</a>), which equates to Article 38(9) of Directive 2014/23, judgment of 30 January 2020, Tim, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A58&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑395/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A58" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:58</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A58" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">49</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is apparent from the wording of the first subparagraph of Article 38(9) of Directive 2014/23 that, by providing that any economic operator may provide evidence of compliance measures taken, that provision confers on economic operators a right which the Member States must guarantee when transposing that directive, in accordance with the conditions laid down by the directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The third subparagraph of Article 38(9) of Directive 2014/23 provides, however, that an economic operator which has been excluded by a final judgment from participating in procurement or concession award procedures is not to be entitled to make use, during the total period of exclusion resulting from that judgment, in the Member States where the judgment is effective, of the possibility of providing evidence of compliance measures taken. It is therefore only in that case that an economic operator cannot benefit from the right conferred by the first subparagraph of Article 38(9) of Directive 2014/23.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, an exclusion by a final judgment, within the meaning of the third subparagraph of Article 38(9) of Directive 2014/23, cannot be equated with an exclusion which, under national legislation such as Article 39(1) of Order No 2016-65, is automatically provided for in respect of any economic operator convicted by a final judgment for one of the offences referred to in Article 38(4) of Directive 2014/23.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is clear from the wording of the third subparagraph of Article 38(9) of Directive 2014/23 that the exclusion must be the direct result of a final judgment relating to a specific economic operator and not merely from the fact, in particular, that a conviction has been issued by final judgment for one of the reasons listed in Article 38(4) of Directive 2014/23.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is apparent, therefore, from the wording of Article 38(9) of Directive 2014/23 that, with the exception of the situation envisaged in the third subparagraph of that provision, an economic operator may provide evidence of the compliance measures adopted in order to demonstrate its reliability despite the fact that it is subject to one of the grounds for exclusion referred to in Article 38(4) and (7) of Directive 2014/23, such as a conviction issued by final judgment for one of the reasons listed in Article 38(4)(a) to (f) of Directive 2014/23.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That interpretation is supported by the objective pursued in Article 38(9) of Directive 2014/23. By providing that an economic operator must be able to provide evidence of compliance measures taken, that provision seeks to underline the importance attaching to the reliability of economic operators (see, by analogy, judgment of 30 January 2020, Tim, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A58&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑395/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A58" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:58</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A58" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">49</a> and the case-law cited) and, accordingly, as the Greek Government stated in its written observations, to ensure an objective assessment of economic operators and to ensure effective competition. That objective would be jeopardised if the Member States were free to restrict, beyond the situation envisaged in the third subparagraph of Article 38(9) of Directive 2014/23, the right of economic operators to provide evidence of the compliance measures taken.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In addition, that interpretation is not called into question by the fact that the Member States must, by virtue of Article 38(10) of Directive 2014/23, specify the implementing conditions of that article and, in that regard, have some discretion (see, by analogy, judgment of 30 January 2020, Tim, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A58&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑395/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A58" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:58</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A58" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The expression ‘implementing conditions’ presupposes that the very existence of the right conferred by the first subparagraph of Article 38(9) of Directive 2014/23 and the possibility of exercising that right are guaranteed by the Member States, failing which, as the Commission stated in its written observations, the Member States would be able, when determining those implementing conditions, to deprive that right of its substance. Such an interpretation is, moreover, confirmed in recital 71 of Directive 2014/23, from which it is apparent that the Member States have the power only to determine the procedural and substantive conditions applicable to the exercise of that right.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing considerations, the answer to the first question is that Article 38(9) of Directive 2014/23 must be interpreted as precluding national legislation which does not allow an economic operator which has been definitively convicted of one of the offences referred to in Article 38(4) of that directive and which, on that ground, is automatically prohibited from participating in concession contract award procedures to provide evidence that it has taken compliance measures capable of demonstrating its restored reliability.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its second question, the referring court asks, in essence, whether Article 38(9) and (10) of Directive 2014/23 must be interpreted as meaning that it does not preclude the assessment of the appropriateness of the compliance measures taken by the economic operator from being entrusted to the judicial authorities and, if so, whether Article 38(9) of that directive must be interpreted as precluding national legislation which allows the judicial authorities to release a person from an automatic prohibition, following a conviction, from participating in concession contract award procedures, to lift such a prohibition or to remove any mention of the conviction from the criminal record.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">With regard to the first part of the second question, it must be noted that the wording of the three subparagraphs comprising Article 38(9) of Directive 2014/23 does not indicate which authority is responsible for assessing the appropriateness of the compliance measures claimed by the economic operator. In those circumstances, it is for the Member States, when determining the implementing conditions of that provision under Article 38(10) of that directive, to specify, in their national legislation, the identity of the authority empowered to carry out that assessment, so that the economic operator may effectively exercise the right conferred on it in the first subparagraph of Article 38(9) of the directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That interpretation is borne out by recital 71 of Directive 2014/23, which states that, when determining the procedural and substantive conditions for the application of Article 38(9) of Directive 2014/23, Member States must be free to allow the individual contracting authorities or contracting entities to carry out the assessments of the appropriateness of the compliance measures claimed by the economic operator or to entrust other authorities on a central or decentralised level with that task.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is apparent from that recital that the EU legislature wished to leave a broad discretion to the Member States when designating the authorities responsible for assessing the appropriateness of the compliance measures. In that regard, it follows from the terms ‘other authorities on a central or decentralised level’ that the Member States may entrust that task of assessment to any authority other than the contracting authority or contracting entity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That is all the more the case where, as the French and Greek Governments and the Commission submit in their written observations, the judicial authorities are, by their nature, able to carry out an objective and independent assessment of the appropriateness of the compliance measures and to examine, for that purpose, the evidence referred to in the first sentence of the second subparagraph of Article 38(9) of Directive 2014/23 in accordance with the requirements laid down in the second and third sentences of that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That being so, it is necessary, as the Commission has stated in its written observations, where a Member State intends to entrust such an assessment to the judicial authorities, for the national system established for that purpose to comply with all the requirements laid down in Article 38(9) of Directive 2014/23 and for the applicable procedure to be compatible with the time limits laid down by the concession contract award procedure. Otherwise and, in particular, if the judicial authority were not empowered to carry out a detailed assessment of the evidence required under the second subparagraph of Article 38(9) of Directive 2014/23 or would not be in a position to make a definitive decision before the end of the award procedure, the right established in the first subparagraph of that provision in favour of the economic operator would be deprived of its substance.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the second part of the second question, it must be borne in mind that, in accordance with the settled case-law of the Court, it is not for the Court, in proceedings brought under Article 267 TFEU, to rule on the compatibility of national rules with EU law. However, the Court does have jurisdiction to provide the national court with all the guidance as to the interpretation of EU law necessary to enable that court to determine whether those national rules are compatible with EU law (judgment of 25 October 2018, Sciotto, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A859&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑331/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A859" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:859</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A859" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it is for the referring court to determine whether judicial procedures, such as the procedures for release, judicial rehabilitation or removal of any mention of the conviction from Bulletin No 2 of the criminal record, effectively satisfy the conditions laid down and the objective pursued by the system of compliance measures established in Article 38(9) of Directive 2014/23.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In particular, it is for the referring court to determine whether such procedures allow, on the one hand, the economic operators concerned to provide the competent judicial authorities with evidence of the compliance measures referred to in the first sentence of the second subparagraph of Article 38(9) of Directive 2014/23 and, on the other, those judicial authorities to assess the appropriateness of those measures in the manner laid down in the second sentence of that provision and to order, where they consider that the reliability of the operator is restored by the effect of the measures in question, release, rehabilitation or the removal of any mention of the conviction from Bulletin No 2 of the criminal record.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that context, it must be pointed out that, in the event that release, rehabilitation, or the removal of any mention of the conviction in Bulletin No 2 of the criminal record could be ordered without the competent judicial authority being required to assess the appropriateness of the compliance measures taken and the economic operators concerned could thus participate in concession contract award procedures without adducing evidence of those measures, which Vert Marine and the Commission argue in their written observations, such judicial procedures could not be regarded as satisfying the objective pursued and the conditions laid down by the system of compliance measures regime established in Article 38(9) of Directive 2014/23, since, first, they give no guarantee to the contracting authority that the reliability of the economic operator concerned has been restored and, second, they allow potentially unreliable operators to participate in concession contract award procedures.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, the referring court must satisfy itself that the judicial procedures provided for by national law are capable of ensuring, in a timely manner, that an economic operator wishing to take part in a concession contract award procedure has the opportunity to provide evidence of the compliance measures taken. The right provided for in Article 38(9) of Directive 2014/23 would be deprived of its substance if the economic operator could not make effective use of those procedures before the end of the award procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Both Vert Marine and the Commission submit, in their written observations, that judicial rehabilitation, apart from the fact that it does not satisfy the condition referred to in paragraph 34 of this judgment, can be sought only after a certain period, varying from two to 5 years, which does not enable the economic operators concerned to benefit from rehabilitation before the expiry of that period. It is for the referring court to verify that point, just as it is required to ascertain that the time limits laid down by the procedures for release and removal of any mention of the conviction in Bulletin No 2 of the criminal record are compatible with those relating to concession contract award procedures.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of all the foregoing considerations, the answer to the second question is that Article 38(9) and (10) of Directive 2014/23 must be interpreted as not precluding the assessment of the appropriateness of the compliance measures taken by an economic operator from being entrusted to the judicial authorities, provided that the national rules put in place for that purpose satisfy all the requirements laid down in Article 38(9) of that directive and that the relevant procedure is compatible with the time limits laid down by the concession contract award procedure. Moreover, Article 38(9) of Directive 2014/23 must be interpreted as not precluding national legislation which allows the judicial authorities to release a person from an automatic prohibition on participating in concession contract award procedures following a criminal conviction, to lift such a prohibition or to remove any mention of the conviction in the criminal record, provided that such judicial procedures effectively satisfy the conditions laid down and the objective pursued by that system and, in particular, make it possible, when an economic operator wishes to take part in a concession contract award procedure, to lift, in a timely manner, the prohibition affecting it, on the sole basis of the compliance measures claimed by that operator and assessed by the competent judicial authority in accordance with the requirements laid down in that provision, which it is for the referring court to ascertain.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Ninth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 38(9) of Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts must be interpreted as precluding national legislation which does not allow an economic operator which has been definitively convicted of one of the offences referred to in Article 38(4) of that directive and which, on that ground, is automatically prohibited from participating in concession contract award procedures to provide evidence that it has taken compliance measures capable of demonstrating its restored reliability.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 38(9) and (10) of Directive 2014/23 must be interpreted as not precluding the assessment of the appropriateness of the compliance measures taken by an economic operator from being entrusted to the judicial authorities, provided that the national rules put in place for that purpose satisfy all the requirements laid down in Article 38(9) of that directive and that the relevant procedure is compatible with the time limits laid down by the concession contract award procedure. Moreover, Article 38(9) of Directive 2014/23 must be interpreted as not precluding national legislation which allows the judicial authorities to release a person from an automatic prohibition on participating in concession contract award procedures following a criminal conviction, to lift such a prohibition or to remove any mention of the conviction in the criminal record, provided that such judicial procedures effectively satisfy the conditions laid down and the objective pursued by that system and, in particular, make it possible, when an economic operator wishes to take part in a concession contract award procedure, to lift, in a timely manner, the prohibition affecting it, on the sole basis of the compliance measures claimed by that operator and assessed by the competent judicial authority in accordance with the requirements laid down in that provision, which it is for the referring court to ascertain.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62019CJ0472_EN_01-E0001" id="t-ECR_62019CJ0472_EN_01-E0001">*1</a>
+</span>)	Language of the case: French.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

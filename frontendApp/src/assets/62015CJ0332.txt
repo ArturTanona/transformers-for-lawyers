@@ -1,0 +1,1084 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Seventh Chamber)</p>
+<p class="sum-title-1">28 July 2016 (<span class="note">
+<a href="#t-ECR_62015CJ0332_EN_01-E0001" id="c-ECR_62015CJ0332_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">‛Reference for a preliminary ruling — Common system of value added tax — Directive 2006/112/EC — Articles 167, 168, 178 to 182, 193, 206, 242, 244, 250, 252 and 273 — Right to deduct VAT — Substantive requirements — Formal requirements — Limitation period — National provisions excluding the right to deduct where there is a failure to comply with the formal requirements — Tax evasion’</p>
+<p class="normal">In Case C‑332/15,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunale di Treviso (District Court, Treviso, Italy), made by decision of 17 April 2015, received at the Court on 6 July 2015, in the criminal proceedings against</p>
+<p class="normal">
+<span class="bold">Giuseppe Astone,</span>
+</p>
+<p class="normal">THE COURT (Seventh Chamber),</p>
+<p class="normal">composed of C. Toader, President of the Chamber, A. Rosas and E. Jarašiūnas (Rapporteur), Judges,</p>
+<p class="normal">Advocate General: E. Sharpston,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">the Italian Government, by G. Palmieri, acting as Agent, and by G. Galluzzo, avvocato dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">the Greek Government, by K. Nasopoulou and A. Dimitrakopoulou, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by D. Recchia and C. Soulay, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Articles 167, 168, 178 to 181, 244 and 250 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" target="CourtTab">OJ 2006 L 347, p. 1</a>; ‘the VAT Directive’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in criminal proceedings against Mr Giuseppe Astone, in his capacity as authorised representative of La Società Del Ferro Srl (‘Del Ferro’), for failing to file a value added tax (‘VAT’) return for the tax year 2010.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">EU law</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">In Title X of the VAT Directive, entitled ‘Deductions’, there are five chapters. Chapter 1 of that title, entitled ‘Origin and scope of right of deduction’, includes, inter alia, Articles 167 and 168 of that directive, worded as follows:</p>
+<p class="ti-art">‘Article 167</p>
+<p class="normal">A right of deduction shall arise at the time the deductible tax becomes chargeable.</p>
+<p class="ti-art">
+<span class="italic">Article 168</span>
+</p>
+<p class="normal">In so far as the goods and services are used for the purposes of the taxed transactions of a taxable person, the taxable person shall be entitled, in the Member State in which he carries out these transactions, to deduct the following from the VAT which he is liable to pay:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the VAT due or paid in that Member State in respect of supplies to him of goods or services, carried out or to be carried out by another taxable person;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the VAT due in respect of transactions treated as supplies of goods or services ...;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">the VAT due in respect of intra-Community acquisitions of goods ...;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">the VAT due on transactions treated as intra-Community acquisitions ...;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(e)</p>
+</td>
+<td valign="top">
+<p class="normal">the VAT due or paid in respect of the importation of goods into that Member State.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Chapter 4 of Title X, entitled ‘Rules governing exercise of the right of deduction’, includes, inter alia, Articles 178 to 182 of that directive, which state:</p>
+<p class="ti-art">‘Article 178</p>
+<p class="normal">In order to exercise the right of deduction, a taxable person must meet the following conditions:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">for the purposes of deductions pursuant to Article 168(a), in respect of the supply of goods or services, he must hold an invoice drawn up in accordance with Articles 220 to 236 and Articles 238, 239 and 240;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">for the purposes of deductions pursuant to Article 168(b), in respect of transactions treated as the supply of goods or services, he must comply with the formalities as laid down by each Member State;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">for the purposes of deductions pursuant to Article 168(c), in respect of the intra-Community acquisition of goods, he must set out in the VAT return provided for in Article 250 all the information needed for the amount of the VAT due on his intra-Community acquisitions of goods to be calculated and he must hold an invoice drawn up in accordance with Articles 220 to 236;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">for the purposes of deductions pursuant to Article 168(d), in respect of transactions treated as intra-Community acquisitions of goods, he must complete the formalities as laid down by each Member State;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(e)</p>
+</td>
+<td valign="top">
+<p class="normal">for the purposes of deductions pursuant to Article 168(e), in respect of the importation of goods, he must hold an import document specifying him as consignee or importer, and stating the amount of VAT due or enabling that amount to be calculated;</p>
+</td>
+</tr>
+</table>
+<p class="normal">...</p>
+<p class="ti-art">
+<span class="italic">Article 179</span>
+</p>
+<p class="normal">The taxable person shall make the deduction by subtracting from the total amount of VAT due for a given tax period the total amount of VAT in respect of which, during the same period, the right of deduction has arisen and is exercised in accordance with Article 178.</p>
+<p class="normal">...</p>
+<p class="ti-art">
+<span class="italic">Article 180</span>
+</p>
+<p class="normal">Member States may authorise a taxable person to make a deduction which he has not made in accordance with Articles 178 and 179.</p>
+<p class="ti-art">
+<span class="italic">Article 181</span>
+</p>
+<p class="normal">Member States may authorise a taxable person who does not hold an invoice drawn up in accordance with Articles 220 to 236 to make the deduction referred to in Article 168(c) in respect of his intra-Community acquisitions of goods.</p>
+<p class="ti-art">
+<span class="italic">Article 182</span>
+</p>
+<p class="normal">Member States shall determine the conditions and detailed rules for applying Articles 180 and 181.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Title XI of the VAT Directive, entitled ‘Obligations of taxable persons and certain non-taxable persons’, contains eight chapters. Chapter 1 of that title concerns the ‘Obligation to pay’. In Section 1 of that chapter, entitled ‘Persons liable for payment of VAT to the tax authorities’, Article 193 of that directive states:</p>
+<p class="normal">‘VAT shall be payable by any taxable person carrying out a taxable supply of goods or services, except where it is payable by another person ...’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">In Section 2 of Chapter 1 of Title XI of the VAT Directive, entitled ‘Payment arrangements’, Article 206 of that directive provides:</p>
+<p class="normal">‘Any taxable person liable for payment of VAT must pay the net amount of the VAT when submitting the VAT return provided for in Article 250. Member States may, however, set a different date for payment of that amount or may require interim payments to be made.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Chapter 4 of Title XI of the VAT Directive, entitled ‘Accounting’, comprises four sections. In Section 2 of that chapter, entitled ‘General obligations’, Article 242 of that directive states:</p>
+<p class="normal">‘Every taxable person shall keep accounts in sufficient detail for VAT to be applied and its application checked by the tax authorities.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">In Section 3 of Chapter 4, entitled ‘Specific obligations relating to the storage of all invoices’, Article 244 of that directive provides:</p>
+<p class="normal">‘Every taxable person shall ensure that copies of the invoices issued by himself, or by his customer or, in his name and on his behalf, by a third party, and all the invoices which he has received, are stored.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">In Chapter 5 of Title XI of the VAT Directive, entitled ‘Returns’, Articles 250 and 252 of that directive state:</p>
+<p class="ti-art">‘Article 250</p>
+<p class="normal">1.   Every taxable person shall submit a VAT return setting out all the information needed to calculate the tax that has become chargeable and the deductions to be made including, in so far as is necessary for the establishment of the basis of assessment, the total value of the transactions relating to such tax and deductions and the value of any exempt transactions.</p>
+<p class="normal">...</p>
+<p class="ti-art">
+<span class="italic">Article 252</span>
+</p>
+<p class="normal">1.   The VAT return shall be submitted by a deadline to be determined by Member States. That deadline may not be more than two months after the end of each tax period.</p>
+<p class="normal">2.   The tax period shall be set by each Member State at one month, two months or three months.</p>
+<p class="normal">Member States may, however, set different tax periods provided that those periods do not exceed one year.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">In Chapter 7 of Title XI of the VAT Directive, entitled ‘Miscellaneous provisions’, the first paragraph of Article 273 of that directive provides:</p>
+<p class="normal">‘Member States may impose other obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion, subject to the requirement of equal treatment as between domestic transactions and transactions carried out between Member States by taxable persons and provided that such obligations do not, in trade between Member States, give rise to formalities connected with the crossing of frontiers.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Italian law</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">The decreto del Presidente della Repubblica n. 633 — Istituzione e disciplina dell’imposta sul valore aggiunto (Decree No 633 of the President of the Republic establishing and regulating value added tax), of 26 October 1972 (Ordinary Supplement to the GURI No 292 of 11 November 1972), in the version applicable to the dispute in the main proceedings (‘Decree No 633’), includes Article 19, entitled ‘Deductions’. Paragraph 1 of that article provides:</p>
+<p class="normal">‘1 In order to calculate the tax payable pursuant to Article 17(1) or the surplus referred to in Article 30(2), the amount of tax paid or payable by the taxable person or charged to him in respect of goods and services imported or purchased in the course of a business, artistic activity or profession shall be deductible from the amount of tax on the transactions carried out. The right to deduct the tax on the goods and services purchased or imported shall arise at the time when the tax becomes chargeable and may be exercised, at the latest, in the tax return for the second year after the year in which the right to deduct arose and subject to the conditions applying at the time when the right arose.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Article 25 of Decree No 633, entitled ‘Registration of purchases’, provides:</p>
+<p class="normal">‘Taxpayers shall number sequentially the invoices and customs dockets for goods and services purchased or imported in the course of a business, artistic activity or profession ... and record them in the appropriate register before making the periodic payment or in the annual return in which the right to deduction of the related tax is exercised.</p>
+<p class="normal">Upon registration the following shall be provided: the date of the invoice or docket, the sequence number assigned to it, the undertaking, name or legal name of the originator of the goods or the supplier of the services or the forename and surname if undertakings, companies or bodies are not concerned, and also the taxable amount and the amount of tax, shown separately for each tax rate.</p>
+<p class="normal">...’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Article 39 of that decree, entitled ‘Keeping and retention of registers and documents’, states:</p>
+<p class="normal">‘The registers provided for by the present decree ... must be kept in accordance with Article 2219 of the Civil Code and numbered sequentially on each page and are exempt from stamp duty ...</p>
+<p class="normal">...</p>
+<p class="normal">The registers, books, indexes and lists, together with the invoices, customs dockets and other documents provided for in the present decree must be retained in accordance with Article 22 of the Decree of the President of the Republic No 600 of 29 September 1973. ...’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Decreto legislativo n. 74 — Nuova disciplina dei reati in materia di imposte sui redditi e sul valore aggiunto, a norma dell’articolo 9 della legge 25 giugno 1999, n. 205 (Legislative Decree No 74, laying down new rules governing offences in relation to income tax and value added tax, pursuant to Article 9 of Law No 205 of 25 June 1999), of 10 March 2000 (GURI No 76 of 31 March 2000, p. 4), in the version applicable to the dispute in the main proceedings (‘Legislative Decree No 74’), provides, in Article 5 thereof, entitled ‘Absence of a return’:</p>
+<p class="normal">‘1.   Any person, who, for the purposes of evading the payment of income tax or [VAT], fails to file one of the annual returns relating to those taxes, in breach of his obligation to do so, where the tax evaded is higher, in respect of each of those taxes individually, than EUR 30000, shall be liable to a term of imprisonment of between one and three years.</p>
+<p class="normal">...’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 1(1)(f) of that legislative decree, ‘the tax evaded’ corresponds to ‘the difference between the tax actually due and that stated in the return, or, the entire tax due in the case of failure to file a return, less the sums paid by the taxable person or by a third party in advance or as withholding tax or, in any event, in payment of that tax before the filing of the return or the expiry of the relevant period’.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">In the course of a tax audit conducted on 4 July 2013, the Guardia di Finanza (tax and financial police, Italy) found that, for the tax years 2010, 2011, 2012 and 2013, Mr Astone, in his capacity as the authorised representative of the company Del Ferro, was unable to produce the accounts or the VAT register. That tax audit also revealed, first, that for the tax year 2010 Del Ferro had issued invoices for a taxable amount of EUR 320205, but because it had failed to submit the related VAT return it had evaded VAT in the amount of EUR 64041 and, secondly, that Del Ferro had also failed to submit a tax return for VAT for the subsequent tax years. The tax audit also revealed that Del Ferro had not complied with the registration obligation in respect of the invoices issued.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">In relation to the failure to submit a VAT return for the 2010 tax year, Mr Astone, acting as the authorised representative of Del Ferro, is charged in criminal proceedings before the Criminal Chamber of the Tribunale di Treviso (District Court, Treviso, Italy) with the infringement under Article 5(1) of Legislative Decree No 74.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">During those proceedings before the referring court, Mr Astone produced invoices issued in the 2010 tax year by third party undertakings to Del Ferro, invoices which were paid, inclusive of VAT, but were not entered into that company’s accounts. On the basis of those invoices, it was calculated that VAT amounting to EUR 30590 was deductible. Mr Astone contends that those invoices should be taken into account, in accordance with the case-law of the Court relating to the right to deduct VAT paid on inputs by a taxable person. Taking into account that amount of VAT deductible and a previous tax credit, the amount of tax evaded would not exceed the EUR 30000 threshold laid down in Article 5(1) of Legislative Decree No 74 and, consequently, there would no longer be any infringement which could be punished under that provision. Mr Astone claims that he should, therefore, be acquitted. The Public Prosecutor also seeks Mr Astone’s acquittal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court states that the Italian legislation makes the right to deduct VAT contingent on compliance with formal obligations relating in particular to the submission of the relevant returns, when the taxable person claims the tax credit, and to the fact that the invoices concerned have been recorded in the respective register, with the result that the taxable person is, in the view of the referring court, not entitled to deduct input VAT which has not been recorded in accordance with the law, even though it has been paid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Referring to Article 5(1) of Legislative Decree No 74, the referring court states that, according to Italian law, where no VAT return has been filed, tax evaded means the entire tax due without it being possible to take into account, as regards VAT, the VAT paid to suppliers if the formal obligations provided for by law have not been complied with. In the present case, the ‘tax due’, including for the purposes of determining whether criminal proceedings may be brought under that provision, is therefore, in the referring court’s view, that resulting from the invoices issued. The referring court considers that the possibility of taking into account the VAT paid as input tax presupposes that the right to deduct has been exercised when the annual return was made and is only in respect of the purchase invoices which were recorded in the relevant register.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court notes that EU law also makes the exercise of the right to deduct contingent on compliance with certain obligations and refers in that regard to Articles 167, 168, 178 to 181, 244 and 250 of the VAT Directive. It also observes that in accordance with the judgments of 8 May 2008 in Ecotrade (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑95/07 and C‑96/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2008:267</a>), and 30 September 2010 in Uszodaépítő (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A569&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑392/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A569&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2010:569</a>), the principle of fiscal neutrality requires deduction of input value added tax to be allowed if the substantive requirements are satisfied, even if the taxable person has failed to comply with some of the formal requirements. Those judgments do not, however, specify the requirements in question and in particular which formal obligations must be discharged in each case in order for the taxable person to be able to enjoy his right to deduct. Since Mr Astone has not satisfied any formal obligation, an answer from the Court is necessary in order to rule on his criminal liability.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances the Tribunale di Treviso (District Court, Treviso) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Do the provisions of [the VAT Directive], as interpreted by the [EU] case-law recalled in the grounds of [the order for reference], preclude Member State rules — such as those set out [in the order for reference] and in force in Italy (Article 19 of … Decree [No] 633 …) — which exclude the possibility, including for the purposes of criminal law, of exercising the right to deduct where there has been a failure to file VAT returns, in particular, the return for the second year after the year in which the right to deduct arose?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Do the provisions of [the VAT Directive], as interpreted by the [EU] case-law recalled in the grounds of [the order for reference], preclude Member State rules — such as those set out [in the order for reference] in force in Italy (Articles 25 and 39 of … Decree [No] 633 …) — which exclude the possibility, including for the purposes of criminal law, of taking account, for the purposes of the deduction of VAT, of purchase invoices which the taxable person has completely failed to register?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Admissibility</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">The Italian Government challenges the admissibility of the questions referred for a preliminary ruling on the ground that they are based on an incorrect interpretation of Italian law; in fact, under that law, the national provisions governing the scope of the right to deduct VAT are not taken into account in order to assess whether the threshold for criminal sanction, provided for in Article 5(1) of Legislative Decree No 74, has been reached. It follows that the answer which the Court is called upon to give to the questions raised is not of use in resolving the dispute in the main proceedings, since the Italian provisions transposing the VAT Directive are not applicable to the dispute.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">However, according to settled case-law, in proceedings under Article 267 TFEU, it is solely for the national court before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine in the light of the particular circumstances of the case both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is in principle bound to give a ruling (judgment of 8 September 2010 in Stoß and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A504&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑316/07, C‑358/07 to C‑360/07, C‑409/07 and C‑410/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A504&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2010:504</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A504&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point51" hreflang="en" target="CourtTab" type="application/xhtml+xml">51</a> and the case-law cited). Similarly, in that procedure, it falls exclusively to the referring court to interpret national legislation (see, to that effect, judgment of 15 January 2013 in Križan and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A8&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑416/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A8&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:8</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A8&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point58" hreflang="en" target="CourtTab" type="application/xhtml+xml">58</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the foregoing that, notwithstanding the doubts expressed in that regard by the Italian Government in its written observations, the Court must hold that the findings of the referring court are established, namely that Italian law provides that the threshold for criminal penalties, provided for in Article 5(1) of Legislative Decree No 74, is determined by applying the substantive provisions governing the scope of the right to deduct VAT and, consequently, hold that the questions referred are admissible.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Substance</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">First of all, it must be pointed out that, in accordance with Articles 411 and 413 thereof, the VAT Directive repealed and replaced, from 1 January 2007, the EU legislation on VAT, in particular Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1977:145:TOC" hreflang="en" target="CourtTab">OJ 1977 L 145, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">According to recitals 1 and 3 of the VAT Directive, the recasting of the Sixth Directive 77/388 was necessary in order to present all the applicable provisions in a clear and rational manner and in an improved structure and drafting which would not, in principle, bring about material change. The provisions of the VAT Directive which are relevant in the context of the main proceedings are, in essence, identical to the equivalent provisions of the Sixth Directive 77/388. In those circumstances, the case-law relating to those provisions of the Sixth Directive 77/388 is still relevant in interpreting the equivalent provisions of the VAT Directive (see, by analogy, judgment of 21 June 2012 in Mahagében and Dávid, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A373&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑80/11 and C‑142/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A373&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:373</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A373&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point35" hreflang="en" target="CourtTab" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-4">The first question</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the request for a preliminary ruling that it was not until the proceedings brought before the referring court that the defendant in the main proceedings sought to assert the right to deduct input VAT already paid, whereas, in accordance with Article 19(1) of Decree No 633, that right must be exercised at the latest in the tax return for the second year after the year in which the right to deduct arose. In those circumstances, in the light of what the referring court has stated and the Court of Justice has noted in paragraph 25 above, it must be understood that, by its first question, the referring court asks, in essence, whether Articles 167, 168, 178, the first paragraph of Article 179, and Articles 180 and 182 of the VAT Directive must be interpreted as meaning that they preclude national legislation which provides for a limitation period for exercising the right to deduct, such as that at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be recalled that the deduction system established by the VAT Directive is meant to relieve the operator entirely of the burden of the VAT paid or payable in the course of all his economic activities. The common system of VAT thereby seeks to ensure complete neutrality of taxation of all economic activities, whatever their purpose or results, provided that they are themselves subject, in principle, to VAT (see judgment of 12 July 2012 in EMS-Bulgaria Transport, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑284/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:458</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point43" hreflang="en" target="CourtTab" type="application/xhtml+xml">43</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">According to settled case-law, the right to deduct laid down in Articles 167 and 168 of the VAT Directive forms an integral part of the VAT mechanism and in principle cannot be limited (see, in particular, judgments of 8 May 2008 in Ecotrade, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑95/07 and C‑96/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2008:267</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point39" hreflang="en" target="CourtTab" type="application/xhtml+xml">39</a> and the case-law cited, and 12 July 2012 in EMS-Bulgaria Transport, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑284/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:458</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point44" hreflang="en" target="CourtTab" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">As is apparent from the wording of Article 167 and the first paragraph of Article 179 of the VAT Directive, the right to deduct is generally exercised during the same period as that during which it has arisen, namely, at the time the tax becomes chargeable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Nevertheless, pursuant to Articles 180 and 182 of the VAT Directive, a taxable person may be authorised to make a deduction even if he did not exercise his right during the period in which the right arose, subject, however, to compliance with certain conditions and procedures determined by national legislation (judgment of 12 July 2012 in EMS-Bulgaria Transport, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑284/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:458</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point46" hreflang="en" target="CourtTab" type="application/xhtml+xml">46</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">However, the possibility of exercising the right to deduct without any temporal limit would be contrary to the principle of legal certainty, which requires the tax position of the taxable person, having regard to his rights and obligations vis-à-vis the tax authority, not to be open to challenge indefinitely (judgments of 8 May 2008 in Ecotrade, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑95/07 and C‑96/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2008:267</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point44" hreflang="en" target="CourtTab" type="application/xhtml+xml">44</a>, and 12 July 2012 in EMS-Bulgaria Transport, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑284/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:458</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point48" hreflang="en" target="CourtTab" type="application/xhtml+xml">48</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has already held, in connection with the reverse charge procedure, that a limitation period the expiry of which has the effect of penalising a taxable person who has not been sufficiently diligent and has failed to claim deduction of input tax, by making him forfeit his right to deduct, cannot be regarded as incompatible with the regime established by the VAT Directive, in so far as, first, that limitation period applies in the same way to analogous rights in tax matters founded on domestic law and to those founded on EU law (principle of equivalence) and, second, that it does not in practice render impossible or excessively difficult the exercise of the right to deduct (principle of effectiveness) (judgments of 8 May 2008 in Ecotrade, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑95/07 and C‑96/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2008:267</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point46" hreflang="en" target="CourtTab" type="application/xhtml+xml">46</a> and the case-law cited, and 12 July 2012 in EMS-Bulgaria Transport, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑284/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:458</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point49" hreflang="en" target="CourtTab" type="application/xhtml+xml">49</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it is not apparent from the order for reference whether or not, in the main proceedings, the reverse charge procedure is applicable. That is, however, irrelevant for the purposes of answering the first question raised, since the provisions of the VAT Directive referred to in paragraphs 31 and 32 above do not establish, as regards the limitation period for exercising the right to deduct which could be set by the Member States pursuant to those provisions, that a distinction must be drawn between the situations where the reverse charge procedure is applicable and those where it is not.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">As to whether a two-year limitation period, such as that at issue in the main proceedings, fulfils the conditions set out in paragraph 34 above, it must be recalled that, according to the case-law of the Court, it is for the national court to determine whether national measures are compatible with EU law. The Court may, however, provide it with any helpful guidance to resolve the dispute before it (see, to that effect, judgment of 12 July 2012 in EMS-Bulgaria Transport, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑284/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:458</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point51" hreflang="en" target="CourtTab" type="application/xhtml+xml">51</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, as regards the principle of equivalence, as the Court found in the case giving rise to the judgment of 8 May 2008 in Ecotrade (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑95/07 and C‑96/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2008:267</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point47" hreflang="en" target="CourtTab" type="application/xhtml+xml">47</a>), which concerned in particular the same limitation period as that at issue in the main proceedings, it does not appear from the file, nor has it been argued before the Court, that the limitation period provided for in Article 19(1) of Decree No 633 does not comply with that principle.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">With respect to the principle of effectiveness, the Court has also held that a two-year time limit, such as that provided for in Article 19(1) of Decree No 633, at issue in the main proceedings, cannot, in itself, render the exercise of the right to deduct virtually impossible or excessively difficult, since Article 167 and the first paragraph of Article 179 of the VAT Directive allow Member States to require that the taxable person exercise his right to deduct during the same period as that in which it arose (see, to that effect, judgment of 8 May 2008 in Ecotrade, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑95/07 and C‑96/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2008:267</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point48" hreflang="en" target="CourtTab" type="application/xhtml+xml">48</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing, the answer to the first question is that Articles 167, 168, 178, the first paragraph of Article 179, and Articles 180 and 182 of the VAT Directive must be interpreted as meaning that they do not preclude national legislation which provides for a limitation period for exercising the right to deduct, such as the limitation period at issue in the main proceedings, provided that the principles of equivalence and effectiveness are observed, which it is for the referring court to ascertain.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-4">The second question</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">First of all, it must be noted that although in its second question, the referring court refers only to the failure by the defendant in the main proceedings to fulfil the obligation to register the invoices issued in respect of the company of which he is authorised representative — invoices on the basis of which the right to deduct has been invoked — that court states, in the grounds of its order for reference, that that defendant has observed ‘none’ of the formal VAT-related obligations imposed on him.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent in that regard from the order for reference that, for the tax year 2010, in relation to which the defendant is subject to criminal proceedings before the referring court, the defendant has been unable to produce either accounts or VAT register for the company of which he is the authorised representative. It is also apparent from the order for reference that that company has not filed a VAT return although it had issued invoices for a taxable amount of EUR 320205, that it has not paid the VAT owed by it, that it has not complied with the obligation to register the invoices issued and that nor it has complied with the obligation to register the invoices issued to it by third-party undertakings which it had paid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, having regard to what has been stated by the referring court and noted in paragraph 25 above, it must be understood that, by its second question, that court asks, in essence, whether Articles 168, 178, 179, 193, 206, 242, 244, 250, 252 and 273 of the VAT Directive must be understood as precluding national legislation, such as that at issue in the main proceedings, which allows the tax authorities to refuse a taxable person the right to deduct VAT, when it is established that the latter has failed to fulfil most of the formal obligations incumbent upon him in order to be able to benefit from that right.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be noted that the right of taxable persons to deduct VAT due or already paid on goods purchased and services received as inputs from the VAT which they are liable to pay is a fundamental principle of the common system of VAT established by the relevant EU legislation (judgments of 6 December 2012 in Bonik, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑285/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A774&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:774</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A774&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point25" hreflang="en" target="CourtTab" type="application/xhtml+xml">25</a> and case-law cited, and 13 February 2014 in Maks Pen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑18/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:69</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point23" hreflang="en" target="CourtTab" type="application/xhtml+xml">23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">As has already been set out, in essence, in paragraphs 29 to 31 above, the right to deduct provided for in Articles 167 to 192 of the VAT Directive, which seeks to ensure complete neutrality of taxation of all economic activities, provided that they are themselves subject, in principle, to VAT cannot, in principle, be limited and must be exercised immediately in respect of all the taxes charged on transactions relating to inputs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, according to settled case-law, the fundamental principle of VAT neutrality requires deduction of input tax to be allowed if the substantive requirements are satisfied, even if the taxable person has failed to comply with some of the formal requirements (judgments of 12 July 2012 in EMS-Bulgaria Transport, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑284/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:458</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point62" hreflang="en" target="CourtTab" type="application/xhtml+xml">62</a> and the case-law cited, and 9 July 2015 in Salomie and Oltean, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A454&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑183/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A454&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:454</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A454&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point58" hreflang="en" target="CourtTab" type="application/xhtml+xml">58</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">The case may be different if non-compliance with such formal requirements effectively prevents the production of conclusive evidence that the substantive requirements have been satisfied (judgments of 12 July 2012 in EMS-Bulgaria Transport, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑284/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:458</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A458&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point71" hreflang="en" target="CourtTab" type="application/xhtml+xml">71</a> and 11 December 2014 in Idexx Laboratories Italia, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2429&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑590/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2429&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:2429</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2429&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point39" hreflang="en" target="CourtTab" type="application/xhtml+xml">39</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be stated that the substantive requirements for the right to deduct are those which govern the actual substance and scope of that right, such as those provided for in Chapter 1 of Title 10 of the VAT Directive, entitled ‘Origin and scope of the right to deduct’, whereas the formal requirements for that right regulate the rules governing its exercise and monitoring thereof and the smooth functioning of the VAT system, such as the obligations relating to accounts, invoicing and filing returns (see, to that effect, judgment of 11 December 2014 in Idexx Laboratories Italia, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2429&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑590/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2429&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:2429</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2429&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point40" hreflang="en" target="CourtTab" type="application/xhtml+xml">40</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2429&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point41" hreflang="en" target="CourtTab" type="application/xhtml+xml">41</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, for the purposes of applying and monitoring VAT, Title XI of the VAT Directive lists certain obligations incumbent, inter alia, on taxable persons liable to that tax. In particular, in addition to the obligation to pay the VAT stemming, inter alia, from Articles 193 and 206 of that directive, Article 242 of the VAT Directive requires accounts to be kept in sufficient detail, Article 244 provides for an obligation to store all invoices and Articles 250 and 252 of that directive require the return to be submitted by a given deadline.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">In addition, under Article 273 of the VAT Directive, the Member States may impose other obligations which they deem necessary for the correct collection of the tax and for the prevention of evasion. However, the measures which the Member States may adopt under that provision must not go further than is necessary to attain such objectives. Therefore, they cannot be used in such a way that they would have the effect of systematically undermining the right to deduct VAT and, consequently, the neutrality of VAT (see, to that effect, judgments of 8 May 2008 in Ecotrade, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑95/07 and C‑96/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2008:267</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point66" hreflang="en" target="CourtTab" type="application/xhtml+xml">66</a>, and 21 June 2012 in Mahagében and Dávid, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A373&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑80/11 and C‑142/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A373&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:373</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A373&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point57" hreflang="en" target="CourtTab" type="application/xhtml+xml">57</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">That being so, the prevention of tax evasion, avoidance and abuse is an objective recognised and encouraged by the VAT Directive and the Court has repeatedly held that EU law cannot be relied on for abusive or fraudulent ends. It is, therefore, for the national courts and judicial authorities to refuse the right of deduction, if it is shown, in the light of objective factors, that that right is being relied on for fraudulent or abusive ends (judgments of 6 December 2012 in Bonik, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑285/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A774&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:774</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A774&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point35" hreflang="en" target="CourtTab" type="application/xhtml+xml">35</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A774&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="en" target="CourtTab" type="application/xhtml+xml">37</a> and the case-law cited, and 18 December 2014 in <span class="italic">Schoenimport ‘Italmoda’ Mariano Previti and Others</span>, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2455&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑131/13, C‑163/13 and C‑164/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2455&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:2455</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2455&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point42" hreflang="en" target="CourtTab" type="application/xhtml+xml">42</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2455&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point44" hreflang="en" target="CourtTab" type="application/xhtml+xml">44</a> and case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">That is the position where tax evasion is committed by the taxable person himself (judgments of 6 December 2012 in Bonik, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑285/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A774&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:774</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A774&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="en" target="CourtTab" type="application/xhtml+xml">38</a> and case-law cited, and judgment of 13 February 2014 in Maks Pen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑18/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:69</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point27" hreflang="en" target="CourtTab" type="application/xhtml+xml">27</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Since the refusal of the right of deduction is an exception to the application of the fundamental principle constituted by that right, it is incumbent upon the competent tax authorities to establish, to the requisite legal standard, that the objective evidence establishing the existence of a fraud or abuse is present. It is for the national courts subsequently to determine whether the tax authorities concerned have established the existence of such objective evidence (judgment of 13 February 2014 in Maks Pen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑18/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:69</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point29" hreflang="en" target="CourtTab" type="application/xhtml+xml">29</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">In proceedings brought under Article 267 TFEU, the Court has no jurisdiction to check or to assess the factual circumstances of the case in the main proceedings. It is therefore for the referring court to carry out, in accordance with the rules of evidence under national law, an overall assessment of all the evidence and factual circumstances of those proceedings in order to determine, in the light of the objective evidence provided to it, whether the defendant in the main proceedings has committed such an evasion or abuse (see, by analogy, judgment of 13 February 2014 in Maks Pen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑18/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:69</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="en" target="CourtTab" type="application/xhtml+xml">30</a>). However, in order to give the national court a useful answer, the Court may, in a spirit of cooperation with national courts, provide it with all the guidance that it deems necessary (see, to that effect, judgments of 18 July 2013 in AES-3C Maritza East 1, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A488&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑124/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A488&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:488</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A488&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point42" hreflang="en" target="CourtTab" type="application/xhtml+xml">42</a>, and 3 September 2014 in GMAC UK, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2131&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑589/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2131&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:2131</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2131&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point46" hreflang="en" target="CourtTab" type="application/xhtml+xml">46</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, as has been noted in paragraph 41 above, it is apparent from the order for reference that for the tax year 2010, in relation to which the defendant in the main proceedings is subject to criminal proceedings before the referring court, the defendant has not only failed to fulfil the obligation to file a VAT return with the authorities and to pay the amount of tax owed by the company of which he is the authorised representative, but has also been unable to produce accounts or a VAT register for that company and has further failed to fulfil the obligation under Italian law to register sequentially the invoices issued or paid by it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">Even if those infringements of those formal obligations which were incumbent upon the defendant in the main proceedings, in his capacity as the authorised representative of the Del Ferro, for the purposes of the application of the VAT and its monitoring by the tax authorities do not prevent the production of conclusive evidence that the substantive requirements giving rise to the right to deduct input VAT are satisfied, it must be found that, as the European Commission noted in its written observations, such circumstances may establish the simplest case of tax evasion, in which the taxable person deliberately fails to fulfil the formal obligations incumbent upon him with the aim of evading payment of the tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">In particular, the failure to file a VAT return, like to failure to keep accounting records, which would allow VAT to be applied and monitored by the tax authorities, and the failure to record the invoices issued and paid are liable to prevent the correct collection of the tax and, therefore, to compromise the proper functioning of the common system of VAT. Therefore, EU law does not prevent Member States from treating such infringements as amounting to tax evasion and from refusing to grant the right to deduct in such cases (see, by analogy, judgment of 7 December 2010 in R., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A742&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑285/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A742&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2010:742</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A742&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point48" hreflang="en" target="CourtTab" type="application/xhtml+xml">48</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A742&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point49" hreflang="en" target="CourtTab" type="application/xhtml+xml">49</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must again be noted that, in the present case, the order for reference also discloses that similar infringements were allegedly committed during several successive tax years. Even though those financial years are not apparently at issue in the main proceedings, the fact remains that they are factual circumstances which may be taken into account by the referring court in the context of the overall assessment which it is required to carry out in accordance with the case-law noted in paragraph 53 above.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, it must be emphasised that a refusal of the right to deduct in circumstances characterising the existence of tax evasion on the part of the taxable person seeking to benefit from that right cannot be considered contrary to the principle of fiscal neutrality, since that principle cannot legitimately be invoked by a taxable person who has intentionally participated in tax evasion and who has jeopardised the operation of the common system of VAT (see, by analogy, judgment of 7 December 2010 in R., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A742&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑285/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A742&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2010:742</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A742&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point51" hreflang="en" target="CourtTab" type="application/xhtml+xml">51</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A742&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point54" hreflang="en" target="CourtTab" type="application/xhtml+xml">54</a> and, to that effect, judgment of 18 December 2014 in <span class="italic">Schoenimport ‘Italmoda’ Mariano Previti and Others</span>, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2455&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑131/13, C‑163/13 and C‑164/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2455&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:2455</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2455&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point48" hreflang="en" target="CourtTab" type="application/xhtml+xml">48</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of all the foregoing considerations, the answer to the second question is that Articles 168, 178, 179, 193, 206, 242, 244, 250, 252 and 273 of the VAT Directive must be interpreted as meaning that they do not preclude national legislation, such as that at issue in the main proceedings, which allows the tax authorities to refuse a taxable person the right to deduct VAT when it is established that that person has fraudulently failed to fulfil most of the formal obligations incumbent upon him in order to be able to benefit from that right, which it is for the referring court to ascertain.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Seventh Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Articles 167, 168, 178, the first paragraph of Article 179, and Articles 180 and 182 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that they do not preclude national legislation which provides for a limitation period for exercising the right to deduct, such as the limitation period at issue in the main proceedings, provided that the principles of equivalence and effectiveness are observed, which it is for the referring court to ascertain.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Articles 168, 178, 179, 193, 206, 242, 244, 250, 252 and 273 of Directive 2006/112 must be interpreted as meaning that they do not preclude national legislation, such as that at issue in the main proceedings, which allows the tax authorities to refuse a taxable person the right to deduct value added tax when it is established that that person has fraudulently failed to fulfil most of the formal obligations incumbent upon him in order to be able to benefit from that right, which it is for the referring court to ascertain.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62015CJ0332_EN_01-E0001" id="t-ECR_62015CJ0332_EN_01-E0001">*1</a>
+</span>)	Language of the case: Italian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

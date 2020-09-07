@@ -1,0 +1,782 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>ARRÊT DE LA COUR (neuvième chambre)</p>
+<p class="sum-title-1">28 mai 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0684_FR_01-E0001" id="c-ECR_62018CJ0684_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Fiscalité – Taxe sur la valeur ajoutée (TVA) – Directive 2006/112/CE – Article 90 – Articles 184 à 186 – Principe de neutralité de la TVA – Régularisation de la déduction de la taxe initialement opérée – Rabais accordés pour des livraisons intracommunautaires et internes de biens »</p>
+<p class="normal">Dans l’affaire C‑684/18,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par la Curtea de Apel Bucureşti (cour d’appel de Bucarest, Roumanie), par décision du 26 septembre 2018, parvenue à la Cour le 6 novembre 2018, dans la procédure</p>
+<p class="normal">
+<span class="bold">World Comm Trading Gfz SRL</span>
+</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">Agenţia Naţională de Administrare Fiscală (ANAF),</span>
+</p>
+<p class="normal">
+<span class="bold">Direcţia Generală Regională a Finanţelor Publice Ploieşti,</span>
+</p>
+<p class="normal">LA COUR (neuvième chambre),</p>
+<p class="normal">composée de M. S. Rodin, président de chambre, M<span class="super">me</span> K. Jürimäe (rapporteure) et M. N. Piçarra, juges,</p>
+<p class="normal">avocat général : M<span class="super">me</span> J. Kokott,</p>
+<p class="normal">greffier : M. A. Calot Escobar,</p>
+<p class="normal">vu la procédure écrite,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour World Comm Trading Gfz SRL, par M<span class="super">e</span> L. Ionescu-Donoiu, avocată,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement roumain, initialement par M<span class="super">mes</span> E. Gane et R. I. Haţieganu ainsi que par M. C.-R. Canţăr, puis par M<span class="super">mes</span> E. Gane et R. I. Haţieganu, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M<span class="super">mes</span> A. Armenia et J. Jokubauskaitė, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">vu la décision prise, l’avocate générale entendue, de juger l’affaire sans conclusions,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation de l’article 90 de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2006, L 347, p. 1</a>, ci-après la « directive TVA »), ainsi que des principes de neutralité de la taxe sur la valeur ajoutée (TVA) et de proportionnalité.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant World Comm Trading Gfz SRL (ci-après « World Comm Trading »), société ayant son siège en Roumanie, à l’Agenția Națională de Administrare Fiscală (ANAF) (agence nationale de l’administration fiscale, Roumanie) et à la Direcția Generală Regională a Finanțelor Publice Ploieşti (direction générale régionale des finances publiques de Ploieşti, Roumanie) au sujet d’une régularisation de la TVA imposée à World Comm Trading à la suite de rabais qui lui ont été consentis pour des livraisons intracommunautaires et internes de biens soumises à cette taxe.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit de l’Union</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 90 de la directive TVA prévoit :</p>
+<p class="normal">« 1.   En cas d’annulation, de résiliation, de résolution, de non-paiement total ou partiel ou de réduction de prix après le moment où s’effectue l’opération, la base d’imposition est réduite à due concurrence dans les conditions déterminées par les États membres.</p>
+<p class="normal">2.   En cas de non-paiement total ou partiel, les États membres peuvent déroger au paragraphe 1. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 184 de cette directive se lit comme suit :</p>
+<p class="normal">« La déduction initialement opérée est régularisée lorsqu’elle est supérieure ou inférieure à celle que l’assujetti était en droit d’opérer. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 185 de ladite directive dispose :</p>
+<p class="normal">« 1.   La régularisation a lieu notamment lorsque des modifications des éléments pris en considération pour la détermination du montant des déductions sont intervenues postérieurement à la déclaration de TVA, entre autres en cas d’achats annulés ou en cas de rabais obtenus.</p>
+<p class="normal">2.   Par dérogation au paragraphe 1, il n’y a pas lieu à régularisation en cas d’opérations totalement ou partiellement impayées, en cas de destruction, de perte ou de vol dûment prouvés ou justifiés et en cas de prélèvements effectués pour donner des cadeaux de faible valeur et des échantillons visés à l’article 16.</p>
+<p class="normal">En cas d’opérations totalement ou partiellement impayées et en cas de vol, les États membres peuvent toutefois exiger la régularisation. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 186 de la même directive :</p>
+<p class="normal">« Les États membres déterminent les modalités d’application des articles 184 et 185. »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit roumain</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 138, sous c), de la Legea nr. 571/2003 privind Codul fiscal (loi n<span class="super">o</span> 571/2003 portant code des impôts), du 22 décembre 2003 (<span class="italic">Monitorul Oficial al României</span>, partie I, n<span class="super">o</span> 927 du 23 décembre 2003), dans sa version en vigueur à la date des faits au principal (ci-après le « code des impôts »), disposait :</p>
+<p class="normal">« La base d’imposition est réduite [...] lorsque les rabais, remises, ristournes et autres réductions du prix prévus à l’article 137, paragraphe 3, sous a), sont accordés après la livraison des biens ou la prestation des services. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Selon l’article 138 bis, paragraphe 1, du code des impôts :</p>
+<p class="normal">« Pour les acquisitions intracommunautaires de biens, la base d’imposition est constituée par les mêmes éléments que ceux retenus pour déterminer, conformément à l’article 137, la base d’imposition de la livraison de ces mêmes biens à l’intérieur du pays. Dans le cas d’une acquisition intracommunautaire de biens, conformément à l’article 130 bis, paragraphe 2, sous a), la base d’imposition est déterminée conformément à l’article 137, paragraphe 1, sous c), et à l’article 137, paragraphe 2. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Le point 19, paragraphe 1, du Hotărârea Guvernului nr. 44/2004 pentru aprobarea Normelor metodologice de aplicare a Legii 571/2003 privind Codul fiscal (décision du gouvernement n<span class="super">o</span> 44/2004 approuvant les normes méthodologiques d’application de la loi n<span class="super">o</span> 571/2003 portant code des impôts, <span class="italic">Monitorul Oficial al României</span>, partie I, n<span class="super">o</span> 112 du 6 février 2004), dans sa version en vigueur à la date du décembre 2008, prévoyait :</p>
+<p class="normal">« Au sens de l’article 137, paragraphe 3, sous a), du code des impôts, les rabais, remises, ristournes, escomptes et autres réductions du prix ne sont pas inclus dans la base d’imposition de la taxe s’ils sont accordés par le fournisseur/prestataire directement au bénéfice du preneur au moment de la livraison/prestation et s’ils ne constituent pas, en réalité, la rémunération d’un service ou d’une livraison. À cette fin, la contrevaleur des biens livrés ou des services fournis est consignée sur la facture, hors taxe, et la somme déduite de la base d’imposition est inscrite sur une ligne séparée, avec le signe moins (“-”). La [TVA] est appliquée sur la différence obtenue. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes du point 20 de cette décision du gouvernement :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« (1)</p>
+</td>
+<td valign="top">
+<p class="normal">Dans les situations visées à l’article 138 du code des impôts, les fournisseurs de biens ou prestataires de services rectifient la base d’imposition de la taxe après avoir effectué la livraison ou prestation, ou après la facturation de celle-ci, même si la livraison ou prestation n’a pas été effectuée, mais que la situation visée à l’article 138 du code des impôts survient après la facturation et l’inscription de la taxe dans la comptabilité de l’assujetti. À cette fin, les fournisseurs ou prestataires doivent établir des factures faisant apparaître les valeurs avec le signe moins (“-”) lorsque la base d’imposition est réduite ou, selon le cas, sans le signe moins (“-”) si la base d’imposition est augmentée, factures qui seront également transmises au bénéficiaire. Les dispositions du présent paragraphe s’appliquent aussi aux livraisons intracommunautaires.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Les bénéficiaires sont tenus de régulariser le droit à déduction exercé initialement, conformément à l’article 148, sous b), et à l’article 149, paragraphe (4), sous e), du code des impôts, pour les seules opérations prévues à l’article 138, sous a) à c) et e), du code des impôts. Les dispositions du présent paragraphe s’appliquent aussi aux livraisons intracommunautaires. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">World Comm Trading, une société établie en Roumanie, a conclu, le 1<span class="super">er</span> avril 2004, un contrat de distribution de produits de téléphonie mobile avec Nokia Corporation (ci-après « Nokia »).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">En vertu de ce contrat, World Comm Trading a acquis auprès de Nokia plusieurs produits de téléphonie mobile. Ces produits ont fait l’objet de livraisons à World Comm Trading par Nokia depuis la Finlande, l’Allemagne, la Hongrie et la Roumanie.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Pour les livraisons intracommunautaires de ces produits depuis la Finlande, l’Allemagne et la Hongrie, Nokia utilisait, respectivement, ses numéros de TVA finlandais, allemand et hongrois. Pour ces livraisons, Nokia a émis des factures exonérées de TVA et World Comm Trading a comptabilisé la TVA en Roumanie, en appliquant le mécanisme de l’autoliquidation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Pour les livraisons internes desdits produits depuis la Roumanie, Nokia a émis des factures comportant son numéro de TVA roumain et World Comm Trading a comptabilisé la TVA en tant que TVA déductible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Nokia accordait trimestriellement à World Comm Trading des rabais quantitatifs pour la vente des produits de téléphonie mobile, à savoir des réductions de prix accordées lorsqu’un certain seuil quantitatif était atteint. Ce seuil quantitatif a été calculé indépendamment du lieu de livraison des produits.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Pour ces rabais, Nokia établissait chaque trimestre une seule facture faisant apparaître un solde négatif, accompagné du signe « - » (moins). Cette facture comportait son numéro de TVA finlandais, même si une partie des produits concernés par les mêmes rabais avaient été livrés depuis la Roumanie. World Comm Trading comptabilisait ensuite la TVA correspondante en appliquant le mécanisme de l’autoliquidation. En effet, World Comm Trading comptabilisait l’intégralité de la somme correspondant aux rabais obtenus comme étant afférente à des opérations intracommunautaires.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">À la suite d’un contrôle, les autorités fiscales roumaines ont constaté que World Comm Trading avait comptabilisé de manière erronée la TVA, n’ayant pas fait de distinction entre les livraisons internes et les livraisons intracommunautaires. Selon ces autorités, World Comm Trading aurait dû comptabiliser la TVA correspondant aux rabais afférents aux livraisons internes de manière séparée de celle correspondante aux rabais afférents aux livraisons intracommunautaires des produits en cause. Les autorités fiscales ont, par conséquent, émis un avis d’imposition d’un montant total de 821377 lei roumains (RON) (environ 173855,84 euros), comprenant également des intérêts et des pénalités de retard.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, la juridiction de renvoi, la Curtea de Apel Bucureşti (cour d’appel de Bucarest, Roumanie), précise, dans sa réponse à une demande d’éclaircissement de la Cour, que ce montant correspondait à la différence entre le montant de la déduction initialement effectuée et un montant réévalué de la TVA déductible, en tenant compte de la base d’imposition rectifiée à la suite des rabais obtenus pour les livraisons internes des produits de téléphonie mobile en Roumanie.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Par décision du 30 octobre 2014, l’agence nationale de l’administration fiscale a rejeté la réclamation introduite par World Comm Trading contre l’avis d’imposition visé au point 17 du présent arrêt.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Après le rejet de son recours contre cette décision par le Tribunalul București (tribunal de grande instance de Bucarest, Roumanie), World Comm Trading a formé appel de cette décision devant la juridiction de renvoi.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Devant celle-ci, World Comm Trading soutient que l’exigence de l’administration fiscale de comptabiliser séparément la TVA correspondant aux rabais afférents aux livraisons internes et celle correspondant aux rabais afférents aux livraisons intracommunautaires relève d’un formalisme excessif. Le budget de l’État ne serait pas affecté par la manière dont elle a comptabilisé ces rabais consentis par Nokia. Par ailleurs, cette exigence serait contraire au principe de neutralité de la TVA, étant donné que, au moment du contrôle fiscal, Nokia avait cessé son activité en Roumanie et ne pouvait plus émettre une facture comportant un numéro de TVA roumain au titre des rabais quantitatifs afférents aux livraisons internes des produits de téléphonie mobile en Roumanie.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Au vu de ces arguments, la juridiction de renvoi s’interroge sur le point de savoir si une société qui a été considérée comme remplissant les conditions de fond pour régulariser son droit à déduction de la TVA pourrait se voir refuser cette régularisation, au motif que la législation nationale ou la pratique administrative nationale interdisent la déduction de la TVA dans le cas où un fournisseur a établi une seule facture, tant pour les produits ayant fait l’objet de livraisons internes que pour les produits ayant fait l’objet de livraisons intracommunautaires.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, la juridiction de renvoi s’interroge, plus particulièrement, sur le point de savoir si le principe de proportionnalité s’oppose à ce que les autorités fiscales nationales imposent à World Comm Trading de restituer la différence entre le montant de la déduction initialement effectuée et un montant réévalué de la TVA déductible. Elle demande, en particulier, si ces autorités peuvent imposer une telle restitution, dans une situation, telle que celle en cause au principal, dans laquelle la base d’imposition a été rectifiée à la suite des rabais obtenus pour les livraisons des produits de téléphonie mobile effectuées en Roumanie, alors même que Nokia avait cessé son activité dans cet État membre et n’était plus en mesure d’émettre une facture pour les rabais afférents aux livraisons internes comportant son numéro de TVA roumain.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Par ailleurs, en se référant à l’article 90 de la directive TVA, qui laisserait aux États membres le soin de déterminer les conditions concrètes dans lesquelles une base d’imposition est réduite, la juridiction de renvoi se demande si cette disposition oblige ceux-ci à adopter une législation claire et prévisible au regard des conditions de forme et de fond requises pour exercer le droit à déduction. En l’absence d’une telle législation nationale, cette juridiction souhaite savoir s’il est possible de refuser un droit à déduction de la TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">C’est dans ces circonstances que la Curtea de Apel Bucureşti (cour d’appel de Bucarest) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« 1)</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 90 de la [directive TVA] et le principe de neutralité de la TVA s’opposent-ils à une législation nationale (ou à une pratique administrative fondée sur une législation peu claire) qui refuse à une société le droit à déduction de la TVA proportionnellement à la valeur de la ristourne appliquée à des livraisons de biens nationaux, au motif que la facture établie par le fournisseur intracommunautaire (en qualité de représentant d’un groupe économique) fait apparaître la ristourne globale, accordée tant pour les produits [ayant fait l’objet des livraisons intracommunautaires] que pour les produits [ayant fait l’objet des livraisons internes] fournis en vertu du même contrat-cadre mais enregistrés en tant qu’acquisitions en provenance de l’État membre en question (achetés auprès d’une société appartenant à ce groupe, ayant un autre numéro de TVA que celui qui figure sur la facture faisant apparaître la ristourne) ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2)</p>
+</td>
+<td valign="top">
+<p class="normal">En cas de réponse négative à la première question, le principe de proportionnalité s’oppose-t-il à ce que le bénéficiaire se voie refuser le droit à déduction de la TVA proportionnellement à la valeur de la ristourne accordée globalement par le fournisseur intracommunautaire, lorsque le fournisseur local (faisant partie du même groupe) a cessé son activité économique et ne peut plus réduire la base d’imposition de la livraison en établissant une facture avec son propre numéro de TVA, en vue du remboursement de la différence de TVA perçue ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les questions préjudicielles</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la première question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">À titre liminaire, il convient de rappeler que, dans le cadre de la procédure de coopération entre les juridictions nationales et la Cour, instituée à l’article 267 TFUE, il appartient à celle-ci de donner au juge national une réponse utile qui lui permette de trancher le litige dont il est saisi. Dans cette optique, il incombe, le cas échéant, à la Cour de reformuler les questions qui lui sont soumises (arrêt du 11 mars 2020, Rensen Shipbuilding, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A194&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑192/19</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2020%3A194&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:194</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2020%3A194&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">25</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, il y a lieu d’observer que la première question porte sur l’interprétation de l’article 90 de la directive TVA, qui vise, à son paragraphe 1, les cas d’annulation, de résiliation, de résolution, de non‑paiement total ou partiel ou de réduction de prix après le moment où s’effectue l’opération, et oblige les États membres à réduire la base d’imposition ainsi que, partant, le montant de la TVA due par l’assujetti chaque fois que, postérieurement à la conclusion d’une transaction, une partie ou la totalité de la contrepartie n’est pas perçue par celui-ci (arrêt du 3 juillet 2019, UniCredit Leasing, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A558&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑242/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A558&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:558</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A558&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Or, ainsi qu’il ressort des indications fournies par la juridiction de renvoi, la première question vise à déterminer si les autorités fiscales nationales sont fondées à soumettre un assujetti à un avis d’imposition, résultant d’une régularisation d’une déduction initialement opérée, à la suite de l’obtention de rabais pour des livraisons internes de biens.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Or, c’est l’article 185 de la directive TVA qui porte, précisément, sur la régularisation d’une déduction initialement opérée, en cas, notamment, de rabais obtenus postérieurement à la déclaration de TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Partant, il y a lieu de comprendre la première question en tant qu’elle vise à déterminer si l’article 185 de la directive TVA doit être interprété en ce sens que les autorités fiscales nationales peuvent imposer à un assujetti une régularisation de la déduction de la TVA initialement opérée, lorsque, à la suite de l’obtention, par celui-ci, de rabais sur des livraisons internes de biens, ces autorités considèrent que la déduction de la TVA initialement opérée était supérieure à celle que cet assujetti était en droit d’opérer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il convient de rappeler que les articles 184 à 186 de la directive TVA déterminent les conditions dans lesquelles l’administration fiscale peut exiger une régularisation de la part d’un assujetti. Le mécanisme de régularisation prévu à ces articles fait partie intégrante du régime de déduction de la TVA établi par cette directive. Il vise à accroître la précision des déductions de manière à assurer la neutralité de la TVA (voir, en ce sens, arrêt du 13 mars 2014, FIRIN, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A151&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑107/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A151&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:151</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A151&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point48" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">48</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A151&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">En ce qui concerne la régularisation de la déduction de la TVA payée en amont, l’article 184 de la directive TVA prévoit que la déduction initialement opérée doit être régularisée lorsqu’elle est inférieure ou supérieure à celle que l’assujetti était en droit d’opérer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Il ressort de l’article 185, paragraphe 1, de cette directive qu’une régularisation d’une déduction initialement opérée doit avoir lieu, notamment, lorsque des modifications des éléments pris en considération pour la détermination du montant des déductions sont intervenues postérieurement à la déclaration de TVA, et ce, en particulier, en cas de rabais obtenus.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Il résulte de la lecture conjointe de l’article 184 et de l’article 185, paragraphe 1, de la directive TVA que, lorsque, en raison de la modification de l’un des éléments initialement pris en considération pour le calcul des déductions, une régularisation s’avère nécessaire, le calcul du montant de cette régularisation doit aboutir à ce que le montant des déductions finalement opérées corresponde à celui que l’assujetti aurait été en droit d’opérer si cette modification avait été initialement prise en compte (voir, en ce sens, arrêt du 16 juin 2016, Kreissparkasse Wiedenbrück, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A452&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑186/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A452&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:452</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A452&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point47" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">47</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, ainsi qu’il ressort des indications fournies par la juridiction de renvoi, les rabais obtenus par World Comm Trading, afférents aux livraisons internes des produits de téléphonie mobile en Roumanie, ont réduit le montant de la TVA déductible pour ces livraisons, tel qu’initialement calculé par les autorités fiscales.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Dans un tel cas, ainsi qu’il ressort de la jurisprudence de la Cour rappelée au point 34 du présent arrêt, il y a lieu de régulariser la déduction de la TVA initialement effectuée, de telle manière que, par cette modification, le montant de cette déduction corresponde, au final, à celui que l’assujetti aurait été en droit d’opérer si ladite modification avait été initialement prise en compte.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Le fait que l’assujetti ne dispose pas d’une facture distincte, afférente aux rabais accordés pour les livraisons internes, établie par le fournisseur national, mais uniquement d’une facture globale émise par le fournisseur intracommunautaire, qui affecte également la base d’imposition des livraisons internes, ne le dispense pas de respecter l’exigence de régulariser la déduction de la TVA initialement opérée, à la suite de la réduction de prix obtenue, cette exigence faisant partie intégrante du régime de déduction de la TVA établi par la directive TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard aux considérations qui précèdent, il convient de répondre à la première question que l’article 185 de la directive TVA doit être interprété en ce sens que les autorités fiscales nationales doivent imposer à un assujetti une régularisation de la déduction de la TVA initialement opérée, lorsque, à la suite de l’obtention, par celui-ci, de rabais pour des livraison internes de biens, ces autorités considèrent que la déduction initialement opérée était supérieure à celle que cet assujetti était en droit d’opérer.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la seconde question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa seconde question, la juridiction de renvoi cherche, en substance, à savoir si l’article 185 de la directive TVA doit être interprété en ce sens qu’une régularisation d’une déduction de la TVA initialement opérée s’impose à l’égard d’un assujetti établi dans un État membre, même lorsque le fournisseur de cet assujetti a cessé ses activités dans cet État membre et que ledit fournisseur ne peut plus, de ce fait, demander le remboursement d’une partie de la TVA qu’il a acquittée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, il ressort des indications fournies par la juridiction de renvoi que, devant cette juridiction, World Comm Trading tire argument, pour s’opposer à la régularisation de la TVA, du fait que son fournisseur, qui a cessé son activité en Roumanie, n’est plus enregistré à la TVA dans cet État membre et n’est, partant, plus en mesure d’émettre une facture pour les rabais afférents aux livraisons nationales comportant un numéro de TVA roumain, ni de demander, auprès des autorités fiscales roumaines, le remboursement d’une partie de la TVA qu’il avait acquittée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il y a lieu de constater que la circonstance que la TVA due par le fournisseur de l’assujetti ne serait pas elle-même régularisée n’a aucune influence sur le droit, pour l’administration fiscale nationale compétente, d’exiger la régularisation de la TVA déduite par un assujetti.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">En effet, d’une part, une telle circonstance ne figure pas parmi les dérogations prévues à l’article 185, paragraphe 2, de la directive TVA qui énumère les différents cas qui ne donnent pas lieu à régularisation d’une déduction initialement opérée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">D’autre part, selon la jurisprudence de la Cour, la circonstance que la TVA due par le fournisseur d’un assujetti ne serait pas elle-même régularisée est sans incidence sur le droit pour l’administration fiscale d’obtenir la restitution de la TVA déduite par un assujetti (voir, en ce sens, arrêt du 13 mars 2014, FIRIN, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A151&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑107/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A151&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:151</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A151&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point57" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">57</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard aux considérations qui précèdent, il y a lieu de répondre à la seconde question que l’article 185 de la directive TVA doit être interprété en ce sens qu’une régularisation d’une déduction de la TVA initialement opérée s’impose à l’égard d’un assujetti établi dans un État membre, même lorsque le fournisseur de cet assujetti a cessé ses activités dans cet État membre et que ledit fournisseur ne peut plus, de ce fait, demander le remboursement d’une partie de la TVA qu’il a acquittée.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (neuvième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">L’article 185 de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée, doit être interprété en ce sens que les autorités fiscales nationales doivent imposer à un assujetti une régularisation de la déduction de la taxe sur la valeur ajoutée initialement opérée, lorsque, à la suite de l’obtention, par celui-ci, de rabais sur des livraisons internes de biens, ces autorités considèrent que la déduction initialement opérée était supérieure à celle que cet assujetti était en droit d’opérer.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">L’article 185 de la directive 2006/112 doit être interprété en ce sens qu’une régularisation d’une déduction de la taxe sur la valeur ajoutée (TVA) initialement opérée s’impose à l’égard d’un assujetti établi dans un État membre, même lorsque le fournisseur de cet assujetti a cessé ses activités dans cet État membre et que ledit fournisseur ne peut plus, de ce fait, demander le remboursement d’une partie de la TVA qu’il a acquittée.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0684_FR_01-E0001" id="t-ECR_62018CJ0684_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : le roumain.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

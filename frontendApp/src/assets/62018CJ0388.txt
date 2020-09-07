@@ -1,0 +1,790 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>ARRÊT DE LA COUR (dixième chambre)</p>
+<p class="sum-title-1">29 juillet 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0388_FR_01-E0001" id="c-ECR_62018CJ0388_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Fiscalité – Harmonisation des législations fiscales – Directive 2006/112/CE – Système commun de taxe sur la valeur ajoutée (TVA) – Article 288, premier alinéa, point 1, et article 315 – Régime particulier des petites entreprises – Régime particulier des assujettis-revendeurs – Assujetti-revendeur relevant du régime de la marge bénéficiaire – Chiffre d’affaires annuel déterminant l’applicabilité du régime particulier des petites entreprises – Marge bénéficiaire ou montants encaissés »</p>
+<p class="normal">Dans l’affaire C‑388/18,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par le Bundesfinanzhof (Cour fédérale des finances, Allemagne), par décision du 7 février 2018, parvenue à la Cour le 13 juin 2018, dans la procédure</p>
+<p class="normal">
+<span class="bold">Finanzamt A</span>
+</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">B,</span>
+</p>
+<p class="normal">LA COUR (dixième chambre),</p>
+<p class="normal">composée de M. C. Lycourgos, président de chambre, MM. E. Juhász (rapporteur) et I. Jarukaitis, juges,</p>
+<p class="normal">avocat général : M. G. Pitruzzella,</p>
+<p class="normal">greffier : M. A. Calot Escobar,</p>
+<p class="normal">vu la procédure écrite,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement allemand, initialement par M. T. Henze et M<span class="super">me</span> S. Eisenberg, puis par M<span class="super">me</span> S. Eisenberg, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M. L. Mantl et M<span class="super">me</span> L. Lozano Palacios, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">vu la décision prise, l’avocat général entendu, de juger l’affaire sans conclusions,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation de l’article 288, premier alinéa, point 1, de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="fr" target="CourtTab">JO 2006, L 347, p. 1</a>, ci-après la « directive TVA »).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant le Finanzamt A (bureau des impôts A, Allemagne) à B, qui exerce une activité de revendeur de voitures d’occasion, au sujet de la méthode de calcul du chiffre d’affaires annuel de ce dernier aux fins de l’application du régime particulier des petites entreprises prévu par la directive TVA.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit de l’Union</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 73 de la directive TVA prévoit :</p>
+<p class="normal">« Pour les livraisons de biens et les prestations de services autres que celles visées aux articles 74 à 77, la base d’imposition comprend tout ce qui constitue la contrepartie obtenue ou à obtenir par le fournisseur ou le prestataire pour ces opérations de la part de l’acquéreur, du preneur ou d’un tiers, y compris les subventions directement liées au prix de ces opérations. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Le titre XII de la directive TVA, intitulé « Régimes particuliers », comporte un chapitre 1, relatif au « Régime particulier des petites entreprises ». À la section 2 de ce chapitre 1, intitulée « Franchises ou atténuations dégressives », figurent les articles 282 à 292 de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">En vertu de l’article 282 de ladite directive, les franchises et les atténuations prévues à ladite section 2 s’appliquent aux livraisons de biens et aux prestations de services effectuées par les petites entreprises.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 288 de la directive TVA dispose :</p>
+<p class="normal">« Le chiffre d’affaires qui sert de référence pour l’application du régime prévu à la présente section est constitué par les montants hors TVA suivants :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1)</p>
+</td>
+<td valign="top">
+<p class="normal">le montant des livraisons de biens et des prestations de services, pour autant qu’elles soient imposées ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2)</p>
+</td>
+<td valign="top">
+<p class="normal">le montant des opérations exonérées avec droit à déduction de la TVA payée au stade antérieur en vertu des articles 110 et 111, de l’article 125, paragraphe 1, de l’article 127 et de l’article 128, paragraphe 1 ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3)</p>
+</td>
+<td valign="top">
+<p class="normal">le montant des opérations exonérées en vertu des articles 146 à 149 et des articles 151, 152 et 153 ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4)</p>
+</td>
+<td valign="top">
+<p class="normal">le montant des opérations immobilières, des opérations financières visées à l’article 135, paragraphe 1, points b) à g), et des prestations d’assurance, à moins que ces opérations n’aient le caractère d’opérations accessoires.</p>
+</td>
+</tr>
+</table>
+<p class="normal">Toutefois, les cessions de biens d’investissement corporels ou incorporels de l’entreprise ne sont pas prises en considération pour la détermination du chiffre d’affaires. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 289 de cette directive, « [l]es assujettis qui bénéficient de la franchise de taxe n’ont pas le droit de déduire la TVA conformément aux articles 167 à 171 et aux articles 173 à 177 ni de la faire apparaître sur leurs factures ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 290 de ladite directive est libellé comme suit :</p>
+<p class="normal">« Les assujettis susceptibles de bénéficier de la franchise de taxe peuvent opter soit pour le régime normal d’application de la TVA, soit pour l’application des modalités simplifiées visées à l’article 281. Dans ce cas, ils bénéficient des atténuations dégressives de la taxe prévues éventuellement par la législation nationale. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Le chapitre 4 du titre XII de la directive TVA est relatif aux « Régimes particuliers applicables dans le domaine des biens d’occasion, des objets d’art, de collection ou d’antiquité ». À la section 2 de ce chapitre 4, intitulée « Régime particulier des assujettis-revendeurs », figurent, à la sous-section 1 portant sur le « Régime de la marge bénéficiaire », les articles 312 à 325 de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 313, paragraphe 1, de ladite directive dispose :</p>
+<p class="normal">« Les États membres appliquent aux livraisons de biens d’occasion, d’objets d’art, de collection ou d’antiquité effectuées par des assujettis-revendeurs un régime particulier d’imposition de la marge bénéficiaire réalisée par l’assujetti-revendeur, conformément aux dispositions de la présente sous-section. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 314 de la même directive prévoit :</p>
+<p class="normal">« Le régime de la marge bénéficiaire s’applique aux livraisons de biens d’occasion, d’objets d’art, de collection ou d’antiquité, effectuées par un assujetti-revendeur, lorsque ces biens lui sont livrés dans [l’Union] par une des personnes suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">une personne non assujettie ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">un autre assujetti, dans la mesure où la livraison du bien par cet autre assujetti est exonérée conformément à l’article 136 ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c)</p>
+</td>
+<td valign="top">
+<p class="normal">un autre assujetti, dans la mesure où la livraison du bien par cet autre assujetti bénéficie de la franchise pour les petites entreprises prévue aux articles 282 à 292, et porte sur un bien d’investissement ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">d)</p>
+</td>
+<td valign="top">
+<p class="normal">un autre assujetti-revendeur, dans la mesure où la livraison du bien par cet autre assujetti-revendeur a été soumise à la TVA conformément au présent régime particulier. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 315 de la directive TVA est libellé comme suit :</p>
+<p class="normal">« La base d’imposition des livraisons de biens visées à l’article 314 est constituée par la marge bénéficiaire réalisée par l’assujetti-revendeur, diminuée du montant de la TVA afférente à la marge bénéficiaire elle-même.</p>
+<p class="normal">La marge bénéficiaire de l’assujetti-revendeur est égale à la différence entre le prix de vente demandé par l’assujetti-revendeur pour le bien et le prix d’achat. »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit allemand</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 1<span class="super">er</span> de l’Umsatzsteuergesetz (loi relative à l’impôt sur le chiffre d’affaires), intitulé « Opérations imposables », dans la version de cette loi applicable au litige au principal (BGBl. 2005 I, p. 386, ci-après l’« UStG »), prévoit :</p>
+<p class="normal">« (1)   Sont soumises à la taxe sur le chiffre d’affaires les opérations suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">les livraisons et autres prestations effectuées à titre onéreux sur le territoire national par un entrepreneur dans le cadre de son entreprise [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 10 de l’UStG, intitulé « Assiette pour les livraisons, autres prestations et acquisitions intracommunautaires », dispose :</p>
+<p class="normal">« Lors des livraisons et autres prestations (article 1<span class="super">er</span>, paragraphe 1, point 1, première phrase), le chiffre d’affaires est déterminé [...] d’après la rémunération. La rémunération est constituée par tout ce que mobilise le bénéficiaire de la prestation pour obtenir cette dernière, à l’exclusion cependant de la taxe sur le chiffre d’affaires [...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 19 de l’UStG, intitulé « Imposition des petits entrepreneurs », est libellé comme suit :</p>
+<p class="normal">« (1)   La taxe sur le chiffre d’affaires due pour les opérations au sens de l’article 1<span class="super">er</span>, paragraphe 1, point 1, n’est pas collectée auprès des entrepreneurs [...] si le chiffre d’affaires visé dans la deuxième phrase, majoré de l’impôt correspondant n’a pas dépassé au cours de l’année civile précédente 17500 euros et ne dépassera probablement pas 50000 euros durant l’année civile en cours. Le chiffre d’affaires au sens de la première phrase est le chiffre d’affaires global calculé d’après les encaissements déduction faite des revenus des immobilisations qui y sont contenus. [...]</p>
+<p class="normal">[...]</p>
+<p class="normal">(3)   Le chiffre d’affaires global est la somme des opérations imposables réalisées par l’entrepreneur, au sens de l’article 1<span class="super">er</span>, paragraphe 1, point 1, déduction faite des opérations suivantes :</p>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 25 bis de l’UStG, intitulé « Régime de la marge bénéficiaire », prévoit :</p>
+<p class="normal">« (1)   Pour les livraisons, au sens de l’article 1<span class="super">er</span>, paragraphe 1, point 1, de biens mobiliers, l’imposition se fait en application des dispositions suivantes (régime de la marge bénéficiaire) lorsque les conditions énumérées ci-après sont remplies :</p>
+<p class="normal">[...]</p>
+<p class="normal">(3)   Le chiffre d’affaires est calculé d’après le montant de l’excédent entre le prix de vente et le prix d’acquisition du bien ; [...]</p>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et la question préjudicielle</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">B, en tant qu’il exerce une activité de revendeur de véhicules d’occasion, a réalisé des opérations imposables soumises au régime de la marge bénéficiaire en vertu de l’article 25 bis de l’UStG. Son chiffre d’affaires, calculé d’après ses encaissements, s’est élevé à 27358 et à 25115 euros au titre, respectivement, des années 2009 et 2010.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ses déclarations de TVA du 10 février 2010 (pour l’année 2009) et du 23 mars 2011 (pour l’année 2010), B a considéré qu’il pouvait se prévaloir de la qualité de « petit entrepreneur », au sens de l’article 19 de l’UStG, dans la mesure où ses chiffres d’affaires pour les années 2009 et 2010 étaient respectivement de 17328 euros et de 17470 euros. B a calculé lesdits chiffres d’affaires, non pas d’après ses encaissements, mais d’après sa marge bénéficiaire, conformément à l’article 25 bis, paragraphe 3, de l’UStG.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">En ce qui concerne la première de ces déclarations de TVA, l’administration fiscale a admis que le chiffre d’affaires annuel servant de référence pour l’application du régime des petites entreprises pouvait être déterminé en fonction du montant de la marge bénéficiaire et a donc accepté que B bénéficie du régime particulier des petites entreprises.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Toutefois, s’agissant de la seconde déclaration de TVA, le bureau des impôts A a refusé, dans un avis d’imposition du 4 octobre 2012, que le régime des petites entreprises soit appliqué à B pour l’exercice de 2010. En effet, la pratique administrative avait été modifiée par l’Umsatzsteuer-Anwendungserlass (instruction relative à l’application de la taxe sur le chiffre d’affaires), du 1<span class="super">er</span> octobre 2010 (BStBl. 2010 I, p. 846), en vertu de laquelle, pour l’application du régime des petites entreprises, notamment dans les cas d’application du régime de la marge bénéficiaire aux revendeurs, le chiffre d’affaires annuel devait être calculé d’après les encaissements et non pas en fonction de la marge bénéficiaire.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">La réclamation formée contre cet avis d’imposition ayant été rejetée, B a introduit un recours devant le Finanzgericht (tribunal des finances, Allemagne) compétent, qui a annulé ledit avis d’imposition, au motif que les encaissements allant au-delà de la marge bénéficiaire ne devraient pas être pris en compte pour le calcul du chiffre d’affaires, aux fins de l’application du régime particulier des petites entreprises.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Cette juridiction a considéré que l’article 288, premier alinéa, point 1, de la directive TVA était pourvu d’effet direct et qu’il s’opposait à la méthode de calcul retenue par le bureau des impôts A. En effet, cette disposition énoncerait que le chiffre d’affaires qu’il convient de retenir pour l’application du régime des petites entreprises est constitué du montant des livraisons de biens et de services « pour autant qu’elles soient imposées ». Or, le régime de la marge bénéficiaire, qui est applicable aux livraisons réalisées par B, prévoirait, en vertu de l’article 315 de la directive TVA, que seule la marge bénéficiaire est imposée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Dans le cadre du recours en <span class="italic">Revision</span> qu’il a introduit devant le Bundesfinanzhof (Cour fédérale des finances, Allemagne), le bureau des impôts A soutient qu’il a été fait une interprétation erronée de l’article 288, premier alinéa, point 1, de la directive TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi semble partager la position du Finanzgericht (tribunal des finances), selon laquelle le chiffre d’affaires qui doit servir de référence pour l’application du régime des petites entreprises, prévu aux articles 282 et suivants de la directive TVA, à des commerçants soumis au régime de la marge bénéficiaire en vertu de l’article 314 de cette directive, doit être déterminé en fonction de cette marge, dès lors que l’article 313, paragraphe 1, de ladite directive prévoit une réglementation spéciale applicable à ces commerçants. Elle indique que, selon l’article 288, premier alinéa, point 1, de la directive TVA, le chiffre d’affaires dont il convient de tenir compte est constitué du montant des livraisons de biens, « pour autant qu’elles soient imposées ». Or, cette précision renverrait à l’étendue de la base d’imposition, laquelle serait limitée, dans le cadre du régime prévu à l’article 315 de cette directive, à la marge bénéficiaire.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Toutefois, cette juridiction relève que l’expression « pour autant qu’elles soient imposées », figurant à l’article 288, premier alinéa, point 1, de la directive TVA pourrait aussi être comprise en ce sens que seules les prestations exonérées doivent être exclues du chiffre d’affaires pertinent, pour l’application du régime des petites entreprises. En vertu de cette approche, les livraisons soumises au régime de la marge bénéficiaire non exonérées, mais imposées en tant que telles, devraient être prises en compte intégralement et non pas uniquement à concurrence de l’assiette du chiffre d’affaires déterminé par la réglementation spéciale figurant à l’article 315 de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi n’exclut pas, par ailleurs, que, en vertu de l’article 288, premier alinéa, point 1, de la directive TVA, il puisse être considéré que le « montant » des livraisons de biens correspond à la « somme » des encaissements réalisés et que cette disposition vise, par conséquent, l’assiette de l’impôt, au sens de l’article 73 de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Estimant que la solution du litige dont il est saisi nécessite l’interprétation de dispositions de la directive TVA, le Bundesfinanzhof (Cour fédérale des finances) a décidé de surseoir à statuer et de poser à la Cour la question préjudicielle suivante :</p>
+<p class="normal">« Convient-il, dans les cas d’application du régime de la marge bénéficiaire au titre des articles 311 et suivants de la directive [TVA], d’interpréter les dispositions de l’article 288, premier alinéa, point 1, de cette directive en ce sens que, pour le calcul du chiffre d’affaires pertinent lors de la livraison de biens au titre de l’article 314 de la directive [TVA], il y a lieu de se fonder, conformément à l’article 315 de ladite directive, sur la différence entre le prix de vente demandé et le prix d’achat (marge commerciale) ? »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur la question préjudicielle</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa question, la juridiction de renvoi demande, en substance, si l’article 288, premier alinéa, point 1, de la directive TVA doit être interprété en ce sens qu’il s’oppose à une réglementation nationale ou à une pratique administrative nationale en vertu de laquelle le chiffre d’affaires servant de référence pour l’applicabilité du régime particulier des petites entreprises à un assujetti relevant du régime particulier de la marge bénéficiaire prévu pour les assujettis-revendeurs est calculé, conformément à l’article 315 de cette directive, en tenant uniquement compte de la marge bénéficiaire réalisée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">En vertu de l’article 288, premier alinéa, point 1, de la directive TVA, le chiffre d’affaires qui sert de référence pour l’application du régime particulier des petites entreprises est constitué par le montant hors TVA des livraisons de biens et des prestations de services, pour autant qu’elles sont imposées.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Selon une jurisprudence constante, il découle des exigences tant de l’application uniforme du droit de l’Union que du principe d’égalité que les termes d’une disposition du droit de l’Union, qui ne comporte aucun renvoi exprès au droit des États membres pour déterminer son sens et sa portée, doivent normalement trouver, dans toute l’Union, une interprétation autonome et uniforme, qui doit être recherchée en tenant compte non seulement des termes de celle-ci, mais également du contexte de la disposition et de l’objectif poursuivi par la réglementation en cause (arrêt du 23 mai 2019, WB, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A444&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑658/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A444&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2019:444</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A444&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point50" hreflang="fr" target="CourtTab" type="application/xhtml+xml">50</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant, tout d’abord, de l’interprétation littérale de l’article 288, premier alinéa, point 1, de la directive TVA, il convient de faire observer que, d’une part, c’est le montant total hors TVA des livraisons de biens et des prestations de services imposées qui constitue, selon les termes mêmes de cette disposition, le chiffre d’affaires de l’assujetti mais que, d’autre part, le terme « imposées » se rapporte non pas au terme « montant », mais à « livraisons » ou à « prestations ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit que, selon son libellé, cette disposition exige que, pour que leur montant soit intégré dans le chiffre d’affaires de l’assujetti, les livraisons ou les prestations soient imposées en tant que telles, sans préciser de quelle manière elles doivent l’être, c’est-à-dire sans que soient indiquées les modalités selon lesquelles elles sont imposées.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Il ne découle pas non plus de ce libellé que, dans chaque cas, les livraisons ou les prestations doivent être entièrement imposées.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Or, il est constant que les livraisons effectuées par l’assujetti-revendeur sont imposées, même si elles le sont en application d’un régime particulier.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Par conséquent, une interprétation littérale de l’article 288, premier alinéa, point 1, de la directive TVA implique que le montant total des livraisons effectuées par les assujettis-revendeurs, et non pas la marge bénéficiaire de ces derniers, constitue le chiffre d’affaires qui sert de référence aux fins de l’applicabilité du régime particulier des petites entreprises.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">L’économie générale, la genèse et la finalité de la directive TVA confirment cette interprétation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">En ce qui concerne l’économie générale de cette directive, il y a lieu de rappeler que, en l’occurrence, est en cause l’articulation entre deux régimes particuliers prévus par ladite directive, à savoir le régime particulier des petites entreprises et celui des assujettis-revendeurs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Or, ainsi que l’a fait valoir à juste titre le gouvernement allemand, le régime particulier des petites entreprises et celui des assujettis-revendeurs sont deux régimes particuliers autonomes, indépendants l’un de l’autre. En l’absence de référence, dans l’un de ces régimes particuliers, aux éléments et aux notions figurant dans l’autre régime, le contenu de l’un de ceux-ci doit, en principe, être apprécié sans qu’il y ait lieu de tenir compte du contenu de l’autre.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant de la genèse de la réglementation relative à la TVA, il convient de relever que l’évolution de cette réglementation confirme également que la notion de « marge bénéficiaire réalisée par l’assujetti-revendeur » n’est pas susceptible d’exercer une influence sur l’interprétation qu’il convient de faire de la notion de « chiffre d’affaires » dans le cadre du régime particulier des petites entreprises.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">En effet, il importe de rappeler que le régime particulier des petites entreprises a été institué par la sixième directive 77/388/CEE du Conseil, du 17 mai 1977, en matière d’harmonisation des législations des États membres relatives aux taxes sur le chiffre d’affaires – Système commun de taxe sur la valeur ajoutée : assiette uniforme (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1977:145:TOC" hreflang="fr" target="CourtTab">JO 1977, L 145, p. 1</a>), et que ce n’est qu’ultérieurement, afin d’établir un régime particulier pour les assujettis-revendeurs, qu’a été adoptée la directive 94/5/CE du Conseil, du 14 février 1994, complétant le système commun de la taxe sur la valeur ajoutée et modifiant la directive 77/388/CEE – Régime particulier applicable dans le domaine des biens d’occasion, des objets d’art, de collection ou d’antiquité (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1994:060:TOC" hreflang="fr" target="CourtTab">JO 1994, L 60, p. 16</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Les règles relatives à la détermination du chiffre d’affaires en vue de l’application du régime particulier des petites entreprises, établies par la sixième directive 77/388, ne sauraient, par conséquent, être considérées comme alignées, à défaut d’une disposition expresse prévoyant un tel alignement, sur celles relatives au régime particulier des assujettis-revendeurs établi par la directive 94/5.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant de la finalité du régime particulier des petites entreprises, la Cour a jugé que, par ce régime particulier, le législateur de l’Union a souhaité simplifier les exigences de comptabilité qu’implique le système normal de la TVA (arrêt du 6 octobre 2005, MyTravel, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A591&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑291/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A591&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2005:591</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A591&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point39" hreflang="fr" target="CourtTab" type="application/xhtml+xml">39</a>), ces simplifications administratives visant notamment à renforcer la création, l’activité et la compétitivité des petites entreprises (arrêts du 26 octobre 2010, Schmelz, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A632&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑97/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A632&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2010:632</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A632&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point63" hreflang="fr" target="CourtTab" type="application/xhtml+xml">63</a>, et du 2 mai 2019, Jarmuškienė, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A348&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑265/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A348&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2019:348</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A348&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="fr" target="CourtTab" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il convient de relever, à l’instar du gouvernement allemand, que l’objectif poursuivi par le régime particulier des petites entreprises ne vise pas à renforcer la compétitivité des entreprises de grande taille exerçant une activité de revente de biens d’occasion. Si les encaissements excédant la marge bénéficiaire n’étaient pas pris en compte pour le calcul du chiffre d’affaires aux fins de l’application de ce régime particulier, de telles entreprises, qui réalisent un chiffre d’affaires élevé et dégagent une marge bénéficiaire faible, pourraient relever de ce dernier et profiter, ainsi, d’un avantage concurrentiel injustifié.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Il résulte de l’ensemble des considérations qui précèdent qu’il convient de répondre à la question posée que l’article 288, premier alinéa, point 1, de la directive TVA doit être interprété en ce sens qu’il s’oppose à une réglementation nationale ou à une pratique administrative nationale en vertu de laquelle le chiffre d’affaires servant de référence pour l’applicabilité du régime particulier des petites entreprises à un assujetti relevant du régime particulier de la marge bénéficiaire prévu pour les assujettis-revendeurs est calculé, conformément à l’article 315 de cette directive, en tenant compte uniquement de la marge bénéficiaire réalisée. Ce chiffre d’affaires doit être établi sur la base de tous les montants hors TVA encaissés ou à encaisser par cet assujetti-revendeur, indépendamment des modalités selon lesquelles ces montants seront effectivement imposés.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (dixième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">L’article 288, premier alinéa, point 1, de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée, doit être interprété en ce sens qu’il s’oppose à une réglementation nationale ou à une pratique administrative nationale en vertu de laquelle le chiffre d’affaires servant de référence pour l’applicabilité du régime particulier des petites entreprises à un assujetti relevant du régime particulier de la marge bénéficiaire prévu pour les assujettis-revendeurs est calculé, conformément à l’article 315 de cette directive, en tenant compte uniquement de la marge bénéficiaire réalisée. Ce chiffre d’affaires doit être établi sur la base de tous les montants hors taxe sur la valeur ajoutée encaissés ou à encaisser par cet assujetti-revendeur, indépendamment des modalités selon lesquelles ces montants seront effectivement imposés.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0388_FR_01-E0001" id="t-ECR_62018CJ0388_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : l’allemand.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

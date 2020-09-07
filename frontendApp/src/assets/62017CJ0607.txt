@@ -1,0 +1,701 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (First Chamber)</p>
+<p class="sum-title-1">19 June 2019 (<span class="note">
+<a href="#t-ECR_62017CJ0607_EN_01-E0001" id="c-ECR_62017CJ0607_EN_01-E0001">*1</a>
+</span>) (<span class="note">
+<a href="#t-ECR_62017CJ0607_EN_01-E0002" id="c-ECR_62017CJ0607_EN_01-E0002">1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Corporation tax — Group of companies — Freedom of establishment — Deduction of losses of a non-resident subsidiary — Concept of ‘final losses’ — Merger-absorption of the subsidiary by the parent company — Legislation of the State of establishment of the subsidiary granting the deduction of losses in the context of a merger solely to the entity sustaining those losses)</p>
+<p class="normal">In Case C-607/17,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Högsta förvaltningsdomstolen (Supreme Administrative Court, Sweden), made by decision of 5 October 2017, received at the Court on 24 October 2017, in the proceedings</p>
+<p class="normal">
+<span class="bold">Skatteverket</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Memira Holding AB,</span>
+</p>
+<p class="normal">THE COURT (First Chamber),</p>
+<p class="normal">composed of J.-C. Bonichot (Rapporteur), President of the Chamber, C. Toader, A. Rosas, L. Bay Larsen and M. Safjan, Judges,</p>
+<p class="normal">Advocate General: J. Kokott,</p>
+<p class="normal">Registrar: C. Strömholm, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 24 October 2018,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Skatteverket, by J. Anderberg, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Memira Holding AB, by L. Staberg, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Swedish Government, by A. Falk, A. Alriksson, C. Meyer-Seitz, H. Shev, H. Eklinder, L. Zettergren and J. Lundberg, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the German Government, initially by T. Henze and subsequently by R. Kanitz, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Italian Government, by G. Palmieri, acting as Agent, and G. De Socio, avvocato dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Finnish Government, by S. Hartikainen, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the United Kingdom Government, by S. Brandon and G. Brown, acting as Agents, and by D. Yates, Barrister,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by K. Simonsson and by N. Gossement, E. Ljung Rasmussen and G. Tolstoy, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 10 January 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 49 TFEU, read in conjunction with Article 54 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">This request has been made in proceedings between the Skatteverket (Swedish Tax Board) and Memira Holding AB (‘Memira’) concerning the possibility for Memira of deducting from its corporation tax the losses of a subsidiary established in another Member State where that subsidiary has been absorbed by merger.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Swedish law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">The tax scheme applicable to mergers of companies is regulated by Chapter 37 of the inkomstskattelag (1999:1229) (Law (1999:1229) on income tax, the ‘Law on income tax’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraphs 16 to 29 of this chapter lay down special tax rules applicable to mergers known as ‘qualifying’ mergers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">In order for a merger to be a qualifying merger, under Paragraphs 11 and 12 of that chapter it is necessary, on the one hand, for the transferring company to be liable, immediately before the merger, to pay tax in Sweden on revenue from at least part of its economic activity and, on the other hand, for the receiving company, immediately after the merger, to pay tax in Sweden on revenue from the economic activity in respect of which the transferring company was taxed. Moreover, the revenue in question may not be exempt from taxation in Sweden under a double taxation agreement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">The result of a qualifying merger is, under Paragraphs 17 and 18 of Chapter 37 of the Law on income tax, that the transferring company is not to enter any revenue or deduct any expenditure, by reason of the merger, in respect of the economic activity referred to in Paragraph 11 of that chapter and that the receiving company is to adopt the transferring company’s tax situation for the tax treatment of that activity. That means, inter alia, that the receiving company may deduct losses in the transferring company from earlier tax years, within certain limits set out in Paragraphs 21 to 26 of that chapter.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Chapter 35a of the Law on income tax provides for cross-border group relief allowing a final loss sustained by a wholly-owned foreign subsidiary in a country belonging to the European Economic Area (EEA) to be transferred, provided, inter alia, that the subsidiary is directly owned, that it has been liquidated and that the parent company does not carry out, via an associated company, an activity in the subsidiary’s State after liquidation. Those provisions do not apply to mergers, however, according to the referring court.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">German law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the findings of the referring court, which have not been contested by the German Government, that, under German law, it is not possible to transfer losses between companies liable for tax in Germany in the event of a merger.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Memira is a Swedish company exercising, via its subsidiaries, activities in the sector of ophthalmic surgery. In Germany, it has only one subsidiary, which owns and operates clinics. The activity in the subsidiary led to losses and Memira provided a loan to the subsidiary to finance its operations, without success. The subsidiary has therefore ceased activity and only debts and certain liquid assets remain on its balance sheet.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Memira is considering absorbing its German subsidiary in a cross-border merger which would lead to that subsidiary being dissolved without liquidation and Memira subsequently no longer exercising any activity, either directly or indirectly, in Germany.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Of the losses sustained by Memira’s German subsidiary, it was not possible to set off an amount of EUR 7.6 million against earlier profits. They will be eligible for deduction from German corporation tax in relation to that subsidiary either by deducting them from current profits or from earlier profits without limit of time. However, they will not be eligible for deduction in the situation envisaged by Memira and mentioned in the previous paragraph since, under German law, it is not possible to transfer losses to another company which is liable for tax in Germany in the event of a merger.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">In that context, Memira applied for a preliminary decision by the Skatterättsnämnden (Revenue Law Commission, Sweden) in order to determine, if it implements its planned merger, whether it could rely on the freedom of establishment to deduct the losses of its German subsidiary from its Swedish corporation tax; the Revenue Law Commission gave a negative answer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the preliminary decision was that the losses of Memira’s German subsidiary cannot be taken over by the parent company on the basis of the provisions of Swedish law on taxation on qualifying mergers, since the condition that the subsidiary be liable for tax in Sweden is not satisfied. Nor can deduction be allowed under the rules on group relief, since these rules do not cover a situation such as that envisaged by Memira.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">The Revenue Law Commission accepted that such a situation would restrict the freedom of establishment but noted that, according to the reasoning of the judgment of 13 December 2005, <span class="italic">Marks &amp; Spencer</span> (C‑446/03, ‘the judgment in Marks &amp; Spencer, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A763&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2005:763</a>), that restriction may be justified provided that the principle of proportionality has been respected and, therefore, that the losses at issue do not fall within one of the situations covered by paragraph 55 of that judgment, in which the losses are regarded as ‘final’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Relying on the case-law of the Court of Justice, the Revenue Law Commission noted that, when assessing whether the losses in question are final, it is necessary to take into account how those losses are treated under the legislation of the State where the subsidiary is established. In that regard, it stated that since, under German law, there is no possibility of using those losses in the event of a merger with another undertaking which is liable for tax in Germany, the losses may not be regarded as final.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Three members of the Revenue Law Commission, by a dissenting opinion, on the contrary claimed that the losses of Memira’s German subsidiary should be regarded as final to the extent that there is no German undertaking or any undertaking with a permanent establishment in Germany in Memira with which the subsidiary could be merged. Accordingly, the fact that, under German law, it is not possible to transfer losses in the event of a merger with another undertaking liable for tax in Germany is irrelevant to the assessment of whether the subsidiary’s losses are final.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Both the Tax Board and Memira challenged the preliminary decision of the Revenue Law Commission before the Högsta förvaltningsdomstolen (Supreme Administrative Court, Sweden).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">The Högsta förvaltningsdomstolen (Supreme Administrative Court) holds that the case-law of the Court of Justice, in particular the judgment of 21 February 2013, A (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A84&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑123/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A84&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:84</a>), does not specify whether, in order to assess the finality of a subsidiary’s losses, account should be taken of the possibilities afforded by the legislation of the subsidiary’s State of establishment to other legal entities of taking into account these losses and, if so, how that legislation should be taken into account.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Högsta förvaltningsdomstolen (Supreme Administrative Court), decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Must account be taken, in the assessment of whether a loss in a subsidiary in another Member State is definitive within the meaning given in, inter alia, the [judgment of 21 February 2013, A (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A84&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑123/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A84&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:84</a>),] and the parent company may thus deduct the loss on the basis of Article 49 TFEU, of the fact that, under the rules of the subsidiary’s State, there are restrictions on the possibility for parties other than the party itself which made the loss to deduct the loss?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">If a restriction such as that referred to in Question 1 must be taken into consideration, must account then be taken of whether, in the case in question, there actually is another party in the subsidiary’s State which could have deducted the losses if that were permitted there?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">It must, as preliminary point, be recalled that, in paragraphs 43 to 51 of the judgment in <span class="italic">Marks &amp; Spencer</span>, the Court has held that a restriction of the freedom of establishment which limits the right of a company to deduct the losses of a foreign subsidiary, whereas the losses of a resident subsidiary may be deducted, is justified by the need to preserve the balanced allocation of the power to impose taxes between the Member States and to prevent the risk of losses being used twice and of tax avoidance.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">In paragraph 55 of that judgment, the Court nonetheless held that, even though that restriction is justified in principle, it is disproportionate for parent company’s State of establishment to preclude the possibility for the parent company to take into account at its level for tax purposes the losses of a non-resident subsidiary that are classified as final in a situation in which:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the non-resident subsidiary has exhausted the possibilities available in its State of establishment of having the losses taken into account for the accounting period concerned by the claim for relief and also for previous accounting periods, if necessary by transferring those losses to a third party or by offsetting these losses against the profits made by the subsidiary in previous periods, and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">there is no possibility for the foreign subsidiary’s losses to be taken into account in its State of establishment for future periods either by the subsidiary itself or by a third party, in particular where the subsidiary has been sold to that third party.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">By its first question the referring court seeks, in essence, to establish the significance which should be accorded, in the assessment of the finality of the losses of a non-resident subsidiary, within the meaning of paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span>, to the fact that the subsidiary’s Member State of establishment does not allow the losses of one company to be transferred, in the event of a merger, to another company liable for corporation tax, but the parent company’s Member State nevertheless authorises such a transfer via a merger between resident companies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">The Court is therefore called upon to clarify whether a situation such as that envisaged by Memira is included in those referred to by the Court in the second indent of paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span>, in which there is no possibility for the losses of the foreign subsidiary to be taken into account in its State of establishment for future periods.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">It should be recalled in that regard that the grounds relied on by the Court in the second indent of paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span> expressly envisaged that the absence of such a possibility on which the finality of the losses depends may be applied to the situation in which they are taken into account by a third party for future periods, in particular where the subsidiary has been sold to that third party.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">In a situation such as that envisaged by Memira, and even if all the other impossibilities referred to in paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span> have been met, the losses would not be characterised as final if there is a possibility of deducting those losses economically by transferring them to a third party.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">In fact, as the Advocate General stated in points 65 to 70 of her Opinion, it cannot be excluded from the outset that a third party may take into account for tax purposes the losses of the subsidiary in that subsidiary’s State of establishment, for example following a sale of that subsidiary for a price including the tax advantage represented by the deductibility of losses for the future (see, to that effect, judgment of 21 February 2013, A, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A84&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C 123/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A84&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:84</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A84&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point52" hreflang="en" target="CourtTab" type="application/xhtml+xml">52</a> et seq., and judgment delivered today, <span class="italic">Holmen</span>, C‑608/17, paragraph 38).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, in a situation such as that envisaged by Memira, it is for Memira to demonstrate that the possibility referred to in the previous paragraph is precluded, as the mere fact that the subsidiary’s State of establishment does not allow the transfer of losses in the event of a merger cannot, in itself, be sufficient to regard the losses of the subsidiary as being final.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the answer to the first question is that, for the purposes of the assessment of the finality of the losses of a non-resident subsidiary, within the meaning of paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span>, the fact that the subsidiary’s Member State of establishment does not allow the losses of one company to be transferred, in the event of a merger, to another company liable for corporation tax, whereas such a transfer is provided for by the Member State in which the parent company is established in the event of a merger between resident companies, is not decisive, unless the parent company demonstrates that it is impossible for it to deduct those losses by ensuring, in particular by means of a sale, that they are fiscally taken into account by a third party for future tax periods.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">By its second question, the referring court asks, in essence, whether, if the fact mentioned in the first question becomes relevant, account must be taken of the fact that there is, in the State of establishment of the subsidiary, no other entity which could have deducted the losses in the context of a merger if a deduction had been authorised in that country.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard and as stated in the answer to the first question, the restrictions on the transfer of losses by merger stemming from the legislation of the subsidiary’s State of establishment are not decisive so long as the parent company has not adduced evidence that it is impossible for those losses to be used by a third party, in particular after a sale for a price including the tax value of the losses.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">If such evidence is adduced and the other conditions referred to in paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span> have been met, the fiscal authorities are required to find that the losses of a non-resident subsidiary are final and that it is therefore disproportionate to not allow the parent company to take them into account at its level for tax purposes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">From that perspective, in the assessment of the finality of the losses, whether or not there were other entities in the State of establishment of the loss-making subsidiary which could have had the losses of that subsidiary transferred to them via a merger if such a possibility had been afforded is irrelevant.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the answer to the second question should be that, if the fact referred to in the first question becomes relevant, the fact that there is, in the State of establishment of the subsidiary, no other entity which could have deducted those losses in the event of a merger if such a deduction had been authorised is irrelevant.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (First Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">For the purposes of the assessment of the finality of the losses of a non-resident subsidiary, within the meaning of paragraph 55 of the judgment of 13 December 2005, Marks &amp; Spencer (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A763&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑446/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A763&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2005:763</a>), the fact that the subsidiary’s Member State of establishment does not does not allow the losses of one company to be transferred, in the event of a merger, to another company liable for corporation tax, whereas such a transfer is provided for by the Member State in which the parent company is established in the event of a merger between resident companies, is not decisive, unless the parent company demonstrates that it is impossible for it to deduct those losses by ensuring, in particular by means of a sale, that they are fiscally taken into account by a third party for future tax periods</span>.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">If the fact referred to in the first question becomes relevant, the fact that there is, in the State of establishment of the subsidiary, no other entity which could have deducted those losses in the event of a merger if such a deduction had been authorised is irrelevant.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62017CJ0607_EN_01-E0001" id="t-ECR_62017CJ0607_EN_01-E0001">*1</a>
+</span>)	Language of the case: Swedish.</p>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62017CJ0607_EN_01-E0002" id="t-ECR_62017CJ0607_EN_01-E0002">1</a>
+</span>)	The wording of paragraphs 24 and 27 of this document have been modified after it was first put online.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

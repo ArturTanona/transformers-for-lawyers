@@ -1,0 +1,788 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Seventh Chamber)</p>
+<p class="sum-title-1">30 January 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0725_EN_01-E0001" id="c-ECR_62018CJ0725_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Article 56 TFEU — Article 36 of the Agreement on the European Economic Area — Freedom to provide services — Tax on stock exchange transactions concluded or executed in a Member State — Difference in treatment to the detriment of recipients of services using non-resident professional intermediaries — Restriction — Justification)</p>
+<p class="normal">In Case C‑725/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Grondwettelijk Hof (Constitutional Court, Belgium), made by decision of 8 November 2018, received at the Court on 22 November 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Anton van Zantbeek VOF</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Ministerraad,</span>
+</p>
+<p class="normal">THE COURT (Seventh Chamber),</p>
+<p class="normal">composed of T. von Danwitz (Rapporteur), acting as President of the Chamber, C. Vajda and A. Kumin, Judges,</p>
+<p class="normal">Advocate General: H. Saugmandsgaard Øe,</p>
+<p class="normal">Registrar: Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Anton van Zantbeek VOF, by A. Maelfait and S. van Bree, advocaten,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Belgian Government, by C. Pochet and by P. Cottin and J.‑C. Halleux, acting as Agents, and by C. Decordier, avocate,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Italian Government, by G. Palmieri, acting as Agent, and P. Gentili, avvocato dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by W. Roels and R. Pethke, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Articles 56 and 63 TFEU and Articles 36 and 40 of the Agreement on the European Economic Area of 2 May 1992 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1994:001:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1994 L 1, p. 3</a>; ‘the EEA Agreement’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Anton van Zantbeek VOF and Ministerraad (Council of Ministers, Belgium) concerning an action for annulment of provisions of national law extending the scope of a tax on stock exchange transactions.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Belgian law</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Articles 122 and 123 of the loi-programme du 25 décembre 2016 (Programme Law of 25 December 2016) (<span class="italic">Moniteur belge</span> of 29 December 2016, p. 90879) (‘the Programme Law’) amended the Code des droits et taxes divers (Code of miscellaneous taxes and duties), by inserting a second paragraph into Articles 120 and 126/2 of that code, respectively.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 120 of the Code of miscellaneous taxes and duties, as amended by the Programme Law (‘the CDTD’), provides:</p>
+<p class="normal">‘The following transactions, concluded or executed in Belgium in respect of Belgian or foreign Government stocks shall be subject to the tax on stock exchange transactions:</p>
+<p class="normal">1. any sale or purchase and, more generally, any disposal or acquisition for valuable consideration;</p>
+<p class="normal">…</p>
+<p class="normal">3. any repurchase of its shares by an investment company if the transaction involves capitalisation shares;</p>
+<p class="normal">…</p>
+<p class="normal">The transactions referred to in paragraph 1 shall also be deemed to be concluded or executed in Belgium where the order relating to the transactions is given directly or indirectly to an intermediary established abroad:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">by a natural person who has his habitual residence in Belgium;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">or by a legal person on behalf of a registered office or an establishment of that legal person in Belgium.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 125/1 of the CDTD provides:</p>
+<p class="normal">‘The tax shall be payable at the latest on the last working day:</p>
+<p class="normal">1. of the second month following that in which the transaction was concluded or executed, where the issuer of an order is the person liable for payment of the tax;</p>
+<p class="normal">2. of the month following the month in which the transaction was concluded or executed, in other cases.</p>
+<p class="normal">The tax shall be paid by payment or transfer to the bank account of the competent office.</p>
+<p class="normal">On the day of payment, the person liable for payment shall lodge at that office a statement setting out the basis of collection and all the information necessary for determining it.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 126/2 of the CDTD:</p>
+<p class="normal">‘Professional intermediaries are personally liable for the duties on the transactions they carry out, either on behalf of third parties or for their own account.</p>
+<p class="normal">However, where the professional intermediary is established abroad, the issuer of an order shall be liable for the tax and shall be subject to the obligations referred to in Article 125; unless he can establish that the tax has been paid.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 126/3 of the CDTD reads as follows:</p>
+<p class="normal">‘Professional intermediaries not established in Belgium may, before executing or concluding stock exchange transactions in Belgium, have a liable representative established in Belgium approved by the Minister of Finance or his delegate. That person shall be jointly and severally liable to the Belgian State for the payment of the duties on transactions executed by the professional intermediary, either on behalf of a third party or for his own account, and to perform all the obligations imposed on the professional intermediary in accordance with this title.</p>
+<p class="normal">In the case of the death of that representative, or of the withdrawal of his ministerial authorisation, or of any event leading to his incapacity, he shall be replaced immediately.</p>
+<p class="normal">The King shall lay down the conditions and procedures for the approval of the liable representative.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 127 of the CDTD provides as follows:</p>
+<p class="normal">‘At the latest on the working day following the day on which the transaction is executed, the intermediary is required to deliver to any issuer of an order an order statement [(“bordereau”)] indicating the names of the beneficiary and the intermediary, the specification of the transactions, the amount or value of the transactions and the amount of the tax due.’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">By application of 20 June 2017, Anton van Zantbeek, a company established in Belgium, brought an action before the referring court, the Grondwettelijk Hof (Constitutional Court, Belgium), seeking annulment of Articles 122 and 123 of the Programme Law, which had introduced, respectively, a second paragraph in Articles 120 and 126/2 of the CDTD.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court states that those provisions have widened the scope of the tax on stock exchange transactions (‘taks op de beursverrichtingen’; ‘TOB’), to which transactions entered into or executed in Belgium which relate to Belgian or foreign public funds are subject, in so far as the transaction is executed through a professional intermediary. That court states that, under those provisions, those transactions are no longer the only transactions subject to that tax, since the transactions ‘deemed to be concluded or executed in Belgium’ are also covered, with the result that that tax is also due if the purchase or sale order is issued to a non-resident professional intermediary by a resident issuer of an order, namely by ‘a natural person who has his habitual residence in Belgium’ or by a ‘legal person on behalf of a registered office or an establishment of that legal person in Belgium’. The referring court adds that, in the latter case, the issuer of an order becomes liable for the TOB instead of the professional intermediary, since non-resident professional intermediaries cannot be required to comply with the Belgian tax provisions. That issuer of an order is required to declare and pay that tax within two months of the transaction in question, unless he can establish that it has already been paid, either through the intermediary or his liable representative.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">In support of its action, Anton van Zantbeek claims that Articles 122 and 123 of the Programme Law, in that they establish a difference in treatment between Belgian issuers of an order, depending on whether they use a professional intermediary established in Belgium or elsewhere, are contrary, first, to the principle of equality guaranteed by Articles 10, 11 and 172 of the Belgian Constitution and, second, to those constitutional provisions, read in conjunction with Article 56 TFEU and Article 36 of the EEA Agreement, which establish the freedom to provide services, or with Article 63 TFEU and Article 40 of the EEA Agreement, relating to the free movement of capital.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, Anton van Zantbeek claims that if an issuer of an order residing in Belgium uses a professional intermediary who is not established in that Member State, that issuer of an order will be treated as a professional intermediary, in so far as he will, first, be subject to the declaration and payment obligations of the TOB and, second, will be subject to administrative sanctions almost identical to those imposed on Belgian professional intermediaries. It would therefore be considerably more risky, costly and burdensome at an administrative level for such an issuer of an order who is resident in Belgium to use the services of a non-resident professional intermediary, which constitutes a restriction on the freedom to provide services and the free movement of capital, and cannot be justified by objectives in the public interest.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">The Council of Ministers disputes that argument, stating that the tax scheme resulting from Articles 120 and 126/2 of the CDTD applies without distinction to all providers of stock exchange transactions, irrespective of their place of residence, but that only professional intermediaries established in Belgium are required to levy the TOB on the transactions executed. The situation of a resident issuer of an order using a resident professional intermediary is therefore not comparable to that of the same issuer of an order using a non-resident professional intermediary. In the alternative, the difference in treatment relied on is based on an objective criterion, pursues a legitimate aim and is not disproportionate.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court points out that the Belgian legislature intended to extend the scope of the TOB in so far as, where an issuer of an order established in Belgium approached a non-resident professional intermediary, the transaction was generally executed in a foreign place, not rendering the tax chargeable. The legislature also found that there was unfair competition on the part of certain non-resident professional intermediaries in relation to Belgian professional intermediaries, who levy that tax. That court adds that Articles 120 and 126/2 of the CDTD could have the effect of restricting the freedom of Belgian residents to choose a professional intermediary to carry out their stock exchange transactions, having regard, in particular, to the liability which arises, for the issuer of an order, from the use of a non-resident professional intermediary in the event of non-payment or delay in making a declaration relating to the TOB or payment of that tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court further states that, in order to facilitate the administration of proof of payment of that tax, enabling the issuer of an order to be exempted, non-resident professional intermediaries may have a liable representative approved, who will be responsible for fulfilling, on their behalf, the declaration and administrative obligations connected with that payment. The appointment of such a representative cannot, however, be imposed on those intermediaries. Furthermore, if the issuer of an order appointed a representative to fulfil its obligations under the TOB, the issuer of an order would remain liable to the Belgian State. The issuer of an order could establish that the tax was paid by producing an order statement (‘bordereau’) in accordance with Article 127 of the CDTD, indicating, inter alia, the value of the transaction forming the basis of that tax, and proof of payment to his intermediary, by means, for example, of a bank statement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Grondwettelijk Hof (Constitutional Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Should Article 56 [TFEU] and Article 36 of the [EEA] Agreement be interpreted as precluding national legislation which introduces a tax on stock exchange transactions, as referred to in Articles 120 and 126/2 of the [CDTD], and which results in the Belgian issuer of an order becoming liable for that tax in the case where the professional intermediary is established outside Belgium?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Should Article 63 [TFEU] and Article 40 of the [EEA] Agreement be interpreted as precluding national legislation which introduces a tax on stock exchange transactions, as referred to in Articles 120 and 126/2 of the [CDTD], and which results in the Belgian issuer of an order becoming liable for that tax in the case where the professional intermediary is established outside Belgium?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">If, on the basis of the reply to the first or second question referred for a preliminary ruling, the Grondwettelijk Hof (Constitutional Court) were to conclude that the contested articles infringe one or more of the obligations arising from the provisions cited in those questions, could it temporarily continue to enforce the effects of Articles 120 and 126/2 of the [CDTD] in order to prevent legal uncertainty and to enable the legislature to bring those provisions into conformity with those obligations?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first and second questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary point, it should be noted that, according to the information set out in the request for a preliminary ruling, the national provisions contested in the main proceedings, namely the second paragraph of Article 120 and the second paragraph of Article 126/2 of the CDTD, have changed the scope of the TOB and the criteria for liability for that tax. Under those provisions, first, in addition to stock exchange transactions entered into or executed in Belgium, in so far as the transaction is executed through a professional intermediary, transactions which are ‘deemed to be concluded or executed’ in that Member State, that is to say, transactions whose order is given by a Belgian resident to a non-resident professional intermediary, are subject to that tax. Second, if the professional intermediary is established abroad, it is no longer the professional intermediary who is liable for the TOB payable by his client who issues an order and the declaration obligations that are a corollary of this, but the issuer of an order himself.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that, by its first and second questions, which it is appropriate to examine together, the referring court asks, in essence, whether Articles 56 and 63 TFEU and Articles 36 and 40 of the EEA Agreement are to be interpreted as precluding legislation of a Member State which establishes a tax on stock exchange transactions concluded or executed on the order of a resident of that Member State by a non-resident professional intermediary, with the result that an issuer of an order is liable for that tax and for the declaration obligations connected with that tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">In order to answer those questions, it must in the first place be stated that such national legislation is liable to affect both the freedom to provide services and the free movement of capital.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is settled case-law of the Court that if a national measure concerns both the freedom to provide services and the free movement of capital, the Court will in principle examine the measure in dispute in relation to only one of those two freedoms if it appears, in the circumstances of the case, that one of them is entirely secondary in relation to the other and may be considered together with it (see, to that effect, judgments of 3 October 2006, Fidium Finanz, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A631&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑452/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A631&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:631</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A631&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>; of 26 May 2016, NN (L)International, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑48/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:356</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>; and of 8 June 2017, Van der Weegen and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A429&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑580/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A429&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:429</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A429&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">In the case in the main proceedings, it appears that the aspect of the freedom to provide services prevails over that of the free movement of capital. Although a tax such as the TOB is capable of affecting the free movement of capital in so far as it relates to stock exchange transactions, it is apparent from the information provided by the referring court that that tax applies only if a professional intermediary is involved in the transaction. In addition, the referring court is uncertain as to the restriction which may arise from the fact that the issuer of an order, if he uses a non-resident supplier of financial intermediation services, becomes liable to pay that tax, whereas that is not the case if that issuer of an order uses a resident supplier of services. Such an effect predominantly concerns the freedom to provide services, whereas its effect on the free movement of capital is merely an inevitable consequence of the possible restriction imposed on the provision of services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the legislation at issue in the main proceedings must be examined solely in the light of Article 56 TFEU and Article 36 of the EEA Agreement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, in accordance with the Court’s case-law, Article 56 TFEU requires the abolition of any restriction on the freedom to provide services imposed on the ground that the person providing a service is established in a Member State other than that in which the service is provided (judgments of 19 June 2014, Strojírny Prostějov and ACO Industries Tábor, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑53/13 and C‑80/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2011</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>, and of 22 November 2018, Vorarlberger Landes- und Hypothekenbank, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A939&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑625/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A939&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:939</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A939&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>). Restrictions on the freedom to provide services are national measures which prohibit, impede or render less attractive the exercise of that freedom (see, to that effect, judgments of 19 June 2014, Strojírny Prostějov and ACO Industries Tábor, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑53/13 and C‑80/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2011</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point35" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>, and of 25 July 2018, TTL, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑553/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:604</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point46" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">According to settled case-law of the Court, Article 56 TFEU confers rights not only on the provider of services but also on the recipient of those services (judgments of 31 January 1984, Luisi and Carbone, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1984%3A35&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">286/82 and 26/83</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1984%3A35&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1984:35</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1984%3A35&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point10" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">10</a>; of 18 October 2012, X, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A635&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑498/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A635&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:635</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A635&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>; and of 19 June 2014, Strojírny Prostějov and ACO Industries Tábor, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑53/13 and C‑80/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2011</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, Anton van Zantbeek submits that the national legislation at issue in the main proceedings infringes the freedom to provide services in that it introduces an unjustified difference in treatment between issuers of an order who reside in Belgium according to whether they use a professional intermediary established in that Member State or abroad for the purposes of stock exchange transactions. The effect of that national legislation is, for a resident issuer of an order, to increase the risk, the cost and the burden of using a non-resident intermediary and, therefore, to make use of such a non-resident intermediary less attractive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be observed that resident issuers of an order who, as recipients of financial intermediation services, decide to use the services of a resident intermediary to carry out their stock exchange transactions are in a situation comparable to those who prefer to use the services of a non-resident intermediary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Although, admittedly, the national legislation at issue in the main proceedings has the effect of making resident issuers of an order subject to identical taxation irrespective of where those intermediaries are established, it also has the effect of imposing additional liability and obligations on such issuers of an order who decide to use a non-resident intermediary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">It is clear from the reference for a preliminary ruling that, in the latter case, resident issuers of an order become liable for the TOB and the declaration obligations relating to that tax under Article 126/2 of the CDTD, whereas, if they had used a resident intermediary, it is the latter who would have been required to fulfil those obligations and to levy that tax at source. Thus, resident issuers of an order using the services of a non-resident intermediary are required, in particular, to declare that tax themselves by means of an order statement containing the information referred to in Article 127 of the CDTD and to pay it within two months, on pain of fines, unless they provide proof that it has already been paid, by the intermediary or by the intermediary’s liable representative in Belgium.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Such national legislation therefore establishes a difference in treatment between recipients of financial intermediation services resident in Belgium which is liable to dissuade them from using the services of non-resident service providers, while making it more difficult for the latter to offer their services in that Member State. Such national legislation therefore constitutes a restriction on the freedom to provide services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">In the third place, it should be recalled that, according to the Court’s case-law, such a restriction may be justified by overriding reasons in the public interest. Nevertheless, that restriction is applied in such a way as to ensure achievement of the aim pursued and not go beyond what is necessary for that purpose (see, to that effect, judgments of 7 September 2006, N, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A525&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑470/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A525&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:525</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A525&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point40" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a>; of 13 July 2016, Brisal and KBC Finance Ireland, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A549&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑18/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A549&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:549</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A549&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>; and of 25 July 2018, TTL, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑553/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:604</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point52" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">52</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">It is necessary to examine, first of all, whether the restriction on the freedom to provide services entailed by the national legislation at issue in the main proceedings reflects overriding reasons in the public interest.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, the Belgian Government states that that national legislation is intended to ensure the effective collection of tax and fiscal supervision and to combat tax evasion.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">As the Court has already held, these are overriding reasons in the public interest that may justify a restriction on the exercise of the freedom to provide services, as well as the need to ensure the effectiveness of tax collection and fiscal supervision (see to that effect, inter alia, judgment of 25 July 2018, TTL, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑553/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:604</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point53" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">53</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A604&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point57" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">57</a> and the case-law cited), the latter aimed at combating tax fraud and evasion (see, to that effect, judgments of 5 July 2012, SIAT, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A415&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑318/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A415&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:415</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A415&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point44" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>, and of 26 February 2019, X (Intermediate Companies established in third countries), <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑135/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:136</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point74" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">74</a>), and the fight against tax evasion (see, inter alia, judgment of 19 June 2014, Strojírny Prostějov and ACO Industries Tábor, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑53/13 and C‑80/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2011</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point55" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">55</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">According to the information contained in the reference for a preliminary ruling and confirmed by the Belgian Government, it is apparent from the preparatory document to Articles 122 and 123 of the Programme Law that those provisions are intended, inter alia, to prevent unfair competition between resident and non-resident professional intermediaries, in so far as the former are obliged to levy the TOB at source on behalf of their clients when executing stock exchange transactions, in accordance with the CDTD, while the latter are not obliged to do so on transactions executed for Belgian issuers of an order, and to ensure the effectiveness of tax collection and fiscal supervision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Such reasons, which, in the present case, are closely linked, fall within the concept of ‘overriding reasons in the public interest’, within the meaning of the case-law of the Court referred to in paragraph 33 of the present judgment, so that they are capable of justifying a restriction on the freedom to provide services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Next, with regard to whether that legislation is able to achieve the objectives pursued, it should be noted that making the issuer of an order using the services of a non-resident intermediary subject to the TOB is likely to ensure that the stock exchange transactions concerned will not escape taxation (see, by analogy, judgment of 18 October 2012, X, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A635&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑498/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A635&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:635</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A635&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a> and the case-law cited), by making fiscal supervision more effective and making it more difficult to circumvent that tax, the burden of which is borne by the issuer of an order.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that such national legislation is appropriate for attaining the objectives it pursues.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the question whether the national legislation at issue in the main proceedings does not go beyond what is necessary to achieve those objectives, it must be stated at the outset, as the European Commission has noted, that the information necessary for the establishment and supervision of a tax such as the TOB, which is levied on each stock exchange transaction, cannot be obtained by administrative cooperation alone and by the automatic and compulsory exchange of information in the field of taxation provided for, in particular, by Council Directive 2011/16/EU of 15 February 2011 on administrative cooperation in the field of taxation and repealing Directive 77/799/EEC (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:064:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2011 L 64, p. 1</a>), as amended by Council Directive 2014/107/EU of 9 December 2014 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2014:359:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2014 L 359, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, it is apparent from the request for a preliminary ruling that the national legislation at issue in the main proceedings, although having the effect of making the Belgian issuer of an order liable to the TOB if the professional intermediary is established abroad, nevertheless limits the burden resulting from that liability to what is necessary in order to attain the objectives pursued.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">In particular, pursuant to Article 126/2 of the CDTD, the issuer of an order is exempt from payment of that tax and from the declaration obligations linked to that tax if he establishes that the tax has already been paid. For that purpose, it is apparent from the reference for a preliminary ruling that it is sufficient for the issuer of an order to produce the order statement referred to in Article 127 of the CDTD, indicating the name of the non-resident professional intermediary, the type and value of the transaction and the value of that tax, accompanied, for example, by a bank statement proving payment of that tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">It appears, moreover, that a resident issuer of an order may agree with the non-resident professional intermediary engaged by him that the latter wishes to provide that resident issuer of an order with a bank statement in respect of the transactions showing payment of the TOB, as intermediaries established in Belgium are obliged to do. The referring court also notes that a non-resident professional intermediary is able to appoint a representative for the purposes of carrying out those formalities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">It is also apparent from the request for a preliminary ruling that, by the introduction of Article 126/3 of the CDTD, the Belgian legislature also sought to simplify the taking of evidence concerning payment of the TOB. That article allows, without obliging them to do so, non-resident intermediaries to have a representative established in Belgium approved for the purpose of fulfilling, on their behalf, the declaration obligations linked to the payment of that tax and who will be responsible for it. That option is such as to overcome the difficulty associated with the need to complete the order statement referred to in Article 127 of the CDTD in a language which is not that of the non-resident professional intermediary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, such a choice of options, to the benefit of both resident issuers of an order and non-resident professional intermediaries, which allows them to adopt, from among those options, the solution which appears to them to be the least restrictive, limits the restriction on the freedom to provide services resulting from the national legislation at issue in the main proceedings to what is necessary in order to achieve the objectives which it pursues, so that that legislation, which thus offers those issuers of an order and the professional intermediaries options, both as regards the declaration obligations relating to the TOB and its payment, does not appear to go beyond what is necessary to achieve these objectives.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Finally, as far as Article 36 of the EEA Agreement is concerned, it must be noted that that provision is similar to that set out in Article 56 TFEU, with the result that the considerations relating to that latter article, set out in paragraphs 23 to 43 of the present judgment, also apply in respect of Article 36 of the EEA Agreement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the answer to the first and second questions is that Article 56 TFEU and Article 36 of the EEA Agreement must be interpreted as meaning that they do not preclude legislation of a Member State which introduces a tax on stock exchange transactions concluded or executed on the order of a resident of that Member State by a non-resident professional intermediary, resulting in a restriction on the freedom to provide services provided by such professional intermediaries, in so far as that legislation offers such an issuer of an order and such professional intermediaries options, both as regards the declaration obligations connected with that tax and its payment, which limit that restriction to that which is necessary to attain the legitimate objectives pursued by that legislation.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The third question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Given the answer to the first and second questions, there is no need to answer the third question.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Seventh Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 56 TFEU and Article 36 of the Agreement on the European Economic Area of 2 May 1992 must be interpreted as meaning that they do not preclude legislation of a Member State which introduces a tax on stock exchange transactions concluded or executed on the order of a resident of that Member State by a non-resident professional intermediary, resulting in a restriction on the freedom to provide services provided by such professional intermediaries, in so far as that legislation offers such an issuer of an order and such professional intermediaries options, both as regards the declaration obligations connected with that tax and its payment, which limit that restriction to that which is necessary to attain the legitimate objectives pursued by that legislation.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0725_EN_01-E0001" id="t-ECR_62018CJ0725_EN_01-E0001">*1</a>
+</span>)	Language of the case: Dutch.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

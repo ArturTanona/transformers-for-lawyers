@@ -1,0 +1,673 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Eighth Chamber)</p>
+<p class="sum-title-1">3 July 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0316_EN_01-E0001" id="c-ECR_62018CJ0316_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Value added tax (VAT) — Deduction of input tax — Management costs of an endowment fund that makes investments with the aim of financing the whole of the taxable person’s output transactions — Overheads)</p>
+<p class="normal">In Case C‑316/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Court of Appeal (England &amp; Wales) (Civil Division) (United Kingdom), made by decision of 26 April 2018, received at the Court on 14 May 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Commissioners for Her Majesty’s Revenue and Customs</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">The Chancellor, Masters and Scholars of the University of Cambridge,</span>
+</p>
+<p class="normal">THE COURT (Eighth Chamber),</p>
+<p class="normal">composed of F. Biltgen, President of the Chamber, C.G. Fernlund (Rapporteur) and L.S. Rossi, Judges,</p>
+<p class="normal">Advocate General: J. Kokott,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">The Chancellor, Masters and Scholars of the University of Cambridge, by S. Moore, A. Hitchmough QC, B. Belgrano, Barrister, and A. Brown, Advocate,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the United Kingdom Government, by F. Shibli and R. Fadoju, acting as Agents, and K. Beal QC,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by R. Lyal and A. Armenia, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 168(a) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" target="CourtTab">OJ 2006 L 347, p. 1</a>) (‘the VAT Directive’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between the Commissioners for Her Majesty’s Revenue and Customs (‘the Commissioners’) and The Chancellor, Masters and Scholars of the University of Cambridge (‘the University of Cambridge’) concerning the Commissioners’ refusal to allow the University of Cambridge to deduct value added tax (‘VAT’) relating to costs incurred in connection with investment activities falling outside of the scope of the VAT directive the income from which had been used to defray the cost of the whole range of the University’s activities.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">The Sixth Directive</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 17(2)(a) of the Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1977:145:TOC" hreflang="en" target="CourtTab">OJ 1977 L 145, p. 1</a>) (‘the Sixth Directive’) provided:</p>
+<p class="normal">‘In so far as the goods and services are used for the purposes of his taxable transactions, the taxable person shall be entitled to deduct from the tax which he is liable to pay:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">[VAT] due or paid in respect of goods or services supplied or to be supplied to him by another taxable person’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">The VAT Directive</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 2(1)(a) and (c) of the VAT Directive provides as follows:</p>
+<p class="normal">‘The following transactions shall be subject to VAT:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the supply of goods for consideration within the territory of a Member State by a taxable person acting as such;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">the supply of services for consideration within the territory of a Member State by a taxable person acting as such’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 9(1) of that directive provides:</p>
+<p class="normal">‘“Taxable person” shall mean any person who, independently, carries out in any place any economic activity, whatever the purpose or results of that activity.</p>
+<p class="normal">Any activity of producers, traders or persons supplying services, including mining and agricultural activities and activities of the professions, shall be regarded as “economic activity”. The exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis shall in particular be regarded as an economic activity.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 168(a) of that directive provides:</p>
+<p class="normal">‘In so far as the goods and services are used for the purposes of the taxed transactions of a taxable person, the taxable person shall be entitled, in the Member State in which he carries out these transactions, to deduct the following from the VAT which he is liable to pay:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the VAT due or paid in that Member State in respect of supplies to him of goods or services, carried out or to be carried out by another taxable person’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">United Kingdom law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Section 1(1) of the Value Added Tax Act 1994 provides:</p>
+<p class="normal">‘(1)   [VAT] shall be charged, in accordance with the provisions of this Act—</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">on the supply of goods or services in the United Kingdom (including anything treated as such a supply) …’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Section 26 of that act provides that the only input tax allowable is that which, pursuant to the VAT Regulations 1995, is attributable to taxable supplies made by the taxable person and not to exempt supplies. Section 26(3) of the act provides that where a taxable person makes both taxable and exempt supplies, the Commissioners are to make regulations for securing a fair and reasonable attribution of input tax between taxable and exempt supplies.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">The University of Cambridge is a not-for-profit educational institution which, in addition to its principle activity of providing educational services, which are VAT exempt, also makes taxable supplies, including commercial research, the sale of publications, consultancy services, catering, accommodation and the hiring of facilities and equipment. Input VAT relating to the costs incurred in making supplies subject to VAT and exempt supplies is apportioned between the two types of supply in accordance with a partial exemption special method approved by the Commissioners under domestic law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">The activities of the University of Cambridge are financed in part through donations and endowments, which are placed into a fund and then invested. That fund is managed by a third party. In March 2009 the University of Cambridge submitted a claim to the Commissioners requesting the deduction of the VAT relating to the fees paid for the management of the relevant fund for the periods from 1 April 1973 to 1 May 1997 and from 1 May 2006 to 30 January 2009, arguing that the income generated by that fund had been used to finance the whole range of its activities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">The Commissioners rejected that claim on the ground that those fees were directly and exclusively attributable to the investment activity concerned, which did not fall under the VAT Directive. The Commissioners concluded that, in any event, those fees were not a cost component in the downstream supply of goods or services subject to VAT, as the income generated by that fund financed in part that supply of goods or services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">The University of Cambridge challenged the Commissioners’ decision before the First-tier Tribunal (Tax Chamber) (United Kingdom). That tribunal found that the fees for the management of the fund concerned were expenditure incurred for the purposes of the University of Cambridge’s economic activities and, therefore, that they formed part of the university’s overheads; accordingly, it granted the University of Cambridge’s application. That assessment was upheld by the Upper Tribunal (Tax and Chancery Chamber) (United Kingdom); the Commissioners then brought an appeal against the decision of the latter tribunal before the Court of Appeal (England &amp; Wales) (Civil Division) (United Kingdom).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court states that the investment of the donations and endowments concerned in a fund does not in itself constitute an economic activity within the meaning of the Court’s case-law and that, as a consequence, it falls outside of the scope of the VAT regime.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">That court notes that the expenditure in the form of fees relating to the management of the fund at issue can be linked to the activities of the University of Cambridge only if the costs relating to the provision of input management services may be regarded as attributable to the economic activities which that fund was established to support. That would entail disregarding the fact that the investment activity carried out is a non-taxable activity and focusing solely on the taxable economic activities undertaken by the University of Cambridge.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">According to the referring court, the Court’s case-law appears to suggest that, in certain circumstances, expenditure that is factually directly attributable to a non-taxable activity can, for VAT purposes, be treated as linked to the taxable economic activity that will be carried out subsequently.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances the Court of Appeal (England &amp; Wales) (Civil Division) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Is any distinction to be made between exempt and non-taxable transactions for the purpose of deciding whether VAT incurred for the purposes of such transactions is deductible?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Where management fees are incurred only in relation to a non-taxable investment activity, is it nonetheless possible to make the necessary link between those costs and the economic activities which are subsidised with the investment income which is produced as a result of the investments, so as to permit VAT deduction by reference to the nature and extent of downstream economic activity which carries an entitlement to deduct VAT? To what extent is it relevant to consider the purpose to which the income generated will be put?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">Is any distinction to be drawn between VAT that is incurred for the purposes of providing capitalisation for a business and VAT that produces its own income stream, distinct from any income stream derived from downstream economic activity?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary point, it must be noted, first, that the VAT Directive, which entered into force on 1 January 2007, repealed the Sixth Directive without making material changes to the earlier directive. Since the relevant provisions of the VAT Directive have essentially the same scope as that of the relevant provisions of the Sixth Directive, the Court’s case-law on the latter directive is also applicable to the VAT Directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Second, it is apparent from the order for reference that the dispute in the main proceedings relates to a period during which, initially, the Sixth Directive and, subsequently, the VAT Directive were in force. Therefore, the interpretation of Article 168(a) of the VAT Directive given in the present judgment must be understood as applying equally to Article 17(2)(a) of the Sixth Directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Those clarifications having been made, by its questions, which it is appropriate to consider together, the referring court is to be regarded as asking, in essence, whether Article 168(a) of the VAT Directive must be interpreted as meaning that a taxable person that (i) is carrying out both taxable and exempt activities, (ii) invests the donations and endowments that it receives by placing them in a fund and (iii) uses the income generated by that fund to cover the costs of all of those activities is entitled to deduct, as an overhead, input VAT paid in respect of the costs associated with that investment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">It should be observed, in the first place, that, although the VAT Directive gives a very wide scope to VAT, only activities of an economic nature are covered by that tax. It is apparent from Article 2 of that directive, which defines the scope of VAT, that only the supply of goods and services for consideration are subject to that tax (see, to that effect, judgment of 5 July 2018, Marle Participations, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A537&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑320/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A537&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:537</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A537&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point19" hreflang="en" target="CourtTab" type="application/xhtml+xml">19</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">With regard to the latter condition, it is clear from the Court’s case-law that the possibility of classifying a supply of goods or services as a transaction for consideration presupposes the existence of a transaction between the parties in which a price or consideration is stipulated and that that supply of goods or services is effected ‘for consideration’ within the meaning of Article 2 of the VAT Directive only if there is a direct link between the goods or service provided and the consideration received (see, to that effect, judgment of 5 July 2018, Marle Participations, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A537&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑320/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A537&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:537</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A537&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point23" hreflang="en" target="CourtTab" type="application/xhtml+xml">23</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, the deduction system established by the VAT Directive is intended to relieve the trader entirely of the burden of the VAT payable or paid in the course of all his economic activities. The common system of VAT thus ensures the absolute neutrality of taxation of all economic activities, whatever their purpose or results, provided that they are themselves subject, in principle, to VAT (judgment of 5 July 2018, Marle Participations, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A537&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑320/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A537&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:537</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A537&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point25" hreflang="en" target="CourtTab" type="application/xhtml+xml">25</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">However, under Article 168 of the VAT Directive, in order to have a right of deduction, it is necessary, first, that the person concerned be a ‘taxable person’, within the meaning of that directive, and, second, that the goods or services relied on to confer entitlement to that right be used by the taxable person for the purposes of his taxed output transactions, and that, as inputs, those goods or services be supplied by another taxable person (judgment of 5 July 2018, Marle Participations, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A537&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑320/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A537&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:537</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A537&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point26" hreflang="en" target="CourtTab" type="application/xhtml+xml">26</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, transactions that do not fall within the scope of the VAT Directive or that are exempt similarly do not, in principle, give rise to a right to deduct (see, to that effect, judgment of 14 September 2017, Iberdrola Inmobiliaria Real Estate Investments, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A683&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑132/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A683&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:683</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A683&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="en" target="CourtTab" type="application/xhtml+xml">30</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with settled case-law, in order for a taxable person to have a right to deduct input VAT, there must be a direct and immediate link between a particular input transaction and a particular output transaction or transactions giving rise to the right to deduct. The right to deduct VAT charged on the acquisition of an input asset or service presupposes that the expenditure incurred in acquiring that asset or service was a component of the cost of the output transactions that gave rise to the right to deduct (judgment of 14 September 2017, Iberdrola Inmobiliaria Real Estate Investments, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A683&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑132/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A683&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:683</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A683&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point28" hreflang="en" target="CourtTab" type="application/xhtml+xml">28</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">However, a taxable person also has a right to deduct even where there is no direct and immediate link between a particular input transaction and an output transaction or transactions giving rise to the right to deduct, where the costs of the goods or services in question are part of his general costs and are, as such, components of the price of the goods or services which he supplies, as such costs do have a direct and immediate link with the taxable person’s economic activity as a whole (judgment of 14 September 2017, Iberdrola Inmobiliaria Real Estate Investments, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A683&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑132/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A683&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:683</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A683&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point29" hreflang="en" target="CourtTab" type="application/xhtml+xml">29</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the above that, in either case, whether there is such a direct and immediate link will depend on whether the cost of the input goods or services is incorporated either in the cost of particular output transactions or in the cost of goods or services supplied by the taxable person as part of his economic activities (judgment of 30 May 2013, X, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A346&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑651/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A346&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:346</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A346&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point55" hreflang="en" target="CourtTab" type="application/xhtml+xml">55</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, in order to answer the question whether, in circumstances such as those in the main proceedings, it is possible to deduct VAT paid in respect of the costs associated with the investment of donations and endowments in a fund with the aim of generating resources intended to finance the whole range of activities of an educational establishment such as the University of Cambridge, it is necessary to determine, at the outset, whether the collection of those donations and endowments and their investment in a fund constitute an economic activity within the meaning of the VAT Directive and, on that basis, fall within the scope of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">In this respect, it must be found that, in raising and collecting donations and endowments, the University of Cambridge is not acting as a taxable person. In order to be considered to be a taxable person, a person must carry out economic activities, that is to say activities for consideration. As the donations and endowments — which are essentially made for subjective reasons on charitable grounds and on a random basis — are not consideration for any economic activity, the raising and collection of them do not fall within the scope of the VAT Directive (see, to that effect, judgment of 3 March 1994, Tolsma, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1994%3A80&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑16/93</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1994%3A80&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:1994:80</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1994%3A80&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point17" hreflang="en" target="CourtTab" type="application/xhtml+xml">17</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1994%3A80&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point19" hreflang="en" target="CourtTab" type="application/xhtml+xml">19</a>). As is apparent from paragraph 24 above, it follows that the input VAT paid in respect of any costs incurred in connection with the collection of donations and endowments is not deductible, regardless of the reason why those donations and endowments were received.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Both the activity consisting in the investment of donations and endowments, and the costs associated with that investment activity must be treated in the same way for VAT purposes as the non-economic activity consisting in the collection of donations and endowments and any costs associated with the latter. Not only does such financial investment activity constitute, for the University of Cambridge, much like a private investor, a means of generating income from the donations and endowments raised, but it is also an activity that may be directly linked to their collection and, consequently, is merely a direct continuation of that non-economic activity. Accordingly, input VAT paid in respect of the costs associated with that investment is also non-deductible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">It is true that the fact that costs are incurred in the acquisition of a service in the context of a non-economic activity does not, in itself, preclude those costs giving rise to a right to deduct in the context of the taxable person’s economic activity, if they are incorporated into the price of particular output transactions or into the price of goods and services provided by the taxable person in the context of that economic activity (see, to that effect, judgment of 26 May 2005, Kretztechnik, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A320&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑465/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A320&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2005:320</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A320&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point36" hreflang="en" target="CourtTab" type="application/xhtml+xml">36</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">However, in the present case, it is apparent from the documents before the Court that, first, costs relating to the management of donations and endowments invested in the fund concerned are not incorporated into the price of a particular output transaction. Second, as it is apparent from the documents before the Court that (i) the University of Cambridge is a not-for-profit educational establishment and (ii) the costs at issue are incurred in order to generate resources that are used to finance all of that university’s output transactions, thus allowing the price of the goods and services provided by the latter to be reduced, those costs cannot be considered to be components of those prices and, consequently, do not form part of that university’s overheads. In any event, as there is no direct and immediate link in the present case either between those costs and a particular output transaction or between those costs and the activities of the University of Cambridge as a whole, the VAT relating to those costs is not deductible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the findings above, the answer to the questions referred is that Article 168(a) of the VAT Directive must be interpreted as meaning that a taxable person that (i) is carrying out both taxable and exempt activities, (ii) invests the donations and endowments that it receives by placing them in a fund and (iii) uses the income generated by that fund to cover the costs of all of those activities is not entitled to deduct, as an overhead, input VAT paid in respect of the costs associated with that investment.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Eighth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 168(a) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that a taxable person that (i) is carrying out both taxable and exempt activities, (ii) invests the donations and endowments that it receives by placing them in a fund and (iii) uses the income generated by that fund to cover the costs of all of those activities is not entitled to deduct, as an overhead, input value added tax paid in respect of the costs associated with that investment.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<div class="signaturecaserow">
+<div class="signatory3left">
+<p class="normal">Biltgen</p>
+</div>
+<div class="signatorycenter">
+<p class="normal">Fernlund</p>
+</div>
+<div class="signatory3right">
+<p class="normal">Rossi</p>
+</div>
+</div>
+<p class="normal">Delivered in open court in Luxembourg on 3 July 2019.</p>
+<div class="signaturecaserow">
+<div class="signatory2left">
+<p class="normal">A. Calot Escobar</p>
+<p class="normal">Registrar</p>
+</div>
+<div class="signatory2right">
+<p class="normal">F. Biltgen</p>
+<p class="normal">President of the Eighth Chamber</p>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0316_EN_01-E0001" id="t-ECR_62018CJ0316_EN_01-E0001">*1</a>
+</span>)	Language of the case: English.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

@@ -1,0 +1,26 @@
+!Flow
+with:
+  prefetch: 10
+  batch-size: 10
+pods:
+  sentencizer:
+    uses: yaml/craft-split.yml
+    parallel: $PARALLEL
+    read_only: true
+    needs: gateway
+  encoder:
+    uses: yaml/encode.yml
+    parallel: $PARALLEL
+    timeout_ready: 60000
+    read_only: true
+  chunk_indexer:
+    uses: yaml/index-chunk.yml
+    shards: $SHARDS
+    separated_workspace: true
+  doc_indexer:
+    uses: yaml/index-doc.yml
+    needs: gateway
+  join_all:
+    uses: _merge
+    needs: [doc_indexer, chunk_indexer]
+    read_only: true

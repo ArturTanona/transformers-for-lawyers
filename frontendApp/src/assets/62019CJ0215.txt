@@ -1,0 +1,1078 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>ARRÊT DE LA COUR (dixième chambre)</p>
+<p class="coj-sum-title-1">2 juillet 2020 (<span class="coj-note">
+<a href="#t-ECR_62019CJ0215_FR_01-E0001" id="c-ECR_62019CJ0215_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">« Renvoi préjudiciel – Taxe sur la valeur ajoutée (TVA) – Directive 2006/112/CE – Prestations de services – Article 135, paragraphe 1, sous l) – Exonération de la TVA – Location de biens immeubles – Notion de “bien immeuble” – Exclusion – Article 47 – Lieu des opérations imposables – Prestations de services rattachées à un bien immeuble – Règlement d’exécution (UE) n<span class="coj-super">o</span> 282/2011 – Articles 13 ter et 31 bis – Baies de brassage – Services d’hébergement en centre de données »</p>
+<p class="coj-normal">Dans l’affaire C‑215/19,</p>
+<p class="coj-normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par le Korkein hallinto-oikeus (Cour administrative suprême, Finlande), par décision du 5 mars 2019, parvenue à la Cour le 8 mars 2019, dans la procédure engagée par</p>
+<p class="coj-normal">
+<span class="coj-bold">Veronsaajien oikeudenvalvontayksikkö,</span>
+</p>
+<p class="coj-normal">en présence de :</p>
+<p class="coj-normal">
+<span class="coj-bold">A Oy,</span>
+</p>
+<p class="coj-normal">LA COUR (dixième chambre),</p>
+<p class="coj-normal">composée de M. I. Jarukaitis, président de chambre, M. E. Regan (rapporteur), président de la cinquième chambre, et M. C. Lycourgos, juge,</p>
+<p class="coj-normal">avocat général : M<span class="coj-super">me</span> J. Kokott,</p>
+<p class="coj-normal">greffier : M. A. Calot Escobar,</p>
+<p class="coj-normal">vu la procédure écrite,</p>
+<p class="coj-normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">pour la Commission européenne, par M<span class="coj-super">me</span> J. Jokubauskaitė et M. I. Koskinen, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">vu la décision prise, l’avocate générale entendue, de juger l’affaire sans conclusions,</p>
+<p class="coj-normal">rend le présent</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La demande de décision préjudicielle porte sur l’interprétation de l’article 47 de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2006, L 347, p. 1</a>), telle que modifiée par la directive 2008/8/CE du Conseil, du 12 février 2008 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:044:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2008, L 44, p. 11</a>) (ci-après la « directive TVA »), ainsi que des articles 13 ter et 31 bis du règlement d’exécution (UE) n<span class="coj-super">o</span> 282/2011 du Conseil, du 15 mars 2011, portant mesures d’exécution de la directive 2006/112 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:077:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2011, L 77, p. 1</a>), tel que modifié par le règlement d’exécution (UE) n<span class="coj-super">o</span> 1042/2013 du Conseil, du 7 octobre 2013 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2013:284:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2013, L 284, p. 1</a>) (ci-après le « règlement d’exécution »).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Cette demande a été présentée dans le cadre d’une procédure engagée par le Veronsaajien oikeudenvalvontayksikkö (service de l’administration fiscale chargé de défendre les droits des destinataires de recettes fiscales, Finlande), au sujet de la détermination du lieu de perception de la taxe sur la valeur ajoutée (TVA) afférente à des services d’hébergement en centre de données fournis par A Oy.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Le cadre juridique</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Le droit de l’Union</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">La directive TVA</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Le titre V de la directive TVA, relatif au lieu des opérations imposables, comprend un chapitre 3, intitulé « Lieu des prestations de services ». La section 2 de ce chapitre, intitulée « Règles générales », comprend les articles 44 et 45 de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 44 de ladite directive est libellé comme suit :</p>
+<p class="coj-normal">« Le lieu des prestations de services fournies à un assujetti agissant en tant que tel est l’endroit où l’assujetti a établi le siège de son activité économique. Néanmoins, si ces services sont fournis à un établissement stable de l’assujetti situé en un lieu autre que l’endroit où il a établi le siège de son activité économique, le lieu des prestations de ces services est l’endroit où cet établissement stable est situé. À défaut d’un tel siège ou d’un tel établissement stable, le lieu des prestations de services est l’endroit où l’assujetti qui bénéficie de tels services a son domicile ou sa résidence habituelle. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La section 3 du chapitre 3 de la directive TVA, intitulée « Dispositions particulières », comprend les articles 46 à 59 bis de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 47 de ladite directive, lui-même intitulé « Prestations de services rattachées à un bien immeuble », dispose :</p>
+<p class="coj-normal">« Le lieu des prestations de services se rattachant à un bien immeuble, y compris les prestations d’experts et d’agents immobiliers, la fourniture de logements dans le cadre du secteur hôtelier ou de secteurs ayant une fonction similaire, tels que des camps de vacances ou des sites aménagés pour camper, l’octroi de droits d’utilisation d’un bien immeuble et les prestations tendant à préparer ou à coordonner l’exécution de travaux immobiliers, telles que celles fournies par les architectes et les entreprises qui surveillent l’exécution des travaux, est l’endroit où ce bien immeuble est situé. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Figurant sous le chapitre 3, intitulé « Exonérations en faveur d’autres activités », du titre IX de la directive TVA, lui-même intitulé « Exonérations », l’article 135, paragraphe 1, de cette directive prévoit :</p>
+<p class="coj-normal">« Les États membres exonèrent les opérations suivantes :</p>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">l)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">l’affermage et la location de biens immeubles.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">[...] »</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Le règlement d’exécution</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Figurant à la section 1, intitulée « Concepts », du chapitre V du règlement d’exécution, intitulé « Lieu des opérations imposables », l’article 13 ter de celui-ci dispose :</p>
+<p class="coj-normal">« Pour l’application de la directive [TVA], est considéré comme “bien immeuble” :</p>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">tout élément installé et faisant partie intégrante d’un immeuble ou d’une construction sans lequel l’immeuble ou la construction est incomplet, tel que portes, fenêtres, toitures, escaliers et ascenseurs ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">d)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">tout élément, matériel ou machine, installé à demeure dans un immeuble ou une construction qui ne peut être déplacé sans destruction ou modification de l’immeuble ou de la construction. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La section 4 de ce chapitre, intitulée « Lieu des prestations de services (articles 43 à 59 de la directive [TVA] », comporte une sous-section 6 bis, elle-même intitulée « Prestations de services se rattachant à un bien immeuble », sous laquelle figure l’article 31 bis de ce règlement, qui est libellé comme suit :</p>
+<p class="coj-normal">« 1.   Les services se rattachant à un bien immeuble, au sens de l’article 47 de la directive [TVA], ne comprennent que les services présentant un lien suffisamment direct avec le bien concerné. Les services sont considérés comme ayant un lien suffisamment direct avec un bien immeuble dans les cas suivants :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">lorsqu’ils sont issus d’un bien immeuble, que ledit bien immeuble est un élément constitutif du service et qu’il est central et essentiel pour les services fournis ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">lorsqu’ils sont fournis ou destinés à un bien immeuble et ont pour objet de modifier le statut juridique ou les caractéristiques physiques dudit bien.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">2.   Le paragraphe 1 couvre notamment :</p>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">h)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">le crédit-bail ou la location d’un bien immeuble, dans les cas autres que ceux couverts par le paragraphe 3, point c), y compris l’entreposage de biens dans une partie spécifique du bien immeuble affectée à l’usage exclusif du preneur ;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">[...]</p>
+<p class="coj-normal">3.   Le paragraphe 1 ne couvre pas :</p>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">l’entreposage de biens dans un bien immeuble si aucune partie spécifique du bien immeuble n’est affectée à l’usage exclusif du preneur ;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">[...] »</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Le droit finlandais</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 1<span class="coj-super">er</span>, premier alinéa, de l’arvonlisäverolaki (1501/1993) [loi (1501/1993) relative à la taxe sur la valeur ajoutée], du 30 décembre 1993, dans sa version applicable aux faits au principal (ci-après l’« AVL »), prévoit :</p>
+<p class="coj-normal">« La taxe sur la valeur ajoutée est prélevée au profit de l’État selon les modalités définies dans la présente loi :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">pour toute vente de biens et de services effectuée en Finlande dans le cadre d’une activité commerciale ;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Aux termes de l’article 27 de cette loi :</p>
+<p class="coj-normal">« La vente de biens immeubles ainsi que l’affermage, la location, les servitudes ou toute autre cession de droit susceptible d’être rattaché à un immeuble sont exonérés de la taxe.</p>
+<p class="coj-normal">Toute vente d’électricité, de gaz, de chaleur, d’eau et d’autres biens du même type réalisée dans le contexte de la cession d’un droit d’utilisation d’un bien immeuble lui-même non imposé est également exonérée de la taxe. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 28 de ladite loi dispose :</p>
+<p class="coj-normal">« Est considéré comme “immeuble” tout bien immeuble tel que défini à l’article 13 ter du [règlement d’exécution]. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Aux termes de l’article 65 de l’AVL :</p>
+<p class="coj-normal">« Sauf disposition contraire ci-après, le lieu d’une prestation de service fournie à un professionnel agissant en tant que tel est la Finlande lorsque celle-ci est fournie à l’établissement stable du client, lui-même situé dans ce pays. Le lieu d’une telle prestation de service, lorsqu’elle n’est pas fournie à l’établissement stable, est la Finlande lorsque le siège de l’activité économique du client est situé dans ce pays. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 67 de cette loi énonce :</p>
+<p class="coj-normal">« Le lieu des prestations de services se rattachant à un immeuble est la Finlande lorsque l’immeuble en question est situé dans ce pays.</p>
+<p class="coj-normal">Sont considérées comme “prestations de services se rattachant à un immeuble” notamment les services d’experts et d’agents immobiliers, les services d’hébergement hôtelier, l’octroi de droits d’utilisation d’un bien immeuble, ainsi que les services de construction. »</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Le litige au principal et les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">A Oy, société de droit finlandais, est un opérateur de réseaux de communication sans fil, dont l’activité comprend également le développement de réseaux de télécommunications et d’infrastructures de réseaux.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Cette société propose, notamment, des services d’hébergement en centre de données à des opérateurs établis en Finlande et dans d’autres États membres exerçant leurs activités dans le domaine des technologies de l’information et utilisant leurs propres serveurs pour fournir des connexions électroniques à leurs clients. Les serveurs sont hébergés dans des locaux équipés des connexions électroniques nécessaires, dans lesquels l’humidité et la chaleur sont régulées de manière précise pour permettre une utilisation de ces serveurs conforme à leur destination dans un environnement réfrigéré.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Les services d’hébergement en centre de données proposés par A Oy incluent la fourniture d’une baie de brassage équipée d’une porte pouvant être verrouillée, de l’électricité ainsi que des services destinés à assurer que les serveurs sont utilisés dans des conditions optimales, tels que la surveillance de la température et de l’humidité, la réfrigération, la surveillance des interruptions de l’alimentation électrique, des détecteurs de fumée afin de repérer d’éventuels incendies à l’intérieur des baies de brassage ainsi qu’un contrôle d’accès électronique. En outre, cette société assure la gestion du nettoyage général ainsi que le changement des ampoules électriques.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Les baies de brassage sont vissées au plancher dans un immeuble loué par A Oy. Les utilisateurs y placent ensuite leurs équipements, lesquels sont eux-mêmes vissés à ces baies de brassage et peuvent en être détachés en quelques minutes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Les clients ne disposent pas de la clé de la baie de brassage dans laquelle ils ont installé leur serveur, mais ils peuvent l’obtenir, après vérification de leur identité, auprès d’un service de gardiennage disponible à tout moment. A Oy n’a pas le droit d’accéder à la baie de brassage de son client.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">A Oy a adressé à l’administration fiscale une demande de décision préalable concernant le régime de TVA applicable à ces services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Par décision du 27 février 2017, cette administration a considéré, s’agissant de la période comprise entre le 27 février 2017 et le 31 décembre 2018, que les services d’hébergement en centre de données fournis par A Oy ne relevaient pas de la règle générale concernant le lieu des prestations de services, prévue à l’article 65 de l’AVL, mais devaient être considérés comme des prestations de services se rattachant à un immeuble, au sens de l’article 67 de l’AVL, dont le lieu est défini comme étant l’endroit où cet immeuble est situé. En effet, selon l’administration fiscale, la location du local technique requis pour l’hébergement des serveurs des clients constituerait la prestation de services principale du panier de services fournis par A Oy, dès lors qu’elle serait centrale et essentielle à ceux-ci. Cette prestation devrait donc s’analyser comme étant la cession d’un droit d’utilisation d’un bien immeuble, au sens de l’article 27 de l’AVL.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Par un arrêt du 27 octobre 2017, le Helsingin hallinto-oikeus (tribunal administratif d’Helsinki, Finlande), saisi par A Oy, a annulé cette décision. Cette juridiction a considéré que les services d’hébergement en centre de données fournis par celle-ci ne pouvaient être considérés comme étant des prestations de services se rattachant à un immeuble, au sens de l’article 67 de l’AVL, et, partant, relevaient de la règle générale prévue à l’article 65 de cette loi. Elle a constaté, à cet égard, que, même si les baies de brassage destinées à accueillir les serveurs sont fixées au sol, elles peuvent être déplacées sans destruction ou modification de l’immeuble ou de la construction, au sens de l’article 13 ter, sous d), du règlement d’exécution. Ces baies de brassage ne constitueraient donc pas des biens immeubles, au sens de cette disposition, le client ne recevant pas en jouissance une fraction du centre de données, considéré en tant qu’immeuble, mais disposant uniquement de la possibilité d’utiliser lesdites baies placées dans ce centre de données dans des conditions optimales. A Oy fournirait ainsi à ses clients un panier de services relatif à l’hébergement de leurs serveurs, dont la prestation principale consisterait à offrir à ces derniers le meilleur environnement possible pour le fonctionnement de ces serveurs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Le service de l’administration fiscale chargé de défendre les droits des destinataires de recettes fiscales a saisi le Korkein hallinto-oikeus (Cour administrative suprême, Finlande) d’un pourvoi contre cet arrêt.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dans la décision de renvoi, cette juridiction s’interroge sur le point de savoir si les baies de brassage fournies par A Oy dans le cadre des services d’hébergement en centre de données qu’elle propose doivent être considérées comme étant un bien immeuble, au sens de l’article 13 ter du règlement d’exécution. Si tel n’était pas le cas, la question se poserait de savoir si ces services doivent être considérés comme se rattachant à un bien immeuble, au sens de l’article 47 de la directive TVA, dont le lieu de prestation est l’endroit où ce bien immeuble est situé. Dans le cadre de l’appréciation de cette dernière question, ladite juridiction considère qu’il conviendrait également de prendre en compte l’article 31 bis du règlement d’exécution, qui précise les contours de la notion de « services se rattachant à un bien immeuble », au sens de cet article 47.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dans ces conditions, le Korkein hallinto-oikeus (Cour administrative suprême) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">« 1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Convient-il d’interpréter les articles 13 ter et 31 bis du [règlement d’exécution] en ce sens qu’un service d’hébergement en centre de données tel que celui en cause dans l’affaire au principal, dans le cadre duquel un professionnel fournit à ses clients, pour qu’ils y installent leurs serveurs, des baies de brassage situées dans un centre de données, avec des biens et services accessoires, doit être considéré comme étant un service de location d’un bien immeuble ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En cas de réponse négative à la première question, convient-il néanmoins d’interpréter l’article 47 de la directive [TVA] et l’article 31 bis du [règlement d’exécution] en ce sens qu’un service d’hébergement en centre de données tel que celui en cause dans l’affaire au principal doit être considéré comme un service se rattachant à un bien immeuble dont le lieu de prestation est l’endroit où ce bien immeuble est situé ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Sur les questions préjudicielles</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Observations liminaires</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il convient de faire observer que, par ses deux questions, la juridiction de renvoi interroge la Cour sur l’interprétation de la directive TVA dans le cadre d’un litige qui concerne le traitement fiscal d’une prestation de services que cette juridiction qualifie elle-même de « services d’hébergement en centre de données ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ainsi qu’il ressort de la décision de renvoi, ces services comportent plusieurs éléments qui consistent, comme il a été relevé aux points 16 à 18 du présent arrêt, d’une part, en une mise à disposition par le prestataire de ces services de baies de brassage équipées d’une porte pouvant être verrouillée, dans lesquelles les clients de ce prestataire peuvent installer leurs serveurs, ainsi que, d’autre part, en une fourniture à ces derniers de l’électricité et de divers services destinés à assurer l’utilisation de ces serveurs dans des conditions optimales, en ce qui concerne notamment l’humidité et la température.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Selon la jurisprudence de la Cour, lorsqu’une opération est constituée par un faisceau d’éléments et d’actes, il convient de prendre en considération toutes les circonstances dans lesquelles elle se déroule afin de déterminer si cette opération donne lieu, aux fins de la TVA, à deux ou à plusieurs prestations distinctes ou à une prestation unique (arrêt du 4 septembre 2019, KPC Herning, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A660&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C-71/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A660" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:660</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A660" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">35</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Une prestation doit être considérée comme unique, notamment, lorsqu’une ou plusieurs prestations constituent une prestation principale et que la ou les autres prestations constituent une ou plusieurs prestations accessoires partageant le sort fiscal de la prestation principale. En particulier, une prestation doit être considérée comme accessoire à une prestation principale lorsqu’elle constitue pour la clientèle non pas une fin en soi, mais le moyen de bénéficier dans les meilleures conditions du service principal du prestataire (arrêt du 4 septembre 2019, KPC Herning, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A660&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C-71/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A660" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:660</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A660" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">38</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En l’occurrence, il ressort de la décision de renvoi, notamment du libellé même des questions posées, que la juridiction de renvoi considère que les différents éléments de la prestation de services d’hébergement en centre de données en cause au principal forment une prestation unique dans le cadre de laquelle la mise à disposition des baies de brassage constitue la prestation principale, la fourniture de l’électricité et des services destinés à assurer l’utilisation de ces serveurs dans des conditions optimales étant considérée comme accessoire à cette prestation principale.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ainsi qu’il ressort d’une jurisprudence constante de la Cour, les questions relatives à l’interprétation du droit de l’Union sont posées par le juge national dans le cadre factuel qu’il définit sous sa propre responsabilité et dont il n’appartient pas à la Cour de vérifier l’exactitude (voir, en ce sens, arrêt du 26 mars 2020, Kreissparkasse Saarlouis, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A242&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C-66/19</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A242" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:242</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A242" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">30</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">C’est donc en se fondant sur la prémisse ainsi établie par la juridiction de renvoi, selon laquelle la prestation de services d’hébergement en centre de données en cause au principal constitue une prestation unique dans le cadre de laquelle la mise à disposition de baies de brassage est la prestation principale, qu’il convient de répondre aux questions posées par cette juridiction.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Sur la première question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dans le cadre de la procédure de coopération entre les juridictions nationales et la Cour instituée à l’article 267 TFUE, il appartient à celle‑ci de donner au juge national une réponse utile qui lui permette de trancher le litige dont il est saisi. Dans cette optique, il incombe, le cas échéant, à la Cour de reformuler les questions qui lui sont soumises. En effet, la Cour a pour mission d’interpréter toutes les dispositions du droit de l’Union dont les juridictions nationales ont besoin afin de statuer sur les litiges qui leur sont soumis, même si ces dispositions ne sont pas indiquées expressément dans les questions qui lui sont adressées par ces juridictions (arrêt du 12 mars 2020, Caisse d’assurance retraite et de la santé au travail d’Alsace-Moselle, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A203&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑769/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A203" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:203</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A203" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ainsi, en l’occurrence, même si, sur le plan formel, la juridiction de renvoi a limité sa première question à l’interprétation des articles 13 ter et 31 bis du règlement d’exécution, lesquels définissent, respectivement, les notions de « bien immeuble » et de « services se rattachant à un bien immeuble » aux fins de la détermination du lieu des prestations de services soumises à la TVA, il ressort de la décision de renvoi que cette question vise, en réalité, à déterminer si l’article 135, paragraphe 1, sous l), de la directive TVA, qui prévoit l’exonération de la location de biens immeubles, s’applique aux services d’hébergement en centre de données fournis par le prestataire en cause au principal. Au demeurant, cette disposition est citée dans les motifs de cette décision en tant que règle du droit de l’Union applicable au litige au principal et la location de biens immeubles est visée à l’article 31 bis, paragraphe 2, sous h), du règlement d’exécution, qui est expressément mentionné dans ladite question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dans ces conditions, il convient de considérer que, par sa première question, la juridiction de renvoi demande, en substance, si l’article 135, paragraphe 1, sous l), de la directive TVA doit être interprété en ce sens que des services d’hébergement en centre de données dans le cadre desquels le prestataire de ces services met à la disposition de ses clients, afin qu’ils y installent leurs serveurs, des baies de brassage et leur fournit des biens et des services accessoires, tels que de l’électricité et divers services destinés à assurer l’utilisation de ces serveurs dans des conditions optimales, constituent des services de location de biens immeubles relevant de l’exonération de la TVA prévue à cette disposition.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À cet égard, il convient de rappeler que, conformément à l’article 135, paragraphe 1, sous l), de la directive TVA, les opérations de location de biens immeubles sont exonérées de la TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Les exonérations telles que celles prévues à l’article 135, paragraphe 1, de la directive TVA constituent des notions autonomes du droit de l’Union et doivent, dès lors, recevoir une définition uniforme au niveau de l’Union (voir, par analogie, arrêt du 16 octobre 2019, Winterhoff et Eisenbeis, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A860&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑4/18 et C-5/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A860" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:860</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A860" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">43</a> ainsi que jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En outre, selon une jurisprudence constante de la Cour, les termes employés pour désigner les exonérations visées à cette disposition, y compris la notion de « location de biens immeubles », sont d’interprétation stricte, étant donné qu’une exonération constitue une dérogation au principe général selon lequel la TVA est perçue sur chaque prestation de services effectuée à titre onéreux par un assujetti (voir, en ce sens, arrêt du 19 décembre 2018, Mailat, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1038&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C-17/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1038" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1038</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1038" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Toutefois, l’interprétation de ces termes doit être conforme aux objectifs poursuivis par lesdites exonérations et respecter les exigences du principe de neutralité fiscale inhérent au système commun de TVA. Ainsi, cette règle d’interprétation stricte ne signifie pas que les termes utilisés pour définir les exonérations visées à ladite disposition doivent être interprétés d’une manière qui priverait celles-ci de leurs effets (voir, par analogie, arrêt du 16 octobre 2019, Winterhoff et Eisenbeis, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A860&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C-4/18 et C-5/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A860" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:860</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A860" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">45</a> ainsi que jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La notion de « location de biens immeubles », visée à l’article 135, paragraphe 1, sous l), de la directive TVA, a été définie par la Cour comme le droit conféré par le propriétaire d’un immeuble au locataire, contre rémunération et pour une durée convenue, d’occuper cet immeuble comme s’il en était le propriétaire et d’exclure toute autre personne du bénéfice d’un tel droit (voir, en ce sens, arrêt du 28 février 2019, Sequeira Mesquita, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A160&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑278/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A160" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:160</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A160" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">18</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La Cour a également précisé que l’exonération prévue à cette disposition s’explique par le fait que la location de biens immeubles, tout en étant une activité économique, constitue normalement une activité relativement passive, ne générant pas une valeur ajoutée significative. Une telle activité est ainsi à distinguer d’autres activités qui soit ont un caractère d’affaires industrielles et commerciales, soit ont un objet qui est mieux caractérisé par l’exécution d’une prestation que par la simple mise à disposition d’un bien, tels le droit d’utiliser un terrain de golf, celui d’utiliser un pont moyennant le versement d’un droit de péage ou encore le droit d’installer des distributeurs de cigarettes dans un établissement commercial (voir, en ce sens, arrêt du 28 février 2019, Sequeira Mesquita, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A160&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑278/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A160" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:160</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A160" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">19</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il en découle que le caractère passif de la location d’un bien immeuble, qui justifie l’exonération de la TVA d’une telle opération au titre de l’article 135, paragraphe 1, sous l), de la directive TVA, tient à la nature de l’opération elle-même et non pas à la façon dont le locataire fait usage du bien concerné (arrêt du 28 février 2019, Sequeira Mesquita, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A160&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑278/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A160" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:160</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A160" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">20</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ainsi, la Cour a jugé qu’est exclue du bénéfice de cette exonération une activité qui implique non seulement une mise à disposition passive d’un bien immeuble, mais également un certain nombre d’activités commerciales, telles qu’une supervision, une gestion et une maintenance constante de la part du propriétaire ainsi qu’une mise à disposition d’autres installations, de telle sorte que, à défaut de circonstances tout à fait particulières, la location de ce bien ne saurait constituer une prestation prépondérante (arrêt du 28 février 2019, Sequeira Mesquita, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A160&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑278/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A160" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:160</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A160" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">21</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">C’est à la lumière de ces critères dégagés par la jurisprudence de la Cour qu’il convient de déterminer si des services d’hébergement en centre de données tels que ceux en cause au principal relèvent de l’exonération de la TVA prévue à l’article 135, paragraphe 1, sous l), de la directive TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En l’occurrence, il ressort de la décision de renvoi que le prestataire de services d’hébergement en centre de données en cause au principal met à la disposition de ses clients des baies de brassage, dans lesquelles ceux-ci peuvent installer ou faire installer par le prestataire leurs serveurs, et que ce dernier leur fournit également, à titre accessoire, de l’électricité ainsi que divers services destinés à assurer l’utilisation, voire la maintenance, de ces serveurs dans des conditions optimales. Il apparaît également que les clients ne peuvent accéder à la baie de brassage leur ayant été affectée qu’après avoir obtenu les clés correspondantes auprès d’un tiers sur présentation d’un document d’identité aux fins de contrôle.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dans ces conditions, et sous réserve d’une vérification par la juridiction de renvoi, le prestataire des services en cause au principal ne semble pas se borner à procéder à la mise à disposition passive d’une surface ou d’un emplacement à ses clients en leur garantissant le droit de l’occuper comme s’ils en étaient propriétaires et d’exclure ainsi toute autre personne du bénéfice d’un tel droit. En particulier, rien n’indique que les clients de ce prestataire auraient le droit de contrôler ou de restreindre l’accès de la partie de l’immeuble dans laquelle les baies de brassage ont été installées.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Quant au point de savoir si les baies de brassage pourraient elles‑mêmes être considérées comme étant des biens immeubles faisant l’objet d’une location, il convient de relever que l’article 13 ter du règlement d’exécution, qui a pour objet de préciser la notion de « bien immeuble » aux fins de l’application de la directive TVA, prévoit, notamment, à ses points c) et d), que cette notion inclut, respectivement « tout élément installé et faisant partie intégrante d’un immeuble ou d’une construction sans lequel l’immeuble ou la construction est incomplet, tel que portes, fenêtres, toitures, escaliers et ascenseurs », ainsi que « tout élément, matériel ou machine, installé à demeure dans un immeuble ou une construction qui ne peut être déplacé sans destruction ou modification de l’immeuble ou de la construction ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Or, en l’occurrence, il apparaît que, d’une part, les baies de brassage ne font nullement partie intégrante de l’immeuble dans lequel elles sont installées, dès lors que ce dernier ne serait pas considéré, en leur absence, comme étant structurellement « incomplet », et, d’autre part, ces baies de brassage, étant simplement vissées au sol et pouvant donc être déplacées sans destruction ou modification de l’immeuble, ne sont pas non plus installées « à demeure ». Il s’ensuit que de telles baies de brassage ne semblent pas pouvoir être qualifiées de biens immeubles susceptibles de faire l’objet d’une location exonérée de la TVA au titre de l’article 135, paragraphe 1, sous l), de la directive TVA, ce qu’il incombe à cette juridiction de vérifier.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En conséquence, il convient de répondre à la première question que l’article 135, paragraphe 1, sous l), de la directive TVA doit être interprété en ce sens que des services d’hébergement en centre de données dans le cadre desquels le prestataire de ces services met à la disposition de ses clients, afin qu’ils y installent leurs serveurs, des baies de brassage et leur fournit des biens et des services accessoires, tels que de l’électricité et divers services destinés à assurer l’utilisation de ces serveurs dans des conditions optimales, ne constituent pas des services de location de biens immeubles relevant de l’exonération de la TVA prévue à cette disposition, dès lors que, ce qu’il incombe à la juridiction de renvoi de vérifier, d’une part, ce prestataire ne procède pas à la mise à disposition passive d’une surface ou d’un emplacement à ses clients en leur garantissant le droit de l’occuper comme s’ils en étaient propriétaires et, d’autre part, les baies de brassage ne font pas partie intégrante de l’immeuble dans lequel elles sont installées et n’y sont pas non plus installées à demeure.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Sur la seconde question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Par sa seconde question, la juridiction de renvoi demande, en substance, si l’article 47 de la directive TVA et l’article 31 bis du règlement d’exécution doivent être interprétés en ce sens que des services d’hébergement en centre de données dans le cadre desquels le prestataire de ces services met à la disposition de ses clients, afin qu’ils y installent leurs serveurs, des baies de brassage et leur fournit des biens et des services accessoires, tels que de l’électricité et divers services destinés à assurer l’utilisation de ces serveurs dans des conditions optimales, constituent des services se rattachant à un bien immeuble, au sens de ces dispositions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À cet égard, il convient de rappeler que les articles 44 et 45 de la directive TVA contiennent une règle générale pour déterminer le lieu de rattachement fiscal des prestations de services, tandis que les articles 46 à 59 bis de cette directive prévoient une série de rattachements spécifiques (arrêt du 13 mars 2019, Srf konsulterna, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A195&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑647/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A195" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:195</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A195" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">20</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’objectif de l’ensemble de ces dispositions est d’éviter, d’une part, des conflits de compétence susceptibles de conduire à des doubles impositions et, d’autre part, la non-imposition de recettes (arrêts du 30 avril 2015, SMK, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A290&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑97/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A290" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:290</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A290" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">32</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ainsi, en fixant le lieu de rattachement fiscal d’une prestation de services et en délimitant les compétences des États membres, lesdites dispositions visent à établir une répartition rationnelle des champs d’application respectifs des législations nationales en matière de TVA, en déterminant de manière uniforme le lieu de rattachement fiscal des prestations de services (voir, en ce sens, arrêt du 30 avril 2015, SMK, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A290&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑97/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A290" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:290</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A290" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">33</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il résulte d’une jurisprudence constante de la Cour qu’il n’existe pas de prééminence des articles 44 et 45 de la directive TVA sur les articles 46 à 59 bis de celle-ci. Il y a lieu, dans chaque situation, de se demander si celle-ci correspond à l’un des cas mentionnés aux articles 46 à 59 bis de cette directive. C’est à défaut que ladite situation relève des articles 44 et 45 de celle-ci (arrêt du 13 mars 2019, Srf konsulterna, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A195&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C-647/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A195" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:195</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A195" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">21</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il s’ensuit que l’article 47 de la directive TVA ne doit pas être considéré comme une exception à une règle générale devant recevoir une interprétation stricte (voir, par analogie, arrêts du 8 décembre 2016, A et B, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A933&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑453/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A933" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:933</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A933" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">19</a> ; du 13 mars 2019, Srf konsulterna, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A195&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑647/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A195" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:195</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A195" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">22</a>, ainsi que du 8 mai 2019, Geelen, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A388&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑568/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A388" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:388</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A388" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">25</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En l’occurrence, il convient de déterminer si une prestation de services d’hébergement en centre de données telle que celle en cause au principal doit être considérée comme se rattachant à un bien immeuble, au sens de cette disposition, auquel cas le lieu de cette prestation serait l’endroit où ce bien immeuble est situé.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À cet égard, il y a lieu de constater d’emblée que, si les services d’hébergement en centre de données ne figurent pas au nombre des prestations énumérées à l’article 47 de la directive TVA, cette énumération ne revêt pas, ainsi qu’il ressort des termes « y compris » qui la précèdent, un caractère exhaustif.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Toutefois, comme la Commission européenne l’a relevé à juste titre dans ses observations écrites, les prestations explicitement mentionnées dans cette disposition font clairement ressortir que seules les prestations qui présentent un lien suffisamment direct avec un bien immeuble sont susceptibles de relever du champ d’application de ladite disposition.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À cet égard, la Cour a jugé que, pour qu’une prestation de services soit considérée comme se rattachant à un bien immeuble, au sens de la même disposition, cette prestation doit être liée à un immeuble expressément déterminé et avoir pour objet le bien immeuble lui-même. Tel est le cas, notamment, lorsqu’un bien immeuble expressément déterminé doit être considéré comme étant un élément constitutif d’une prestation de services, en ce qu’il constitue un élément central et indispensable de celle-ci (voir, en ce sens, arrêt du 27 juin 2013, RR Donnelley Global Turnkey Solutions Poland, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A434&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑155/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A434" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:434</a>, points <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A434" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> et <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A434" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Cette jurisprudence a été, en substance, codifiée à l’article 31 bis, paragraphe 1, sous a) et b), du règlement d’exécution, qui énonce que les services se rattachant à un bien immeuble, au sens de l’article 47 de la directive TVA, ne comprennent que les services présentant un lien suffisamment direct avec un bien immeuble, ce qui est le cas, d’une part, lorsque ces services sont issus d’un bien immeuble, que ledit bien immeuble est un élément constitutif du service et qu’il est central et essentiel pour les services fournis, ainsi que, d’autre part, lorsque lesdits services sont fournis ou destinés à un bien immeuble et ont pour objet de modifier le statut juridique ou les caractéristiques physiques dudit bien. Or, ainsi qu’il découle explicitement des dispositions combinées de l’article 31 bis, paragraphe 2, sous h), et de l’article 31 bis, paragraphe 3, sous b), du règlement d’exécution, la location d’un immeuble en vue de l’entreposage de biens ne saurait être considérée comme constituant un service se rattachant à un bien immeuble, au sens de l’article 47 de ladite directive, si aucune partie spécifique du bien immeuble n’est affectée à l’usage exclusif du preneur.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À cet égard, il ressort de la décision de renvoi que, en l’occurrence, ainsi qu’il a déjà été relevé, en substance, aux points 45, 46 et 48 du présent arrêt, les clients ayant recours aux services d’hébergement en centre de données en cause au principal ne disposent pas d’un droit d’usage exclusif de la partie de l’immeuble dans laquelle les baies de brassage ont été installées. En effet, premièrement, ils ne peuvent accéder à la baie de brassage leur ayant été affectée qu’après avoir obtenu les clés correspondantes auprès d’un tiers sur présentation d’un document d’identité aux fins de contrôle. Deuxièmement, ces clients ne semblent pas disposer du droit de contrôler ou de restreindre l’utilisation de la partie concernée dudit immeuble. Troisièmement, cette baie de brassage ne peut pas être qualifiée elle-même de bien immeuble.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il n’apparaît donc pas que les conditions dans lesquelles les serveurs sont hébergés correspondent à celles requises à l’article 47 de la directive TVA et à l’article 31 bis du règlement d’exécution, afin que les services d’hébergement en centre de données en cause au principal puissent être considérés comme se rattachant à un bien immeuble, ce qu’il incombe à la juridiction de renvoi de vérifier.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En conséquence, il convient de répondre à la seconde question que l’article 47 de la directive TVA et l’article 31 bis du règlement d’exécution doivent être interprétés en ce sens que des services d’hébergement en centre de données dans le cadre desquels le prestataire de ces services met à la disposition de ses clients, afin qu’ils y installent leurs serveurs, des baies de brassage et leur fournit des biens et des services accessoires, tels que de l’électricité et divers services destinés à assurer l’utilisation de ces serveurs dans des conditions optimales, ne constituent pas des services se rattachant à un bien immeuble, au sens de ces dispositions, lorsque ces clients ne jouissent pas, ce qu’il incombe à la juridiction de renvoi de vérifier, d’un droit d’usage exclusif de la partie de l’immeuble dans laquelle sont installées les baies de brassage.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">Par ces motifs, la Cour (dixième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">1)</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">L’article 135, paragraphe 1, sous l), de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée, telle que modifiée par la directive 2008/8/CE du Conseil, du 12 février 2008, doit être interprété en ce sens que des services d’hébergement en centre de données dans le cadre desquels le prestataire de ces services met à la disposition de ses clients, afin qu’ils y installent leurs serveurs, des baies de brassage et leur fournit des biens et des services accessoires, tels que de l’électricité et divers services destinés à assurer l’utilisation de ces serveurs dans des conditions optimales, ne constituent pas des services de location de biens immeubles relevant de l’exonération de la taxe sur la valeur ajoutée prévue à cette disposition, dès lors que, ce qu’il incombe à la juridiction de renvoi de vérifier, d’une part, ce prestataire ne procède pas à la mise à disposition passive d’une surface ou d’un emplacement à ses clients en leur garantissant le droit de l’occuper comme s’ils en étaient propriétaires et, d’autre part, les baies de brassage ne font pas partie intégrante de l’immeuble dans lequel elles sont installées et n’y sont pas non plus installées à demeure.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">2)</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">L’article 47 de la directive 2006/112, telle que modifiée par la directive 2008/8, et l’article 31 bis du règlement d’exécution (UE) n<span class="coj-super">o</span> 282/2011 du Conseil, du 15 mars 2011, portant mesures d’exécution de la directive 2006/112, tel que modifié par le règlement d’exécution (UE) n<span class="coj-super">o</span> 1042/2013 du Conseil, du 7 octobre 2013, doivent être interprétés en ce sens que des services d’hébergement en centre de données dans le cadre desquels le prestataire de ces services met à la disposition de ses clients, afin qu’ils y installent leurs serveurs, des baies de brassage et leur fournit des biens et des services accessoires, tels que de l’électricité et divers services destinés à assurer l’utilisation de ces serveurs dans des conditions optimales, ne constituent pas des services se rattachant à un bien immeuble, au sens de ces dispositions, lorsque ces clients ne jouissent pas, ce qu’il incombe à la juridiction de renvoi de vérifier, d’un droit d’usage exclusif de la partie de l’immeuble dans laquelle sont installées les baies de brassage.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62019CJ0215_FR_01-E0001" id="t-ECR_62019CJ0215_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : le finnois.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

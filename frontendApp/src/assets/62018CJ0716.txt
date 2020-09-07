@@ -1,0 +1,977 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>ARRÊT DE LA COUR (cinquième chambre)</p>
+<p class="coj-sum-title-1">9 juillet 2020 (<span class="coj-note">
+<a href="#t-ECR_62018CJ0716_FR_01-E0001" id="c-ECR_62018CJ0716_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">« Renvoi préjudiciel – Fiscalité – Système commun de taxe sur la valeur ajoutée (TVA) – Directive 2006/112/CE – Article 288, premier alinéa, point 4 – Régime particulier des petites entreprises – Méthode de calcul du chiffre d’affaires annuel servant de référence pour l’application du régime particulier des petites entreprises – Notion d’“opération immobilière accessoire” – Location d’un bien immobilier par une personne physique exerçant plusieurs professions libérales »</p>
+<p class="coj-normal">Dans l’affaire C‑716/18,</p>
+<p class="coj-normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par la Curtea de Apel Timişoara (cour d’appel de Timişoara, Roumanie), par décision du 1<span class="coj-super">er</span> novembre 2018, parvenue à la Cour le 14 novembre 2018, dans la procédure</p>
+<p class="coj-normal">
+<span class="coj-bold">CT</span>
+</p>
+<p class="coj-pnormal">contre</p>
+<p class="coj-normal">
+<span class="coj-bold">Administraţia Judeţeană a Finanţelor Publice Caraş-Severin – Serviciul Inspecţie Persoane Fizice,</span>
+</p>
+<p class="coj-normal">
+<span class="coj-bold">Direcţia Generală Regională a Finanţelor Publice Timişoara – Serviciul Soluţionare Contestaţii 1,</span>
+</p>
+<p class="coj-normal">LA COUR (cinquième chambre),</p>
+<p class="coj-normal">composée de M. E. Regan, président de chambre, MM. I. Jarukaitis, E. Juhász (rapporteur), M. Ilešič et C. Lycourgos, juges,</p>
+<p class="coj-normal">avocat général : M<span class="coj-super">me</span> J. Kokott,</p>
+<p class="coj-normal">greffier : M. A. Calot Escobar,</p>
+<p class="coj-normal">vu la procédure écrite,</p>
+<p class="coj-normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">pour CT, par M<span class="coj-super">e</span> N. Şvidchi, avocat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">pour le gouvernement roumain, initialement, par M<span class="coj-super">mes</span> E. Gane, L. Liţu et O.‑C. Ichim ainsi que par M. C.-R. Canţăr, puis par ces trois premiers, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">pour la Commission européenne, par M<span class="coj-super">mes</span> A. Armenia et J. Jokubauskaitė, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">ayant entendu l’avocate générale en ses conclusions à l’audience du 6 février 2020,</p>
+<p class="coj-normal">rend le présent</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La demande de décision préjudicielle porte sur l’interprétation de l’article 288, premier alinéa, point 4, de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2006, L 347, p. 1</a>), telle que modifiée par la directive 2009/162/UE du Conseil, du 22 décembre 2009 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2010:010:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2010, L 10, p. 14</a>) (ci-après la « directive TVA »).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Cette demande a été présentée dans le cadre d’un litige opposant CT à l’Administraţia Judeţeană a Finanţelor Publice Caraş-Severin – Serviciul Inspecţie Persoane Fizice (administration départementale des finances publiques de Caraș-Severin – service du contrôle fiscal auprès des personnes physiques, ci-après l’« AJFP Caraș-Severin ») et à la Direcţia Generală Regională a Finanţelor Publice Timişoara – Serviciul Soluţionare Contestaţii 1 (direction générale régionale des finances publiques de Timișoara – service du traitement des réclamations n<span class="coj-super">o</span> 1), au sujet de la méthode de calcul de son chiffre d’affaires annuel aux fins de l’application, à son égard, du régime particulier des petites entreprises prévu dans la directive TVA.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Le cadre juridique</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Le droit de l’Union</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 9 de la directive TVA énonce :</p>
+<p class="coj-normal">« 1.   Est considéré comme “assujetti” quiconque exerce, d’une façon indépendante et quel qu’en soit le lieu, une activité économique, quels que soient les buts ou les résultats de cette activité.</p>
+<p class="coj-normal">Est considérée comme “activité économique” toute activité de producteur, de commerçant ou de prestataire de services, y compris les activités extractives, agricoles et celles des professions libérales ou assimilées. Est en particulier considérée comme activité économique, l’exploitation d’un bien corporel ou incorporel en vue d’en tirer des recettes ayant un caractère de permanence.</p>
+<p class="coj-normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Aux termes de l’article 135, paragraphe 1, point l), et paragraphe 2, de cette directive :</p>
+<p class="coj-normal">« 1.   Les États membres exonèrent les opérations suivantes :</p>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">l)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">l’affermage et la location de biens immeubles.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">2.   Sont exclues de l’exonération prévue au paragraphe 1, point l), les opérations suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">les opérations d’hébergement telles qu’elles sont définies dans la législation des États membres qui sont effectuées dans le cadre du secteur hôtelier ou de secteurs ayant une fonction similaire, y compris les locations de camps de vacances ou de terrains aménagés pour camper ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">les locations d’emplacements pour le stationnement des véhicules ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">les locations d’outillages et de machines fixés à demeure ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">d)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">les locations de coffres-forts.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">Les États membres peuvent prévoir des exclusions supplémentaires au champ d’application de l’exonération prévue au paragraphe 1, point l). »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 174, paragraphe 2, de ladite directive indique ce qui suit :</p>
+<p class="coj-normal">« Par dérogation au paragraphe 1, il est fait abstraction, pour le calcul du prorata de déduction, des montants suivants :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">le montant du chiffre d’affaires afférent aux livraisons de biens d’investissement utilisés par l’assujetti dans son entreprise ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">le montant du chiffre d’affaires afférent aux opérations accessoires immobilières et financières ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">le montant du chiffre d’affaires afférent aux opérations visées à l’article 135, paragraphe 1, points b) à g), lorsqu’il s’agit d’opérations accessoires. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Sous le titre XII, intitulé « Régimes particuliers », la directive TVA comporte un chapitre 1, intitulé « Régime particulier des petites entreprises ». Dans la section 2 de ce chapitre, intitulée « Franchises ou atténuations dégressives », figurent les articles 282 à 292 de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Aux termes de l’article 282 de ladite directive, les franchises et les atténuations prévues dans cette section s’appliquent aux livraisons de biens et aux prestations de services effectuées par les petites entreprises.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 287 de la même directive est libellé comme suit :</p>
+<p class="coj-normal">« Les États membres ayant adhéré après le 1<span class="coj-super">er</span> janvier 1978 peuvent octroyer une franchise de taxe aux assujettis dont le chiffre d’affaires annuel est au maximum égal à la contre-valeur en monnaie nationale des montants suivants au taux du jour de leur adhésion :</p>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">18)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">la Roumanie : 35000 [euros] ;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 288 de la directive TVA dispose :</p>
+<p class="coj-normal">« Le chiffre d’affaires qui sert de référence pour l’application du régime prévu à la présente section est constitué par les montants hors [taxe sur la valeur ajoutée (TVA)] suivants :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">le montant des livraisons de biens et des prestations de services, pour autant qu’elles soient imposées ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">le montant des opérations exonérées avec droit à déduction de la TVA payée au stade antérieur en vertu des articles 110 et 111 de l’article 125, paragraphe 1, de l’article 127 et de l’article 128, paragraphe 1 ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">3)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">le montant des opérations exonérées en vertu des articles 146 à 149 et des articles 151, 152 et 153 ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">4)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">le montant des opérations immobilières, des opérations financières visées à l’article 135, paragraphe 1, points b) à g), et des prestations d’assurance, à moins que ces opérations n’aient le caractère d’opérations accessoires.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">Toutefois, les cessions de biens d’investissement corporels ou incorporels de l’entreprise ne sont pas prises en considération pour la détermination du chiffre d’affaires. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En vertu de l’article 1<span class="coj-super">er</span> de la décision d’exécution 2012/181/UE du Conseil, du 26 mars 2012, autorisant la Roumanie à introduire une mesure dérogatoire à l’article 287 de la directive 2006/112 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2012:092:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2012, L 92, p. 26</a>), « [p]ar dérogation à l’article 287, point 18, de la directive [TVA], la Roumanie était autorisée à octroyer une franchise de TVA aux assujettis dont le chiffre d’affaires annuel est inférieur ou égal à la contre-valeur en monnaie nationale de 65000 [euros] au taux de conversion du jour de son adhésion à l’Union européenne ».</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Le droit roumain</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 127 de la lege nr. 571 privind Codul fiscal (loi n<span class="coj-super">o</span> 571 relative au code des impôts), du 22 décembre 2003 (<span class="coj-italic">Monitorul Oficial</span>
+<span class="coj-italic">al României,</span> partie I, n<span class="coj-super">o</span> 927 du 23 décembre 2003), telle que modifiée par la lege nr. 343 pentru modificarea şi completarea Legii nr. 571 privind Codul fiscal (loi n<span class="coj-super">o</span> 343 modifiant et complétant la loi n<span class="coj-super">o</span> 571 relative au code des impôts), du 17 juillet 2006 (<span class="coj-italic">Monitorul Oficial al României,</span> partie I, n<span class="coj-super">o</span> 662 du 1<span class="coj-super">er</span> août 2006) (ci-après le « code des impôts »), intitulé « Assujettis et activité économique », prévoit :</p>
+<p class="coj-normal">« 1.   Est considéré comme assujetti quiconque exerce, d’une façon indépendante et quel qu’en soit le lieu, une activité économique relevant du paragraphe 2, quel que soit le but ou le résultat de cette activité.</p>
+<p class="coj-normal">2.   Au sens du présent titre, les activités économiques comprennent les activités de producteur, de commerçant ou de prestataire de services, y compris les activités extractives, agricoles et celles des professions libérales ou assimilées. Est en particulier considérée comme activité économique l’exploitation d’un bien corporel ou incorporel en vue d’en tirer des recettes ayant un caractère de permanence. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 141 de ce code, intitulé « Exonérations pour des opérations réalisées à l’intérieur du pays », dispose, à son paragraphe 2 :</p>
+<p class="coj-normal">« Les opérations suivantes sont également exonérées de TVA :</p>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">e)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">les baux fonciers, les concessions, la location et le crédit-bail de biens immeubles [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 152, paragraphe 1, dudit code, intitulé « Régime spécial d’exonération des petites entreprises », est libellé comme suit :</p>
+<p class="coj-normal">« Un assujetti établi en Roumanie, au sens de l’article 125 bis, paragraphe 2, sous a), dont le chiffre d’affaires annuel, déclaré ou réalisé, est inférieur au plafond de 65000 euros, en équivalent [lei roumains (RON)] fixé selon le taux de change communiqué par la Banca Națională a României [(Banque nationale de Roumanie)] à la date d’adhésion et arrondi au millième suivant, à savoir 220000 RON, peut appliquer l’exonération de la taxe [...] aux opérations prévues à l’article 126, paragraphe 1, à l’exception des livraisons intracommunautaires de moyens de transport neufs, exonérées conformément à l’article 143, paragraphe 2, sous b). »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 152, paragraphe 2, du même code détermine les opérations dont le montant total, hors taxe, sert de référence aux fins de l’application du régime particulier des petites entreprises et pose la condition selon laquelle ces opérations ne peuvent être accessoires à l’activité principale de l’assujetti.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 153 du code des impôts, intitulé « Identification à la TVA », prévoit :</p>
+<p class="coj-normal">« 1.   L’assujetti dont l’activité économique est exercée en Roumanie et qui exerce ou a l’intention d’exercer une activité économique qui implique des opérations imposables et/ou exonérées de TVA avec droit à déduction doit demander son identification à la TVA auprès de l’autorité fiscale compétente [...], comme suit : [...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">si, au cours d’une année civile, il atteint ou dépasse le plafond d’exonération prévu à l’article 152, paragraphe 1, dans un délai de dix jours à compter de la fin du mois au cours duquel il a atteint ou dépassé ce plafond ;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Les normele metodologice de aplicare a Legii nr. 571/2003 privind Codul fiscal (modalités d’application de la loi n<span class="coj-super">o</span> 571/2003 relative au code des impôts), approuvées par la hotărâre nr. 44 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 571/2003 privind Codul fiscal (décision gouvernementale n<span class="coj-super">o</span> 44 portant approbation des modalités d’application de la loi n<span class="coj-super">o</span> 571/2003 relative au code des impôts), du 22 janvier 2004 (<span class="coj-italic">Monitorul Oficial al României,</span> partie I, n<span class="coj-super">o</span> 112 du 6 février 2004), telles que modifiées par la hotărâre nr. 670 pentru modificarea şi completarea Normelor metodologice de aplicare a Legii nr. 571/2003 privind Codul fiscal, aprobate prin Hotărârea Guvernului nr. 44/2004 (décision gouvernementale n<span class="coj-super">o</span> 670 modifiant et complétant les modalités d’application de la loi n<span class="coj-super">o</span> 571/2003 relative au code des impôts, approuvée par la décision gouvernementale n<span class="coj-super">o</span> 44/2004), du 4 juillet 2012 (<span class="coj-italic">Monitorul Oficial al României,</span> partie I, n<span class="coj-super">o</span> 481 du 13 juillet 2012), disposaient, à leur point 47, paragraphe 3 :</p>
+<p class="coj-normal">« Une opération est accessoire à l’activité principale de l’assujetti si les conditions suivantes sont cumulativement remplies :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">la réalisation de cette opération nécessite des ressources techniques limitées en ce qui concerne les équipements et l’emploi de personnel ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">l’opération n’est pas directement liée à l’activité principale de l’assujetti ; et</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">le montant des acquisitions effectuées aux fins de ladite opération et le montant de la taxe déductible afférente à la même opération sont insignifiants. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ces modalités d’application disposaient, à leur point 61, paragraphe 1, quant à l’article 152 du code des impôts :</p>
+<p class="coj-normal">« Au sens de l’article 152, paragraphe 2, du code des impôts, une opération est accessoire à l’activité principale de l’assujetti si les conditions prévues au point 47, paragraphe 3, sont cumulativement remplies. »</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Le litige au principal et les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Le requérant au principal, enseignant en université, exerce plusieurs professions de façon indépendante, à savoir celles d’expert-comptable, de consultant fiscal, de praticien en matière de procédures collectives ainsi que d’avocat, et perçoit, en outre, des revenus en tant qu’auteur d’articles et d’ouvrages. Il a obtenu en 2008, en tant que personne physique, un numéro d’enregistrement fiscal pour les « activités comptables » qui incluent l’expertise comptable et la consultance fiscale.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Le requérant au principal, ayant domicilié l’exercice de la majorité de ses activités à son adresse personnelle, a déclaré l’exercice de sa profession de praticien en matière de procédures collectives à l’adresse d’un immeuble dont il est copropriétaire avec une autre personne et qui est en partie loué à une société commerciale dont il est l’associé-gérant. Cette société, identifiée à la TVA, a son siège social dans cet immeuble, où elle exerce notamment des activités de conseil pour les affaires et autres conseils de gestion, de comptabilité et d’audit financier ainsi que de consultance dans le domaine fiscal. L’objet principal déclaré de l’activité de ladite société est le suivant : « Conseil pour les affaires et autres conseils de gestion ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En 2016, le requérant au principal a fait l’objet d’un contrôle fiscal relatif à la TVA portant sur son activité économique en tant que personne physique, à l’issue duquel l’AJFP Caraș-Severin a constaté que, au cours de l’année 2012, son chiffre d’affaires avait été supérieur à 220000 RON (environ 65000 euros), constituant à l’époque le seuil de référence pour l’application du régime particulier des petites entreprises en Roumanie. Dès lors, par un avis d’imposition, cette autorité fiscale a mis à la charge du requérant au principal le montant que ce dernier aurait dû acquitter à compter de la date à laquelle il était tenu de s’identifier à la TVA, à savoir le 1<span class="coj-super">er</span> septembre 2012.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Aux fins de déterminer si le chiffre d’affaires annuel du requérant au principal avait dépassé ce seuil de référence en 2012, l’AJFP Caraș-Severin a pris en compte les revenus tirés par celui-ci non seulement de l’exercice de ses différentes professions libérales et de ses droits d’auteurs, mais aussi de la location dudit immeuble. Le calcul effectué par cette autorité n’incluait pas les revenus salariaux perçus par l’intéressé en qualité d’enseignant en université ni ceux provenant de son activité en qualité d’avocat, ces derniers revenus ayant déjà été soumis à la TVA dans le cadre de la société civile professionnelle d’avocats dont il était l’associé.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En particulier, après avoir constaté que, en 2012, le montant total des revenus du requérant au principal pertinent aux fins de l’application du régime particulier des petites entreprises provenait à 69 % de l’activité de praticien en matière de procédures collectives, à 17 % de la location de l’immeuble dont celui-ci était copropriétaire et à 14 % de l’activité d’expert-comptable et de conseiller fiscal, l’AJFP Caraș-Severin a considéré que l’activité principale de l’intéressé était, au cours de cette année, l’activité de praticien en matière de procédures collectives. Cette autorité a précisé que la location de l’immeuble ne pouvait être qualifiée d’« opération accessoire » à cette activité principale, au sens de l’article 152, paragraphe 2, du code des impôts, les revenus tirés de celle-ci ne pouvant ainsi être exclus du calcul du chiffre d’affaires servant de référence pour déterminer l’application du régime particulier des petites entreprises.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Le requérant au principal a introduit une réclamation contre l’avis d’imposition et le rapport de contrôle fiscal de l’AJFP Caraș-Severin. Par la décision du 22 août 2017, la direction générale régionale des finances publiques de Timișoara – service du traitement des réclamations n<span class="coj-super">o</span> 1 a rejeté cette réclamation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Le requérant au principal a introduit un recours administratif contre cette décision. Par l’arrêt du 26 mars 2018, le Tribunalul Timiș (tribunal de grande instance de Timiș, Roumanie) a rejeté ce recours administratif.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Le requérant au principal a dès lors introduit un recours devant la juridiction de renvoi, par lequel il fait valoir que la location du bien immeuble dont il est copropriétaire représente une opération accessoire, au sens de l’article 152, paragraphe 2, du code des impôts, et que les revenus qui en sont issus n’ont pas à être inclus dans le calcul du chiffre d’affaires aux fins de l’application du régime particulier des petites entreprises. La Curtea de Apel Timişoara (cour d’appel de Timişoara, Roumanie), estimant que la solution du litige dont elle est saisie nécessitait l’interprétation des dispositions de la directive TVA, a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">« 1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dans des circonstances telles que celles du présent litige, dans lesquelles une personne physique a une activité économique consistant dans l’exercice de plusieurs professions libérales ainsi que dans la location d’un bien immeuble, en tirant ainsi des recettes ayant un caractère de permanence, les dispositions de l’article 288, [premier alinéa], point 4, de la directive [TVA], exigent-elles d’identifier une activité professionnelle déterminée, en tant qu’activité principale, en vue de vérifier si cette location peut être qualifiée d’opération accessoire à celle-ci et, dans l’affirmative, selon quels critères cette activité principale pourrait être identifiée, ou [ces dispositions] doivent-elles être interprétées en ce sens que chacune des activités professionnelles au moyen desquelles l’activité économique de cette personne physique est exercée représente une “activité principale” ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Lorsque le bien immeuble loué par une personne physique à un tiers n’est pas destiné et utilisé pour l’exercice du reste de l’activité économique de cette personne, et qu’il n’est donc pas possible d’établir un lien entre ce bien immeuble et l’exercice des différentes professions de ladite personne, les dispositions de l’article 288, [premier alinéa], point 4, de la directive [TVA] permettent-elles de qualifier l’opération de location d’“opération accessoire”, ce qui aurait pour conséquence de l’exclure du calcul du chiffre d’affaires qui sert de référence en vue de l’application du régime spécial d’exonération des petites entreprises ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">3)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dans le cas de figure décrit dans la deuxième question, le fait qu’une opération de location a été réalisée au bénéfice d’un tiers, personne morale dans laquelle la personne physique a qualité d’associé-gérant, qui a son siège dans le même immeuble et qui exerce des activités professionnelles de la même nature que la personne physique concernée, est-il pertinent aux fins de la qualification de cette opération de location d’“accessoire” ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Sur les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Par ses questions, qu’il convient d’examiner ensemble, la juridiction de renvoi demande, en substance, si l’article 288, premier alinéa, point 4, de la directive TVA doit être interprété en ce sens que, pour ce qui est d’un assujetti en tant que personne physique dont l’activité économique consiste en l’exercice de plusieurs professions libérales ainsi qu’en la location d’un bien immeuble, une telle location constitue une « opération accessoire », au sens de cette disposition, aux fins de l’application du régime particulier des petites entreprises.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À titre liminaire, premièrement, il convient de relever que, en tant qu’exception au système commun de la directive TVA, le régime particulier des petites entreprises établi par les articles 281 à 294 de cette directive doit être interprété de manière stricte et n’être appliqué que dans la mesure nécessaire pour atteindre son objectif (voir, en ce sens, arrêt du 2 mai 2019, Jarmuškienė, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A348&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑265/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A348" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:348</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A348" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Deuxièmement, en ce qui concerne la location de biens immeubles, la Cour a jugé qu’il s’agit d’une activité économique relevant du champ d’application de la directive TVA dans la mesure où l’opération de location est accomplie en vue d’en retirer des recettes ayant un caractère de permanence, conformément à l’article 9, paragraphe 1, deuxième alinéa, de cette directive (voir, en ce sens, arrêt du 27 janvier 2000, Heerma, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2000%3A46&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑23/98</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2000%3A46" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2000:46</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2000%3A46" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">19</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Troisièmement, ainsi que M<span class="coj-super">me</span> l’avocate générale l’a relevé aux points 30 et 31 de ses conclusions, la location d’un bien immobilier n’est susceptible de constituer une « opération immobilière », au sens de l’article 288, premier alinéa, point 4, de la directive TVA, que pour autant qu’il s’agisse d’une opération exonérée, ce qu’il appartient à la juridiction de renvoi de vérifier eu égard à l’article 135, paragraphe 1, sous l), et paragraphe 2, dernier alinéa, de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Sous le bénéfice de ces observations liminaires, il convient de relever que l’article 288, premier alinéa, point 4, de la directive TVA ne comportant aucun renvoi au droit des États membres, la notion d’« opération accessoire », au sens de cette disposition, constitue une notion autonome du droit de l’Union qu’il y a lieu d’interpréter de manière uniforme sur le territoire de l’Union, indépendamment des qualifications utilisées dans les États membres, en tenant compte non seulement du libellé de ladite disposition, mais également du contexte dans lequel la même disposition se situe ainsi que de l’objectif que cette dernière poursuit [voir, en ce sens, arrêt du 5 février 2020, Staatssecretaris van Justitie en Veiligheid (Enrôlement des marins dans le port de Rotterdam), <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A76&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑341/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A76" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:76</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A76" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">40</a> et jurisprudence citée].</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">S’agissant du libellé de l’article 288, premier alinéa, point 4, de la directive TVA, il y a lieu de relever qu’il ne précise pas ce qu’il convient d’entendre par « opération accessoire », laquelle notion n’est d’ailleurs définie par aucune des autres dispositions de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En ce qui concerne le contexte de l’article 288, premier alinéa, point 4, de la directive TVA, il convient de mentionner l’article 174, paragraphe 2, sous b), de cette directive figurant au chapitre 2, intitulé « Prorata de déduction », du titre X, intitulé « Déductions », de ladite directive qui énonce qu’il est fait abstraction, pour le calcul de prorata de déduction, du montant du chiffre d’affaires afférent aux « opérations accessoires immobilières et financières ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Cette dernière disposition correspond, en substance, à l’article 19, paragraphe 2, de la sixième directive 77/388/CEE du Conseil, du 17 mai 1977, en matière d’harmonisation des législations des États membres relatives aux taxes sur le chiffre d’affaires – Système commun de taxe sur la valeur ajoutée : assiette uniforme (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1977:145:TOC" hreflang="fr" onclick="target='CourtTab';">JO 1977, L 145, p. 1</a>), par lequel le législateur de l’Union a entendu exclure du calcul du prorata le chiffre d’affaires afférent aux opérations revêtant un caractère inhabituel par rapport à l’activité courante de l’assujetti concerné (voir, en ce sens, arrêt du 6 mars 2008, Nordania Finans et BG Factoring, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A144&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑98/07</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A144" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:144</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A144" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En particulier, aux fins de l’interprétation de la notion d’« opération accessoire », au sens de cette disposition, la Cour a renvoyé à l’exposé des motifs accompagnant la proposition de sixième directive du Conseil en matière d’harmonisation des législations des États membres relatives aux taxes sur le chiffre d’affaires – Système commun de taxe sur la valeur ajoutée : assiette uniforme, présentée par la Commission au Conseil des Communautés européennes le 29 juin 1973 [COM(73) 950 final](<span class="coj-italic">Bulletin des Communautés européennes,</span> supplément 11/73, p. 20) (ci-après la « proposition de sixième directive »). Aux termes de cet exposé, « [les] éléments visés à [l’article 19, paragraphe 2, de cette proposition] doivent être exclus du calcul du prorata de déduction, afin d’éviter qu’ils puissent en fausser la signification réelle dans la mesure où de tels éléments ne reflètent pas l’activité professionnelle de l’assujetti ». Selon ledit exposé, « [tel] est le cas de la vente de biens d’investissement et des opérations immobilières ou financières qui ne sont effectuées qu’à titre accessoire, c’est-à-dire qui n’ont qu’une importance secondaire ou accidentelle par rapport au chiffre d’affaires global de l’entreprise ». Le même exposé précise que « [ces] opérations ne sont d’ailleurs exclues que si elles ne relèvent pas de l’activité professionnelle habituelle de l’assujetti » (arrêt du 29 octobre 2009, NCC Construction Danmark, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A669&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑174/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A669" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:669</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A669" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">30</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il y a lieu d’observer que l’article 288, premier alinéa, point 4, de la directive TVA répond aux mêmes considérations. En effet, cette disposition correspond à l’article 25, paragraphe 2, de la proposition de sixième directive, devenu l’article 24, paragraphe 4, de la sixième directive 77/388. Conformément à l’exposé des motifs accompagnant la proposition de sixième directive, « [ladite disposition] établit le mode de détermination du chiffre d’affaires qui sert de référence pour l’application d’une franchise et d’une décote ». Selon cet exposé, « [elle] exclut les opérations plus ou moins occasionnelles qui sont susceptibles de perturber, d’une année sur l’autre, le volume du chiffre d’affaires » et « [elle] écarte également les opérations qui, comme les cessions de créances, n’expriment pas la dimension réelle de l’entreprise ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Certes, il y a lieu de relever qu’il existe des versions linguistiques de la directive TVA, notamment les versions en langues bulgare, allemande, anglaise, croate, néerlandaise et slovène, qui ne comportent pas les termes identiques « opérations accessoires » à l’article 174, paragraphe 2, et à l’article 288, premier alinéa, point 4, de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Pour autant, eu égard aux considérations exposées aux points 34 et 35 du présent arrêt, il convient de conclure que les notions figurant dans ces dispositions, bien qu’elles soient utilisées dans des contextes différents, ont le même objet.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ainsi, la notion d’« opération accessoire » désigne certaines opérations qui ne relèvent pas de l’activité professionnelle habituelle de l’assujetti.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dans le contexte du régime particulier en cause, la qualification d’une opération en tant qu’« opération accessoire » de l’assujetti ne requiert pas l’identification d’un élément constitutif de l’activité économique de cet assujetti comme étant principal et ne requiert pas non plus son rattachement à une quelconque autre activité économique dudit assujetti. Cette expression doit être considérée comme une notion autonome.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Une telle interprétation de l’article 288, premier alinéa, point 4, de la directive TVA est corroborée par l’objectif poursuivi par le régime particulier des petites entreprises. À cet égard, la Cour a relevé que ce régime prévoit des simplifications administratives qui tendent à renforcer la création, l’activité et la compétitivité des petites entreprises ainsi qu’à maintenir un rapport raisonnable entre les charges administratives liées au contrôle fiscal et les faibles revenus fiscaux à escompter. Ainsi, ledit régime vise à épargner de telles charges administratives tant aux petites entreprises qu’aux administrations fiscales (arrêts du 26 octobre 2010, Schmelz, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A632&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑97/09</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A632" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:632</a>, points <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A632" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">63</a> et <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A632" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">68</a>, et du 2 mai 2019, Jarmuškienė, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A348&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑265/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A348" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:348</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A348" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il en découle que, afin de garantir la réalisation de l’objectif poursuivi par le régime particulier des petites entreprises, il n’y a pas lieu d’imposer de telles charges administratives en raison d’opérations qui ne relèvent pas de l’activité professionnelle habituelle de l’assujetti.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il importe de rappeler que, à l’égard des dispositions figurant à présent à l’article 174, paragraphe 2, de la directive TVA, la Cour a jugé qu’une activité économique ne saurait être qualifiée d’« accessoire » si, notamment, elle constitue le prolongement direct, permanent et nécessaire de l’activité professionnelle taxable habituelle de l’entreprise concernée (voir, en ce sens, arrêt du 29 octobre 2009, NCC Construction Danmark, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A669&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑174/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A669" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:669</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A669" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dans des situations autres que celle figurant au point précédent, la circonstance décisive est celle de savoir si l’opération immobilière a été effectuée ou non dans le cadre de l’activité professionnelle habituelle de l’assujetti, circonstance qui doit être examinée par les autorités fiscales et, le cas échéant, par les juridictions nationales.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ainsi, les autorités fiscales et les juridictions nationales doivent prendre en considération les éléments produits devant elles, notamment la nature du bien immeuble concerné, l’origine du financement de l’acquisition de ce bien et l’usage de celui-ci.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">S’agissant de la situation en cause au principal, il ressort de la décision de renvoi que, ainsi que M<span class="coj-super">me</span> l’avocate générale l’a relevé aux points 51 et 52 de ses conclusions, d’une part, le siège de l’activité de praticien en matière de procédures collectives exercée par le requérant au principal est établi à l’adresse de l’immeuble loué dont celui-ci est copropriétaire. D’autre part, cet immeuble, qui comprend des locaux à usage de bureaux, est loué par le requérant au principal à une personne morale dont il est l’associé-gérant. De surcroît, cette personne morale a son siège dans ledit immeuble et exerce des activités de même nature que celles exercées par le requérant au principal. Il appartient à la juridiction de renvoi d’apprécier si ces circonstances démontrent que la location en cause relève de l’activité professionnelle habituelle de l’assujetti.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il résulte de l’ensemble des considérations qui précèdent qu’il convient de répondre aux questions posées que l’article 288, premier alinéa, point 4, de la directive TVA doit être interprété en ce sens que, pour ce qui est d’un assujetti en tant que personne physique dont l’activité économique consiste en l’exercice de plusieurs professions libérales ainsi qu’en la location d’un bien immeuble, une telle location ne constitue pas une « opération accessoire », au sens de cette disposition, lorsque cette opération est effectuée dans le cadre d’une activité professionnelle habituelle de l’assujetti.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">Par ces motifs, la Cour (cinquième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="coj-normal">
+<span class="coj-bold">L’article 288, premier alinéa, point 4, de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée, telle que modifiée par la directive 2009/162/UE du Conseil, du 22 décembre 2009, doit être interprété en ce sens que, pour ce qui est d’un assujetti en tant que personne physique dont l’activité économique consiste en l’exercice de plusieurs professions libérales ainsi qu’en la location d’un bien immeuble, une telle location ne constitue pas une « opération accessoire », au sens de cette disposition, lorsque cette opération est effectuée dans le cadre d’une activité professionnelle habituelle de l’assujetti.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62018CJ0716_FR_01-E0001" id="t-ECR_62018CJ0716_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : le roumain.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

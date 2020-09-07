@@ -1,0 +1,781 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (First Chamber)</p>
+<p class="sum-title-1">8 May 2019 (<span class="note">
+<a href="#t-ECR_62017CJ0712_EN_01-E0001" id="c-ECR_62017CJ0712_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Value added tax (VAT) — Fictitious transactions — Impossibility of deducting the tax — Obligation on the issuer of an invoice to pay the VAT indicated thereon — Fine in an amount equal to the amount of the improperly deducted VAT — Whether compatible with the principles of VAT neutrality and proportionality)</p>
+<p class="normal">In Case C‑712/17,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Commissione tributaria regionale di Lombardia (Regional Tax Court, Lombardy, Italy), made by decision of 9 October 2017, received at the Court on 20 December 2017, in the proceedings</p>
+<p class="normal">
+<span class="bold">EN.SA. Srl</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Agenzia delle Entrate — Direzione Regionale Lombardia Ufficio Contenzioso,</span>
+</p>
+<p class="normal">THE COURT (First Chamber),</p>
+<p class="normal">composed of J.-C. Bonichot (Rapporteur), President of the Chamber, C. Toader, A. Rosas, L. Bay Larsen and M. Safjan, Judges,</p>
+<p class="normal">Advocate General: J. Kokott,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Italian Government, by G. Palmieri, acting as Agent, and by M. Capolupo and G. De Bellis, avvocati dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by N. Gossement and F. Tomat, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 17 January 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" target="CourtTab">OJ 2006 L 347, p. 1</a>; ‘the VAT Directive’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in the course of proceedings between EN.SA. Srl and the Agenzia delle Entrate — Direzione Regionale della Lombardia (the Italian Tax Authority — Lombardy Regional Department Disputes office) (‘the Tax Authority’) concerning a revised assessment to tax to which that company was made subject, establishing a tax liability for additional value added tax (VAT), together with interest and penalties.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">EU law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 63 of the VAT Directive provides:</p>
+<p class="normal">‘The chargeable event shall occur and VAT shall become chargeable when the goods or the services are supplied.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 167 of that directive provides:</p>
+<p class="normal">‘A right of deduction shall arise at the time the deductible tax becomes chargeable.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">According to Article 168 of that directive:</p>
+<p class="normal">‘In so far as the goods and services are used for the purposes of the taxed transactions of a taxable person, the taxable person shall be entitled, in the Member State in which he carries out these transactions, to deduct the following from the VAT which he is liable to pay:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the VAT due or paid in that Member State in respect of supplies to him of goods and services, carried out or to be carried out by another taxable person;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 203 of the VAT Directive states:</p>
+<p class="normal">‘VAT shall be payable by any person who enters the VAT on an invoice.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">According to Article 273 of the VAT Directive:</p>
+<p class="normal">‘Member States may impose other obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion, subject to the requirement of equal treatment as between domestic transactions and transactions carried out between Member States by taxable persons and provided that such obligations do not, in trade between Member States, give rise to formalities connected with the crossing of frontiers.</p>
+<p class="normal">The option under the first paragraph may not be relied upon in order to impose additional invoicing obligations over and above those laid down in Chapter 3.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Italian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">The Decreto del Presidente della Repubblica n. 633 — Istituzione e disciplina dell’imposta sul valore aggiunto (Decree No 633 of the President of the Republic establishing and regulating value added tax) of 26 October 1972, in the version applicable to the main proceedings (‘DPR No 633/1972’), provides in Article 17(1):</p>
+<p class="normal">‘Tax is payable by persons supplying taxable goods or providing taxable services, who must pay that tax to the tax authorities, cumulatively for all transactions carried out and net of the deduction provided for in Article 19, in accordance with the detailed rules and the terms laid down in Title II.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 19(1) of DPR No 633/1972:</p>
+<p class="normal">‘In order to calculate the tax payable pursuant to Article 17(1) or the surplus referred to in Article 30(2), the amount of tax paid or payable by the taxable person or charged to him in respect of goods and services imported or purchased in the course of a business, artistic activity or profession shall be deductible from the amount of tax on the transactions carried out. The right to deduct the tax on the goods and services purchased or imported shall arise at the time when the tax becomes chargeable and may be exercised, at the latest, in the tax return for the second year following the year in which the right to deduct arose and subject to the conditions applying at the time when the right itself arose.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 21 of DPR No 633/1972 provides:</p>
+<p class="normal">‘If invoices for non-existent transactions are issued, or if in the invoice the revenue arising from the transactions or the related taxes is stated to be higher than it is in reality, tax shall be due for the whole amount indicated or corresponding to the particulars of the invoices.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Article 6(6) of Decreto legislativo n. 471 (Decree Law No 471) of 18 December 1997, in the version applicable at the time of the facts at issue in the main proceedings, provided:</p>
+<p class="normal">‘Anyone unlawfully deducting tax paid, due or charged to him in return for the right to pass it on to another party shall incur an administrative penalty equal to the amount deducted.’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">EN.SA. is an Italian company that produces and distributes electricity. Its tax returns for the 2009 and 2010 tax years were corrected by the Tax Authority. That authority rejected, pursuant to Article 19 of DPR No 633/1972, the deduction of VAT relating to transactions for the purchase of electricity which it considered to be non-existent because there was no actual transmission of energy, and imposed on EN.SA., pursuant to Article 6(6) of the Decree Law referred to in paragraph 11 above, a fine equal to the amount of the improperly deducted VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">By contrast, the Tax Authority did not find that EN.SA. had failed to meet its obligation to pay the VAT due for each of its transactions for the sale of electricity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">According to that authority, those different transactions form part of a circular mechanism for the sale of the same quantities of energy at the same prices between companies forming part of the same group. They were, it found, carried out with the sole intention of allowing the ‘Green Network’ group to demonstrate robust accounts in order to be able to benefit from bank financing.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">The Tax Authority issued EN.SA. with two assessment notices each corresponding to a tax liability for additional VAT, together with interest and penalties, in the respective amounts of EUR 47618491 for 2009 and EUR 22001078 for 2010.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">EN.SA. brought actions against those notices before the Commissione Tributaria Provinciale di Milano (Provincial Tax Court, Milan, Italy). After those actions had been dismissed, the company appealed against the judgment handed down by that court to the Commissione Tributaria Regionale per la Lombardia (Regional Tax Court, Lombardy, Italy).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court stresses the fact that the transactions involving the fictitious sale of electricity at issue in the main proceedings conferred no tax benefit on the companies carrying out those transactions, owing to the circular nature of the transactions, and that no financial loss was incurred by the Treasury. The referring court is unsure whether, in the present case, in regard to fictitious transactions, it is consistent with the principles of EU law to make the trader bear the VAT burden. The referring court takes the view that, if there is no tax fraud, the principle of the neutrality of VAT should prevail and that refusal to deduct VAT duly paid and the imposition of an additional fine equal to the amount of the improperly deducted VAT are not proportionate to the infringement consisting in the issuing of invoices for fictitious transactions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Commissione tributaria regionale di Lombardia (Regional Tax Court, Lombardy) stayed the proceedings and referred the following question to the Court for a preliminary ruling:</p>
+<p class="normal">‘In the event of transactions found to be non-existent, which did not cause harm to the Treasury and did not confer any tax benefit on the taxpayer, are national rules resulting from the application of Article 19 (Deduction) and 21(7) (Invoicing of transactions) of [DPR No 633/1972] and of Article 6(6) of Decreto Legislativo No 471 of 18 December 1997 (Breach of obligations relating to documentation, registration and detection of transactions) consistent with the EU law principles on VAT laid down by the Court of Justice, when their simultaneous application brings about a situation in which:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the tax paid on purchases by the transferee is not deductible for any of the transactions at issue which relate to the same person and the same taxable amount;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the tax is levied on the corresponding parallel sale transactions, which are also regarded as non-existent, and paid by the transferor (and a recovery of sums unduly paid is excluded);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">a penalty is levied that is equal to the amount of tax deemed non-deductible?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Although, formally, the referring court has limited its questions to the interpretation of the ‘EU law principles on VAT laid down by the Court of Justice’, specifically mentioning the principles of proportionality and of neutrality, that fact does not preclude the Court from providing the referring court with all the elements of interpretation of EU law that may be of assistance in adjudicating in the case pending before it, whether or not the referring court has referred to them in the wording of its questions. In that regard, it is for the Court of Justice to extract from all the information provided by the referring court, in particular from the grounds for the order for reference, the points of that law which require interpretation, having regard to the subject matter of the dispute in the main proceedings (see, to that effect, judgments of 4 October 2018, L.E.G.O., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A804&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑242/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A804&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:804</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A804&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point43" hreflang="en" target="CourtTab" type="application/xhtml+xml">43</a>; of 7 February 2019, Escribano Vindel, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A106&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑49/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A106&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:106</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A106&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point32" hreflang="en" target="CourtTab" type="application/xhtml+xml">32</a>, and of 12 February 2019, TC, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A108&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑492/18 PPU</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A108&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:108</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A108&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="en" target="CourtTab" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first two parts of the question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">By the first two parts of its question, the referring court asks, in essence, whether, in a situation such as that at issue in the main proceedings, in which fictitious circular sales of electricity made between the same traders for the same amounts did not cause tax losses, the VAT Directive must be interpreted as precluding national legislation which excludes the right to deduct VAT relating to fictitious transactions while requiring the persons who enter VAT on an invoice to pay that tax, including in respect of a fictitious transaction.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary remark, it must be noted that the two rules of national law cited above reflect analogous provisions of the VAT Directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">First, the non-deductibility of VAT relating to fictitious transactions follows from Article 168 of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from that article that a taxable person may deduct the VAT charged on goods and services which he uses for the purposes of his taxed transactions. In other words, the right to deduct VAT charged on the acquisition of input goods or services presupposes that the expenditure incurred in acquiring them was a component of the cost of the output transactions that gave rise to the right to deduct (see, to that effect, judgment of 6 September 2012, Portugal Telecom, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A557&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑496/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A557&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:557</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A557&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point36" hreflang="en" target="CourtTab" type="application/xhtml+xml">36</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">However, when the purchase of goods or services is fictitious, it cannot be connected in any way to the taxable person’s output transactions. As a result, when there is no actual delivery of goods or performance of services, no right to deduct can arise (judgment of 27 June 2018, SGI and Valériane, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A501&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑459/17 and C‑460/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A501&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:501</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A501&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point36" hreflang="en" target="CourtTab" type="application/xhtml+xml">36</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">It is therefore inherent in the VAT scheme that a fictitious transaction cannot give rise to an entitlement to deduct that tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Second, the obligation on any person who enters VAT on an invoice to pay that tax is expressly set out in Article 203 of the VAT Directive. In that regard, the Court has stated that the VAT indicated on an invoice is payable by the issuer of the invoice even in the absence of an actual taxable transaction (see, to that effect, judgment of 31 January 2013, Stroy trans, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑642/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:54</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="en" target="CourtTab" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In principle, the two rules mentioned above do not apply to the same trader. It is the person who issues an invoice who is liable for the payment of the VAT shown on that invoice, while the non-deductibility of the VAT relating to fictitious transactions is enforceable against the recipient of that invoice.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">However, in the specific situation at issue in the main proceedings, the requirements set out in Articles 168 and 203 of the VAT Directive apply jointly to the same trader. The same quantities of electricity were fictitiously resold at the same price between companies of the same group in a circular manner, in such a way that those companies sold and re-purchased those quantities at the same price. In this way, each trader was both the issuer of an invoice indicating VAT payable and the recipient of another invoice, relating to the purchase of the same amount of electricity at the same price and indicating the same amount of VAT. As the issuer of an invoice and in application of the rule set out in Article 203 of the VAT Directive, EN.SA. was thus liable to pay to the Treasury the amount of VAT indicated on that invoice. By contrast, in view of the fictitious nature of the transactions in question, that company was not permitted, in accordance with the requirement resulting from Article 168 of that directive, to deduct the tax in the same amount as that indicated on the invoice which it received relating to the re-purchase of the electricity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">For those reasons, the referring court asks whether the combined application of those requirements, resulting from national law and taken from the VAT Directive, to a trader in a situation such as that of EN.SA. is contrary to the principle of VAT neutrality.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">It is true that the VAT deduction system, as provided for in Article 167 et seq. of the VAT Directive, seeks to relieve the trader entirely of the burden of the VAT payable or paid in the course of all his economic activities, so long as these are subject to VAT. As a result, the common system of VAT ensures complete neutrality of taxation of all economic activities, provided that they are themselves subject in principle to VAT (see, to that effect, judgments of 29 October 2009, NCC Construction Danmark, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A669&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑174/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A669&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2009:669</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A669&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point27" hreflang="en" target="CourtTab" type="application/xhtml+xml">27</a>, and of 22 December 2010, RBS Deutschland Holdings, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A810&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑277/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A810&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2010:810</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A810&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="en" target="CourtTab" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">However, the prevention of possible tax evasion, avoidance and abuse is also an objective recognised and encouraged by the VAT Directive (judgment of 31 January 2013, Stroy trans, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑642/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:54</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point46" hreflang="en" target="CourtTab" type="application/xhtml+xml">46</a>). The risk of loss of tax revenue is, however, not, in principle, completely eliminated as long as the recipient of an invoice incorrectly showing VAT might still use it for the purposes of obtaining a deduction of that tax (judgment of 31 January 2013, Stroy trans, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑642/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:54</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="en" target="CourtTab" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">From that point of view, the obligation set out in Article 203 of the VAT Directive seeks to eliminate the risk of loss of tax revenue which the right of deduction might entail (judgment of 31 January 2013, Stroy trans, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑642/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:54</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point32" hreflang="en" target="CourtTab" type="application/xhtml+xml">32</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">However, in accordance with the principle of proportionality, that obligation must not go beyond what is necessary to achieve that objective and, in particular, must not have an excessive adverse effect on the principle of VAT neutrality. In a situation such as that at issue in the main proceedings, in which the fictitious nature of the transactions precludes deductibility of the tax, compliance with the principle of VAT neutrality is ensured by the possibility, to be provided for by the Member States, of correcting any tax improperly invoiced in the case where the issuer of the invoice shows that he acted in good faith or where he has, in sufficient time, wholly eliminated the risk of any loss of tax revenue (judgment of 31 January 2013, Stroy trans, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑642/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:54</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A54&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point43" hreflang="en" target="CourtTab" type="application/xhtml+xml">43</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it follows from the explanations provided to the Court by the referring court that EN.SA. knowingly issued invoices that did not relate to any real transaction. In those circumstances, that company cannot claim that it was acting in good faith. However, as the referring court also states, the fictitious sales of electricity between the companies concerned did not give rise to any loss of tax revenue. As the Advocate General has stated in point 47 of her Opinion, this follows from the fact that the companies involved duly paid the VAT charged on their sales of electricity and that, having subsequently re-purchased the same quantities of electricity at the same price, they deducted an amount of VAT identical to the amount that they had paid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, it is apparent from paragraph 33 above that the VAT Directive, read in the light of the principles of neutrality and proportionality, requires the Member States to allow the issuer of an invoice relating to a fictitious transaction to recover the tax indicated on that invoice, which he had to pay, in the case where he has, in sufficient time, wholly eliminated the risk of any loss of tax revenue.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing, the answer to the first two parts of the question referred is that, in a situation, such as that at issue in the main proceedings, in which fictitious circular sales of electricity made between the same traders and for the same amounts did not cause tax losses, the VAT Directive, read in the light of the principles of neutrality and proportionality, must be interpreted as not precluding national legislation which excludes the right to deduct VAT relating to fictitious transactions while requiring the persons who enter VAT on an invoice to pay that tax, including for a fictitious transaction, provided that national law allows the tax liability arising from that obligation to be adjusted when the issuer of that invoice, who was not acting in good faith, has, in sufficient time, wholly eliminated the risk of any loss of tax revenue, this being a matter for the referring court to ascertain.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The third part of the question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">By the third part of its question, the referring court asks whether the principle of proportionality must be interpreted as precluding, in a situation such as that at issue in the main proceedings, a rule of national law under which the unlawful deduction of VAT is penalised by a fine equal to the amount of the deduction made.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 273 of the VAT Directive, the Member States may adopt measures to ensure the correct collection of VAT and to prevent evasion. In particular, in the absence of provisions of EU law on that matter, the Member States have the power to choose the sanctions which seem to them to be appropriate in the event that conditions laid down by EU legislation for the exercise of the right to deduct VAT are not observed (see, to that effect, judgments of 15 September 2016, Senatex, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A691&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑518/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A691&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:691</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A691&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point41" hreflang="en" target="CourtTab" type="application/xhtml+xml">41</a>, and of 26 April 2017, Farkas, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A302&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑564/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A302&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:302</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A302&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point59" hreflang="en" target="CourtTab" type="application/xhtml+xml">59</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">They must, however, exercise that power in compliance with EU law and its principles, inter alia the principles of proportionality and of VAT neutrality (see, to that effect, judgment of 26 April 2017, Farkas, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A302&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑564/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A302&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:302</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A302&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point59" hreflang="en" target="CourtTab" type="application/xhtml+xml">59</a> and the case-law cited). Thus, the penalties must not go beyond what is necessary to attain the objectives referred to in Article 273 of the VAT Directive and must not undermine the neutrality of that tax (see, to that effect, judgment of 9 July 2015, Salomie and Oltean, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A454&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑183/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A454&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:454</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A454&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point62" hreflang="en" target="CourtTab" type="application/xhtml+xml">62</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">In the first place, in order to assess whether a penalty is consistent with the principle of proportionality, account must be taken of, inter alia, the nature and the degree of seriousness of the infringement which that penalty seeks to sanction, and of the means of establishing the amount of that penalty (judgment of 26 April 2017, Farkas, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A302&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑564/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A302&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:302</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A302&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point60" hreflang="en" target="CourtTab" type="application/xhtml+xml">60</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard it should be noted that, in the present case, for the purpose of ensuring the correct collection of VAT and preventing evasion, national law provides for the imposition of a fine, the amount of which, rather than being calculated according to the taxable person’s tax liability, is equal to the amount of tax which he has improperly deducted. Since the tax liability of a person subject to VAT is equal to the difference between the output tax payable on the goods and services supplied and the deductible input tax relating to the goods and services received, the amount of tax improperly deducted does not necessarily correspond to that liability.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">That is particularly the case in the dispute in the main proceedings. As the Advocate General noted in point 63 of her Opinion, since EN.SA. bought and sold, fictitiously, the same quantities of electricity at the same price, its VAT liability for those transactions was zero. In that situation, a fine equal to the full amount of the input tax improperly deducted, imposed without taking account of the fact that the same amount of output VAT had been duly paid and that the Treasury had not, as a result, lost any tax revenue, constitutes a penalty that is disproportionate to the objective which it pursues.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, in a situation such as that at issue in the main proceedings, the principle of VAT neutrality also precludes the imposition of a penalty such as that provided for by national law. In that situation, as has been stated in paragraph 33 above, compliance with the principle of VAT neutrality is ensured by the possibility, to be provided for by the Member States, of correcting any tax improperly invoiced in the case where the issuer of the invoice shows that he acted in good faith or where he has, in sufficient time, wholly eliminated the risk of any loss of tax revenue.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">However, as the Advocate General has stated in point 57 of her Opinion, the imposition of a fine equal to the full amount of the tax improperly deducted leads to the possibility of adjustment in respect of the tax liability under Article 203 of the VAT Directive being redundant. Even if, in the absence of a risk of loss of tax revenue, that liability can be adjusted, an amount equal to the tax improperly deducted remains due by reason of that fine.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the answer to the third part of the question referred is that the principles of proportionality and VAT neutrality must be interpreted as precluding, in a situation such as that at issue in the main proceedings, a rule of national law under which the unlawful deduction of VAT is penalised by a fine equal to the amount of the deduction made.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (First Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">In a situation, such as that at issue in the main proceedings, in which fictitious circular sales of electricity made between the same traders and for the same amounts did not cause tax losses, Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, read in the light of the principles of neutrality and proportionality, must be interpreted as not precluding national legislation which excludes the right to deduct value added tax (VAT) relating to fictitious transactions while requiring the persons who enter VAT on an invoice to pay that tax, including for a fictitious transaction, provided that national law allows the tax liability arising from that obligation to be adjusted when the issuer of that invoice, who was not acting in good faith, has, in sufficient time, wholly eliminated the risk of any loss of tax revenue, this being a matter for the referring court to ascertain.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">The principles of proportionality and neutrality of value added tax (VAT) must be interpreted as precluding, in a situation such as that at issue in the main proceedings, a rule of national law under which the unlawful deduction of VAT is penalised by a fine equal to the amount of the deduction made.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62017CJ0712_EN_01-E0001" id="t-ECR_62017CJ0712_EN_01-E0001">*1</a>
+</span>)	Language of the case: Italian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

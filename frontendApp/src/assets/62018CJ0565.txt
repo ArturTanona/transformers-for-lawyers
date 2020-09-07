@@ -1,0 +1,752 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>ARRÊT DE LA COUR (deuxième chambre)</p>
+<p class="sum-title-1">30 avril 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0565_FR_01-E0001" id="c-ECR_62018CJ0565_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Article 63 TFUE – Libre circulation des capitaux – Taxe sur les transactions financières – Opérations portant sur des instruments financiers dérivés ayant pour titre sous-jacent un titre émis par une société résidente de l’État membre d’imposition – Taxe due indépendamment du lieu de conclusion de la transaction – Obligations administratives et déclaratives »</p>
+<p class="normal">Dans l’affaire C‑565/18,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par la Commissione tributaria regionale per la Lombardia (commission fiscale régionale pour la Lombardie, Italie), par décision du 2 juillet 2018, parvenue à la Cour le 6 septembre 2018, dans la procédure</p>
+<p class="normal">
+<span class="bold">Société Générale SA</span>
+</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">Agenzia delle Entrate – Direzione Regionale Lombardia Ufficio Contenzioso,</span>
+</p>
+<p class="normal">LA COUR (deuxième chambre),</p>
+<p class="normal">composée de M. A. Arabadjiev, président de chambre, MM. P. G. Xuereb et T. von Danwitz (rapporteur), juges,</p>
+<p class="normal">avocat général : M. G. Hogan,</p>
+<p class="normal">greffier : M. A. Calot Escobar,</p>
+<p class="normal">vu la procédure écrite,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour Société Générale SA, par M<span class="super">es</span> D. Conti et C. Romano, avvocati, ainsi que par M. M. Gusmeroli, dottore commercialista,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement italien, par M<span class="super">me</span> G. Palmieri, en qualité d’agent, assistée de M. P. Gentili, avvocato dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M. W. Roels et M<span class="super">me</span> F. Tomat, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">ayant entendu l’avocat général en ses conclusions à l’audience du 28 novembre 2019,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation des articles 18, 56 et 63 TFUE.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant Société Générale SA (ci-après « Société Générale ») à l’Agenzia delle Entrate – Direzione Regionale Lombardia Ufficio Contenzioso (administration fiscale – direction régionale de la Lombardie, service du contentieux, Italie, ci-après l’« administration fiscale »), au sujet d’une demande de remboursement d’une taxe sur les transactions financières ayant pour objet des instruments financiers dérivés acquittée par Société Générale.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le droit italien</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 1<span class="super">er</span> de la legge n. 228 – Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilità 2013) [loi n<span class="super">o</span> 228, relative aux dispositions pour la formation du budget annuel et pluriannuel de l’État (loi de stabilité 2013)], du 24 décembre 2012 (supplément ordinaire à la GURI n<span class="super">o</span> 302, du 29 décembre 2012, n<span class="super">o</span> 212, p. 1, ci-après la « loi n<span class="super">o</span> 228/2012 »), dispose, à ses paragraphes 491, 492 et 494 :</p>
+<p class="normal">« 491.   Le transfert de la propriété d’actions et d’autres instruments financiers participatifs [...], émis par des sociétés résidentes sur le territoire de l’État, ainsi que des titres représentatifs desdits instruments, indépendamment de l’État de résidence de l’entité émettrice, est soumis à une taxe sur les transactions financières au taux de 0,2 pour cent de la valeur de la transaction. Le transfert de la propriété d’actions découlant de la conversion d’obligations est également soumis à la taxe ci-dessus. [...] La taxe est due indépendamment du lieu de conclusion de la transaction et de l’État de résidence des parties contractantes. [...]</p>
+<p class="normal">492.   Les opérations portant sur des instruments financiers dérivés [...], ayant principalement comme instrument sous-jacent un ou plusieurs des instruments financiers prévus au paragraphe 491, ou dont la valeur dépend essentiellement de l’un ou de plusieurs des instruments financiers prévus au même paragraphe, et les opérations sur les valeurs mobilières [...], permettant d’acheter ou de vendre principalement un ou plusieurs instruments financiers visés au paragraphe 491 ou comportant un paiement comptant déterminé principalement par rapport à un ou plusieurs instruments financiers visés au paragraphe précédent, y compris les warrants, les warrants couverts et les certificats, sont soumises, au moment de la conclusion, à une taxe fixe, déterminée en fonction du type d’instrument et de la valeur du contrat, conformément au tableau 3 annexé à la présente loi. La taxe est due indépendamment du lieu de conclusion de la transaction et de l’État de résidence des parties contractantes. Dans le cas où les opérations visées à la première phrase prévoient également, comme mode de règlement, le transfert des actions ou des autres instruments financiers participatifs, le transfert du droit de propriété desdits instruments financiers, qui se produit au moment du règlement, est soumis à l’impôt selon les modalités et dans la mesure prévue au paragraphe 491. [...]</p>
+<p class="normal">[...]</p>
+<p class="normal">494.   La taxe prévue au paragraphe 491 est due par le bénéficiaire du transfert ; celle prévue au paragraphe 492 est due dans la mesure établie par chacune des contreparties des opérations. La taxe prévue aux paragraphes 491 et 492 ne s’applique pas aux entités qui s’interposent dans les mêmes opérations. Dans le cas d’un transfert de propriété d’actions et d’instruments financiers prévu au paragraphe 491, ainsi que pour les opérations sur les instruments financiers prévues au paragraphe 492, la taxe est payée par les banques, les sociétés de fiducie et les entreprises d’investissement habilitées à fournir au public, à titre professionnel, les services et activités d’investissement [...] ainsi que par les autres entités intervenant dans l’exécution des opérations susmentionnées, y compris les intermédiaires non-résidents. Lorsque plusieurs entités parmi celles indiquées à la troisième phrase, interviennent dans l’exécution de l’opération, la taxe est payée par celle d’entre elles qui reçoit l’ordre d’exécution directement de l’acquéreur ou de la contrepartie finale. Dans les autres cas, la taxe est acquittée par le contribuable. Les intermédiaires et autres entités non-résidents intervenant dans l’opération peuvent désigner un représentant fiscal [...] qui répond, dans les mêmes termes et avec les mêmes responsabilités que l’entité non résidente, des obligations liées aux opérations visées aux paragraphes précédents. [...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Le tableau 3, visé à l’article 1<span class="super">er</span>, paragraphe 492, de la loi n<span class="super">o</span> 228/2012, figurant en annexe de celle-ci et intitulé « Tableau : taxe sur les transactions financières par instrument financier (valeur libellée en euros pour chaque contrepartie) », se présente comme suit :</p>
+<table border="0" cellpadding="0" cellspacing="0" class="table" width="100%">
+<col width="33%"/>
+<col width="13%"/>
+<col width="8%"/>
+<col width="6%"/>
+<col width="6%"/>
+<col width="8%"/>
+<col width="9%"/>
+<col width="10%"/>
+<col width="6%"/>
+<tbody>
+<tr class="table">
+<td class="table" valign="top">
+<p class="normal"> </p>
+</td>
+<td class="table" colspan="7" valign="top">
+<p class="tbl-txt">Valeur nationale du contrat</p>
+<p class="tbl-txt">(en milliers d’EUR)</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-txt">Instrument financier</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">0-2,5</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">2,5-5</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">5-10</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">10-50</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">50-100</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">100-500</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">500-1000</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">Plus de 1000</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-txt">Contrats à terme standardisés (futures), certificats, warrants couverts et contrats d’option sur les rendements, mesures ou indices relatifs aux actions</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">0,01875</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">0,0375</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">0,075</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">0,375</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">0,75</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">3,75</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">7,5</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">15</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-txt">Contrats à terme standardisés (futures), warrants, certificats, warrants couverts et contrats d’option sur actions</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">0,125</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">0,25</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">0,5</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">2,5</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">5</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">25</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">50</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">100</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-txt">Contrats d’échange (swaps) sur les actions et rendement, indices ou mesures correspondants</p>
+<p class="tbl-txt">Contrats à terme liés à des actions et rendement, indices ou mesures correspondants</p>
+<p class="tbl-txt">Contrats financiers avec paiement d’un différentiel lié aux actions et aux rendements, indices ou mesures correspondants</p>
+<p class="tbl-txt">Tout autre titre comportant un règlement en espèces déterminé par référence aux actions et aux rendements, indices ou mesures correspondants</p>
+<p class="tbl-txt">Combinaisons des contrats ou des titres précités</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">0,25</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">0,5</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">1</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">5</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">10</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">50</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">100</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">200</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et la question préjudicielle</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Le 28 mars 2014, Société Générale, établie en France, a présenté, par l’intermédiaire de sa succursale italienne, une déclaration à l’administration fiscale au titre de la taxe sur les transactions financières instaurée par la loi n<span class="super">o</span> 228/2012. Sur la base de cette déclaration, relative aux opérations effectuées au cours de l’année d’imposition 2013 par la société mère française, ayant pour objet des instruments financiers dérivés visés à l’article 1<span class="super">er</span>, paragraphe 492, de cette loi, le montant de cette taxe s’élevait à la somme de 55207 euros.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Le 1<span class="super">er</span> août 2014, Société Générale a demandé à l’administration fiscale le remboursement des sommes acquittées au titre de cette taxe, en faisant valoir que la loi n<span class="super">o</span> 228/2012, en ce qu’elle prévoit l’imposition des transactions financières portant sur des instruments financiers dérivés lorsque le titre sous-jacent à de tels instruments a été émis par une entité établie en Italie, est contraire à la Constitution italienne, notamment aux principes d’égalité formelle et de capacité contributive, prévus respectivement aux articles 3 et 53 de celle-ci, ainsi qu’au droit international coutumier, applicable dans l’ordre juridique italien en vertu de l’article 10 de cette constitution, et au droit de l’Union, en particulier aux articles 18, 56 et 63 TFUE.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Le 28 janvier 2015, à défaut de réponse de l’administration fiscale, Société Générale a saisi la Commissione tributaria provinciale di Milano (commission fiscale provinciale de Milan, Italie) d’un recours contre cette décision de refus tacite, fondé sur les mêmes moyens. Par jugement du 18 mai 2016, cette juridiction a rejeté ce recours, en considérant que la loi n<span class="super">o</span> 228/2012 n’était ni inconstitutionnelle ni contraire au droit de l’Union. S’agissant de la constitutionnalité de l’article 1<span class="super">er</span>, paragraphe 492, de cette loi, ladite juridiction a estimé qu’il existait un lien effectif et objectif, à caractère économique, entre le fait générateur de la taxe instituée par cette disposition, à savoir la négociation aboutissant à la conclusion d’un instrument financier dérivé, exprimant une capacité contributive, et l’État italien, ainsi qu’un lien indissoluble entre la valeur d’un tel instrument et celle du titre qui lui est sous-jacent. Par ailleurs, la taxation des seules transactions concernant les titres sous-jacents pourrait entraîner des comportements d’évitement de la taxe et le principe international de territorialité et de souveraineté fiscale ne serait pas méconnu. Quant à une éventuelle incompatibilité de ladite loi avec le droit de l’Union, cette même juridiction a considéré que tel n’était pas le cas, compte tenu de l’absence de régimes d’imposition différenciés entre les assujettis italiens et ceux établis dans d’autres États membres.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Société Générale a interjeté appel de ce jugement devant la juridiction de renvoi, la Commissione tributaria regionale per la Lombardia (commission fiscale régionale pour la Lombardie, Italie), en demandant le remboursement de la taxe acquittée sur la base de la même argumentation que celle qu’elle avait développée devant la juridiction de première instance et, subsidiairement, le renvoi de l’affaire devant la Corte costituzionale (Cour constitutionnelle, Italie), ainsi que, à titre préjudiciel, devant la Cour.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi expose que la taxe sur les transactions financières instituée par la loi n<span class="super">o</span> 228/2012, à son article 1<span class="super">er</span>, paragraphes 491 à 500, a pour objectif d’assurer une contribution aux dépenses publiques, dans le cadre de leurs marchés respectifs, des entités qui effectuent des opérations sur des instruments financiers ayant un lien avec le territoire italien.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Cette juridiction fait état d’une symétrie entre les paragraphes 491 et 492 de l’article 1<span class="super">er</span> de cette loi, visant, pour le premier, les actions et les instruments financiers participatifs émis par des sociétés établies en Italie ainsi que les titres représentatifs de ces instruments et, pour le second, les instruments financiers dérivés ayant pour titres sous-jacents un ou plusieurs des actions et instruments visés au paragraphe 491 de cet article, ou dont la valeur est rattachée à ces actions et instruments, ces deux paragraphes prévoyant que ladite taxe est due, bien que selon des modalités de calcul différentes, indépendamment du lieu de la conclusion de la transaction et de l’État de résidence des parties contractantes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi relève également que tout opérateur financier qui effectue des transactions ayant pour objet de tels instruments financiers dérivés profite de la valeur du titre sous-jacent, dont l’existence dépend de celle de l’ordre juridique italien, au sein duquel est réglementée l’émission de ce titre. Partant, le législateur italien considérerait à raison qu’il existe un lien économique indissociable entre ces instruments et l’ordre juridique de cet État membre. Cette juridiction ajoute qu’elle ne partage pas la thèse de Société Générale selon laquelle il n’existe pas de lien territorial entre la taxe prévue par l’article 1<span class="super">er</span>, paragraphe 492, de la loi n<span class="super">o</span> 228/2012 et ledit ordre juridique.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi se demande toutefois si la loi n<span class="super">o</span> 228/2012 est conforme aux principes du droit de l’Union en ce qu’elle soumet à une taxe ainsi qu’à des obligations administratives et déclaratives des opérations effectuées entre des entités non-résidentes, par l’intermédiation d’entités également non-résidentes, portant sur des instruments financiers dérivés dont les titres sous-jacents ont été émis par une société résidente, étant donné que les opérations portant sur ces titres sous-jacents seraient soumises à une taxe similaire.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">En particulier, la juridiction de renvoi se demande si la taxe prévue à l’article 1<span class="super">er</span>, paragraphes 491 et 492, de la loi n<span class="super">o</span> 228/2012 n’est pas susceptible de créer, ainsi que le soutient Société Générale, des discriminations entre assujettis résidents et non-résidents ainsi que des entraves à la libre prestation des services et à la libre circulation des capitaux.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, la Commissione tributaria regionale per la Lombardia (commission fiscale régionale pour la Lombardie) a décidé de surseoir à statuer et de poser à la Cour la question préjudicielle suivante :</p>
+<p class="normal">« Les articles 18, 56 et 63 TFUE s’opposent-ils à une réglementation nationale qui soumet les transactions financières, indépendamment de l’État de résidence des opérateurs financiers et de l’intermédiaire, à une taxe, pesant sur les parties à la transaction, qui est égale à un montant fixe croissant par tranches de valeur des transactions et variable en fonction du type d’instrument objet de la transaction et en fonction de la valeur du contrat, et qui est due parce que les opérations taxées portent sur la négociation d’un contrat dérivé dont le titre sous-jacent est émis par une société résidente dans l’État membre instituant la taxe elle-même ? »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur la question préjudicielle</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa question, la juridiction de renvoi demande, en substance, si les articles 18, 56 et 63 TFUE doivent être interprétés en ce sens qu’ils s’opposent à une réglementation d’un État membre qui soumet à une taxe ainsi qu’à des obligations administratives et déclaratives les transactions financières portant sur des instruments financiers dérivés, pesant sur les parties à l’opération, indépendamment du lieu où la transaction est conclue ou de l’État de résidence de ces parties et de l’éventuel intermédiaire intervenant dans l’exécution de celle-ci, dès lors que ces instruments ont pour titre sous-jacent un titre émis par une société établie dans cet État membre.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">À titre liminaire, il convient de rappeler que l’article 18 TFUE n’a vocation à s’appliquer de façon autonome que dans des situations régies par le droit de l’Union pour lesquelles le traité ne prévoit pas de règles spécifiques de non-discrimination. Or, le traité prévoit une telle règle spécifique notamment à l’article 56 TFUE dans le domaine de la libre prestation des services (voir, en ce sens, arrêt du 19 juin 2014, Strojírny Prostějov et ACO Industries Tábor, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑53/13 et C‑80/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2011</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2011&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point32" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">32</a> et jurisprudence citée) et à l’article 63 TFUE dans le domaine relevant de la liberté de circulation des capitaux (voir, en ce sens, ordonnance du 6 septembre 2018, Patrício Teixeira, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A694&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑184/18</a>, non publiée, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A694&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:694</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A694&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point15" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">15</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A694&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point16" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">16</a> ainsi que jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Cela étant précisé, s’agissant, tout d’abord, de la liberté applicable aux circonstances du litige au principal, la juridiction de renvoi se réfère aux libertés de prestation des services et de circulation des capitaux.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il y a lieu de constater qu’une réglementation d’un État membre imposant les opérations portant sur des instruments financiers dérivés, telle que l’article 1<span class="super">er</span>, paragraphe 492, de la loi n<span class="super">o</span> 228/2012, relève du champ d’application de la liberté de circulation des capitaux, dès lors que sont taxées des transactions financières qui opèrent des mouvements de capitaux. Or, une telle réglementation est également susceptible d’affecter la libre prestation des services, en ce que celle-ci peut avoir des effets sur les services financiers ayant pour objet des titres émis par des sociétés établies dans ledit État membre, proposés dans un autre État membre.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Selon une jurisprudence constante de la Cour, lorsqu’une mesure nationale se rapporte à la fois à la libre prestation des services et à la libre circulation des capitaux, la Cour examine la mesure en cause, en principe, au regard de l’une seulement de ces deux libertés s’il s’avère que, dans les circonstances de l’affaire au principal, l’une d’elles est tout à fait secondaire par rapport à l’autre et peut lui être rattachée [voir, en ce sens, arrêts du 3 octobre 2006, Fidium Finanz, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A631&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑452/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A631&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:631</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A631&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> ; du 26 mai 2016, NN (L) International, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑48/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:356</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>, et du 8 juin 2017, Van der Weegen e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A429&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑580/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A429&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:429</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A429&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">25</a>].</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Dans les circonstances de l’affaire au principal, il apparaît que la libre prestation de services est secondaire par rapport à la libre circulation des capitaux. En effet, les conditions légales de la taxe en cause, laquelle vise les transactions financières, s’appliquent indépendamment du point de savoir si une telle transaction implique ou non des prestations de services. En outre, la juridiction de renvoi s’interroge sur les éventuels effets restrictifs pouvant résulter de l’instauration même d’une telle taxe, sans fournir de précisions sur les modalités de celle-ci qui seraient susceptibles d’affecter spécifiquement de telles prestations. Enfin, selon les indications figurant dans la demande de décision préjudicielle, Société Générale a acquitté ladite taxe en tant qu’opérateur financier participant aux opérations en cause au principal, sans que soient fournis davantage d’éléments sur ces opérations et sur son intervention. En particulier, cette demande n’indique pas à quel titre et en vue de quelles finalités lesdites opérations ont été négociées.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit qu’il convient d’examiner la question posée au regard de la libre circulation des capitaux.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Ensuite, conformément à la jurisprudence de la Cour, les mesures interdites par l’article 63, paragraphe 1, TFUE, en tant que restrictions aux mouvements de capitaux, comprennent celles qui sont de nature à dissuader les non-résidents de faire des investissements dans un État membre ou à dissuader les résidents dudit État membre d’en faire dans d’autres États (arrêts du 10 février 2011, Haribo Lakritzen Hans Riegel et Österreichische Salinen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A61&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑436/08 et C‑437/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A61&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:61</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A61&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>, et du 18 janvier 2018, Jahin, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A18&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑45/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A18&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:18</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A18&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> ainsi que jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, le droit que les États membres tirent de l’article 65, paragraphe 1, sous a), TFUE d’appliquer les dispositions pertinentes de leur législation fiscale qui établissent une distinction entre les contribuables qui ne se trouvent pas dans la même situation en ce qui concerne leur résidence ou le lieu où leurs capitaux sont investis constitue une dérogation au principe fondamental de la libre circulation des capitaux. Cette dérogation est elle-même limitée par les dispositions de l’article 65, paragraphe 3, TFUE, selon lesquelles les dispositions nationales visées au paragraphe 1 de cet article « ne doivent constituer ni un moyen de discrimination arbitraire ni une restriction déguisée à la libre circulation des capitaux et des paiements telle que définie à l’article 63 [TFUE] » (voir, en ce sens, arrêt du 22 novembre 2018, Sofina e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑575/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:943</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point45" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">45</a> ainsi que jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">La Cour a également jugé qu’il y a lieu, dès lors, de distinguer les différences de traitement permises au titre de l’article 65, paragraphe 1, sous a), TFUE des discriminations interdites par l’article 65, paragraphe 3, TFUE. Or, pour qu’une législation fiscale nationale puisse être considérée comme compatible avec les dispositions du traité relatives à la libre circulation des capitaux, il faut que la différence de traitement qui en résulte concerne des situations qui ne sont pas objectivement comparables ou soit justifiée par une raison impérieuse d’intérêt général (arrêt du 22 novembre 2018, Sofina e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑575/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:943</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point46" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">46</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">En outre, il est de jurisprudence constante qu’une discrimination peut également résulter de l’application de la même règle à des situations différentes (arrêt du 6 décembre 2007, Columbus Container Services, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A754&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑298/05</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A754&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2007:754</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A754&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point41" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Enfin, il convient de rappeler que, aux fins d’établir l’existence d’une discrimination, la comparabilité d’une situation transfrontalière avec une situation interne à l’État membre doit être examinée en tenant compte de l’objectif poursuivi par les dispositions nationales en cause [arrêt du 26 février 2019, X (Sociétés intermédiaires établies dans des pays tiers), <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑135/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:136</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point64" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">64</a> et jurisprudence citée].</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, Société Générale soutient que la taxe prévue à l’article 1<span class="super">er</span>, paragraphe 492, de la loi n<span class="super">o</span> 228/2012 introduit des discriminations entre résidents et non-résidents ainsi que des restrictions à la liberté de circulation des capitaux.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Cette société fait valoir que cette disposition traite de façon identique la situation des redevables de cette taxe résidents et non-résidents, pourtant différente, et rend, pour les seconds, l’investissement dans les instruments financiers dérivés ayant pour titre sous-jacent un titre émis par une société établie en Italie moins avantageux que l’investissement dans ceux dont le titre sous-jacent émane d’un autre État. Il en résulterait une entrave à l’accès au marché de ces instruments financiers dérivés, d’autant que la mise en œuvre de ladite taxe serait accompagnée d’obligations administratives et déclaratives qui s’ajouteraient à celles prévues dans les États de résidence des opérateurs financiers et de l’intermédiaire éventuel.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il convient de relever qu’il ressort des indications figurant dans la demande de décision préjudicielle que la taxe prévue à l’article 1<span class="super">er</span>, paragraphe 492, de la loi n<span class="super">o</span> 228/2012 vise les transactions financières portant sur les instruments financiers dérivés ayant un lien avec l’État italien. Cette taxe est due indépendamment du lieu où la transaction est conclue ou de l’État de résidence des parties à cette transaction et de celui de l’intermédiaire éventuel, de sorte que les entités résidentes et non-résidentes sont soumises à un régime d’imposition identique.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">En particulier, cette taxe s’applique de la même manière aux opérateurs financiers résidents et non-résidents ainsi qu’aux opérations conclues dans l’État d’imposition ou dans un autre État. En effet, ladite taxe varie en fonction non pas du lieu de conclusion des opérations ou de l’État de résidence des parties ou de celui de l’intermédiaire éventuel, mais du montant de ces opérations et du type d’instrument en cause. Il apparaît ainsi que les opérations intervenant dans le cadre national sont, sur le plan fiscal, traitées de la même manière que des opérations similaires présentant un caractère transfrontalier et que l’existence d’une différence de traitement entre les situations respectives des entités résidentes et non-résidentes ne peut être constatée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant de la comparabilité des situations, la juridiction de renvoi indique que la réglementation nationale en cause au principal poursuit l’objectif d’assurer une contribution aux dépenses publiques des entités qui effectuent des transactions financières portant sur les instruments financiers visés. Or, au regard de cet objectif, contrairement à ce que soutient Société Générale, les entités résidentes et non-résidentes participant aux opérations portant sur les instruments financiers dérivés ayant pour titre sous-jacent un titre émis en Italie, assujetties à la taxe par ladite réglementation nationale, se trouvent dans une situation comparable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">En revanche, ainsi que l’a relevé M. l’avocat général au point 52 de ses conclusions, au vu dudit objectif, les instruments financiers dérivés dont les titres sous-jacents sont régis par le droit italien et qui sont soumis à cette taxe ne sont pas comparables à ceux dont les titres sous-jacents ne sont pas régis par ce droit et auxquels ladite taxe ne s’applique pas.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Il ressort de ce qui précède que la taxe prévue à l’article 1<span class="super">er</span>, paragraphe 492, de la loi n<span class="super">o</span> 228/2012 n’apparaît pas renfermer de discrimination interdite par l’article 65, paragraphe 3, TFUE.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Pour autant que Société Générale fait valoir qu’il résulte de la différence de traitement opérée par la réglementation italienne entre les instruments financiers dérivés dont les titres sous-jacents sont régis par le droit italien et ceux dont les titres sous-jacents ne sont pas régis par ce droit que l’investissement dans les premiers est rendu moins avantageux, il importe de rappeler que la Cour a jugé à maintes reprises que, d’une part, en l’absence d’une harmonisation au niveau de l’Union européenne, les désavantages pouvant découler des compétences fiscales des différents États membres, pour autant qu’un tel exercice n’est pas discriminatoire, ne constituent pas des restrictions aux libertés de circulation et, d’autre part, que les États membres n’ont pas l’obligation d’adapter leur propre système fiscal aux différents systèmes de taxation des autres États membres [arrêt du 26 mai 2016, NN (L) International, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑48/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:356</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A356&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point47" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">47</a> et jurisprudence citée].</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Notamment, la libre circulation ne saurait être comprise en ce sens qu’un État membre est obligé d’aménager ses règles fiscales en fonction de celles des autres États membres afin de garantir, dans toutes les situations, une imposition qui efface toute disparité découlant des réglementations fiscales nationales, étant donné que les décisions prises par un contribuable quant à l’investissement dans un autre État membre peuvent, selon les cas, être plus ou moins avantageuses ou désavantageuses pour un tel contribuable (arrêt du 30 janvier 2020, Köln-Aktienfonds Deka, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A51&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑156/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2020%3A51&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:51</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2020%3A51&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point72" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">72</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, comme le font valoir le gouvernement italien et la Commission européenne dans leurs observations écrites, la taxe prévue à l’article 1<span class="super">er</span>, paragraphe 492, de la loi n<span class="super">o</span> 228/2012 ne peut être considérée comme une restriction à la liberté de circulation des capitaux.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Quant à l’existence d’obligations déclaratives et administratives liées au paiement de cette taxe, il y a lieu de constater que, dans la demande de décision préjudicielle, la juridiction de renvoi n’a pas développé cet aspect et, notamment, n’a pas explicité de quelles obligations il s’agissait ni fait état des dispositions applicables en la matière. En tout état de cause, ainsi que l’a relevé M. l’avocat général au point 53 de ses conclusions, il ne ressort de cette demande aucun élément laissant supposer que les obligations incombant aux entités non-résidentes seraient différentes de celles imposées aux entités résidentes, ni que ces obligations dépasseraient ce qui est nécessaire pour le recouvrement de la taxe prévue à l’article 1<span class="super">er</span>, paragraphe 492, de la loi n<span class="super">o</span> 228/2012.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant de cette dernière hypothèse, la Cour a, en effet, jugé que la nécessité de garantir un recouvrement efficace de l’impôt constitue un objectif légitime pouvant justifier une restriction aux libertés fondamentales. Ainsi, un État membre est-il autorisé à appliquer des mesures qui permettent la vérification, de façon claire et précise, du montant de l’impôt dû, sous réserve, toutefois, que ces mesures soient propres à garantir la réalisation de l’objectif poursuivi et qu’elles n’aillent pas au-delà de ce qui est nécessaire pour l’atteindre (voir, en ce sens, arrêts du 15 mai 1997, Futura Participations et Singer, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A239&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑250/95</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A239&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:1997:239</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A239&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>, et du 22 novembre 2018, Sofina e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑575/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:943</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point67" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">67</a>). Il appartient à la juridiction de renvoi d’effectuer, à cet effet, les vérifications nécessaires.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard à l’ensemble des considérations qui précèdent, il convient de répondre à la question posée que l’article 63 TFUE doit être interprété en ce sens qu’il ne s’oppose pas à une réglementation d’un État membre qui soumet à une taxe les transactions financières portant sur des instruments financiers dérivés, pesant sur les parties à l’opération, indépendamment du lieu où la transaction est conclue ou de l’État de résidence de ces parties et de l’éventuel intermédiaire intervenant dans l’exécution de celle-ci, dès lors que ces instruments ont pour titre sous-jacent un titre émis par une société établie dans cet État membre. Les obligations administratives et déclaratives accompagnant cette taxe incombant aux entités non-résidentes ne doivent toutefois pas aller au-delà de ce qui est nécessaire pour le recouvrement de ladite taxe.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (deuxième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">L’article 63 TFUE doit être interprété en ce sens qu’il ne s’oppose pas à une réglementation d’un État membre qui soumet à une taxe les transactions financières portant sur des instruments financiers dérivés, pesant sur les parties à l’opération, indépendamment du lieu où la transaction est conclue ou de l’État de résidence de ces parties et de l’éventuel intermédiaire intervenant dans l’exécution de celle-ci, dès lors que ces instruments ont pour titre sous-jacent un titre émis par une société établie dans cet État membre. Les obligations administratives et déclaratives accompagnant cette taxe incombant aux entités non-résidentes ne doivent toutefois pas aller au-delà de ce qui est nécessaire pour le recouvrement de ladite taxe.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0565_FR_01-E0001" id="t-ECR_62018CJ0565_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : l’italien.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

@@ -1,0 +1,942 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+<p class="sum-title-1">27 February 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0405_EN_01-E0001" id="c-ECR_62018CJ0405_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Article 49 TFEU — Freedom of establishment — Tax legislation — Corporation tax — Transfer of a company’s place of effective management to a Member State other than its registered seat — Transfer of tax residency to that other Member State — National legislation not allowing a tax loss incurred in the Member State of incorporation before the transfer of its seat to be claimed)</p>
+<p class="normal">In Case C‑405/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Nejvyšší správní soud (Supreme Administrative Court, Czech Republic), made by decision of 31 May 2018, received at the Court on 19 June 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">AURES Holdings a.s.</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Odvolací finanční ředitelství,</span>
+</p>
+<p class="normal">THE COURT (Fourth Chamber),</p>
+<p class="normal">composed of M. Vilaras, President of the Chamber, S. Rodin, D. Šváby, K. Jürimäe (Rapporteur) and N. Piçarra, Judges,</p>
+<p class="normal">Advocate General: J. Kokott,</p>
+<p class="normal">Registrar: C. Strömholm, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 12 June 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">AURES Holdings a.s., by M. Olík, advokát,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Czech Government, by M. Smolek, J. Vláčil and O. Serdula, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the German Government, initially by J. Möller, R. Kanitz and T. Henze, and subsequently by J. Möller and R. Kanitz, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Spanish Government, by S. Jiménez García, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the French Government, by E. de Moustier and C. Mosser, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Italian Government, by G. Palmieri, acting as Agent, and P. Gentili, avvocato dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Netherlands Government, by M.K. Bulterman, M.H.S. Gijzen and M.L. Noort, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Swedish Government, by C. Meyer‑Seitz, A. Falk, H. Shev, J. Lundberg and H. Eklinder, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the United Kingdom Government, initially by R. Fadoju and F. Shibli, and subsequently by F. Shibli, acting as Agents, and B. McGurk, D. Yates and L. Ruxandu, Barristers,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by M. Salyková, N. Gossement, H. Støvlbæk and L. Malferrari, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 17 October 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Articles 49, 52 and 54 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between AURES Holdings a.s. and the Odvolací finanční ředitelství (Appellate Tax Directorate, Czech Republic) concerning the latter’s refusal to allow that company to deduct a tax loss which it incurred in a Member State other than the Czech Republic.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 34 of zákon č. 586/1992 Sb., o daních z příjmů (Law No 586/1992 on income tax), in the version applicable to the facts in the main proceedings (‘Law on income tax’), under the heading ‘Deductions from the tax base’, provides, in paragraph 1:</p>
+<p class="normal">‘A tax loss incurred in and assessed for the previous tax year or part thereof may be deducted from the tax base in up to five accounting periods immediately following the period for which the tax loss is assessed. …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Under Paragraph 38n(1) and (2) of that law, under the heading ‘Tax losses’:</p>
+<p class="normal">‘(1)   If expenditure (costs) adjusted in accordance with Paragraph 23 is greater than income adjusted in accordance with the same paragraph, the resulting difference between the two is a tax loss.</p>
+<p class="normal">(2)   A tax loss shall be administered in the same way as a tax obligation. However, a tax loss incurred and assessed in respect of an incorporated taxpayer wound up without purging its debts shall not be transferred to its successor in law unless Paragraph 23a(5)(b) or Paragraph 23c(8)(b) apply. The tax authorities shall assess the tax loss. A reduction in a tax loss shall be governed <span class="italic">mutatis mutandis</span> according to the same procedure as an increase in tax. An increase in a tax loss shall be governed <span class="italic">mutatis mutandis</span> according to the same procedure as a tax rebate. The amount of a tax loss shall be rounded up to the next point.’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The case in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">AURES Holdings, formerly AAA Auto International a.s., is the successor in law of AAA Auto Group NV (together ‘Aures’), a company incorporated under Netherlands law whose registered seat and place of effective management were in the Netherlands, by virtue of which it was a tax resident of the Netherlands.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">In the 2007 tax year, Aures incurred a loss of EUR 2792187 in the Netherlands, which was determined by the Netherlands tax authorities in accordance with the tax legislation of that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">On 1 January 2008, Aures set up a branch in the Czech Republic which, under Czech law, constitutes a permanent establishment of that company without legal personality and whose activity is taxable in that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">On 1 January 2009, Aures transferred its place of effective management from the Netherlands to the Czech Republic and, more specifically, that branch’s address. Following that transfer, Aures also transferred its tax residence from the Netherlands to the Czech Republic with effect from the same date. It now carries on all its activities through that branch.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">However, Aures retained its registered seat and its entry in the commercial register in Amsterdam (Netherlands). Thus, it continues to be governed, as regards its internal relations, by Netherlands law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of that transfer of place of effective management and, consequently, of its tax residency, Aures applied to the Czech tax authorities for deduction of the loss which it had incurred in the Netherlands on the basis of the 2007 tax year from the corporation tax base for which it was liable on the basis of the 2012 tax year.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Following an investigatory review procedure, initiated on 19 March 2014, the Czech tax authorities considered that that loss could not be invoked as a deductible element of the tax base on the basis of Paragraph 38n of the Law on income tax. According to those authorities, Aures is, as a Czech tax resident, taxable on its worldwide income under Czech tax law. However, it can deduct from the tax base only a loss arising from an economic activity in the Czech Republic determined in accordance with the Law on income tax, since that law does not govern the deduction of a tax loss in the event of a change in tax residency and does not provide for the transfer of such a loss from any Member State other than the Czech Republic.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, in a tax notice of 11 September 2014, the Czech tax authorities assessed the corporation tax payable by Aures for the 2012 tax year without deducting from that corporation tax base the loss incurred in the 2007 tax year.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Aures lodged an objection against that tax notice, which was rejected by the Appellate Tax Directorate, and then brought an action before the Městský soud v Praze (City Court, Prague, Czech Republic), which was dismissed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">The Czech tax authorities, the Appellate Tax Directorate and the Městský soud v Praze (City Court, Prague) considered, first, that neither the Law on income tax nor the Convention concluded on 22 November 1974 between the Czechoslovak Socialist Republic and the Kingdom of the Netherlands for the avoidance of double taxation and the prevention of tax evasion with respect to taxes on income and capital, in the version in force on 31 May 2013, provided for the cross-border transfer of a tax loss upon the transfer of a company’s place of effective management, save in specific circumstances which are not relevant in the present case. The general rules in Paragraphs 34 and 38n of that law do not allow for the deduction of a loss that has not been determined in accordance with Czech law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Second, those authorities and that court took the view that, contrary to the arguments put forward by Aures, the impossibility of deducting the loss in question was not contrary to freedom of establishment. In their view, the judgments of 13 December 2005, Marks &amp; Spencer (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A763&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑446/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A763&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:763</a>), of 29 November 2011National Grid Indus (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A785&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑371/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A785&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:785</a>); and of 21 February 2013, A (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A84&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑123/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A84&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:84</a>), relied on by Aures, concerned situations which are objectively different from that at issue in the main proceedings. Citing the judgment of 15 May 2008, Lidl Belgium (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A278&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑414/06</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A278&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:278</a>), the Appellate Tax Directorate took the view that, in the case in the main proceedings, there was a genuine danger that tax loss incurred on the basis of the 2007 tax year would be taken into account twice.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Aures brought an appeal on a point of law before the Nejvyšší správní soud (Supreme Administrative Court, Czech Republic) in respect of the judgment of the Městský soud v Praze (City Court, Prague).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Aures claims in the appeal before that court that by the cross-border transfer of its place of effective management it exercised the freedom of establishment and that the impossibility for it to deduct the 2007 tax loss in the Czech Republic, which it can no longer claim in the Netherlands, amounts to an unjustified restriction on that freedom.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court notes that the Law on income tax does not allow a company which, like Aures, has transferred its place of effective management to the Czech Republic from another Member State to claim a tax loss suffered in that Member State. The transfer of a tax loss is possible only in the context of cross-border transactions specifically covered by that law, which are not relevant to the case in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">In order to dispose of the case in the main proceedings, the referring court therefore considers that it is necessary to address the arguments relating to freedom of establishment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is necessary to determine in the first place whether that freedom is applicable to the case of a cross-border transfer of a company’s place of effective management.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">If so, it is necessary to examine, in the second place, whether national legislation which does not allow a company to claim, in the host Member State, a loss incurred in the Member State of origin before the transfer of its place of effective management to the host Member State, is compatible with that freedom. While noting that the field of direct taxation is not, in principle, subject to harmonisation and that the Member States are sovereign in the matter, the referring court asks whether that freedom means that the transfer of tax residency from one Member State to another Member State must always be neutral from a tax point of view.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">The Nejvyšší správní soud (Supreme Administrative Court) therefore decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Can the concept of freedom of establishment within the meaning of Article 49 [TFEU] be held [prima facie] to cover a simple transfer of the place of a company’s management from one Member State to another Member State?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">If so, is it contrary to Articles 49, 52 and 54 [TFEU] for national law not to allow an entity from another Member State, when relocating its place of business or place of management to the Czech Republic, to claim a tax loss incurred in that other Member State?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">By its first question, the referring court wishes to know, in essence, whether Article 49 TFEU must be interpreted as meaning that a company incorporated under the law of a Member State, which transfers its place of effective management to another Member State without that transfer affecting its status as a company incorporated under the law of the first Member State, may rely on that article for the purposes of contesting a refusal in the second Member State to defer losses prior to that transfer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be made clear that Article 49 TFEU, read in conjunction with Article 54 TFEU, extends the benefit of freedom of establishment to companies or firms formed in accordance with the legislation of a Member State and having their registered seat, their central administration or principal place of business within the European Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">In particular, the Court has previously held that a company incorporated under the law of a Member State which transfers its place of effective management to another Member State, without that transfer affecting its status as a company of the former Member State, may rely on Article 49 TFEU for the purpose, inter alia, of challenging the tax consequences resulting from that transfer in the Member State of origin (see, to that effect, judgment of 29 November 2011, National Grid Indus, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A785&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑371/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A785&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:785</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A785&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Similarly, such a company, in such circumstances, may therefore rely on Article 49 TFEU for the purposes of challenging its tax treatment in the Member State to which it has transferred its place of effective management. A cross-border transfer of that place of management therefore falls within the scope of that article.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Any other interpretation would fall foul of the very wording of the provisions of EU law on freedom of establishment, which are, inter alia, aimed at ensuring that foreign nationals are treated in the host Member State in the same way as nationals of that State (see, to that effect, judgments of 11 March 2004, de Lasteyrie du Saillant, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A138&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑9/02</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A138&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2004:138</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A138&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point42" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">42</a>, and of 12 June 2018, Bevola and Jens W. Trock, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑650/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:424</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point16" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">16</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answer to the first question is that Article 49 TFEU must be interpreted as meaning that a company incorporated under the law of a Member State, which transfers its place of effective management to another Member State without that transfer affecting its status as a company incorporated under the law of the first Member State, may rely on that article for the purposes of contesting a refusal in the second Member State to defer losses prior to that transfer.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">By its second question, the referring court wishes to know, in essence, whether Article 49 TFEU must be interpreted as precluding legislation of a Member State which excludes the possibility for a company, which has transferred its place of effective management and, as a result, its tax residency to that Member State, from claiming a tax loss incurred, prior to that transfer, in another Member State, in which it has retained its registered seat.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Freedom of establishment, which Article 49 TFEU grants to EU nationals, includes, in accordance with Article 54 TFEU, for companies or firms formed in accordance with the law of a Member State and having their registered seat, central administration or principal place of business within the European Union, the right to exercise their activity in other Member States through a subsidiary, branch or agency.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">As has been stated in paragraph 27 above, the provisions of EU law on freedom of establishment are, inter alia, aimed at ensuring that foreign nationals are treated in the host Member State in the same way as nationals of that State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">By contrast, the Treaty offers no guarantee to a company covered by Article 54 TFEU that transferring its place of effective management from one Member State to another Member State will be neutral as regards taxation. Given the relevant disparities in the tax legislation of the Member States, such a transfer may be to the company’s advantage in terms of tax or not, according to circumstances. Freedom of establishment cannot therefore be understood as meaning that a Member State is required to draw up its tax rules on the basis of those in another Member State in order to ensure, in all circumstances, taxation which removes any disparities arising from national tax rules (judgment of 29 November 2011, National Grid Indus, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A785&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑371/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A785&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:785</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A785&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point62" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">62</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it should be noted that the possibility available under the law of a Member State to a resident company to claim a loss incurred in that Member State during a given tax year, so that that loss may be deducted from the taxable profits made by such a company in subsequent tax years, constitutes a tax advantage.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">To exclude a loss incurred by a company resident in one Member State but incorporated in another Member State under the latter’s law during the tax year in which that company was resident in the Member State of incorporation from the benefit of that advantage, whereas that advantage is granted to a company resident in the Member State of residence which incurred a loss in the same tax year, constitutes a difference in tax treatment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">By reason of that difference in treatment, a company incorporated under the law of a Member State might be dissuaded from transferring its place of effective management to another Member State in order to pursue its economic activities there.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Such a difference in treatment resulting from a Member State’s tax legislation to the detriment of companies exercising their freedom of movement can be permissible only if it relates to cases which are not objectively comparable or if it is justified by an overriding reason in the public interest (judgments of 17 July 2014, Nordea Bank Danmark, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2087&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑48/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2087&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2087</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2087&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>, and of 17 December 2015, Timac Agro Deutschland, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A829&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑388/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A829&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:829</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A829&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the first case referred to in the previous paragraph, it should be noted that, according to the case-law of the Court, the comparability of a cross-border situation with an internal situation must be examined having regard to the aim pursued by the national provisions at issue (judgment of 12 June 2018, Bevola and Jens W. Trock, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑650/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:424</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point32" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it is clear from the file before the Court, subject to verification by the referring court, that, by providing that a company may not claim, in the Member State in which it is now resident, a loss incurred in a tax year in which it was a tax resident of another Member State, the Czech legislation is conducive, in essence, to preservation of the allocation of the power to impose taxes between the Member States and to prevent the risk of double deduction of losses.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">As regards a measure pursuing such objectives, it must be held that a company resident in a Member State which has incurred a loss in that Member State and a company which has transferred its place of effective management and, consequently, its tax residency to that Member State having incurred a loss during a tax year during which it was a tax resident of another Member State, without any activity in the former Member State are not, in principle, in a comparable situation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">The situation of a company which effects such a transfer is subject successively to the tax jurisdiction of two Member States, namely, first, the Member State of origin, in respect of the tax year during which the loss is incurred, and, second, the host Member State, in respect of the tax year for which that company applies for that loss to be deducted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that, where the host Member State has no tax jurisdiction over the tax year during which the loss at issue arose, the situation of a company, which has transferred its tax residency to that Member State and subsequently claims a loss there previously incurred in another Member State, is not comparable to that of a company the turnover of which was subject to the tax powers of the previous Member State on the basis of the tax year during which that company incurred that loss (see, by analogy, judgment of 17 December 2015, Timac Agro Deutschland, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A829&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑388/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A829&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:829</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A829&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point65" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">65</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, the fact that a company which has transferred its tax residency from one Member State to another falls successively within the tax jurisdiction of two Member States is liable to give rise to a greater risk of that loss being taken into account twice, since such a company might claim the same loss in respect of the authorities of both Member States.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">In their written observations submitted to the Court, the United Kingdom Government and the European Commission nevertheless observed, in essence, that, according to case-law resulting from the judgment of 12 June 2018, Bevola and Jens W. Trock (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑650/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:424</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>), the comparability of the situations depends on whether or not the loss at issue in the main proceedings is final.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be noted that the Court held that, as regards losses attributable to a non-resident permanent establishment which has ceased activity and whose losses could not, and no longer can, be deducted from its taxable profits in the Member State in which it carried on its activity, the situation of a resident company possessing such an establishment is not different from that of a resident company possessing a resident permanent establishment, from the point of view of the objective of preventing double deduction of the losses, despite the fact that the situations of those two companies are not, in principle, comparable (see, to that effect, judgment of 12 June 2018, Bevola and Jens W. Trock, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑650/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:424</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">However, such an approach cannot be accepted in the case of a company which, after transferring its place of effective management and, as a result, its tax residency from the Member State of its registered seat to another Member State, seeks to deduct in that other Member State a loss incurred in the former Member State in respect of a tax year during which that company fell exclusively within the tax jurisdiction of that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">First, as the Advocate General noted in points 56 and 57 of her Opinion, the case-law referred to in paragraph 44 above arose in circumstances different from those at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, that case-law concerns any taking into account, by a resident company, of a loss incurred by a non-resident permanent establishment of that company.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">That case-law therefore refers to a situation characterised by the fact that, during the same tax year, the company which seeks to deduct a loss of its non-resident permanent establishment from its tax base and that permanent establishment are situated in two different Member States.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">It is clear from the chronology of the relevant facts of the case in the main proceedings set out by the referring court that Aures incurred a loss in the Netherlands in 2007 in a tax year during which both its registered seat and its place of effective management were located in that Member State at a time when it had not yet created a permanent establishment in the Czech Republic.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Second, as the Advocate General noted in points 72 and 73 of her Opinion, extending the scope of the rule in the judgment of 12 June 2018, Bevola and Jens W. Trock (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑650/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:424</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A424&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>) to the case referred to in paragraph 45 above would also be incompatible with the Court’s case-law on exit taxation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the Court held, in essence, that Article 49 TFEU does not preclude the possibility of the Member State of origin of a company incorporated under the law of that Member State having transferred its place of effective management to another Member State, from taxing unrealised capital gains relating to assets of that company (see, to that effect, judgment of 29 November 2011, National Grid Indus, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A785&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑371/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A785&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:785</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A785&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point59" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">59</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A785&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point64" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">64</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Similarly, the Member State to which a company transfers its place of effective management cannot be required to take into account a loss incurred before that transfer which relates to tax years in respect of which that company did not fall within the tax jurisdiction of that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, resident companies which suffered a loss in that Member State, on the one hand, and companies which transferred their tax residence to that Member State and had incurred a loss in another Member State in respect of a tax year during which they were tax residents in the latter Member State, on the other, are not in a comparable situation in the light of the objectives of preserving the allocation of the power to impose taxes between the Member States and preventing the double deduction of losses.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answer to the second question is that Article 49 TFEU must be interpreted as not precluding legislation of a Member State which excludes the possibility for a company, which has transferred its place of effective management and, as a result, its tax residency to that Member State, from claiming a tax loss incurred, prior to that transfer, in another Member State, in which it has retained its registered seat.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the proceedings pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fourth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 49 TFEU must be interpreted as meaning that a company incorporated under the law of a Member State, which transfers its place of effective management to another Member State without that transfer affecting its status as a company incorporated under the law of the first Member State, may rely on that article for the purposes of contesting a refusal in the second Member State to defer losses prior to that transfer.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 49 TFEU must be interpreted as not precluding legislation of a Member State which excludes the possibility for a company, which has transferred its place of effective management and, as a result, its tax residency to that Member State, from claiming a tax loss incurred, prior to that transfer, in another Member State, in which it has retained its registered seat.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0405_EN_01-E0001" id="t-ECR_62018CJ0405_EN_01-E0001">*1</a>
+</span>)	Language of the case: Czech.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

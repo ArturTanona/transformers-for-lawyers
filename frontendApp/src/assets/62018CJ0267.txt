@@ -1,0 +1,773 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+<p class="sum-title-1">3 October 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0267_EN_01-E0001" id="c-ECR_62018CJ0267_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Public Procurement — Public procurement procedure — Directive 2014/24/EU — Article 57(4) — Optional grounds for exclusion — Exclusion of an economic operator from participating in a public procurement procedure — Early termination of a prior contract on account of partial subcontracting — Concept of ‘significant or persistent deficiencies’ — Scope)</p>
+<p class="normal">In Case C‑267/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Curtea de Apel Bucureşti (Court of Appeal, Bucharest, Romania), made by decision of 2 April 2018, received at the Court on 17 April 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Delta Antrepriză de Construcţii şi Montaj 93 SA</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Compania Naţională de Administrare a Infrastructurii Rutiere SA,</span>
+</p>
+<p class="normal">THE COURT (Fourth Chamber),</p>
+<p class="normal">composed of M. Vilaras, President of the Chamber, K. Jürimäe, D. Šváby (Rapporteur), S. Rodin and N. Piçarra, Judges,</p>
+<p class="normal">Advocate General: M. Campos Sánchez-Bordona,</p>
+<p class="normal">Registrar: R. Şereş, administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 27 February 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Delta Antrepriză de Construcţii şi Montaj 93 SA, by I.G. Iacob, R.E. Cîrlig, I. Cojocaru, A.M. Abrudan and I. Macovei, avocaţi,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Romanian Government, by C.-R. Canţăr and by R.I. Haţieganu and L. Liţu, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Austrian Government, by M. Fruhmann, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by A. Biolan, P. Ondrůšek and L. Haasbeek, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 8 May 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 57(4)(g) of Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2014:094:TOC" hreflang="en" target="CourtTab">OJ 2014 L 94, p. 65</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Delta Antrepriză de Construcții și Montaj 93 SA (‘Delta’) and Compania Națională de Administrare a Infrastructurii Rutiere SA (national company for the administration of road infrastructure, ‘CNAIR’), in its capacity as contracting authority, concerning Delta’s exclusion from participation in a public procurement procedure.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">EU law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Directive 2014/24</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Recitals 101 and 102 of Directive 2014/24 state:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(101)</p>
+</td>
+<td valign="top">
+<p class="normal">Contracting authorities should … be given the possibility to exclude economic operators which have proven unreliable, for instance because of violations of environmental or social obligations, including rules on accessibility for disabled persons or other forms of grave professional misconduct, such as violations of competition rules or of intellectual property rights. It should be clarified that grave professional misconduct can render an economic operator’s integrity questionable and thus render the economic operator unsuitable to receive the award of a public contract irrespective of whether the economic operator would otherwise have the technical and economical capacity to perform the contract.</p>
+<p class="normal">Bearing in mind that the contracting authority will be responsible for the consequences of its possible erroneous decision, contracting authorities should also remain free to consider that there has been grave professional misconduct, where, before a final and binding decision on the presence of mandatory exclusion grounds has been rendered, they can demonstrate by any appropriate means that the economic operator has violated its obligations, including obligations relating to the payment of taxes or social security contributions, unless otherwise provided by national law. They should also be able to exclude candidates or tenderers whose performance in earlier public contracts has shown major deficiencies with regard to substantive requirements, for instance failure to deliver or perform, significant shortcomings of the product or service delivered, making it unusable for the intended purpose, or misbehaviour that casts serious doubts as to the reliability of the economic operator. National law should provide for a maximum duration for such exclusions.</p>
+<p class="normal">In applying facultative grounds for exclusion, contracting authorities should pay particular attention to the principle of proportionality. Minor irregularities should only in exceptional circumstances lead to the exclusion of an economic operator. However repeated cases of minor irregularities can give rise to doubts about the reliability of an economic operator which might justify its exclusion.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(102)</p>
+</td>
+<td valign="top">
+<p class="normal">Allowance should, however, be made for the possibility that economic operators can adopt compliance measures aimed at remedying the consequences of any criminal offences or misconduct and at effectively preventing further occurrences of the misbehaviour. Those measures might consist in particular of personnel and organisational measures such as the severance of all links with persons or organisations involved in the misbehaviour, appropriate staff reorganisation measures, the implementation of reporting and control systems, the creation of an internal audit structure to monitor compliance and the adoption of internal liability and compensation rules. Where such measures offer sufficient guarantees, the economic operator in question should no longer be excluded on those grounds alone. Economic operators should have the possibility to request that compliance measures taken with a view to possible admission to the procurement procedure be examined. However, it should be left to Member States to determine the exact procedural and substantive conditions applicable in such cases. They should, in particular, be free to decide whether to allow the individual contracting authorities to carry out the relevant assessments or to entrust other authorities on a central or decentralised level with that task.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 57 of that directive, headed ‘Exclusion grounds’, provides:</p>
+<p class="normal">‘…</p>
+<p class="normal">4.   Contracting authorities may exclude or may be required by Member States to exclude from participation in a procurement procedure any economic operator in any of the following situations:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(g)</p>
+</td>
+<td valign="top">
+<p class="normal">where the economic operator has shown significant or persistent deficiencies in the performance of a substantive requirement under a prior public contract, a prior contract with a contracting entity or a prior concession contract which led to early termination of that prior contract, damages or other comparable sanctions;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(h)</p>
+</td>
+<td valign="top">
+<p class="normal">where the economic operator has been guilty of serious misrepresentation in supplying the information required for the verification of the absence of grounds for exclusion or the fulfilment of the selection criteria, has withheld such information or is not able to submit the supporting documents required pursuant to Article 59; or</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">5.   Contracting authorities shall at any time during the procedure exclude an economic operator where it turns out that the economic operator is, in view of acts committed or omitted either before or during the procedure, in one of the situations referred to in paragraphs 1 and 2.</p>
+<p class="normal">At any time during the procedure, contracting authorities may exclude or may be required by Member States to exclude an economic operator where it turns out that the economic operator is, in view of acts committed or omitted either before or during the procedure, in one of the situations referred to in paragraph 4.</p>
+<p class="normal">6.   Any economic operator that is in one of the situations referred to in paragraphs 1 and 4 may provide evidence to the effect that measures taken by the economic operator are sufficient to demonstrate its reliability despite the existence of a relevant ground for exclusion. If such evidence is considered as sufficient, the economic operator concerned shall not be excluded from the procurement procedure.</p>
+<p class="normal">For this purpose, the economic operator shall prove that it has paid or undertaken to pay compensation in respect of any damage caused by the criminal offence or misconduct, clarified the facts and circumstances in a comprehensive manner by actively collaborating with the investigating authorities and taken concrete technical, organisational and personnel measures that are appropriate to prevent further criminal offences or misconduct.</p>
+<p class="normal">The measures taken by the economic operators shall be evaluated taking into account the gravity and particular circumstances of the criminal offence or misconduct. Where the measures are considered to be insufficient, the economic operator shall receive a statement of the reasons for that decision.</p>
+<p class="normal">An economic operator which has been excluded by final judgment from participating in procurement or concession award procedures shall not be entitled to make use of the possibility provided for under this paragraph during the period of exclusion resulting from that judgment in the Member States where the judgment is effective.</p>
+<p class="normal">7.   By law, regulation or administrative provision and having regard to Union law, Member States shall specify the implementing conditions for this Article. They shall, in particular, determine the maximum period of exclusion if no measures as specified in paragraph 6 are taken by the economic operator to demonstrate its reliability. Where the period of exclusion has not been set by final judgment, that period shall not exceed 5 years from the date of the conviction by final judgment in the cases referred to in paragraph 1 and 3 years from the date of the relevant event in the cases referred to in paragraph 4.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 71 of Directive 2014/24, relating to ‘Subcontracting’, provides:</p>
+<p class="normal">‘…</p>
+<p class="normal">2.   In the procurement documents, the contracting authority may ask or may be required by a Member State to ask the tenderer to indicate in its tender any share of the contract it may intend to subcontract to third parties and any proposed subcontractors.</p>
+<p class="normal">…</p>
+<p class="normal">5   In the case of works contracts and in respect of services to be provided at a facility under the direct oversight of the contracting authority, after the award of the contract and at the latest when the performance of the contract commences, the contracting authority shall require the main contractor to indicate to the contracting authority the name, contact details and legal representatives of its subcontractors, involved in such works or services, in so far as known at this point in time. The contracting authority shall require the main contractor to notify the contracting authority of any changes to this information during the course of the contract as well as of the required information for any new subcontractors which it subsequently involves in such works or services.</p>
+<p class="normal">Notwithstanding the first subparagraph, Member States may impose the obligation to deliver the required information directly on the main contractor.</p>
+<p class="normal">Where necessary for the purposes of point (b) of paragraph 6 of this Article, the required information shall be accompanied by the subcontractors’ self-declarations as provided for in Article 59. The implementing measures pursuant to paragraph 8 of this Article may provide that subcontractors which are presented after the award of the contract shall provide the certificates and other supporting documents instead of the self-declaration.</p>
+<p class="normal">The first subparagraph shall not apply to suppliers.</p>
+<p class="normal">Contracting authorities may extend or may be required by Member States to extend the obligations provided for in the first subparagraph to for instance:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">supply contracts, to services contracts other than those concerning services to be provided at the facilities under the direct oversight of the contracting authority or to suppliers involved in works or services contracts;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">subcontractors of the main contractor’s subcontractors or further down the subcontracting chain.</p>
+</td>
+</tr>
+</table>
+<p class="normal">6.   With the aim of avoiding breaches of the obligations referred to in Article 18(2), appropriate measures may be taken, such as:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">Where the national law of a Member State provides for a mechanism of joint liability between subcontractors and the main contractor, the Member State concerned shall ensure that the relevant rules are applied in compliance with the conditions set out in Article 18(2).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">Contracting authorities may, in accordance with Articles 59, 60 and 61, verify or may be required by Member States to verify whether there are grounds for exclusion of subcontractors pursuant to Article 57. In such cases, the contracting authority shall require that the economic operator replaces a subcontractor in respect of which the verification has shown that there are compulsory grounds for exclusion. The contracting authority may require or may be required by a Member State to require that the economic operator replaces a subcontractor in respect of which the verification has shown that there are non-compulsory grounds for exclusion.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Implementing Regulation (EU) 2016/7</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Commission Implementing Regulation (EU) 2016/7 of 5 January 2016 establishing the standard form for the European Single Procurement Document (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2016:003:TOC" hreflang="en" target="CourtTab">OJ 2016 L 3, p. 16</a>), includes Annex 2, entitled ‘Standard Form for the European Single Procurement Document (ESPD)’. Part III of that annex, entitled ‘Exclusion grounds’, defines the detailed rules for the application of Article 57 of Directive 2014/24.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Romanian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 167(1) of Legea nr. 98/2016 privind achiziţiile publice (Law No 98/2016 on public procurement) of 19 May 2016 (<span class="italic">Monitorul Oficial al României</span>, Part I, No 390 of 23 May 2016), provides:</p>
+<p class="normal">‘1.   The contracting authority shall exclude from the procedure for the award of a public contract or framework agreement any economic operator that is in one of the following situations:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(g)</p>
+</td>
+<td valign="top">
+<p class="normal">where the economic operator has committed serious or repeated breaches of its principal obligations under a public contract, a sectoral procurement contract or a concession contract concluded previously, and those breaches have led to the early termination of that prior contract, the payment of damages or other comparable sanctions;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(h)</p>
+</td>
+<td valign="top">
+<p class="normal">where the economic operator has been guilty of serious misrepresentation in supplying the information required by the contracting authority for the purposes of establishing the non-existence of any grounds for exclusion or compliance with the selection or qualifying criteria, has withheld such information or is unable to submit the supporting documents required; …</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">8.   Under paragraph 1(g), examples of serious breaches of contractual obligations are, for instance, the failure to perform a contract or the delivery/supply/performance of products/works/services that present significant shortcomings making them unusable for the intended purpose provided for in the contract.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 171 of that Law provides:</p>
+<p class="normal">‘1.   Any economic operator that is in one of the situations referred to in Articles 164 and 167 which entail exclusion from the award procedure may provide evidence to the effect that the measures which it has taken are sufficient to demonstrate its reliability despite the existence of the grounds for exclusion.</p>
+<p class="normal">2.   If the contracting authority takes the view that the evidence submitted by the economic operator in accordance with paragraph 1 is sufficient to demonstrate its reliability in practice, it shall not exclude the economic operator from the award procedure.</p>
+<p class="normal">3.   The evidence that an economic operator which is in any of the situations set out in Articles 164 and 167 may provide to the contracting authority, pursuant to paragraph 1, shall be to the effect that: it has paid or undertaken to pay compensation in respect of any damage caused by the criminal offence or misconduct; clarified the facts and circumstances of the criminal offence or misconduct in a comprehensive manner by actively collaborating with the investigating authorities, and taken concrete and suitable technical, organisational and personnel measures, such as severing ties with persons and organisations involved in the unlawful conduct; taken measures for the reorganisation of personnel; implemented monitoring and reporting systems; established an internal auditing structure to verify compliance with laws and regulations; or adopted internal rules on liability and compensation for damage, in order to prevent further criminal offences or other cases of misconduct.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">By a decision of 3 October 2014, the Municipality of Râmincu Vâlcea (Romania) (‘the municipality’) awarded to a consortium of which Delta was lead contractor (‘Consortium No 1’) a works contract for the restoration and modernisation of a leisure facility (‘contract No 1’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">On 7 June 2017, that municipality terminated that contract early on the ground that Consortium No 1 had used a subcontractor without the municipality’s prior authorisation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">On 25 July 2017, the municipality lodged, on the on-line platform known as the ‘Electronic public procurement system’ (‘the EPPS platform’), a report (‘the report’) stating, first, that that contract had been terminated early on account of misconduct by Consortium No 1 and, secondly, that that early termination caused the municipality losses evaluated at 2 345 299.70 Romanian lei (RON) (approximately EUR 521000).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">By a notice of tender of 27 July 2017, CNAIR initiated an open public procurement procedure for the construction project for widening a national road. To that end, it envisaged entering into a framework agreement in the amount of RON 210627629 (approximately EUR 46806140) for an 84-month period.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">In the context of that procedure, the consortium formed by Delta, Aleandri SpA and Luca Way Srl (‘Consortium No 2’) submitted a tender.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">After searching the EPPS platform in respect of each tenderer, the CNAIR evaluation committee became aware of the report and requested clarification in that regard from the municipality and from Delta.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">In reply to the request for clarification, Delta stated, first, that even if that report reflects reality, it does not prove that Delta committed serious breaches of its contractual obligations on several occasions and, secondly, that it has brought two actions before the Romanian courts, which are currently pending and are directed against that report and the decision terminating contract No 1 early, respectively.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">For its part, the municipality stated that the early termination of contract No 1 was justified by the fact that, during its performance, significant parts of the works concerned had been subcontracted without the municipality’s prior authorisation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the replies obtained, the CNAIR evaluation committee concluded that Delta had failed to show that the report had been suspended or annulled. In addition, since Consortium No 2 had declared, in the European Single Procurement Document, that it did not come within the scope of the exclusion grounds for grave professional misconduct and that it was not in a situation in which a prior public procurement contract had been terminated early, or damages or other comparable penalties had been imposed in connection with contract No 1, that committee found that the tender submitted by that consortium came within the provisions of Article 167(1)(g) of Law No 98/2016. Consequently, CNAIR excluded Consortium No 2’s tender by a decision of 18 December 2017 (‘the exclusion decision’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Delta therefore requested CNAIR to remedy the alleged breach of the laws regulating public contracts by revoking the exclusion decision, and by proceeding to a fresh assessment of the documents and of the tender submitted by Consortium No 2.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the order for reference that CNAIR has not filed any response to that request.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">On 8 January 2018, Delta lodged a complaint with the Consiliul Național de Soluționare a Contestațiilor (National Council for the Resolution of Complaints, Romania; ‘the CNSC’), which was rejected by a decision of 2 February 2018. In that decision, the CNSC found that it did not have the power to analyse the lawfulness of the report, or to ascertain any misconduct in the performance of Contract No 1. It stated, however, that since the report had not been annulled by a final judgment, it benefited from a presumption of lawfulness such as to prove the serious breach of the contractual obligations under Contract No 1. The CNSC also noted that the contracting authority had not relied solely on that report in order to exclude Consortium No 2. It had taken steps in order to assess the information apparent from that report and relied on the observations of the parties to the main proceedings. Lastly, Consortium No 2 had relied solely on the alleged unlawfulness of the report, without adducing evidence of its own reliability in respect of the grounds of exclusion, as required by Article 171 of Law No 98/2016.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">In order to seek the annulment of the CNSC’s decision of 2 February 2018, Delta brought proceedings against CNAIR before the Curtea de Apel Bucureşti (Court of Appeal, Bucharest, Romania), on 16 February 2018.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Delta disputes CNAIR’s right to exclude it from the public procurement procedure, relating to the widening of a national road, on the basis of the early termination decision referred to in paragraph 10 above. The early termination of contract No 1 on the ground that part of the works was subcontracted without the contacting authority’s prior authorisation amounts to a minor irregularity, not a breach of a principal obligation of the contract. Consequently, such an irregularity could only in exceptional circumstances lead to an economic operator being excluded, in accordance with recital 101 of Directive 2014/24. In that regard, Delta refers to paragraph 30 of the judgment of 13 December 2012, Forposta and ABC Direct Contact (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A801&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑465/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A801&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:801</a>), from which it is apparent that the concept of ‘grave misconduct’ refers to conduct by the economic operator at issue which denotes a wrongful intent or negligence of a certain gravity on its part.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Since it noted that the Court of Justice has not yet had occasion to interpret Article 57(4)(g) of Directive 2014/24, the Curtea de Apel Bucureşti (Court of Appeal, Bucharest) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="normal">‘Can Article 57(4)(g) of [Directive 2014/24] be interpreted as meaning that the early termination of a public works contract on the ground that part of the works was subcontracted without the contracting authority’s authorisation reflects a significant or persistent deficiency in the performance of a substantive requirement under a prior public contract leading to an economic operator being excluded from participation in a public procurement procedure?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">By its question, the referring court asks, in essence, whether Article 57(4)(g) of Directive 2014/24 must be interpreted as meaning that subcontracting, by an economic operator, of part of the works under a prior public contract, decided upon without the contracting authority’s authorisation and which led to the early termination of that contract, constitutes a significant or persistent deficiency shown in the performance of a substantive requirement under that public contract, within the meaning of that provision, and justifies excluding that economic operator from participation in a subsequent public procurement procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">As is clear from the wording of Article 57(4) of Directive 2014/24, the EU legislature intended to confer on the contracting authority, and to it alone, the task of assessing whether a candidate or tenderer must be excluded from a public procurement procedure during the stage of selecting the tenderers (judgment of 19 June 2019, Meca, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A507&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑41/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A507&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:507</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A507&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point34" hreflang="en" target="CourtTab" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">The option available to any contracting authority to exclude a tenderer from a procurement procedure is particularly intended to enable it to assess the integrity and reliability of each of the tenderers. In particular, the optional ground for exclusion mentioned in Article 57(4)(g) of Directive 2014/24, read in conjunction with recital 101 of that directive, is based on an essential element of the relationship between the successful tenderer and the contracting authority, namely the reliability of the successful tenderer, on which the contracting authority’s trust is founded (see, to that effect, judgment of 19 June 2019, Meca, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A507&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑41/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A507&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:507</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A507&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point29" hreflang="en" target="CourtTab" type="application/xhtml+xml">29</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A507&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="en" target="CourtTab" type="application/xhtml+xml">30</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">The establishment of a relationship of trust between the contracting authority and the successful tenderer assumes, therefore, that that contracting authority is not automatically bound by an assessment conducted, in the context of an earlier public procurement procedure, by another contracting authority, so that in particular it may be in a position to pay particular attention to the principle of proportionality when applying the optional grounds for exclusion (see, to that effect, judgment of 19 June 2019, Meca, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A507&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑41/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A507&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:507</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A507&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="en" target="CourtTab" type="application/xhtml+xml">30</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A507&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point32" hreflang="en" target="CourtTab" type="application/xhtml+xml">32</a>). That principle requires the contracting authority to examine and assess the facts itself. In that regard, as the Advocate General observed in point 32 of his Opinion, it is apparent from the wording of Article 57(4)(g) of Directive 2014/24 that the irregularity committed by the tenderer must have been serious enough to make it justifiable, in the light of the principle of proportionality, to terminate the contract early.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that a contracting authority cannot automatically infer from the decision of another contracting authority to terminate a prior public contract early, on the ground that the successful tenderer subcontracted part of the works without its prior authorisation, that significant or persistent deficiencies, within the meaning of Article 57(4)(g) of Directive 2014/24, have been committed by that successful tenderer in the performance of a substantive requirement under that public contract.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">It is for the contracting authority to carry out its own evaluation of the economic operator’s conduct covered by the early termination of a prior public contract. In that regard, it must examine, diligently and impartially, on the basis of all the relevant factors, in particular the early termination decision, and in the light of the principle of proportionality, whether that operator is, from its point of view, responsible for significant or persistent deficiencies in the performance of a substantive requirement imposed on it under that contract, those deficiencies being such as to break the relationship of trust with the economic operator in question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">In the circumstances of the main proceedings, CNAIR must, in particular, determine whether, in its view, Consortium No 1’s use of a subcontractor without having sought prior authorisation from the municipality constituted a significant deficiency and, if so, whether that deficiency affected the performance of a substantive requirement imposed on the successful tenderer under contract No 1.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">To that effect, CNAIR must evaluate the significance of the part of contract No 1 which was subcontracted and determine, as the Advocate General observed in point 45 of his Opinion, whether the subcontractor’s involvement had an adverse impact on the performance of that contract.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">CNAIR must also examine whether the actual contract included an obligation which had to be performed by the successful tenderer itself or whether it made using a subcontractor conditional upon obtaining prior authorisation from the municipality, such requirements being compatible with Article 71(2) of Directive 2014/24, as the Advocate General observed, in essence, in point 39 of his Opinion. It is apparent from that provision that, ‘in the procurement documents, the contracting authority may ask or may be required by a Member State to ask the tenderer to indicate in its tender any share of the contract it may intend to subcontract to third parties and any proposed subcontractors’. As the Advocate General observed in point 38 of his Opinion, it is only on the basis of that information that the contracting authority will be able to gauge whether the subcontractor is itself reliable. The request for prior authorisation from the contracting authority is intended, in particular, to enable the latter to satisfy itself that there are no grounds on which the subcontractor which the successful tenderer envisages using may be excluded.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">CNAIR must also ask itself whether or not the use of a subcontractor is likely to constitute a substantial amendment of the tender submitted by the successful tenderer (see, by analogy, judgment of 13 April 2010, Wall, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A182&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑91/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A182&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2010:182</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A182&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point39" hreflang="en" target="CourtTab" type="application/xhtml+xml">39</a>), in the sense that it introduces conditions which, if they had been part of the original award procedure, would have allowed for the admission of tenderers other than those originally admitted or would have allowed for the acceptance of an offer other than that originally accepted (judgments of 13 April 2010, Wall, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A182&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑91/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A182&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2010:182</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A182&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="en" target="CourtTab" type="application/xhtml+xml">38</a>, and of 19 June 2008, pressetext Nachrichtenagentur, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A351&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑454/06</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A351&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2008:351</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A351&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point35" hreflang="en" target="CourtTab" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, it is for CNAIR to assess whether or not, in failing to inform it of the early termination of contract No 1, Consortium No 2 adopted conduct caught by Article 57(4)(h) of Directive 2014/24. As the Advocate General observed, in essence, in point 53 of his Opinion, that provision encompasses both active conduct, such as falsification, and an omission, provided that the communication of false information is, in the same way as the concealment of true information, likely to have a bearing on the decision adopted by the contracting authority.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">That interpretation is moreover supported by the second subparagraph of Article 57(5) of Directive 2014/24, which provides that, ‘at any time during the procedure, contracting authorities may exclude or may be required by Member States to exclude an economic operator where it turns out that the economic operator is, in view of acts committed or omitted either before or during the procedure, in one of the situations referred to in paragraph 4’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, since the early termination of contract No 1 has been formally determined, it was for Consortium No 2, in accordance with the requirements of transparency and good faith, to inform the contracting authority of its situation. Accordingly, it ought to have provided at the outset all the information that could prove that the characterisation as subcontracting was mistaken, so that it had not failed to fulfil its obligations in the context of contract No 1, or that the failure to obtain the contracting authority’s authorisation in the context of the prior public contract constituted only a minor irregularity. Such information could in particular have been mentioned in the standard form for the European Single Procurement Document, annexed to Implementing Regulation 2016/7. Part III of that form, which concerns ‘Exclusion grounds’, includes Point C on ‘Grounds relating to insolvency, conflicts of interests or professional misconduct’. In the context of Point C, tenderers must, in particular, answer whether they are guilty of grave professional misconduct and, if so, they are requested to provide details.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, if the contracting authority concludes that the conditions laid down in Article 57(4)(g) or (h) of Directive 2014/24 are fulfilled, it must, in order to meet the requirements of Article 57(6) of that directive, read in conjunction with recital 102 of that same directive, allow the economic operator in question the opportunity to provide evidence to the effect that the corrective measures taken by it are sufficient to prevent the irregularity giving rise to the early termination of the prior public contract being repeated and are, therefore, capable of demonstrating the operator’s reliability despite the existence of a relevant optional ground for exclusion.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the answer to the question referred is that Article 57(4)(g) of Directive 2014/24 must be interpreted as meaning that the subcontracting, by an economic operator, of part of the works under a prior public contract, decided upon without the contracting authority’s authorisation and which led to the early termination of that contract, constitutes a significant or persistent deficiency shown in the performance of a substantive requirement under that public contract, within the meaning of that provision, and is therefore capable of justifying that economic operator being excluded from participation in a subsequent public procurement procedure if, after conducting its own evaluation of the integrity and reliability of the economic operator concerned by the early termination of the prior public contract, the contracting authority which organises that subsequent procurement procedure considers that such subcontracting entails breaking the relationship of trust with the economic operator in question. Before deciding such an exclusion, the contracting authority must however, in accordance with Article 57(6) of that directive, read in conjunction with recital 102 thereof, allow that economic operator the opportunity to set out the corrective measures adopted by it further to the early termination of the prior public contract.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fourth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 57(4)(g) of Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC must be interpreted as meaning that the subcontracting, by an economic operator, of part of the works under a prior public contract, decided upon without the contracting authority’s authorisation and which led to the early termination of that contract, constitutes a significant or persistent deficiency shown in the performance of a substantive requirement under that public contract, within the meaning of that provision, and is therefore capable of justifying that economic operator being excluded from participation in a subsequent public procurement procedure if, after conducting its own evaluation of the integrity and reliability of the economic operator concerned by the early termination of the prior public contract, the contracting authority which organises that subsequent procurement procedure considers that such subcontracting entails breaking the relationship of trust with the economic operator in question. Before deciding such an exclusion, the contracting authority must however, in accordance with Article 57(6) of that directive, read in conjunction with recital 102 thereof, allow that economic operator the opportunity to set out the corrective measures adopted by it further to the early termination of the prior public contract.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0267_EN_01-E0001" id="t-ECR_62018CJ0267_EN_01-E0001">*1</a>
+</span>)	Language of the case: Romanian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

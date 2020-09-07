@@ -1,0 +1,1901 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Grand Chamber)</p>
+<p class="sum-title-1">19 December 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0390_EN_01-E0001" id="c-ECR_62018CJ0390_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Directive 2000/31/EC — Information society services — Directive 2006/123/EC — Services — Connection of hosts, whether businesses or individuals, with accommodation to rent with persons seeking that type of accommodation — Qualification — National legislation imposing certain restrictions on the exercise of the profession of real estate agent — Directive 2000/31/EC — Article 3(4)(b), second indent — Obligation to give notification of measures restricting the freedom to provide information society services — Failure to give notification — Enforceability — Criminal proceedings with an ancillary civil action)</p>
+<p class="normal">In Case C‑390/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the investigating judge of the tribunal de grande instance de Paris (Regional Court, Paris, France), made by decision of 7 June 2018, received at the Court on 13 June 2018, in the criminal proceedings against</p>
+<p class="normal">
+<span class="bold">X,</span>
+</p>
+<p class="normal">interveners:</p>
+<p class="normal">
+<span class="bold">YA,</span>
+</p>
+<p class="normal">
+<span class="bold">Airbnb Ireland UC,</span>
+</p>
+<p class="normal">
+<span class="bold">Hôtelière Turenne SAS,</span>
+</p>
+<p class="normal">
+<span class="bold">Association pour un hébergement et un tourisme professionnels (AHTOP),</span>
+</p>
+<p class="normal">
+<span class="bold">Valhotel,</span>
+</p>
+<p class="normal">THE COURT (Grand Chamber),</p>
+<p class="normal">composed of K. Lenaerts, President, R. Silva de Lapuerta, Vice-President, A. Arabadjiev, E. Regan, P.G. Xuereb and L.S. Rossi, Presidents of Chambers, E. Juhász, M. Ilešič, J. Malenovský, D. Šváby (Rapporteur) and N. Piçarra, Judges,</p>
+<p class="normal">Advocate General: M. Szpunar,</p>
+<p class="normal">Registrar: V. Giacobbo-Peyronnel, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 14 January 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Airbnb Ireland UC, by D. Van Liedekerke, O.W. Brouwer and A.A.J. Pliego Selie, advocaten,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Association pour un hébergement et un tourisme professionnels (AHTOP), by B. Quentin, G. Navarro and M. Robert, avocats,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the French Government, by E. de Moustier and R. Coesme, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Czech Government, by M. Smolek, J. Vláčil and T. Müller, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Spanish Government, by M.J. García-Valdecasas Dorrego, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Luxembourg Government, initially by D. Holderer, and subsequently by T. Uri, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by L. Malferrari, É. Gippini Fournier and S.L. Kalėda, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 30 April 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 3 of Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’) (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2000:178:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2000 L 178, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in criminal proceedings against X, inter alia, for handling monies for activities concerning the mediation and management of buildings and businesses by a person without a professional licence.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">EU law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Directive 98/34</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Point 2 of the first paragraph of Article 1 of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1998:204:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1998 L 204, p. 37</a>), as amended by Directive 98/48/EC of the European Parliament and of the Council of 20 July 1998 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1998:217:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1998 L 217, p. 18</a>) (‘Directive 98/34’), provides the following:</p>
+<p class="normal">‘For the purposes of this Directive, the following meanings shall apply:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">“service”, any Information Society service, that is to say, any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services.</p>
+</td>
+</tr>
+</table>
+<p class="normal">For the purposes of this definition:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">“at a distance” means that the service is provided without the parties being simultaneously present,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">“by electronic means” means that the service is sent initially and received at its destination by means of electronic equipment for the processing (including digital compression) and storage of data, and entirely transmitted, conveyed and received by wire, by radio, by optical means or by other electromagnetic means,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">“at the individual request of a recipient of services” means that the service is provided through the transmission of data on individual request.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Directive (EU) 2015/1535</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2015:241:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2015 L 241, p. 1</a>) repealed and replaced Directive 98/34 as of 7 October 2015.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1(1)(b) of Directive 2015/1535 states:</p>
+<p class="normal">‘For the purposes of this Directive, the following definitions apply:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">“service” means any Information Society service, that is to say, any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services.</p>
+<p class="normal">For the purposes of this definition:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(i)</p>
+</td>
+<td valign="top">
+<p class="normal">“at a distance” means that the service is provided without the parties being simultaneously present;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(ii)</p>
+</td>
+<td valign="top">
+<p class="normal">“by electronic means” means that the service is sent initially and received at its destination by means of electronic equipment for the processing (including digital compression) and storage of data, and entirely transmitted, conveyed and received by wire, by radio, by optical means or by other electromagnetic means;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(iii)</p>
+</td>
+<td valign="top">
+<p class="normal">“at the individual request of a recipient of services” means that the service is provided through the transmission of data on individual request.</p>
+</td>
+</tr>
+</table>
+<p class="normal">An indicative list of services not covered by this definition is set out in Annex I.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 5(1) of that directive provides:</p>
+<p class="normal">‘Subject to Article 7, Member States shall immediately communicate to the Commission any draft technical regulation, except where it merely transposes the full text of an international or European standard, in which case information regarding the relevant standard shall suffice; they shall also let the Commission have a statement of the grounds which make the enactment of such a technical regulation necessary, where those grounds have not already been made clear in the draft.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Under the second paragraph of Article 10 of Directive 2015/1535, references to Directive 98/34 are henceforth to be construed as references to Directive 2015/1535.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Directive 2000/31</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Recital 8 of Directive 2000/31 states:</p>
+<p class="normal">‘The objective of this Directive is to create a legal framework to ensure the freedom of information society services between Member States and not to harmonise the field of criminal law as such.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">In the version before the entry into force of Directive 2015/1535, Article 2(a) of Directive 2000/31 defined ‘information society services’ as services within the meaning of point 2 of the first paragraph of Article 1 of Directive 98/34. Since that directive entered into force, that reference must be understood as being made to Article 1(1)(b) of Directive 2015/1535.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 2(h) of Directive 2000/31 provides:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(h)</p>
+</td>
+<td valign="top">
+<p class="normal">“coordinated field”: requirements laid down in Member States’ legal systems applicable to information society service providers or information society services, regardless of whether they are of a general nature or specifically designed for them.</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(i)</p>
+</td>
+<td valign="top">
+<p class="normal">The coordinated field concerns requirements with which the service provider has to comply in respect of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the taking up of the activity of an information society service, such as requirements concerning qualifications, authorisation or notification,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the pursuit of the activity of an information society service, such as requirements concerning the behaviour of the service provider, requirements regarding the quality or content of the service including those applicable to advertising and contracts, or requirements concerning the liability of the service provider;</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(ii)</p>
+</td>
+<td valign="top">
+<p class="normal">The coordinated field does not cover requirements such as:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">requirements applicable to goods as such,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">requirements applicable to the delivery of goods,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">requirements applicable to services not provided by electronic means.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3(2) and (4) to (6) of that directive states the following:</p>
+<p class="normal">‘2.   Member States may not, for reasons falling within the coordinated field, restrict the freedom to provide information society services from another Member State.</p>
+<p class="normal">…</p>
+<p class="normal">4.   Member States may take measures to derogate from paragraph 2 in respect of a given information society service if the following conditions are fulfilled:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the measures shall be:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(i)</p>
+</td>
+<td valign="top">
+<p class="normal">necessary for one of the following reasons:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">public policy, in particular the prevention, investigation, detection and prosecution of criminal offences, including the protection of minors and the fight against any incitement to hatred on grounds of race, sex, religion or nationality, and violations of human dignity concerning individual persons,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the protection of public health,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">public security, including the safeguarding of national security and defence,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the protection of consumers, including investors;</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(ii)</p>
+</td>
+<td valign="top">
+<p class="normal">taken against a given information society service which prejudices the objectives referred to in point (i) or which presents a serious and grave risk of prejudice to those objectives;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(iii)</p>
+</td>
+<td valign="top">
+<p class="normal">proportionate to those objectives;</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">before taking the measures in question and without prejudice to court proceedings, including preliminary proceedings and acts carried out in the framework of a criminal investigation, the Member State has:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">asked the Member State referred to in paragraph 1 to take measures and the latter did not take such measures, or they were inadequate,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">notified the Commission and the Member State referred to in paragraph 1 of its intention to take such measures.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="normal">5.   Member States may, in the case of urgency, derogate from the conditions stipulated in paragraph 4(b). Where this is the case, the measures shall be notified in the shortest possible time to the Commission and to the Member State referred to in paragraph 1, indicating the reasons for which the Member State considers that there is urgency.</p>
+<p class="normal">6.   Without prejudice to the Member State’s possibility of proceeding with the measures in question, the Commission shall examine the compatibility of the notified measures with Community law in the shortest possible time; where it comes to the conclusion that the measure is incompatible with Community law, the Commission shall ask the Member State in question to refrain from taking any proposed measures or urgently to put an end to the measures in question.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Directive 2006/123/EC</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3(1) of Directive 2006/123/EC of the European Parliament and of the Council of 12 December 2006 on services in the internal market (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:376:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 376, p. 36</a>) provides:</p>
+<p class="normal">‘If the provisions of this Directive conflict with a provision of another Community act governing specific aspects of access to or exercise of a service activity in specific sectors or for specific professions, the provision of the other Community act shall prevail and shall apply to those specific sectors or professions. …’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">French law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1 of Law No 70-9 of 2 January 1970 regulating the conditions for the exercise of activities relating to certain transactions concerning real property and financial goodwill (JORF of 4 January 1970, p. 142), in the version applicable to the facts in the main proceedings (‘the Hoguet Law’), provides:</p>
+<p class="normal">‘The provisions of the present law apply to all natural or legal persons who lend themselves to or give their assistance on a regular basis, even in an ancillary capacity, to any transaction affecting the goods of others and relative to:</p>
+<p class="normal">1. the purchase, sale, search for, exchange, leasing or sub-leasing, seasonal or otherwise, furnished or unfurnished, of existing buildings or those under construction;</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3 of that law provides:</p>
+<p class="normal">‘The activities listed in Article 1 may be practised only by natural persons or legal entities holding a professional licence that has been issued, for a period and in accordance with rules laid down by a decree of the Council of State, by the President of the Regional Chamber of Commerce and Industry or by the President of the Île-de-France Regional Chamber of Commerce and Industry, listing the transactions which those persons may carry out. …</p>
+<p class="normal">That licence may be issued only to natural persons on condition that they:</p>
+<p class="normal">1. provide proof of their professional credentials;</p>
+<p class="normal">2. provide proof of a financial guarantee permitting the reimbursement of funds …;</p>
+<p class="normal">3. take out insurance against the financial consequences of their civil and professional liability;</p>
+<p class="normal">4. are not caught by one of the validation or disqualification conditions …</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Article 5 of that law provides:</p>
+<p class="normal">‘The persons referred to in Article 1 who receive or possess sums of money … must respect the conditions laid down by the decree of the Council of State, in particular the formalities of record keeping and the delivery of receipts, as well as other obligations arising from that mandate.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Article 14 of that law is worded as follows:</p>
+<p class="normal">‘The following acts are punishable by 6 months’ imprisonment and a fine of EUR 7 500:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">lending oneself to or providing assistance on a regular basis, even in an ancillary capacity, to the transactions listed in Article 1 without holding a valid licence issued in accordance with Article 3, or after such a licence has been restored, or if the aforesaid licence has not been restored after a declaration of non-competence from the appropriate administrative body;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Article 16 of the Hoguet Law provides:</p>
+<p class="normal">‘The following acts are punishable by 2 years’ imprisonment and a fine of EUR 30000:</p>
+<p class="normal">1. receiving or possessing at the time of the transactions listed in Article 1, in whatever capacity or manner, sums of money, goods, or stocks and bonds that are:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">in breach of Article 3;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">in breach of the conditions laid down in Article 5 regarding the keeping of records and the delivery of receipts when such documents and receipts are legally required;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Airbnb Ireland UC, a company established in Dublin (Ireland) under Irish law, is part of the Airbnb Group, made up of a number of companies directly or indirectly owned by Airbnb Inc., which is established in the United States. Airbnb Ireland offers an electronic platform the purpose of which is, on payment of a commission, to establish contact, in particular in France, between, on the one hand, hosts, whether professionals or private individuals, with accommodation to rent and, on the other, people looking for such accommodation. Airbnb Payments UK Ltd, a company established in London (United Kingdom) under the law of the United Kingdom, provides online payment services as part of that contact service and manages the payment activities of the Group in the European Union. In addition, Airbnb France SARL, a company established under French law and a supplier to Airbnb Ireland, is responsible for promoting that platform among users in the French market by organising, inter alia, advertising campaigns for target audiences.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Apart from the service of connecting hosts and guests using its electronic platform which centralises offers, Airbnb Ireland offers the hosts a certain number of other services, such as a format for setting out the content of their offer, with an option for a photography service, and also with an option for civil liability insurance and a guarantee against damages for up to EUR 800000. Furthermore, it provides them with an optional tool for estimating the rental price having regard to the market averages taken from that platform. In addition, if a host accepts a guest, the guest will transfer to Airbnb Payments UK the rental price to which is added 6% to 12% of that amount in respect of charges and the service provided by Airbnb Ireland. Airbnb Payments UK holds the money on behalf of the guest and then, 24 hours after the guest checks in, sends the money to the host by transfer, thus giving the guest assurance that the property exists and the host a guarantee of payment. Finally, Airbnb Ireland has put in place a system whereby the host and the guest can leave an evaluation on a scale of zero to five stars, and that evaluation is available on the electronic platform at issue.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">In practice, as is apparent from the explanations provided by Airbnb Ireland, internet users looking for rental accommodation connect to its electronic platform, identify the place where they wish to go to and the period and number of persons of their choice. On that basis, Airbnb Ireland provides them with the list of available accommodation matching those criteria so that the users can select the accommodation of their choice and proceed to reserve it online.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">In that context, users of the electronic platform at issue, both hosts and guests, conclude a contract with Airbnb Ireland for the use of that platform and with Airbnb Payments UK for the payments made via that platform.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">On 24 January 2017, the Association pour un hébergement et un tourisme professionnels (Association for professional tourism and accommodation, AHTOP) lodged a complaint together with an application to be joined as a civil party to the proceedings, inter alia, for the practice of activities concerning the mediation and management of buildings and businesses without a professional licence, under the Hoguet Law, between 11 April 2012 and 24 January 2017.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In support of its complaint, AHTOP claims that Airbnb Ireland does not merely connect two parties through its platform; it also offers additional services which amount to an intermediary activity in property transactions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">On 16 March 2017, after that complaint was lodged, the Public Prosecutor attached to the Tribunal de grande instance de Paris (Regional Court, Paris, France) brought charges, inter alia, for handling monies for activities concerning the mediation and management of buildings and businesses by a person with no professional licence, contrary to the Hoguet Law, for the period between 11 April 2012 and 24 January 2017.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Airbnb Ireland denies acting as a real estate agent and argues that the Hoguet Law is inapplicable on the ground that it is incompatible with Directive 2000/31.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">In that context, the investigating judge of the tribunal de grande instance de Paris (Regional Court, Paris) is uncertain whether the service provided by Airbnb Ireland should be classified as an ‘information society service’ within the meaning of that directive and, if so, whether it precludes the Hoguet Law from being applied to that company in the main proceedings or whether, on the contrary, that directive does not preclude criminal proceedings being brought against Airbnb Ireland on the basis of that law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances the investigating judge of the tribunal de grande instance de Paris (Regional Court, Paris) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Do the services provided in France by … Airbnb Ireland via an electronic platform managed from Ireland benefit from the freedom to provide services established in Article 3 of [Directive 2000/31]?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Are the restrictive rules relating to the exercise of the profession of real estate agent in France laid down by [the Hoguet Law] enforceable against Airbnb Ireland?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Admissibility of the request for a preliminary ruling</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Airbnb Ireland claims that the referring court is wrong to take the view that the activities of Airbnb Ireland come within the scope of the Hoguet Law. The French Government expressed the same view at the hearing.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, according to settled case-law, questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining, and the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of 22 June 2010, Melki and Abdeli, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A363&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑188/10 and C‑189/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A363&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:363</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A363&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, as the French Government acknowledges, in essence, the referring court raises the issue of the enforceability of the provisions of the Hoguet Law against Airbnb Ireland because it implicitly considers that the intermediation service provided by that company falls within the material scope of that law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">However, it is not manifestly apparent that the referring court’s interpretation of the Hoguet Law is clearly precluded in the light of the wording of the provisions of national law contained in the order for reference (see, by analogy, judgment of 22 June 2010, Melki and Abdeli, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A363&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑188/10 and C‑189/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A363&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:363</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A363&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Airbnb Ireland further submits that the order for reference contains a summary of French national legislation and that it should have taken into consideration other provisions of that legislation. For its part, the Commission argues that that decision is vitiated by a lack of factual details.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, the order for reference sets out briefly but precisely the relevant national legal context and the origin and nature of the dispute. It follows that the referring court has defined the factual and legal context of its request for an interpretation of EU law sufficiently and that it has provided the Court with all the information necessary to enable it to reply usefully to that request (judgment of 23 March 2006, Enirisorse, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A197&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑237/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A197&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:197</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A197&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point19" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">19</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, this request for a preliminary ruling cannot be considered to be inadmissible in its entirety.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Preliminary observations</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">In their observations, AHTOP and the Commission respectively argue that the legislation at issue in the main proceedings must be assessed having regard, not only to Directive 2000/31, but also to Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2005:255:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2005 L 255, p. 22</a>) and Directive 2007/64/EC of the European Parliament and of the Council of 13 November 2007 on payment services in the internal market amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2007:319:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2007 L 319, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be pointed out that, in the procedure laid down by Article 267 TFEU providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the national court with an answer which will be of use to it and enable it to rule on the case before it. In that context, the Court may extract from all the information provided by the national court, in particular from the grounds of the order for reference, the legislation and the principles of EU law that require interpretation in view of the subject matter of the dispute in the main proceedings in order to reformulate the questions referred to it and to interpret all provisions of EU law which national courts require in order to decide the actions pending before them, even if those provisions are not expressly indicated in those questions (see, to that effect, judgment of 16 July 2015, Abcur, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A481&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑544/13 and C‑545/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A481&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:481</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A481&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A481&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">However, it is for the national court alone to determine the subject matter of the questions which it wishes to refer to the Court. Thus, where the request itself does not reveal a need to reformulate those questions, the Court cannot, at the request of one of the interested parties referred to in Article 23 of the Statute of the Court of Justice of the European Union, examine questions which have not been submitted to it by the national court. If, in view of developments during the proceedings, the national court were to consider it necessary to obtain further interpretations of EU law, it would be for it to make a fresh reference to the Court (see, to that effect, judgment of 11 June 2015, Berlington Hungary and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A386&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑98/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A386&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:386</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A386&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point48" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, and in the absence of any mention of Directives 2005/36 and 2007/64 in the questions referred or indeed of any other explanations in the order for reference that require the Court to consider the interpretation of those directives in order to provide a useful reply to the referring court, there is no reason for the Court to examine the arguments relating to those directives, which would effectively result in the Court modifying the substance of the questions referred to it.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">By its first question, the referring court asks, in essence, whether Article 2(a) of Directive 2000/31 must be interpreted as meaning that an intermediation service which, by means of an electronic platform, is intended to connect, for remuneration, potential guests with professional or non-professional hosts offering short-term accommodation services, while also providing a certain number of other services, such as a format for setting out the content of their offer, a photography service, civil liability insurance and a guarantee against damages, a tool for estimating the rental price or payment services for those accommodation services, must be classified as an ‘information society service’ under Directive 2000/31.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary point, it should be stated, first — and this is not disputed by any of the parties or by the other interested parties involved in the present proceedings — that the activity of intermediation at issue in the main proceedings comes under the notion of ‘service’ within the meaning of Article 56 TFEU and Directive 2006/123.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Secondly, it must nevertheless be recalled that, under Article 3(1) of Directive 2006/123, that directive does not apply if its provisions conflict with a provision of another EU act governing specific aspects of access to, or the exercise of, a service activity in specific services or for specific professions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, in order to determine whether a service such as the one at issue in the main proceedings comes under Directive 2006/123, as is claimed by AHTOP and the French Government, or by contrast, under Directive 2000/31, as is maintained by Airbnb Ireland, the Czech and Luxembourg Governments and the Commission, it is necessary to determine whether such a service must be qualified as an ‘information society service’, within the meaning of Article 2(a) of Directive 2000/31.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, and bearing in mind the period covered by the facts referred to in the complaint lodged by AHTOP and the criminal proceedings with an ancillary civil action pending before the referring court, the definition of the notion of ‘information society service’ under Article 2(a) of Directive 2000/31, was successively referred to in point 2 of the first paragraph of Article 1 of Directive 98/34 and then, as of 7 October 2015, in Article 1(1)(b) of Directive 2015/1535. That definition was not, however, amended on the entry into force, on 7 October 2015, of Directive 2015/1535, for which reason only that directive will be referred to in this judgment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 1(1)(b) of Directive 2015/1535, the concept of an ‘information society service’ covers ‘any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, the referring court states, as is clear from paragraph 18 above, that the service at issue in the main proceedings, by means of an electronic platform, is intended to connect, for remuneration, potential guests with professional or non-professional hosts offering short-term accommodation services so as to enable the former to reserve accommodation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">It follows, first of all, that that service is provided for remuneration, even though the remuneration received by Airbnb Payments UK is only collected from the guest and not also from the host.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">Next, in so far as the host and the guest are connected by means of an electronic platform without the intermediation service provider, on the one hand, or the host or guest, on the other, being present at the same time, that service constitutes a service which is provided electronically and at a distance. Indeed, at no point during the process of concluding the contracts between, on the one hand, Airbnb Ireland or Airbnb Payments UK and, on the other, the host or the guest, do the parties come into contact other than by means of the Airbnb Ireland electronic platform.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Finally, the service in question is provided at the individual request of the recipients of the service, since it involves both the placing online of an advertisement by the host and an individual request from the guest who is interested in that advertisement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, such a service meets the four cumulative conditions laid down in Article 1(1)(b) of Directive 2015/1535 and therefore, in principle, constitutes an ‘information society service’ within the meaning of Directive 2000/31.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">However, as the parties and the other interested parties involved in the present proceedings submit, the Court has held that, although an intermediation service which satisfies all of those conditions, in principle, constitutes a service distinct from the subsequent service to which it relates and must therefore be classified as an ‘information society service’, that cannot be the case if it appears that that intermediation service forms an integral part of an overall service whose main component is a service coming under another legal classification (see, to that effect, judgment of 20 December 2017, Asociación Profesional Elite Taxi, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A981&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑434/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A981&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:981</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A981&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point40" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, AHTOP essentially claims that the service provided by Airbnb Ireland forms an integral part of an overall service, whose main component is the provision of an accommodation service. To that end, it submits that Airbnb Ireland does not just connect two parties through its electronic platform of the same name, but also offers additional services which are characteristic of an intermediary activity in property transactions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">However, although it is true that the purpose of the intermediation service provided by Airbnb Ireland is to enable the renting of accommodation — and it is common ground that that comes under Directive 2006/123 — the nature of the links between those services does not justify departing from the classification of that intermediation service as an ‘information society service’ and therefore the application of Directive 2000/31 to it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">Such an intermediation service cannot be separated from the property transaction itself, in that it is intended not only to provide an immediate accommodation service, but also, on the basis of a structured list of the places of accommodation available on the electronic platform of the same name and corresponding to the criteria selected by the persons looking for short-term accommodation, to provide a tool to facilitate the conclusion of contracts concerning future interactions. It is the creation of such a list for the benefit both of the hosts who have accommodation to rent and persons looking for that type of accommodation which constitutes the essential feature of the electronic platform managed by Airbnb Ireland.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, because of its importance, the compiling of offers using a harmonised format, coupled with tools for searching for, locating and comparing those offers, constitutes a service which cannot be regarded as merely ancillary to an overall service coming under a different legal classification, namely provision of an accommodation service.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">In addition, a service such as the one provided by Airbnb Ireland is in no way indispensable to the provision of accommodation services, both from the point of view of the guests and the hosts who use it, since both have a number of other, sometimes long-standing, channels at their disposal, such as estate agents, classified advertisements, whether in paper or electronic format, or even property lettings websites. In that regard, the mere fact that Airbnb Ireland is in direct competition with those other channels by providing its users, both hosts and guests, with an innovative service based on the particular features of commercial activity in the information society does not permit the inference that it is indispensable to the provision of an accommodation service.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">Finally, it is not apparent, either from the order for reference or from the information in the file before the Court, that Airbnb Ireland sets or caps the amount of the rents charged by the hosts using that platform. At most, it provides them with an optional tool for estimating their rental price having regard to the market averages taken from that platform, leaving responsibility for setting the rent to the host alone.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">As such, it follows that an intermediation service such as the one provided by Airbnb Ireland cannot be regarded as forming an integral part of an overall service, the main component of which is the provision of accommodation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">None of the other services mentioned in paragraph 19 above, taken together or in isolation, call into question that finding. On the contrary, such services are ancillary in nature, given that, for the hosts, they do not constitute an end in themselves, but rather a means of benefiting from the intermediation service provided by Airbnb Ireland or of offering accommodation services in the best conditions (see, by analogy, judgments of 21 February 2008, Part Service, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A108&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑425/06</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A108&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:108</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A108&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point52" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">52</a>; of 10 November 2016, Baštová, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑432/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:855</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point71" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">71</a>; and of 4 September 2019, KPC Herning, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A660&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑71/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A660&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:660</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A660&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">First of all, that is the case as regards the fact that, in addition to its activity of connecting hosts and guests via the electronic platform of the same name, Airbnb Ireland provides hosts with a format for setting out the content of their offer, an optional photography service for the rental property and a system for rating hosts and guests which is available to future hosts and guests.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">Such tools form part of the collaborative model inherent in intermediation platforms, which makes it possible, first, for those seeking accommodation to make a fully informed choice from among the accommodation offerings proposed by the hosts on the platform and, secondly, for hosts to be fully informed of the reliability of the guests with whom they might engage.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">Next, that is the case with regard to the fact that Airbnb Payments UK, a company within the Airbnb Group, is responsible for collecting the rents from the guests and then transferring those rents to the hosts, in accordance with the conditions set out in paragraph 19 above.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">Such payment conditions, which are common to a large number of electronic platforms, are a tool for securing transactions between hosts and guests, and their presence alone cannot modify the nature of the intermediation service, especially where such payment conditions are not accompanied, directly or indirectly, by price controls for the provision of accommodation, as was pointed out in paragraph 56 above.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">Finally, nor is the fact that Airbnb Ireland offers hosts a guarantee against damage and, as an option, civil liability insurance capable of modifying the legal classification of the intermediation service provided by that platform.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">Even taken together, the services, optional or otherwise, provided by Airbnb Ireland and referred to in paragraphs 59 to 63 above, do not call into question the separate nature of the intermediation service provided by that company and therefore its classification as an ‘information society service’, since they do not substantially modify the specific characteristics of that service. In that regard, it is also paradoxical that such added-value ancillary services provided by an electronic platform to its customers, in particular to distinguish itself from its competitors, may, in the absence of additional elements, result in the nature and therefore the legal classification of that platform’s activity being modified, as was observed by the Advocate General in point 46 of his Opinion.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, and contrary to what AHTOP and the French Government maintain, the rules for the functioning of an intermediation service such as the one provided by Airbnb cannot be equated to those of the intermediation service which gave rise to the judgments of 20 December 2017, Asociación Profesional Elite Taxi (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A981&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑434/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A981&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:981</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A981&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>), and of 10 April 2018, Uber France (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A221&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑320/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A221&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:221</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A221&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point21" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">21</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">Apart from the fact that those judgments were given in the specific context of urban passenger transport to which Article 58(1) TFEU applies and that the services provided by Airbnb Ireland are not comparable to those that were at issue in the cases giving rise to the judgments referred to in the previous paragraph, the ancillary services referred to in paragraphs 59 to 63 above do not provide evidence for the same level of control found by the Court in those judgments.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, the Court stated in those judgments that Uber exercised decisive influence over the conditions under which transport services were provided by the non-professional drivers using the application made available to them by that company (judgments of 20 December 2017, Asociación Profesional Elite Taxi, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A981&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑434/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A981&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:981</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A981&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>, and of 10 April 2018, Uber France, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A221&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑320/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A221&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:221</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A221&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point21" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">21</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="normal">The matters mentioned by the referring court and recalled in paragraph 19 above do not establish that Airbnb Ireland exercises such a decisive influence over the conditions for the provision of the accommodation services to which its intermediation service relates, particularly since Airbnb Ireland does not determine, directly or indirectly, the rental price charged, as was established in paragraphs 56 and 62 above, still less does it select the hosts or the accommodation put up for rent on its platform.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing, the answer to the first question is that Article 2(a) of Directive 2000/31, which refers to Article 1(1)(b) of Directive 2015/1535, must be interpreted as meaning that an intermediation service which, by means of an electronic platform, is intended to connect, for remuneration, potential guests with professional or non-professional hosts offering short-term accommodation services, while also providing a certain number of services ancillary to that intermediation service, must be classified as an ‘information society service’ under Directive 2000/31.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The second question</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Jurisdiction</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="normal">The French Government submits that the Court manifestly lacks jurisdiction to answer the second question, inasmuch as the referring court is asking the Court of Justice to decide whether the activities of Airbnb Ireland fall within the material scope of the Hoguet Law and therefore to interpret French law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="normal">It is, however, clear from the wording of the second question that the referring court is not thereby asking the Court whether the Hoguet Law applies to the activities of Airbnb Ireland, but whether that law, which it finds to be restrictive of the freedom to provide information society services, is enforceable against that company.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="normal">That question which is closely linked to the power given in Article 3(4)(a) of Directive 2000/31 to Member States to derogate from the principle of the freedom to provide information society services and to the obligation for those Member States to give the Commission and the relevant Member State notification of the measures adversely affecting that principle, as provided for in Article 3(4)(b) of that directive, is a question concerning the interpretation of EU law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, the Court has jurisdiction to answer that question.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Admissibility</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="normal">In the alternative, the French Government submits that, since the referring court has failed to establish that the activities of Airbnb Ireland fall within the material scope of the Hoguet Law, its second question does not set out the reasons why it is unsure as to the interpretation of Directive 2000/31 and does not identify the link which that court establishes between that directive and the Hoguet Law. It does not therefore satisfy the requirements laid down in Article 94 of the Rules of Procedure of the Court of Justice and is accordingly inadmissible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, as was set out in paragraph 30 above, it is clear from the second question that, according to the referring court, the intermediation service provided by Airbnb Ireland through the electronic platform of the same name falls within the material scope of that law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="normal">In addition, by referring to the restrictive nature of that law as regards services such as the intermediation service at issue in the main proceedings and the principle of the freedom to provide information society services, recognised in Articles 1 and 3 of Directive 2000/31, while setting out the difficulties of interpreting that directive with regard to the question whether national legislation such as the Hoguet Law may be enforced against Airbnb Ireland, the referring court satisfies the minimum requirements laid down by Article 94 of the Rules of Procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, the second question is admissible.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Substance</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="normal">By its second question, the referring court asks the Court of Justice whether the legislation at issue in the main proceedings is enforceable against Airbnb Ireland.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point79">79</p>
+</td>
+<td valign="top">
+<p class="normal">That question is prompted by the argument advanced by Airbnb Ireland concerning the incompatibility of the provisions of the Hoguet Law at issue in the main proceedings with Directive 2000/31 and, more particularly, by the fact that the French Republic has not satisfied the conditions laid down in Article 3(4) of that directive allowing Member States to adopt measures restricting the freedom to provide information society services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point80">80</p>
+</td>
+<td valign="top">
+<p class="normal">The second question should therefore be construed as asking whether Article 3(4) of Directive 2000/31 must be interpreted as meaning that, in criminal proceedings with an ancillary civil action, an individual may oppose the application to him or her of measures of a Member State restricting the freedom to provide an information society service which that individual provides from another Member State, where those measures do not satisfy all the conditions laid down by that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point81">81</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary point, it should be noted that the legislation at issue in the main proceedings, as the referring court points out, is restrictive of the freedom to provide information society services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point82">82</p>
+</td>
+<td valign="top">
+<p class="normal">First, the requirements of the Hoguet Law mentioned by the referring court, principally the obligation to hold a professional licence, concern access to the activity of connecting hosts who have places of accommodation and persons seeking that type of accommodation within the meaning of Article 2(h)(i) of Directive 2000/31 and do not come under any of the excluded categories referred to in Article 2(h)(ii) of that directive. Secondly, they apply inter alia to service providers established in Member States other than the French Republic, thereby making the provision of their services in France more difficult.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point83">83</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 3(4) of Directive 2000/31, Member States may, in respect of a given information society service falling within the coordinated field, take measures that derogate from the principle of the freedom to provide information society services, subject to two cumulative conditions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point84">84</p>
+</td>
+<td valign="top">
+<p class="normal">First, under Article 3(4)(a) of Directive 2000/31, the restrictive measure concerned must be necessary in the interests of public policy, the protection of public health, public security or the protection of consumers; it must be taken against an information society service which actually undermines those objectives or constitutes a serious and grave risk to those objectives and, finally, it must be proportionate to those objectives.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point85">85</p>
+</td>
+<td valign="top">
+<p class="normal">Secondly, under the second indent of Article 3(4)(b) of that directive, before taking the measures in question and without prejudice to court proceedings, including preliminary proceedings and acts carried out in the framework of a criminal investigation, the Member State concerned must notify the Commission and the Member State on whose territory the service provider in question is established of its intention to adopt the restrictive measures concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point86">86</p>
+</td>
+<td valign="top">
+<p class="normal">With regard to the second condition, the French Government accepts that the Hoguet Law did not give rise to a notification by the French Republic either to the Commission or to the Member State of establishment of Airbnb Ireland, that is to say, Ireland.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point87">87</p>
+</td>
+<td valign="top">
+<p class="normal">It must be stated at the outset that the fact that that law predates the entry into force of Directive 2000/31 cannot have had the consequence of freeing the French Republic of its notification obligation. As the Advocate General stated in point 118 of his Opinion, the EU legislature did not make provision for a derogation authorising Member States to maintain measures predating that directive and which could restrict the freedom to provide information society services without complying with the conditions laid down for that purpose by that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point88">88</p>
+</td>
+<td valign="top">
+<p class="normal">It is therefore necessary to determine whether a Member State’s failure to fulfil its obligation to give prior notification of the measures restricting the freedom to provide information society services coming from another Member State, laid down in the second indent of Article 3(4)(b) of Directive 2000/31, renders the legislation concerned unenforceable against individuals, in the same way as a Member State’s failure to fulfil its obligation to give prior notification of the technical rules, laid down in Article 5(1) of Directive 2015/1535, has that consequence (see, to that effect, judgment of 30 April 1996, CIA Security International, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑194/94</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1996:172</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point54" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">54</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point89">89</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should, first, be pointed out that the second indent of Article 3(4)(b) of Directive 2000/31 imposes a specific obligation for Member States to notify the Commission and the Member State on whose territory the service provider in question is established of their intention to adopt measures restricting the freedom to provide information society services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point90">90</p>
+</td>
+<td valign="top">
+<p class="normal">From the point of view of its content, the obligation laid down in that provision is therefore sufficiently clear, precise and unconditional to confer on it direct effect and, therefore, it may be invoked by individuals before the national courts (see, by analogy, judgment of 30 April 1996, CIA Security International, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑194/94</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1996:172</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point44" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point91">91</p>
+</td>
+<td valign="top">
+<p class="normal">Secondly, it is common ground that, as is apparent from Article 3(2) of Directive 2000/31, read in conjunction with recital 8 of that directive, the objective of that directive is to ensure the freedom to provide information society services between Member States. That objective is pursued by way of a mechanism for monitoring measures capable of undermining it, which makes it possible for both the Commission and the Member State on whose territory the service provider in question is established to ensure that those measures are necessary in furtherance of overriding reasons in the general interest.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point92">92</p>
+</td>
+<td valign="top">
+<p class="normal">In addition, and as is apparent from Article 3(6) of that directive, the Commission, which is responsible for examining without delay the compatibility with EU law of the notified measures, is required, when it reaches the conclusion that the proposed measures are incompatible with EU law, to ask the Member State concerned to refrain from adopting those measures or to put an end to the measures in question as a matter of urgency. Thus, under that procedure, the Commission can avoid the adoption or at least the maintenance of obstacles to trade contrary to the TFEU, in particular by proposing amendments to be made to the national measures concerned (see, by analogy, judgment of 30 April 1996, CIA Security International, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑194/94</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1996:172</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point41" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point93">93</p>
+</td>
+<td valign="top">
+<p class="normal">It is true, as the Spanish Government, in particular, submits and as is apparent from Article 3(6) of Directive 2000/31, that the second indent of Article 3(4)(b) of that directive, unlike Article 5(1) of Directive 2015/1535, does not formally impose any standstill obligation on a Member State which intends to adopt a measure restricting the freedom to provide an information society service. However, as was pointed out in paragraph 89 above, except in duly justified urgent cases, the Member State concerned must give prior notification to the Commission and the Member State on whose territory the service provider in question is established of its intention to adopt such a measure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point94">94</p>
+</td>
+<td valign="top">
+<p class="normal">In view of the matters raised in paragraphs 89 to 92 above, the prior notification obligation established by the second indent of Article 3(4)(b) of Directive 2000/31 is not simply a requirement to provide information, comparable to the one at issue in the case which gave rise to the judgment of 13 July 1989, Enichem Base and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1989%3A318&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">380/87</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1989%3A318&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1989:318</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1989%3A318&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point19" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">19</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1989%3A318&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point24" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>), but rather an essential procedural requirement which justifies the unenforceability of non-notified measures restricting the freedom to provide an information society service against individuals (see, by analogy, judgment of 30 April 1996, CIA Security International, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑194/94</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1996:172</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point49" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">49</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point95">95</p>
+</td>
+<td valign="top">
+<p class="normal">Thirdly, the extension to Directive 2000/31 of the solution adopted by the Court in the judgment of 30 April 1996, CIA Security International (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑194/94</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1996:172</a>), in relation to Directive 2015/1535, is all the more justified, as was correctly pointed out by the Commission at the hearing, by the fact that the notification obligation under the second indent of Article 3(4)(b) of Directive 2000/31, like the measure at issue in the case which gave rise to that judgment, is not intended to prevent a Member State from adopting measures falling within its own field of competence and which could affect the freedom to provide services, but to prevent a Member State from impinging on the competence, as a matter of principle, of the Member State where the provider of the information society service concerned is established.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point96">96</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the foregoing that a Member State’s failure to fulfil its obligation to give notification of a measure restricting the freedom to provide an information society service provided by an operator established on the territory of another Member State, laid down in the second indent of Article 3(4)(b) of Directive 2000/31, renders the measure unenforceable against individuals (see, by analogy, judgment of 30 April 1996, CIA Security International, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑194/94</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1996:172</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A172&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point54" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">54</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point97">97</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must also be pointed out that, as was the case in relation to the technical rules of which the Member State did not give notification in accordance with Article 5(1) of Directive 2015/1535, the fact that a non-notified measure restricting the freedom to provide information society services is unenforceable may be relied on, not only in criminal proceedings (see, by analogy, judgment of 4 February 2016, Ince, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A72&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑336/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A72&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:72</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A72&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point84" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">84</a>), but also in a dispute between individuals (see, by analogy, judgment of 27 October 2016, James Elliott Construction, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A821&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑613/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A821&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:821</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A821&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point64" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">64</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point98">98</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, in proceedings such as those at issue in the main proceedings, in which, in the course of an action before a criminal court, an individual seeks compensation from another individual for harm originating in the offence being prosecuted, a Member State’s failure to fulfil its obligation to give notification of that offence under the second indent of Article 3(4)(b) of Directive 2000/31 makes the national provision laying down that offence unenforceable against the individual being prosecuted and enables that person to rely on that failure to fulfil an obligation, not only in criminal proceedings brought against that individual, but also in the claim for damages brought by the individual who has been joined as a civil party.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point99">99</p>
+</td>
+<td valign="top">
+<p class="normal">Bearing in mind that the French Republic did not give notification of the Hoguet Law and given the cumulative nature of the conditions laid down in Article 3(4) of Directive 2000/31, recalled in paragraphs 84 and 85 above, the view must be taken that that law cannot, on any view, be applied to an individual in a situation like that of Airbnb Ireland in the main proceedings, regardless of whether that law satisfies the other conditions laid down in that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point100">100</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing, the answer to the second question is that the second indent of Article 3(4)(b) of Directive 2000/31 must be interpreted as meaning that, in criminal proceedings with an ancillary civil action, an individual may oppose the application to him or her of measures of a Member State restricting the freedom to provide an information society service which that individual provides from another Member State, where those measures were not notified in accordance with that provision.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point101">101</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Grand Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 2(a) of Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’), which refers to Article 1(1)(b) of Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services, must be interpreted as meaning that an intermediation service which, by means of an electronic platform, is intended to connect, for remuneration, potential guests with professional or non-professional hosts offering short-term accommodation, while also providing a certain number of services ancillary to that intermediation service, must be classified as an ‘information society service’ under Directive 2000/31.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">The second indent of Article 3(4)(b) of Directive 2000/31 must be interpreted as meaning that, in criminal proceedings with an ancillary civil action, an individual may oppose the application to him or her of measures of a Member State restricting the freedom to provide an information society service which that individual provides from another Member State, where those measures were not notified in accordance with that provision.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0390_EN_01-E0001" id="t-ECR_62018CJ0390_EN_01-E0001">*1</a>
+</span>)	Language of the case: French.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

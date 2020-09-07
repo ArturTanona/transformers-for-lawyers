@@ -1,0 +1,1327 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Second Chamber)</p>
+<p class="sum-title-1">7 August 2018 (<span class="note">
+<a href="#t-ECR_62016CJ0561_EN_01-E0001" id="c-ECR_62016CJ0561_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Directive 2012/27/EU — Article 7(1), (4) and (9) — Article 20(4) and (6) — Promotion of energy efficiency — Energy efficiency obligation scheme — Other policy measures — Energy Efficiency National Fund — Establishment of such a fund as the main measure implementing energy efficiency obligations — Contribution obligation — Designation of the obligated parties — Energy distributors and/or retail energy sales companies)</p>
+<p class="normal">In Case C‑561/16,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal Supremo (Supreme Court, Spain), made by decision of 25 October 2016, received at the Court on 7 November 2016, in the proceedings</p>
+<p class="normal">
+<span class="bold">Saras Energía SA</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Administración del Estado,</span>
+</p>
+<p class="normal">interveners:</p>
+<p class="normal">
+<span class="bold">Endesa SA</span>
+</p>
+<p class="normal">
+<span class="bold">Endesa Energía SA,</span>
+</p>
+<p class="normal">
+<span class="bold">Endesa Energía XXI SLU,</span>
+</p>
+<p class="normal">
+<span class="bold">Viesgo Infraestructuras Energéticas SL,</span>
+</p>
+<p class="normal">
+<span class="bold">Hidroeléctrica del Cantábrico SAU</span>
+</p>
+<p class="normal">
+<span class="bold">Nexus Energía SA,</span>
+</p>
+<p class="normal">
+<span class="bold">Nexus Renovables SLU,</span>
+</p>
+<p class="normal">
+<span class="bold">Engie España SL,</span>
+</p>
+<p class="normal">
+<span class="bold">Villar Mir Energía SL,</span>
+</p>
+<p class="normal">
+<span class="bold">Energya VM Gestión de Energía SLU,</span>
+</p>
+<p class="normal">
+<span class="bold">Estaciones de Servicio de Guipúzcoa SA,</span>
+</p>
+<p class="normal">
+<span class="bold">Acciona Green Energy Developments SLU,</span>
+</p>
+<p class="normal">
+<span class="bold">Fortia Energía SL,</span>
+</p>
+<p class="normal">THE COURT (Second Chamber),</p>
+<p class="normal">composed of M. Ilešič, President of the Chamber, A. Rosas, C. Toader, A. Prechal and E. Jarašiūnas (Rapporteur), Judges,</p>
+<p class="normal">Advocate General: J. Kokott,</p>
+<p class="normal">Registrar: I. Illéssy, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 7 March 2018,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Saras Energía SA, by M.C. Flores Hernández and J.M. Almudí Cid, abogados,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Endesa SA, Endesa Energía SA and Endesa Energía XXI SLU, by M. Marañon Hermoso, abogada, and C. Piñeira de Campos, procurador,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Viesgo Infraestructuras Energéticas SL, by E. Abril Fernández and G. Rubio Hernández-Sampelayo, abogados, and M.J. Gutiérrez Aceves, procuradora,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Nexus Energía SA and Nexus Renovables SLU, by J. Briones Méndez, procurador,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Engie España SL, by G. Martínez-Villaseñor Fernández and G. Rubio Hernández-Sampelayo, abogados, and A. Cano Lantero, procuradora,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Villar Mir Energía SL and Energya VM Gestión de Energía SLU, by G. Rubio Hernández-Sampelayo and G. Martínez-Villaseñor Fernández, abogados, and P. Domínguez Maestro, procurador,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Estaciones de Servicio de Guipúzcoa SA, by J. Domingo Montes, abogado, and M. Noya Otero, procuradora,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Acciona Green Energy Developments SLU, by F. Calancha Marzana, abogado, and A.G. López Orcera, procuradora,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Fortia Energía SL, by R. Vázquez del Rey Villanueva, abogado, and G. Robledo Machuca and J.M. Martín Rodríguez, procuradores,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Spanish Government, by V. Ester Casas, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Luxembourg Government, by D. Holderer, acting as Agent, and by P.‑E. Partsch, avocat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by E. Sanfrutos Cano and K. Talabér-Ritz, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 12 April 2018,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 7(1), (4) and (9) and of Article 20(4) and (6) of Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2012:315:TOC" hreflang="en" target="CourtTab">OJ 2012 L 315, p. 1</a>; ‘the Energy Efficiency Directive’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Saras Energía SA and the Administración del Estado (State Administration, Spain) concerning the legality of Orden IET/289/2015 del Ministerio de Industria, Energía y Turismo por la que se establecen las obligaciones de aportación al Fondo Nacional de Eficiencia Energética en el año 2015 (Ministerial Order IET/289/2015 of the Ministry of Industry, Energy and Tourism establishing the contribution requirements to the Energy Efficiency National Fund for 2015) of 20 February 2015 (BOE No 47, 24 February 2015, p. 15768), adopted pursuant to Ley 18/2014 de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia (Law 18/2014 approving urgent measures for growth, competitiveness and efficiency) of 15 October 2014 (BOE No 252, 17 October 2014, p. 83921), as amended by Ley 8/2015 por la que se modifica la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, y por la que se regulan determinadas medidas tributarias y no tributarias relación con la exploración, investigación y explotacion de hidrocarburos (Law 8/2015 amending Law 34/1998 of 7 October [1998], on the hydrocarbons sector, regulating certain tax and non-tax measures related to the exploration, research and exploitation of hydrocarbons), of 21 May 2015 (BOE No 122, 22 May 2015, p. 43367) (‘Law 18/2014’).</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Recital 20 of the Energy Efficiency Directive states:</p>
+<p class="normal">‘An assessment of the possibility of establishing a “white certificate” scheme at Union level has shown that, in the current situation, such a system would create excessive administrative costs and that there is a risk that energy savings would be concentrated in a number of Member States and not introduced across the Union. The objective of such a Union-level scheme could be better achieved, at least at this stage, by means of national energy efficiency obligation schemes for energy utilities or other alternative policy measures that achieve the same amount of energy savings. It is appropriate for the level of ambition of such schemes to be established in a common framework at Union level while providing significant flexibility to Member States to take fully into account the national organisation of market actors, the specific context of the energy sector and final customers’ habits. The common framework should give energy utilities the option of offering energy services to all final customers, not only to those to whom they sell energy. This increases competition in the energy market because energy utilities can differentiate their product by providing complementary energy services. … Member States should determine, on the basis of objective and non-discriminatory criteria, which energy distributors or retail energy sales companies should be obliged to achieve the end-use energy savings target laid down in this Directive.</p>
+<p class="normal">Member States should in particular be allowed not to impose this obligation on small energy distributors, small retail energy sales companies and small energy sectors to avoid disproportionate administrative burdens. … As a means of supporting national energy efficiency initiatives, obligated parties under national energy efficiency obligation schemes could fulfil their obligations by contributing annually to an Energy Efficiency National Fund an amount that is equal to the investments required under the scheme.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Pursuant to Article 1(1) of that directive, it ‘establishes a common framework of measures for the promotion of energy efficiency within the Union in order to ensure the achievement of the Union’s 202020% headline target on energy efficiency and to pave the way for further energy efficiency improvements beyond that date’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 2, points 14 and 18, of that directive:</p>
+<p class="normal">‘For the purposes of this directive, the following definitions shall apply:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(14)</p>
+</td>
+<td valign="top">
+<p class="normal">“obligated party” means an energy distributor or retail energy sales company that is bound by the national energy efficiency obligation schemes referred to in Article 7;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(18)</p>
+</td>
+<td valign="top">
+<p class="normal">“policy measure” means a regulatory, financial, fiscal, voluntary or information provision instrument formally established and implemented in a Member State to create a supportive framework, requirement or incentive for market actors to provide and purchase energy services and to undertake other energy efficiency improvement measures.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 7 of the directive, entitled ‘Energy efficiency obligation schemes’, provides:</p>
+<p class="normal">‘1.   Each Member State shall set up an energy efficiency obligation scheme. That scheme shall ensure that energy distributors and/or retail energy sales companies that are designated as obligated parties under paragraph 4 operating in each Member State’s territory achieve a cumulative end-use energy savings target by 31 December 2020, without prejudice to paragraph 2.</p>
+<p class="normal">That target shall be at least equivalent to achieving new savings each year from 1 January 2014 to 31 December 2020 of 1.5% of the annual energy sales to final customers of all energy distributors or all retail energy sales companies by volume, averaged over the most recent three-year period prior to 1 January 2013. The sales of energy, by volume, used in transport may be partially or fully excluded from this calculation.</p>
+<p class="normal">Member States shall decide how the calculated quantity of new savings referred to in the second subparagraph is to be phased over the period.</p>
+<p class="normal">…</p>
+<p class="normal">4.   Without prejudice to the calculation of energy savings for the target in accordance with the second subparagraph of paragraph 1, each Member State shall, for the purposes of the first subparagraph of paragraph 1, designate, on the basis of objective and non-discriminatory criteria, obligated parties amongst energy distributors and/or retail energy sales companies operating in its territory and may include transport fuel distributors or transport fuel retailers operating in its territory. The amount of energy savings to fulfil the obligation shall be achieved by the obligated parties among final customers, designated, as appropriate, by the Member State, independently of the calculation made pursuant to paragraph 1, or, if Member States so decide, through certified savings stemming from other parties as described in point (b) of paragraph 7.</p>
+<p class="normal">…</p>
+<p class="normal">9.   As an alternative to setting up an energy efficiency obligation scheme under paragraph 1, Member States may opt to take other policy measures to achieve energy savings among final customers, provided those policy measures meet the criteria set out in paragraphs 10 and 11. The annual amount of new energy savings achieved through this approach shall be equivalent to the amount of new energy savings required by paragraphs 1, 2 and 3. Provided that equivalence is maintained, Member States may combine obligation schemes with alternative policy measures, including national energy efficiency programmes.</p>
+<p class="normal">The policy measures referred to in the first subparagraph may include, but are not restricted to, the following policy measures or combinations thereof:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">energy or CO<span class="sub">2</span> taxes that have the effect of reducing end-use energy consumption;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">financing schemes and instruments or fiscal incentives that lead to the application of energy-efficient technology or techniques and have the effect of reducing end-use energy consumption;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">regulations or voluntary agreements that lead to the application of energy-efficient technology or techniques and have the effect of reducing end-use energy consumption;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">standards and norms that aim at improving the energy efficiency of products and services, including buildings and vehicles, except where these are mandatory and applicable in Member States under Union law;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(e)</p>
+</td>
+<td valign="top">
+<p class="normal">energy labelling schemes, with the exception of those that are mandatory and applicable in the Member States under Union law;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(f)</p>
+</td>
+<td valign="top">
+<p class="normal">training and education, including energy advisory programmes, that lead to the application of energy-efficient technology or techniques and have the effect of reducing end-use energy consumption.</p>
+</td>
+</tr>
+</table>
+<p class="normal">Member States shall notify to the Commission, by 5 December 2013, the policy measures that they plan to adopt for the purposes of the first subparagraph and Article 20(6), following the framework provided in point 4 of Annex V, and showing how they would achieve the required amount of savings. In the case of the policy measures referred to in the second subparagraph and in Article 20(6), this notification shall demonstrate how the criteria in paragraph 10 are met. In the case of policy measures other than those referred to in the second subparagraph or in Article 20(6), Member States shall explain how an equivalent level of savings, monitoring and verification is achieved. The Commission may make suggestions for modifications in the three months following notification.</p>
+<p class="normal">10.   Without prejudice to paragraph 11, the criteria for the policy measures taken pursuant to the second subparagraph of paragraph 9 and Article 20(6) shall be as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the policy measures provide for at least two intermediate periods by 31 December 2020 and lead to the achievement of the level of ambition set out in paragraph 1;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the responsibility of each entrusted party, participating party or implementing public authority, whichever is relevant, is defined;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">the energy savings that are to be achieved are determined in a transparent manner;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">the amount of energy savings required or to be achieved by the policy measure are expressed in either final or primary energy consumption, using the conversion factors set out in Annex IV;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(e)</p>
+</td>
+<td valign="top">
+<p class="normal">energy savings are calculated using the methods and principles provided in points (1) and (2) of Annex V;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(f)</p>
+</td>
+<td valign="top">
+<p class="normal">energy savings are calculated using the methods and principles provided in point 3 of Annex V;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(g)</p>
+</td>
+<td valign="top">
+<p class="normal">an annual report of the energy savings achieved is provided by participating parties unless not feasible and made publicly available;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(h)</p>
+</td>
+<td valign="top">
+<p class="normal">monitoring of the results is ensured and appropriate measures are envisaged if the progress is not satisfactory;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(i)</p>
+</td>
+<td valign="top">
+<p class="normal">a control system is put in place that also includes independent verification of a statistically significant proportion of the energy efficiency improvement measures; and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(j)</p>
+</td>
+<td valign="top">
+<p class="normal">data on the annual trend of energy savings are published annually.</p>
+</td>
+</tr>
+</table>
+<p class="normal">11.   Member States shall ensure that the taxes referred to in point (a) of the second subparagraph of paragraph 9 comply with the criteria listed in points (a), (b), (c), (d), (f), (h) and (j) of paragraph 10.</p>
+<p class="normal">Member States shall ensure that the regulations and voluntary agreements referred to in point (c) of the second subparagraph of paragraph 9 comply with the criteria listed in points (a), (b), (c), (d), (e), (g), (h), (i) and (j) of paragraph 10.</p>
+<p class="normal">Member States shall ensure that the other policy measures referred to in the second subparagraph of paragraph 9 and the Energy Efficiency National Funds referred to in Article 20(6) comply with the criteria listed in points (a), (b), (c), (d), (e), (h), (i) and (j) of paragraph 10.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 20 of the Energy Efficiency Directive, entitled ‘Energy Efficiency National Fund, Financing and Technical Support’:</p>
+<p class="normal">‘1.   Without prejudice to Articles 107 and 108 [TFEU], Member States shall facilitate the establishment of financing facilities or use of existing ones for energy efficiency improvement measures to maximise the benefits of multiple streams of financing.</p>
+<p class="normal">…</p>
+<p class="normal">4.   Member States may set up an Energy Efficiency National Fund. The purpose of this fund shall be to support national energy efficiency initiatives.</p>
+<p class="normal">…</p>
+<p class="normal">6.   Member States may provide that obligated parties can fulfil their obligations set out in Article 7(1) by contributing annually to the Energy Efficiency National Fund an amount equal to the investments required to achieve those obligations.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Spanish law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Under the preamble to Law 18/2014, which seeks to transpose the Energy Efficiency Directive:</p>
+<p class="normal">‘The purpose of this Law is to establish an energy efficiency obligation scheme in line with EU policies. …</p>
+<p class="normal">… Article 20 of [Energy Efficiency Directive] allows Member States to create, in support of national energy efficiency initiatives, an Energy Efficiency National Fund to which the undertakings obliged under Article 7 may contribute annually by paying an amount equal to the investments required to achieve their energy savings obligations. …</p>
+<p class="normal">Although Directive [Energy Efficiency Directive] makes it possible for obligated parties to be energy retail companies or energy distributors, it is the energy retail companies which are regarded as obligated parties from which the European Union requires energy savings, given that, in Spain, energy distributors do not have any marketing activity (unlike in other Member States), but have a regulated activity of management of the corresponding network.</p>
+<p class="normal">The transport sector is included in the obligated parties due to its great importance as regards final energy demand and great potential for energy saving which can be achieved. In the case of petroleum products and liquefied petroleum gas, nor was it considered appropriate to impose obligations on the network manager but rather on undertakings which are de facto responsible for the marketing of products for sale to final consumers and, in particular, taking into account the dispersion of the final marketing of these products, on wholesalers of petroleum products and liquefied petroleum gas.</p>
+<p class="normal">…</p>
+<p class="normal">… In order to take energy efficiency measures at the earliest possible time and the lowest possible cost, it is necessary to have adequate financial resources in the Energy Efficiency National Fund, which enables those measures to be implemented on a large scale, since the introduction as soon as possible of the obligation scheme which enables the Fund to be provided with those resources is broadly in the public interest. Among the options which were considered in order to initiate early large-scale energy economy measures, the establishment of an obligation scheme of contributions to an Energy Efficiency National Fund is the option which enables the fastest acquisition of the means necessary for the implementation of energy efficiency measures leading to early accounting of savings in view of compliance with the objectives of [the Energy Efficiency Directive] in the most economically efficient manner.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Article 69 of that law provides:</p>
+<p class="normal">‘1.   An energy efficiency national obligation shall be created, whereby gas and electricity retail companies, wholesalers of petroleum products and liquefied petroleum gas wholesalers, hereinafter referred to as obligated parties under the obligation scheme, shall receive an annual quota of energy savings at the national level, referred to as savings obligations.</p>
+<p class="normal">The resulting savings obligations shall be equivalent, in aggregated form, for the entire duration of the scheme, to the objective assigned to [the Kingdom of Spain] by Article 7 of Directive [Energy Efficiency Directive], after deduction of the savings from the alternative measures referred to in Article 7(9) of that directive.</p>
+<p class="normal">2.   The duration of the energy efficiency national obligation scheme shall cover a period from the entry into force of Real Decreto-ley 8/2014 de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia [Royal Decree-Law 8/2014 approving urgent measures for growth, competitiveness and efficiency] of 4 July 2014, until 31 December 2020.</p>
+<p class="normal">3.   In order to check the progress in the achievement of the objective assigned to [the Kingdom of Spain], it is possible to carry out a review of the scheme for the period from 1 January 2017 to 31 December 2020.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 70(1) of that law provides as follows:</p>
+<p class="normal">‘The annual savings target, the percentages allocated between the obligated parties concerned and the resulting quotas or savings obligations and their financial equivalent shall be fixed annually by an order of the Minister for Industry, Energy and Tourism, in agreement with the Government’s Delegated Committee for Economic Affairs and after a prior opinion of the Institute for diversification and energy saving.</p>
+<p class="normal">The annual energy savings target that is fixed shall be allocated between the obligated parties proportionally, in the case of gas and electricity retail companies, to the volume of final energy sales to final consumers at national level, and, in the case of wholesalers of petroleum products and liquefied petroleum gas, to the volume of final energy sales at national level for its subsequent distribution for retail and to final consumers, expressed in gigawatt hours (GWh), during the second year preceding the annual obligation period.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">According to Article 71 of the same law, entitled ‘Performance of obligations and energy efficiency certificates’:</p>
+<p class="normal">‘1.   To meet the annual energy savings obligations, the obligated parties must pay to the Energy Efficiency National Fund, referred to in the following article, an annual financial contribution of an amount equivalent to the proceeds from their annual saving obligation by the established financial equivalence.</p>
+<p class="normal">…</p>
+<p class="normal">2.   [In the alternative], a system of validation of achievement of a volume of energy savings equivalent to the fulfilling of the obligations imposed by the scheme may be established on terms to be set by the Spanish Government by regulation. The system is based on the production of marketable energy efficiency certificates … issued on the basis of achievement of listed energy efficiency measures, in accordance with the requirements and conditions laid down in that list, which is managed by the Institute for diversification and energy saving.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Article 72 of Law 18/2014 is worded as follows:</p>
+<p class="normal">‘1.   The Energy Efficiency National Fund shall be created, without legal personality, for the purpose of financing the national energy efficiency initiatives provided for in Article 20 of Directive [Energy Efficiency Directive].</p>
+<p class="normal">2.   The Energy Efficiency National Fund shall be devoted to financing schemes for economic and financial support, technical assistance, training, information, or other measures to increase energy efficiency in various sectors so as to contribute to the achievement of the national energy savings target established by the national energy efficiency obligation scheme laid down in Article 7 of that directive.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Saras Energía SA, a Spanish undertaking active in the energy sector, brought, before the Tribunal Supremo (Supreme Court, Spain), an appeal against Order IET/289/2015 establishing, particularly in so far as it is concerned, the obligation to contribute to the Energy Efficiency National Fund for 2015.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Saras Energía claims that that order runs counter to the Energy Efficiency Directive, in that, on the one hand, it requires it to meet its energy savings obligations by means of an annual contribution to the Energy Efficiency National Fund without permitting it to do so by implementing effective energy saving measures and, on the other, such an obligation to contribute is imposed only on retail energy sales companies, to the exclusion of energy distributors.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court regards the key question in the main proceedings as being whether Article 71 of Law 18/2014 is compatible with the Energy Efficiency Directive, in that it establishes the payment of an annual financial contribution to the Energy Efficiency National Fund as the principal method of fulfilling energy savings obligations. It states that that Fund is set up in accordance with Article 20(4) of the Energy Efficiency Directive and is intended to finance national energy efficiency initiatives.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court states that Article 71(2) of Law 18/2014 provides ‘in the alternative’ for the possibility of the Spanish Government establishing a scheme to validate energy savings achieved, in accordance with Article 7(1) of the Energy Efficiency Directive. It states that that scheme had not, at the time of the facts in the main proceedings, been put into place by the Spanish regulatory authority.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the Energy Efficiency Directive, in particular from Article 7 thereof, that obligated parties must at least have the possibility of fulfilling the energy savings targets effectively and directly, namely by specific measures allowing the end-user to reduce its energy consumption.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, in the view of the referring court, it is appropriate to determine whether the annual contribution to the Energy Efficiency National Fund can constitute an ‘alternative’ measure within the meaning of Article 7(9) of the Energy Efficiency Directive. It entertains doubts in that regard and notes, first, that the fact that the Member States may create an Energy Efficiency National Fund is expressly laid down in Article 20(4) of that directive, without being categorised as an ‘alternative’ measure within the meaning of Article 7(9) thereof; secondly, that Law 18/2014 does not refer to the latter provision as the basis of the creation of that Fund and, thirdly, that the ‘alternative’ measures listed in Article 7(9) of the Energy Efficiency Directive appear to be measures having the direct effect of reducing energy consumption, while the Fund provided for in Article 20(4) of that directive and in Article 72 of Law 18/2014 is intended, more generally, to ‘support national energy efficiency initiatives’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, the referring court asks whether the Energy Efficiency Directive is correctly transposed by national legislation, such as that at issue in the main proceedings, which establishes as the principal method of fulfilling energy efficiency obligations a system of annual financial contributions to the Energy Efficiency National Fund and, in addition, establishes the scheme provided for as a principal measure in Article 7(1) of that directive, as an alternative scheme which may be implemented in a discretionary manner by the regulatory authority.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, the referring court states that Law 18/2014 designates as ‘obligated parties’, within the meaning of Article 7(1) and (4) of the Energy Efficiency Directive, solely retail companies in gas and electricity and wholesalers of petroleum products and liquefied petroleum gas, excluding energy distributors, while Article 7(4) of the directive, in its Spanish language version, refers to energy distributors ‘and’ retail energy sales companies. In addition, that law does not state the reasons which led the national legislature to make such an exclusion. Next, it is unsure as to the compatibility of such a designation of obligated parties with the Energy Efficiency Directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Tribunal Supremo (Supreme Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Is legislation of a Member State establishing a national energy efficiency obligation scheme whose main method of compliance consists in an annual financial contribution to an Energy Efficiency National Fund established under the provisions of Article 20(4) of [the Energy Efficiency Directive] compatible with Article 7(1) and (9) of that directive?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Is national legislation which provides for the possibility of fulfilling the energy savings obligations through the accreditation of savings as an alternative to the financial contribution to the Energy Efficiency National Fund compatible with Articles 7(1) and 20(6) of the [Energy Efficiency Directive]?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">If the above question is answered in the affirmative, is the provision of that alternative possibility for the fulfilment of the energy savings obligations compatible with the abovementioned Articles 7(1) and 20(6) of the directive when its actual existence depends on whether the Government establishes it on a discretionary basis through legislation?</p>
+<p class="normal">In that respect, is such legislation compatible [with the Energy Efficiency Directive] when the Government does not implement that alternative?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">Is a national scheme that regards as parties subject to energy savings obligations only gas and electricity retail companies and wholesalers of petroleum products and liquefied petroleum gases, but not gas and electricity distributors or retailers of petroleum products and liquefied petroleum gases, compatible with Article 7(1) and (4) of [the Energy Efficiency Directive]?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(5)</p>
+</td>
+<td valign="top">
+<p class="normal">If the answer to the above question is in the affirmative, is the definition of gas and electricity retail companies and wholesalers of petroleum products and liquefied petroleum gases as “obligated parties”, without the reasons being determined for gas and electricity distributors and retailers of petroleum products and liquefied petroleum gases not being so defined, compatible with the abovementioned provisions of Article 7(1) and (4) of the [Energy Efficiency Directive]?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The first to third questions</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">By its first three questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 7(1) and (9) and Article 20(4) and (6) of the Energy Efficiency Directive must be interpreted as precluding national legislation which lays down, as the principal method of fulfilling energy efficiency obligations, a scheme of annual contributions to an Energy Efficiency National Fund, without making it possible for obligated parties to achieve the energy saving targets effectively and directly rather than by the payment of that contribution.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the order for reference that the Energy Efficiency Directive was transposed into Spanish law by Law 18/2014, under which Order IET/289/2015 established the obligations of contribution to the Energy Efficiency National Fund for 2015 and, in particular, the contribution required from Saras Energía. According to the referring court, that law provides, as the principal measure for fulfilling energy efficiency obligations, within the meaning of Article 7(1) of the Energy Efficiency Directive, for a scheme requiring the obligated parties to pay an annual contribution, the amount of which is equal to the investments required to meet their obligations under that provision, to the Energy Efficiency National Fund. It is only as an ‘alternative’ that that law provides that the Spanish Government may adopt, by regulation, a system of validation of the volumes of energy savings achieved, based on energy savings certificates. The referring court states that that scheme had not been implemented at the time of the facts in the main proceedings, whereas it ought, in its view, to have been a principal measure for fulfilling energy efficiency obligations under Article 7(1) of the Energy Efficiency Directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">As is clear from the Energy Efficiency Directive and, in particular, from recital 20 thereof, the EU legislature deliberately left the Member States a broad margin of discretion in the choice of methods suitable for fulfilling the energy efficiency objectives laid down in Article 1(1) of that directive (see, by analogy, judgment of 26 September 2013, IBV &amp; Cie, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A598&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑195/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A598&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:598</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A598&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point61" hreflang="en" target="CourtTab" type="application/xhtml+xml">61</a>). The purpose of that directive is in fact to establish at EU level the general principles forming a framework for reducing energy consumption, while leaving to the Member States the choice of the means of implementation. Accordingly, the Energy Efficiency Directive seeks solely to establish, in accordance with Article 1 thereof, a common framework of measures for the promotion of energy efficiency within the European Union in order to ensure the achievement of the objective set by the Union to increase energy efficiency by 20% by 2020 and to pave the way for further energy efficiency improvements beyond that date.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, the Member States are required, under the Energy Efficiency Directive, to adopt energy efficiency obligation schemes capable of ensuring energy savings at the end-use stage, in accordance with the objectives pursued by that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">The establishment of an Energy Efficiency National Fund, in accordance with Article 20(4) of the Energy Efficiency Directive, is one of the appropriate measures enabling energy savings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">However, it is apparent from a combined reading of Article 7(1) to (4) and Article 20(6) of the Energy Efficiency Directive that, for a scheme established by a Member State to fall within the scope of Article 7(1) of that directive, it is necessary for it to relate to energy savings obligations that the undertakings concerned can achieve themselves among final consumers. That scope flows in particular from the words ‘the amount of energy savings to fulfil the obligation shall be achieved by the obligated parties among final customers’ in paragraph 4 of that provision, which clarifies the wording of paragraph 1 thereof.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, as the Advocate General noted in points 31 to 34 of her Opinion, an annual contribution obligation scheme such as that at issue in the main proceedings, which deprives designated undertakings of the possibility of choosing between payment of such a financial contribution and the actual and direct achievement of energy savings, is not part of the option described in Article 20(6) of the Energy Efficiency Directive. Indeed, as is clear from the words ‘obligated parties can fulfil their obligations set out in Article 7(1) by contributing annually to an Economic Efficiency National Fund an amount’, in Article 20(6), that provision relates to the mechanisms by which a Member State leaves the designated undertakings a choice. However, national legislation such as that at issue in the main proceedings obliges undertakings to follow the route of payment of an annual contribution to the Fund, without providing for the option of fulfilling their obligations in a different manner.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, as the Advocate General stated in point 35 of her Opinion, the contested contribution obligation without any alternative is compatible with the Energy Efficiency Directive only if it can be regarded as an alternative policy measure within the meaning of Article 7(9) of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, Article 7(9) of the Energy Efficiency Directive expressly allows Member States to adopt, ‘as an alternative to the establishment of an energy efficiency obligation scheme’, other policy measures intended to achieve energy savings among final customers. Article 2, point 18, of the Energy Efficiency Directive defines the policy measures that Member States may adopt as regulatory, financial, fiscal, voluntary or information provision instruments formally established and implemented to create a supportive framework, requirement or incentive for market actors to provide and purchase energy services and to undertake other energy efficiency improvement measures.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Article 7(9) of the Energy Efficiency Directive also lays down, in a non-exhaustive manner, a list of policy measures which Member States can use, where appropriate in combination. These measures may in particular take the form of energy taxes, financial mechanisms and instruments which incentivise energy saving, regulations or voluntary agreements leading to the application of energy-efficient technology or techniques, standards and norms aimed at improving the energy efficiency of products and services, energy labelling schemes or education and training programmes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">With regard to the compatibility of national legislation, such as that at issue in the main proceedings, with that provision, it must be recalled that it is clear in particular from Article 72(1) and (2) of Law 18/2014 that the Energy Efficiency National Fund at issue in the main proceedings is intended to finance national energy efficiency initiatives. It is created to finance economic and financial support schemes, technical assistance, training and information or other measures to increase energy efficiency, so as to contribute to the achievement of the objectives pursued by EU law and by Spanish law in that area. Moreover, as is apparent from the order for reference, the annual contributions to the Energy Efficiency National Fund are used to promote measures aimed at improving energy savings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, the view can be taken that the annual contribution to the Fund at issue in the main proceedings falls within the scope of Article 7(9), second subparagraph, (b), of the Energy Efficiency Directive, in so far as it consists of a financing instrument leading to the application of energy-efficient technology or techniques and having the effect of reducing end-use energy consumption.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">It follows therefrom that, even if the obligation to make contributions to the National Energy Efficiency Fund does not constitute an energy savings obligation scheme, within the meaning of Article 7(1), read in conjunction with Article 20(6), of the Energy Efficiency Directive, that obligation is nevertheless one of the methods listed in that directive to achieve energy savings among final customers. The fact that Article 7(9) of that directive refers to such measures only as an ‘alternative’ is therefore merely the expression of a choice left to the Member States.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Since the Member States have significant flexibility and a broad discretion in the area, the achievement of the objectives pursued by the Energy Efficiency Directive cannot be envisaged without each Member State having the opportunity to choose, from among various types of schemes, the system best suited to its particular situation, taking account, as follows from recital 20 of that directive, of specific national circumstances (see, by analogy, judgment of 26 September 2013, IBV &amp; Cie, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A598&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑195/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A598&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:598</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A598&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point62" hreflang="en" target="CourtTab" type="application/xhtml+xml">62</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A598&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point70" hreflang="en" target="CourtTab" type="application/xhtml+xml">70</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is for the referring court to ascertain, as is apparent from Article 7(9) of the Energy Efficiency Directive, that the national legislation complies with the energy saving target at the end-use stage, to be achieved by the end of 2020, to an extent equivalent to the energy efficiency obligation schemes which may be established under Article 7(1) of that directive, and satisfies the requirements set out in Article 7(10) and (11) of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the answer to the first three questions is that Articles 7 and 20 of the Energy Efficiency Directive must be interpreted as meaning that they do not preclude national legislation which lays down, as the principal method of fulfilling energy efficiency obligations, a mechanism of annual contribution to an Energy Efficiency National Fund, provided, on the one hand, that that legislation ensures the achievement of energy savings to an extent equivalent to the energy efficiency obligation schemes which may be implemented under Article 7(1) of that directive, and, on the other, that the requirements of Article 7(10) and (11) of that directive, are satisfied, which it is for the referring court to ascertain.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The fourth and fifth questions</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Admissibility</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">At the hearing, the Kingdom of Spain claimed that the fourth and fifth questions are inadmissible, on the ground that they do not concern the oil sector. The main proceedings concern only petroleum products and the undertakings in the other sectors mentioned in the questions referred, namely gas, liquefied petroleum gas and electricity, were not admitted in the main proceedings as interveners in support of Saras Energía. Those undertakings cannot therefore extend the subject matter of the dispute to sectors other than oil products.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it suffices to note that it follows neither from the wording of the questions referred nor the reasoning behind them that they would relate only to the undertakings within the oil sector and not to those in other sectors such as gas, liquefied petroleum gas or electricity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">The fourth question must be understood as being whether it is in line with Article 7(1) and (4) of the Energy Efficiency Directive to impose energy efficiency obligations on some energy companies and not on other undertakings in that sector.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">The fifth question must be understood as seeking to ascertain whether a Member State is required to state the reasons for the choice of the undertakings designated as obligated parties, within the meaning of the Energy Efficiency Directive, using objective and non-discriminatory criteria.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the fourth and fifth questions are admissible.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Substance</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">By its fourth and fifth questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 7(1) and (4) of the Energy Efficiency Directive must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which, on the one hand, imposes energy efficiency obligations on only some energy undertakings, designated as obligated parties, and, on the other, does not expressly specify why those undertakings are designated as obligated parties.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be noted that Article 7(4) of the Energy Efficiency Directive provides that each Member State is to designate obligated parties for the purposes of Article 7(1) of the directive amongst energy distributors ‘and/or’ retail energy sales companies, on the basis of objective and non-discriminatory criteria.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">However, an interpretation of Article 7(4) of the directive is also useful in order to assess whether a Member State, in the context of the application of a financial instrument which falls within the scope of Article 7(9), has designated, in an appropriate manner, the undertakings which are obliged to contribute to that instrument. Such a measure is adopted as an ‘alternative’ to the establishment of the scheme referred to in Article 7(1) and must be accompanied by equivalent guarantees. Accordingly, the rules laid down in Article 7(4) of the Energy Efficiency Directive for the designation of obligated parties must also be satisfied where such parties are designated in the context of a mechanism other than that referred to in paragraph 1 thereof.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">The fact that the Spanish-language version of Article 7(4) of the Energy Efficiency Directive includes not the terms ‘and/or’, but only the conjunction ‘and’ is not such as to call that finding into question, given that, as also noted by the Advocate General in point 64 of her Opinion, it follows from the broad logic of that provision that Member States may indeed choose to designate as obligated parties the energy distributors or retail energy sales companies and therefore exclude from the category of obligated parties some of the players in the energy sector.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">The Spanish language version of Article 7(4) of the Energy Efficiency Directive, like the other language versions of that provision, provides that Member States must choose the obligated companies from among energy distributors and retail energy sales companies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">In addition, it must be noted that the first subparagraph of Article 7(1) of that directive states, also in its Spanish language version, that the obligated companies may belong to the category of energy distributors ‘and/or’ of retail energy sales companies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, the definition of ‘obligated party’ as set out in point 14 of Article 2 of the Energy Efficiency Directive uses only the conjunction ‘or’, even in the Spanish language version of that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">It follows therefrom, first, that the Member States are free to designate, as obligated parties, only some operators, to the exclusion of others, whatever the basis of the implementing measure of the energy efficiency obligation actually established by the national legislation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Secondly, it is clear from Article 7(4) of the Energy Efficiency Directive that that provision requires that, for the purposes of the first subparagraph of Article 7(1) of that directive, obligated parties must be designated on the basis of objective and non-discriminatory criteria.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">As noted by the Advocate General in point 79 of her Opinion, those objective and non-discriminatory criteria must be set out expressly by the Member State concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">It therefore falls to the referring court to determine whether, in the context of the implementation by the Kingdom of Spain of an obligatory annual contribution to an Energy Efficiency National Fund, such as that at issue in the main proceedings, the designation of obligated companies is based on expressly established, objective and non-discriminatory criteria.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">To that end, it is for the referring court to take into account the configuration and characteristics of the national market and the situation of operators on that market, as called for in the Energy Efficiency Directive in particular in recital 20 thereof.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the foregoing that the answer to the fourth and fifth questions is that Article 7 of the Energy Efficiency Directive must be interpreted as meaning that it does not preclude national legislation, such as that at issue in the main proceedings, which imposes energy efficiency obligations on only certain specific undertakings in the energy sector, provided that the designation of those companies as obligated parties is actually based on explicitly stated, objective and non-discriminatory criteria, which it is for the referring court to ascertain.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Second Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Articles 7 and 20 of Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC must be interpreted as meaning that they do not preclude national legislation which lays down, as the principal method of fulfilling energy efficiency obligations, a mechanism of annual contribution to an Energy Efficiency National Fund, provided, on the one hand, that that legislation ensures the achievement of energy savings to an extent equivalent to the energy efficiency obligation schemes which may be implemented under Article 7(1) of that directive, and, on the other, that the requirements of Article 7(10) and (11) of that directive, are satisfied, which it is for the referring court to ascertain.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 7 of Directive 2012/27 must be interpreted as meaning that it does not preclude national legislation, such as that at issue in the main proceedings, which imposes energy efficiency obligations on only certain specific undertakings in the energy sector, provided that the designation of those companies as obligated parties is actually based on explicitly stated, objective and non-discriminatory criteria, which it is for the referring court to ascertain.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62016CJ0561_EN_01-E0001" id="t-ECR_62016CJ0561_EN_01-E0001">*1</a>
+</span>)	Language of the case: Spanish.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

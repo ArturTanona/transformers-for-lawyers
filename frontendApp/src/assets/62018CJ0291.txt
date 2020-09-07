@@ -1,0 +1,751 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Third Chamber)</p>
+<p class="sum-title-1">20 June 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0291_EN_01-E0001" id="c-ECR_62018CJ0291_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Common system of value added tax (VAT) — Directive 2006/112/EC — Article 148(a) and (c) — Exemptions related to international transport — Supply of offshore jackup drilling rigs — Concept of ‘vessels used for navigation on the high seas’ — Scope)</p>
+<p class="normal">In Case C‑291/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Curtea de Apel Bucureşti (Court of Appeal, Bucharest, Romania), made by decision of 7 December 2017, received at the Court on 26 April 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Grup Servicii Petroliere SA</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Agenţia Naţională de Administrare Fiscală — Direcţia Generală de Soluţionare a Contestaţiilor,</span>
+</p>
+<p class="normal">
+<span class="bold">Agenţia Naţională de Administrare Fiscală — Direcţia Generală de Administrare a Marilor Contribuabili,</span>
+</p>
+<p class="normal">THE COURT (Third Chamber),</p>
+<p class="normal">composed of A. Prechal, President of the Chamber, K. Lenaerts, President of the Court, acting as Judge of the Third Chamber, F. Biltgen, J. Malenovský and L.S. Rossi (Rapporteur), Judges,</p>
+<p class="normal">Advocate General: G. Hogan,</p>
+<p class="normal">Registrar: R. Şereş, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing of 31 January 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Grup Servicii Petroliere SA, by A.-M. Iordache, D. Dascălu and A. Iancu, avocați,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Romanian Government, by C. Canţăr, C.-M. Florescu and E. Gane, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Belgian Government, by J.-C. Halleux and P. Cottin, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Italian Government, by G. Palmieri, acting as Agent, and G. De Bellis, avvocato dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by L. Lozano Palacios and A. Armenia, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 10 April 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 148(a) and (c) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" target="CourtTab">OJ 2006 L 347, p. 1</a>, ‘the VAT Directive’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Grup Servicii Petroliere SA, a company with its registered office in Romania, and the tax authorities of Romania concerning the refusal of exemption from value added tax (VAT) on the supply by that company of three offshore jackup drilling rigs to Maltese companies.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">EU law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 15 of Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1977:145:TOC" hreflang="en" target="CourtTab">OJ 1977 L 145, p. 1</a>), as amended by Council Directive 92/111/EEC of 14 December 1992 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1992:384:TOC" hreflang="en" target="CourtTab">OJ 1992 L 384, p. 47</a>) (‘the Sixth Directive’), entitled ‘Exemption for exports outside the Community, for like transactions and international transport’, provided:</p>
+<p class="normal">‘Without prejudice to other Community provisions, Member States shall exempt the following under conditions which they shall lay down for the purpose of ensuring the correct and straightforward application of such exemptions and of preventing any possible evasion, avoidance or abuse:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4.</p>
+</td>
+<td valign="top">
+<p class="normal">the supply of goods for the fuelling and provisioning of vessels:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">used for navigation on the high seas and carrying passengers for reward or used for the purpose of commercial, industrial or fishing activities;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">used for rescue or assistance at sea, or for inshore fishing, with the exception, for the latter, of ships’ provisions;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">5.</p>
+</td>
+<td valign="top">
+<p class="normal">the supply, modification, repair, maintenance, chartering and hiring of the sea-going vessels referred to in paragraph 4(a) and (b) and the supply, hiring, repair and maintenance of equipment — including fishing equipment — incorporated or used therein;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">The Sixth Directive was repealed and replaced by the VAT Directive, which entered into force on 1 January 2007.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Title IX of the VAT Directive, entitled ‘Exemptions’, contains 10 chapters. Article 131 of that directive, the only article in Chapter 1 of Title IX of the directive, entitled ‘General provisions’, provides:</p>
+<p class="normal">‘The exemptions provided for in Chapters 2 and 9 shall apply without prejudice to other Community provisions and in accordance with conditions which the Member States shall lay down for the purposes of ensuring the correct and straightforward application of those exemptions and of preventing any possible evasion, avoidance or abuse.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 148 of the VAT Directive, contained in Chapter 7 of Title IX of the directive and entitled ‘Exemptions related to international transport’, provides:</p>
+<p class="normal">‘Member States shall exempt the following transactions:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the supply of goods for the fuelling and provisioning of vessels used for navigation on the high seas and carrying passengers for reward or used for the purpose of commercial, industrial or fishing activities, or for rescue or assistance at sea, or for inshore fishing, with the exception, in the case of vessels used for inshore fishing, of ships’ provisions;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">the supply, modification, repair, maintenance, chartering and hiring of the vessels referred to in point (a), and the supply, hiring, repair and maintenance of equipment, including fishing equipment, incorporated or used therein;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Romanian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 143(1) of Legea nr. 571/2003 privind Codul fiscal (Law No 571/2003 establishing the Tax Code), in the version in force on the date of the facts in the main proceedings (‘the Tax Code’), states:</p>
+<p class="normal">‘The following shall be exempt from the tax:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(h)</p>
+</td>
+<td valign="top">
+<p class="normal">in the case of vessels used for maritime navigation, the international carriage of persons and/or goods, for the purpose of fishing or for any other economic activities or for rescue or assistance at sea:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">the supply, modification, repair, maintenance, chartering, lease and hiring of vessels, and the supply, lease, hiring, repair and maintenance of equipment, including fishing equipment, incorporated or used therein.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 23 of Ordonanța Guvernului nr. 42/1997 privind transportul maritim și pe căile navigabile interioare (Government Ordinance No 42/1997 on maritime and inland waterway transport) provides:</p>
+<p class="normal">‘For the purposes of this Ordinance, the following are vessels:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">sea and inland navigation vessels of all kinds, with or without propulsion, which navigate on the surface or by immersion, designed to carry goods and/or persons, to fish, to tow or to push;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">floating installations, such as dredges, floating elevators, floating cranes, floating clamshell buckets, etc., with or without propulsion;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">floating structures that are not normally intended for movement, such as floating docks, floating jetties, pontoons, floating boat sheds, drilling platforms and others, floating lighthouses;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">pleasure craft.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Point 1 of decizia nr. 3/2015 a Comisiei fiscale centrale (Decision No 3/2015 of the Central Tax Commission) provides:</p>
+<p class="normal">‘From 1 January 2007 to 31 December 2013: in the case of vessels intended for navigation at sea, used for the international transport of persons and/or goods, for fishing or for any other economic activity at sea, the VAT exemptions provided for in Article 143(1)(h) [of the Tax Code] shall apply if the vessel is used effectively and predominantly for navigation at sea. In determining whether a vessel is used effectively and predominantly at sea, objective criteria alone, such as the length or tonnage of the vessel, cannot be taken into account, but these criteria could be used to exclude from the scope of the exemptions vessels which, in any event, do not fulfil the conditions laid down in Article 143(1)(h) of the Tax Code, namely those which are not suitable for navigation at sea. …</p>
+<p class="normal">The concept of “sea” navigation, within the meaning of [Directive 2006/112] and Article 143(1)(h) of the Tax Code, covers any part of the sea outside the territorial waters of any State which is beyond the 12 nautical mile limit measured from baselines established in accordance with the international law of the sea (United Nations Convention on the Law of the Sea, concluded at Montego Bay on 10 December 1982).’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">In May 2008 Grup Servicii Petroliere sold three offshore jackup drilling rigs, operated in the Black Sea, to Maltese companies for a total amount of 96 million US dollars (USD) (around EUR 82 million). That company issued invoices for the supply of those rigs, applying the VAT exemption rules provided for in Article 148(c) of the VAT Directive and in Article 143(1)(h) of the Tax Code. The company continued to operate those rigs in the Black Sea during 2008 as a charterer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">In 2016 the Romanian tax authorities issued an adjustment notice for the unpaid VAT in connection with that supply, charging Grup Servicii Petroliere a sum of over 113 million Romanian lei (RON) (approximately EUR 25 million), including default interest and penalties for late payment. The grounds of that notice state, inter alia, the following:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">although the rigs in question are vessels within the meaning of Government Ordinance No 42/1997 and may be put to unlimited use for navigation at sea, they do not navigate during the drilling activity but are rather in a parked position; their columns are in a low position, rest on the seabed and lift the pontoon (the floating part) above the sea, to a height of 60 to 70 metres;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">in the light of the provisions of Decision No 3/2015 of the Central Tax Commission, for the supply of the rigs to fall within the exemption provided for in Article 143(1)(h) of the Tax Code, it is necessary to establish by all forms of evidence that the vessel in question navigates effectively and predominantly on the high seas;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">however, the evidence available showed that the actual and preponderant use of the rigs occurs when they are in a parked position for the purpose of drilling activity and not for navigation, which is only subsidiary to the drilling activity.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Since the administrative complaint submitted to challenge that adjustment notice was rejected, Grup Servicii Petroliere brought proceedings before the Curtea de Apel Bucureşti (Court of Appeal, Bucharest, Romania).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">According to the order for reference, that company submits in its application, in essence, that the Romanian tax authorities unlawfully restricted the scope of the exemption provided for in Article 148(a) and (c) of the VAT Directive by making that exemption subject not only to the condition that the vessels operated for commercial or industrial purposes are ‘used’ on the high seas, but also that they ‘navigate’ on the high seas.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Notwithstanding the case-law of the Court on the interpretation of Article 148(a) and (c) of the VAT Directive, the referring court considers that it is necessary, with a view to determining whether the exemption at issue in the main proceedings applies to the supply of an offshore jackup drilling rig, in the first place, to decide the question whether such a rig falls within the concept of ‘vessels’ within the meaning of Article 148(a) of that directive. In the second place, and if that question is answered in the affirmative, the referring court asks whether the exemption provided for in Article 148(a) and (c) of the VAT Directive is subject to the condition that the navigation activity on the high seas is actually predominant as compared with the drilling activity at sea.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Curtea de Apel Bucureşti (Court of Appeal, Bucharest) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Must Article 148(c) in conjunction with Article 148(a) of [the VAT Directive] be interpreted as meaning that the exemption from value added tax applies, in some circumstances, to the supply of offshore jackup drilling rigs, that is to say, are offshore jackup drilling platforms covered by the term “vessels” within the meaning of that provision of EU law, given that, according to the title of Chapter 7 of that directive, that provision lays down rules governing “exemptions related to international transport”?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">If the answer to the first question is in the affirmative, must Article 148(c) in conjunction with Article 148(a) of [the VAT Directive] be interpreted as meaning that an essential condition for applying the exemption from value added tax is that, while it is being used (for commercial/industrial activities), an offshore jackup drilling rig which has navigated into international waters must in fact be in a state of movement, floating or moving at sea from place to place, for a longer period than the period during which it is stationary or immobile as a result of carrying out drilling activities at sea — that is to say, that navigation must in fact predominate vis-à-vis drilling activities?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">By its two questions, which should be examined together, the referring court asks, in essence, whether Article 148(a) and (c) of the VAT Directive are to be interpreted as meaning that the expression ‘vessels used for navigation on the high seas’ in that provision applies to the supply of floating structures, such as offshore jackup drilling rigs of the type at issue in the main proceedings, which are used predominantly in a stationary position to exploit hydrocarbon deposits at sea.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary point, it should be recalled that the supplies for which the exemption is provided for in Article 148(c) of the VAT Directive are subject to the condition that those supplies relate to vessels used for navigation on the high seas and carrying passengers for reward or used for the purpose of commercial, industrial or fishing activities, within the meaning of Article 148(a) of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">As the Court has already held, Article 148(a) of the VAT Directive is drafted in the same terms as Article 15(4)(a) of the Sixth Directive, which was repealed and replaced by the VAT Directive. Therefore, the case-law relating to that provision of the Sixth Directive is still relevant for the interpretation of Article 148(a) of the VAT Directive (judgment of 3 September 2015, Fast Bunkering Klaipėda, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A536&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑526/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A536&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:536</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A536&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point24" hreflang="en" target="CourtTab" type="application/xhtml+xml">24</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A536&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point25" hreflang="en" target="CourtTab" type="application/xhtml+xml">25</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">It is for that reason that the Court inferred from that fact that, like the exemptions provided for in the Sixth Directive, those referred to in Article 148 of the VAT Directive constitute independent concepts of EU law which must, therefore, be interpreted and applied uniformly throughout the European Union (judgment of 3 September 2015, Fast Bunkering Klaipėda, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A536&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑526/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A536&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:536</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A536&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point41" hreflang="en" target="CourtTab" type="application/xhtml+xml">41</a> and the case-law cited), which means that the exemption of a specific transaction from VAT cannot depend on its classification in national law (see, to that effect, inter alia, judgment of 18 October 2007, Navicon, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A609&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑97/06</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A609&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2007:609</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A609&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point28" hreflang="en" target="CourtTab" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, since they are a derogation from the general principle that VAT is to be levied on each supply of goods or services made for consideration by a taxable person, those exemptions must be interpreted strictly (see, to that effect, judgments of 14 September 2006, Elmeka, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A563&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑181/04 to C‑183/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A563&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2006:563</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A563&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point15" hreflang="en" target="CourtTab" type="application/xhtml+xml">15</a>, and of 21 March 2013, Commission v France, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A202&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑197/12</a>, not published, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A202&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:202</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A202&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="en" target="CourtTab" type="application/xhtml+xml">30</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">It must also be recalled that the Court has previously held that the condition relating to the use for navigation on the high seas, laid down in Article 15(4)(a) of the Sixth Directive, applied not only to vessels carrying passengers for reward but also to those used for the purpose of commercial, industrial or fishing activities, all of which are now listed in Article 148(a) of the VAT Directive (see, to that effect, judgments of 14 September 2006, Elmeka, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A563&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑181/04 to C‑183/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A563&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2006:563</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A563&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point14" hreflang="en" target="CourtTab" type="application/xhtml+xml">14</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A563&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point16" hreflang="en" target="CourtTab" type="application/xhtml+xml">16</a>, and of 21 March 2013, Commission v France, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A202&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑197/12</a>, not published, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A202&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:202</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A202&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point32" hreflang="en" target="CourtTab" type="application/xhtml+xml">32</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">It is in the light of those considerations that the expression ‘vessels used for navigation on the high seas’ in Article 148(a) of the VAT Directive should be interpreted, taking into account — since neither that expression nor the words making up that expression are defined — the wording of that provision, the context in which it occurs and the objectives pursued by the rules of which it forms part (see to that effect, inter alia, judgment of 18 October 2007, Navicon, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A609&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑97/06</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A609&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2007:609</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A609&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point24" hreflang="en" target="CourtTab" type="application/xhtml+xml">24</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, without there being any need to rule in the context of the present case on the concept of the ‘high seas’, the spatial definition of which has evolved under the international law of the sea, or on the technical characteristics to be satisfied by a vessel for it to be regarded as being used for navigation on the high seas, it is important to note, in the first place, that the expression ‘vessels used for navigation’, referred to in Article 148(a) of the VAT Directive, necessarily means that the floating structures at issue are used for navigation. A vessel cannot be regarded as being ‘used’ for navigation unless it is put to use, at the very least primarily or predominantly, for the purpose of movement in the maritime space.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Textually speaking, that interpretation is supported by the various language versions of Article 148(a) of the VAT Directive which, where they do not employ the word ‘deployed’ (‘<span class="italic">affectés</span>’) generally make use of the past participle of the verb ‘to use’, as in the case of the Czech (‘<span class="italic">užívaných</span>’), English (‘<span class="italic">used</span>’), Romanian (‘<span class="italic">utilizate</span>’), Finnish (‘<span class="italic">käytettävät</span>’) and Swedish (‘<span class="italic">används</span>’) language versions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">With regard, in the second place, to the objective pursued by the rules of which the exemption provided for in Article 148(a) of the VAT Directive forms part, the Court has held that it follows from the title of Chapter 7 of Title IX of that directive that that objective is to facilitate international transport (see, to that effect, judgment of 4 May 2017, A, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A339&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑33/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A339&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:339</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A339&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="en" target="CourtTab" type="application/xhtml+xml">37</a>). In that context, the supply of vessels used for navigation on the high seas is exempt from VAT by virtue of Article 148(a) and (c) of the VAT Directive, provided that those vessels are intended to move toward the high seas. That objective thus supports the interpretation, set out in paragraph 23 above, to the effect that a floating structure cannot be classified as a ‘vessel used for navigation on the high seas’ unless it is put to use, at the very least primarily or predominantly, for the purpose of movement in the maritime space.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">The pursuit of that objective is not contradicted by the possibility that, for example, in the fields of the environment or excise duties, the concepts of ‘vessels’ or of ‘navigation’ are, as the case may be, interpreted differently. Assuming that such a difference in interpretation does exist, it is sufficient to state that the EU legislation adopted in those fields pursues objectives other than those targeted by the exemptions provided for in Article 148(a) and (c) of the VAT Directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In the third and final place, the interpretation of Article 148(a) and (c) of the VAT Directive which involves limiting the scope of that provision to floating structures primarily used for the purpose of movement in the maritime space is consistent with the context in which the provision occurs, namely the system of VAT exemptions, which must, as observed in paragraph 20 above, be interpreted strictly.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, as the Advocate General observes, in essence, in points 24 and 25 of his Opinion, it is common ground that the offshore jackup drilling rigs which formed the subject of the supply at issue in the main proceedings are offshore mobile drilling units consisting of a floating pontoon which is fitted with several mobile legs that are raised while it is being towed to the drilling site and, when it is in the drilling position, is raised to several dozen metres above sea level using those legs, which are extended and rest on the seabed, in order to form a static platform.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">In view of those characteristics, it appears that the offshore drilling rigs at issue in the main proceedings are not of such a kind as to be primarily used for the purposes of navigation, which is, however, a matter to be ascertained by the referring court, so that those floating structures cannot be classified as structures ‘used for navigation’ within the meaning of Article 148(a) of the VAT Directive. On the contrary, as the Romanian Government and the European Commission have argued and subject to examination by the referring court, the primary function of those structures is to exploit, in a stationary position, hydrocarbon deposits at sea.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of all the foregoing considerations, the answer to the questions referred is that Article 148(a) and (c) of the VAT Directive must be interpreted as meaning that the expression ‘vessels used for navigation on the high seas’ in that provision does not apply to the supply of floating structures, such as offshore jackup drilling rigs of the type at issue in the main proceedings, which are used predominantly in a stationary position to exploit hydrocarbon deposits at sea.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Third Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 148(a) and (c) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that the expression ‘vessels used for navigation on the high seas’ in that provision does not apply to the supply of floating structures, such as offshore jackup drilling rigs of the type at issue in the main proceedings, which are used predominantly in a stationary position to exploit hydrocarbon deposits at sea.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0291_EN_01-E0001" id="t-ECR_62018CJ0291_EN_01-E0001">*1</a>
+</span>)	Language of the case: Romanian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

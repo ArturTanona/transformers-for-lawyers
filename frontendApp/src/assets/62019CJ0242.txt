@@ -1,0 +1,1300 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>ARRÊT DE LA COUR (neuvième chambre)</p>
+<p class="coj-sum-title-1">11 juin 2020 (<span class="coj-note">
+<a href="#t-ECR_62019CJ0242_FR_01-E0001" id="c-ECR_62019CJ0242_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">« Renvoi préjudiciel – Taxe sur la valeur ajoutée (TVA) – Directive 2006/112/CE – Article 17, paragraphe 2, sous g) – Transfert de biens meubles à l’intérieur de l’Union européenne en vue d’une prestation de services – Articles 170 et 171 – Droit au remboursement de la TVA aux assujettis non établis dans l’État membre du remboursement – Directive 2008/9/CE – Notion d’“assujetti non établi dans l’État membre du remboursement” – Assujetti non identifié à la TVA dans l’État membre du remboursement »</p>
+<p class="coj-normal">Dans l’affaire C‑242/19,</p>
+<p class="coj-normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par le Tribunalul Bucureşti (tribunal de grande instance de Bucarest, Roumanie), par décision du 18 janvier 2019, parvenue à la Cour le 20 mars 2019, dans la procédure</p>
+<p class="coj-normal">
+<span class="coj-bold">CHEP Equipment Pooling NV</span>
+</p>
+<p class="coj-pnormal">contre</p>
+<p class="coj-normal">
+<span class="coj-bold">Agenţia Naţională de Administrare Fiscală – Direcţia Generală Regională a Finanţelor Publice Bucureşti – Serviciul soluţionare contestaţii,</span>
+</p>
+<p class="coj-normal">
+<span class="coj-bold">Agenţia Naţională de Administrare Fiscală – Direcţia Generală Regională a Finanţelor Publice Bucureşti – Administraţia fiscală pentru contribuabili nerezidenţi,</span>
+</p>
+<p class="coj-normal">LA COUR (neuvième chambre),</p>
+<p class="coj-normal">composée de M. S. Rodin, président de chambre, M<span class="coj-super">me</span> K. Jürimäe (rapporteure) et M. N. Piçarra, juges,</p>
+<p class="coj-normal">avocat général : M. G. Hogan,</p>
+<p class="coj-normal">greffier : M. A. Calot Escobar,</p>
+<p class="coj-normal">vu la procédure écrite,</p>
+<p class="coj-normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">pour CHEP Equipment Pooling NV, par M<span class="coj-super">e</span> E. Băncilă, avocat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">pour le gouvernement roumain, initialement par Mmes E. Gane et L. Liţu, ainsi que M. C.-R. Canţăr, puis par Mmes E. Gane et L. Liţu, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">pour la Commission européenne, par Mmes A. Armenia et L. Lozano Palacios, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">vu la décision prise, l’avocat général entendu, de juger l’affaire sans conclusions,</p>
+<p class="coj-normal">rend le présent</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La demande de décision préjudicielle porte sur l’interprétation de l’article 17, paragraphe 2, de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2006, L 347, p. 1</a>), telle que modifiée par la directive 2008/8/CE du Conseil, du 12 février 2008 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:044:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2008, L 44, p. 11</a>) (ci-après la « directive TVA »), ainsi que de l’article 2, point 1, et de l’article 3 de la directive 2008/9/CE du Conseil, du 12 février 2008, définissant les modalités du remboursement de la taxe sur la valeur ajoutée, prévu par la directive 2006/112/CE, en faveur des assujettis qui ne sont pas établis dans l’État membre du remboursement, mais dans un autre État membre (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:044:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2008, L 44, p. 23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Cette demande a été présentée dans le cadre d’un litige opposant CHEP Equipment Pooling NV (ci-après « CHEP »), société établie en Belgique, à l’Agenția Națională de Administrare Fiscală – Direcția Generală Regională a Finanțelor Publice București – Serviciul soluționare contestații (Agence nationale de l’administration fiscale – direction générale des finances publiques de Bucarest – service du traitement des réclamations, Roumanie) et à l’Agenția Națională de Administrare Fiscală – Direcția Generală Regională a Finanțelor Publice București – Administrația fiscală pentru contribuabili nerezidenți (Agence nationale de l’administration fiscale – direction générale des finances publiques de Bucarest – administration fiscale pour les contribuables non-résidents, Roumanie) (ci-après, ensemble, les « autorités fiscales roumaines »), au sujet du refus de ces autorités d’accorder à cette société le remboursement de la taxe sur la valeur ajoutée (TVA) acquittée en Roumanie.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Le cadre juridique</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Le droit de l’Union</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">La directive TVA</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 17 de la directive TVA prévoit :</p>
+<p class="coj-normal">« 1.   Est assimilé à une livraison de biens effectuée à titre onéreux le transfert par un assujetti d’un bien de son entreprise à destination d’un autre État membre.</p>
+<p class="coj-normal">Est considéré comme “transfert à destination d’un autre État membre”, toute expédition ou transport d’un bien meuble corporel effectué par l’assujetti ou pour son compte, en dehors du territoire de l’État membre dans lequel le bien se trouve, mais dans [l’Union européenne], pour les besoins de son entreprise.</p>
+<p class="coj-normal">2.   N’est pas considéré comme un transfert à destination d’un autre État membre l’expédition ou le transport d’un bien pour les besoins de l’une des opérations suivantes :</p>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">g)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">l’utilisation temporaire de ce bien, sur le territoire de l’État membre d’arrivée de l’expédition ou du transport, pour les besoins de prestations de services effectuées par l’assujetti établi dans l’État membre de départ de l’expédition ou du transport du bien ;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">[...]</p>
+<p class="coj-normal">3.   Lorsque l’une des conditions auxquelles est subordonné le bénéfice des dispositions du paragraphe 2 cesse d’être remplie, le bien est considéré comme étant transféré à destination d’un autre État membre. Dans ce cas, le transfert intervient au moment où cette condition cesse d’être remplie. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 21 de cette directive dispose :</p>
+<p class="coj-normal">« Est assimilée à une acquisition intracommunautaire de biens effectuée à titre onéreux l’affectation par un assujetti aux besoins de son entreprise d’un bien expédié ou transporté, par l’assujetti ou pour son compte, à partir d’un autre État membre dans lequel le bien a été produit, extrait, transformé, acheté, acquis au sens de l’article 2, paragraphe 1, point b), ou importé par l’assujetti, dans le cadre de son entreprise, dans cet autre État membre. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Aux termes de l’article 44 de ladite directive :</p>
+<p class="coj-normal">« Le lieu des prestations de services fournies à un assujetti agissant en tant que tel est l’endroit où l’assujetti a établi le siège de son activité économique. Néanmoins, si ces services sont fournis à un établissement stable de l’assujetti situé en un lieu autre que l’endroit où il a établi le siège de son activité économique, le lieu des prestations de ces services est l’endroit où cet établissement stable est situé. À défaut d’un tel siège ou d’un tel établissement stable, le lieu des prestations de services est l’endroit où l’assujetti qui bénéficie de tels services a son domicile ou sa résidence habituelle. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 170 de cette même directive énonce :</p>
+<p class="coj-normal">« Tout assujetti qui, au sens [...] de l’article 2, point 1, et de l’article 3, de la directive [2008/9] et de l’article 171 de la présente directive, n’est pas établi dans l’État membre dans lequel il effectue des achats de biens et de services ou des importations de biens grevés de TVA a le droit d’obtenir le remboursement de cette taxe dans la mesure où les biens et les services sont utilisés pour les opérations suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">les opérations visées à l’article 169 ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">les opérations pour lesquelles la taxe est uniquement due par l’acquéreur ou le preneur conformément aux articles 194 à 197 et à l’article 199. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Aux termes de l’article 171, paragraphe 1, de la directive TVA :</p>
+<p class="coj-normal">« Le remboursement de la TVA en faveur des assujettis qui ne sont pas établis dans l’État membre dans lequel ils effectuent des achats de biens et de services ou des importations de biens grevés de taxe, mais qui sont établis dans un autre État membre, est effectué selon les modalités prévues par la directive [2008/9]. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 171 bis de la directive TVA prévoit :</p>
+<p class="coj-normal">« Au lieu d’accorder un remboursement de la TVA selon les modalités prévues par [la directive 2008/9] pour les livraisons de biens et les prestations de services à un assujetti pour lesquelles cet assujetti est tenu d’acquitter la TVA conformément aux articles 194 à 197 ou 199, les États membres peuvent autoriser la déduction de cette TVA conformément à la procédure établie à l’article 168. [...]</p>
+<p class="coj-normal">À cet effet, les États membres peuvent exclure l’assujetti qui est tenu d’acquitter la TVA de la procédure de remboursement en vertu [de la directive 2008/9]. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 196 de la directive TVA dispose :</p>
+<p class="coj-normal">« La TVA est due par l’assujetti ou la personne morale non assujettie identifiée à la TVA, à qui sont fournis les services visés à l’article 44, si ces services sont fournis par un assujetti qui n’est pas établi dans cet État membre. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Aux termes de l’article 214, paragraphe 1, sous a) et b), de cette directive :</p>
+<p class="coj-normal">« Les États membres prennent les mesures nécessaires pour que soient identifiées par un numéro individuel les personnes suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">tout assujetti, à l’exception de ceux visés à l’article 9, paragraphe 2, qui effectue sur leur territoire respectif des livraisons de biens ou des prestations de services lui ouvrant droit à déduction, autres que des livraisons de biens ou des prestations de services pour lesquelles la TVA est due uniquement par le preneur ou le destinataire conformément aux articles 194 à 197 et à l’article 199 ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">tout assujetti, ou personne morale non assujettie, qui effectue des acquisitions intracommunautaires de biens soumises à la TVA conformément à l’article 2, paragraphe 1, point b), ou qui a exercé l’option prévue à l’article 3, paragraphe 3, de soumettre à la TVA ses acquisitions intracommunautaires ».</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">La directive 2008/9</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 1<span class="coj-super">er</span> de la directive 2008/9 énonce que celle-ci « définit les modalités du remboursement de la [TVA], prévu à l’article 170 de la directive [TVA] en faveur des assujettis non établis dans l’État membre du remboursement et qui remplissent les conditions prévues à l’article 3 ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 2, points 1 et 2, de la directive 2008/9 comporte, aux fins de cette directive, les définitions suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">« 1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“assujetti non établi dans l’État membre du remboursement”, tout assujetti au sens de l’article 9, paragraphe 1, de la directive [TVA] qui n’est pas établi dans l’État membre du remboursement, mais sur le territoire d’un autre État membre ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“État membre du remboursement”, l’État membre dans lequel a été exigée de l’assujetti non établi dans l’État membre du remboursement la TVA ayant grevé les biens qui lui ont été livrés ou les services qui lui ont été fournis dans cet État membre par d’autres assujettis, ou ayant grevé l’importation de biens dans cet État membre ».</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Aux termes de l’article 3 de la directive 2008/9 :</p>
+<p class="coj-normal">« La présente directive est applicable à tout assujetti non établi dans l’État membre du remboursement qui remplit les conditions suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">au cours de la période sur laquelle porte la demande de remboursement, l’assujetti n’a eu dans l’État membre du remboursement ni le siège de son activité économique, ni un établissement stable à partir duquel les opérations sont effectuées, ni, à défaut d’un tel siège ou d’un tel établissement stable, son domicile ou sa résidence habituelle ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">au cours de la période sur laquelle porte la demande de remboursement, l’assujetti n’a effectué aucune livraison de biens ni prestation de services réputée avoir eu lieu dans l’État membre du remboursement, à l’exception des opérations suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">i)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">les prestations de services de transports et les opérations accessoires qui sont exonérées conformément aux articles 144, 146, 148, 149, 151, 153, 159 ou 160 de la directive [TVA] ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">ii)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">les livraisons de biens et prestations de services pour lesquelles le destinataire est le redevable de la TVA conformément aux articles 194 à 197 et à l’article 199 de la directive [TVA]. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 5 de la directive 2008/9 est libellé comme suit :</p>
+<p class="coj-normal">« Chaque État membre rembourse à tout assujetti non établi dans l’État membre du remboursement la TVA ayant grevé les biens qui lui ont été livrés ou les services qui lui ont été fournis dans cet État membre par d’autres assujettis, ou ayant grevé l’importation de biens dans cet État membre, dans la mesure où ces biens et services sont utilisés pour les besoins des opérations suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">les opérations visées à l’article 169, points a) et b), de la directive [TVA] ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">les opérations dont le destinataire est redevable de la TVA conformément aux articles 194 à 197 et à l’article 199 de la directive [TVA], tels qu’ils sont appliqués dans l’État membre du remboursement.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">Sans préjudice de l’article 6, aux fins de la présente directive, le droit au remboursement de la TVA payée en amont est déterminé en vertu de la directive [TVA], telle qu’appliquée dans l’État membre du remboursement. »</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Le droit roumain</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 128 de la Legea nr. 571/2003 privind Codul fiscal (loi n<span class="coj-super">o</span> 571/2003 portant code des impôts), dans sa version applicable aux faits au principal (ci-après le « code des impôts »), dispose :</p>
+<p class="coj-normal">« 1.   Est considéré comme “livraison de biens” le transfert du pouvoir de disposer de biens comme un propriétaire.</p>
+<p class="coj-normal">[...]</p>
+<p class="coj-normal">9.   La livraison intracommunautaire consiste dans la livraison de biens, au sens du paragraphe 1, qui sont expédiés ou transportés d’un État membre à destination d’un autre État membre par le fournisseur, par le destinataire de cette livraison ou par une autre personne pour le compte de ceux-ci.</p>
+<p class="coj-normal">10.   Est assimilé à une livraison intracommunautaire effectuée à titre onéreux le transfert par un assujetti d’un bien de son entreprise de Roumanie à destination d’un autre État membre, à l’exception des cas d’absence de transfert visés au paragraphe 12.</p>
+<p class="coj-normal">11.   Le transfert visé au paragraphe 10 consiste dans l’expédition ou le transport de tout bien meuble corporel de Roumanie à destination d’un autre État membre effectué par l’assujetti ou pour son compte pour les besoins de son entreprise.</p>
+<p class="coj-normal">12.   Aux fins du présent titre, l’absence de transfert consiste dans l’expédition ou le transport d’un bien de Roumanie à destination d’un autre État membre effectué par l’assujetti ou pour son compte pour que ce bien soit utilisé aux fins de l’une des opérations suivantes :</p>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">g)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">l’utilisation temporaire de ce bien, sur le territoire de l’État membre d’arrivée de l’expédition ou du transport, pour les besoins de prestations de services dans l’État membre d’arrivée effectuées par l’assujetti établi en Roumanie ;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">[...]</p>
+<p class="coj-normal">13.   Lorsque l’une des conditions prévues au paragraphe 12 cesse d’être remplie, l’expédition ou le transport du bien concerné est considéré comme un transfert de Roumanie à destination d’un autre État membre. Dans ce cas, le transfert est considéré comme intervenant au moment où cette condition cesse d’être remplie. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Aux termes de l’article 130 bis, paragraphe 2, sous a), de ce code :</p>
+<p class="coj-normal">« Sont assimilés à une acquisition intracommunautaire effectuée à titre onéreux :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">l’affectation en Roumanie, par un assujetti aux besoins de sa propre entreprise, d’un bien expédié ou transporté, par l’assujetti ou par une autre personne pour son compte, à partir de l’État membre sur le territoire duquel le bien a été produit, extrait, acquis, obtenu ou importé par cet assujetti dans le cadre de sa propre entreprise, si le transport ou l’expédition de ce bien, s’il avait été effectué de Roumanie à destination d’un autre État membre, aurait été traité comme un transfert de biens à destination d’un autre État membre, conformément à l’article 128, paragraphes 10 et 11 ; [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 147 ter, paragraphe 1, sous a), dudit code prévoit :</p>
+<p class="coj-normal">« Dans les conditions fixées par voie réglementaire :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">un assujetti établi non pas en Roumanie, mais dans un autre État membre, non identifié et qui n’est pas tenu de s’identifier à la TVA en Roumanie, peut bénéficier du remboursement de la [TVA] acquittée au titre d’importations et d’acquisitions de biens ou de services effectuées en Roumanie ; [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Le point 49, paragraphe 1, des Normele metodologice de aplicare a Legii nr. 571/2003 privind Codul fiscal (modalités d’application du code des impôts) énonce :</p>
+<p class="coj-normal">« En vertu de l’article 147 ter, paragraphe 1, sous a), du code des impôts, tout assujetti établi non pas en Roumanie, mais dans un autre État membre, peut bénéficier du remboursement de la TVA acquittée au titre d’importations et d’acquisitions de biens ou de services effectuées en Roumanie. La [TVA] est remboursée par la Roumanie, si l’assujetti concerné remplit les conditions suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">au cours de la période sur laquelle porte la demande de remboursement, l’assujetti n’a eu en Roumanie ni le siège de son activité économique, ni un siège stable à partir duquel les opérations sont effectuées, ni, à défaut d’un tel siège stable, son domicile ou sa résidence habituelle ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">au cours de la période sur laquelle porte la demande de remboursement, l’assujetti n’était ni identifié ni tenu de s’identifier à la TVA en Roumanie conformément à l’article 153 du code des impôts ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">au cours de la période sur laquelle porte la demande de remboursement, l’assujetti n’a effectué aucune livraison de biens ni prestation de services réputée avoir eu lieu sur le territoire roumain, à l’exception des opérations suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">1.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">les prestations de services de transports et les opérations accessoires qui sont exonérées conformément à l’article 143, paragraphe 1, sous c) à m), à l’article 144, paragraphe 1, sous c), et à l’article 144 bis du code des impôts ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">les livraisons de biens et prestations de services pour lesquelles le destinataire est le redevable de la TVA conformément à l’article 150, paragraphes 2 à 6, du code des impôts. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 153, paragraphe 5, sous a), du code des impôts est libellé comme suit :</p>
+<p class="coj-normal">« Avant d’effectuer une opération, un assujetti qui n’est ni établi ni identifié à la TVA en Roumanie demande son identification à la TVA s’il prévoit :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">d’effectuer une acquisition intracommunautaire de biens pour laquelle il est redevable de la taxe conformément à l’article 151 ; [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Le litige au principal et les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">CHEP, société établie en Belgique, exerce une activité de location de palettes en Europe. À cette fin, CHEP achète des palettes dans différents États membres, qu’elle loue ensuite à d’autres entités du groupe CHEP établies dans chaque État membre, lesquelles les sous-louent aux clients de leur État membre respectif.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Au cours de la période comprise entre le 1<span class="coj-super">er</span> octobre et le 31 décembre 2014, CHEP a acquis des palettes auprès d’un fournisseur roumain. Le prix de vente facturé par ce dernier incluait la TVA. Les palettes en cause ont été transportées depuis les locaux du fournisseur en Roumanie vers une autre destination située également en Roumanie.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">CHEP a ensuite loué à CHEP Pooling Services Romania SRL (ci-après « CHEP Roumanie »), société établie en Roumanie, ces palettes, ainsi que des palettes qu’elle avait acquises dans d’autres États membres de l’Union et qu’elle avait transportées pour les louer en Roumanie. CHEP Roumanie a sous-loué ces différentes palettes à des clients roumains, lesquels pouvaient les expédier en Roumanie, dans d’autres États membres ou dans des États tiers. Les palettes utilisées pour le transport de marchandises déclarées à l’exportation ont ensuite été réexpédiées en Roumanie à destination de CHEP Roumanie, laquelle les a déclarées à l’importation et a refacturé leur valeur ainsi que la TVA y afférente à CHEP.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Au mois de juin 2015, CHEP a demandé aux autorités fiscales roumaines le remboursement de la TVA facturée par le fournisseur roumain des palettes ainsi que de la TVA refacturée par CHEP Roumanie.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Par décision du 14 avril 2016, l’administration fiscale de Bucarest pour les contribuables non-résidents a refusé ce remboursement. Par décision du 11 octobre 2016, le service du traitement des réclamations de Bucarest a rejeté la réclamation formée par CHEP contre ce refus.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ces deux décisions sont fondées sur le motif que CHEP était tenue de s’identifier à la TVA en Roumanie en vertu de l’article 153, paragraphe 5, du code des impôts. Les autorités fiscales roumaines ont en effet constaté que, en sus des palettes acquises en Roumanie, CHEP a loué à CHEP Roumanie des palettes qu’elle avait acquises dans d’autres États membres et transportées en Roumanie en vue de cette location. Les palettes acquises dans d’autres États membres auraient ainsi fait l’objet d’un transfert assimilé à une acquisition intracommunautaire en Roumanie, de sorte que CHEP devait s’identifier à la TVA en Roumanie.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Le 3 avril 2017, CHEP a saisi le Tribunalul Bucureşti (tribunal de grande instance de Bucarest, Roumanie) d’un recours tendant à l’annulation des décisions du 14 avril et du 11 octobre 2016 ainsi qu’à la restitution de la TVA faisant l’objet de sa demande de remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Devant cette juridiction, CHEP fait valoir que, premièrement, conformément à la directive 2008/9, elle a, en sa qualité de société établie en Belgique, droit au remboursement de la TVA indépendamment d’une éventuelle obligation d’identification à la TVA en Roumanie, deuxièmement, elle n’était pas tenue de s’identifier à la TVA en Roumanie dès lors que les transferts de palettes ne pouvaient être assimilés à des acquisitions intracommunautaires et, troisièmement, elle remplissait les conditions légales pour bénéficier du remboursement de la TVA. CHEP relève par ailleurs que la directive 2008/9 a fait l’objet d’une transposition incorrecte en droit roumain, en ce que celui-ci subordonne le remboursement de la TVA à une condition, non prévue par cette directive, tenant à l’absence d’identification à la TVA en Roumanie.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Les autorités fiscales soutiennent, pour leur part, que, en l’absence de toute preuve que les palettes en cause, acquises dans d’autres États membres que la Roumanie, aient été réexpédiées dans l’État membre à partir duquel elles avaient été expédiées ou transportées vers la Roumanie, CHEP ne saurait alléguer que l’expédition des palettes acquises dans d’autres États membres vers la Roumanie relève d’un cas d’absence de transfert, au sens de l’article 128, paragraphe 12, sous g) et h), du code des impôts.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Au regard de ces arguments, la juridiction de renvoi estime qu’il est nécessaire d’obtenir des clarifications sur les cas d’absence de transfert au sens de l’article 17, paragraphe 2, de la directive TVA et sur l’obligation d’identification à la TVA d’une société non résidente qui, sans disposer en Roumanie des ressources techniques et humaines requises pour effectuer des opérations imposables, fournit simplement des services dont le lieu de prestation aux fins de la TVA se situe en Roumanie. Elle s’interroge également sur le point de savoir si le droit au remboursement de la TVA peut être subordonné à la condition que l’assujetti ne soit ni identifié à la TVA dans l’État membre du remboursement ni tenu de le faire. À ce dernier égard, elle relève que les dispositions du droit roumain semblent être contraires à la directive 2008/9, en vertu de laquelle le droit au remboursement ne serait pas subordonné à une telle condition.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">C’est dans ces circonstances que le Tribunalul Bucureşti (tribunal de grande instance de Bucarest) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">« 1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Le transport de palettes d’un État membre à destination d’un autre État membre, afin que ces palettes y soient ultérieurement louées à un assujetti établi et identifié à la TVA en Roumanie, constitue-t-il un cas d’absence de transfert au sens de l’article 17, paragraphe 2, de la directive TVA ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Indépendamment de la réponse à la première question, un assujetti au sens de l’article 9, paragraphe 1, de la directive TVA qui est établi sur le territoire d’un autre État membre que celui du remboursement est-il considéré comme un assujetti au sens de l’article 2, point 1, de la directive [2008/9], même s’il est identifié à la TVA ou serait tenu d’être identifié à la TVA dans l’État membre du remboursement ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">3)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Eu égard aux dispositions de la directive [2008/9], la condition de ne pas être identifié à la TVA dans l’État membre du remboursement représente-t-elle une condition supplémentaire au regard de celles prévues à l’article 3 de la directive [2008/9] pour qu’un assujetti établi dans un autre État membre et non dans l’État membre du remboursement puisse bénéficier du droit au remboursement dans des circonstances telles que celles de l’espèce ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">4)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 3 de la directive [2008/9] doit-il être interprété en ce sens qu’il s’oppose à une pratique de l’administration nationale consistant à refuser le remboursement de la TVA en raison du non-respect d’une condition prévue exclusivement dans le droit national ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Sur les questions préjudicielles</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Sur la première question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Par sa première question, la juridiction de renvoi cherche, en substance, à savoir si l’article 17, paragraphe 2, sous g), de la directive TVA doit être interprété en ce sens que le transfert, par un assujetti, de biens en provenance d’un État membre et à destination de l’État membre du remboursement, aux fins de la prestation, par cet assujetti, de servicesde location de ces biens dans ce dernier État membre, ne doit pas être assimilé à une livraison intracommunautaire.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À titre liminaire, il y a lieu de rappeler que, selon une jurisprudence constante, s’agissant de l’interprétation d’une disposition du droit de l’Union, il importe de tenir compte non seulement des termes de celle-ci, mais également de son contexte et des objectifs poursuivis par la réglementation dont elle fait partie (arrêt du 19 avril 2018, Firma Hans Bühler, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A261&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑580/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A261" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:261</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A261" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">33</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 17, paragraphe 1, de la directive TVA assimile certains transferts de biens, à savoir les transferts de biens à destination d’un autre État membre, à des livraisons intracommunautaires.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 17, paragraphe 2, de cette directive énumère une série d’hypothèses qui ne relèvent pas de la qualification de transfert à destination d’un autre État membre, énoncée l’article 17, paragraphe 1, de ladite directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dès lors que l’article 17, paragraphe 2, de la directive TVA établit une liste exhaustive de cas dérogatoires, il doit faire l’objet d’une interprétation stricte (voir, en ce sens, arrêt du 6 mars 2014, Dresser-Rand, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A125&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑606/12 et C‑607/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A125" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:125</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A125" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En outre, cette disposition doit être interprétée au regard de l’objectif poursuivi par le régime transitoire de la TVA applicable au commerce intracommunautaire instauré par la directive TVA, lequel vise à transférer la recette fiscale à l’État membre dans lequel a lieu la consommation finale des biens livrés (voir, en ce sens, arrêt du 6 mars 2014, Dresser-Rand, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A125&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑606/12 et C‑607/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A125" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:125</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A125" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">C’est à la lumière de ces rappels qu’il y a lieu d’interpréter l’article 17, paragraphe 2, sous g), de la directive TVA, qui fait spécifiquement l’objet des interrogations de la juridiction de renvoi.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Aux termes de cette disposition, n’est pas considéré comme un transfert à destination d’un autre État membre l’expédition ou le transport d’un bien pour les besoins de l’utilisation temporaire de ce bien, sur le territoire de l’État membre d’arrivée de l’expédition ou du transport, pour les besoins de prestations de services effectuées par l’assujetti établi dans l’État membre de départ de l’expédition ou du transport du bien.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il découle du libellé même de cette disposition que son application est soumise, de façon explicite, à des conditions cumulatives selon lesquelles, d’une part, l’utilisation, dans l’État membre de destination, du bien expédié ou transporté aux fins des prestations de services par l’assujetti concerné doit être temporaire et, d’autre part, le bien doit avoir été expédié ou transporté à partir de l’État membre dans lequel cet assujetti est établi.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Premièrement, il ressort ainsi de ladite disposition que, en conformité avec les objectifs du régime transitoire de la TVA applicable au commerce intracommunautaire, seul le transfert d’un bien dans un autre État membre qui est effectué en vue non pas de la consommation finale de ce bien, mais d’une utilisation temporaire de celui-ci dans cet État membre ne doit pas être assimilé à une livraison intracommunautaire si les autres conditions sont remplies (voir, en ce sens, arrêt du 6 mars 2014, Dresser-Rand, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A125&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑606/12 et C‑607/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A125" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:125</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A125" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">30</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il serait, en revanche, contraire tant à la lettre de l’article 17, paragraphe 2, sous g), de la directive TVA qu’à l’exigence d’interprétation stricte et aux objectifs du régime transitoire de la TVA applicable au commerce intracommunautaire, d’étendre l’application de cette disposition à des hypothèses d’utilisation à durée indéterminée ou prolongée ou encore d’utilisation conduisant à la destruction du bien concerné.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Deuxièmement, il y a lieu d’observer qu’il ressort du libellé même de l’article 17, paragraphe 2, sous g), de la directive TVA, selon lequel le bien en cause doit avoir été expédié ou transporté à partir de l’État membre dans lequel l’assujetti concerné est établi, que cette disposition ne s’applique pas à des situations dans lesquelles les biens en cause ont été expédiés ou transportés par l’assujetti à partir d’États membres autres que celui dans lequel cet assujetti est établi.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En l’occurrence, il ressort des éléments du dossier devant la Cour que CHEP, établie en Belgique, a expédié ou transporté des palettes à destination de la Roumanie et les a utilisées dans le cadre de prestations de services qu’elle a fournies à CHEP Roumanie.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">C’est à la juridiction de renvoi qu’il appartient, d’une part, de déterminer, sur la base d’une appréciation globale de l’ensemble des circonstances du litige au principal, si l’utilisation de ces palettes dans le cadre des prestations de services effectuées par CHEP est de nature temporaire. À cet effet, elle pourra notamment tenir compte des conditions des contrats de location conclus entre CHEP et CHEP Roumanie ainsi que des caractéristiques des biens en cause.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">D’autre part, dans la mesure où il ressort des éléments du dossier dont dispose la Cour que CHEP a acquis des palettes dans différents État membres de l’Union, il incombe à cette juridiction de s’assurer que les palettes en cause ont été expédiées ou transportées à destination de la Roumanie en provenance de Belgique, État membre dans lequel CHEP est établie.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Si la juridiction de renvoi estime que ces deux conditions sont satisfaites dans l’affaire au principal, elle devra en déduire que, conformément à l’article 17, paragraphe 2, sous g), de la directive TVA, les transferts de palettes en cause ne doivent pas être assimilés à des livraisons intracommunautaires.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En revanche, dans l’hypothèse où l’une ou l’autre de ces conditions fait défaut pour l’ensemble ou pour une partie des transferts de palettes en cause, ceux-ci doivent, en vertu de l’article 17, paragraphe 1, de la directive TVA et sous réserve de la vérification des autres hypothèses dérogatoires visées au paragraphe 2 de cette disposition, être assimilés à des livraisons intracommunautaires.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Au vu de l’ensemble des considérations qui précèdent, il y a lieu de répondre à la première question que l’article 17, paragraphe 2, sous g), de la directive TVA doit être interprété en ce sens que le transfert, par un assujetti, de biens en provenance d’un État membre et à destination de l’État membre du remboursement, aux fins de la prestation, par cet assujetti, de services de location de ces biens dans ce dernier État membre, ne doit pas être assimilé à une livraison intracommunautaire lorsque l’utilisation desdits biens pour les besoins d’une telle prestation est temporaire et qu’ils ont été expédiés ou transportés à partir de l’État membre dans lequel ledit assujetti est établi.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Sur les deuxième à quatrième questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Par ses deuxième à quatrième questions, qu’il convient d’examiner ensemble, la juridiction de renvoi cherche, en substance, à savoir si les dispositions de la directive 2008/9 doivent être interprétées en ce sens qu’elles s’opposent à ce qu’un État membre refuse le droit au remboursement de la TVA à un assujetti établi sur le territoire d’un autre État membre au seul motif que cet assujetti est ou aurait dû être identifié à la TVA dans l’État membre du remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La directive 2008/9 a, selon son article 1<span class="coj-super">er</span>, pour objet de définir les modalités du remboursement de la TVA, prévu à l’article 170 de la directive TVA, en faveur des assujettis non établis dans l’État membre du remboursement qui remplissent les conditions énoncées à l’article 3 de la directive 2008/9.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La directive 2008/9 n’a toutefois pas pour objectif de déterminer les conditions d’exercice ni l’étendue du droit au remboursement. En effet, l’article 5, second alinéa, de cette directive prévoit, sans préjudice de l’article 6 de celle-ci et aux fins de cette dernière, que le droit au remboursement de la TVA payée en amont est déterminé en vertu de la directive TVA, telle qu’appliquée dans l’État membre du remboursement (arrêt du 21 mars 2018, Volkswagen, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑533/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:204</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ainsi, le droit, pour un assujetti établi dans un État membre, d’obtenir le remboursement de la TVA acquittée dans un autre État membre, tel que régi par la directive 2008/9, est le pendant du droit, instauré en sa faveur par la directive TVA, de déduire la TVA payée en amont dans son propre État membre (arrêt du 21 mars 2018, Volkswagen, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑533/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:204</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> ; voir notamment, en ce sens, arrêt du 28 juin 2007, Planzer Luxembourg, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A397&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑73/06</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A397" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2007:397</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A397" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En outre, la Cour a précisé que, tout comme le droit à déduction, le droit au remboursement constitue un principe fondamental du système commun de la TVA mis en place par la législation de l’Union, qui vise à soulager entièrement l’entrepreneur du poids de la TVA due ou acquittée dans le cadre de toutes ses activités économiques. Le système commun de la TVA garantit, par conséquent, la neutralité quant à la charge fiscale de toutes les activités économiques, quels que soient les buts ou les résultats de ces activités, à condition que lesdites activités soient, en principe, elles-mêmes soumises à la TVA (arrêt du 2 mai 2019, Sea Chefs Cruise Services, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A354&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑133/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A354" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:354</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A354" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Le mode de restitution de la TVA soit par déduction, soit par remboursement, est fonction du lieu d’établissement de l’assujetti (voir, en ce sens, arrêt du 16 juillet 2009, Commission/Italie, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A478&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑244/08</a>, non publié, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A478" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:478</a>, points <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A478" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> et <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A478" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>). Ainsi, l’article 170 de la directive TVA accorde, dans les conditions qu’il établit, à « tout assujetti qui, au sens [...] de l’article 2, point 1, et de l’article 3, de la directive [2008/9], n’est pas établi dans l’État membre dans lequel il effectue des achats de biens et de services ou des importations de biens grevés de TVA », le droit d’obtenir le remboursement de la TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À cet égard, conformément à l’article 3 de la directive 2008/9, l’assujetti non établi dans l’État membre du remboursement, au sens de l’article 2, point 1, de cette directive, a droit au remboursement de la TVA acquittée sous deux conditions. Premièrement, selon l’article 3, sous a), de ladite directive, au cours de la période sur laquelle porte la demande de remboursement, l’assujetti ne doit avoir eu ni le siège de son activité économique, ni un établissement stable, ni encore son domicile ou sa résidence habituelle dans l’État membre du remboursement. Deuxièmement, selon l’article 3, sous b), de cette même directive, au cours de cette même période, il ne doit avoir effectué aucune livraison de biens ou prestation de services réputée avoir eu lieu dans cet État membre, à l’exception de certaines opérations spécifiées aux points i) et ii) de cette disposition. Ces conditions sont cumulatives (voir, en ce sens, arrêts du 6 février 2014, E.ON Global Commodities, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A53&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑323/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A53" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:53</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A53" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">42</a>, et du 21 septembre 2017, SMS group, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A712&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑441/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A712" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:712</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A712" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">43</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En revanche, ni l’article 170 de la directive TVA, ni l’article 3 de la directive 2008/9, ni aucune autre disposition de ces directives ne subordonnent le droit pour un assujetti établi dans un autre État membre d’obtenir le remboursement de la TVA à une quelconque condition formelle d’absence d’identification à la TVA ou d’absence d’obligation d’identification à la TVA dans l’État membre du remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il s’ensuit qu’un État membre ne saurait, en vertu de son droit national, refuser à un assujetti établi dans un autre État membre le droit au remboursement de la TVA au seul motif que cet assujetti est ou devrait être identifié à la TVA dans le premier État membre, alors même que cet assujetti remplit les conditions cumulatives énoncées à l’article 3 de la directive 2008/9.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Cette interprétation est corroborée par la finalité de la directive 2008/9, qui est de permettre à l’assujetti établi dans un autre État membre d’obtenir le remboursement de la TVA acquittée en amont, lorsque, en l’absence d’opérations imposables actives dans l’État membre du remboursement, il ne pourrait déduire cette TVA acquittée en amont d’une TVA due en aval (arrêt du 25 octobre 2012, Daimler et Widex, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A666&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑318/11 et C‑319/11</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A666" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:666</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A666" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">40</a>). En effet, la circonstance qu’un assujetti soit le cas échéant identifié à la TVA dans l’État membre du remboursement ne saurait valablement être traitée par l’ordre juridique national comme établissant que cet assujetti ait effectivement réalisé de telles opérations dans cet État membre (voir, en ce sens, arrêt du 6 février 2014, E.ON Global Commodities, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A53&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑323/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A53" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:53</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A53" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">53</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il en va d’autant plus ainsi que l’identification à la TVA, prévue à l’article 214 de la directive TVA, ne constitue qu’une exigence formelle à des fins de contrôle. Or, il ressort d’une jurisprudence constante de la Cour que des exigences formelles ne peuvent pas remettre en cause, notamment, le droit à déduction, dans la mesure où les conditions matérielles qui font naître ce droit sont remplies (voir, en ce sens, arrêts du 21 octobre 2010, Nidera Handelscompagnie, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A627&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑385/09</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A627" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:627</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A627" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>, et du 14 mars 2013, Ablessio, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A168&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑527/11</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A168" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:168</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A168" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">32</a>). Il s’ensuit également, eu égard au point 52 du présent arrêt, qu’un assujetti établi dans un autre État membre ne saurait être empêché, dans la mesure où les conditions matérielles qui font naître le droit au remboursement sont remplies, d’exercer ce droit au motif qu’il est ou devrait être identifié à la TVA dans l’État membre du remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Par conséquent, contrairement à la position défendue par le gouvernement roumain, un État membre ne saurait exclure un assujetti établi dans un autre État membre du droit au remboursement de la TVA au seul motif que cet assujetti est ou devrait être identifié à la TVA dans le premier État membre.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Par ailleurs, il importe encore d’ajouter que seul l’article 171 bis de la directive TVA permet, pour les opérations spécifiques qu’il vise, aux États membres d’accorder à un assujetti établi dans un autre État membre un droit à déduction, en l’excluant de la procédure de remboursement au titre de la directive 2008/9. Toutefois, outre le fait que le gouvernement roumain ne s’est nullement prévalu d’une transposition de cette faculté dans l’ordre juridique roumain, cette disposition ne vise en tout état de cause pas à opérer une distinction selon l’existence, ou non, d’une identification à la TVA dans l’État membre du remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En l’occurrence, d’une part, il ressort des éléments du dossier dont dispose la Cour que CHEP, en tant qu’assujetti établi dans un autre État membre, ne présente aucun des critères de rattachement avec le territoire roumain énoncés à l’article 3, sous a), de la directive 2008/9. D’autre part, s’agissant de la condition énoncée à l’article 3, sous b), de cette directive, il ressort des éléments du dossier que, si, en louant les palettes en cause à CHEP Roumanie, CHEP effectue des prestations de service dont le lieu est réputé se situer en Roumanie conformément à l’article 44 de la directive TVA, c’est CHEP Roumanie qui, en vertu de l’article 196 de la directive TVA, est redevable de la TVA dans le cadre du mécanisme d’autoliquidation. Dans ces conditions, et sous réserve d’une vérification par la juridiction de renvoi, il apparaît qu’une société telle que CHEP remplit les conditions cumulatives énoncées à l’article 3 de la directive 2008/9 et bénéficie, partant, du droit au remboursement de la TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Au vu de l’ensemble des considérations qui précèdent, il y a lieu de répondre aux deuxième à quatrième questions que les dispositions de la directive 2008/9 doivent être interprétées en ce sens qu’elles s’opposent à ce qu’un État membre refuse le droit au remboursement de la TVA à un assujetti établi sur le territoire d’un autre État membre au seul motif que cet assujetti est ou aurait dû être identifié à la TVA dans l’État membre du remboursement.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">Par ces motifs, la Cour (neuvième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">1)</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">L’article 17, paragraphe 2, sous g), de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée, telle que modifiée par la directive 2008/8/CE du Conseil, du 12 février 2008, doit être interprété en ce sens que le transfert, par un assujetti, de biens en provenance d’un État membre et à destination de l’État membre du remboursement, aux fins de la prestation, par cet assujetti, de services de location de ces biens dans ce dernier État membre, ne doit pas être assimilé à une livraison intracommunautaire lorsque l’utilisation desdits biens pour les besoins d’une telle prestation est temporaire et qu’ils ont été expédiés ou transportés à partir de l’État membre dans lequel ledit assujetti est établi.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">2)</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Les dispositions de la directive 2008/9/CE du Conseil, du 12 février 2008, définissant les modalités du remboursement de la taxe sur la valeur ajoutée, prévu par la directive 2006/112/CE, en faveur des assujettis qui ne sont pas établis dans l’État membre du remboursement, mais dans un autre État membre, doivent être interprétées en ce sens qu’elles s’opposent à ce qu’un État membre refuse le droit au remboursement de la taxe sur la valeur ajoutée à un assujetti établi sur le territoire d’un autre État membre au seul motif que cet assujetti est ou aurait dû être identifié à la taxe sur la valeur ajoutée dans l’État membre du remboursement.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62019CJ0242_FR_01-E0001" id="t-ECR_62019CJ0242_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : le roumain.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

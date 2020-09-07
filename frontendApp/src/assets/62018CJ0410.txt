@@ -1,0 +1,796 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (First Chamber)</p>
+<p class="sum-title-1">10 July 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0410_EN_01-E0001" id="c-ECR_62018CJ0410_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Freedom of movement for persons — Equal treatment — Social advantages — Regulation (EU) No 492/2011 — Article 7(2) — Financial aid for higher education studies — Non-resident students — Condition connected with the period of their parents’ working time on national territory — Minimum period of five years — Reference period of seven years — Method of calculation of the reference period — Date of the application for financial aid — Indirect discrimination — Justification — Proportionality)</p>
+<p class="normal">In Case C‑410/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal administratif (Administrative Court, Luxembourg), made by decision of 20 June 2018, received at the Court on 22 June 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Nicolas Aubriet</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Ministre de l’Enseignement supérieur et de la Recherche,</span>
+</p>
+<p class="normal">THE COURT (First Chamber),</p>
+<p class="normal">composed of J.-C. Bonichot, President of the Chamber, C. Toader, A. Rosas (Rapporteur), L. Bay Larsen and M. Safjan, Judges,</p>
+<p class="normal">Advocate General: G. Pitruzzella,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">N. Aubriet, by S. Jacquet, avocate,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Luxembourg Government, by D. Holderer, acting as Agent, and by P. Kinsch, avocat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Danish Government, by J. Nymann-Lindegren and M. Wolff, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by M. Van Hoof and D. Martin, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 45 TFEU and of Article 7(2) of Regulation (EU) No 492/2011 of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:141:TOC" hreflang="en" target="CourtTab">OJ 2011 L 141, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Mr Nicolas Aubriet (‘Mr Aubriet junior’) and the ministre de l’Enseignement supérieur et de la Recherche (Minister for Higher Education and Research, Luxembourg), concerning the refusal by the Luxembourg authorities to grant him financial aid, for the academic year 2014/2015, in order to continue his studies in Strasbourg (France).</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 7 of Regulation No 492/2011 provides:</p>
+<p class="normal">‘1.   A worker who is a national of a Member State may not, in the territory of another Member State, be treated differently from national workers by reason of his nationality in respect of any conditions of employment and work, in particular as regards remuneration, dismissal, and, should he become unemployed, reinstatement or re-employment.</p>
+<p class="normal">2.   He shall enjoy the same social and tax advantages as national workers.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 7(2) of Regulation No 492/2011 is worded in the same terms as Article 7(2) of Council Regulation (EEC) No 1612/68 of 15 October 1968 on freedom of movement for workers within the Community (OJ, English Special Edition 1968(II), p. 475), as amended by Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:158:TOC" hreflang="en" target="CourtTab">OJ 2004 L 158, p. 77</a> and corrigenda <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:229:TOC" hreflang="en" target="CourtTab">OJ 2004 L 229, p. 35</a> and <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2005:197:TOC" hreflang="en" target="CourtTab">OJ 2005 L 197, p. 34</a>).</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Luxembourg law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Legislation prior to 2014</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">State financial aid for higher education studies, granted in Luxembourg in the form of a grant and a loan which can be applied for irrespective of the State in which the applicant intends to pursue his higher education studies, was governed, until 2014, by the loi du 22 juin 2000 concernant l’aide financière de l’État pour études supérieures (Law of 22 June 2000 on State financial aid for higher education studies; <span class="italic">Mémorial</span> A 2000, p. 1106; ‘the Law of 22 June 2000’), which has been amended on a number of occasions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with the Law of 22 June 2000, as amended by the loi du 26 juillet 2010 (Law of 26 July 2010; <span class="italic">Mémorial</span> A 2010, p. 2040; ‘the Law of 26 July 2010’), which was in force as the date of the facts in the main proceedings of the case which gave rise to the judgment of 20 June 2013, Giersch and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑20/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:411</a>), a student admitted to higher education studies was entitled to receive financial aid for higher education studies where he or she was a Luxembourg national or a member of the family of a Luxembourg national and was domiciled in Luxembourg, or he or she was a national of another Member State of the European Union and resided in Luxembourg as an employed person, a self-employed person, a person who retains that status, or a family member of one of the categories of persons above, or as a person who had acquired the right of permanent residence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Since the Luxembourg system of financial aid for higher education studies instituted by the Law of 22 June 2000, as amended by the Law of 26 July 2010, was held to be incompatible with EU law by the judgment of 20 June 2013, Giersch and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑20/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:411</a>), the conditions for grant of that aid were amended by the loi du 19 juillet 2013 (Law of 19 July 2013; <span class="italic">Mémorial</span> A 2013, p. 3214; ‘the Law of 19 July 2013’). The Law of 22 June 2000, as amended by the Law of 19 July 2013, made the grant of financial aid for higher education studies conditional either on residence by the student in the territory of Luxembourg or, in the case of students not residing in Luxembourg, on their being the children of workers who have been employed or have pursued a professional activity in Luxembourg for a continuous period of at least five years at the time the application for financial aid is made.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">The loi du 24 juillet 2014</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">The loi du 24 juillet 2014 concernant l’aide financière de l’État pour études supérieures (<span class="italic">Mémorial</span> A 2014, p. 2188) (Law of 24 July 2014 on State financial aid for higher education studies (Mémorial A 2014, p. 2188; ‘the Law of 24 July 2014’) repealed the amended Law of 22 June 2000.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3 of the Law of 24 July 2014 provides:</p>
+<p class="normal">‘A student or pupil, as defined in Article 2, hereinafter referred to as a “student”, who fulfils one of the following conditions may benefit from State financial aid for higher education studies:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(1)</p>
+</td>
+<td valign="top">
+<p class="normal">he or she is a Luxembourg national or a member of the family of a Luxembourg national and is domiciled in the Grand Duchy of Luxembourg, or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">he or she is a national of another Member State of the European Union or of one of the other States which is a party to the Agreement on the European Economic Area or of the Swiss Confederation and resides, in accordance with Chapter 2 of the loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration (amended Law of 29 August 2008 on the free movement of persons and on immigration), in the Grand Duchy of Luxembourg as an employed person, a self-employed person, a person who retains that status, or a family member of one of the categories of persons above, or as a person who has acquired the right of permanent residence, or</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(5)</p>
+</td>
+<td valign="top">
+<p class="normal">a student not resident in the Grand Duchy of Luxembourg who:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">is a worker and a Luxembourg national or a national of the European Union …, employed or pursuing an activity in the Grand Duchy of Luxembourg at the time when the application for financial aid for higher education studies is made; or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">is the child of a worker who is a Luxembourg national or a national of the European Union … employed or pursuing an activity in the Grand Duchy of Luxembourg at the time when the student’s application for financial aid for higher education studies is made, provided that the worker is continuing to contribute to the maintenance of the student and the worker has been employed or has pursued an activity in the Grand Duchy of Luxembourg for at least five years at the time of the student’s application for financial aid for higher education studies, in the course of a reference period of seven years counting back from the date of the application for financial aid for higher education or, by way of derogation, the person retaining worker status met the aforementioned criterion of five years out of seven when he or she finished work.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Mr Aubriet junior, a French national born in 1995, lives in France with his father, Mr Bruno Aubriet (‘Mr Aubriet senior’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">At the beginning of the 2014-2015 university year, Mr Aubriet junior enrolled, at a secondary school in Strasbourg, for a course leading to a brevet de technicien supérieur (BTS; higher education diploma).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">On 29 September 2014, Mr Aubriet junior applied to the financial aid department of the ministère de l’Enseignement supérieur et de la Recherche luxembourgeois (Ministry of for Higher Education and Research, Luxembourg) for the grant, for the academic year 2014/2015, of financial aid from the State for higher education studies, as provided for in the Law of 24 July 2014.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Mr Aubriet junior made that application in his capacity as the child of a person employed on the territory of the Grand Duchy of Luxembourg.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Mr Aubriet senior, a French resident, is a cross-border worker who has worked as an employed person in Luxembourg, with periods of interruption of varying lengths, since 1 October 1991. He was thus employed in Luxembourg for 10 years between 1 October 1991 and 30 September 2001. After being unemployed until 5 February 2002, Mr Aubriet senior again worked in Luxembourg for a period of six years, namely from 6 February 2002 to 14 January 2008. Between 15 January 2008 and 16 December 2012 he worked in France. After having started to work in Luxembourg again, on 17 December 2012, he became unemployed on 30 September 2014 as a result of redundancy.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">On 5 November 2014, the Luxembourg authorities rejected Mr Aubriet junior’s application for financial aid in order to pursue his higher education studies in Strasbourg, on the basis of Article 3(5)(b) of the Law of 24 July 2014, on the ground that Mr Aubriet senior had not worked in Luxembourg for at least five years in the course of a seven-year reference period calculated retroactively from 29 September 2014, the date on which the application for financial aid was submitted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">On 6 May 2015, Mr Aubriet junior lodged an action against that refusal before the Tribunal Administratif, Luxembourg (Administrative Court, Luxembourg). That action was suspended following the lodging of a reference for a preliminary ruling in the case which gave rise to the judgment of 14 December 2016, Bragança Linares Verruga and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑238/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:949</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">On 1 July 2016, Mr Aubriet junior was engaged by a Luxembourg employer with whom he had carried out his professional training during his studies. He continues to reside in France.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Mr Aubriet senior, for his part, found new employment in Luxembourg. He was affiliated to the Centre Commun luxembourgeois de la Sécurité Sociale (Luxembourg Joint Social Security Centre) from 14 September 2017 to 29 September 2017 and from 16 October 2017 to 15 October 2018.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances the Tribunal administratif (Administrative Court), decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="normal">‘Is the condition imposed on students not residing in the Grand Duchy of Luxembourg by Article 3(5)(b) of the Law of 24 July 2014, which does not take into account any other connecting factor, that is to say, the condition that they must be the children of workers who have been employed or have carried out their activity in Luxembourg for a period of at least five years in the course of a reference period of seven years at the time at which the application for financial aid is made, necessary in order to attain the objective put forward by the Luxembourg legislature, namely that of bringing about an increase in the proportion of persons with a higher education degree?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary point, it must be noted that even if, in formal terms, by its question, the referring court is not asking the Court of Justice about the interpretation of a specific provision of EU law, but asks it only to take a position on the ‘necessary’ nature of a condition imposed by national legislation on students who are not resident in Luxembourg in order to receive financial aid from the State for higher education studies, a condition which must make it possible to achieve an objective pursued by that legislation, which relates to the principle of proportionality of EU law, that fact does not prevent the Court from providing the national court with all the elements of interpretation of EU law that may be of assistance in adjudicating on the case pending before it, whether or not that court has referred to them in the wording of its question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Indeed, as follows from settled case-law, it is for the Court to extract from all the information provided by the referring court, in particular from the grounds of the order for reference, the points of EU law which require interpretation in view of the subject matter of the dispute in the main proceedings (judgment of 8 May 2019, EN.SA., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A374&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑712/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A374&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:374</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A374&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point19" hreflang="en" target="CourtTab" type="application/xhtml+xml">19</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is clear from the order for reference that the question referred follows on from the judgments of 20 June 2013, Giersch and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑20/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:411</a>) and of 14 December 2016, Bragança Linares Verruga and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑238/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:949</a>), delivered following requests for a preliminary ruling from the same national court. Moreover, the referring court expressly refers, not in the wording of the question referred but in the actual text of the order for reference, to the rules on freedom of movement for workers and their family members within the European Union, in this case Article 7(2) of Regulation No 492/2011, read in conjunction with Article 45 TFEU. Finally, the referring court adequately states the reasons which prompted it to inquire about the interpretation those provisions of EU law and the relationship that it identifies between those provisions and the national legislation applicable to the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">The question must therefore be understood as asking, in essence, whether Article 45 TFEU and Article 7(2) of Regulation No 492/2011 must be interpreted as precluding legislation of a Member State which makes the grant of financial aid for higher education studies to non-resident students subject to the condition that, at the date of the application for financial aid, one of the parents of the student has been employed or carried on an activity in that Member State for a period of at least five years in the course of a reference period of seven years calculated retroactively from the date of that application for financial aid, excluding the taking into account of any other connecting factor, such a condition not being laid down as regards students residing in the territory of that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 7(2) of Regulation No 492/2011, a worker who is a national of a Member State is to enjoy, in the territory of another Member State, the same social and tax advantages as national workers. That provision equally benefits both migrant workers resident in a host Member State and frontier workers employed in that Member State while residing in another Member State (see, to that effect, judgments of 27 November 1997, Meints, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A564&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑57/96</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A564&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:1997:564</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A564&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point50" hreflang="en" target="CourtTab" type="application/xhtml+xml">50</a>; of 20 June 2013, Giersch and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑20/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:411</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="en" target="CourtTab" type="application/xhtml+xml">37</a>; and of 14 December 2016, Bragança Linares Verruga and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑238/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:949</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point39" hreflang="en" target="CourtTab" type="application/xhtml+xml">39</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">It is settled case-law that assistance granted for maintenance and education in order to pursue university studies evidenced by a professional qualification constitutes, for the migrant worker, a social advantage, within the meaning of Article 7(2) of Regulation No 492/2011, on which provision the child of the migrant worker may himself rely if, under national law, that assistance is granted directly to the student (judgments of 20 June 2013, Giersch and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑20/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:411</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="en" target="CourtTab" type="application/xhtml+xml">38</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point40" hreflang="en" target="CourtTab" type="application/xhtml+xml">40</a>, and of 14 December 2016, Bragança Linares Verruga and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑238/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:949</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point40" hreflang="en" target="CourtTab" type="application/xhtml+xml">40</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">The principle of equal treatment laid down in Article 45 TFEU and in Article 7 of Regulation No 492/2011 prohibits not only direct discrimination on grounds of nationality but also all indirect forms of discrimination which, by the application of other criteria of differentiation, lead in fact to the same result (see judgments of 13 April 2010, Bressol and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A181&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑73/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A181&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2010:181</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A181&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point40" hreflang="en" target="CourtTab" type="application/xhtml+xml">40</a>, and of 14 December 2016, Bragança Linares Verruga and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑238/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:949</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point41" hreflang="en" target="CourtTab" type="application/xhtml+xml">41</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">The national legislation at issue in the main proceedings makes the grant of financial aid for higher education studies conditional on residence by the student in the territory of Luxembourg or, in the case of students not residing in Luxembourg, on their being the children of workers who have been employed or have pursued a professional activity in Luxembourg for a continuous period of at least five years in the course of a reference period of seven years preceding the application for financial aid. Although it applies equally to Luxembourg nationals and to nationals of other Member States, such a condition of a minimum period of work is not laid down in respect of students who reside in the territory of Luxembourg.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Such a distinction based on residence, which is liable to operate mainly to the detriment of nationals of other Member States, as non-residents are in the majority of cases foreign nationals (see, to that effect, judgments of 14 June 2012, Commission v Netherlands, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A346&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑542/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A346&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:346</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A346&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="en" target="CourtTab" type="application/xhtml+xml">38</a>; of 20 June 2013, Giersch and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑20/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:411</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point44" hreflang="en" target="CourtTab" type="application/xhtml+xml">44</a>; and of 14 December 2016, Bragança Linares Verruga and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑238/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:949</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point43" hreflang="en" target="CourtTab" type="application/xhtml+xml">43</a>), constitutes indirect discrimination on grounds of nationality which can be accepted only if it is objectively justified.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">In order to be justified, it must be appropriate for securing the attainment of a legitimate objective and must not go beyond what is necessary to attain that objective.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">It is appropriate to note, in that regard, in the first place that, as the Luxembourg Government points out, the Law of 24 July 2014, as well as the amended Law of 22 June 2000, is intended significantly to increase in Luxembourg the proportion of residents with a higher education degree.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has already held that the objective of promoting higher education is an objective of general interest recognised at EU level and that action undertaken by a Member State in order to ensure that its resident population is highly educated pursues a legitimate objective which can justify indirect discrimination on grounds of nationality (judgments of 20 June 2013, Giersch and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑20/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:411</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point53" hreflang="en" target="CourtTab" type="application/xhtml+xml">53</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point56" hreflang="en" target="CourtTab" type="application/xhtml+xml">56</a>, and of 14 December 2016, Bragança Linares Verruga and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑238/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:949</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point46" hreflang="en" target="CourtTab" type="application/xhtml+xml">46</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the second place, whether a condition of a minimum period of employment of five years on the date of the application for a study grant such as that at issue in the main proceedings is appropriate to achieve such an objective, it should be recalled that, in accordance with settled case-law, the fact that migrant and frontier workers have participated in the labour market of a Member State creates, in principle, a sufficient link of integration with the society of that State, allowing them to benefit from the principle of equal treatment as compared with national workers, as regards social advantages (see, to that effect, judgments of 14 June 2012, Commission v Netherlands, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A346&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑542/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A346&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:346</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A346&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point65" hreflang="en" target="CourtTab" type="application/xhtml+xml">65</a>, and 20 June 2013, Giersch and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑20/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:411</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point63" hreflang="en" target="CourtTab" type="application/xhtml+xml">63</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">The link of integration arises, in particular, from the fact that migrant workers contribute to the financing of the social policies of the host Member State through the taxes and social contributions which they pay in that State by virtue of their employment there. They must, therefore, be able to benefit from them under the same conditions as national workers (see, to that effect, judgments of 14 June 2012, Commission v Netherlands, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A346&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑542/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A346&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:346</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A346&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point66" hreflang="en" target="CourtTab" type="application/xhtml+xml">66</a>, and 20 June 2013, Giersch and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑20/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:411</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point63" hreflang="en" target="CourtTab" type="application/xhtml+xml">63</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">However, the Court has already accepted that indirectly discriminatory national legislation restricting the grant to frontier workers of social advantages within the meaning of Article 7(2) of Regulation No 492/2011 where there is not a sufficient connection to the society in which they are pursuing their activities without residing there may be objectively justified (see judgments of 18 July 2007, Geven, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A438&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑213/05</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A438&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2007:438</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A438&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point26" hreflang="en" target="CourtTab" type="application/xhtml+xml">26</a>, and of 14 December 2016, Bragança Linares Verruga and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑238/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:949</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point51" hreflang="en" target="CourtTab" type="application/xhtml+xml">51</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in particular, the grant of State financial aid for higher education studies to the non-resident children of migrant and cross-border workers, the Court has stated that the fact that the parents of the student concerned have been employed, for a significant period, in the Member State providing the aid applied for might be appropriate for the purposes of showing the actual degree of attachment with the society or labour market of that State (judgments of 20 June 2013, Giersch and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑20/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:411</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A411&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point78" hreflang="en" target="CourtTab" type="application/xhtml+xml">78</a>, and of 14 December 2016, Bragança Linares Verruga and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑238/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:949</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point55" hreflang="en" target="CourtTab" type="application/xhtml+xml">55</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In paragraph 58 of the judgment of 14 December 2016, Bragança Linares Verruga and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑238/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:949</a>), the Court accepted, in that connection, that the condition of a minimum period of five years of employment in the Member State granting the aid on the part of the frontier worker parent, in order for the children of frontier workers to be able claim financial aid from the State for higher education studies, is such as to establish such a connection on the part of those workers to the society of that Member State and a reasonable probability that the student will return to that granting Member State after completing his studies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">If a condition relating to the minimum period of employment at the date of the application for financial aid, such as that at issue in the main proceedings, is thus appropriate for attaining the objective of promoting higher education and significantly increasing the proportion of the holders of a higher education degree resident in Luxembourg, it is necessary, in the third place, to examine whether the establishment in Article 3(5)(b) of the Law of 24 July 2014 of a seven-year reference period preceding the application for financial aid, for the calculation of the minimum duration of five years’ employment, does not go beyond what is necessary to attain the objective pursued.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be recalled that, in the case which gave rise to the judgment of 14 December 2016, Bragança Linares Verruga and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑238/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:949</a>), the legislation examined made the grant to non-resident students of financial aid for higher education studies subject to the condition that they have a parent who has been continuously employed in Luxembourg for a minimum period of five years at the date of the application for financial aid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has held that such legislation entailed a restriction going beyond what is necessary to achieve the legitimate objective of increasing the number of residents holding a higher education degree, in so far as it did not permit the competent authorities to grant that aid where the parents had, notwithstanding a few short breaks, worked in Luxembourg for a significant period, in the present case almost eight years, during the period preceding the application for financial aid, inasmuch as such breaks are not liable to sever the connection between the applicant for financial aid and the Grand Duchy of Luxembourg (judgment of 14 December 2016, Bragança Linares Verruga and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑238/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:949</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A949&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point69" hreflang="en" target="CourtTab" type="application/xhtml+xml">69</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, the Luxembourg Government submits that the introduction into Article 3(5)(b) of the Law of 24 July 2014 of a seven-year reference period for the calculation of the minimum period of employment of five years makes it possible, precisely, to take account of short breaks in the employment of the cross-border worker parents, since it covers situations in which the cross-border worker parent was not employed in Luxembourg for two years over a total period of seven years. However, the national legislature is entitled to take the view that, unlike minor breaks, longer breaks sever the connection of cross-border workers and their student children with Luxembourg and remove the interest of that Member State in granting aid to those students. In particular, an break in employment of almost five years, such as that admitted by Mr Aubriet senior, could legitimately be deemed to have such an effect.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, the Luxembourg Government is of the view that it is necessary, in order to make possible the processing of applications for financial aid by an authority responsible for a standardised mass procedure, to apply an objective and neutral criterion such as a minimum period of employment in a specific reference period, excluding consideration of any other connecting factor making it possible to prove that the cross-border worker has a sufficient connection with Luxembourg society.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Such a possibility would entail the taking into account, by the authorities responsible for processing applications for financial aid, of the particular circumstances of each case and the assessment on a case-by-case basis of the existence or otherwise of a subjective element, namely the ‘sufficient connection with Luxembourg society’ of cross-border workers employed in Luxembourg for less than five years in the course of a seven-year reference period. The principle of non-discrimination and the principle of proportionality cannot be interpreted as requiring such an assessment on a case-by-case basis by a public authority responsible for a standardised mass procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">It is necessary, however, to note that, in the case in the main proceedings, Mr Aubriet junior was denied any entitlement to financial aid from the State for higher education studies, even though his father had, on a long-term basis, in the years preceding his son’s application for financial aid, been employed in Luxembourg for a significant period of time, far greater than the minimum period of five years. Mr Aubriet senior was a taxpayer in the Grand Duchy of Luxembourg and made contributions to the social security scheme of that State for more than 17 years during the 23 years preceding his son’s application for financial aid for higher education studies, namely from 1991 to 2014.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">By contrast, Mr Aubriet senior does not satisfy the condition for a minimum period of employment in the course of the reference period laid down in the Law of 24 July 2014, since he had to interrupt his employment in Luxembourg between 15 January 2008 and 16 December 2012 and find a job in his State of residence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">As is apparent from the situation of Mr Aubriet senior, the taking into account only of the activity carried out in Luxembourg by the cross-border worker in the course of a reference period of seven years preceding the application for financial aid is not sufficient to make full assessment of the significance of that cross-border worker’s connections with the Luxembourg labour market, particularly where he has already been employed there for a significant period before the reference period.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, a rule such as that laid down by the national legislation at issue in the main proceedings, which makes the grant to non-resident students of financial aid for higher education studies subject to the requirement that a parent who has worked in Luxembourg for a minimum period of five years in the course of a reference period of seven years preceding the application for financial aid, entails a restriction which goes beyond what is necessary to achieve the legitimate objective of increasing the number of residents holding higher education degrees.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from all the foregoing considerations that the answer to the question referred is that Article 45 TFEU and Article 7(2) of Regulation No 492/2011 must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, which makes the grant of financial aid for higher education studies to non-resident students subject to the condition that, at the date of the application for financial aid, one of the parents of the student has been employed or carried on an activity in that Member State for a period of at least five years in the course of a reference period of seven years calculated retroactively from the date of that application for financial aid, in so far as it does not permit the existence of any connection with the labour market of that Member State to be understood in a sufficiently broad manner.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (First Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 45 TFEU and Article 7(2) of Regulation (EU) No 492/2011 of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, which makes the grant of financial aid for higher education studies to non-resident students subject to the condition that, at the date of the application for financial aid, one of the parents of the student has been employed or carried on an activity in that Member State for a period of at least five years in the course of a reference period of seven years calculated retroactively from the date of that application for financial aid, in so far as it does not permit the existence of any connection with the labour market of that Member State to be understood in a sufficiently broad manner.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0410_EN_01-E0001" id="t-ECR_62018CJ0410_EN_01-E0001">*1</a>
+</span>)	Language of the case: French.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

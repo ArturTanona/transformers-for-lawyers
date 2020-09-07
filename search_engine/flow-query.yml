@@ -1,0 +1,26 @@
+!Flow
+with:
+  read_only: true
+  port_expose: $JINA_PORT
+pods:
+  sentencizer:
+    uses: yaml/query-craft.yml
+    parallel: $PARALLEL
+    read_only: true
+  encoder:
+    uses: yaml/encode.yml
+    parallel: $PARALLEL
+    timeout_ready: 100000
+    read_only: true
+  chunk_indexer:
+    uses: yaml/index-chunk.yml
+    shards: $SHARDS
+    separated_workspace: true
+    polling: all
+    uses_reducing: _merge_all
+    read_only: true
+  ranker:
+    uses: BiMatchRanker
+    timeout_ready: 200000
+  doc_indexer:
+    uses: yaml/index-doc.yml

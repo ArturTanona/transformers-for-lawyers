@@ -1,0 +1,506 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Seventh Chamber)</p>
+<p class="sum-title-1">11 March 2020 (<span class="note">
+<a href="#t-ECR_62019CJ0094_EN_01-E0001" id="c-ECR_62019CJ0094_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Taxation — Value added tax (VAT) — Sixth Council Directive 77/388/EEC — Articles 2 and 6 — Scope — Taxable transactions — Services supplied for consideration — Secondment of staff by a parent company to its subsidiary — Reimbursement by the subsidiary limited to the costs incurred)</p>
+<p class="normal">In Case C‑94/19,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Corte suprema di cassazione (Court of Cassation, Italy), made by decision of 27 November 2018, received at the Court on 6 February 2019, in the proceedings</p>
+<p class="normal">
+<span class="bold">San Domenico Vetraria SpA</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Agenzia delle Entrate,</span>
+</p>
+<p class="normal">supported by:</p>
+<p class="normal">
+<span class="bold">Ministero dell’Economia e delle Finanze,</span>
+</p>
+<p class="normal">THE COURT (Seventh Chamber),</p>
+<p class="normal">composed of P.G. Xuereb, President of the Chamber, T. von Danwitz and A. Kumin (Rapporteur), Judges,</p>
+<p class="normal">Advocate General: M. Szpunar,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by J. Jokubauskaitė and S. Mortoni, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Articles 2 and 6 of Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1977:145:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1977 L 145, p. 1</a>; ‘the Sixth Directive’) and the principle of the neutrality of value added tax (VAT).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between San Domenico Vetraria SpA and the Agenzia delle Entrate (Revenue Authority, Italy) concerning deductions made by San Domenico Vetraria, in respect of the 2005 tax year, from VAT paid on sums repaid to its parent company, Avir SpA, for the secondment of a director.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 2 of the Sixth Directive provides:</p>
+<p class="normal">‘The following shall be subject to [VAT]:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">the supply of goods or services effected for consideration within the territory of the country by a taxable person acting as such;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">The first subparagraph of Article 6(1) of that directive states:</p>
+<p class="normal">‘“Supply of services” shall mean any transaction which does not constitute a supply of goods within the meaning of Article 5.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Italian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 30 of decreto legislativo n. 276 — Attuazione delle deleghe in materia di occupazione e mercato del lavoro, di cui alla legge 14 febbraio 2003, n. 30 (Legislative Decree No 276 implementing delegations in the field of employment and labour markets established by Law No 30 of 14 February 2003) of 10 September 2003 (<span class="italic">Ordinary Supplement</span> to GURI No 235 of 9 October 2003):</p>
+<p class="normal">‘1.   The temporary placing, by an employer, of one of more employees at the disposal of another person, for the purpose of carrying out a specific occupational activity in the employer’s own interests, constitutes secondment.</p>
+<p class="normal">2.   In the event of secondment, the employer shall remain legally and financially liable for the worker.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 8(35) of legge n. 67 — Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1988) (Law No 67 laying down provisions for drawing up the annual and pluriannual budget of the State (Finance Law 1988)) of 11 March 1988 (<span class="italic">Ordinary Supplement</span> to GURI No 61 of 14 March 1988) (‘Law No 67/88’) provides:</p>
+<p class="normal">‘The lending or secondment of staff in respect of whom only the related cost is reimbursed shall not be regarded as relevant for the purposes of [VAT].’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">In 2004, Avir seconded one of its directors to its subsidiary, San Domenico Vetraria, to hold the position of director of one of San Domenico Vetraria’s establishments. In that context, San Domenico Vetraria received invoices from its parent company showing amounts corresponding to the costs incurred for the seconded manager. When reimbursing Avir for the costs relating to the secondment, San Domenico Vetraria applied VAT for the purposes of the subsequent exercise of the right to deduct.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">The tax authorities took the view that those reimbursements fell outside the scope of VAT since they did not concern supplies of services between a subsidiary and its parent company, with the result that it made an adjustment in order to recover the VAT deducted in that regard.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">The action brought by San Domenico Vetraria against the tax adjustment was dismissed by the courts at first instance and on appeal. In particular, the appeal court held that the amounts paid by that company amounted, in the absence of evidence that the seconded employee had received increased amounts or had carried out functions different from those already carried out with his company of origin, only to reimbursements of costs, within the meaning of Article 8(35) of Law No 67/88.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">The Corte suprema di cassazione (Supreme Court of Cassation, Italy), hearing an appeal on a point of law brought by San Domenico Vetraria, is of the view that whether the secondment of staff in return for reimbursement of costs relating thereto may be regarded as taxable is of decisive importance for the resolution of the dispute in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, that court states that, in accordance with Article 8(35) of Law No 67/88, where the sum reimbursed corresponds to the amount of costs incurred for the seconded staff, the secondment is not taxable, since it is irrelevant for VAT purposes. However, doubts remain as to the exclusion from the scope of VAT of a service such the secondment of staff, in return for reimbursement of the cost of the related services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">According to that court, the economic nature of a secondment such as that at issue in the main proceedings seems to flow from the necessary existence, on the basis of Article 30 of the legislative decree referred to in paragraph 5 of the present judgment, of a specific interest on the part of the employer making the secondment, that is to say to ensure the best functionality of the organisation common to the parent company and the subsidiary. Moreover, the existence of that interest is not disputed in the present case.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, the fact that such a secondment gives rise to a supply of services carried out for consideration could be apparent from the amount, not insignificant in the present case, paid by the company receiving the secondment, equal to the amount of the costs and expenses to be borne in respect of the workers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, the Corte suprema di cassazione (Supreme Court of Cassation) is of the view that the national rule appears to give rise to unjustified unequal treatment, which may affect the principle of fiscal neutrality, between the secondment of staff and the making available of labour, since the latter always constitutes a taxable supply.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Corte suprema di cassazione (Supreme Court of Cassation) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="normal">‘Must Articles 2 and 6 of [the Sixth Directive] and the principal of fiscal neutrality be interpreted as precluding national legislation under which the lending or secondment of staff by a parent company in respect of which the subsidiary merely reimburses the related costs is regarded as irrelevant for [VAT] purposes?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">To answer that question, it must be borne in mind that, under of Article 2, point 1, of the Sixth Directive, supplies of goods or services effected for consideration within the territory of the country by a taxable person acting as such are subject to VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, under the first subparagraph of Article 6(1) of the Sixth Directive, a supply of services means ‘any transaction which does not constitute a supply of goods’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it is apparent from the information provided by the referring court that it is not disputed that Avir is a taxable person and that the supply of services at issue in the main proceedings, namely the secondment of a director of Avir to its subsidiary, San Domenico Vetraria, was made within the country concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">It therefore remains to be determined whether that supply of services was effected ‘for consideration’ within the meaning of Article 2, point 1, of the Sixth Directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is settled case-law that, within the framework of the VAT system, taxable transactions presuppose the existence of a transaction between the parties in which a price or consideration is stipulated. Thus, where a person’s activity consists exclusively in providing services for no direct consideration, there is no basis of assessment and the services are therefore not subject to VAT (judgment of 22 June 2016, Český rozhlas, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A470&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑11/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A470&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:470</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A470&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point20" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">20</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">It follows therefrom that a supply of services is effected ‘for consideration’ within the meaning of Article 2, point 1, of the Sixth Directive, and hence is taxable, only if there is a legal relationship between the provider of the service and the recipient pursuant to which there is reciprocal performance, the remuneration received by the provider of the service constituting the value actually given in return for the service supplied to the recipient. That is the case if there is a direct link between the service supplied and the consideration received (see, to that effect, judgments of 22 June 2016, Český rozhlas, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A470&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑11/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A470&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:470</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A470&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point21" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">21</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A470&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point22" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">22</a> and the case-law cited; of 22 November 2018, MEO — Serviços de Comunicações e Multimédia, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑295/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:942</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>; and of 3 July 2019, UniCredit Leasing, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A558&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑242/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A558&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:558</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A558&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point69" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">69</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it appears from the documents before the Court that the secondment was carried out on the basis of a legal relationship of a contractual nature between Avir and San Domenico Vetraria.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, it appears that, in the context of that legal relationship, there was reciprocal performance, namely the secondment of a director from Avir to San Domenico Vetraria, on the one hand, and the payment by San Domenico Vetraria to Avir of the amounts invoiced to it, on the other.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">The Commission disputes, however, the existence of a direct link between those two services, arguing that, in the absence of a requirement for remuneration higher than the costs borne by Avir, the secondment at issue in the main proceedings did not take place with the aim of receiving consideration.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">That argument cannot be accepted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the case-law of the Court that there is a direct link where two services are mutually dependent on each other (see, to that effect, judgments of 3 March 1994, Tolsma, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1994%3A80&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑16/93</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1994%3A80&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1994:80</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1994%3A80&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point13" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">13</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1994%3A80&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point20" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">20</a>, and of 16 October 1997, Fillibeck, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A491&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑258/95</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A491&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1997:491</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A491&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point15" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">15</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A491&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point17" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">17</a>), that is to say, that one is made only on condition that the other is also made, and vice versa (see, to that effect, judgments of 23 November 1988, Naturally Yours Cosmetics, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1988%3A508&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">230/87</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1988%3A508&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1988:508</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1988%3A508&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point14" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">14</a>, and of 2 June 1994, Empire Stores, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1994%3A225&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑33/93</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1994%3A225&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1994:225</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1994%3A225&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point16" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">16</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, if it were to be established, which it is for the referring court to ascertain, that the payment, by San Domenico Vetraria, of the amounts invoiced to it by its parent company was a condition for the latter to second the director and that the subsidiary paid those amounts only in return for the secondment, it would have to be held that there is a direct link between the two services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the transaction should be regarded as having been carried out for consideration and, since the other conditions set out in Article 2, point 1, of the Sixth Directive are also satisfied, subject to VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">The amount of the consideration, in particular the fact that it is equal to, greater or less than, the costs which the taxable person incurred in providing his service, is irrelevant in that regard (see, to that effect, judgments of 20 January 2005, Hotel Scandic Gåsabäck, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A47&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑412/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A47&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:47</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A47&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point22" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">22</a>, and of 2 June 2016, Lajvér, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A392&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑263/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A392&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:392</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A392&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point45" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a> and the case-law cited). That fact is not such as to affect the direct link between the services supplied and the consideration received (judgment of 2 June 2016, Lajvér, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A392&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑263/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A392&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:392</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A392&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point46" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of all the foregoing considerations, the answer to the question referred is that Article 2, point 1, of the Sixth Directive must be interpreted as precluding national legislation under which the lending or secondment of staff of a parent company to its subsidiary, carried out in return for only the reimbursement of the related costs, is irrelevant for the purposes of VAT, provided that the amounts paid by the subsidiary to the parent company, on the one hand, and that lending or secondment, on the other, are interdependent.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Seventh Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 2, point 1, of Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment must be interpreted as precluding national legislation under which the lending or secondment of staff of a parent company to its subsidiary, carried out in return for only the reimbursement of the related costs, is irrelevant for the purposes of VAT, provided that the amounts paid by the subsidiary to the parent company, on the one hand, and that lending or secondment, on the other, are interdependent.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62019CJ0094_EN_01-E0001" id="t-ECR_62019CJ0094_EN_01-E0001">*1</a>
+</span>)	Language of the case: Italian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

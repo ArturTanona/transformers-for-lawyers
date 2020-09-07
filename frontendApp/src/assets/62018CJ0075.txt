@@ -1,0 +1,1108 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Grand Chamber)</p>
+<p class="sum-title-1">3 March 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0075_EN_01-E0001" id="c-ECR_62018CJ0075_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Freedom of establishment — Tax on the turnover of telecommunications operators — Progressive tax having a greater impact on undertakings owned by natural or legal persons of other Member States than on national undertakings — Progressive tax bands applicable to all taxable persons — Neutrality of the amount of turnover as a criterion of differentiation — Ability to pay of taxable persons — State aid — Common system of value added tax (VAT) — Turnover taxes — Meaning</p>
+<p class="normal">In Case C‑75/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Fővárosi Közigazgatási és Munkaügyi Bíróság (Administrative and Labour Court, Budapest, Hungary), made by decision of 23 November 2017, received at the Court on 6 February 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Vodafone Magyarország Mobil Távközlési Zrt.</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága,</span>
+</p>
+<p class="normal">THE COURT (Grand Chamber),</p>
+<p class="normal">composed of K. Lenaerts, President, R. Silva de Lapuerta, Vice-President, J.‑C. Bonichot (Rapporteur), A. Prechal and M. Vilaras, Presidents of Chambers, E. Juhász, M. Ilešič, J. Malenovský, P.G. Xuereb, N. Piçarra and L.S. Rossi, Judges,</p>
+<p class="normal">Advocate General: J. Kokott,</p>
+<p class="normal">Registrar: R. Şereş, administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 18 March 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Vodafone Magyarország Mobil Távközlési Zrt., by P. Jalsovszky, Sz. Vámosi‑Nagy and G. Séra, ügyvédek, and by K. von Brocke, Rechtsanwalt,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Hungarian Government, by M.Z. Fehér, G. Koós and D.R. Gesztelyi, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Czech Government, by M. Smolek, J. Vláčil and O. Serdula, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the German Government, by R. Kanitz, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Polish Government, by B. Majczyna and M. Rzotkiewicz, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by V. Bottka, W. Roels, P.‑J. Loewenthal, R. Lyal and A. Armenia, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 13 June 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Articles 49, 54, 107 and 108 TFEU and of Article 401 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 347, p. 1</a>; ‘the VAT Directive’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Vodafone Magyarország Mobil Távközlési Zrt. (‘Vodafone’), an undertaking active in the telecommunications sector, and the Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága (Resources Directorate of the National Tax and Customs Administration, Hungary; ‘the Resources Directorate’) concerning the payment of a tax on turnover in that sector (‘the special tax’).</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 401 of the VAT Directive provides:</p>
+<p class="normal">‘Without prejudice to other provisions of Community law, this Directive shall not prevent a Member State from maintaining or introducing taxes on insurance contracts, taxes on betting and gambling, excise duties, stamp duties or, more generally, any taxes, duties or charges which cannot be characterised as turnover taxes, provided that the collecting of those taxes, duties or charges does not give rise, in trade between Member States, to formalities connected with the crossing of frontiers.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Hungarian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">The preamble of the egyes ágazatokat terhelő különadóról szóló 2010. évi XCIV. törvény (Law No XCIV of 2010 on the special tax on certain sectors; ‘the law on the special tax on certain sectors’) states:</p>
+<p class="normal">‘In the context of the correction of budgetary balance, the Parliament enacts this law on the establishment of a special tax imposed on taxpayers whose ability to contribute to the costs of public expenditure exceeds the general obligation to pay tax.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 1 of the law on the special tax on certain sectors provides:</p>
+<p class="normal">‘For the purposes of the present law, the following definitions shall apply:</p>
+<p class="normal">…</p>
+<p class="normal">2.   telecommunications activities; the provision of electronic communication services within the meaning of Az elektronikus hírközlésről szóló 2003. évi C. törvény (Law No C of 2003 on electronic communications),</p>
+<p class="normal">…</p>
+<p class="normal">5.   net turnover: in the case of a taxable person subject to the law on accounting, the net turnover from sales within the meaning of the law on accounting; in the case of a taxable person subject to the simplified corporation tax and not covered by the law on accounting, turnover exclusive of value added tax in accordance with the law on the tax regime; in the case of a taxable person subject to the law on personal income tax, income exclusive of value added tax in accordance with the law on personal income tax.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 2 of the law on the special tax on certain sectors provides:</p>
+<p class="normal">‘Tax shall be chargeable on:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">telecommunications activities,</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 3 of that law defines taxable persons as follows:</p>
+<p class="normal">‘(1)   Taxable persons are legal persons, other organisations within the meaning of the general tax code and self-employed persons who pursue an activity subject to tax within the meaning of Paragraph 2.</p>
+<p class="normal">(2)   Non-resident organisations and individuals shall also be subject to the tax with respect to the activities subject to the tax referred to in Paragraph 2, where they pursue those activities in the internal market through subsidiaries.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 4(1) of that law states:</p>
+<p class="normal">‘the taxable amount is the net turnover of the taxable person resulting from the activities referred to in Paragraph 2.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 5 of that law provides:</p>
+<p class="normal">‘The applicable tax rate:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">on the performance of an activity referred to in Paragraph 2(b) shall be set at 0% on the proportion of the taxable amount not exceeding 500 million [Hungarian forint (HUF)], 4.5% on the proportion of the taxable amount in excess of HUF 500 million but not exceeding HUF 5 billion, and 6.5% on the proportion of the taxable amount in excess of HUF 5 billion …</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Vodafone is a public limited company governed by Hungarian law, active in the telecommunications market, whose sole shareholder is Vodafone Europe BV, established in the Netherlands. That Hungarian subsidiary is part of Vodafone Group plc, whose registered office is in the United Kingdom. That subsidiary is, with a more than 20% market share, the third largest undertaking on the Hungarian telecommunications market.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Vodafone was the subject of a tax inspection carried out by the Nemzeti Adó- és Vámhivatal Kiemelt Adó- és Vámigazgatóság (National Tax and Customs Administration, Hungary; ‘the first-tier tax authority’) concerning all the taxes paid and budget subsidies received in the period from 1 April 2011 until 31 March 2015.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Following that inspection, the first-tier tax authority required Vodafone to pay a sum of HUF 8371000 (approximately EUR 25155), by reason of a tax discrepancy, including HUF 7417000 (approximately EUR 22293) in arrears, and a sum of HUF 3708000 (approximately EUR 11 145.39) as a tax penalty, together with late-payment interest and fines for default.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">The Resources Directorate, before which a complaint was brought against the decision of the first-tier tax authority, varied that decision by reducing the amount of the tax penalty and late-payment interest.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Vodafone brought an action before the Fővárosi Közigazgatási és Munkaügyi Bíróság (Administrative and Labour Court, Budapest, Hungary) against the decision of the Resources Directorate. Vodafone submits that the obligation to pay the special tax imposed on it has no legal basis, arguing that the legislation relating to that tax constitutes prohibited State aid and is contrary to Article 401 of the VAT Directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court considers that the effect of that tax, which is based on turnover and is calculated in accordance with a scale that comprises progressive rates applicable to various tax bands, may be indirectly discriminatory vis-à-vis taxable persons owned by foreign natural persons or legal persons and, therefore, be contrary to Articles 49, 54, 107 and 108 TFEU particularly since, in practice, only the Hungarian subsidiaries of foreign parent companies pay the special tax at the rate laid down for the highest band of turnover.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Further, the referring court has doubts as to the compatibility of the special tax with Article 401 of the VAT Directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Fővárosi Közigazgatási és Munkaügyi Bíróság (Administrative and Labour Court, Budapest) decided to stay proceedings and refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Must the provisions of Articles 49, 54, 107 and 108 TFEU be interpreted as precluding a national measure pursuant to which a Member State’s legislation ([Law on the special tax on certain sectors]) has the effect that the actual tax burden falls on foreign-owned taxable persons? Is that effect indirectly discriminatory?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Do Articles 107 and 108 TFEU preclude a Member State’s legislation imposing a tax liability on turnover calculated on the basis of a progressive tax rate? If the effect of that legislation is that the actual tax burden, for the highest tax band, falls mainly on foreign-owned taxable persons, is that legislation indirectly discriminatory? Does that measure amount to prohibited State aid?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">Must Article 401 of the VAT Directive be interpreted as precluding legislation of a Member State that gives rise to discrimination between foreign-owned taxable persons and national taxable persons? Must the special tax be considered a tax on turnover? In other words, is this tax compatible or not with the VAT Directive?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The admissibility of the second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">The Hungarian Government and the Commission argue that those liable to pay a tax cannot rely on the argument that the exemption enjoyed by other persons constitutes unlawful State aid in order to avoid payment of that tax, and consequently that the second question is inadmissible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must at the outset be recalled that Article 108(3) TFEU establishes a prior control of plans to grant new aid. The aim of that system of prior control is therefore that only compatible aid may be implemented. In order to achieve that aim, the implementation of planned aid is to be deferred until doubt as to its compatibility is resolved by the Commission’s final decision (judgments of 21 November 2013, Deutsche Lufthansa, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑284/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:755</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>, and of 5 March 2019, Eesti Pagar, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑349/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:172</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point84" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">84</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">The implementation of that system of control is a task for both the Commission and the national courts, their respective roles being complementary but separate (judgment of 21 November 2013, Deutsche Lufthansa, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑284/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:755</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Whilst an assessment of the compatibility of aid measures with the internal market falls within the exclusive competence of the Commission, subject to review by the Courts of the European Union, it is for the national courts to ensure the safeguarding, until the final decision of the Commission, of the rights of individuals faced with a possible breach by State authorities of the prohibition laid down by Article 108(3) TFEU (judgment of 21 November 2013, Deutsche Lufthansa, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑284/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:755</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">The involvement of national courts is the result of the fact that the prohibition on implementation of planned aid laid down in that provision has been held to have direct effect. The immediate enforceability of that prohibition extends to all aid which has been implemented without being notified (judgments of 21 November 2013, Deutsche Lufthansa, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑284/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:755</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>, and of 5 March 2019, Eesti Pagar, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑349/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:172</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point88" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">88</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">National courts must offer to individuals the certainty that all appropriate action will be taken, in accordance with their national law, to address the consequences of an infringement of the last sentence of Article 108(3) TFEU, as regards both the validity of measures giving effect to the aid and the recovery of financial support granted in disregard of that provision and possible interim measures (judgments of 21 November 2013, Deutsche Lufthansa, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑284/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:755</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A755&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point30" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a>, and of 5 March 2019, Eesti Pagar, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑349/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:172</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point89" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">89</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has, however, also held that if, having regard to the rules of EU law in relation to State aid, an exemption from a tax is unlawful, that is not capable of affecting the lawfulness of the actual charging of that tax, so that a person liable to pay that tax cannot rely on the argument that the exemption enjoyed by other persons constitutes State aid in order to avoid payment of that tax (see, to that effect, judgments of 27 October 2005, Distribution Casino France and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A657&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑266/04 to C‑270/04, C‑276/04 and C‑321/04 to C‑325/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A657&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:657</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A657&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point44" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>; of 15 June 2006, Air Liquide Industries Belgium, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A403&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑393/04 and C‑41/05</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A403&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:403</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A403&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point43" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">43</a>; and of 26 April 2018, ANGED, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑233/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:280</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">The position is however different where the dispute in the main proceedings concerns not an application to be exempted from the contested tax, but the legality of the rules relating to that tax as a matter of EU law (judgment of 26 April 2018, ANGED, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑233/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:280</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Further, the Court has consistently held that taxes do not fall within the scope of the provisions of the FEU Treaty concerning State aid, unless they constitute the means of financing an aid measure, so that they form an integral part of that measure. Where the method of financing aid by means of a tax forms an integral part of the aid measure, the consequences of a failure by national authorities to comply with the last sentence of Article 108(3) TFEU must also apply to that aspect of the aid, so that the national authorities are required, in principle, to repay taxes levied in breach of EU law (judgment of 20 September 2018, Carrefour Hypermarchés and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A751&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑510/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A751&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:751</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A751&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point14" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">14</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be recalled that, for a tax to be regarded as forming an integral part of an aid measure, it must be hypothecated to the aid measure under the relevant national rules, in the sense that the revenue from the tax is necessarily allocated for the financing of the aid and has a direct impact on the amount of that aid (judgments of 15 June 2006, Air Liquide Industries Belgium, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A403&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑393/04 and C‑41/05</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A403&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:403</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A403&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point46" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a>, and of 7 September 2006, Laboratoires Boiron, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A528&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑526/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A528&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:528</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A528&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point44" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, if a tax is not hypothecated to an aid measure, the possible unlawfulness of the aid measure contested under EU law is not capable of affecting the lawfulness of the tax itself, and consequently the undertakings who are liable to pay that tax cannot rely on the argument that the tax measure for which other persons qualify constitutes State aid in order to avoid payment of that tax or to obtain a repayment of tax paid (see, to that effect, judgments of 5 October 2006, Transalpine Ölleitung in Österreich, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A644&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑368/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A644&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:644</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A644&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point51" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">51</a>, and of 26 April 2018, ANGED, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑233/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:280</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">In this case, the dispute in the main proceedings concerns an application for exemption from the special tax submitted by Vodafone to the Hungarian tax authorities. As stated, in essence, by the Advocate General in point 138 of her Opinion, the tax burden borne by Vodafone is the result of a general tax the revenue from which is transferred to the State budget, that tax not being specifically allocated to the funding of a tax advantage for which a particular category of taxable persons qualify.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that, even if the de facto exemption from the special tax for which some taxable persons qualify may be classified as State aid, within the meaning of Article 107(1) TFEU, that tax is not hypothecated to the exemption measure at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that any illegality under EU law of the de facto exemption from the special tax for which some taxable persons qualify is not capable of affecting the legality of that tax itself, so that Vodafone cannot rely, before the national courts, on the unlawfulness of that exemption in order to avoid payment of that tax or to obtain repayment of tax paid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from all the foregoing that the second question is inadmissible.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first question</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Admissibility</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">The Hungarian Government submits that an answer to the first question is not necessary in order to resolve the dispute in the main proceedings since the Court has already given a ruling, in its judgment of 5 February 2014, Hervis Sport- és Divatkereskedelmi (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑385/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:47</a>), on the compatibility of the law on the special tax on certain sectors with Articles 49 and 54 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be recalled that, even when there is case-law of the Court resolving the point of law at issue, national courts remain entirely at liberty to bring a matter before the Court if they consider it appropriate to do so, and the fact that the provisions whose interpretation is sought have already been interpreted by the Court does not deprive the Court of jurisdiction to give a further ruling (judgment of 6 November 2018, Bauer and Willmeroth, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A871&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑569/16 and C‑570/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A871&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:871</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A871&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point21" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">21</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the fact that the Court, in the judgment of 5 February 2014, Hervis Sport- és Divatkereskedelmi (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑385/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:47</a>), has already interpreted EU law with regard to the same national legislation as that at issue in the main proceedings cannot in itself lead to the inadmissibility of the questions referred in the present case.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, the referring court states that, in the judgment of 5 February 2014, Hervis Sport- és Divatkereskedelmi (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑385/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:47</a>), the Court examined, in relation to the special tax on retail trade, the effect produced by the rule on the consolidation of turnover achieved by linked undertakings, for the purposes of the law on the special tax on certain sectors. That court adds that that tax is, in essence, equivalent to the special tax at issue in the present case. However, the referring court considers that it is necessary, in order to resolve the dispute in the main proceedings, to determine whether the progressive scale, using bands, of the special tax may constitute, in itself, irrespective of the application of that consolidation rule, indirect discrimination vis-à-vis taxable persons that are controlled by natural persons or legal persons of other Member States, who bear the actual tax burden, and, therefore, be contrary to Articles 49 and 54 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the first question is admissible in so far as it concerns the interpretation of Articles 49 and 54 TFEU. However, for the reasons stated in paragraphs 19 to 32 of the present judgment, the first question is inadmissible in so far as it relates to the interpretation of Articles 107 and 108 TFEU.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Substance</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">By its first question, the referring court seeks, in essence, to ascertain whether Articles 49 and 54 TFEU must be interpreted as precluding the legislation of a Member State in relation to a turnover tax where the consequence of the fact that that tax is steeply progressive is that undertakings controlled directly or indirectly by nationals of other Member States or by companies having their registered office in another Member State mainly bear the actual burden of that tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">According to settled case-law, freedom of establishment aims to guarantee the benefit of national treatment in the host Member State to nationals of other Member States and to companies referred to in Article 54 TFEU by prohibiting any discrimination based on the place in which companies have their seat (judgment of 26 April 2018, ANGED, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A291&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑236/16 and C‑237/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A291&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:291</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A291&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point16" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">16</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">In order to be effective, the scope of freedom of establishment must mean that a company may rely on a restriction on the freedom of establishment of another company which is linked to it in so far as that restriction affects its own taxation (see, to that effect, judgment of 1 April 2014, Felixstowe Dock and Railway Company and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A200&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑80/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A200&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:200</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A200&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">In this case, Vodafone has its registered office in Hungary but is 100% owned by Vodafone Europe, which has its registered office in the Netherlands. As observed by the Advocate General in point 43 of her Opinion, in so far as that parent company pursues its activity on the Hungarian market through a subsidiary, its freedom of establishment may be affected by any restriction which applies to the subsidiary. Accordingly, contrary to what is submitted by the Hungarian Government, a restriction on the freedom of establishment of that parent company may legitimately be relied on in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Not only overt discrimination based on the location of the seat of companies, but also all covert forms of discrimination which, by the application of other criteria of differentiation, lead in fact to the same result are, in that regard, prohibited (judgments of 5 February 2014, Hervis Sport- és Divatkereskedelmi, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑385/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:47</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point30" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a>, and of 26 April 2018, ANGED, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A291&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑236/16 and C‑237/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A291&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:291</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A291&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point17" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">17</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, a compulsory levy which provides for a criterion of differentiation that is apparently objective but that disadvantages in most cases, given its features, companies that have their seat in other Member States and which are in a situation comparable to that of companies whose seat is situated in the Member State of taxation, constitutes indirect discrimination based on the location of the seat of the companies, which is prohibited under Articles 49 and 54 TFEU (judgment of 26 April 2018, ANGED, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A291&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑236/16 and C‑237/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A291&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:291</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A291&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point18" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">18</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">In this case, the law on the special tax on certain sectors makes no distinction between undertakings according to where they have their registered office. All the undertakings operating in Hungary in the telecommunications sector are subject to that tax, and the tax rates that are, respectively, applicable to the various bands of turnover defined by that law apply to all those undertakings. That law does not, therefore, establish any direct discrimination.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">However, Vodafone and the Commission maintain that the fact that the special tax is progressive is, in itself, to the advantage of taxable persons owned by Hungarian natural persons or legal persons and to the disadvantage of taxable persons owned by natural persons or legal persons of other Member States, with the result that the special tax constitutes, taking into consideration its characteristics, indirect discrimination.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">As was stated in paragraph 9 of the present judgment, the special tax, which is a progressive tax based on turnover, comprises a basic band of tax charged at 0% for the proportion of the taxable amount that does not exceed HUF 500 million (approximately EUR 1.5 million, currently), an intermediate band of tax charged at 4.5% for the proportion of the taxable amount between HUF 500 million and HUF 5 billion (approximately between EUR 1.5 million and EUR 15 million, currently), and a higher band of tax charged at 6.5% for the proportion of the taxable amount that exceeds HUF 5 billion (approximately EUR 15 million, currently).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">It is clear from the Hungarian authorities’ data in relation to the tax years at issue in this case, as disclosed by the Commission and Hungary, that, in the period at issue in the main proceedings, with respect to telecommunications, the taxable persons that fell only within the base band were all taxable persons owned by Hungarian natural persons or legal persons, that of those falling within the intermediate band one half were taxable persons owned by Hungarian natural persons or legal persons and one half were taxable persons owned by natural persons or legal persons of other Member States, and that those falling within the higher band were predominantly taxable persons owned by natural persons or legal persons of other Member States.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Further, it is clear from the observations of the Hungarian Government that, during that period, the greater part of the special tax was borne by taxable persons owned by natural persons or legal persons of other Member States. According to Vodafone and the Commission, the tax burden borne by the latter was thus proportionately greater than that borne by taxable persons owned by Hungarian natural persons or legal persons as a ratio of their taxable turnover, the latter being in fact exempted from the special tax or being subject to it only at a marginal rate and at an effective rate that were substantially lower than taxable persons with a higher turnover.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">However, it must be recalled that the Member States are free, given the current state of harmonisation of EU tax law, to establish the system of taxation that they deem the most appropriate, and consequently the application of progressive taxation falls within the discretion of each Member State (see, to that effect, judgments of 22 June 1976, Bobie Getränkevertrieb, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1976%3A95&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">127/75</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1976%3A95&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1976:95</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1976%3A95&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point9" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">9</a>, and of 6 December 2007, Columbus Container Services, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A754&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑298/05</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A754&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2007:754</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A754&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point51" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">51</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A754&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point53" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">53</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">In that context, and contrary to what is maintained by the Commission, progressive taxation may be based on turnover, since, on the one hand, the amount of turnover constitutes a criterion of differentiation that is neutral and, on the other, turnover constitutes a relevant indicator of a taxable person’s ability to pay.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">In this case, it is apparent from the material available to the Court, in particular from the passage in the preamble of the law on the special tax on certain sectors quoted in paragraph 4 of the present judgment, that, by means of the application of a progressive scale based on turnover, the aim of that law is to impose a tax on taxable persons who have an ability to pay ‘that exceeds the general obligation to pay tax’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">The fact that the greater part of such a special tax is borne by taxable persons owned by natural persons or legal persons of other Member States cannot be such as to merit, by itself, categorisation as discrimination. As stated by the Advocate General, in particular, in points 66, 69 and 82 of her Opinion, that situation is due to the fact that the Hungarian telecommunications market is dominated by such taxable persons, who achieve the highest turnover in that market. Accordingly, that situation is an indicator that is fortuitous, if not a matter of chance, and which may arise, even in a system of proportional taxation, whenever the market concerned is dominated by undertakings of other Member States or of non-Member States or by national undertakings owned by natural persons or legal persons of other Member States or of non-Member States.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">It must be observed, moreover, that the basic band of tax charged at 0% does not exclusively affect taxable persons owned by Hungarian natural persons or legal persons, since, as in any system of progressive taxation, any undertaking operating on the market concerned has the benefit of the reduction for the proportion of its turnover that does not exceed the maximum amount of that band.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the foregoing that the progressive rates of the special tax do not, inherently, create any discrimination, based on where companies have their registered office, between taxable persons owned by Hungarian natural persons or legal persons and taxable persons owned by natural persons or legal persons of other Member States.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">It must further be stated that the present case can be distinguished from the case which led to the judgment of 5 February 2014, Hervis Sport- és Divatkereskedelmi (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑385/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:47</a>). As is apparent from paragraphs 34 to 36 of that judgment, that case concerned the combined application of both very progressive rates of taxation of turnover and a rule for the consolidation of turnover of linked undertakings, the effect of which was that taxable persons belonging to a group of companies were taxed on the basis of ‘fictitious’ turnover. In that regard, the Court held, in essence, in paragraphs 39 to 41 of that judgment, that, if it were to be established that, in the store retail market in the Member State concerned, the taxable persons belonging to a group of companies and covered by the highest band of the special tax are, in the majority of cases, ‘linked’, within the meaning of the national legislation, to companies which have their registered offices in other Member States, ‘the application of the steeply progressive scale of the special tax to a consolidated tax base consisting of turnover’ is liable to disadvantage, in particular, taxable persons ‘linked’ to such companies and would, consequently, constitute indirect discrimination based on where companies have their registered office, within the meaning of Articles 49 and 54 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of all the foregoing, the answer to the first question is that Articles 49 and 54 TFEU must be interpreted as not precluding the legislation of a Member State that establishes a progressive tax on turnover, the actual burden of which is mainly borne by undertakings controlled directly or indirectly by nationals of other Member States or by companies that have their registered office in another Member State, due to the fact that those undertakings achieve the highest turnover in the market concerned</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The third question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">By its third question, the referring court seeks to ascertain, in essence, whether Article 401 of the VAT Directive must be interpreted as precluding the introduction of the tax established by the law on the special tax on certain sectors.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be recalled that, under Article 401 of the VAT Directive, the provisions of that directive do not prevent a Member State from maintaining or introducing taxes on insurance contracts, taxes on betting and gambling, excise duties, stamp duties or, more generally, any taxes, duties or charges which cannot be characterised as turnover taxes, provided that the collecting of those taxes, duties or charges does not give rise, in trade between Member States, to formalities connected with the crossing of frontiers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">In order to decide whether a tax, duty or charge can be characterised as a turnover tax, within the meaning of Article 401 of the VAT Directive, it is necessary, in particular, to determine whether it has the effect of jeopardising the functioning of the common system of value added tax (VAT) by being levied on the movement of goods and services and on commercial transactions in a way comparable to VAT (see, by analogy, judgment of 11 October 2007, KÖGÁZ and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A598&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑283/06 and C‑312/06</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A598&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2007:598</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A598&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has stated in this regard that taxes, duties and charges must in any event be regarded as being imposed on the movement of goods and services in a way comparable to VAT if they exhibit the essential characteristics of VAT, even if they are not identical to it in every way (judgment of 3 October 2006, Banca popolare di Cremona, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A629&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑475/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A629&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:629</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A629&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">However, Article 401 of the VAT Directive does not preclude, no more than did Article 33 of Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonization of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1977:145:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1977 L 145, p. 1</a>), the maintenance or introduction of a tax which does not display one of the essential characteristics of VAT (see, by analogy, judgment of 7 August 2018, Viking Motors and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A636&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑475/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A636&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:636</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A636&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the case-law that there are four such characteristics: VAT applies generally to transactions relating to goods or services; it is proportional to the price charged by the taxable person in return for the goods and services which he has supplied; it is charged at each stage of the production and distribution process, including that of retail sale, irrespective of the number of transactions which have previously taken place; the amounts paid during the preceding stages of the process are deducted from the VAT payable by a taxable person, with the result that the tax applies, at any given stage, only to the value added at that stage and the final burden of the tax rests ultimately on the consumer (judgment of 3 October 2006, Banca popolare di Cremona, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A629&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑475/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A629&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:629</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A629&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">In this case, it is clear that the special tax does not display the third and fourth essential characteristics of VAT, namely the charging of the tax at each stage of the production and distribution process and the existence of a right to deduction of the tax paid during the preceding stages of the process.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">Unlike VAT, this tax, which is based on the net turnover of the taxable person concerned, is not charged at each stage of that process, does not contain a mechanism comparable to that of the right to deduction of VAT, and is not based on the value added at the various stages of that process.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">That circumstance is sufficient ground to conclude that the special tax does not display all the essential characteristics of VAT and is, consequently, not subject to the prohibition laid down in Article 401 of the VAT Directive (see, by analogy, judgment of 12 June 2018, Viking Motors and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A636&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑475/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A636&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:636</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A636&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point43" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">43</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the answer to the third question is that Article 401 of the VAT Directive must be interpreted as not precluding the introduction of a tax which is based on the overall turnover of the taxable person and which is levied periodically, and not at each stage of the production and distribution process, there being no right to deduct tax paid at an earlier stage of that process.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Grand Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Articles 49 and 54 TFEU must be interpreted as not precluding the legislation of a Member State that establishes a progressive tax on turnover, the actual burden of which is mainly borne by undertakings controlled directly or indirectly by nationals of other Member States or by companies that have their registered office in another Member State, due to the fact that those undertakings achieve the highest turnover in the market concerned.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 401 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as not precluding the introduction of a tax which is based on the overall turnover of the taxable person and which is levied periodically, and not at each stage of the production and distribution process, there being no right to deduct tax paid at an earlier stage of that process.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0075_EN_01-E0001" id="t-ECR_62018CJ0075_EN_01-E0001">*1</a>
+</span>)	Language of the case: Hungarian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

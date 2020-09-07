@@ -1,0 +1,1051 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Third Chamber)</p>
+<p class="sum-title-1">19 December 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0360_EN_01-E0001" id="c-ECR_62018CJ0360_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Regulation (EU) No 1360/2013 — Agriculture — Common organisation of the markets — Sugar sector — Production levy — Effectiveness — Right to reimbursement of sums unduly paid — Applicability of national rules on limitation periods — Principle of effectiveness)</p>
+<p class="normal">In Case C‑360/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Finanzgericht Düsseldorf (Finance Court, Düsseldorf, Germany), made by decision of 16 May 2018, received at the Court on 4 June 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Cargill Deutschland GmbH</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Hauptzollamt Krefeld,</span>
+</p>
+<p class="normal">THE COURT (Third Chamber),</p>
+<p class="normal">composed of A. Prechal, President of the Chamber, K. Lenaerts, President of the Court, acting as a Judge of the Third Chamber, L.S. Rossi (Rapporteur), J. Malenovský and F. Biltgen, Judges,</p>
+<p class="normal">Advocate General: E. Sharpston,</p>
+<p class="normal">Registrar: M. Longar, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 2 May 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Cargill Deutschland GmbH, by D. Ehle, Rechtsanwalt,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Hauptzollamt Krefeld, by B. Grothe and R.M. Gleim-Arnold, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Belgian Government, by J.‑C. Halleux and M. Jacobs, acting as Agents, and by B. De Moor and M. Callebaut, avocats,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by B. Eggers and B. Hofstötter, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 29 July 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Council Regulation (EU) No 1360/2013 of 2 December 2013 fixing the production levies in the sugar sector for the 2001/2002, 2002/2003, 2003/2004, 2004/2005 and 2005/2006 marketing years, the coefficient required for calculating the additional levy for the 2001/2002 and 2004/2005 marketing years and the amount to be paid by sugar manufacturers to beet sellers in respect of the difference between the maximum levy and the levy to be charged for the 2002/2003, 2003/2004 and 2005/2006 marketing years (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2013:343:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2013 L 343, p. 2</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Cargill Deutschland GmbH and the Hauptzollamt Krefeld (Principal Customs Office, Krefeld, Germany) concerning the reimbursement of production levies in the sugar sector paid for the 2001/2002 to 2004/2005 marketing years.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Recitals 10, 11, 13 and 23 of Regulation No 1360/2013 state:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(10)</p>
+</td>
+<td valign="top">
+<p class="normal">On 27 September 2012, in Joined Cases C‑113/10, C‑147/10 and C‑234/10, the Court declared [Commission] Regulation (EC) No 1193/2009 [of 3 November 2009 correcting Regulations (EC) No 1762/2003, (EC) No 1775/2004, (EC) No 1686/2005, (EC) No 164/2007 and fixing the production levies in the sugar sector for the marketing years 2002/2003, 2003/2004, 2004/2005, 2005/2006 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:321:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2009 L 321, p. 1</a>)] invalid, stating that, for the purpose of calculating the estimated average loss per tonne of product, Article 15(1)(d) of [Council] Regulation (EC) No 1260/2001 [of 19 June 2001 on the common organisation of the markets in the sugar sector (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2001:178:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2001 L 178, p. 1</a>)] was to be interpreted as meaning that the total refund amount includes the total amount of export refunds effectively paid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(11)</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, levies in the sugar sector should be fixed at the appropriate level. …</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(13)</p>
+</td>
+<td valign="top">
+<p class="normal">… the corrected levies should apply from the same dates as the levies which were declared invalid.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(23)</p>
+</td>
+<td valign="top">
+<p class="normal">For reasons of legal certainty and to ensure uniform treatment of the operators concerned in different Member States, it is necessary to set a common date upon which the levies fixed by this Regulation should be established … However, this deadline should not apply where Member States are required, under national law, to reimburse the operators concerned after that date.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1(1) of that regulation provides:</p>
+<p class="normal">‘The production levies in the sugar sector for the 2001/2002, 2002/2003, 2003/2004, 2004/2005 and 2005/2006 marketing years shall be those set out in point 1 of the Annex.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 2 of that regulation:</p>
+<p class="normal">‘The date of establishment, as referred to in the second subparagraph of Article 2(2) of [Council] Regulation (EC, Euratom) No 1150/2000 [of 22 May 2000 implementing Decision 94/728/EC, Euratom on the system of the Communities’ own resources (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2000:130:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2000 L 130, p. 1</a>)], of the levies fixed by this Regulation shall be no later than 30 September 2014, except where Member States are prevented from respecting that deadline due to the application of national law on the recovery by economic operators of sums paid but not due.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">The second, third and fourth paragraphs of Article 3 of that regulation fix the dates from which the production levies set out in point 1 of the annex to the regulation apply in respect of the 2001/2002 to 2005/2006 marketing years.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Recitals 13 and 14 of Council Regulation (EU) 2018/264 of 19 February 2018 fixing the production levies and the coefficient for calculating the additional levy in the sugar sector for the 1999/2000 marketing year and fixing the production levies in the sugar sector for the 2000/2001 marketing year (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2018:051:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2018 L 51, p. 1</a>) are worded as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(13)</p>
+</td>
+<td valign="top">
+<p class="normal">For reasons of legal certainty, and to ensure uniform treatment of the economic operators concerned in different Member States, it is necessary to set a date by which the levies fixed by this Regulation should be established … However, this deadline should not apply where Member States are required, under national law, to reimburse the operators concerned after that date.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(14)</p>
+</td>
+<td valign="top">
+<p class="normal">The difference between the sums that were unduly paid in respect of the production levies in the sugar sector determined by [Commission] Regulations (EC) No 2267/2000 [of 12 October 2000 fixing the production levies and the coefficient for calculating the additional levy in the sugar sector for the 1999/2000 marketing year (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2000:259:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2000 L 259, p. 29</a>)] and (EC) No 1993/2001 [of 11 October 2001 fixing the production levies in the sugar sector for the 2000/2001 marketing year (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2001:271:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2001 L 271, p. 15</a>)] and the levies that are laid down by this Regulation should be reimbursed.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 2(2) of that regulation states:</p>
+<p class="normal">‘The difference between the levies fixed by Regulations … No 2267/2000 and … No 1993/2001 and the levies provided for in Article 1 of this Regulation shall be reimbursed to those economic operators that paid levies in respect of the 1999/2000 and 2000/2001 marketing years, on duly justified application of the latter.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">German law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">The first sentence of Paragraph 12(1) of the Gesetz zur Durchführung der gemeinsamen Marktorganisationen und der Direktzahlungen (Law implementing the common organisation of markets and direct payments) (BGB1. 2017 I, p. 3746) states:</p>
+<p class="normal">‘The provisions of the Tax Code … shall apply <span class="italic">mutatis mutandis</span> in the case of levies for the purpose of market organisation …, provided that derogation from these provisions is not made by this Law or by a regulation adopted on the basis of this Law.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Under the first and second sentences of Paragraph 37(2) of the Tax Code:</p>
+<p class="normal">‘Where a tax has been paid or repaid without any legal basis …, the person on whose account the payment was made shall be entitled to a refund from the recipient of the amount paid or repaid. This shall also apply where the legal basis for the payment or repayment subsequently ceases to exist.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 164(1), (2) and (4) of that code is worded as follows:</p>
+<p class="normal">‘(1)   Taxes may, so long as the tax case has not been definitely reviewed, be assessed generally or individually subject to review, without a justification being required. …</p>
+<p class="normal">(2)   The assessment may be annulled or amended at any time whilst it remains reviewable. …</p>
+<p class="normal">…</p>
+<p class="normal">(4)   When the period prescribed for assessment expires, the assessment shall cease to be subject to review.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 169(1) and (2) of that code provides:</p>
+<p class="normal">‘(1)   A tax assessment and its annulment or amendment shall no longer be admissible when the period prescribed for assessment has expired. …</p>
+<p class="normal">(2)   The period prescribed for assessment shall be:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">one year in respect of excise duties and refunds of excise duties,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">four years in respect of taxes and tax rebates that are not taxes or tax rebates within the meaning of point 1 or import duties or export duties under Article 5(20) and (21) of the Union Customs Code.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 170(1) of the Tax Code provides:</p>
+<p class="normal">‘The period prescribed for assessment shall begin on the expiry of the calendar year during which the tax liability arose.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">The first part of Paragraph 175(1) of that code is worded as follows:</p>
+<p class="normal">‘A tax assessment notice shall be issued, cancelled or amended,</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">if an event occurs that has tax implications for periods already elapsed (event having retroactive effect).’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Cargill Deutschland, as a company producing isoglucose, was subject to the system of sugar production levies provided for by Regulation No 1260/2001 for the 2001/2002 to 2005/2006 marketing years.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">The amount of the production levies for those marketing years was determined pursuant to regulations adopted each year by the European Commission, namely Commission Regulation (EC) No 1837/2002 of 15 October 2002 fixing the production levies and the coefficient for the additional levy in the sugar sector for the marketing year 2001/02 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2002:278:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2002 L 278, p. 13</a>); Commission Regulation (EC) No 1762/2003 of 7 October 2003 fixing the production levies in the sugar sector for the 2002/03 marketing year (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2003:254:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2003 L 254, p. 4</a>); Commission Regulation (EC) No 1775/2004 of 14 October 2004 setting the production levies in the sugar sector for the 2003/04 marketing year (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:316:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 L 316, p. 64</a>); Commission Regulation (EC) No 1686/2005 of 14 October 2005 setting the production levies and the coefficient for the additional levy in the sugar sector for the 2004/05 marketing year (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2005:271:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2005 L 271, p. 12</a>); and Commission Regulation (EC) No 164/2007 of 19 February 2007 fixing the production levies in the sugar sector for the 2005/06 marketing year (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2007:051:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2007 L 51, p. 17</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Pursuant to these regulations, the Principal Customs Office, Krefeld, inter alia, set the amount of production levies to be paid by Cargill Deutschland, for those marketing years, by tax notices issued, subject to review, on 23 October 2002, 20 October 2003, 30 March 2004 and 18 October 2005.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">However, by judgment of 8 May 2008, Zuckerfabrik Jülich and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A260&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑5/06 and C‑23/06 to C‑36/06</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A260&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:260</a>) and by orders of 6 October 2008, Raffinerie Tirlemontoise (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A541&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑200/06</a>, not published, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A541&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:541</a>) and SAFBA (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A543&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑175/07 to C‑184/07</a>, not published, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A543&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:543</a>), Regulations No 1762/2003, No 1775/2004 and No 1686/2005 were declared invalid by the Court of Justice. Those regulations were subsequently amended by Regulation No 1193/2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">By judgment of 27 September 2012, Zuckerfabrik Jülich and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑113/10, C‑147/10 and C‑234/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:591</a>), Regulation No 1193/2009 was also declared invalid by the Court. Following the delivery of that judgment, the Council of the European Union once again fixed the production levies in the sugar sector for the 2001/2002 to 2005/2006 marketing years through the adoption of Regulation No 1360/2013, in which it reduced the production levies for those marketing years.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">On 1 May 2014, Cargill Deutschland submitted a request to the Principal Customs Office, Krefeld, asking it to fix the amount of new production levies and to reimburse the levies that it had unduly paid in respect of the 2001/2002 to 2004/2005 marketing years.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">By its decision of 18 April 2016, confirmed on 19 September 2016 following an unsuccessful objection procedure, the Principal Customs Office, Krefeld, refused that request on the ground that, pursuant to Paragraph 164 and point 2 of the second sentence of Paragraph 169(2) of the Tax Code, the 4-year limitation period prescribed for the purposes of annulment, amendment or correction of tax notices had expired for those marketing years, with the result that the corresponding tax notices had become final.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with Paragraph 170(1) of the Tax Code, the period prescribed for assessment begins on the expiry of the calendar year during which the tax liability arose. Therefore, in the present case, as the referring court states in its request for a preliminary ruling, the limitation period for assessment for the 2004/2005 marketing year had begun on 31 December 2006. In those circumstances, Cargill Deutschland’s request, having been submitted only in 2014, had been received at the Principal Customs Office, Krefeld, at a time when that limitation period for assessment had expired. Similarly, as regards the production levies for the preceding marketing years, the same limitation period for assessment had, a fortiori, expired.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Cargill Deutschland brought before the referring court, the Finanzgericht Düsseldorf (Finance Court, Düsseldorf, Germany), an action against the decision of the Principal Customs Office, Krefeld, claiming that its right to reimbursement of unduly paid levies followed directly from Regulation No 1360/2013. That right, it argued, was not subject to any limitation period for assessment and was not affected by the definitive nature of the tax assessments issued by the Principal Customs Office, Krefeld.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the referring court states that it has held in previous cases that the question of whether or not a company was entitled to reimbursement of unduly paid levies when the rates of those production levies had been reduced with retroactive effect, pursuant to Regulation No 1360/2013, had to be decided on the basis of the applicable national law alone, in compliance with the principles of equivalence and effectiveness.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, the referring court finds, that approach would result in Cargill Deutschland not being entitled to reimbursement, inter alia on account of the fact that retroactive reduction of the production levies, provided for by Regulation No 1360/2013, would simply lead to the decisions setting the charges being unlawful, not to the corresponding tax assessments being invalid, since the latter, having been issued on the basis of decisions which have become final, could no longer be subject to amendments, in accordance with the applicable national law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">However, the referring court notes that, in a similar case concerning the correction of the amounts of production levies in the sugar sector for the 1999/2000 and 2000/2001 marketing years, Cargill Deutschland had, as a result of a decision of the Principal Customs Office, Krefeld, of 7 May 2018 based on Regulation 2018/264, obtained partial reimbursement of the levies which it had unduly paid, even though the applicable limitation periods under national law had expired. That reimbursement had been possible following, first, the delivery of the judgment of 9 February 2017, Raffinerie Tirlemontoise (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A105&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑585/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A105&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:105</a>), by which the Court declared Regulation No 2267/2000 and Regulation No 1993/2001, which determined the rate of those levies, to be invalid, and, second, the consecutive adoption of Regulation 2018/264, which set those rates again without expressly requiring that those limitation periods be taken into account.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Against that background, the referring court is uncertain whether, by adopting Regulation 2018/264, the EU legislature did not, in fact, intend to establish a general principle allowing the reimbursement of unduly paid production levies in the sugar sector from that point on, irrespective of the applicable limitation rules under national law. It states that such an interpretation would thus make it possible for Cargill Deutschland to obtain reimbursement of the production levies which it had unduly paid for the 2001/2002 to 2004/2005 marketing years, as recalculated in accordance with Regulation No 1360/2013.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Finanzgericht Düsseldorf (Finance Court, Düsseldorf) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="normal">‘Is the reimbursement of production levies in the sugar sector — for which, under [Regulation (EU) No 1360/2013], different calculations to those used previously are to be made — to be carried out, in the light of the principles of equivalence and effectiveness, in accordance with national law and in particular in application of the limitation period set out thereunder?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">By its question, the referring court asks, in essence, whether Regulation No 1360/2013 fixing, inter alia, the production levies in the sugar sector for the 2001/2002 to 2005/2006 marketing years must be interpreted as meaning that sums unduly paid by economic operators in respect of those levies have to be reimbursed in accordance with national law, in particular within the limitation periods provided for by that law, in compliance with the principles of equivalence and effectiveness.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary point, it must be noted that the doubts expressed by the referring court stem inter alia from the fact that Cargill Deutschland received a reimbursement from the competent German authorities, under Article 2(2) of Regulation 2018/264, of unduly paid levies for the 1999/2000 and 2000/2001 marketing years, even though the limitation periods provided for by the applicable provisions of national law had expired.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Regulation 2018/264, which corrected the production levies for the 1999/2000 and 2000/2001 marketing years, provides, in its Article 2(2), that sums unduly paid by economic operators which paid levies in respect of those years must be reimbursed to those economic operators on duly justified application of the latter, without that provision making any reference back to applicable national law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the referring court does not rule out the possibility that Article 2(2) of Regulation 2018/264 may be interpreted as establishing a general principle allowing economic operators to receive reimbursement of the sums which they had unduly paid in respect of production levies in the sugar sector. Such a principle could apply irrespective of the expiry of limitation periods applicable under national law, even though that reimbursement has been requested on the basis of Regulation No 1360/2013.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, suffice it to note that, as the Advocate General stated in point 31 of her Opinion, Regulation 2018/264, in so far as it concerns only the 1999/2000 and 2000/2001 marketing years, is not applicable, <span class="italic">ratione temporis</span>, to the dispute in the main proceedings, which concerns a request for reimbursement of the production levies paid for the 2001/2002 to 2004/2005 marketing years.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that Regulation 2018/264 cannot constitute the legal basis for a request for reimbursement of unduly paid levies for those latter marketing years.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">However, it must be borne in mind that, by the judgment of 27 September 2012, Zuckerfabrik Jülich and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑113/10, C‑147/10 and C‑234/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:591</a>), the Court declared Regulation No 1193/2009 to be invalid. As is apparent, inter alia, from paragraphs 48 and 49 of that judgment, the method set out in that regulation, used by the Commission to determine the production levies for the 2001/2002 to 2005/2006 marketing years, was incorrect because it led to an artificial increase in the total amount of refunds. As such, as is apparent from paragraph 69 of that judgment, producers were entitled not only to reimbursement of the sums paid unduly in respect of production levies unduly levied by Member States during the period in question, but also to payment of interest on those sums.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In order to comply with the judgment of 27 September 2012, Zuckerfabrik Jülich and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑113/10, C‑147/10 and C‑234/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:591</a>), the Council adopted Regulation No 1360/2013, the purpose of which was to correct, retroactively, the production levies in the sugar sector for the 2001/2002 to 2005/2006 marketing years. According to the EU legislature, the new production levies were calculated in accordance with the method validated by the Court in that judgment and fixed at an ‘appropriate level’, as referred to in recital 11 of that regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">The practical effect of Regulation No 1360/2013 is therefore that the sugar producers concerned may obtain a reimbursement of production levies which were unduly paid several years before the adoption of that regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">It follows, first, that, as the Advocate General stated in point 37 of her Opinion, the entitlement of sugar producers to reimbursement of unduly paid levies for the marketing years at issue in the main proceedings is derived from EU law, as interpreted by the Court in the judgment of 27 September 2012, Zuckerfabrik Jülich and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑113/10, C‑147/10 and C‑234/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:591</a>), and implemented by the EU legislature in accordance with that judgment through the adoption of Regulation No 1360/2013.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has held that the right to obtain a reimbursement of charges levied in a Member State in breach of the rules of EU law is the consequence and complement of the rights conferred on individuals by provisions of EU law as interpreted by the Court (judgments of 12 December 2006, Test Claimants in the FII Group Litigation, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A774&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑446/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A774&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:774</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A774&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point202" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">202</a>; of 19 July 2012, Littlewoods Retail and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑591/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:478</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point24" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>; and of 25 July 2018, Messer France, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A587&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑103/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A587&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:587</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A587&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point56" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Second, it is only following the retroactive fixing of new production levies in Regulation No 1360/2013 that the competent national authorities were in a position to determine the exact amount overpaid in respect of those levies by each of the producers concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, and in order to ensure the practical effect of that regulation, it must be held that it is from the date on which that regulation came into force, namely 20 December 2013, that the sugar producers concerned were in a position to become aware of the exact amount of levies which they had unduly paid, on the basis of the Commission’s calculations as corrected to take into account the case-law of the Court, and therefore to bring valid requests for reimbursement of those levies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">To that end, first of all, in accordance with Article 1(1) of Regulation No 1360/2013, point 1 of the annex to that regulation sets out a table fixing the production levies in the sugar sector, expressed in the form of an amount in euros per tonne of product, for each marketing year from the 2001/2002 marketing year to the 2005/2006 marketing year.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Next, Article 2 of Regulation No 1360/2013 sets, in principle, 30 September 2014 as the latest date on which the Member States had to enter in the EU own resources account the levies fixed by Regulation No 1360/2013.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, Article 3 of that regulation merely sets the dates from which the production levies set out in point 1 of the annex to the regulation apply for each of the marketing years at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">It must be held that, as the Advocate General stated in point 42 of her Opinion, Regulation No 1360/2013 makes no provision for the procedures and arrangements which Member States should apply to give effect to the rights of the economic operators to obtain reimbursement of unduly paid production levies in the sugar sector for the marketing years at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with settled case-law, in the absence of harmonised rules governing the reimbursement of charges imposed in breach of EU law, the Member States retain the right to apply procedural rules provided for under their national legal system, in particular concerning limitation periods or time-bars, subject to observance of the principles of equivalence and effectiveness (see, to that effect, judgments of 8 September 2011, Q-Beef and Bosschaert, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A555&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑89/10 and C‑96/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A555&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:555</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A555&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>, and of 20 December 2017, Caterpillar Financial Services, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A996&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑500/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A996&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:996</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A996&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">In order to ensure compliance with those principles, those procedural rules must not be less favourable than those concerning similar claims based on provisions of national law (principle of equivalence) or arranged in such a way as to make the exercise of rights conferred by the EU legal order practically impossible (principle of effectiveness) (see, to that effect, judgment of 27 September 2012, Zuckerfabrik Jülich and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑113/10, C‑147/10 and C‑234/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:591</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point61" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">61</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is apparent from the request for a preliminary ruling that, according to the referring court, the application of the national provisions is compliant with those principles because, subject to the generally applicable limitation period for assessment provided for in German fiscal law, they allow a correction in cases in which EU legal measures are changed with retroactive effect. However, it also follows from the request for a preliminary ruling, in essence, that, according to the referring court, the definitive nature of a tax assessment notice under German law precludes a request for reimbursement based on Regulation No 1360/2013, where the applicable limitation period has expired at the time when that request is made.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">It should be borne in mind that, under the procedure laid down in Article 267 TFEU providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the national court with an answer which will be of use to it and enable it to determine the case before it. To that end, the Court may extract from all the information provided by the national court, in particular from the grounds of the decision to make the reference, the elements of EU law that require interpretation in view of the subject matter of the dispute in the main proceedings (judgment of 18 December 2019, Generálny riaditeľ Sociálnej poisťovne Bratislava and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1098&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C-447/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A1098&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:1098</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A1098&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point35" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it is, therefore, necessary also to assess whether national rules governing the exercise of the right to reimbursement of the excess paid by sugar producers in respect of production levies provided for by Regulation No 1260/2001 and definitively fixed by Regulation No 1360/2013 for the marketing years at issue in the main proceedings which, as interpreted and applied by the relevant courts, preclude the submission of requests for reimbursement after the entry into force of Regulation No 1360/2013 on the ground that the time limit applicable to such requests has passed, comply with the principles of equivalence and effectiveness.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">In the present context, it is appropriate to examine, first of all, the compatibility of those rules with the principle of effectiveness. It follows from settled case-law that every case in which the question arises as to whether a national procedural provision renders the application of EU law impossible or excessively difficult must be analysed by reference to the role of that provision in the procedure, its conduct and its special features, viewed as a whole, before the various national bodies. In that context, it is necessary, inter alia, to take into consideration, where relevant, the principle of the rights of the defence, the principle of legal certainty and the proper conduct of the procedure (judgments of 20 October 2016, Danqua, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A789&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑429/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A789&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:789</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A789&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point42" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">42</a>, and of 22 February 2018, INEOS Köln, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A100&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑572/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A100&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:100</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A100&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point44" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in particular, limitation periods or time-bars, the Court has repeatedly held that the setting of reasonable time limits in principle satisfies the requirement of effectiveness since it constitutes an application of the fundamental principle of legal certainty which protects both the person and the administration concerned, even though the passing of such time limits is, by its nature, liable to prevent the persons concerned from asserting their rights in whole or in part (see, to that effect, judgment of 22 February 2018, INEOS Köln, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A100&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑572/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A100&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:100</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A100&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point46" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A100&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point53" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">53</a> and the case-law cited). In that regard, by way of example, a 3-year limitation period under national law was considered reasonable (judgment of 8 September 2011, Q-Beef and Bosschaert, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A555&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑89/10 and C‑96/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A555&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:555</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A555&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">It follows unequivocally from the request for a preliminary ruling that Cargill Deutschland can no longer claim, under national law, reimbursement of the levies in respect of the marketing years at issue in the main proceedings, since, as has been stated in paragraphs 21 and 22 above, the limitation period for requesting reimbursement of the unduly paid levies has expired. According to the request for a preliminary ruling, that is the case notwithstanding the fact that Regulation No 1360/2013 amended EU law with retroactive effect by replacing the provisions of the regulations previously declared invalid by the Court, on which the decisions setting the charges and the corresponding tax notices were based. That retroactive amendment follows from the second, third and fourth paragraphs of Article 3 of that regulation, which sets the dates from which the production levies in the sugar sector set out in point 1 of the annex to that regulation apply for each of the marketing years at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">However, as the Advocate General has stated, in essence, in point 60 of her Opinion, it would have been practically impossible for Cargill Deutschland to submit a request for reimbursement within the 4-year limitation period laid down for so doing, since that period had expired even before Regulation No 1360/2013 came into force on 20 December 2013, that is to say, before the EU legislature had corrected the production levies in the sugar sector for the marketing years at issue in the main proceedings, under Article 1 of that regulation and the annex thereto.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that, in so far as, as has been stated in paragraphs 40 and 41 above, the competent national authorities could not, before Regulation No 1360/2013 entered into force, quantify the amount of any reimbursement of levies unduly paid by the economic operators who derive their rights from that regulation, and in so far as those economic operators also could not know that amount, the national rules, interpreted by the referring court as providing that the relevant limitation period would expire before that regulation entered into force, make it practically impossible to exercise the right, conferred on those operators by the EU legal order, to obtain reimbursement of the unduly paid production levies for the marketing years at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">The assertion made by the Principal Customs Office, Krefeld, at the hearing, to the effect that a diligent economic operator could have contested the tax notices before the expiry of the applicable limitation period cannot undermine that conclusion. It should be noted that the procedural rules provided for by national law make it practically impossible to exercise a right conferred on an operator by EU legislation, which definitively fixes the conditions governing that right, where they subject the exercise of that right to the condition that the operator in question must, even before that legislation had entered into force, have submitted an application or action contesting national decisions based on a previous version of the same EU legislation that in the meantime the Court had declared to be invalid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing analysis relating to the principle of effectiveness and the conclusion reached in that regard in paragraph 55 above, it is not necessary to examine whether the principle of equivalence may be applicable in the context of the present judgment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from all the foregoing that the answer to the question referred is that Regulation No 1360/2013 must be interpreted as:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">meaning that the sums unduly paid by economic operators by way of production levies in the sugar sector for the 2001/2002 to 2005/2006 marketing years must be reimbursed under national law, in particular within the limitation periods provided for by that law, in compliance with the principles of equivalence and effectiveness; and as</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">precluding national rules which, as interpreted by the competent national courts, provide that the applicable limitation period during which reimbursement of unduly paid sugar production levies may be requested expired before that regulation entered into force, making it practically impossible to exercise the right, conferred on those economic operators by the EU legal order, to obtain reimbursement of those levies for the marketing years covered by that regulation.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Third Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Council Regulation (EU) No 1360/2013 of 2 December 2013 fixing the production levies in the sugar sector for the 2001/2002, 2002/2003, 2003/2004, 2004/2005 and 2005/2006 marketing years, the coefficient required for calculating the additional levy for the 2001/2002 and 2004/2005 marketing years and the amount to be paid by sugar manufacturers to beet sellers in respect of the difference between the maximum levy and the levy to be charged for the 2002/2003, 2003/2004 and 2005/2006 marketing years must be interpreted as:</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">meaning that the sums unduly paid by economic operators by way of those production levies must be reimbursed under national law, in particular within the limitation periods provided for by that law, in compliance with the principles of equivalence and effectiveness; and as</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">precluding national rules which, as interpreted by the competent national courts, provide that the applicable limitation period during which reimbursement of unduly paid sugar production levies may be requested expired before that regulation entered into force, making it practically impossible to exercise the right, conferred on those economic operators by the EU legal order, to obtain reimbursement of those levies for the marketing years covered by that regulation.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0360_EN_01-E0001" id="t-ECR_62018CJ0360_EN_01-E0001">*1</a>
+</span>)	Language of the case: German.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

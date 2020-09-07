@@ -1,0 +1,933 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (First Chamber)</p>
+<p class="coj-sum-title-1">11 June 2020 (<span class="coj-note">
+<a href="#t-ECR_62019CJ0019_EN_01-E0001" id="c-ECR_62019CJ0019_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Mutual assistance for the recovery of claims — Directive 76/308/EEC — Article 6(2) and Article 10 — Directive 2008/55/EC — Second paragraph of Article 6 and Article 10 — Tax claim of requesting Member State recovered by requested Member State — Status of that claim — Concept of ‘privilege’ — Statutory set-off of that claim against tax debt of requested Member State)</p>
+<p class="coj-normal">In Case C‑19/19,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Cour de cassation (Court of Cassation, Belgium), made by decision of 20 December 2018, received at the Court on 11 January 2019, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">État belge</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Pantochim SA</span>, in liquidation,</p>
+<p class="coj-normal">THE COURT (First Chamber),</p>
+<p class="coj-normal">composed of J.-C. Bonichot, President of the Chamber, R. Silva de Lapuerta (Rapporteur), Vice-President of the Court, M. Safjan, L. Bay Larsen and C. Toader, Judges,</p>
+<p class="coj-normal">Advocate General: G. Hogan,</p>
+<p class="coj-normal">Registrar: A. Calot Escobar,</p>
+<p class="coj-normal">having regard to the written procedure,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Pantochim SA, in liquidation, by J. Oosterbosch, avocate,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Belgian Government, by P. Cottin, J.-C. Halleux and C. Pochet, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Spanish Government, initially by A. Rubio González, and subsequently by S. Jiménez García, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by M. Wilderspin, J. Jokubauskaitė and C. Perrin, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">after hearing the Opinion of the Advocate General at the sitting on 14 January 2020,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Article 6(2) and Article 10 of Council Directive 76/308/EEC of 15 March 1976 on mutual assistance for the recovery of claims resulting from operations forming part of the system of financing the European Agricultural Guidance and Guarantee Fund, and of the agricultural levies and customs duties (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1976:073:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1976 L 73, p. 18</a>), and of the second paragraph of Article 6 and Article 10 of Council Directive 2008/55/EC of 26 May 2008 on mutual assistance for the recovery of claims relating to certain levies, duties, taxes and other measures (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:150:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2008 L 150, p. 28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between the État belge (Belgian State) and Pantochim SA, in liquidation, concerning the set-off of a claim which the latter had against the Belgian State, against a debt which that company owed to the German State.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">European Union law</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Directive 76/308</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The first, second, third and eighth recitals of Directive 76/308 stated:</p>
+<p class="coj-normal">‘Whereas it is not at present possible to enforce in one Member State a claim for recovery substantiated by a document drawn up by the authorities of another Member State;</p>
+<p class="coj-normal">Whereas the fact that national provisions relating to recovery are applicable only within national territories is in itself an obstacle to the establishment and functioning of the common market; whereas this situation prevents Community rules from being fully and fairly applied, particularly in the area of the common agricultural policy, and facilitates fraudulent operations;</p>
+<p class="coj-normal">Whereas it is therefore necessary to adopt common rules on mutual assistance for recovery;</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">Whereas when the requested authority is required to act on behalf of the applicant authority to recover a claim, it must be able, if the provisions in force in the Member State in which it is situated so permit and with the agreement of the applicant authority, to allow the debtor time to pay or authorise payment by instalment; whereas any interest charged on such payment facilities must also be remitted to the Member State in which the applicant authority is situated.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 1 of Directive 76/308, that directive laid down the rules to be incorporated into the laws, regulations and administrative provisions of the Member States to ensure the recovery in each Member State of the claims falling within the scope of that directive which arise in another Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 6 of Directive 76/308 provided:</p>
+<p class="coj-normal">‘1.   At the request of the applicant authority, the requested authority shall, in accordance with the laws, regulations or administrative provisions applying to the recovery of similar claims arising in the Member State in which the requested authority is situated, recover claims which are the subject of an instrument permitting their enforcement.</p>
+<p class="coj-normal">2.   For this purpose any claim in respect of which a request for recovery has been made shall be treated as a claim of the Member State in which the requested authority is situated, except where Article 12 applies.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 9 of that directive, as amended by Council Directive 2001/44/EC of 15 June 2001 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2001:175:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2001 L 175, p. 17</a>), provided:</p>
+<p class="coj-normal">‘1.   Claims shall be recovered in the currency of the Member State in which the requested authority is situated. The entire amount of the claim that is recovered by the requested authority shall be remitted by the requested authority to the applicant authority.</p>
+<p class="coj-normal">2.   The requested authority may, where the laws, regulations or administrative provisions in force in the Member State in which it is situated so permit, and after consultations with the applicant authority, allow the debtor time to pay or authorise payment by instalment. Any interest charged by the requested authority in respect of such extra time to pay shall also be remitted to the Member State in which the applicant authority is situated.</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 10 of Directive 76/308:</p>
+<p class="coj-normal">‘The claims to be recovered shall not be given preferential treatment in the Member State in which the requested authority is situated.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 10 of Directive 76/308, as amended by Directive 2001/44, was worded as follows:</p>
+<p class="coj-normal">‘Notwithstanding Article 6(2), the claims to be recovered shall not necessarily benefit from the privileges accorded to similar claims arising in the Member State in which the requested authority is situated.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Directive 2008/55</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Recitals 1 and 10 of Directive 2008/55 stated:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">[Directive 76/308] has been substantially amended several times. In the interests of clarity and rationality the said Directive should be codified.</p>
+<p class="coj-normal">…</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(10)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">When the requested authority is required to act on behalf of the applicant authority to recover a claim, it should be able, if the provisions in force in the Member State in which it is situated so permit and with the agreement of the applicant authority, to allow the debtor time to pay or authorise payment by instalment. Any interest charged on such payment facilities should also be remitted to the Member State in which the applicant authority is situated.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to Article 1 of Directive 2008/55, that directive laid down the rules to be incorporated into the laws, regulations and administrative provisions of the Member States to ensure the recovery in each Member State of the claims falling within the scope of that directive which arise in another Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 6 of that directive provided:</p>
+<p class="coj-normal">‘At the request of the applicant authority, the requested authority shall, in accordance with the laws, regulations or administrative provisions applying to the recovery of similar claims arising in the Member State in which the requested authority is situated, recover claims which are the subject of an instrument permitting their enforcement.</p>
+<p class="coj-normal">For this purpose any claim in respect of which a request for recovery has been made shall be treated as a claim of the Member State in which the requested authority is situated, except where Article 12 applies.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 10 of that directive provided:</p>
+<p class="coj-normal">‘Notwithstanding the second paragraph of Article 6, the claims to be recovered shall not necessarily benefit from the privileges accorded to similar claims arising in the Member State in which the requested authority is situated.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Belgian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Directive 76/308 was transposed into Belgian law by the loi du 20 juillet 1979 concernant l’assistance mutuelle en matière de recouvrement des créances relatives à certains cotisations, droits, taxes et autres mesures (Law of 20 July 1979 on mutual assistance for the recovery of claims relating to certain levies, duties, taxes and other measures) (<span class="coj-italic">Moniteur belge</span>, 30 August 1979, p. 9457).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 12 of that law, in the version applicable to the dispute in the main proceedings (‘the Law of 20 July 1979’):</p>
+<p class="coj-normal">‘The requested Belgian authority shall proceed with recoveries requested by the applicant foreign authority as if they were claims arising within the Kingdom [of Belgium].’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 15 of the Law of 20 July 1979 was worded as follows:</p>
+<p class="coj-normal">‘The claims to be recovered shall not benefit from any privilege.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 334 of the loi-programme du 27 décembre 2004 (Programme-Law of 27 December 2004) (<span class="coj-italic">Moniteur belge</span>, 31 December 2004, p. 87006), in the version applicable until 7 January 2009, stated:</p>
+<p class="coj-normal">‘Any sum to be repaid or paid to a debtor on the basis of legal provisions on income taxes, taxes treated as equivalent thereto, value added tax or under the rules of civil law on the recovery of sums not due may be assigned without formalities by the competent official to the payment of withholding taxes, income taxes, taxes treated as equivalent thereto, value added tax, the principal amount, surcharges and increases, administrative or tax fines, interest and costs payable by that debtor, where the latter are not or are no longer contested.</p>
+<p class="coj-normal">The preceding paragraph shall continue to apply in the event of seizure, assignment, transfer or where there are concurrent claims or insolvency proceedings.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 334 of the Programme-Law of 27 December 2004, as amended by Article 194 of the loi-programme du 22 décembre 2008 (Programme-Law of 22 December 2008) (<span class="coj-italic">Moniteur belge</span>, 29 December 2008, p. 68649), applicable as from 8 January 2009, provided:</p>
+<p class="coj-normal">‘Any sum to be repaid or paid to a person, either in the course of applying tax laws which fall within the competence of the Service public fédéral Finances [(Federal Public Service for Finance)] or for which the collection and recovery are ensured by that Federal public service or under the provisions of civil law relating to the recovery of sums not due, may be assigned without formalities and at the discretion of the competent official to the payment of sums owed by that person pursuant to the tax laws concerned or to the settlement of tax or non-tax claims the collection and recovery of which are ensured by the Federal Public Service for Finance by virtue of or under a legally binding provision. That assignment is limited to the uncontested amount of the debt in respect of that person.</p>
+<p class="coj-normal">The preceding paragraph shall continue to apply in the event of seizure, assignment, transfer or where there are concurrent claims or insolvency proceedings.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Pantochim was put into liquidation by a judgment of 26 June 2001 of the tribunal de commerce de Charleroi (Charleroi Commercial Court, Belgium).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the course of that liquidation, the Belgian State declared a preferential claim in respect of value added tax (VAT), which was paid in full by Pantochim, and a claim from the German State for EUR 634 257.50, comprising VAT and interest, which was admitted to the company’s liabilities as an unsecured debt.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is apparent from the order for reference that the German State’s claim was the subject of a request for assistance for recovery by that Member State, and that neither the existence nor the lawfulness of that request was challenged.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">For its part, Pantochim has a claim against the Belgian State as a result of the application of tax provisions, which the Belgian State intends to set off, on the basis of Article 334 of the Programme-Law of 27 December 2004, against the aforementioned claim of the German State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Pantochim objected to that set-off and instituted proceedings in the tribunal de première instance du Hainaut, division de Mons (Court of First Instance, Hainaut, Mons Division, Belgium), which ruled that the Belgian State had no basis in law for such a set-off.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By a judgment of 27 June 2016, the cour d’appel de Mons (Court of Appeal, Mons, Belgium) upheld that decision and ordered the Belgian State to pay the sum of EUR 502 991.47 plus interest to Pantochim.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Belgian State brought an appeal against that judgment before the referring court, the Cour de cassation (Court of Cassation, Belgium).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances the Cour de cassation (Court of Cassation) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Must the provision according to which the claim in respect of which a request for recovery has been made “shall be treated as a claim of the Member State in which the requested authority is situated”, as provided for in [the second paragraph of] Article 6 of [Directive 2008/55], which replaces Article 6(2) of [Directive 76/308], be understood as meaning that the claim of the requesting State is to be treated as being a claim of the requested State, with the result that the claim of the requesting State acquires the status of a claim of the requested State?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Must the term “privilege” referred to in Article 10 of [Directive 2008/55], and, before codification, in Article 10 of [Directive 76/308], be understood as the preferential right attached to the claim which confers on it a right of priority over other claims in the event of concurrent claims, or as any mechanism which results, in the event of concurrent claims, in the preferential payment of the claim?</p>
+<p class="coj-normal">Must the option available to the tax authority to carry out, under the conditions laid down by Article 334 of the Programme-Law of 27 December 2004, a set-off where there are concurrent claims be regarded as a privilege within the meaning of Article 10 of the abovementioned directives?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its first question the referring court asks, in essence, whether Article 6(2) of Directive 76/308 and the second paragraph of Article 6 of Directive 2008/55 must be interpreted as meaning that the claim of the requesting Member State is to be treated as being a claim of the requested Member State and acquires the status of a claim of the requested Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It must be noted at the outset that Directive 76/308 and Directive 2008/55, to which reference is made in the questions referred for a preliminary ruling, although now repealed, were in force at the time of the facts of the dispute in the main proceedings. As is apparent from the request for a preliminary ruling, the Belgian State set various tax claims which Pantochim was entitled to assert vis-à-vis the Belgian tax authority between 1 January 2005 and 20 April 2009 against settlement of the claim of the German State in respect of which the request for recovery at issue in the main proceedings had been made.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to Article 6(2) of Directive 76/308 and the second paragraph of Article 6 of Directive 2008/55, which must, respectively, be read in conjunction with Article 6(1) of Directive 76/308 and the first paragraph of Article 6 of Directive 2008/55, where a request for recovery is made in respect of a claim, that claim is to be treated ‘as’ a claim of the requested Member State, and that Member State is required to recover the claim in accordance with the laws, regulations or administrative provisions applying to the recovery of similar claims of that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It thus follows from the actual wording of Article 6(2) of Directive 76/308 and the second paragraph of Article 6 of Directive 2008/55 that a claim in respect of which a request for recovery has been made does not acquire the status of a claim of the requested Member State but is to be ‘treated as’ a claim of that State solely for the purposes of its recovery by that State, the latter being thus required to make use of the powers and procedures provided for under the laws, regulations or administrative provisions applying to claims concerning identical or similar taxes or duties in its legal system (see, by analogy, judgment of 26 April 2018, Donnellan, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A282&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑34/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A282" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:282</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A282" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, although, under those provisions, the requested Member State is, for the purposes of recovery of a claim forming the subject matter of such a request, required to treat that request in the same way as its own claims (see, to that effect, judgment of 14 January 2010, Kyrian, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A11&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑233/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A11" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:11</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A11" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">43</a>), that does not mean that the claim of the requesting Member State has been assigned to the requested Member State. As the Advocate General noted in point 35 of his Opinion, that claim remains, from a substantive perspective, a claim of the requesting Member State, distinct from those of the requested Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This interpretation is also supported by the wording of Article 10 of Directive 76/308, as amended by Directive 2001/44, and that of Article 10 of Directive 2008/55, according to which the claims to be recovered are not necessarily to benefit from the privileges accorded to similar claims arising in the requested Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is also apparent from Article 9 of Directive 76/308, as amended by Directive 2001/44, and Article 9 of Directive 2008/55 that the claim of the requesting Member State, recovered by the requested Member State, does not acquire the status of a claim of the latter Member State since, under those provisions, the requested Member State is required to remit to the requesting Member State the entire amount of the claim that it has recovered as well as any interest payable if time to pay has been allowed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, it follows from the eighth recital of Directive 76/308 and recital 10 of Directive 2008/55 that it was the EU legislature’s intention that the requested Member State should act to recover a claim ‘on behalf’ of the requesting Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In view of the foregoing, the answer to the first question is that Article 6(2) of Directive 76/308 and the second paragraph of Article 6 of Directive 2008/55 must be interpreted as meaning that the claim of the requesting Member State is not to be treated as being a claim of the requested Member State and does not acquire the status of a claim of the requested Member State.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its second question the referring court asks, in essence, whether Article 10 of Directive 76/308 and Article 10 of Directive 2008/55 must be interpreted as meaning that the term ‘privilege’ referred to in those provisions refers to a preferential right attached to a claim, conferring on it a right of priority over other claims in the event of concurrent claims, or to any mechanism which results, in the event of concurrent claims, in the preferential payment of that claim. The referring court also asks whether Article 10 of Directive 76/308 and Article 10 of Directive 2008/55 must be interpreted as meaning that the option available to the tax authority of a requested Member State to set off claims in the event of concurrent claims constitutes a ‘privilege’ within the meaning of those provisions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It must be noted that Directives 76/308 and 2008/55 do not define the term ‘privilege’ or make reference to the law of the Member States for that purpose.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to the case-law of the Court, the terms of a provision of EU law which makes no express reference to the law of the Member States for the purpose of determining its meaning and scope must normally be given an autonomous and uniform interpretation throughout the European Union, which must take into account the context of that provision and the purpose of the legislation in question (see, in particular, judgments of 13 October 2016, Mikołajczyk, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A772&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑294/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A772" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:772</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A772" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>, and of 16 November 2017, Kozuba Premium Selection, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A869&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑308/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A869" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:869</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A869" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the objective of Directives 76/308 and 2008/55, it should be recalled that, in accordance with Article 1 of each directive, those directives establish general rules on mutual assistance to ensure the recovery in each Member State of the claims falling within the scope of those directives which arise in another Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows from the first, second and third recitals of Directive 76/308 that the purpose of that directive is to eliminate obstacles to the establishment and functioning of the common market resulting from the territorial limitation of the scope of application of national provisions relating to recovery (judgment of 18 October 2012, X, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A635&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑498/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A635" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:635</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A635" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That directive thus provides for measures of assistance in the form of the disclosure of information useful for the recovery, notification of instruments to the addressee and the recovery of claims which are the subject of an instrument permitting their enforcement (judgment of 18 October 2012, X, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A635&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑498/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A635" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:635</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A635" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">With regard to the context of the provisions concerned, it must be noted that Article 10 of that directive provides that the claims to be recovered are not to be given preferential treatment in the requested Member State. It thus establishes the rule that the privileges accorded to claims of the requested Member State are not to be accorded to claims in respect of which a request for recovery has been made.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The aforementioned Article 10 was amended by Directive 2001/44, and subsequently replaced by Article 10 of Directive 2008/55. Those directives introduced, by way of derogation from that rule, the possibility that the requested Member State could confer those privileges on the claims of the requesting Member State that are to be recovered.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Those provisions bear out the fact that even if, as has been noted in paragraphs 28 to 30 of the present judgment, those claims must, for the purposes of their recovery, be treated in the same way as the claims of the requested Member State, they are nevertheless distinct from the latter claims and do not, in principle, benefit from privileges in the requested Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Having regard to the foregoing considerations, it is appropriate to adopt a broad understanding of the term ‘privilege’ as referred to in those provisions, encompassing all the mechanisms that enable the requested Member State to obtain preferential or priority payment of its claims in the event of concurrent claims, by way of derogation from the principle of equality of creditors.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the set-off option at issue in the main proceedings, available to the Belgian tax authority in respect of its own tax claims, it is not possible to determine from the information provided by the referring court whether recourse to that option would enable that authority to obtain preferential or priority payment of its claims in the event of concurrent claims, or whether it is an ordinary set-off mechanism.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Should that option constitute an ordinary set-off mechanism intended to simplify the recovery procedure without conferring on the Belgian State a preferential right or a right of priority for the purposes of payment of its claims or any privilege derogating from the principle of equality of creditors, it would have to be regarded as falling within the scope of Article 6 of Directive 76/308 and Article 6 of Directive 2008/55, and therefore the Belgian State should also use it to recover another Member State’s claims in respect of which a request for recovery has been made, pursuant to those directives.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Conversely, should the use of the set-off option at issue in the main proceedings have the effect of conferring on the Belgian State such a preferential right or right of priority not available to the other creditors, that option would constitute, in derogation of the principle of equality of creditors in the event of concurrent claims, a ‘privilege’ within the meaning of Article 10 of Directive 76/308 and Article 10 of Directive 2008/55.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that situation, the Belgian State would not be able to use that option for the purpose of recovering the claims of another Member State in respect of which a request for recovery had been made, pursuant to those directives, since it is apparent from the order for reference that, in accordance with Article 15 of the Law of 20 July 1979, the claims to be recovered are not to benefit from any privilege.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In all events, it is important to emphasise that the requested Member State may use a set-off option such as that at issue in the main proceedings only for the benefit of the requesting Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the answer to the second question is:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 10 of Directive 76/308 and Article 10 of Directive 2008/55 must be interpreted as meaning that the term ‘privilege’ referred to in those provisions refers to any mechanism which results, in the event of concurrent claims, in the preferential payment of a claim.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 10 of Directive 76/308 and Article 10 of Directive 2008/55 must be interpreted as meaning that the option available to the requested Member State to set off claims in the event of concurrent claims constitutes a privilege, within the meaning of those provisions, where the use of that option has the effect of conferring on that Member State a preferential right or right of priority for the purposes of payment of its claims that is not available to the other creditors, which it is for the referring court to ascertain.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (First Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 6(2) of Council Directive 76/308/EEC of 15 March 1976 on mutual assistance for the recovery of claims resulting from operations forming part of the system of financing the European Agricultural Guidance and Guarantee Fund, and of the agricultural levies and customs duties, and the second paragraph of Article 6 of Council Directive 2008/55/EC of 26 May 2008 on mutual assistance for the recovery of claims relating to certain levies, duties, taxes and other measures must be interpreted as meaning that the claim of the requesting Member State is not to be treated as being a claim of the requested Member State and does not acquire the status of a claim of the requested Member State.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 10 of Directive 76/308 and Article 10 of Directive 2008/55 must be interpreted as meaning that:</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">the term ‘privilege’ referred to in those provisions refers to any mechanism which results, in the event of concurrent claims, in the preferential payment of a claim;</span>
+</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">the option available to the requested Member State to set off claims in the event of concurrent claims constitutes a privilege, within the meaning of those provisions, where the use of that option has the effect of conferring on that Member State a preferential right or right of priority for the purposes of payment of its claims that is not available to the other creditors, which it is for the referring court to ascertain.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62019CJ0019_EN_01-E0001" id="t-ECR_62019CJ0019_EN_01-E0001">*1</a>
+</span>)	Language of the case: French.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

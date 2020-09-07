@@ -1,0 +1,1560 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>ARRÊT DE LA COUR (première chambre)</p>
+<p class="sum-title-1">3 juillet 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0242_FR_01-E0001" id="c-ECR_62018CJ0242_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Système commun de taxe sur la valeur ajoutée (TVA) – Base d’imposition – Réduction – Principe de neutralité fiscale – Contrat de crédit-bail résilié pour non-paiement des échéances – Avis rectificatif – Champ d’application – Opérations imposables – Livraison de biens effectuée à titre onéreux – Paiement d’une “indemnité” de résiliation jusqu’au terme du contrat – Compétence de la Cour »</p>
+<p class="normal">Dans l’affaire C‑242/18,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par le Varhoven administrativen sad (Cour administrative suprême, Bulgarie), par décision du 26 mars 2018, parvenue à la Cour le 5 avril 2018, dans la procédure</p>
+<p class="normal">
+<span class="bold">« UniCredit Leasing » EAD</span>
+</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">Direktor na Direktsia « Obzhalvane i danachno-osiguritelna praktika » – Sofia pri Tsentralno upravlenie na Natsionalnata agentsia za prihodite (NAP),</span>
+</p>
+<p class="normal">LA COUR (première chambre),</p>
+<p class="normal">composée de M. J.‑C. Bonichot (rapporteur), président de chambre, M<span class="super">me</span> C. Toader, MM. A. Rosas, L. Bay Larsen et M. Safjan, juges,</p>
+<p class="normal">avocat général : M. N. Wahl,</p>
+<p class="normal">greffier : M. A. Calot Escobar,</p>
+<p class="normal">vu la procédure écrite,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour « UniCredit Leasing » EAD, par M<span class="super">es</span> I. Dimitrova et M. Raykov, advokati,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le Direktor na Direktsia « Obzhalvane i danachno-osiguritelna praktika » – Sofia pri Tsentralno upravlenie na Natsionalnata agentsia za prihodite (NAP), par M. N. Kalistratov, en qualité d’agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement bulgare, par M<span class="super">mes</span> E. Petranova et T. Mitova, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M. R. Lyal ainsi que par M<span class="super">mes</span> Y. Marinova et P. Mihaylova, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">vu la décision prise, l’avocat général entendu, de juger l’affaire sans conclusions,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation de l’article 90 de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="fr" target="CourtTab">JO 2006, L 347, p. 1</a>, ci-après la « directive TVA »).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant « UniCredit Leasing » EAD (ci-après « Unicredit ») au Direktor na Direktsia « Obzhlavane i danachno-osiguritelna praktika » – Sofia pri Tsentralno upravlenie na Natsionalnata agentsia za prihodite (NAP) [directeur de la direction « Recours et pratique en matière de fiscalité et de sécurité sociale » de Sofia de l’Agence nationale des recettes publiques (NAP), Bulgarie] (ci-après le « Direktor ») au sujet du refus de ce dernier de lui accorder une régularisation du montant de la taxe sur la valeur ajoutée (TVA) acquittée et relative aux échéances impayées d’un contrat de crédit‑bail.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit de l’Union</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">L’acte d’adhésion de la République de Bulgarie à l’Union européenne</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 2 de l’acte relatif aux conditions d’adhésion à l’Union européenne de la République de Bulgarie et de la Roumanie et aux adaptations des traités sur lesquels est fondée l’Union européenne (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2005:157:TOC" hreflang="fr" target="CourtTab">JO 2005, L 157, p. 203</a>) :</p>
+<p class="normal">« Dès l’adhésion, les dispositions des traités originaires et les actes pris, avant l’adhésion, par les institutions et la Banque centrale européenne lient la Bulgarie et la Roumanie et sont applicables dans ces États dans les conditions prévues par ces traités et par le présent acte. »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">La directive TVA</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 2, paragraphe 1, sous a), de la directive TVA dispose :</p>
+<p class="normal">« Sont soumises à la TVA les opérations suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">les livraisons de biens effectuées à titre onéreux sur le territoire d’un État membre par un assujetti agissant en tant que tel ».</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 14 de cette directive dispose :</p>
+<p class="normal">« 1.   Est considéré comme “livraison de biens”, le transfert du pouvoir de disposer d’un bien corporel comme un propriétaire.</p>
+<p class="normal">2.   Outre l’opération visée au paragraphe 1, sont considérées comme livraison de biens les opérations suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">la transmission, avec paiement d’une indemnité, de la propriété d’un bien en vertu d’une réquisition faite par l’autorité publique ou en son nom ou aux termes de la loi ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">la remise matérielle d’un bien en vertu d’un contrat qui prévoit la location d’un bien pendant une certaine période ou la vente à tempérament d’un bien, assorties de la clause que la propriété est normalement acquise au plus tard lors du paiement de la dernière échéance ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c)</p>
+</td>
+<td valign="top">
+<p class="normal">la transmission d’un bien effectuée en vertu d’un contrat de commission à l’achat ou à la vente.</p>
+</td>
+</tr>
+</table>
+<p class="normal">3.   Les États membres peuvent considérer comme livraison de biens la délivrance de certains travaux immobiliers. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 63 de ladite directive énonce :</p>
+<p class="normal">« Le fait générateur de la taxe intervient et la taxe devient exigible au moment où la livraison de biens ou la prestation de services est effectuée. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 73 de la même directive prévoit :</p>
+<p class="normal">« Pour les livraisons de biens et les prestations de services autres que celles visées aux articles 74 à 77, la base d’imposition comprend tout ce qui constitue la contrepartie obtenue ou à obtenir par le fournisseur ou le prestataire pour ces opérations de la part de l’acquéreur, du preneur ou d’un tiers, y compris les subventions directement liées au prix de ces opérations. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 90 de la directive TVA est libellé comme suit :</p>
+<p class="normal">« 1.   En cas d’annulation, de résiliation, de résolution, de non-paiement total ou partiel ou de réduction de prix après le moment où s’effectue l’opération, la base d’imposition est réduite à due concurrence dans les conditions déterminées par les États membres.</p>
+<p class="normal">2.   En cas de non-paiement total ou partiel, les États membres peuvent déroger au paragraphe 1. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 273 de ladite directive dispose :</p>
+<p class="normal">« Les États membres peuvent prévoir d’autres obligations qu’ils jugeraient nécessaires pour assurer l’exacte perception de la TVA et pour éviter la fraude, sous réserve du respect de l’égalité de traitement des opérations intérieures et des opérations effectuées entre États membres par des assujettis, et à condition que ces obligations ne donnent pas lieu dans les échanges entre les États membres à des formalités liées au passage d’une frontière.</p>
+<p class="normal">La faculté prévue au premier alinéa ne peut être utilisée pour imposer des obligations de facturation supplémentaires à celles fixées au chapitre 3. »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit bulgare</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 6 du Zakon za danak varhu dobavenata stoynost (loi relative à la taxe sur la valeur ajoutée), (DV n<span class="super">o</span> 63, du 4 août 2006, en vigueur à compter du 1<span class="super">er</span> janvier 2007, ci‑après le « ZDDS ») :</p>
+<p class="normal">« (1)   On entend par “livraison de biens” au sens de la présente loi le transfert du droit de propriété ou d’un autre droit réel sur les biens.</p>
+<p class="normal">(2)   Aux fins de la présente loi, est également considérée comme “livraison de biens” :</p>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3.</p>
+</td>
+<td valign="top">
+<p class="normal">(modifié au DV n<span class="super">o</span> 101 de 2013, en vigueur à compter du 1<span class="super">er</span> janvier 2014) La mise à disposition effective des biens en exécution d’un contrat de crédit-bail prévoyant expressément le transfert du droit de propriété sur ces biens ; la présente disposition s’applique également lorsque le contrat de crédit-bail ne prévoit qu’une option de transfert de la propriété sur les biens et que la somme des loyers dus en vertu dudit contrat, sans les intérêts au titre de l’article 46, paragraphe 1, point 1, est identique au prix normal des biens à la date de la mise à disposition [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 115 du ZDDS prévoit :</p>
+<p class="normal">« (1)   En cas de changement de base d’imposition ou de résiliation d’une livraison pour laquelle une facture a été émise, le fournisseur est tenu d’émettre une note relative à cette facture.</p>
+<p class="normal">(2)   (complété au DV n<span class="super">o</span> 97 de 2016, en vigueur à compter du 1<span class="super">er</span> janvier 2017) La note doit être émise dans les cinq jours qui suivent l’évènement visé au paragraphe 1, et lorsqu’elle concerne une livraison pour laquelle une facture a été émise, indiquant la TVA facturée sur le paiement d’un acompte, dans un délai de cinq jours à compter de la date du remboursement, de la compensation ou d’un autre règlement à titre onéreux du montant de l’acompte prévu, pour le montant remboursé, compensé ou réglé à titre onéreux d’une autre manière.</p>
+<p class="normal">(3)   Une note de débit est émise en cas d’augmentation de la base d’imposition et une note de crédit est émise en cas de diminution de la base d’imposition ou de résiliation de l’opération.</p>
+<p class="normal">(4)   Outre les éléments essentiels visés à l’article 114, une note relative à une facture doit obligatoirement préciser :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">le numéro et la date de la facture pour laquelle la note est émise ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">le motif de l’émission de cette note ;</p>
+</td>
+</tr>
+</table>
+<p class="normal">(5)   Une note doit être émise en deux exemplaires au moins : un pour le fournisseur et un pour le destinataire.</p>
+<p class="normal">(6)   En cas d’annulation ou de résiliation d’un contrat de crédit-bail visé à l’article 6, paragraphe 2, point 3, le fournisseur doit émettre une note de crédit correspondant à la différence entre la base d’imposition afférente à la livraison au sens de l’article 6, paragraphe 2, point 3, et le montant qui lui reste au titre dudit contrat, net de la TVA au titre de la présente loi.</p>
+<p class="normal">(7)   (nouveau, DV n<span class="super">o</span> 94 de 2012, en vigueur à compter du 1<span class="super">er</span> janvier 2013) La note concernant une facture peut ne pas contenir les éléments essentiels visés à l’article 114, paragraphe 1, points 12, 14 et 15, sauf lorsqu’elle concerne une opération dont le lieu d’exécution est sur le territoire d’un État membre, une opération intracommunautaire et une vente à distance de biens. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 116 du ZDDS énonce :</p>
+<p class="normal">« (1)   Il n’est pas permis d’apporter des rectifications et ajouts à des factures et aux notes y afférentes. Les documents établis ou rectifiés de manière erronée doivent être annulés et il convient d’en établir de nouveaux.</p>
+<p class="normal">(2)   Sont également considérés comme des documents établis de manière erronée les factures émises et les notes y afférentes, sur lesquels la TVA n’est pas indiquée alors qu’elle devrait l’être.</p>
+<p class="normal">(3)   Sont également considérés comme des documents établis de manière erronée les factures émises et les notes y afférentes, sur lesquels la TVA est indiquée alors qu’elle ne devrait pas l’être.</p>
+<p class="normal">(4)   Lorsque des documents établis de manière erronée ou rectifiés sont pris en compte dans les registres comptables du fournisseur ou du destinataire, pour les annuler, il convient d’établir, pour chacune des parties, un procès-verbal indiquant :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">le motif de l’annulation ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">le numéro et la date du document annulé ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3.</p>
+</td>
+<td valign="top">
+<p class="normal">le numéro et la date d’émission du nouveau document ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4.</p>
+</td>
+<td valign="top">
+<p class="normal">la signature des personnes qui ont établi le procès-verbal pour chacune des parties.</p>
+</td>
+</tr>
+</table>
+<p class="normal">(5)   Tous les exemplaires des documents annulés sont conservés par l’émetteur et ils sont inscrits dans les comptabilités du fournisseur et du destinataire conformément au règlement d’application de la loi. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Le paragraphe 9 des dispositions transitoires et finales du ZDDS dispose :</p>
+<p class="normal">« (1) Lorsque, en vertu d’un contrat de crédit-bail, les biens sont effectivement mis à disposition avant l’entrée en vigueur de la présente loi, tous les paiements suivants (mensualités de remboursements) en exécution de ce contrat dus après l’entrée en vigueur [du ZDDS] sont considérés comme des opérations individuelles, dont le fait générateur intervient à la date du paiement, ou, si elle est antérieure, à la date à laquelle celui-ci est devenu exigible.</p>
+<p class="normal">(2) Le paragraphe 1 s’applique seulement si, dans un délai d’un mois à compter de l’entrée en vigueur [du ZDDS], l’assujetti (fournisseur) remet à la direction territoriale de l’Agence nationale des recettes auprès de laquelle il est enregistré une liste sur laquelle figurent obligatoirement les informations suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">le destinataire en vertu des contrats visés au paragraphe 1 ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">le nombre et le montant des mensualités en vertu de tous les contrats pour lesquelles un document fiscal a été émis mais qui n’ont pas été versées ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3.</p>
+</td>
+<td valign="top">
+<p class="normal">le nombre et le montant des mensualités en vertu de tous les contrats pour lesquels le fait générateur au sens du paragraphe 1 interviendra après l’entrée en vigueur de la présente loi.</p>
+</td>
+</tr>
+</table>
+<p class="normal">(3) Pour les contrats qui ne figurent pas sur une liste remise conformément au paragraphe 2, il est considéré que, à la date de l’entrée en vigueur [du ZDDS], l’assujetti effectue une opération au sens de l’article 6, paragraphe 2, point 3, dont la base d’imposition est équivalente à la somme des mensualités dues après l’entrée en vigueur [du ZDDS], sans la TVA due sur celles-ci. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 128 du Danachno-osiguritelnia protsesualen kodeks (code de procédure en matière d’impôts et de cotisations sociales) (DV n<span class="super">o</span> 105, du 29 décembre 2005, en vigueur à compter du 1<span class="super">er</span> janvier 2006, ci‑après le « DOPK ») prévoit :</p>
+<p class="normal">« (1)   Les montants indûment payés ou perçus, pour des impôts, des cotisations sociales obligatoires, des amendes et sanctions pécuniaires imposées par les services des recettes, ainsi que les montants susceptibles d’être remboursés par l’Agence nationale des recettes en vertu de la législation des impôts ou de la sécurité sociale, doivent être compensés par les services des recettes pour le remboursement des dettes publiques exigibles collectées par l’Agence nationale des recettes. Il est possible d’effectuer une compensation avec une dette prescrite lorsque la créance du débiteur est devenue exigible avant que sa dette soit prescrite. [...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 129 du DOPK énonce :</p>
+<p class="normal">« (1)   La compensation ou le remboursement peut être effectué à l’initiative de l’administration fiscale ou sur demande écrite de l’intéressé. La demande de compensation ou de remboursement est examinée si elle est remise dans les cinq ans suivant le 1<span class="super">er</span> janvier de l’année suivant l’année de survenance du fait générateur du remboursement, à moins que la loi n’en dispose autrement.</p>
+<p class="normal">[...]</p>
+<p class="normal">(3)   (complété DV n<span class="super">o</span> 108 de 2007) L’avis de compensation ou de remboursement doit être émis dans un délai de 30 jours à compter de la réception de la demande si aucun contrôle n’est ordonné avant l’expiration de ce délai. Même en cas de compensation ou de remboursement, y compris lorsque l’avis visé à la première phrase fait l’objet d’un recours, les dettes d’impôts ou de cotisations sociales obligatoires sont susceptibles de faire l’objet d’un contrôle. Si l’avis fait l’objet d’un recours contentieux, il est possible d’émettre un avis rectificatif jusqu’au moment de l’entrée en vigueur de la décision de justice. [...]</p>
+<p class="normal">(7)   Les avis de compensation ou de remboursement sont susceptibles de recours selon les modalités des recours contre des avis rectificatifs. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 133 du DOPK dispose :</p>
+<p class="normal">« (1)   Une dette d’impôts ou de cotisations sociales obligatoires constatée par un avis rectificatif, qui est entré en vigueur et qui n’a pas fait l’objet d’un recours juridictionnel, peut être modifiée à l’initiative du service des recettes ou à la demande de la personne contrôlée.</p>
+<p class="normal">(2)   La dette est modifiée pour les motifs suivants :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">lorsqu’apparaissent de nouvelles circonstances ou de nouvelles preuves écrites essentielles pour constater les dettes d’impôts ou de cotisations sociales obligatoires, dont la personne, ou le service, qui a émis l’avis rectificatif ne pouvait pas avoir connaissance avant :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">l’émission de l’avis rectificatif, lorsque cet avis n’a pas fait l’objet d’un recours ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">l’entrée en vigueur de l’avis rectificatif, lorsque cet avis a fait l’objet d’un recours.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">lorsqu’il est constaté par une juridiction dûment saisie que les explications écrites données par un tiers, les conclusions d’experts, les déclarations écrites, sur la base desquelles est constatée la dette d’impôts ou de cotisations sociales obligatoires, sont fausses ou que le destinataire de l’avis, son représentant, ou le service des recettes qui a participé au constat des impôts ou des cotisations sociales obligatoires ou a examiné le recours contre l’avis modificatif, a commis une infraction pénale.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3.</p>
+</td>
+<td valign="top">
+<p class="normal">lorsque le constat de la dette est basé sur un document dûment reconnu par voie juridictionnelle comme un faux, comme contenant de fausses informations ou ayant fait l’objet d’une contrefaçon ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4.</p>
+</td>
+<td valign="top">
+<p class="normal">lorsque le constat de la dette est basé sur un acte d’une juridiction ou d’une autre autorité étatique qui a été annulé par la suite ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">5.</p>
+</td>
+<td valign="top">
+<p class="normal">lorsqu’un autre avis rectificatif contraire qui est entré en vigueur a été émis concernant les mêmes dettes, pour la même période et pour le même assujetti. [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 134 du DOPK est libellé comme suit :</p>
+<p class="normal">« (1)   (complété DV n<span class="super">o</span> 94 de 2015, en vigueur à compter du 1<span class="super">er</span> janvier 2016) Le service des recettes qui constate un motif de modification conformément à l’article 133, paragraphe 2, est tenu d’informer le directeur territorial en justifiant l’existence du motif. Après avoir apprécié l’existence d’un motif de modification, le directeur territorial peut confier ou décider de déléguer un contrôle permettant de modifier des dettes d’impôts ou de cotisations sociales obligatoires déjà déterminées.</p>
+<p class="normal">(2)   Une personne intéressée peut déposer une demande écrite auprès du directeur territorial, en y joignant les preuves qu’elle invoque.</p>
+<p class="normal">(3)   La modification est permise si la décision ordonnant le contrôle est émise ou la demande de modification est déposée dans un délai de trois mois de la connaissance du motif de modification et avant la fin du délai prévu à l’article 109.</p>
+<p class="normal">(4)   Dans un délai de trente jours après le dépôt de la demande visée au paragraphe 2, le directeur territorial ordonne ou refuse un contrôle par décision motivée. Une copie de la décision de refus est envoyée à la personne qui a déposé la demande, dans un délai de sept jours après qu’elle a été prise et au plus tard quatorze jours après l’expiration du délai prévu dans la première phrase du présent paragraphe.</p>
+<p class="normal">(5)   (modifié DV n<span class="super">o</span> 30 de 2006, en vigueur à compter du 1<span class="super">er</span> mars 2007) La personne intéressée peut introduire un recours contre la décision de refus dans un délai de quatorze jours à compter de la réception de la décision, et contre un rejet implicite, dans un délai de 30 jours à compter de l’expiration du délai de réponse, devant la juridiction administrative compétente pour examiner le recours dirigé contre l’avis rectificatif. Le recours est introduit par l’intermédiaire du directeur territorial. La juridiction se prononce sur le recours par une ordonnance qui n’est pas susceptible de recours.</p>
+<p class="normal">(6)   Lorsqu’il est constaté que la dette d’impôts ou de cotisations sociales obligatoires a été fixée à un montant supérieur ou inférieur à ce qui est dû, un avis rectificatif portant sur la différence est émis. S’il y a un trop-perçu, celui-ci est compensé ou remboursé par l’avis rectificatif. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 87 du Zakon za zadalzheniata i dogovorite (loi relative aux obligations et aux contrats) (ci-après le « ZZD ») prévoit :</p>
+<p class="normal">« (1)   Si le débiteur d’un contrat synallagmatique n’exécute pas ses obligations pour une raison qui lui est imputable, le créancier peut résilier le contrat dès lors qu’il l’a mis en demeure de les exécuter dans un délai approprié et l’a informé qu’à l’expiration de celui-ci le contrat serait considéré comme étant résilié. La mise en demeure doit être faite par écrit si le contrat a été conclu par écrit. [...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 88 du ZZD énonce :</p>
+<p class="normal">« (1)   La résiliation a un effet rétroactif sauf pour les contrats à exécution successive ou périodique. Le créancier a droit à réparation des préjudices causés par l’inexécution du contrat. [...] »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Le 6 février 2006, la société « BA Kreditanstalt Bulus » EOOD (ci‑après « Bulus » ou « le bailleur »), aux droits de laquelle est venue Unicredit, a conclu avec « Vizatel » OOD (ci‑après « le preneur ») un contrat de crédit‑bail avec option d’achat, en vertu duquel le bailleur s’engageait à acheter un terrain désigné par le preneur, à construire un bâtiment sur ce terrain et à mettre le tout à la disposition du preneur.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Ce contrat était conclu pour une durée de onze ans qui commençait à courir au début du mois suivant la remise matérielle de la chose objet du contrat, en contrepartie d’un loyer mensuel. Il stipulait que le bailleur pouvait mettre fin par anticipation au contrat en cas de non‑paiement d’au moins trois loyers par le preneur et exiger le paiement d’une indemnité égale à la somme de tous les loyers non payés sur toute la durée du crédit‑bail.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Le 5 décembre 2006, l’objet du contrat a été remis au preneur et le 28 décembre suivant, le bailleur a émis une facture avec TVA au titre de la première échéance. Par un avis rectificatif du 14 février 2008, l’administration fiscale bulgare a constaté une dette de TVA de Bulus, calculée sur une base d’imposition égale à la somme de l’ensemble des loyers dus sur toute la durée du contrat et l’a par la suite imputée sur une créance fiscale que ce dernier détenait sur le fisc.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Si le bailleur a continué à émettre des factures avec TVA jusqu’au 29 octobre 2010 puis du 4 août 2011 au 31 août 2012, le preneur a cessé de régler les échéances dues à partir du mois d’avril 2009. En raison de l’inexécution fautive de ses obligations par le preneur, Bulus a mis fin unilatéralement au contrat de crédit‑bail à compter du 6 juin 2015.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">C’est dans ces circonstances que Bulus a sollicité, auprès de l’administration fiscale bulgare, le remboursement de la TVA calculée dans l’avis rectificatif du 14 février 2008. Sa demande a toutefois été rejetée par décision du service des recettes compétent, laquelle a été confirmée par le Direktor.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Bulus a saisi l’Administrativen sad Sofia (tribunal administratif de Sofia, Bulgarie) d’un recours dirigé contre cette décision, que cette juridiction a rejeté.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Unicredit, venue aux droits de Bulus, a formé un pourvoi contre ce jugement devant le Varhoven administrativen sad (Cour administrative suprême, Bulgarie). Elle soutient notamment que l’Administrativen sad Sofia (tribunal administratif de Sofia) a méconnu le droit à la réduction de la base d’imposition à la TVA en cas de résiliation d’un contrat, garanti par l’article 90 de la directive TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi estime que le droit à correction de la base d’imposition à la TVA, lorsque cette base d’imposition est déterminée par un avis rectificatif entré en vigueur, et non par une facture, n’est pas applicable, dès lors qu’il s’agit d’un acte administratif constatant une dette fiscale. En outre et à supposer même que ce droit à correction soit applicable, il y aurait lieu de distinguer, d’une part, la période au cours de laquelle les échéances ont été réglées par le preneur et pour laquelle il n’y a pas lieu d’effectuer une correction de la base d’imposition à la TVA et, d’autre part, la période au cours de laquelle les échéances n’ont plus été réglées par le preneur jusqu’à la résiliation pour non‑paiement partiel et pour laquelle le rétablissement de la situation antérieure à la conclusion du contrat est, selon le droit national, impossible. Aussi, à supposer que l’on soit en présence d’un cas de non‑paiement partiel, et non de résiliation, au sens de l’article 90 de la directive TVA, la juridiction de renvoi souligne qu’aucune disposition du droit bulgare ne régit les modalités de réduction de la base d’imposition fixée par un avis rectificatif en cas de non‑paiement partiel ou total.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Enfin, la juridiction de renvoi s’interroge sur la correction de la base d’imposition à la TVA pour la période allant de la résiliation du contrat au terme prévu par celui-ci dès lors qu’il n’est pas établi, d’une part, que l’objet du contrat a été rendu au bailleur avant le terme de ce contrat et, d’autre part, que les dettes du preneur ont été définitivement réglées compte tenu de la clause de ce contrat prévoyant le versement au bailleur d’une indemnité en cas de résiliation pour inexécution fautive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">C’est dans ces conditions que le Varhoven administrativen sad (Cour administrative suprême) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« 1)</p>
+</td>
+<td valign="top">
+<p class="normal">La disposition de l’article 90, paragraphe 1, de la [directive TVA] permet-elle, en cas de résiliation d’un contrat de crédit‑bail, une réduction de la base d’imposition et un remboursement de la TVA calculée dans un avis rectificatif qui est entré en vigueur en prenant comme base d’imposition la somme des loyers mensuels de toute la durée prévue par le contrat ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2)</p>
+</td>
+<td valign="top">
+<p class="normal">Si la réponse à la première question est affirmative, en cas de résiliation d’un contrat de crédit‑bail en raison d’un non‑paiement partiel des loyers dus, quel cas de figure visé à l’article 90, paragraphe 1, de la [directive TVA] le bailleur peut-il invoquer contre un État membre afin d’obtenir une réduction de la base d’imposition à la TVA du montant des loyers dus mais non payés de la période allant de l’arrêt des paiements à la résiliation du contrat, puisque cette résiliation n’a pas d’effet rétroactif, cela étant confirmé par une clause du contrat ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3)</p>
+</td>
+<td valign="top">
+<p class="normal">Découle-t-il de l’interprétation de l’article 90, paragraphe 2, de la [directive TVA] qu’un cas de figure comme celui de l’espèce relève effectivement d’une dérogation au paragraphe 1 dudit article ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4)</p>
+</td>
+<td valign="top">
+<p class="normal">L’interprétation de l’article 90, paragraphe 1, de la [directive TVA] permet-elle de considérer que le terme “résiliation” employé dans cette disposition comprend les cas de figure dans lesquels, dans le cadre d’un contrat de crédit–bail sans option, le bailleur ne peut plus réclamer le paiement du loyer au preneur parce qu’il a résilié ledit contrat pour inexécution fautive de la part du preneur, mais, conformément au contrat, il a droit à une indemnité correspondant à la somme de tous les loyers non payés qui deviendront exigibles d’ici la fin de la durée de la location ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur la compétence de la Cour</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Selon une jurisprudence constante, la Cour est compétente pour interpréter le droit de l’Union uniquement pour ce qui concerne l’application de celui-ci dans un nouvel État membre à partir de la date d’adhésion de ce dernier à l’Union européenne (arrêts du 15 septembre 2011, Słaby e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A589&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑180/10 et C‑181/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A589&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2011:589</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A589&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point27" hreflang="fr" target="CourtTab" type="application/xhtml+xml">27</a>, ainsi que du 21 novembre 2018, Vădan, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A933&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑664/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A933&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2018:933</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A933&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point34" hreflang="fr" target="CourtTab" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Il en résulte, notamment, que la Cour n’est pas compétente pour interpréter des directives de l’Union relatives à la TVA lorsque la période de recouvrement des taxes en cause est antérieure à l’adhésion de l’État membre concerné à l’Union (arrêt du 27 juin 2018, Varna Holideis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑364/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2018:500</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point18" hreflang="fr" target="CourtTab" type="application/xhtml+xml">18</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">En revanche, la Cour est compétente pour interpréter le droit de l’Union lorsque les faits du litige au principal sont partiellement postérieurs à la date d’adhésion de l’État membre à l’Union (arrêt du 15 avril 2010, CIBA, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A185&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑96/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A185&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2010:185</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A185&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point15" hreflang="fr" target="CourtTab" type="application/xhtml+xml">15</a>) ou lorsqu’ils trouvent leur origine dans un contrat conclu avant l’adhésion de l’État membre à l’Union et que cette situation a continué à produire des effets après cette date (voir, par analogie, s’agissant d’un contrat de concession, arrêt du 15 décembre 2016, Nemec, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A954&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑256/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A954&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2016:954</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A954&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point22" hreflang="fr" target="CourtTab" type="application/xhtml+xml">22</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A954&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point23" hreflang="fr" target="CourtTab" type="application/xhtml+xml">23</a>, ainsi que, s’agissant de la constitution, par contrat, de droits d’usufruit, arrêt du 6 mars 2018, SEGRO et Horváth, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A157&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑52/16 et C‑113/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A157&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2018:157</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A157&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="fr" target="CourtTab" type="application/xhtml+xml">38</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A157&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point40" hreflang="fr" target="CourtTab" type="application/xhtml+xml">40</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, le contrat de crédit‑bail a été conclu en février 2006 et la TVA est devenue exigible à compter de la remise matérielle de la chose objet du contrat en décembre 2006. Les faits du litige au principal et la période de recouvrement sont donc antérieurs à l’adhésion de la République de Bulgarie, le 1<span class="super">er</span> janvier 2007, à l’Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Toutefois, il s’agissait d’un contrat à exécution successive qui imposait au preneur de payer pendant onze ans des loyers soumis à la TVA à compter du 28 décembre 2006. Dès lors, la situation née de ce contrat a continué à produire des effets après la date d’adhésion de la République de Bulgarie à l’Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, compte tenu des caractéristiques propres à ce contrat et de la persistance de ses effets juridiques après la date d’adhésion de cet État membre à l’Union, la Cour est compétente pour connaître des questions préjudicielles concernant les conséquences fiscales de son exécution.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les questions préjudicielles</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la première question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa première question, la juridiction de renvoi demande, en substance, si l’article 90, paragraphe 1, de la directive TVA doit être interprété en ce sens qu’il permet, en cas de résiliation d’un contrat de crédit‑bail, une réduction de la base d’imposition à la TVA calculée forfaitairement par un avis rectificatif sur l’ensemble des loyers dus sur toute la durée du contrat, alors que cet avis rectificatif serait entré en vigueur et constituerait ainsi un « acte administratif stable » constatant une dette fiscale.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il convient de rappeler que l’article 90, paragraphe 1, de cette directive, qui vise les cas d’annulation, de résiliation, de résolution, de non‑paiement total ou partiel ou de réduction de prix après le moment où s’effectue l’opération, oblige les États membres à réduire la base d’imposition à la TVA et, partant, le montant de la TVA due par l’assujetti chaque fois que, postérieurement à la conclusion d’une transaction, une partie ou la totalité de la contrepartie n’est pas perçue par l’assujetti. Cette disposition constitue l’expression d’un principe fondamental de la directive TVA selon lequel la base d’imposition est constituée par la contrepartie réellement reçue et dont le corollaire consiste en ce que l’administration fiscale ne saurait percevoir au titre de la TVA un montant supérieur à celui que l’assujetti avait perçu (arrêt du 6 décembre 2018, Tratave, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑672/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2018:989</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point29" hreflang="fr" target="CourtTab" type="application/xhtml+xml">29</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Il y a lieu de rappeler également que, si les États membres peuvent prévoir, en vertu de l’article 273 de la directive TVA, les obligations qu’ils jugent nécessaires pour assurer l’exacte perception de la TVA et pour éviter la fraude, ces mesures ne peuvent en principe déroger au respect des règles relatives à la base d’imposition que dans les limites strictement nécessaires pour atteindre cet objectif spécifique. En effet, elles doivent affecter le moins possible les objectifs et les principes de la directive TVA et ne peuvent, dès lors, être utilisées d’une manière telle qu’elles remettraient en cause la neutralité de la TVA (arrêt du 6 décembre 2018, Tratave, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑672/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2018:989</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="fr" target="CourtTab" type="application/xhtml+xml">31</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point33" hreflang="fr" target="CourtTab" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Il importe, par conséquent, que les formalités à remplir par les assujettis pour exercer, devant les autorités fiscales, le droit de procéder à une réduction de la base d’imposition à la TVA soient limitées à celles qui permettent de justifier que, postérieurement à la conclusion de la transaction, une partie ou la totalité de la contrepartie ne sera définitivement pas perçue. Il incombe à cet égard aux juridictions nationales de vérifier que tel est le cas des formalités exigées par l’État membre concerné (arrêt du 6 décembre 2018, Tratave, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑672/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2018:989</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point34" hreflang="fr" target="CourtTab" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Or, l’émission d’un avis rectificatif, tel que celui en cause au principal, ne saurait constituer une formalité visant à assurer l’exacte perception de la TVA et à éviter la fraude au sens de l’article 273 de la directive TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, l’émission d’un avis rectificatif, tel que celui en cause au principal, ne saurait, à elle seule, être de nature à justifier que l’assujetti ne puisse plus faire valoir, par la suite, son droit à réduction de la base d’imposition à la TVA en cas de résiliation du contrat.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Il en va ainsi, compte tenu des principes rappelés ci-dessus, alors même que, comme le souligne la juridiction de renvoi, l’avis rectificatif aurait, en application des règles nationales, acquis un caractère « stable », c’est-à-dire qu’il ne serait plus susceptible de recours.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit qu’il convient de répondre à la première question que l’article 90, paragraphe 1, de la directive TVA doit être interprété en ce sens qu’il permet, en cas de résiliation d’un contrat de crédit‑bail, une réduction de la base d’imposition à la TVA calculée forfaitairement par un avis rectificatif sur l’ensemble des loyers dus sur toute la durée du contrat, alors même que cet avis rectificatif serait entré en vigueur et constituerait ainsi un « acte administratif stable » constatant une dette fiscale en application du droit national.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur les deuxième à quatrième questions</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Sur la recevabilité de la quatrième question</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Le gouvernement bulgare soutient que la quatrième question est irrecevable. D’une part, la clause prévoyant une indemnité en cas de résiliation du contrat pour inexécution fautive serait nulle car contraire à l’ordre public en droit national. D’autre part, cette question porterait sur un contrat de crédit‑bail dépourvu d’option, alors que le contrat en cause au principal comprend précisément une option d’achat.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il importe de rappeler que, dans le cadre de la coopération entre la Cour et les juridictions nationales instituée à l’article 267 TFUE, il appartient au seul juge national, qui est saisi du litige et qui doit assumer la responsabilité de la décision juridictionnelle à intervenir, d’apprécier, au regard des particularités de l’affaire, tant la nécessité d’une décision préjudicielle pour être en mesure de rendre son jugement que la pertinence des questions qu’il pose à la Cour. En conséquence, dès lors que les questions posées portent sur l’interprétation du droit de l’Union, la Cour est, en principe, tenue de statuer (arrêt du 5 mars 2019, Eesti Pagar, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑349/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2019:172</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point47" hreflang="fr" target="CourtTab" type="application/xhtml+xml">47</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit que les questions relatives à l’interprétation du droit de l’Union posées par le juge national dans le cadre réglementaire et factuel qu’il définit sous sa propre responsabilité, et dont il n’appartient pas à la Cour de vérifier l’exactitude, bénéficient d’une présomption de pertinence. Le rejet par la Cour d’une demande formée par une juridiction nationale n’est possible que s’il apparaît de manière manifeste que l’interprétation sollicitée du droit de l’Union n’a aucun rapport avec la réalité ou l’objet du litige au principal, lorsque le problème est de nature hypothétique ou encore lorsque la Cour ne dispose pas des éléments de fait et de droit nécessaires pour répondre de façon utile aux questions qui lui sont posées (arrêt du 23 janvier 2019, M.A. e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A53&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑661/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A53&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2019:53</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A53&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point50" hreflang="fr" target="CourtTab" type="application/xhtml+xml">50</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">En outre, la Cour a itérativement jugé qu’il ne lui appartient pas, dans le cadre d’un renvoi préjudiciel, de se prononcer sur l’interprétation des dispositions nationales et de juger si l’interprétation qu’en donne la juridiction nationale est correcte, une telle interprétation relevant en effet de la compétence exclusive des juridictions nationales (arrêts du 16 février 2017, IOS Finance EFC, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A121&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑555/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A121&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:121</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A121&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point21" hreflang="fr" target="CourtTab" type="application/xhtml+xml">21</a>, ainsi que du 14 juin 2017, Online Games e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A452&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑685/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A452&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:452</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A452&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point45" hreflang="fr" target="CourtTab" type="application/xhtml+xml">45</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Enfin, il est constant que, dans le cadre de l’article 267 TFUE, la Cour n’a pas compétence pour appliquer les règles du droit de l’Union à une espèce déterminée. Il appartient dès lors à la juridiction de renvoi de procéder aux qualifications juridiques nécessaires pour la solution du litige au principal. En revanche, il incombe à la Cour de lui fournir toutes les indications nécessaires en vue de la guider dans cette appréciation, en reformulant, le cas échéant, la question qui lui est soumise (arrêt du 2 juillet 2015, NLB Leasing, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A440&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑209/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A440&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2015:440</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A440&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point25" hreflang="fr" target="CourtTab" type="application/xhtml+xml">25</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, le gouvernement bulgare fait valoir que la clause prévoyant une indemnité en cas de résiliation du contrat pour inexécution fautive est nulle car contraire à l’ordre public en droit national. Or, il n’appartient à la Cour ni de se prononcer sur l’interprétation du droit national, ni de s’assurer de l’exactitude du cadre réglementaire et factuel défini par la juridiction de renvoi.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Par ailleurs, il résulte du dossier dont dispose la Cour, ainsi que le relève le gouvernement bulgare, que le contrat de crédit-bail en cause au principal comporte une option d’achat. Cependant, la mention, à première vue erronée, dans un passage de la question préjudicielle de l’absence d’option n’est pas de nature à rendre la question posée purement hypothétique. En outre, il incombe à la Cour, dans le cadre d’un renvoi préjudiciel, d’apporter une réponse utile à la juridiction de renvoi en reformulant, le cas échéant, la question qui lui est soumise.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, la quatrième question, qui sera regardée par la Cour comme portant, ainsi que l’indique la juridiction de renvoi au point 4 de son ordonnance de renvoi, sur un contrat de crédit‑bail avec option d’achat, est recevable.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Sur le fond</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Par ses deuxième à quatrième questions, qu’il convient d’examiner ensemble, la juridiction de renvoi cherche à savoir si l’article 90 de la directive TVA doit être interprété en ce sens que, dans une situation telle que celle en cause au principal, il y a « résiliation » ou « non‑paiement » susceptible de relever de la dérogation à l’obligation de réduction de la base d’imposition à la TVA, prévue au paragraphe 2 de cet article, d’une part, en l’absence de versement d’une partie des loyers dus d’un contrat de crédit‑bail pour la période allant de l’arrêt des paiements à la résiliation du contrat, dès lors que cette résiliation n’a pas d’effet rétroactif, et, d’autre part, en l’absence de versement d’une indemnité due en cas de résiliation anticipée du contrat et correspondant à la somme de tous les loyers non payés jusqu’au terme de ce contrat.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 90, paragraphe 2, de la directive TVA permet aux États membres, en cas de non‑paiement total ou partiel du prix, de déroger à la règle rappelée au point 37 du présent arrêt selon laquelle ils sont tenus de réduire la base d’imposition à due concurrence chaque fois que, postérieurement à la conclusion d’une transaction, une partie ou la totalité de la contrepartie n’est pas perçue par l’assujetti.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi que la Cour l’a déjà jugé, cette faculté de dérogation, qui est strictement limitée aux cas de non–paiement total ou partiel, est fondée sur l’idée que le non‑paiement de la contrepartie peut, dans certaines circonstances et en raison de la situation juridique existant dans l’État membre concerné, être difficile à vérifier ou n’être que provisoire (arrêt du 23 novembre 2017, Di Maura, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑246/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:887</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point17" hreflang="fr" target="CourtTab" type="application/xhtml+xml">17</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">En effet, le non‑paiement du prix d’achat ne replace pas les parties dans leur état antérieur à la conclusion du contrat. D’un côté, l’acheteur reste, à tout le moins, redevable de l’intégralité du prix initialement convenu en cas de non‑paiement total ou de la partie du prix restant due en cas de non‑paiement partiel. D’un autre côté, le vendeur dispose toujours, en principe, de sa créance et peut s’en prévaloir en justice (voir, en ce sens, arrêt du 12 octobre 2017, Lombard Ingatlan Lízing, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A759&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑404/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A759&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:759</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A759&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point29" hreflang="fr" target="CourtTab" type="application/xhtml+xml">29</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, si les termes d’« annulation », de « résolution » et de « résiliation » se réfèrent à des situations dans lesquelles l’obligation du débiteur de s’acquitter de sa dette est soit complètement éteinte, soit arrêtée à un niveau définitivement déterminé, le non‑paiement est caractérisé par l’incertitude inhérente à sa nature non définitive (voir, en ce sens, arrêt du 12 octobre 2017, Lombard Ingatlan Lízing, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A759&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑404/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A759&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:759</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A759&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="fr" target="CourtTab" type="application/xhtml+xml">30</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A759&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="fr" target="CourtTab" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant, en premier lieu, des loyers dus pour la période allant de l’arrêt des paiements à la résiliation du contrat de crédit‑bail en cause, il y a lieu de relever que, en l’occurrence, le bailleur a résilié ce contrat à compter du 6 juin 2015. Cependant, la résiliation ne valant que pour l’avenir, en application de l’article 88 du ZZD, les échéances du contrat de crédit‑bail non payées par le preneur avant la date de sa résiliation demeurent dues et le bailleur dispose, en principe, toujours de sa créance, avec la possibilité de s’en prévaloir en justice.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">Dès lors, la réduction à due concurrence de la base d’imposition à la TVA en cas de résiliation prévue à l’article 90, paragraphe 1, de la directive TVA ne saurait s’appliquer à une telle créance, laquelle n’est pas remise en cause par la résiliation du contrat de crédit‑bail.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">Il en résulte que l’absence de versement d’une partie des échéances dues pour la période antérieure à la résiliation du contrat constitue un cas de non‑paiement partiel, au sens de l’article 90, paragraphe 1, de la directive TVA, au titre duquel l’État membre concerné peut, ainsi qu’il ressort des points 53 et 54 du présent arrêt, exercer sa faculté de dérogation à l’obligation de réduction de la base d’imposition prévue au paragraphe 2 de cet article.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, la Cour a déjà jugé qu’une disposition nationale qui, dans l’énumération des situations dans lesquelles la base d’imposition est réduite, ne vise pas celle du non‑paiement du prix de l’opération doit être regardée comme le résultat de l’exercice, par l’État membre, de la faculté de dérogation qui lui a été accordée en vertu de l’article 90, paragraphe 2, de la directive TVA (arrêt du 15 mai 2014, Almos Agrárkülkereskedelmi, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A328&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑337/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A328&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2014:328</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A328&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point24" hreflang="fr" target="CourtTab" type="application/xhtml+xml">24</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">Or, la juridiction de renvoi affirme que le droit bulgare ne contient pas de dispositions permettant la réduction de la base d’imposition à la TVA en cas de non‑paiement, l’article 115 du ZDDS ne prévoyant une telle correction qu’en cas d’annulation ou de résiliation. Partant, la République de Bulgarie doit être regardée comme ayant exercé sa faculté de dérogation à l’obligation de réduction de la base d’imposition en cas de non‑paiement, de sorte que le bailleur ne saurait se prévaloir d’un tel droit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">Cela étant, l’incertitude de recouvrer les sommes dues peut être prise en compte, conformément au principe de neutralité fiscale, en privant l’assujetti de son droit à réduction de la base d’imposition aussi longtemps que la créance ne présente pas un caractère définitivement irrécouvrable. Mais elle peut l’être également en accordant la réduction lorsque l’assujetti fait état d’une probabilité raisonnable que la dette ne soit pas honorée, sans préjudice de la possibilité que la base d’imposition soit réévaluée à la hausse dans l’hypothèse où le paiement interviendrait néanmoins. Il incomberait alors aux autorités nationales de déterminer, dans le respect du principe de proportionnalité et sous le contrôle du juge, les preuves d’une probable durée prolongée du non‑paiement à fournir par l’assujetti en fonction des particularités du droit national applicable. Une telle modalité serait aussi efficace pour atteindre l’objectif visé tout en étant moins contraignante pour l’assujetti, qui assure le préfinancement de la TVA en la collectant pour le compte de l’État (voir, en ce sens, arrêt du 23 novembre 2017, Di Maura, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑246/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:887</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point27" hreflang="fr" target="CourtTab" type="application/xhtml+xml">27</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il a été jugé qu’un tel constat vaut à plus forte raison dans le contexte d’une législation nationale en application de laquelle la certitude du caractère définitivement irrécouvrable de la créance ne peut être acquise, en pratique, qu’au terme d’une dizaine d’années. Un tel délai est, en tout état de cause, de nature à faire supporter aux entrepreneurs, lorsqu’ils sont confrontés au non‑paiement d’une facture, un désavantage de trésorerie par rapport à leurs concurrents d’autres États membres qui serait manifestement susceptible de bouleverser l’objectif d’harmonisation fiscale poursuivi par la directive TVA (arrêt du 23 novembre 2017, Di Maura, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑246/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:887</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point28" hreflang="fr" target="CourtTab" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, il ressort de la décision de renvoi que le preneur a cessé de régler les échéances dues à partir du mois d’avril 2009, soit depuis près de neuf ans à la date de la décision de renvoi. Or, il découle de ce qui précède que l’absence de recouvrement par l’assujetti des sommes qui lui sont dues pendant un délai prolongé conduit à le regarder comme faisant état d’une probabilité raisonnable que la dette ne soit pas honorée, à charge pour les autorités nationales, sous le contrôle du juge, de s’assurer que tel est bien le cas au vu des éléments de preuve fournis à cette fin.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, la faculté de dérogation prévue à l’article 90, paragraphe 2, de la directive TVA n’ayant vocation qu’à combattre l’incertitude liée au recouvrement des sommes dues, elle ne saurait trouver à s’appliquer dans une situation telle que celle en cause au principal, sans préjudice de la possibilité que la base d’imposition soit réévaluée à la hausse dans l’hypothèse où le paiement interviendrait néanmoins.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant, en second lieu, de l’indemnité due en cas de résiliation anticipée du contrat, il ressort de la décision de renvoi que le contrat de crédit‑bail stipulait que le bailleur pouvait exiger du preneur, en cas de résiliation pour inexécution fautive, le paiement d’une indemnité égale à la somme de tous les loyers non payés sur toute la durée du contrat, déduction faite de la valeur résiduelle de l’actif et de la redevance annuelle calculée sur la base du taux d’intérêt applicable pour le financement de l’opération. Il en résulte que les échéances du contrat de crédit‑bail peuvent être regardées comme étant dues après la date de sa résiliation, sous réserve de l’application de dispositions nationales contraires.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, le Direktor, le gouvernement bulgare et la Commission européenne font valoir que le paiement convenu à titre d’indemnité ne constitue pas une véritable indemnité de résiliation, mais la rémunération de l’opération faisant l’objet du contrat et soumise en tant que telle à la TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="normal">Aussi convient-il de rappeler qu’aux termes de l’article 2, paragraphe 1, sous a) et c), de la directive TVA, sont soumises à la TVA les livraisons de biens et les prestations de services, effectuées à titre onéreux sur le territoire d’un État membre par un assujetti agissant en tant que tel.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="normal">À ce titre, la Cour a jugé que la qualification d’« opération à titre onéreux » suppose uniquement l’existence d’un lien direct entre la livraison de biens ou la prestation de services et une contrepartie réellement reçue par l’assujetti. Un tel lien direct est établi lorsqu’il existe entre le prestataire et le bénéficiaire un rapport juridique dans le cadre duquel des prestations réciproques sont échangées, la rétribution perçue par le prestataire constituant la contre-valeur effective du service fourni au bénéficiaire (arrêt du 10 janvier 2019, A, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A12&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑410/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A12&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2019:12</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A12&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="fr" target="CourtTab" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="normal">Plus particulièrement, il a été jugé que le montant prédéterminé perçu par un opérateur économique en cas de résiliation anticipée par son client, ou pour un motif imputable à ce dernier, d’un contrat de prestation de services prévoyant une période minimale d’engagement, lequel montant correspond à la somme que cet opérateur aurait perçue pendant le reste de ladite période en l’absence d’une telle résiliation, doit être considéré comme la rémunération d’une prestation de services effectuée à titre onéreux et soumise en tant que telle à la TVA, alors même qu’une telle résiliation implique la désactivation des produits et services prévus par le contrat avant le terme de la période minimale d’engagement convenue (voir, en ce sens, arrêt du 22 novembre 2018, MEO – Serviços de Comunicações e Multimédia, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑295/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2018:942</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point12" hreflang="fr" target="CourtTab" type="application/xhtml+xml">12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point45" hreflang="fr" target="CourtTab" type="application/xhtml+xml">45</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point57" hreflang="fr" target="CourtTab" type="application/xhtml+xml">57</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, s’agissant d’abord de la condition tenant à l’existence de prestations réciproques établissant un lien direct entre le service rendu et la contrepartie reçue, il convient de relever que le versement, à titre d’indemnité de résiliation, des échéances en cause est un élément constitutif du contrat dans la mesure où l’existence du lien juridique unissant les parties dépend du versement desdites échéances.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="normal">En effet, il ressort des éléments à la disposition de la Cour que, dans le cadre du contrat de crédit‑bail en cause, le bailleur s’était engagé à acheter un terrain désigné par le preneur, à construire un bâtiment sur ce terrain et à mettre le tout à la disposition du preneur. En contrepartie, le preneur devait s’acquitter d’un loyer mensuel d’un montant de 833,78 euros pendant 132 mois, soit onze années, de manière à financer l’opération conformément à l’échéancier annexé à ce contrat. Par un accord du 29 octobre 2010, les parties ont d’ailleurs constaté que la construction du bien donné à bail était achevée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="normal">En outre, le montant dû en cas de résiliation du contrat avant le terme convenu correspond uniquement, ainsi qu’il a été dit au point 66 du présent arrêt, à la somme de tous les loyers non payés sur toute la durée du contrat. En sont donc exclues tant la redevance annuelle calculée sur la base du taux d’intérêt applicable pour le financement de l’opération que la valeur résiduelle de l’actif qui n’aurait été exigible qu’en cas de levée de l’option. Dès lors, le versement du montant dû en cas de résiliation anticipée du contrat permet au bailleur de percevoir les mêmes revenus que ceux qu’il aurait perçus en l’absence de celle-ci. Il s’ensuit que, dans le cadre d’un contrat du type de celui en cause au principal, la résiliation ne change pas la réalité économique de la relation contractuelle.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, il y a lieu de considérer que, dans un contrat tel que celui en cause au principal, la contrepartie du montant payé par le preneur au bailleur est constituée du droit du preneur de bénéficier de l’exécution, par cet opérateur, des obligations précises découlant du contrat, même si le preneur ne souhaite pas ou ne peut pas mettre en œuvre ce droit pour un motif qui lui est imputable. De fait, il importe peu que le preneur ait ou n’ait plus disposé du bien à compter de la date de résiliation du contrat, dès lors que le bailleur a mis le preneur en mesure de bénéficier des prestations découlant du contrat, la cessation de celles-ci ne lui étant pas imputable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant ensuite de la condition tenant à ce que les sommes versées constituent la contrepartie effective d’un service individualisable, il convient de rappeler que, dans une situation telle que celle en cause au principal, les obligations incombant au bailleur et le montant facturé au preneur en cas de résiliation anticipée du contrat ont été déterminés lors de la conclusion de ce contrat. En outre, le montant dû en cas de résiliation anticipée correspond au montant total des mensualités à échoir, lesquelles deviennent immédiatement exigibles sans que la réalité économique de la relation contractuelle s’en trouve modifiée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="normal">Il en résulte que le montant dû en cas de résiliation anticipée doit être considéré comme faisant partie intégrante du montant total que le preneur s’était engagé à verser pour l’exécution, par le bailleur, de ses obligations contractuelles.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="normal">La circonstance que l’administration fiscale bulgare a calculé la TVA sur une base d’imposition égale à la somme de l’ensemble des loyers dus sur toute la durée du contrat, ce que Bulus semble ne pas avoir contesté, confirme d’ailleurs que les sommes en cause constituent la contrepartie d’une prestation autonome et individualisable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="normal">Par conséquent, une indemnité de résiliation telle que celle en cause au principal doit être regardée comme constituant la rémunération de l’opération faisant l’objet du contrat de crédit-bail et soumise en tant que telle à la TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point79">79</p>
+</td>
+<td valign="top">
+<p class="normal">Dès lors, il convient de déterminer s’il y a « résiliation » ou « non‑paiement », au sens de l’article 90, paragraphe 1, de la directive TVA, en l’absence de versement des échéances correspondant à la somme de tous les loyers non payés de la résiliation jusqu’au terme du contrat.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point80">80</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi qu’il ressort du point 66 du présent arrêt, de telles sommes peuvent être regardées comme étant dues, de sorte que le bailleur dispose, en principe, toujours de sa créance avec la possibilité de s’en prévaloir en justice. De fait, le recouvrement des échéances dues pour la période postérieure à la résiliation du contrat présente, de prime abord, un caractère incertain.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point81">81</p>
+</td>
+<td valign="top">
+<p class="normal">Au demeurant, l’assujetti faisant état d’une probabilité raisonnable que la dette correspondant aux échéances antérieures à la résiliation du contrat ne soit pas honorée, compte tenu de l’absence de recouvrement des sommes dues pendant près de neuf ans, ce qu’il appartient à la juridiction de renvoi de vérifier, il y a lieu de considérer, dans un litige tel que celui en cause au principal, qu’une telle probabilité s’applique également aux échéances postérieures à la résiliation du contrat.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point82">82</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, la faculté de dérogation, prévue à l’article 90, paragraphe 2, de la directive TVA, ne saurait davantage trouver à s’appliquer au titre de la période postérieure à la résiliation du contrat, sans préjudice de la possibilité que la base d’imposition soit réévaluée à la hausse dans l’hypothèse où le paiement interviendrait néanmoins.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point83">83</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit qu’il convient de répondre aux deuxième à quatrième questions que l’article 90 de la directive TVA doit être interprété en ce sens que, dans une situation telle que celle en cause au principal, l’absence de versement d’une partie des loyers dus d’un contrat de crédit‑bail pour la période allant de l’arrêt des paiements à la résiliation non rétroactive du contrat, d’une part, et l’absence de versement d’une indemnité due en cas de résiliation anticipée du contrat et correspondant à la somme de tous les loyers non payés jusqu’au terme de ce contrat, d’autre part, constituent un cas de non‑paiement susceptible de relever de la dérogation à l’obligation de réduction de la base d’imposition à la TVA, prévue au paragraphe 2 de cet article, sauf à ce que l’assujetti fasse état d’une probabilité raisonnable que la dette ne soit pas honorée, ce qu’il appartient à la juridiction de renvoi de vérifier.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point84">84</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (première chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">L’article 90, paragraphe 1, de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée, doit être interprété en ce sens qu’il permet, en cas de résiliation d’un contrat de crédit-bail, une réduction de la base d’imposition à la taxe sur la valeur ajoutée calculée forfaitairement par un avis rectificatif sur l’ensemble des loyers dus sur toute la durée du contrat, alors même que cet avis rectificatif serait entré en vigueur et constituerait ainsi un « acte administratif stable » constatant une dette fiscale en application du droit national.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">L’article 90 de la directive 2006/112 doit être interprété en ce sens que, dans une situation telle que celle en cause au principal, l’absence de versement d’une partie des loyers dus d’un contrat de crédit-bail pour la période allant de l’arrêt des paiements à la résiliation non rétroactive du contrat, d’une part, et l’absence de versement d’une indemnité due en cas de résiliation anticipée du contrat et correspondant à la somme de tous les loyers non payés jusqu’au terme de ce contrat, d’autre part, constituent un cas de non‑paiement susceptible de relever de la dérogation à l’obligation de réduction de la base d’imposition à la taxe sur la valeur ajoutée, prévue au paragraphe 2 de cet article, sauf à ce que l’assujetti fasse état d’une probabilité raisonnable que la dette ne soit pas honorée, ce qu’il appartient à la juridiction de renvoi de vérifier.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0242_FR_01-E0001" id="t-ECR_62018CJ0242_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : le bulgare.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

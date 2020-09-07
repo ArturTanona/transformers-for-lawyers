@@ -1,0 +1,1886 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="coj-sum-title-1">18 June 2020 (<span class="coj-note">
+<a href="#t-ECR_62018CJ0276_EN_01-E0001" id="c-ECR_62018CJ0276_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Common system of value added tax (VAT) — Directive 2006/112/EC — Article 33 — Determination of the place where taxable transactions are carried out — Supply of goods with transport — Supply of goods dispatched or transported by or on behalf of the supplier — Regulation (EU) No 904/2010 — Articles 7, 13 and 28 to 30 — Cooperation between the Member States — Exchange of information)</p>
+<p class="coj-normal">In Case C‑276/18,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Fővárosi Közigazgatási és Munkaügyi Bíróság (Administrative and Labour Court, Budapest, Hungary), made by decision of 1 March 2018, received at the Court on 24 April 2018, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">KrakVet Marek Batko sp.k.</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága,</span>
+</p>
+<p class="coj-normal">THE COURT (Fifth Chamber),</p>
+<p class="coj-normal">composed of E. Regan (Rapporteur), President of the Chamber, I. Jarukaitis, E. Juhász, M. Ilešič and C. Lycourgos, Judges,</p>
+<p class="coj-normal">Advocate General: E. Sharpston,</p>
+<p class="coj-normal">Registrar: R. Şereş, Administrator,</p>
+<p class="coj-normal">having regard to the written procedure and further to the hearing on 20 June 2019,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">KrakVet Marek Batko sp.k., by P. Jalsovszky, T. Fehér and Á. Fischer, ügyvédek,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Hungarian Government, by M.Z. Fehér, M.M. Tátrai and Zs. Wagner, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Czech Government, by M. Smolek, J. Vláčil and O. Serdula, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ireland, by A. Joyce and J. Quaney, acting as Agents, and by N. Travers, Senior Counsel,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Italian Government, by G. Palmieri, acting as Agent, and by G. De Socio, avvocato dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Polish Government, by B. Majczyna, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the United Kingdom Government, by S. Brandon and Z. Lavery, acting as Agents, and by R. Hill, Barrister,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by L. Lozano Palacios, J. Jokubauskaitė and L. Havas, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">after hearing the Opinion of the Advocate General at the sitting on 6 February 2020,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 347, p. 1</a>), in particular Article 33 thereof, and Articles 7, 13 and 28 to 30 of Council Regulation (EU) No 904/2010 of 7 October 2010 on administrative cooperation and combating fraud in the field of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2010:268:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2010 L 268, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between KrakVet Marek Batko sp.k. (‘KrakVet’), a company incorporated under Polish law, and the Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága (National Appeal Board for Tax and Customs, Hungary) concerning the payment of value added tax (VAT) on the sale of goods through KrakVet’s website to purchasers residing in Hungary.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">EU law</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Directive 2006/112</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Recitals 17, 61 and 62 of Directive 2006/112 state:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(17)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Determination of the place where taxable transactions are carried out may engender conflicts concerning jurisdiction as between Member States, in particular as regards the supply of goods for assembly or the supply of services. Although the place where a supply of services is carried out should in principle be fixed as the place where the supplier has established his place of business, it should be defined as being in the Member State of the customer, in particular in the case of certain services supplied between taxable persons where the cost of the services is included in the price of the goods.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(61)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is essential to ensure uniform application of the VAT system. Implementing measures are appropriate to realise that aim.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(62)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Those measures should, in particular, address the problem of double taxation of cross-border transactions which can occur as the result of divergences between Member States in the application of the rules governing the place where taxable transactions are carried out.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Title V of that directive, entitled ‘Place of taxable transactions’, contains Chapter 1, itself entitled ‘Place of supply of goods’, which includes Section 2, relating to ‘Supply of goods with transport’. That section contains, inter alia, Articles 32 and 33 of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 32 of Directive 2006/112 provides:</p>
+<p class="coj-normal">‘Where goods are dispatched or transported by the supplier, or by the customer, or by a third person, the place of supply shall be deemed to be the place where the goods are located at the time when dispatch or transport of the goods to the customer begins.</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 33(1) of that directive:</p>
+<p class="coj-normal">‘By way of derogation from Article 32, the place of supply of goods dispatched or transported by or on behalf of the supplier from a Member State other than that in which dispatch or transport of the goods ends shall be deemed to be the place where the goods are located at the time when dispatch or transport of the goods to the customer ends, where the following conditions are met:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the supply of goods is carried out for a taxable person, or a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) or for any other non-taxable person;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the goods supplied are neither new means of transport nor goods supplied after assembly or installation, with or without a trial run, by or on behalf of the supplier.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Regulation No 904/2010</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Recitals 5, 7 and 8 of Regulation No 904/2010 state:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(5)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The tax harmonisation measures taken to complete the internal market should include the establishment of a common system for cooperation between the Member States, in particular as concerns exchange of information, whereby the Member States’ competent authorities are to assist each other and to cooperate with the Commission in order to ensure the proper application of VAT on supplies of goods and services, intra-Community acquisition of goods and importation of goods.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(7)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">For the purposes of collecting the tax owed, Member States should cooperate to help ensure that VAT is correctly assessed. They must therefore not only monitor the correct application of tax owed in their own territory, but should also provide assistance to other Member States for ensuring the correct application of tax relating to activity carried out on their own territory but owed in another Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(8)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Monitoring the correct application of VAT on cross-border transactions taxable in a Member State other than that where the supplier is established depends in many cases on information which is held by the Member State of establishment or which can be much more easily obtained by that Member State. Effective supervision of such transactions is therefore dependent on the Member State of establishment collecting, or being in a position to collect, that information.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 1(1) of that regulation provides:</p>
+<p class="coj-normal">‘This Regulation lays down the conditions under which the competent authorities in the Member States responsible for the application of the laws on VAT are to cooperate with each other and with the Commission to ensure compliance with those laws.</p>
+<p class="coj-normal">To that end, it lays down rules and procedures to enable the competent authorities of the Member States to cooperate and to exchange with each other any information that may help to effect a correct assessment of VAT, monitor the correct application of VAT, particularly on intra-Community transactions, and combat VAT fraud. In particular, it lays down rules and procedures for Member States to collect and exchange such information by electronic means.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In Chapter II of that regulation, entitled ‘Exchange of information on request’, Section 1, entitled ‘Request for information and for administrative enquiries’, includes Article 7 of that regulation, which provides:</p>
+<p class="coj-normal">‘1.   At the request of the requesting authority, the requested authority shall communicate the information referred to in Article 1, including any information relating to a specific case or cases.</p>
+<p class="coj-normal">2.   For the purpose of forwarding the information referred to in paragraph 1, the requested authority shall arrange for the conduct of any administrative enquiries necessary to obtain such information.</p>
+<p class="coj-normal">3.   Until 31 December 2014, the request referred to in paragraph 1 may contain a reasoned request for an administrative enquiry. If the requested authority takes the view that the administrative enquiry is not necessary, it shall immediately inform the requesting authority of the reasons thereof.</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In Chapter III of Regulation No 904/2010, entitled ‘Exchange of information without prior request’, Article 13 of that regulation states:</p>
+<p class="coj-normal">‘1.   The competent authority of each Member State shall, without prior request, forward the information referred to in Article 1 to the competent authority of any other Member State concerned, in the following cases:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">where taxation is deemed to take place in the Member State of destination and the information provided by the Member State of origin is necessary for the effectiveness of the control system of the Member State of destination;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">where a Member State has grounds to believe that a breach of VAT legislation has been committed or is likely to have been committed in the other Member State;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">where there is a risk of tax loss in the other Member State.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">2.   The exchange of information without prior request shall be either automatic, in accordance with Article 14, or spontaneous, in accordance with Article 15.</p>
+<p class="coj-normal">3.   The information shall be forwarded by means of standard forms adopted in accordance with the procedure provided for in Article 58(2).’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In Chapter VII of that regulation, Article 28 thereof provides:</p>
+<p class="coj-normal">‘1.   By agreement between the requesting authority and the requested authority, and in accordance with the arrangements laid down by the latter, officials authorised by the requesting authority may, with a view to exchanging the information referred to in Article 1, be present in the offices of the administrative authorities of the requested Member State, or any other place where those authorities carry out their duties. Where the requested information is contained in documentation to which the officials of the requested authority have access, the officials of the requesting authority shall be given copies thereof.</p>
+<p class="coj-normal">2.   By agreement between the requesting authority and the requested authority, and in accordance with the arrangements laid down by the latter, officials authorised by the requesting authority may, with a view to exchanging the information referred to in Article 1, be present during the administrative enquiries carried out in the territory of the requested Member State. Such administrative enquiries shall be carried out exclusively by the officials of the requested authority. The officials of the requesting authority shall not exercise the powers of inspection conferred on officials of the requested authority. They may, however, have access to the same premises and documents as the latter, through the intermediation of the officials of the requested authority and for the sole purpose of carrying out the administrative enquiry.</p>
+<p class="coj-normal">3.   The officials of the requesting authority present in another Member State in accordance with paragraphs 1 and 2 must at all times be able to produce written authority stating their identity and their official capacity.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Chapter VIII of Regulation No 904/2010, entitled ‘Simultaneous controls’, contains Articles 29 and 30 of that regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 29 of that regulation is worded as follows:</p>
+<p class="coj-normal">‘Member States may agree to conduct simultaneous controls whenever they consider such controls to be more effective than controls carried out by only one Member State.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 30 of that regulation:</p>
+<p class="coj-normal">‘1.   A Member State shall identify independently the taxable persons which it intends to propose for a simultaneous control. The competent authority of that Member State shall notify the competent authority of the other Member States concerned of the cases proposed for a simultaneous control. It shall give reasons for its choice, as far as possible, by providing the information which led to its decision. It shall specify the period of time during which such controls should be conducted.</p>
+<p class="coj-normal">2.   The competent authority of the Member State that receives the proposal for a simultaneous control shall confirm its agreement or communicate its reasoned refusal to its counterpart authority, in principle within two weeks of receipt of the proposal, but within a month at the latest.</p>
+<p class="coj-normal">3.   Each competent authority of the Member States concerned shall appoint a representative to be responsible for supervising and coordinating the control operation.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Directive (EU) 2017/2455</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Council Directive (EU) 2017/2455 of 5 December 2017 amending Directive 2006/112/EC and Directive 2009/132/EC as regards certain value added tax obligations for supplies of services and distance sales of goods (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2017:348:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2017 L 348, p. 7</a>) provides, in Article 2 thereof, entitled ‘Amendments to Directive 2006/112/EC with effect from 1 January 2021’:</p>
+<p class="coj-normal">‘With effect from 1 January 2021, Directive 2006/112/EC is amended as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In Article 14, the following paragraph is added:</p>
+<p class="coj-normal">“4. For the purposes of this Directive, the following definitions shall apply:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">‘intra-Community distance sales of goods’ means supplies of goods dispatched or transported by or on behalf of the supplier, including where the supplier intervenes indirectly in the transport or dispatch of the goods, from a Member State other than that in which dispatch or transport of the goods to the customer ends, where the following conditions are met:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the supply of goods is carried out for a taxable person, or a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) or for any other non-taxable person;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the goods supplied are neither new means of transport nor goods supplied after assembly or installation, with or without a trial run, by or on behalf of the supplier;</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…”</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(3)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 33 is replaced by the following:</p>
+<p class="coj-ti-art">
+<span class="coj-italic">“Article 33</span>
+</p>
+<p class="coj-normal">By way of derogation from Article 32:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the place of supply of intra-Community distance sales of goods shall be deemed to be the place where the goods are located at the time when dispatch or transport of the goods to the customer ends;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the place of supply of distance sales of goods imported from third territories or third countries into a Member State other than that in which dispatch or transport of the goods to the customer ends, shall be deemed to be the place where the goods are located at the time when dispatch or transport of the goods to the customer ends;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the place of supply of distance sales of goods imported from third territories or third countries into the Member State in which dispatch or transport of the goods to the customer ends shall be deemed to be in that Member State, provided that VAT on those goods is to be declared under the special scheme of Section 4 of Chapter 6 of Title XII.”</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Hungarian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 2 of the általános forgalmi adóról szóló 2007. évi CXXVII. törvény (Law CXXVII of 2007 on value added tax), in the version applicable to the dispute in the main proceedings (‘the Law on VAT’), provides:</p>
+<p class="coj-normal">‘The following shall be subject to the tax provided for by this Law:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the supply of goods or services for consideration within the national territory by the taxable person acting as such,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 25 of the Law on VAT:</p>
+<p class="coj-normal">‘When the goods are not shipped or transported, the place of supply shall be deemed to be the place where the goods are located at the time when the supply takes place.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 29(1) of the Law on VAT is worded as follows:</p>
+<p class="coj-normal">‘By way of derogation from Articles 26 and 28, where the goods are shipped or transported by or on behalf of a supplier and the supply results in the goods arriving in a Member State of the Community other than the Member State from which they were shipped or transported, the place of supply of the goods shall be deemed to be the place where the goods are located at the time of the arrival of the shipment or transport addressed to the purchaser, where the following conditions are met:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the supply of goods:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(aa)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">is carried out for a taxable person or a non-taxable legal person whose intra-Community acquisitions of goods are not subject to VAT under Article 20(1)(a) and (d), or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(ab)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">for a non-taxable person or body; and</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the goods supplied are:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(ba)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">neither new means of transport</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(bb)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">nor goods supplied that require assembly or installation, with or without a trial run.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 82(1) of the Law on VAT provides:</p>
+<p class="coj-normal">‘The amount of the tax shall be 27% of the tax base.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 2(1) of the adózás rendjéről szóló 2003. évi XCII. törvény (Law XCII of 2003 on the rules governing taxation), in the version applicable to the dispute in the main proceedings (‘the Law on Taxation’), provides:</p>
+<p class="coj-normal">‘All rights in legal relationships for tax purposes shall be exercised in accordance with their purpose. Under the tax laws, the conclusion of contracts or the carrying out of other transactions whose purpose is to circumvent the provisions of tax laws may not be classified as exercise of rights in accordance with their purpose.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 6(1) of the Law on Taxation states:</p>
+<p class="coj-normal">‘“Taxpayer or taxable person” shall mean any person who is under a tax obligation or an obligation to pay a tax pursuant to a law establishing a tax or budgetary support or pursuant to this Law.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 86(1) of the Law on Taxation:</p>
+<p class="coj-normal">‘The tax authority, in order to prevent erosion of tax revenues and improper requests for budget support and tax refunds, shall regularly check taxpayers and other persons involved in the tax system. The purpose of the checks is to establish whether the obligations imposed by the tax laws and other legislation have been complied with or infringed. When carrying out a check, the tax authority shall disclose and demonstrate the facts, circumstances or information to be used as the basis for a finding of infringement or of abuse of rights and for the administrative procedure initiated on account of that infringement or abuse of rights.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 95(1) of the Law on Taxation provides:</p>
+<p class="coj-normal">‘The tax authority shall carry out the check by examining the documents, supporting documents, accounting ledgers and registers required in order to determine the amounts which serve as the basis for tax or budget support, including the electronic data, software, and computer systems used by the taxpayer as well as calculations and other facts, information and circumstances relating to the maintenance of accounts and accounting records and the processing of supporting documents.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 170(1) of the Law on Taxation provides:</p>
+<p class="coj-normal">‘If the tax payment is insufficient, this shall give rise to a tax penalty. The amount of the penalty, save as otherwise provided for in this Law, shall be 50% of the unpaid amount. The amount of the penalty shall be 200% of the unpaid amount if the difference compared with the amount to be paid is connected with the concealment of income, or the falsification or destruction of evidence, accounting ledgers or registers. …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Point 3 of Article 178 of the Law on Taxation provides:</p>
+<p class="coj-normal">‘… the following definitions shall apply:</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">“difference in taxation” means the difference between, on the one hand, the amount of tax or budget support declared (notified), not declared (non-notified), or established or applied on the basis of a declaration (notification) and, on the other hand, the amount of tax or budget support subsequently determined by the tax authority, not including the difference in the balance to be carried forward to subsequent periods.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">KrakVet is a company established in Poland. It has neither an office nor a warehouse in Hungary, and it is not disputed by the Hungarian tax authorities that it has no establishment for VAT purposes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Its activity consists in the sale of products for animals which it markets, inter alia, via its website, the address of which is www.zoofast.hu. KrakVet had several customers in Hungary through that website.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">During 2012, it offered on that website the possibility for purchasers to conclude a contract with a transport company established in Poland for the purposes of delivering the goods marketed by it, without itself being a party to that contract. Purchasers could, however, other than picking up purchased goods directly from KrakVet’s warehouse, freely choose a carrier other than the recommended one. Furthermore, KrakVet entrusted some of its own logistical needs to that transport company.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Where necessary, the goods in question were delivered by that transport company to the warehouses of two courier companies established in Hungary, which then distributed them to Hungarian customers. Payment of the price of the goods purchased was made upon delivery to the courier service or by advance payment into a bank account.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since it was uncertain as to the Member State responsible for collecting the VAT relating to its activities, KrakVet applied to the tax authorities of the Member State in which it has its registered office for a ruling in that regard. By an advance tax ruling, the Polish tax authorities took the view that the place where KrakVet’s transactions were carried out was in Poland and that KrakVet had to pay VAT in that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The first-tier Hungarian tax authority carried out an inspection of KrakVet in order to verify a posteriori the VAT returns for the year 2012. In that context, KrakVet, as a taxable person, was assigned a technical tax identification number by that tax authority.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In view of the limited information on KrakVet and the way it operates from a tax point of view, the first-tier Hungarian tax authority was not in a position to determine whether KrakVet was established in Hungary for VAT purposes. That tax authority therefore carried out checks in relation to the activity carried on by KrakVet.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the context of those administrative tax proceedings, the first-tier Hungarian tax authority made, inter alia, inquiries to the Polish tax authorities on the basis of the rules on cooperation laid down in EU tax law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By decision of 16 August 2016, the first-tier Hungarian tax authority required KrakVet to pay a sum corresponding to the difference in taxation of VAT, a penalty and default interest, plus a fine for failure to comply with its obligations to register with the Hungarian tax authority.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">KrakVet appealed against that decision to the defendant in the main proceedings, acting as second-tier tax authority, which upheld the decision of the first-tier Hungarian tax authority by decision of 23 January 2017. The latter decision is challenged by KrakVet before the referring court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court considers that the resolution of the dispute in the main proceedings depends, first, on the scope of the obligation of cooperation between the authorities of the Member States under Regulation No 904/2010 and, second, on the interpretation of the concept of supplies of goods dispatched or transported ‘by or on behalf of the supplier’, within the meaning of Article 33 of Directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In particular, it asks whether it is possible for the Hungarian tax authorities, in the light of the principle of fiscal neutrality and the objective of avoiding double taxation, to adopt a different position from that of the Polish tax authorities. As the case may be, the referring court considers that it is necessary to clarify, first, the requirements stemming from the obligation of cooperation between the tax authorities of the Member States with regard to determining the place of supply of goods at issue in the main proceedings and, second, the conditions relating to any right to repayment of overpaid VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In addition, it is necessary to clarify whether the transactions at issue in the main proceedings fall within the scope of Article 33 of Directive 2006/112, which would mean that the place of supply must be deemed to be in the Member State where the goods are located when dispatch or transport to the purchaser ends. In that regard, the referring court is uncertain as to whether such an interpretation might be affected by the amendments to EU law that will enter into force on 1 January 2021, in accordance with Directive 2017/2455, pursuant to which transport carried out on behalf of the vendor would also cover cases in which the transport or dispatch of the goods is carried out indirectly on behalf of the vendor.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, the situation at issue in the main proceedings raises the question whether, in the light of the specific circumstances, KrakVet’s practice can be regarded as abusive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the Fővárosi Közigazgatási és Munkaügyi Bíróság (Administrative and Labour Court, Budapest, Hungary) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Must the objectives of [Directive 2006/112], in particular the requirements for the prevention of jurisdictional conflicts between Member States and double taxation, referred to in recitals 17 and 62 thereof, and [Regulation No 904/2010], in particular recitals 5, 7 and 8 and Articles 7, 13 and 28 to 30 thereof, be interpreted as precluding a practice of the tax authorities of a Member State which, by attributing to a transaction a qualification that differs both from the legal interpretation of the same transaction and the same facts that was carried out by the tax authorities of another Member State and from the response to the binding inquiry provided by those authorities on the basis of that interpretation, as well as from the confirmatory conclusion of both that those authorities reached in the tax inspection they carried out, gives rise to the double taxation of the taxable person?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If the answer to the first question is that such a practice is not contrary to EU law, can the tax authorities of a Member State, taking into account [Directive 2006/112], unilaterally determine the tax obligation, without taking into consideration that the tax authorities of another Member State have already confirmed, on various occasions, first at the request of the taxable person and later in its decisions as a result of an inspection, the lawfulness of that taxable person’s actions?</p>
+<p class="coj-normal">Or should the tax authorities of both Member States cooperate to reach an agreement, in the interests of the principle of fiscal neutrality and the prevention of double taxation, so that the taxable person has to pay [VAT] in only one of those countries?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(3)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If the response to the second question is that the tax authorities of a Member State can change the qualification of a tax unilaterally, should the provisions of [Directive 2006/112] be interpreted as meaning that the tax authorities of a second Member State are obliged to return to the taxable person required to pay VAT the tax determined by those authorities in response to a binding inquiry and paid in relation to a period closed with an inspection, so that both the prevention of double taxation and the principle of fiscal neutrality are guaranteed?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(4)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">How should the expression in the first sentence of Article 33(1) of [Directive 2006/112], according to which the transport is carried out “by or on behalf of the supplier”, be interpreted? Does this expression include the case in which the taxable person offers as a seller, in an online shopping platform, the possibility for the buyer to enter into a contract with a logistics company, with which the seller collaborates for operations other than the sale, when the buyer can also freely choose a carrier other than the one proposed, and the transport contract is concluded by the buyer and the carrier, without the intervention of the seller?</p>
+<p class="coj-normal">Is it relevant, for interpretative purposes — especially taking into account the principle of legal certainty — that by the year 2021 the Member States must amend legislation transposing the aforementioned provision of [Directive 2006/112], so that Article 33(1) of that directive must also be applied in case of indirect collaboration in the choice of carrier?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(5)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Should EU law, specifically [Directive 2006/112], be interpreted as meaning that the facts mentioned below, taken as a whole or separately, are relevant to examine whether, among the independent companies that carry out a delivery, expedition or transport of goods the taxable person has arranged, to circumvent Article 33 of [Directive 2006/112] and thereby infringe the law, legal relationships that seek to take advantage of the fact that the VAT is lower in the other Member State:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(5.1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the logistics company carrying out the transport is linked to the taxable person and provides other services, independent of transport,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(5.2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">at the same time, the customer may at any time depart from the option proposed by the taxable person, which is to order the transport to the logistics company with which it maintains a contractual link, being able to entrust the transport to another carrier or personally collect the goods?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The first three questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its first three questions, which it is appropriate to examine together, the referring court asks, in essence, whether Directive 2006/112 and Articles 7, 13 and 28 to 30 of Regulation No 904/2010 must be interpreted as precluding the tax authorities of a Member State from being able, unilaterally, to subject transactions to VAT treatment different from that under which they have already been taxed in another Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It should be recalled that Title V of Directive 2006/112 contains specific provisions for determination of the place of taxable transactions, the object of which is, in accordance with, inter alia, recitals 17 and 62 of that directive, to avoid conflicts of jurisdiction which may result in double taxation or non-taxation (see, to that effect, judgment of 29 March 2007, Aktiebolaget NN, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A195&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑111/05</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A195" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2007:195</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A195" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">43</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it must be observed that, as is apparent from recitals 5 and 7 thereof, the objective of Regulation No 904/2010 is, through the establishment of a common system for cooperation between the Member States, in particular as concerns exchange of information, to help ensure that VAT is correctly assessed, in particular as regards activities carried on in the territory of one Member State but for which the relevant VAT is owed in another Member State. As the EU legislature acknowledged in recital 8 of that regulation, monitoring the correct application of VAT on cross-border transactions taxable in a Member State other than that where the supplier is established depends in many cases on information which is held by the Member State of establishment or which can be much more easily obtained by that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Thus, that regulation, in accordance with Article 1(1) thereof, lays down the conditions under which the competent authorities in the Member States responsible for the application of the laws on VAT are to cooperate with each other and with the Commission to ensure compliance with those laws and, to that end, lays down rules and procedures to enable the competent authorities of the Member States to cooperate and to exchange with each other any information that may help to effect a correct assessment of VAT, monitor the correct application of VAT, particularly on intra-Community transactions, and combat VAT fraud.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">To that end, Articles 7 and 13 of Regulation No 904/2010 concern, in accordance with the headings of Chapters II and III thereof, in which, respectively, those articles are found, the exchange of information between the competent authorities of the Member States either following a request made by one of them or without a prior request. As regards Article 28 of that regulation, it relates, as is apparent from the heading of Chapter VII thereof, in which it is included, to the issue of the presence of officials authorised by the requesting authority in the administrative offices of the requested Member State and of their participation in administrative enquiries carried out in the territory of that Member State. Furthermore, Articles 29 and 30 of that regulation, in accordance with the heading of Chapter VIII thereof, of which they form part, relate to simultaneous controls which Member States may agree to conduct.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Regulation No 904/2010 therefore enables the establishment of a common system of cooperation whereby the tax authorities of one Member State may submit a request to the tax authorities of another Member State, in particular where, in the light of the duty to cooperate in order to help ensure that VAT is correctly assessed, set out in recital 7 of that regulation, such a request may prove expedient, or even necessary (see, to that effect, judgment of 17 December 2015, WebMindLicenses, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑419/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:832</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">57</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That may be so, in particular, where the tax authorities of a Member State know or should reasonably know that the tax authorities of another Member State have information which is useful, or even essential, for determining whether VAT is chargeable in the first Member State (judgment of 17 December 2015, WebMindLicenses, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑419/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:832</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">58</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, it must be stated that Regulation No 904/2010 is confined to enabling administrative cooperation for the purposes of exchanging information that may be necessary for the tax authorities of the Member States. That regulation does not therefore govern the powers of those authorities to carry out, in the light of such information, the classification of the transactions concerned under Directive 2006/112 (see, by analogy, judgment of 27 January 2009, Persche, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A33&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑318/07</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A33" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:33</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">62</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">63</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that Regulation No 904/2010 does not lay down either an obligation requiring the tax authorities of two Member States to cooperate in order to reach a common solution as regards the treatment of a transaction for VAT purposes or a requirement that the tax authorities of one Member State be bound by the classification given to that transaction by the tax authorities of another Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Moreover, it must be stated that the correct application of Directive 2006/112 makes it possible to avoid double taxation and to ensure fiscal neutrality and, thus, to achieve the objectives recalled in paragraph 42 of the present judgment (see, to that effect, judgment of 26 July 2017, Toridas, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A599&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑386/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A599" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:599</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A599" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">43</a>). Therefore, the existence in one or several other Member States of different approaches to that prevailing in the Member State concerned must not, in any event, lead to a misapplication of the provisions of that directive (see, to that effect, judgment of 5 July 2018, Marcandi, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A540&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑544/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A540" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:540</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A540" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">65</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Where they find that the same transaction has been the object of a different tax treatment in another Member State, the courts of a Member State before which a dispute raises issues involving an interpretation of provisions of EU law and requiring a decision by them have the power, or even — depending on whether there is a judicial remedy under national law against their decisions — the obligation, to refer a request for a preliminary ruling to the Court (judgment of 5 July 2018, Marcandi, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A540&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑544/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A540" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:540</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A540" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">64</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A540" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">66</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That being so, if it transpires, as the case may be following a preliminary ruling from the Court, that VAT has already been overpaid in a Member State, it should be noted that, according to the Court’s settled case-law, the right to a refund of charges levied in a Member State in breach of rules of EU law is the consequence and complement of the rights conferred on individuals by provisions of EU law as interpreted by the Court. The Member State concerned is therefore required, in principle, to repay charges levied in breach of EU law. The claim for repayment of overpaid VAT concerns the right to recovery of sums paid but not due which, according to settled case-law, helps to offset the consequences of the tax’s incompatibility with EU law by neutralising the economic burden which that tax has wrongly imposed on the trader who, in fact, has ultimately borne it (judgment of 14 June 2017, Compass Contract Services, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A454&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑38/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A454" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:454</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A454" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A454" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing, the answer to the first three questions is that Directive 2006/112 and Articles 7, 13 and 28 to 30 of Regulation No 904/2010 must be interpreted as not precluding the tax authorities of a Member State from being able, unilaterally, to subject transactions to VAT treatment different from that under which they have already been taxed in another Member State.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The fourth question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its fourth question, the referring court asks, in essence, whether Article 33 of Directive 2006/112 must be interpreted as meaning that, when goods sold by a supplier established in one Member State to purchasers residing in another Member State are delivered to those purchasers by a company recommended by that supplier, but with which the purchasers are free to enter into a contract for the purpose of that delivery, those goods must be regarded as dispatched or transported ‘by or on behalf of the supplier’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As a preliminary point, it should be noted that Article 2 of Directive 2017/2455 provides that goods are dispatched or transported by or on behalf of the supplier, including where the supplier intervenes indirectly in the transport or dispatch of the goods.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, as is apparent from both the heading and the wording of that provision, the amendment to Directive 2006/112 for which it provides will not take effect until 1 January 2021.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, given that that amendment is not applicable <span class="coj-italic">ratione temporis</span> to the dispute in the main proceedings, there is no need to take account of the criterion relating to the indirect intervention of the supplier for the purposes of determining the conditions under which goods are to be regarded as dispatched or transported ‘by or on behalf of the supplier’, within the meaning of Article 33 of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Having clarified that point, it must be observed that, in accordance with Article 32 of that directive, where goods are dispatched or transported by the supplier, or by the customer, or by a third person, the place of supply is deemed to be the place where the goods are located at the time when dispatch or transport of the goods to the customer begins.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, by way of derogation, Article 33 of that directive provides that the place of supply of goods dispatched or transported by or on behalf of the supplier from a Member State other than that in which dispatch or transport of the goods ends is deemed to be, subject to compliance with certain conditions set out in that provision, the place where the goods are located at the time when dispatch or transport of the goods to the customer ends.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, while it constitutes a derogation from Article 32 of Directive 2006/112, Article 33 thereof seeks to ensure that, in accordance with the underlying logic of the provisions of that directive concerning the place where goods are supplied, the goods are taxed as far as possible at the place of consumption (see, to that effect, judgment of 13 March 2019, Srf konsulterna, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A195&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑647/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A195" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:195</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A195" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In order to determine what is to be understood by a dispatch or supply ‘by or on behalf of the supplier’, within the meaning of Article 33 of that directive, it must be borne in mind that consideration of the economic and commercial realities forms a fundamental criterion for the application of the common system of VAT (see, to that effect, judgment of 2 May 2019, Budimex, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A347&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑224/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A347" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:347</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A347" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of that economic and commercial reality, as the Advocate General observed in point 102 of her Opinion, goods are dispatched or transported on behalf of the supplier if it is the supplier, rather than the customer, that effectively takes the decisions governing how those goods are to be dispatched or transported.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, it must be held that a supply of goods falls within the scope of Article 33 of Directive 2006/112 where the role of the supplier is predominant in terms of initiating and organising the essential stages of the dispatch or transport of the goods.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="coj-normal">While it is for the referring court to assess whether that is the case in the dispute pending before it, taking into account all the factors at issue in the main proceedings, the Court considers it useful to provide the referring court with the following guidance for the purposes of that assessment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As is apparent from the information provided by the referring court, the applicant in the main proceedings claims, in particular, that the goods at issue cannot be regarded as having been dispatched or transported on its behalf, given that, even though it recommended a transport company to the purchasers who bought goods from it, it was those purchasers who mandated that transport company by means of a contract to which it was not a party.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the importance of contractual terms in categorising a taxable transaction, it should be borne in mind that, in so far as the contractual position normally reflects the economic and commercial reality of the transactions, the relevant contractual terms constitute a factor to be taken into consideration (see, to that effect, judgment of 20 June 2013, Newey, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A409&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑653/11</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A409" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:409</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A409" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">43</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It may, however, become apparent that, sometimes, certain contractual terms do not wholly reflect the economic and commercial reality of the transactions (judgment of 20 June 2013, Newey, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A409&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑653/11</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A409" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:409</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A409" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, contractual terms such as those at issue in the main proceedings cannot be regarded as reflecting the economic and commercial reality of the transactions at issue if, by means of those terms, the purchasers merely endorse the choices made by the supplier, which it is for the referring court to verify through an overall analysis of the circumstances of the dispute in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, in order to determine whether the goods concerned have been dispatched or transported on behalf of the supplier, account must be taken, first, of the significance of the issue of delivering those goods to the purchasers in the light of the commercial practices which characterise the activity carried on by the supplier concerned. In particular, it may be considered that, if that activity consists in actively offering goods for consideration to purchasers residing in a Member State other than that in which the supplier is established and in whose territory it does not have an establishment or warehouse, the organisation by that supplier of the means enabling the goods concerned to be delivered to their purchasers constitutes, in principle, an essential part of that activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In order to assess whether the supplier actively offers goods to purchasers residing in a Member State, the referring court may, inter alia, take into account the extension of the address of the website on which the goods concerned are offered and the language in which that site is accessible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Secondly, it is necessary to assess to whom, the supplier or the purchaser, the choices relating to the methods of dispatch or transport of the goods concerned may in fact be attributed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that respect, dispatch or transport of the goods concerned on behalf of the supplier cannot be inferred on account of the mere fact that the contract concluded by the purchasers for the purposes of delivering those goods is concluded with a company which collaborates with that supplier for activities other than the sale of the latter’s goods.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The position would, however, be different if, by that contract, the purchasers merely acquiesce to the choices made by the supplier, whether they concern the designation of the company responsible for delivering the goods concerned or the manner in which those goods are dispatched or transported.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="coj-normal">An assessment to that effect could be inferred, in particular, from factors such as the reduced choice of companies, or even choice limited to a single company, recommended by the supplier for the purposes of delivering the goods concerned, or the fact that the contracts relating to the dispatch or transport of those goods may be concluded directly from that supplier’s website without the purchasers having to take independent steps to contact the companies responsible for that delivery.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Thirdly, it is necessary to examine which economic operator bears the burden of risk in relation to the dispatch and supply of the goods at issue.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, the applicant in the main proceedings claims that the contractual terms binding the purchaser and the transport company indicate that such burden is borne by the latter and infers therefrom that the goods at issue in the main proceedings were not dispatched or transported on its behalf. However, it must be noted that the fact that the burden of risk in relation to the delivery of the goods concerned is borne by the transport company does not, in itself, affect the question whether the transport of those goods is carried out on behalf of the supplier or on behalf of the purchaser.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That being so, it could be considered that, notwithstanding the contractual terms placing the burden of risk on the company responsible for the delivery of those goods, their dispatch or transport is carried out on behalf of the supplier if the latter in fact ultimately bears the costs relating to compensation for damage occurring during that dispatch or transport.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Fourthly, it is necessary to assess the payment arrangements relating both to the supply of the goods concerned and to their dispatch or their transport. If, while purchasers are formally linked to the supplier and the transport company by separate contracts, the acquisition of those goods and their dispatch or transport are the subject of a single financial transaction, such a circumstance must be regarded as indicative of the significant involvement of the supplier in the delivery of those goods.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point79">79</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, as the applicant in the main proceedings acknowledged at the hearing before the Court, it is common practice for purchasers to pay, on receipt of the goods concerned and to the carrier of those goods, both the amount for those goods and the amount for their transport.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point80">80</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Such involvement of the supplier would also be found, bearing in mind the economic and commercial reality of the transactions at issue, if it were established that, as a matter of principle or subject to the fulfilment of certain conditions, such as reaching a minimal purchase amount, the amount of the dispatch or transport costs is merely symbolic or that the supplier grants a discount on the price of the goods which has the same effect.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point81">81</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, according to the information available to the Court and subject to verification by the referring court, it would be possible to consider that the applicant in the main proceedings played a predominant role having regard both to the initiation and the organisation of the essential stages of the dispatch or transport of the goods at issue in the main proceedings, with the result that those goods must be regarded as having been delivered on behalf of the supplier, within the meaning of Article 33 of Directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point82">82</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing considerations, the answer to the fourth question is that Article 33 of Directive 2006/112 must be interpreted as meaning that, when goods sold by a supplier established in one Member State to purchasers residing in another Member State are delivered to those purchasers by a company recommended by that supplier, but with which the purchasers are free to enter into a contract for the purpose of that delivery, those goods must be regarded as dispatched or transported ‘by or on behalf of the supplier’ where the role of that supplier is predominant in terms of initiating and organising the essential stages of the dispatch or transport of those goods, which it is for the referring court to ascertain, taking account of all the facts of the dispute in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The fifth question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point83">83</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its fifth question, the referring court seeks, in essence, to ascertain whether EU law and, in particular, Directive 2006/112 must be interpreted as meaning that it is necessary to find that transactions by which goods sold by a supplier are delivered to purchasers by a company recommended by that supplier constitute an infringement of the law when, on the one hand, there is a connection between the supplier and that company, in the sense that, irrespective of that delivery, the company takes charge of some of the supplier’s logistical needs, but, on the other hand, the purchasers remain free to make use of another company or personally collect the goods.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point84">84</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be pointed out that preventing possible tax evasion, avoidance and abuse is an objective recognised and encouraged by that directive and that the effect of the principle that abusive practices are prohibited, which applies to the field of VAT, is to bar wholly artificial arrangements which do not reflect economic reality and are set up with the sole aim of obtaining a tax advantage (judgment of 17 December 2015, WebMindLicenses, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑419/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:832</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point85">85</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is settled case-law of the Court that, in the sphere of VAT, an abusive practice can be found to exist only if two conditions are satisfied, namely, first, the transactions concerned, notwithstanding formal application of the conditions laid down by the relevant provisions of that directive and the national legislation transposing it, result in the accrual of a tax advantage the grant of which would be contrary to the purpose of those provisions and, secondly, it is apparent from a number of objective factors that the essential aim of the transactions concerned is solely to obtain that tax advantage (judgment of 10 July 2019, Kuršu zeme, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A588&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑273/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A588" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:588</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A588" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point86">86</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As a preliminary point, it must therefore be stated that, since the existence of an abusive practice presupposes the formal application of the conditions laid down by the relevant provisions of Directive 2006/112, the referring court cannot consider whether the conduct of the applicant in the main proceedings may be abusive if it finds, in the light of the guidance given in the answer to the fourth question, that the applicant infringed Article 33 of that directive, given that it is necessary to find that the goods at issue in the main proceedings were delivered on behalf of the supplier, within the meaning of that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point87">87</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Having made that clarification, it should be noted that the referring court considers that the supplier at issue in the main proceedings benefited from the lower rate of VAT of the Member State in which it is established, since the provisions laid down by Article 33 of that directive on supplies of goods dispatched or transported by or on behalf of the supplier have not been applied to it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point88">88</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards, in the first place, whether transactions in which a supplier established in one Member State supplies goods for consideration to purchasers residing in the territory of another Member State while recommending to them a transport company for the purposes of delivering those goods result in the accrual of a tax advantage contrary to the objectives of Directive 2006/112, it must first be pointed out that, should the derogation provided for in Article 33 of that directive not apply to those transactions, they fall within the scope of Article 32 of the directive, which provides that the place of supply is deemed to be the place where the goods are located at the time when dispatch or transport of the goods to the customer begins.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point89">89</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Secondly, the differences between the standard rates of VAT applied by the Member States result from the absence of full harmonisation by Directive 2006/112, which sets only the minimum rate. Accordingly, enjoyment in a Member State of a standard rate of VAT lower than the standard rate in force in another Member State cannot be regarded in itself as a tax advantage the grant of which is contrary to the objectives of that directive (judgment of 17 December 2015, WebMindLicenses, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑419/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:832</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point90">90</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards, in the second place, whether the essential aim of a transaction is solely to obtain that tax advantage, the Court has already held in the sphere of VAT that, where the taxable person has a choice between two transactions, he is not obliged to choose the one which involves paying the higher amount of VAT but, on the contrary, may choose to structure his business so as to limit his tax liability. Taxable persons are thus generally free to choose the organisational structures and the form of transactions which they consider to be most appropriate for their economic activities and for the purpose of limiting their tax burdens (judgment of 17 December 2015, WebMindLicenses, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑419/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:832</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">42</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point91">91</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, in order to find that the circumstances at issue in the main proceedings constitute an abusive practice, it must be established that the distinction between the supplier of the goods concerned and the carrier its recommends is a wholly artificial arrangement concealing the fact that those two companies in fact constitute a single economic entity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point92">92</p>
+</td>
+<td valign="top">
+<p class="coj-normal">For the purposes of such an assessment, it must be noted, first, that it is immaterial that the purchasers of goods are able to entrust the transport of those goods to a carrier other than that recommended by the supplier.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point93">93</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Secondly, the fact that there is a connection between the supplier and the transport company, in the sense that the company provides other logistical services to the supplier, irrespective of the transport of the supplier’s goods, does not appear to be decisive in itself.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point94">94</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, it would be possible to conclude that there is a wholly artificial arrangement if the services of dispatch or transport of the goods concerned by the company recommended by the supplier are not provided as part of a genuine economic activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point95">95</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It must be stated that none of the evidence submitted to the Court demonstrates that the transport company recommended by the supplier at issue in the main proceedings did not carry out a genuine economic activity, which was not limited to meeting certain logistical needs of that supplier and the delivery of that supplier’s goods. It therefore appears that that transport company engaged in activity in its own name and on its own behalf, under its own responsibility and at its own risk (see, to that effect, judgment of 17 December 2015, WebMindLicenses, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑419/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:832</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point96">96</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing considerations, the answer to the fifth question is that EU law and, in particular, Directive 2006/112 must be interpreted as meaning that it is not necessary to find that transactions by which goods sold by a supplier are delivered to purchasers by a company recommended by that supplier constitute an infringement of the law when, on the one hand, there is a connection between the supplier and that company, in the sense that, irrespective of that delivery, the company takes charge of some of the supplier’s logistical needs, but, on the other hand, the purchasers remain free to make use of another company or personally collect the goods, since those circumstances are not liable to affect the finding that the supplier and the transport company recommended by it are independent companies which engage, on their own behalf, in genuine economic activities and, consequently, those transactions cannot be classified as abusive.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point97">97</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax and Articles 7, 13 and 28 to 30 of Council Regulation (EU) No 904/2010 of 7 October 2010 on administrative cooperation and combating fraud in the field of value added tax must be interpreted as not precluding the tax authorities of a Member State from being able, unilaterally, to subject transactions to value added tax treatment different from that under which they have already been taxed in another Member State.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 33 of Directive 2006/112 must be interpreted as meaning that, when goods sold by a supplier established in one Member State to purchasers residing in another Member State are delivered to those purchasers by a company recommended by that supplier, but with which the purchasers are free to enter into a contract for the purpose of that delivery, those goods must be regarded as dispatched or transported ‘by or on behalf of the supplier’ where the role of that supplier is predominant in terms of initiating and organising the essential stages of the dispatch or transport of those goods, which it is for the referring court to ascertain, taking account of all the facts of the dispute in the main proceedings.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">3.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">EU law and, in particular, Directive 2006/112 must be interpreted as meaning that it is not necessary to find that transactions by which goods sold by a supplier are delivered to purchasers by a company recommended by that supplier constitute an infringement of the law when, on the one hand, there is a connection between the supplier and that company, in the sense that, irrespective of that delivery, the company takes charge of some of the supplier’s logistical needs, but, on the other hand, the purchasers remain free to make use of another company or personally collect the goods, since those circumstances are not liable to affect the finding that the supplier and the transport company recommended by it are independent companies which engage, on their own behalf, in genuine economic activities and, consequently, those transactions cannot be classified as abusive.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62018CJ0276_EN_01-E0001" id="t-ECR_62018CJ0276_EN_01-E0001">*1</a>
+</span>)	Language of the case: Hungarian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

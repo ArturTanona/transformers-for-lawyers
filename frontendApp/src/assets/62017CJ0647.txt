@@ -1,0 +1,683 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="sum-title-1">13 March 2019 (<span class="note">
+<a href="#t-ECR_62017CJ0647_EN_01-E0001" id="c-ECR_62017CJ0647_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Value added tax (VAT) — Directive 2006/112/EC — Article 53 — Supply of services in respect of admission to educational events — Place of taxable transactions)</p>
+<p class="normal">In case C‑647/17,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Högsta förvaltningsdomstolen (Supreme Administrative Court, Sweden), made by decision of 9 November 2017, received at the Court on 20 November 2017, in the proceedings</p>
+<p class="normal">
+<span class="bold">Skatteverket</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Srf konsulterna AB,</span>
+</p>
+<p class="normal">THE COURT (Fifth Chamber),</p>
+<p class="normal">composed of E. Regan (Rapporteur), President of the Chamber, C. Lycourgos, E. Juhász, M. Ilešič and I. Jarukaitis, Judges,</p>
+<p class="normal">Advocate General: E. Sharpston,</p>
+<p class="normal">Registrar: C. Strömholm, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 18 October 2018,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Skatteverket, by A.-S. Pallasdies, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Swedish Government, by A. Falk, C. Meyer-Seitz and H. Shev, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the French Government, by D. Colas, E. de Moustier and A. Alidière, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the United Kingdom Government, by S. Brandon and G. Brown, acting as Agents, and by E. Mitrophanous, Barrister,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by K. Simonsson, J. Jokubauskaitė, G. Tolstoy and E. Ljung Rasmussen, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 10 January 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 53 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" target="CourtTab">OJ 2006 L 347, p. 1</a>), as amended by Council Directive 2008/8/EC of 12 February 2008 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:044:TOC" hreflang="en" target="CourtTab">OJ 2008 L 44, p. 11</a>) (‘the VAT Directive’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between the Skatteverket (local Swedish tax authorities) and Srf konsulterna AB (‘Srf’) concerning a tax ruling by the Skatterättsnämnden (Revenue Law Commission, Sweden) relating to the collection, in Sweden, of value added tax (VAT) on the provision of accounting and management courses lasting five days in another Member State from taxable persons who have established their business or have a fixed establishment in Sweden.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">EU law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Directive 2006/112</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Chapter 3 of Title V of the VAT Directive, concerning the place of taxable transactions, is entitled ‘Place of supply of services’. Section 2 of that chapter, entitled ‘General Rules’, contains Articles 44 and 45 of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 44 of that directive is worded as follows:</p>
+<p class="normal">‘The place of supply of services to a taxable person acting as such shall be the place where that person has established his business. However, if those services are provided to a fixed establishment of the taxable person located in a place other than the place where he has established his business, the place of supply of those services shall be the place where that fixed establishment is located. In the absence of such place of establishment or fixed establishment, the place of supply of services shall be the place where the taxable person who receives such services has his permanent address or usually resides.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Section 3 of Chapter 3 of Directive 2006/112 is entitled ‘Particular provisions’ and contains Articles 46 to 59a of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 53 of that directive provides:</p>
+<p class="normal">‘The place of supply of services in respect of admission to cultural, artistic, sporting, scientific, educational, entertainment or similar events, such as fairs and exhibitions, and of ancillary services related to the admission, supplied to a taxable person, shall be the place where those events actually take place.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Directive 2008/8/EC</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Council Directive 2008/8/EC of 12 February 2008 amending Directive 2006/112 as regards the place of supply of services (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:044:TOC" hreflang="en" target="CourtTab">OJ 2008 L 44, p. 11</a>), states, in recitals 3 and 6 thereof:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(3)</p>
+</td>
+<td valign="top">
+<p class="normal">For all supplies of services the place of taxation should, in principle, be the place where the actual consumption takes place. If the general rule for the place of supply of services were to be altered in this way, certain exceptions to this general rule would still be necessary for both administrative and policy reasons.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(6)</p>
+</td>
+<td valign="top">
+<p class="normal">In certain circumstances, the general rules as regards the place of supply of services for both taxable and non-taxable persons are not applicable and specified exclusions should apply instead. These exclusions should be largely based on existing criteria and reflect the principle of taxation at the place of consumption, while not imposing disproportionate administrative burden upon certain traders.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Implementing Regulation (EU) No 282/2011</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Recitals 4 and 27 of Council Implementing Regulation (EU) No 282/2011 of 15 March 2011 laying down implementing measures for Directive 2006/112 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:077:TOC" hreflang="en" target="CourtTab">OJ 2011 L 77, p. 1</a>) (‘the Implementing Regulation’) state as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(4)</p>
+</td>
+<td valign="top">
+<p class="normal">The objective of this Regulation is to ensure uniform application of the current VAT system by laying down rules implementing [the VAT] Directive, in particular in respect of taxable persons, the supply of goods and services, and the place of taxable transactions. In accordance with the principle of proportionality as set out in Article 5(4) [TEU], this Regulation does not go beyond what is necessary in order to achieve this objective. Since it is binding and directly applicable in all Member States, uniformity of application will be best ensured by a Regulation.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(27)</p>
+</td>
+<td valign="top">
+<p class="normal">In order to ensure uniform treatment of supplies of cultural, artistic, sporting, scientific, educational, entertainment and similar services, admission to such events and ancillary services which are related to admission need to be defined.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 32 of the Implementing Regulation:</p>
+<p class="normal">‘1.   Services in respect of admission to cultural, artistic, sporting, scientific, educational, entertainment or similar events as referred to in Article 53 of [the VAT] Directive shall include the supply of services of which the essential characteristics are the granting of the right of admission to an event in exchange for a ticket or payment, including payment in the form of a subscription, a season ticket of a periodic fee.</p>
+<p class="normal">2.   Paragraph 1 shall apply in particular to:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">the right of admission to educational and scientific events such as conferences and seminars.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 33 of that regulation provides:</p>
+<p class="normal">‘The ancillary services referred to in Article 53 of [the VAT] Directive shall include services which are directly related to admission to cultural, artistic, sporting, scientific, educational, entertainment of similar events and which are supplied separately for a consideration to a person attending an event.</p>
+<p class="normal">Such ancillary services shall include in particular the use of cloakrooms or sanitary facilities but shall not include mere intermediary services relating to the sale of tickets.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Swedish law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Under Paragraph 5 of Chapter 5 of the mervärdesskattelagen (1994:200) (Law 1994:200 on value added tax), the place of supply of services to a taxable person is in Sweden if the taxable person either has established his business in Sweden or has a fixed establishment there and the service was supplied to that establishment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 11a of Chapter 5 of that law provides that the place of supply of services in respect of admission to cultural, artistic, sporting, scientific, educational, entertainment or similar events, such as fairs and exhibitions, to a taxable person is within Sweden where those events actually take place there. The same applies as regards ancillary services related to admission.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Srf is a company established in Sweden that is wholly owned by a professional association for accounting, management and salary consultants. Within that framework, it provides accounting and management courses in the form of seminars for the members of that association and third parties. Most of those courses are provided in Sweden, but some take place in other Member States, in which case the trainers of that association travel to the Member State in question. The courses are provided only to taxable persons whose business is established or who have a fixed establishment in Sweden.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">The training courses are given at a conference centre and last 30 hours, spread over five days, with one day’s break in the middle. The syllabus is decided in advance, but adapted on the spot depending on the participants, who must have certain skills and professional experience in accountancy and management.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Participation in the courses provided by Srf is subject to prior registration, which must be confirmed before the course begins, and payment in advance.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Following a request from Srf, the Revenue Law Commission ruled that those courses, although provided in Member States other than the Kingdom of Sweden, are to be regarded as taking place in Sweden and that VAT is therefore chargeable in that Member State. It considered, inter alia, that the expression ‘admission to events’ in Article 53 of the VAT Directive had been included in order to restrict the scope of exceptions and, correspondingly, to extend that of the general rule. The term ‘admission to events’ should be understood as meaning the right to enter a place. However, the services at issue in the main proceedings cannot be characterised primarily as the right to enter a place, but rather the right to participate in a specific course. Given that the main objective of the courses at issue in the main proceedings is not to confer a right of admission, within the meaning of Article 53 of the VAT Directive, VAT in respect of such courses chargeable in Sweden under Article 44 of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">The local tax authorities, wishing to obtain confirmation of that ruling as well as additional justification for it, brought proceedings before the Högsta förvaltningsdomstolen (Supreme Administrative Court, Sweden). Srf also sought confirmation of that ruling, taking the view that the application of the exception provided in Article 53 of the VAT Directive constitutes a disproportionate administrative burden.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Högsta förvaltningsdomstolen (Supreme Administrative Court), decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:</p>
+<p class="normal">‘Must the expression ‘admission to events’ in Article 53 of the VAT Directive be interpreted as meaning that it covers a service in the form of a five-day course on accountancy which is supplied solely to taxable persons and requires advance registration and payment?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">By its question, the referring court asks, in essence, whether Article 53 of the VAT Directive must be interpreted as meaning that the expression ‘services in respect of admission to events’ in that article include a service, such as that at issue in the main proceedings, in the form of a five-day training course on accountancy and management which is supplied solely to taxable persons and requires advance registration and payment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be observed, as a preliminary point, that Articles 44 and 45 of the VAT Directive contain a general rule for determining the place where services are deemed to be supplied for tax purposes, while Articles 46 to 59a of that directive provide a number of specific instances of such places.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">As follows from the Court’s settled case-law, Articles 44 and 45 of the VAT Directive do not take precedence over Articles 46 to 59a thereof. In every situation, the question which arises is whether that situation is covered by one of the cases mentioned in Articles 46 to 59a of that directive. If not, it falls within the scope of Articles 44 and 45 of that directive (see, to that effect, judgments of 12 May 2005, RAL (Channel Islands) and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A289&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑452/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A289&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2005:289</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A289&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point24" hreflang="en" target="CourtTab" type="application/xhtml+xml">24</a> and the case-law cited, and of 8 December 2016, A and B, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A933&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑453/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A933&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:933</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A933&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point18" hreflang="en" target="CourtTab" type="application/xhtml+xml">18</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that Article 53 of the VAT Directive must not be regarded as an exception to a general rule which must be narrowly construed (see, by analogy, judgment of 8 December 2016, A and B, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A933&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑453/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A933&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:933</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A933&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point19" hreflang="en" target="CourtTab" type="application/xhtml+xml">19</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Article 53 of that directive provides that the place of supply of services in respect of admission to events, including educational events, supplied to a taxable person is the place where those events actually take place.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from Article 32(2)(c) of the Implementing Regulation, read in conjunction with Article 32(1), that the services referred to in Article 53 of the VAT Directive, which concern admission to educational and scientific events, such as conferences and seminars, include the supply of services of which the essential characteristics are the granting of the right of admission to an event in exchange for a ticket or payment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">In the main proceedings, it is apparent from the information provided by the referring court that the courses at issue in the main proceedings provided by Srf to taxable persons are seminars which take place over five days, with one day’s break, in a Member State other than the Kingdom of Sweden, where the company has established its business. Those courses, which require the physical presence of those taxable persons, are therefore part of the educational events category referred to in Article 32 of the Implementing Regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the question whether the essential characteristics of the courses at issue in the main proceedings consist in granting admission to those courses, it should be noted that, when two or more components or acts supplied by the taxable person are so closely linked that they form, objectively, a single, indivisible economic supply, which it would be artificial to split, the transaction is a single supply (see, to that effect, judgment of 10 November 2016, Baštová, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑432/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:855</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point70" hreflang="en" target="CourtTab" type="application/xhtml+xml">70</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">As the United Kingdom Government has noted, in essence, in its written observations, admission to seminars given to taxable persons for payment necessarily involves the possibility of attending and participating in those seminars. Therefore, such participation is closely linked to admission to the seminars. In those circumstances, the distinction drawn by the Revenue Law Commission between the right to enter a place and the right to participate in a specific training course cannot be accepted for the purposes of the application of Article 53 of the VAT Directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">It should, furthermore, be noted that the purpose of the provisions of the VAT Directive which determine the place where services are deemed to be supplied is to avoid, first, conflicts of jurisdiction which may result in double taxation, and, secondly, non-taxation (judgment of 8 December 2016, A and B, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A933&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑453/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A933&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:933</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A933&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point24" hreflang="en" target="CourtTab" type="application/xhtml+xml">24</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, the underlying logic of the provisions of the VAT Directive concerning the place where a service is deemed to be supplied is that goods and services should be taxed as far as possible at the place of consumption (see, to that effect, judgment of 8 December 2016, A and B, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A933&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑453/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A933&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:933</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A933&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point25" hreflang="en" target="CourtTab" type="application/xhtml+xml">25</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the place where courses such as those at issue in the main proceedings are deemed to be supplied must be determined on the basis of Article 53 of the VAT Directive, and those courses must, consequently, be subject to VAT in the place where the services are actually supplied, that is in the Member States where those courses are given.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">It is true that such an interpretation may, as Srf observes, result in increasing the administrative burden borne by certain traders, even though recital 6 of Directive 2008/8, which inserted Articles 44 and 53 of the VAT Directive in the version currently in force, states that taxation at the place of consumption should, as far as possible, not impose a disproportionate administrative burden upon those traders.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">However, as the Advocate General observed in paragraph 74 of her Opinion, it is settled case-law that the preamble to an EU-law act has no binding legal force and cannot be relied on either as a ground for derogating from the actual provisions of the act in question or for interpreting those provisions in a manner that is clearly contrary to their wording (judgment of 13 September 2018, Česká pojišťovna, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A707&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑287/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A707&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:707</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A707&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point33" hreflang="en" target="CourtTab" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Courses such as those at issue in the main proceedings are covered by the services referred to in Article 53 of the VAT Directive and it follows from that article, read in conjunction with Article 32 of the Implementing Regulation, that the place where the supply of services in respect of admission to educational events such as seminars is subject to VAT is the place where they actually take place.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, there may be no derogation from the application of Article 53 of the VAT Directive on the basis of recital 6 of Directive 2008/8 alone.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">The fact that the courses at issue in the main proceedings were subject to advance registration and payment is irrelevant for the purposes of the application of Article 53 of the VAT Directive. There is nothing in the wording of that article to suggest that such criteria could be taken into consideration in determining the place where those services are seemed to be supplied.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In light of the foregoing, the answer to the question referred is that Article 53 of the VAT Directive must be interpreted as meaning that the expression ‘services in respect of admission to events’ in that provision include a service, such as that at issue in the main proceedings, in the form of a five-day course on accountancy and management which is supplied solely to taxable persons and requires advance registration and payment.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 53 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, as amended by Council Directive 2008/8/EC of 12 February 2008, as meaning that the expression ‘services in respect of admission to events’ in that provision include a service, such as that at issue in the main proceedings, in the form of a five-day course on accountancy and management which is supplied solely to taxable persons and requires advance registration and payment.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62017CJ0647_EN_01-E0001" id="t-ECR_62017CJ0647_EN_01-E0001">*1</a>
+</span>)	Language of the case: Swedish.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

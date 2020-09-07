@@ -1,0 +1,868 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>ARRÊT DE LA COUR (dixième chambre)</p>
+<p class="sum-title-1">30 avril 2020 (<span class="note">
+<a href="#t-ECR_62019CJ0258_FR_01-E0001" id="c-ECR_62019CJ0258_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Système commun de taxe sur la valeur ajoutée – Directive 77/388/CEE – Article 10, paragraphe 2, premier et troisième alinéas, article 17, paragraphe 1, et article 18, paragraphe 2, premier alinéa – Directive 2006/112/CE – Article 63, article 64, paragraphe 1, article 66, premier alinéa, sous a) à c), article 167 et article 179, premier alinéa – Prestation de services réalisée avant l’adhésion de la Hongrie à l’Union européenne – Détermination exacte du prix de cette prestation intervenue après l’adhésion – Facture relative à ladite prestation émise, et acquittement de celle-ci effectué, après l’adhésion – Refus du droit à déduction fondé sur cette facture en raison de la prescription – Compétence de la Cour »</p>
+<p class="normal">Dans l’affaire C‑258/19,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par la Kúria (Cour suprême, Hongrie), par décision du 7 mars 2019, parvenue à la Cour le 27 mars 2019, dans la procédure</p>
+<p class="normal">
+<span class="bold">EUROVIA Ipari, Kereskedelmi, Szállítmányozási és Idegenforgalmi Kft.</span>
+</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága,</span>
+</p>
+<p class="normal">LA COUR (dixième chambre),</p>
+<p class="normal">composée de M. I. Jarukaitis (rapporteur), président de chambre, MM. M. Ilešič et C. Lycourgos, juges,</p>
+<p class="normal">avocat général : M<span class="super">me</span> J. Kokott,</p>
+<p class="normal">greffier : M. A. Calot Escobar,</p>
+<p class="normal">vu la procédure écrite,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement hongrois, par MM. M. Z. Fehér et G. Koós, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M. L. Havas et M<span class="super">me</span> J. Jokubauskaitė, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">vu la décision prise, l’avocate générale entendue, de juger l’affaire sans conclusions,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation de la sixième directive 77/388/CEE du Conseil, du 17 mai 1977, en matière d’harmonisation des législations des États membres relatives aux taxes sur le chiffre d’affaires – Système commun de taxe sur la valeur ajoutée : assiette uniforme (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1977:145:TOC" hreflang="fr" onclick="target='CourtTab';">JO 1977, L 145, p. 1</a>) (ci-après la « sixième directive »), et de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2006, L 347, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant EUROVIA Ipari, Kereskedelmi, Szállítmányozási és Idegenforgalmi Kft. (ci-après « Eurovia ») au Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága (direction des recours de l’Office national des impôts et des douanes, Hongrie) (ci-après l’« administration fiscale »), au sujet de la légalité d’une décision de cette dernière refusant à Eurovia, par application de la prescription, le droit à déduction de la taxe sur la valeur ajoutée (TVA) acquittée en amont.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit de l’Union</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">La sixième directive</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 10 de la sixième directive disposait :</p>
+<p class="normal">« 1.   Sont considérés comme :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">fait générateur de la taxe : le fait par lequel sont réalisées les conditions légales, nécessaires pour l’exigibilité de la taxe ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">exigibilité de la taxe : le droit que le Trésor peut faire valoir aux termes de la loi, à partir d’un moment donné, auprès du redevable pour le paiement de la taxe, même si le paiement peut en être reporté.</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   Le fait générateur de la taxe intervient et la taxe devient exigible au moment où la livraison du bien ou la prestation de services est effectuée. [...] les prestations de services qui donnent lieu à des décomptes ou des paiements successifs sont considérées comme effectuées au moment de l’expiration des périodes auxquelles ces décomptes ou paiements se rapportent.</p>
+<p class="normal">[...]</p>
+<p class="normal">Par dérogation aux dispositions ci-dessus, les États membres ont la faculté de prévoir que la taxe devient exigible pour certaines opérations ou certaines catégories d’assujettis :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">soit au plus tard lors de la délivrance de la facture ou du document en tenant lieu,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">soit au plus tard lors de l’encaissement du prix,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">soit, en cas de non-délivrance ou de délivrance tardive de la facture ou du document en tenant lieu, dans un délai déterminé à compter de la date du fait générateur.</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 17 de cette directive prévoyait :</p>
+<p class="normal">« 1.   Le droit à déduction prend naissance au moment où la taxe déductible devient exigible.</p>
+<p class="normal">2.   Dans la mesure où les biens et les services sont utilisés pour les besoins de ses opérations taxées, l’assujetti est autorisé à déduire de la taxe dont il est redevable :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">la [TVA] due ou acquittée pour les biens qui lui sont ou lui seront livrés et pour les services qui lui sont ou lui seront rendus par un autre assujetti ;</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 18 de ladite directive précisait :</p>
+<p class="normal">« 1.   Pour pouvoir exercer le droit à déduction, l’assujetti doit :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">pour la déduction visée à l’article 17 paragraphe 2 sous a), détenir une facture [...] ;</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...]</p>
+<p class="normal">2.   La déduction est opérée globalement par l’assujetti par imputation, sur le montant de la taxe due pour une période de déclaration, du montant de la taxe pour laquelle le droit à déduction a pris naissance et est exercé en vertu du paragraphe 1, au cours de la même période.</p>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">La directive 2006/112</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 411, paragraphe 1, de la directive 2006/112 prévoit notamment que la sixième directive est abrogée. Conformément au paragraphe 2 de cet article, les références faites à la sixième directive s’entendent comme faites aux dispositions correspondantes de la directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 62 de la directive 2006/112 reproduit, à ses points 1) et 2, respectivement les points a) et b) de l’article 10, paragraphe 1, de la sixième directive. L’article 63 de la directive 2006/112 reprend, à l’identique, le libellé du paragraphe 2, premier alinéa, première phrase, de cet article 10, tandis que l’article 64, paragraphe 1, de la directive 2006/112 reprend, sans modification de substance, celui de la seconde phrase de ce premier alinéa, et que l’article 66 de la directive 2006/112 contient, en substance, à son premier alinéa, sous a) à c), les mêmes précisions que celles qui figuraient à l’article 10, paragraphe 2, troisième alinéa, premier à troisième tirets, de la sixième directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 167 de la directive 2006/112 reproduit, à l’identique, le libellé de l’article 17, paragraphe 1, de la sixième directive et l’article 168 de la directive 2006/112 correspond, en substance, au paragraphe 2, sous a), de cet article 17.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 178 et l’article 179, premier alinéa, de la directive 2006/112 reprennent, en substance, les dispositions de, respectivement, l’article 18, paragraphe 1, sous a), et l’article 18, paragraphe 2, premier alinéa, de la sixième directive.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit hongrois</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">L’az általános forgalmi adóról szóló 1992. évi LXXIV. törvény (loi n<span class="super">o</span> LXXIV de 1992 relative à la taxe sur la valeur ajoutée) [<span class="italic">Magyar Közlöny</span> 1992/128 (XII. 19.)], dans sa version applicable lorsque la prestation de services en cause au principal a été effectuée (ci-après l’« ancienne loi relative à la TVA »), prévoyait, à son article 16 :</p>
+<p class="normal">« (1)   En cas de livraison de biens ou de prestation de services – sous réserve des exceptions prévues aux articles 17 et 18 –, la taxe devient exigible au moment de l’exécution, ou de l’exécution partielle ([...] l’“exécution”).</p>
+<p class="normal">(2)   Sauf disposition contraire dans la présente loi, il convient d’appliquer les dispositions du code civil pour déterminer le moment de l’exécution. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 32 de l’ancienne loi relative à la TVA disposait :</p>
+<p class="normal">« (1)   L’assujetti visé à l’article 34 a le droit de déduire du montant de l’impôt qu’il doit payer :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">le montant de l’impôt qu’un autre assujetti, y compris, en cas de transformation, le prédécesseur en droit de cet assujetti, ou un assujetti entrant dans le champ d’application de la loi sur l’impôt simplifié des entrepreneurs, a mis à sa charge à l’occasion d’une livraison de biens ou d’une prestation de services ; [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 35 de l’ancienne loi relative à la TVA :</p>
+<p class="normal">« (1)   Le droit à déduction ne peut en règle générale, sauf si le code des impôts en dispose autrement, être exercé qu’à condition de disposer de documents faisant foi attestant du montant de la taxe comptabilisée en amont. Sont considérés comme tels :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">les factures, ainsi que les factures simplifiées [en cas d’application de l’article 32, paragraphe 1, sous a) et g)] ; [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">L’az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (loi n<span class="super">o</span> CXXVII de 2007 relative à la taxe sur la valeur ajoutée) [<span class="italic">Magyar Közlöny</span> 2007/155 (XI. 16.)], dans sa version applicable à la date d’émission de la facture en cause au principal (ci-après la « loi relative à la TVA »), prévoyait, à son article 55, paragraphe 1, que « [l]’obligation de payer la taxe prend naissance quand survient le fait par lequel est réalisée l’opération taxable (ci-après l’“exécution”) ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 119, paragraphe 1, de la loi relative à la TVA énonçait que, « [à] moins que la loi n’en dispose autrement, le droit à la déduction de la taxe prend naissance au moment où il faut établir la taxe due correspondant à la taxe en amont (article 120) ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 120 de la loi relative à la TVA :</p>
+<p class="normal">« Dans la mesure où les biens ou les services sont utilisés, ou exploités d’une autre manière, par l’assujetti – et en cette qualité – en vue d’effectuer des livraisons de biens ou des prestations de services taxées, celui-ci a le droit de déduire du montant de la taxe dont il est redevable :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">la taxe qui lui est facturée par tout autre assujetti – y compris toute personne ou entité soumise à l’impôt simplifié sur les sociétés – à l’occasion de l’acquisition des biens ou de l’utilisation des services ; [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 127 de la loi relative à la TVA disposait :</p>
+<p class="normal">« (1)   L’exercice du droit à déduction est subordonné à la condition matérielle que l’assujetti dispose personnellement :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">dans le cas visé à l’article 120, sous a), d’une facture à son nom établissant la réalisation de l’opération ; [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">L’az adózás rendjéről szóló 2003. évi XCII. törvény (loi n<span class="super">o</span> XCII de 2003 portant code de procédure fiscale) [<span class="italic">Magyar Közlöny</span> 2003/131 (XI. 14.)] prévoit, à son article 164 :</p>
+<p class="normal">« (1)   Le droit d’établir l’impôt est prescrit à l’expiration de cinq années à compter du dernier jour de l’année civile au cours de laquelle l’impôt devait être déclaré ou, en l’absence de déclaration, au cours de laquelle il aurait dû être payé. Sauf disposition contraire de la présente loi, le droit à une aide budgétaire et au remboursement du trop-perçu est prescrit à l’expiration de cinq années à compter du dernier jour de l’année au cours de laquelle le droit à une telle prétention s’est ouvert. »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Le 12 novembre 1996 et le 17 septembre 1997, Eurovia a conclu avec une société commerciale (ci-après l’« entrepreneur ») des contrats d’entreprise ayant pour objet la réalisation de travaux de réseaux de télécommunications aériens. Un litige étant apparu entre Eurovia et l’entrepreneur au sujet du montant du prix, Eurovia n’a versé à ce dernier qu’une partie de ce montant.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">L’entrepreneur a alors initié une procédure contentieuse, laquelle a abouti à une décision du Fővárosi Ítélőtábla (cour d’appel régionale de Budapest-Capitale, Hongrie), du 17 septembre 2004, condamnant Eurovia au paiement de 19703394 forints hongrois (HUF) (environ 59000 euros), majorés d’intérêts, confirmée par un arrêt du Legfelsőbb Bíróság (Cour suprême, Hongrie), du 5 octobre 2010. Eurovia a acquitté cette somme à l’issue d’une procédure d’exécution.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Le 15 juin 2011, à la demande d’Eurovia, l’entrepreneur a établi une facture mentionnant le 6 juin 2011 comme date d’exécution de l’opération en cause au principal. Dans sa déclaration relative au deuxième trimestre de l’année 2011, Eurovia a, sur la base de cette facture, porté en déduction un montant de TVA de 3940679 HUF (environ 11800 euros).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Ayant procédé à une vérification préalable au paiement, l’administration fiscale a constaté qu’Eurovia avait indûment procédé à cette déduction et lui a infligé une sanction fiscale de 394000 HUF (environ 1200 euros). Selon cette administration, en vertu de l’article 36, paragraphe 1, sous a), et de l’article 16, paragraphe 15, de l’ancienne loi relative à la TVA, le point de départ du délai de prescription était le 31 décembre 2004, de telle sorte que le droit au remboursement de la TVA versée en amont s’était éteint le 31 décembre 2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">À l’issue du recours contentieux introduit par Eurovia contre cette décision, celle-ci a été annulée par la Kúria (anciennement le Legfelsőbb Bíróság) (Cour suprême, Hongrie), par une décision rendue en 2014, au motif que l’article 16, paragraphe 15, de l’ancienne loi relative à la TVA n’était pas applicable et que la date d’exécution de l’opération en cause au principal devait être déterminée par application des dispositions générales de la loi.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Dans le cadre d’une nouvelle procédure, l’administration fiscale, s’appuyant sur la décision du Fővárosi Ítélőtábla (cour d’appel régionale de Budapest-Capitale) du 17 septembre 2004, a fixé la date d’exécution de l’opération en cause au principal au 16 novembre 1998 et a contesté le droit à déduction de la TVA, motif pris de sa prescription, l’ancienne loi relative à la TVA rattachant la date de la naissance du droit à déduction de la taxe à la date à laquelle cette taxe devient exigible auprès du fournisseur. L’exécution de l’opération en cause au principal ayant effectivement eu lieu le 16 novembre 1998, la facture établie par l’entrepreneur contiendrait une date erronée, la notion d’« exécution » d’une opération ne visant pas la date de son paiement, mais celle de sa réalisation concrète.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Eurovia a introduit un recours contre cette nouvelle décision, en faisant notamment valoir que le droit à déduction de la TVA ne prend pas naissance tant qu’une facture n’a pas été délivrée. Ce recours a été rejeté en première instance, au motif, en particulier, qu’il n’était pas contesté que l’entrepreneur avait satisfait aux obligations qui lui incombaient en vertu des contrats conclus avec Eurovia dès l’année 1998 et que l’administration fiscale avait, par conséquent, considéré à juste titre que le droit à déduction de la TVA était prescrit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Eurovia s’est pourvue en cassation devant la Kúria (Cour suprême), la juridiction de renvoi, en faisant notamment valoir que, en l’absence de facture, elle n’était pas en mesure de faire valoir son droit à déduction de la TVA, que, en effet, aussi longtemps que les conditions de l’exercice de ce droit à déduction n’étaient pas réunies, le délai de prescription ne courait pas et que c’était l’incertitude quant au montant de la créance qui avait empêché l’exécution de l’obligation de facturation. L’administration fiscale conclut au rejet du pourvoi.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi se demande si, en cas de litige entre les parties portant sur la facturation du prix d’une prestation de services, lorsque ce prix a été déterminé par une décision de justice et que la facture n’a été établie qu’après le paiement effectif de celui-ci, il est possible de ne pas tenir compte de la règle figurant dans la sixième directive et dans la directive 2006/112, relative à l’exécution de l’opération concernée et à l’imposition de celle-ci, et s’il est possible d’écarter la législation nationale en matière de prescription du droit à déduction de la TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, en raison du litige entre les parties, la facture n’a été établie qu’au cours de l’année 2011. Cette juridiction estime donc que, pour Eurovia, le droit à déduction de la TVA n’a pu naître qu’à ce moment-là et que le délai applicable pour l’exercice de ce droit à déduction devrait être calculé à partir du moment où le montant de TVA en cause au principal a été versé au Trésor public et où la facture a été établie. La position de l’administration fiscale lui semble contraire au principe de neutralité de la TVA dès lors que l’exercice du droit à déduction de la TVA est refusé en raison d’une interprétation restrictive de ce que constitue la date d’exécution d’une opération, sans que les particularités de la présente affaire soient prises en compte.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Elle se demande également si le fait qu’Eurovia n’a pas satisfait de son plein gré à son obligation de payer, ce qui a retardé l’établissement de la facture, peut avoir une incidence sur l’exercice de son droit à déduction de la TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, la Kúria (Cour suprême) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« 1)</p>
+</td>
+<td valign="top">
+<p class="normal">La pratique d’un État membre qui consiste, lors de l’application du droit à déduction, à se concentrer exclusivement sur le moment du fait générateur, sans tenir compte de la circonstance qu’il existait entre les parties un litige de droit civil portant sur le degré d’exécution, litige qui a été réglé par voie judiciaire, de telle sorte que la facture n’a été établie qu’après le jugement définitif, est-elle contraire au principe de neutralité fiscale et aux formalités qui conditionnent le droit à déduction ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2)</p>
+</td>
+<td valign="top">
+<p class="normal">Si tel est le cas, est-il possible d’écarter le délai de prescription de cinq ans prévu dans la législation de l’État membre pour l’exercice du droit [à déduction de la TVA], délai qui commence à courir à dater de la prestation de services ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3)</p>
+</td>
+<td valign="top">
+<p class="normal">Si tel est le cas, l’exercice du droit à déduction [de la TVA] est-il influencé par la prise en considération, au vu des circonstances du cas d’espèce, du fait que le prix dû tel que déterminé par un jugement définitif n’a été payé qu’à la suite d’une procédure d’exécution intentée par l’entrepreneur, raison pour laquelle la facture n’a été établie qu’après l’expiration du délai de prescription ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur la compétence de la Cour</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Selon une jurisprudence constante, la Cour est compétente pour interpréter le droit de l’Union uniquement pour ce qui concerne l’application de celui-ci dans un État membre à partir de la date d’adhésion de ce dernier à l’Union européenne (arrêts du 10 janvier 2006, Ynos, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A9&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑302/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A9&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:9</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A9&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">36</a>, ainsi que du 27 juin 2018, Varna Holideis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑364/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:500</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point17" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">17</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Il en résulte, notamment, que la Cour n’est pas compétente pour interpréter des directives de l’Union relatives à la TVA lorsque la période de recouvrement des taxes en cause au principal est antérieure à l’adhésion de l’État membre concerné à l’Union (arrêt du 27 juin 2018, Varna Holideis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑364/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:500</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point18" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">18</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Selon la décision de renvoi, la prestation de services au regard de laquelle le droit à déduction de la TVA en cause au principal a été exercé a été réalisée le 16 novembre 1998, soit avant l’adhésion de la Hongrie à l’Union, le 1<span class="super">er</span> mai 2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il y a lieu de rappeler que, conformément à l’article 10, paragraphe 2, premier alinéa, première phrase, de la sixième directive, et à l’article 63 de la directive 2006/112, le fait générateur de la taxe intervient et la taxe devient exigible au moment où la livraison du bien ou la prestation de services est effectuée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Partant, à supposer que la prestation de services en cause au principal ait été régie par des règles telles que celles prévues par la sixième directive, cette prestation est intervenue et la TVA est devenue exigible avant l’adhésion de la Hongrie à l’Union (voir, par analogie, arrêt du 27 juin 2018, Varna Holideis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑364/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:500</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point21" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">21</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il convient d’ajouter, d’une part, qu’il n’apparaît pas que ladite prestation aurait donné lieu à des décomptes ou à des paiements successifs, au sens de l’article 10, paragraphe 2, premier alinéa, seconde phrase, de la sixième directive ou de l’article 64, paragraphe 1, de la directive 2006/112, qui permettraient de considérer que la même prestation a été effectuée au moment de l’expiration de la période à laquelle chaque décompte ou chaque paiement se rapporte.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Certes, il ressort de la décision de renvoi qu’Eurovia ne s’est initialement acquittée que d’une partie du prix dû au titre de la prestation en cause au principal et que ce n’est qu’après que le montant total dû au titre de celle-ci a été définitivement fixé par voie judiciaire, au cours de l’année 2010, qu’Eurovia s’est acquittée de la totalité de ce prix. Toutefois, il ressort de la décision de renvoi que le litige au principal ne requiert pas de trancher la question de savoir si de telles circonstances sont susceptibles de relever de ces dispositions, mais porte sur le point de savoir si l’administration fiscale était fondée à considérer que le délai de prescription du droit, pour Eurovia, de déduire la TVA payée au titre de cette prestation pouvait commencer à courir avant que la facture relative à celle-ci soit émise.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Par conséquent, le fait qu’Eurovia ne s’est acquittée de la totalité du prix dû au titre de la prestation de services en cause au principal qu’au cours de l’année 2011 est sans incidence sur la constatation effectuée au point 34 du présent arrêt.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">D’autre part, il ne ressort pas de la décision de renvoi que serait en cause au principal une situation, telle que celle visée à l’article 10, paragraphe 2, troisième alinéa, premier à troisième tirets, de la sixième directive ainsi qu’à l’article 66, premier alinéa, sous a) à c), de la directive 2006/112, dans laquelle l’exigibilité de la taxe reposerait sur la délivrance d’une facture, sur l’encaissement du prix ou sur l’écoulement d’un délai déterminé à compter de la date du fait générateur de la taxe, conformément à une disposition de droit national qui aurait été adoptée sur le fondement de l’une de ces dispositions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">En ce qui concerne le droit à déduction de la TVA prévu par la sixième directive comme par la directive 2006/112, celui-ci est, sur le plan tant matériel que temporel, directement lié à l’exigibilité de la TVA due ou acquittée pour les biens et services en amont (voir, en ce sens, arrêt du 27 juin 2018, Varna Holideis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑364/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:500</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point22" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">22</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">En effet, le droit des assujettis de déduire de la TVA dont ils sont redevables la TVA due ou acquittée pour les biens acquis et les services reçus par eux en amont constitue un principe fondamental du système commun de TVA mis en place par la législation de l’Union. Ainsi que la Cour l’a itérativement souligné, le droit à déduction qui était prévu aux articles 17 à 20 de la sixième directive et qui est désormais prévu aux articles 167 et suivants de la directive 2006/112 fait partie intégrante du mécanisme de TVA et ne peut, en principe, être limité. En particulier, ce droit s’exerce immédiatement pour la totalité des taxes ayant grevé les opérations effectuées en amont (voir arrêts du 29 juillet 2010, Profaktor Kulesza, Frankowski, Jóźwiak, Orłowski, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A454&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑188/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A454&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:454</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A454&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point19" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">19</a> et jurisprudence citée, ainsi que du 27 juin 2018, Varna Holideis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑364/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:500</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">23</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Or, comme le prévoyaient l’article 17, paragraphe 1, et l’article 18, paragraphe 2, premier alinéa, de la sixième directive, dont la substance a été reprise à l’article 167 et à l’article 179, premier alinéa, de la directive 2006/112, le droit à déduction de la TVA s’exerce, en principe, au cours de la même période que celle pendant laquelle il a pris naissance, à savoir au moment où la taxe devient exigible (voir, en ce sens, arrêts du 8 mai 2008, Ecotrade, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑95/07 et C‑96/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:267</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A267&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point41" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">41</a>, ainsi que du 27 juin 2018, Varna Holideis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑364/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:500</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point24" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">24</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit que, conformément à la jurisprudence rappelée aux points 30 et 31 du présent arrêt, la Cour n’est pas compétente pour répondre aux questions posées, dans la mesure où celles-ci visent l’exercice du droit à déduction relatif à une prestation de services réalisée avant l’adhésion de la Hongrie à l’Union (voir, par analogie, arrêt du 27 juin 2018, Varna Holideis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑364/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:500</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">25</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Par ailleurs, la Cour a jugé que la seule existence d’un quelconque élément postérieur à la date de l’adhésion de l’État membre concerné à l’Union, qui se rattache aux circonstances précédant cette date et qui en est une conséquence, ne suffit pas pour donner compétence à la Cour pour répondre aux questions préjudicielles portant sur l’interprétation d’une directive (arrêt du 27 juin 2018, Varna Holideis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑364/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:500</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point30" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">30</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Dès lors, le fait que le prix exact dû au titre de la prestation de services en cause au principal n’a été déterminé qu’après la date d’adhésion de la Hongrie à l’Union et que, par conséquent, ce n’est qu’après cette date que la totalité de ce prix a été versée et que la facture relative à cette prestation a été émise, sur le fondement de laquelle le droit à déduction en cause au principal a été exercé, ne saurait, dans les circonstances de l’espèce, avoir pour effet de donner compétence à la Cour pour interpréter la sixième directive ou la directive 2006/112, l’ensemble de ces faits se rattachant de manière indissociable à une prestation de services dont il est constant qu’elle a été effectuée avant cette adhésion (voir, par analogie, arrêt du 27 juin 2018, Varna Holideis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑364/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:500</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A500&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Il résulte de l’ensemble des considérations qui précèdent que la Cour n’est pas compétente pour répondre aux questions posées par la Kúria (Cour suprême).</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (dixième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">La Cour de justice de l’Union européenne n’est pas compétente pour répondre aux questions posées par la Kúria (Cour suprême, Hongrie).</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62019CJ0258_FR_01-E0001" id="t-ECR_62019CJ0258_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : le hongrois.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

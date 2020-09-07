@@ -1,0 +1,776 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Eighth Chamber)</p>
+<p class="sum-title-1">10 July 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0273_EN_01-E0001" id="c-ECR_62018CJ0273_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Common system of value added tax (VAT) — Directive 2006/112/EC — Right to deduct input VAT — Article 168 — Goods supply chain — Refusal of the right to deduct on account of that chain’s existence — Obligation on the competent tax authority to establish the existence of an abusive practice)</p>
+<p class="normal">In Case C‑273/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Augstākā tiesa (Supreme Court, Latvia), made by decision of 13 April 2018, received at the Court on 20 April 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">SIA ‘Kuršu zeme’</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Valsts ieņēmumu dienests,</span>
+</p>
+<p class="normal">THE COURT (Eighth Chamber),</p>
+<p class="normal">composed of F. Biltgen, President of the Chamber, C.G. Fernlund (Rapporteur) and L.S. Rossi, Judges,</p>
+<p class="normal">Advocate General: Y. Bot,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Latvian Government, by I. Kucina and V. Soņeca, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Czech Government, by M. Smolek, O. Serdula and J. Vláčil, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Estonian Government, by N. Grünberg, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Spanish Government, by L. Aguilera Ruiz, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by N. Gossement and I. Rubene, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 168(a) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" target="CourtTab">OJ 2006 L 347, p. 1</a>), as amended by Council Directive 2010/45/EU of 13 July 2010 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2010:189:TOC" hreflang="en" target="CourtTab">OJ 2010 L 189, p. 1</a>) (‘the VAT Directive’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between SIA ‘Kuršu zeme’ and the Valsts ieņēmumu dienests (tax authorities, Latvia) (‘the VID’) concerning the latter’s refusal to allow the right to deduct value added tax (VAT) on acquisitions of goods made by that company from the company SIA ‘KF Prema’, on the ground that those acquisitions did not in fact take place.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 2(1)(a) and (b) of the VAT Directive provides:</p>
+<p class="normal">‘The following transactions shall be subject to VAT:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the supply of goods for consideration within the territory of a Member State by a taxable person acting as such;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the intra-Community acquisition of goods for consideration within the territory of a Member State by:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(i)</p>
+</td>
+<td valign="top">
+<p class="normal">a taxable person acting as such …’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 14(1) of that directive provides:</p>
+<p class="normal">‘“Supply of goods” shall mean the transfer of the right to dispose of tangible property as owner.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">The first paragraph of Article 20 of that directive reads as follows:</p>
+<p class="normal">‘“Intra-Community acquisition of goods” shall mean the acquisition of the right to dispose as owner of movable tangible property dispatched or transported to the person acquiring the goods, by or on behalf of the vendor or the person acquiring the goods, in a Member State other than that in which dispatch or transport of the goods began.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 23 of that directive:</p>
+<p class="normal">‘Member States shall take the measures necessary to ensure that a transaction which would have been classed as a supply of goods if it had been carried out within their territory by a taxable person acting as such is classed as an intra-Community acquisition of goods.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">The first paragraph of Article 32 of the VAT Directive provides:</p>
+<p class="normal">‘Where goods are dispatched or transported by the supplier, or by the customer, or by a third person, the place of supply shall be deemed to be the place where the goods are located at the time when dispatch or transport of the goods to the customer begins.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 40 of that directive provides:</p>
+<p class="normal">‘The place of an intra-Community acquisition of goods shall be deemed to be the place where dispatch or transport of the goods to the person acquiring them ends.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Article 68 of that directive states:</p>
+<p class="normal">‘The chargeable event shall occur when the intra-Community acquisition of goods is made.</p>
+<p class="normal">The intra-Community acquisition of goods shall be regarded as being made when the supply of similar goods is regarded as being effected within the territory of the relevant Member State.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 69 of the directive provides:</p>
+<p class="normal">‘In the case of the intra-Community acquisition of goods, VAT shall become chargeable on issue of the invoice, or on expiry of the time limit referred to in the first paragraph of Article 222 if no invoice has been issued by that time.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 138(1) of the VAT Directive:</p>
+<p class="normal">‘Member States shall exempt the supply of goods dispatched or transported to a destination outside their respective territory but within the [European Union], by or on behalf of the vendor or the person acquiring the goods, for another taxable person, or for a non-taxable legal person acting as such in a Member State other than that in which dispatch or transport of the goods began.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Article 167 of that directive provides that ‘a right of deduction shall arise at the time the deductible tax becomes chargeable’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Article 168 of that directive provides:</p>
+<p class="normal">‘In so far as the goods and services are used for the purposes of the taxed transactions of a taxable person, the taxable person shall be entitled, in the Member State in which he carries out these transactions, to deduct the following from the VAT which he is liable to pay:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the VAT due or paid in that Member State in respect of supplies to him of goods and services, carried out or to be carried out by another taxable person;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">the VAT due in respect of intra-Community acquisitions of goods pursuant to Article 2(1)(b)(i)’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Article 193 of that directive provides:</p>
+<p class="normal">‘VAT shall be payable by any taxable person carrying out a taxable supply of goods or services …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Article 200 of the VAT Directive states:</p>
+<p class="normal">‘VAT shall be payable by any person making a taxable intra-Community acquisition of goods.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Latvian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">The Likums par pievienotās vērtības nodokli (Law on value added tax), of 9 March 1995 (<span class="italic">Latvijas Vēstnesis</span>, 1995, No 49) (‘the Law on VAT’), in the version applicable to the facts at issue in the main proceedings, provides, in Article 1(2) and 1(34) thereof:</p>
+<p class="normal">‘(2)   “supply of goods” shall mean the transaction whereby the right to dispose of goods as owner is transferred to another person.</p>
+<p class="normal">…</p>
+<p class="normal">(34)   “intra-Community acquisition of goods” shall mean the receipt of goods in the territory of Latvia from another Member State in which the goods are dispatched or transported from that Member State by or on behalf of the supplier or the customer.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Article 2(2) of that law provides:</p>
+<p class="normal">‘The following transactions shall be subject to VAT where they are performed in the territory of Latvia and in the course of economic activity:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(1)</p>
+</td>
+<td valign="top">
+<p class="normal">the supply of goods for consideration, including self-consumption;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Article 10(1)(1) and (7) of that law provides:</p>
+<p class="normal">‘Only a person who is registered as a taxable person with the Tax Authority shall be entitled to deduct the following amounts of input VAT from the amount owed to the Treasury in his VAT return:</p>
+<p class="normal">(1)   the amounts of tax stated in invoices received from other taxable persons in connection with goods acquired and services received, both for the purposes of his own taxable transactions and for the purposes of transactions carried out abroad that would have been subject to tax if they had taken place in the territory of Latvia;</p>
+<p class="normal">…</p>
+<p class="normal">(7)   the tax paid on intra-Community acquisitions of goods carried out for the purpose of his own taxable transactions.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Article 18(1) of that law states:</p>
+<p class="normal">‘The following intra-Community transactions shall be subject to VAT:</p>
+<p class="normal">(1)   the transactions referred to in Article 2(2) of the present law, where they are carried out in the course of economic activity, and intra-Community acquisitions of goods;</p>
+<p class="normal">(2)   the transfer of a person’s goods from another Member State to the territory of Latvia to enable the person in question to pursue his economic activity in Latvia and which is deemed an intra-Community acquisition of goods;</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">The first sentence of Article 30(1) of the Law on VAT provides:</p>
+<p class="normal">‘Where a taxable person receives goods from another taxable person from another Member State, the former shall calculate the tax due and shall pay the tax to the Treasury by applying the relevant tax rate for the transaction in accordance with Article 5(1) or (3), as applicable.’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Kuršu zeme is a company established in Latvia which, between February and December 2012, declared acquisitions of goods from another company established in Latvia, KF Prema, and deducted the input VAT on those transactions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">During a tax inspection, the VID found that those acquisitions had taken place following a chain of successive transactions between several companies. The goods concerned had first been sold by UAB ‘Baltfisher’, a company established in Lithuania, to two companies established in Latvia. They were then sold by those companies to another company established in Latvia, which sold them to KF Prema, which finally sold them to Kuršu zeme, which transported those goods itself from Klaipėda (Lithuania) to its factory in Latvia.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Not having been able to find any logical explanation for that chain of transactions, the VID found, first, that the intermediary companies in practice did not do anything in connection with the execution of the acquisitions of goods at issue and, secondly, that Kuršu zeme could not fail to be aware of the sham nature of that chain.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">The VID thus found that Kuršu zeme had in practice acquired the goods at issue directly from Baltfisher and therefore treated the acquisitions at issue as intra-Community acquisitions. Consequently, by decision of 29 April 2014, the VID corrected the VAT returns issued by Kuršu zeme by including the value of the goods at issue in the value of goods received originating from other Member States. As a result, the amount of VAT payable increased and the input VAT declared by Kuršu zeme was simultaneously reduced by the same amount.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Kuršu zeme brought an action against that decision before the administratīvā rajona tiesa (District Administrative Court, Latvia) submitting, first, that all the formal and substantive requirements for entitlement to the right of deduction had been satisfied, secondly, that it had no reason to have doubts about KF Prema or the purpose of the transactions and, lastly, that it had gained no tax advantage from its transactions with that company.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Its action having been dismissed, Kuršu zeme brought an appeal before the Administratīvā apgabaltiesa (Regional Administrative Court, Latvia), which confirmed the decision of the administratīvā rajona tiesa (District Administrative Court).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Kuršu zeme therefore brought an appeal in cassation before the Augstākā tiesa (Supreme Court, Latvia) submitting that, the VID, the administratīvā rajona tiesa (District Administrative Court) and the Administratīvā apgabaltiesa (Regional Administrative Court), in concluding that Kuršu zeme was involved in a chain of transactions that had been constructed artificially in order to obtain tax advantages, had not stated in what those tax advantages that were allegedly obtained by Kuršu zeme or the other companies involved in the transactions at issue consisted. According to Kuršu zeme, even if it had acquired the goods at issue directly from Baltfisher, it would, under Article 10(7) of the Law on VAT, have been entitled to deduct the VAT on the acquisition of those goods inasmuch as that transaction was an ‘intra-Community acquisition’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court observes that the fact that goods have not been received directly from the issuer of the invoice is not necessarily the result of fraudulent concealment of the true supplier. Consequently, the fact that Kuršu zeme acquired material possession of the goods at issue in Baltfisher’s warehouse without actually receiving them from the issuer of the invoice for those goods, namely KF Prema, is not in itself grounds for concluding that Kuršu zeme did not acquire those goods from that company and therefore that the acquisition transaction concluded between Kuršu zeme and KF Prema was artificial and, accordingly, part of a VAT fraud.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">That court raises the issue of whether, without establishing in what the undue tax advantage allegedly obtained by the taxable person itself or the other persons participating in the chain of transactions at issue consisted, it is possible to find the existence of abusive practices.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances the Augstākā tiesa (Supreme Court, Latvia) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="normal">‘Must Article 168(a) of [the VAT] Directive … be interpreted as precluding a refusal of the deduction of input …VAT … where the refusal is based solely on the fact that the taxpayer is knowingly involved in the arrangement of sham transactions, but it is not indicated how the outcome of those specific transactions is detrimental to the Treasury because of failure to pay VAT or an unjustified claim for repayment of VAT, as compared with the situation that would have obtained had the transactions been arranged to reflect the actual circumstances?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Since it is apparent from the order for reference that the case in the main proceedings does not concern a case of VAT fraud but a potential abusive practice, the referring court’s question must be understood as seeking, essentially, to ascertain whether Article 168(a) of the VAT Directive must be interpreted as meaning that, for the purposes of refusing the right to deduct input VAT, the fact that an acquisition of goods took place at the end of a chain of successive sale transactions between several persons and that the taxable person acquired possession of the goods concerned in the warehouse of a person forming part of that chain, other than the person mentioned as supplier on the invoice, is in itself sufficient to find the existence of an abusive practice on the part of the taxable person or the other persons participating in that chain, or whether it is also necessary to establish in what the undue tax advantage allegedly obtained by that taxable person or those other persons consisted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">According to settled case-law of the Court, the right of taxable persons to deduct the VAT due or already paid on goods acquired and services received as inputs from the VAT which they are liable to pay is a fundamental principle of the common system of VAT established by EU legislation (judgment of 19 October 2017, Paper Consult, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A775&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑101/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A775&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:775</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A775&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point35" hreflang="en" target="CourtTab" type="application/xhtml+xml">35</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">In this connection, the right to deduct provided for in Article 167 et seq. of the VAT Directive is an integral part of the VAT scheme and in principle may not be limited. In particular, the right of deduction is exercisable immediately in respect of all the taxes charged on transactions relating to inputs (judgment of 19 October 2017, Paper Consult, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A775&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑101/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A775&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:775</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A775&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point36" hreflang="en" target="CourtTab" type="application/xhtml+xml">36</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">That said, it must be borne in mind that the prevention of tax evasion, tax avoidance and abuse is an objective recognised and encouraged by the VAT Directive. European Union law cannot be relied on for abusive or fraudulent ends. It is therefore for the national courts and authorities to refuse the right of deduction, if it is shown, in the light of objective evidence, that that right is being relied on for fraudulent or abusive ends (judgment of 13 February 2014, Maks Pen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑18/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:69</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point26" hreflang="en" target="CourtTab" type="application/xhtml+xml">26</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has held that, in the sphere of VAT, an abusive practice can be found to exist only if two conditions are satisfied, namely, first, the transactions concerned, notwithstanding formal application of the conditions laid down by the relevant provisions of the VAT Directive and the national legislation transposing it, result in the accrual of a tax advantage the grant of which would be contrary to the purpose of those provisions and, secondly, it is apparent from a number of objective factors that the essential aim of the transactions concerned is solely to obtain that tax advantage (judgment of 17 December 2015, WebMindLicenses, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑419/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:832</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point36" hreflang="en" target="CourtTab" type="application/xhtml+xml">36</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In that context, it must be recalled that the fact that goods have not been received directly from the issuer of the invoice is not necessarily the result of fraudulent concealment of the true supplier and does not necessarily constitute an abusive practice, but that there may be other reasons for it, such as, inter alia, the existence of two successive sales of the same goods which, on instructions, are transported directly from the first vendor to the second person acquiring the goods, with the result that there are two successive supplies within the meaning of Article 14(1) of the VAT Directive, but a single actual transport. In addition, it is not necessary for the first person acquiring the goods in question to have become the owner of those goods at the time of that transport, given that the existence of a supply within the meaning of that provision does not presuppose the transfer of the legal ownership of the goods (see, to that effect, order of 6 February 2014, Jagiełło, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A184&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑33/13</a>, not published, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A184&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:184</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A184&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point32" hreflang="en" target="CourtTab" type="application/xhtml+xml">32</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it is apparent from the order for reference that the VID has neither established in what, in the present case, the undue tax advantage allegedly obtained by Kuršu zeme consisted, nor identified any undue tax advantages obtained by the other companies having participated in the chain of successive sale transactions of the goods at issue, for the purposes of ascertaining whether the real objective of those transactions was exclusively to obtain an undue tax advantage. Consequently, it must be held that the sole existence of a chain of transactions and the fact that Kuršu zeme acquired material possession of the goods at issue in Baltfisher’s warehouse without actually receiving them from the company mentioned on the invoice as the supplier of those goods, namely KF Prema, is not, as the referring court also held, in itself grounds for concluding that Kuršu zeme did not acquire those goods from KF Prema and therefore that the transaction concluded between those two companies did not take place.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Having regard to those considerations, in circumstances such as those at issue in the main proceedings, in which the competent tax authority has adduced no evidence demonstrating the existence of an abusive practice, the taxable person cannot be refused the right of deduction.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">As to the remainder, as regards the issue, which has not been addressed by the referring court, of ascertaining to which of the acquisitions of the chain at issue in the main proceedings the single intra-Community transport must be ascribed and which must, therefore, alone be classified as an intra-Community acquisition, it is for the referring court to carry out an overall assessment of all the specific circumstances of the individual case and to determine, in particular, when the transfer to Kuršu zeme of the right to dispose of the goods as an owner occurred (see, to that effect, judgment of 19 December 2018, AREX CZ, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑414/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:1027</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point70" hreflang="en" target="CourtTab" type="application/xhtml+xml">70</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point72" hreflang="en" target="CourtTab" type="application/xhtml+xml">72</a>). The classification as an intra-Community acquisition of one of the acquisitions of the chain at issue in the main proceedings and the extent of Kuršu zeme’s right to deduct VAT, or even its right to a VAT refund, will depend on the point at which that transfer is deemed to have taken place, namely whether before or after the intra-Community transport (see, to that effect, judgments of 21 February 2018, Kreuzmayr, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A84&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑628/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A84&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:84</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A84&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point43" hreflang="en" target="CourtTab" type="application/xhtml+xml">43</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A84&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point44" hreflang="en" target="CourtTab" type="application/xhtml+xml">44</a>, and of 11 April 2019, PORR Építési Kft., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A327&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑691/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A327&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:327</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A327&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="en" target="CourtTab" type="application/xhtml+xml">30</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A327&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point42" hreflang="en" target="CourtTab" type="application/xhtml+xml">42</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, if the final supply in a chain of successive supplies involving a single intra-Community transport is an intra-Community supply, the person ultimately acquiring the goods cannot deduct, from the VAT which he is liable to pay, the amount of VAT wrongly paid for goods which were supplied to him in the context of an exempted intra-Community supply on the sole basis of the incorrect invoice provided by the supplier (see, to that effect, judgment of 21 February 2018, Kreuzmayr, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A84&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑628/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A84&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:84</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A84&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point44" hreflang="en" target="CourtTab" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">On the other hand, that person acquiring the goods could request the repayment of the tax unduly paid to the supplier which produced an incorrect invoice, in accordance with national law (judgment of 21 February 2018, Kreuzmayr, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A84&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑628/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A84&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:84</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A84&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point48" hreflang="en" target="CourtTab" type="application/xhtml+xml">48</a> and the case-law cited). However, in a situation where the VAT has actually been paid to the Treasury by the supplier concerned, if the reimbursement of the VAT by the supplier to the person acquiring the goods is impossible or excessively difficult, including in the case of the insolvency of that supplier, the principle of effectiveness might require that the person concerned acquiring the goods be able to address its application for reimbursement to the tax authorities directly (see, to that effect, judgment of 11 April 2019, PORR Építési Kft., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A327&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑691/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A327&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:327</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A327&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point42" hreflang="en" target="CourtTab" type="application/xhtml+xml">42</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Having regard to all the foregoing considerations, the answer to the question referred is that Article 168(a) of the VAT Directive must be interpreted as meaning that, for the purposes of refusing the right to deduct input VAT, the fact that an acquisition of goods took place at the end of a chain of successive sale transactions between several persons and that the taxable person acquired possession of the goods concerned in the warehouse of a person forming part of that chain, other than the person mentioned as supplier on the invoice, is not in itself sufficient to find the existence of an abusive practice on the part of the taxable person or the other persons participating in that chain, the competent tax authority being required to establish the existence of an undue tax advantage obtained by that taxable person or those other persons.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Eighth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 168(a) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, as amended by Council Directive 2010/45/EU of 13 July 2010, must be interpreted as meaning that, for the purposes of refusing the right to deduct input value added tax (VAT), the fact that an acquisition of goods took place at the end of a chain of successive sale transactions between several persons and that the taxable person acquired possession of the goods concerned in the warehouse of a person forming part of that chain, other than the person mentioned as supplier on the invoice, is not in itself sufficient to find the existence of an abusive practice on the part of the taxable person or the other persons participating in that chain, the competent tax authority being required to establish the existence of an undue tax advantage obtained by that taxable person or those other persons.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0273_EN_01-E0001" id="t-ECR_62018CJ0273_EN_01-E0001">*1</a>
+</span>)	Language of the case: Latvian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

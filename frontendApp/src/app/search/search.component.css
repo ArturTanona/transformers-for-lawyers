@@ -1,0 +1,48 @@
+.filter-container {
+  text-align: center;
+  width:100%;
+}
+
+.hit-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2em;
+  border-bottom: 1px solid #d9dad9;
+}
+
+.hit-details > div {
+  display: flex;
+  align-items: center;
+}
+
+.hit-details > div img {
+  margin-right: 14px;
+}
+
+.hit-detail {
+  padding: 0 1em 1em 1em;
+  border-bottom: 1px solid #d9dad9;
+  margin: 1em;
+}
+
+.ui-panel-content {
+  padding: 1em;
+}
+
+.dark-theme :host ::ng-deep .hit-details,
+.dark-theme :host ::ng-deep .hit-detail {
+  border-bottom: 1px solid #191919;
+}
+
+@media (max-width: 1024px) {
+  .hit-details img {
+        width: 75px;
+  }
+
+  .filter-container {
+      text-align: left;
+  }
+}
+
+

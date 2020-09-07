@@ -1,0 +1,881 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="sum-title-1">12 December 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0376_EN_01-E0001" id="c-ECR_62018CJ0376_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Admissibility — Common rules for the internal market in electricity — Directive 2009/72/EC — Scope — Article 3 — Objectives — Principle of non-discrimination — Special levy on the revenue of entities that are holders of an authorisation to carry on activity in regulated sectors — Electricity sector)</p>
+<p class="normal">In Case C‑376/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic), made by decision of 31 May 2018, received at the Court on 7 June 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Slovenské elektrárne a.s.</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Úrad pre vybrané hospodárske subjekty, formerly Daňový úrad pre vybrané daňové subjekty,</span>
+</p>
+<p class="normal">THE COURT (Fifth Chamber),</p>
+<p class="normal">composed of E. Regan, President of the Chamber, I. Jarukaitis, E. Juhász, M. Ilešič and C. Lycourgos (Rapporteur), Judges,</p>
+<p class="normal">Advocate General: E. Tanchev,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Slovenské elektrárne a.s., by R. Prekop, advokát,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Slovak Government, by B. Ricziová, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by R. Lindenthal and O. Beynet, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:211:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2009 L 211, p. 55</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Slovenské elektrárne a.s. and Úrad pre vybrané hospodárske subjekty, formerly Daňový úrad pre vybrané daňové subjekty (Tax administration for certain tax payers, Slovakia; ‘the tax administration’) concerning the legality of national tax legislation establishing a special levy on the revenue of undertakings that are holders of an authorisation to carry on activity in regulated sectors such as the electricity supply sector (‘regulated entities’).</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Recitals 1, 3 to 5 and 7 of Directive 2009/72 state:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">The internal market in electricity, which has been progressively implemented throughout the [European Union] since 1999, aims to deliver real choice for all consumers of the European Union, be they citizens or businesses, new business opportunities and more cross-border trade, so as to achieve efficiency gains, competitive prices, and higher standards of service, and to contribute to security of supply and sustainability.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">The freedoms which the Treaty guarantees the citizens of the Union — inter alia, the free movement of goods, the freedom of establishment and the freedom to provide services — are achievable only in a fully open market, which enables all consumers freely to choose their suppliers and all suppliers freely to deliver to their customers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">… In particular, non-discriminatory network access and an equally effective level of regulatory supervision in each Member State do not yet exist.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(5)</p>
+</td>
+<td valign="top">
+<p class="normal">A secure supply of electricity is of vital importance for the development of European society, the implementation of a sustainable climate change policy, and the fostering of competitiveness within the internal market. …</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(7)</p>
+</td>
+<td valign="top">
+<p class="normal">The Communication of the Commission [to the European Council and to the European Parliament (COM(2007) 1 final)] of 10 January 2007[,] entitled “An Energy Policy for Europe” highlighted the importance of completing the internal market in electricity and of creating a level playing field for all electricity undertakings established in the [European Union]. …’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1 of that directive, relating to the subject matter and scope of that directive, provides:</p>
+<p class="normal">‘This Directive establishes common rules for the generation, transmission, distribution and supply of electricity, together with consumer protection provisions, with a view to improving and integrating competitive electricity markets in the [European Union]. It lays down the rules relating to the organisation and functioning of the electricity sector, open access to the market, the criteria and procedures applicable to calls for tenders and the granting of authorisations and the operation of systems. It also lays down universal service obligations and the rights of electricity consumers and clarifies competition requirements.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3 of that directive, entitled ‘Public service obligations and customer protection’, states:</p>
+<p class="normal">‘1.   Member States shall ensure, on the basis of their institutional organisation and with due regard to the principle of subsidiarity, that, without prejudice to paragraph 2, electricity undertakings are operated in accordance with the principles of this Directive with a view to achieving a competitive, secure and environmentally sustainable market in electricity, and shall not discriminate between those undertakings as regards either rights or obligations.</p>
+<p class="normal">2.   Having full regard to the relevant provisions of the Treaty, in particular Article 86 thereof, Member States may impose on undertakings operating in the electricity sector, in the general economic interest, public service obligations which may relate to security, including security of supply, regularity, quality and price of supplies and environmental protection, including energy efficiency, energy from renewable sources and climate protection. Such obligations shall be clearly defined, transparent, non-discriminatory, verifiable and shall guarantee equality of access for electricity undertakings of the [European Union] to national consumers. …</p>
+<p class="normal">3.   Member States shall ensure that all household customers, and, where Member States deem it appropriate, small enterprises …, enjoy universal service, that is the right to be supplied with electricity of a specified quality within their territory at reasonable, easily and clearly comparable, transparent and non-discriminatory prices. To ensure the provision of universal service, Member States may appoint a supplier of last resort. …</p>
+<p class="normal">…</p>
+<p class="normal">10.   Member States shall implement measures to achieve the objectives of social and economic cohesion and environmental protection, which shall include energy efficiency/demand-side management measures and means to combat climate change, and security of supply, where appropriate. Such measures may include, in particular, the provision of adequate economic incentives, using, where appropriate, all existing national and [European Union] tools, for the maintenance and construction of the necessary network infrastructure, including interconnection capacity.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Slovak law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">The zákon č. 235/2012 Z.z. o osobitnom odvode z podnikania v regulovaných odvetviach a o zmene a doplnení niektorých zákonov, v znení neskorších predpisov (Law No 235/2012 establishing a special levy on the revenue of entities generated in regulated sectors, amending and supplementing certain laws, in the version applicable to the dispute in the main proceedings) of 26 July 2012 (No 60/2012 Z.z.; ‘Law No 235/2012’) establishes a special tax levied on the revenue of certain entities carrying on their activities in regulated sectors, such as the electricity sector (‘the special levy’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the file submitted to the Court that, in accordance with the explanatory memorandum to that law, the objective of that law is to ‘share, in a more equal manner, the impact of the economic crisis but also to ensure an efficient use of resources with a view to increasing economic growth and, consequently, to enabling an improvement of the base for raising government revenue’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Under Paragraph 3(1), (3) and (4) of that law:</p>
+<p class="normal">‘1.   “Regulated entity” means any person or permanent establishment of a foreign entity that</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">has an authorisation to carry on activity in the sector:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(1)</p>
+</td>
+<td valign="top">
+<p class="normal">of energy on the basis of an authorisation granted by the Úrad pre reguláciu sieťových odvetví [(Energy Regulation Authority, Slovakia)] pursuant to a special law …;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(11)</p>
+</td>
+<td valign="top">
+<p class="normal">referred to in points (1) to (10) on the basis of an authorisation issued in another Member State of the European Union [or] in a State party to the Agreement on the European Economic Area, and …</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">expects to generate, with respect to the accounting period during the course of which it obtained the authorisation to perform the activity referred to in point (a), at least 50% of its total revenue for that accounting period from carrying on activity in the sector referred to in point (a). …</p>
+<p class="normal">…</p>
+</td>
+</tr>
+</table>
+<p class="normal">3.   Any person or permanent establishment of a foreign entity that has an authorisation to carry on the activity referred to in subparagraph 1(a) shall be a regulated entity for all levy periods of the accounting period during the course of which its revenue generated from that activity amounts to at least 50% of its total revenue for that accounting period, even if it did not expect that its revenue generated from the activity referred to in subparagraph 1(a) would, for that accounting period, amount to at least 50% of its total revenue for that accounting period, or if the revenue generated from that activity did not, for the accounting period defined in Paragraph 13(1), amount to at least 50% of its total revenue for that accounting period; the regulated entity must inform the tax administration of that fact within the time limit for submitting a tax return.</p>
+<p class="normal">4.   Any person or permanent establishment of a foreign entity which has become a regulated entity shall not lose that status, including where its revenue generated from the activity in the sector referred to in subparagraph 1(a) does not, for the accounting period during which it has an authorisation to perform the activity referred to in subparagraph 1(a), amount to 50% of its total revenue for that accounting period.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 12(6) of that law provides:</p>
+<p class="normal">‘Payment of the levy must not provide grounds for an increase of the regulated price set pursuant to special provisions … and the levy collected shall not be regarded as a cost that may be taken into account in calculating the regulated price.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 13(1) of Law No 235/2012 provides:</p>
+<p class="normal">‘Any person or permanent establishment of a foreign entity which, on 1 September 2012, is authorised to perform the activity referred to in Paragraph 3(1)(a) and whose revenue generated from that activity for the accounting period preceding the entry into force of the present law amounts to at least 50% of its total revenue for that accounting period, shall have the status of regulated entity within the meaning of the present law. That regulated entity is subject to payment of the levy, starting from the period during which the levy becomes payable, namely from September 2012, if the result which that entity achieved in the accounting period preceding the entry into force of the present law amounted to at least the levy base provided for in Paragraph 4(2). “Accounting period” in the above sense means the accounting period immediately preceding the entry into force of the present law, during the course of which the obligation to duly draw up a financial statement and submit it together with the tax return …, before the entry into force of the present law, arose. …’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Slovenské elektrárne is a Slovak regulated entity which supplies electricity and has, to that end, an authorisation issued by the Energy Regulation Authority (‘authorisation’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Pursuant to Law No 235/2012, the tax administration issued an assessment notice for a sum of EUR 11298 797.52 in respect of compulsory levies, of which the special levy forms part, payable by that company for the 2015 accounting period.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Slovenské elektrárne challenged that assessment notice before the Krajský súd v Bratislave (Regional Court, Bratislava, Slovakia), on the ground, inter alia, that the national legislation on the basis of which that notice had been adopted is not consistent with EU law. In reply, the tax administration stated, inter alia, that it is apparent from the explanatory memorandum to Law No 235/2012 that that law seeks to ensure the sharing, in an equal and efficient manner, of the impact of the economic crisis, to reduce the budget deficit in such a way as to bring it below the threshold of 3% of the gross domestic product, and to involve the undertakings operating in regulated activity sectors in consolidating the public finances.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">By judgment of 9 February 2017, the Krajský súd v Bratislave (Regional Court, Bratislava) annulled that assessment notice on the ground, inter alia, that the tax administration had not sufficiently taken into consideration the complaint of Slovenské elektrárne alleging incompatibility of the national legislation with EU law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">An appeal on a point of law against that judgment was brought before the referring court, Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic), which is unsure whether the special levy is compatible with Directive 2009/72.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is apparent from the request for a preliminary ruling and the written observations submitted to the Court that that levy applies to regulated entities, such as, inter alia, electricity suppliers that hold an authorisation and which generate or expect to generate at least 50% of their total revenue from the regulated activity they perform. The referring court states that regulated entities include both entities with tax residence in Slovakia (‘domestic regulated entities’) and regulated entities with tax residence abroad (‘foreign regulated entities’), that second category including regulated entities established abroad which are authorised on the basis of an authorisation to carry on an activity issued to those entities in their State of origin (‘passport’ authorisation). While the former are subject to the special levy on revenue generated from their activities both in Slovakia and abroad, the latter are subject to that levy only with respect to revenue generated from their activities in that Member State. A regulated entity is not, however, subject to the special levy for each given accounting period unless its economic result has reached, for the accounting period in question, an amount of at least EUR 3000000.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court raises the question, in the first place, whether the special levy disregards the objective pursued by Directive 2009/72, in that it impedes the development of a fully competitive electricity market. According to the referring court, first, that levy has an impact on the freedom of the regulated entities concerned to set a fully competitive price for the supply of electricity in foreign markets and thus affects competition in those markets. Secondly, that levy taxes not only the revenue of the regulated entities concerned which is generated from the regulated activity in respect of which those entities have been issued with an authorisation but also the revenue that those entities generate from other activities. Consequently, that levy is capable of discouraging new competitors from entering the Slovak and foreign electricity supply markets. Thirdly, the special levy could have an impact on the competitiveness of domestic regulated entities in foreign markets, since, unlike foreign regulated entities, they are subject to that levy with respect to revenue from activities they perform in those markets. Finally, the referring court states that the only means by which a regulated entity could avoid that levy is to request that its authorisation be revoked.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, the referring court raises the question whether the special levy is capable of falling within the measures that the Member States can adopt under Article 3(2), (3) and (10) of Directive 2009/72, even though that levy is not a means of combating climate change or of ensuring the security of supply and does not seek to attain any of the other objectives pursued by that directive. Further, if, according to that court, it can be accepted that that levy pursues an objective of social and economic cohesion, doubts persist as regards the proportionality of that levy within the meaning of that directive, since, first, that levy taxes the revenue of domestic regulated entities that is generated from their activities, including those abroad, secondly, it applies to regulated entities on the sole ground that they hold an authorisation and, thirdly, Law No 235/2012 establishing the special levy precludes the entity concerned from passing on the amount of that levy to the final customer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">In the third place, the referring court raises the question whether Law No 235/2012 is compatible with the requirement of transparency, the principle of non-discrimination and the principle of equality of access for EU electricity undertakings to national consumers, which are referred to in Article 3 of Directive 2009/72. In that regard, that court states that it is impossible to determine whether the special levy allows the objective pursued by Law No 235/2012 to be attained and whether its indefinite application is necessary to that end. Furthermore, that court raises the question whether that law disregards the principle of non-discrimination, in so far as domestic regulated entities are taxed on a broader base as compared with foreign regulated entities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Must Directive [2009/72] be interpreted as meaning that national legislation, such as that at issue in the main proceedings, which establishes a special measure consisting of a compulsory levy on regulated entities, including the holders of an authorisation to supply electricity granted by the competent regulatory authority of the Member State concerned …, set in accordance with the financial performance which they achieved not only at national level but also from activity abroad, is contrary to the objective thereof, and in particular Article 3 thereof, where that levy:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(i)</p>
+</td>
+<td valign="top">
+<p class="normal">affects the freedom of regulated entities to set a fully competitive price for the supply of electricity on foreign electricity markets, and thus also the competitive process on those markets;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(ii)</p>
+</td>
+<td valign="top">
+<p class="normal">reduces the competitiveness of the regulated entities in comparison with foreign electricity suppliers operating on the Slovak electricity market where both supply electricity to a particular foreign market since the foreign operator is not subject to such a compulsory levy in respect of the supply of electricity abroad;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(iii)</p>
+</td>
+<td valign="top">
+<p class="normal">discourages new competitors from entering the electricity supply market in [Slovakia] and abroad since such a compulsory levy would apply equally to revenue from their non-regulated activities even if, subsequently during a particular period, they were to hold an authorisation to supply electricity but the revenue they received from that supply was zero; and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(iv)</p>
+</td>
+<td valign="top">
+<p class="normal">may induce Slovak regulated entities to ask the regulatory authority — or foreign electricity suppliers to ask the regulatory authority of the respective State of origin which issued them — to revoke the authorisation to supply electricity since for an entity who does not wish the proceeds from its other activities to be subject to the levy in question, revocation of that authorisation is the only way of ridding itself of the status of regulated entity laid down by the legislation at issue?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Must [Directive 2009/72] be interpreted as meaning that it is not possible to include among the measures which [Directive 2009/72] permits a Member State to adopt, even where they conflict with the objective which the directive pursues, a special measure, such as that at issue in the main proceedings, consisting of a compulsory levy on regulated entities, including the holders of an authorisation to supply electricity granted by the regulatory authority, set in accordance with their financial performance, including performance from activity abroad, given that that measure does not constitute a tool to combat climate change and does not serve to guarantee the supply of electricity or pursue any other objective of [Directive 2009/72]?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">Must [Directive 2009/72] be interpreted as meaning that national law, such as that at issue in the main proceedings, which establishes a special measure consisting of a compulsory levy on regulated entities, including the holders of an authorisation to supply electricity granted by the regulatory authority, set in accordance with their financial performance, including performance achieved from activity abroad, fails to satisfy the requirements relating to transparency, non-discrimination and equality of access to consumers as provided for in Article 3 of the directive since — in the case of a regulated entity — it also affects revenue obtained (from the supply of electricity or other means) abroad whereas — in the case of the holder of an authorisation to provide energy on the basis of a “passport” authorisation to supply electricity granted in the relevant State of origin — it affects only the revenue obtained in [Slovakia]?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Admissibility</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">The Slovak Government and the European Commission contest the admissibility of the request for a preliminary ruling.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">That government contends, in essence, that the referring court does not define the factual and legislative context in a sufficiently precise manner and does not state the specific reasons why it is unsure as to the interpretation of EU law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Further, the Commission considers that Directive 2009/72 is irrelevant for the purpose of answering the questions referred and that the interpretation of that directive is therefore not necessary for resolving the dispute in the main proceedings. In that regard, that institution states that the special levy concerns regulated entities not only in the energy sector but in other sectors, as well. Consequently, that levy does not apply to the supply of electricity as such but taxes the comprehensive income of the entity concerned. Further, according to the Commission, that levy is not a measure intended to regulate the activities of electricity suppliers but has the character of a general tax measure contributing to the State budget.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be recalled that, in accordance with the settled case-law of the Court, questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining, the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it and to understand the reasons for the referring court’s view that it needs answers to those questions in order to rule in the dispute before it (judgment of 5 September 2019, Pohotovosť, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A665&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑331/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A665&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:665</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A665&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">However, since the order for reference serves as the basis for the preliminary ruling procedure before the Court under Article 267 TFEU, it is essential that the national court should, in that decision, expand on its definition of the factual and legislative context of the dispute in the main proceedings and give at the very least some explanation of the reasons for the choice of the EU law provisions which it seeks to have interpreted and of the link it establishes between those provisions and the national law applicable to the proceedings pending before it. Those cumulative requirements concerning the content of a request for a preliminary ruling are expressly set out in Article 94 of the Court’s Rules of Procedure (see, to that effect, judgment of 9 March 2017, Milkova, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A198&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑406/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A198&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:198</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A198&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point72" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">72</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A198&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point73" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">73</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the first place, the requirement provided for in Article 94(a) of the Rules of Procedure in relation to the statement, on the part of the referring court, of the subject matter of the dispute and the relevant findings of fact, it must be noted that, in the present case, the request for a preliminary ruling makes clear that the dispute in the main proceedings concerns the legality of the assessment notice issued with respect to Slovenské elektrárne, on the ground, inter alia, that the national legislation on the basis of which that notice was adopted is inconsistent with Directive 2009/72. In that regard, the referring court provides the necessary clarifications as regards the relevant findings of facts of that dispute.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, it must be stated that, in accordance with the requirement in Article 94(b) of the Rules of Procedure, that request indicates the tenor of the national provisions applicable to the dispute in the main proceedings, namely, those provided for by Law No 235/2012.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">In the third place, as regards the requirement referred to in Article 94(c) of the Rules of Procedure, relating, first, to the reasons which prompted the referring court to inquire about the interpretation of Directive 2009/72 and, secondly, to the link it establishes between that directive and the national law applicable to the dispute in the main proceedings, it must be stated that the referring court sets out its own assessments as regards the questions it raises concerning the interpretation of that directive, and in particular of Article 3(1) to (3) and (10) thereof, and as regards the link it establishes between those provisions and the national law. It is apparent from the request for a preliminary ruling that that court raises the question, in essence, whether Law No 235/2012, which establishes the special levy, complies with the obligations and principles referred to in those EU law provisions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Finally, as regards the claims of the Commission, it is sufficient to recall that, where it is not obvious that the interpretation of an EU provision bears no relation to the facts of the main action or its purpose, the objection alleging the inapplicability of that provision to the case in the main action does not relate to the admissibility of the request for a preliminary ruling, but concerns the substance of the questions (see, to that effect, judgment of 4 July 2019, Kirschstein, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A563&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑393/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A563&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:563</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A563&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">It thus follows from the foregoing considerations that the request for a preliminary ruling is admissible.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Substance</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">By its questions, which it is appropriate to examine together, the referring court asks, in essence, whether Directive 2009/72 and, in particular, Article 3(1) to (3) and (10) thereof and the principle of non-discrimination must be interpreted as precluding national legislation that establishes a special levy on the revenue, with respect to activities performed both nationally and abroad, of undertakings operating, on the basis of an authorisation issued by a public authority, in various regulated activity sectors, including undertakings that hold an authorisation for supplying electricity issued by the competent national regulatory authority.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be stated that it is apparent from recitals 3 to 5 and 7 of Directive 2009/72 that that directive seeks, in essence, to establish an open and competitive internal market in electricity which enables consumers freely to choose their suppliers and suppliers freely to deliver to their customers, to create a level playing field in that market, to ensure security of supply and to combat climate change.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, in accordance with Article 1 thereof, that directive establishes common rules for the generation, transmission, distribution and supply of electricity, together with consumer protection provisions, with a view to improving and integrating competitive electricity markets in the European Union. That directive lays down the rules relating to the organisation and functioning of the electricity sector, open access to the market, the criteria and procedures applicable to calls for tenders and the granting of authorisations and the operation of systems. It also lays down universal service obligations and the rights of electricity consumers and clarifies competition requirements.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 3(1) of Directive 2009/72, Member States are to ensure, on the basis of their institutional organisation and with due regard to the principle of subsidiarity, that, without prejudice to paragraph 2 of that article, electricity undertakings are operated in accordance with the principles of that directive with a view to achieving a competitive, secure and environmentally sustainable market in electricity, and are not to discriminate between those undertakings as regards either rights or obligations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Further, Article 3(2), (3) and (10) of Directive 2009/72 seeks, in essence, to provide a framework for, respectively, public service obligations, universal service obligations, and measures of social and economic cohesion and environmental protection that the Member States can impose on undertakings in the electricity sector.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the principle of non-discrimination, which forms an integral part of the general principles of EU law, it is apparent from the case-law of the Court that that principle must be observed by any national legislation which falls within the scope of EU law or which implements EU law (see, to that effect, judgment of 7 November 2019, UNESA and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A934&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑80/18 to C‑83/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A934&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:934</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A934&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point47" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, subject to the verifications which it is for the referring court to carry out, it must be stated that, in the light of the information contained in the request for a preliminary ruling and in the file submitted to the Court, and as submitted by the Slovak Government in its written observations, the purpose of Law No 235/2012, which imposes the special levy, does not consist in providing a framework for the supply of electricity, establishing rules for the organisation and functioning of the electricity market, defining the rights of consumers in that regard, or clarifying competition requirements.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">By contrast, it is apparent from the information contained in the order for reference and the written observations filed with the Court that the special levy established by that law has the character of a general tax measure, and, in particular, of a direct tax on the total revenue of undertakings in the economic sectors referred to in that law. According to that information, that levy, first, pursues, in accordance with the explanatory memorandum to Law No 235/2012, a budgetary objective, with a view to reducing the government deficit and addressing the economic crisis, secondly, applies to undertakings operating in regulated activity sectors, that is, not only in the energy sector but also in a number of other economic sectors and, thirdly, does not apply to the supply of electricity as such but taxes the comprehensive income of the regulated entity concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be recalled that as regards the objective of Directive 2009/72 which consists in completing an internal market in electricity, the EU legislature used the ordinary legislature procedure as provided for in Article 95(1) EC for the adoption of measures for the approximation of the provisions laid down by law, regulation or administrative action in Member States in the establishment and functioning of the internal market (judgment of 7 November 2019, UNESA and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A934&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑80/18 to C‑83/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A934&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:934</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A934&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point49" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">49</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">However, in accordance with the wording of Article 95(2) EC, Article 95(1) was not to apply to fiscal provisions (judgment of 7 November 2019, UNESA and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A934&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑80/18 to C‑83/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A934&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:934</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A934&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, since Directive 2009/72 is not a measure for the approximation of the Member States’ fiscal provisions, the provisions of that directive, and, in particular, Article 3(1) to (3) and (10) thereof, do not apply to national legislation such as that in the main proceedings, establishing a special levy on the revenue of the undertakings referred to in that legislation (see, by analogy, judgment of 7 November 2019, UNESA and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A934&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑80/18 to C‑83/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A934&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:934</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A934&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point51" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">51</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">In so far as Directive 2009/72 is the only measure of EU law the interpretation of which is sought by the referring court and it is not apparent from the file submitted to the Court that another provision of EU law is applicable to the dispute in the main proceedings, it must be stated that, in accordance with the case-law referred to in paragraph 36 of the present judgment, the Court cannot examine the special levy in the light of the principle of non-discrimination.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, it follows from all of the foregoing considerations that Directive 2009/72 and, in particular, Article 3(1) to (3) and (10) thereof, must be interpreted as not precluding national legislation that establishes a special levy on the revenue, with respect to activities performed both nationally and abroad, of undertakings operating, on the basis of an authorisation issued by a public authority, in various regulated activity sectors, including undertakings that hold an authorisation for supplying electricity issued by the competent national regulatory authority.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC and, in particular, Article 3(1) to (3) and (10) thereof, must be interpreted as not precluding national legislation that establishes a special levy on the revenue, with respect to activities performed both nationally and abroad, of undertakings operating, on the basis of an authorisation issued by a public authority, in various regulated activity sectors, including undertakings that hold an authorisation for supplying electricity issued by the competent national regulatory authority.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0376_EN_01-E0001" id="t-ECR_62018CJ0376_EN_01-E0001">*1</a>
+</span>)	Language of the case: Slovak.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

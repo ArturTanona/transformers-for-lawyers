@@ -1,0 +1,1149 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>ARRÊT DE LA COUR (huitième chambre)</p>
+<p class="sum-title-1">17 octobre 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0423_FR_01-E0001" id="c-ECR_62018CJ0423_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Agriculture – Organisation commune des marchés – Règlement (CE) n<span class="super">o</span> 967/2006 – Article 3, paragraphe 2 – Sucre – Prélèvement sur l’excédent – Délai de communication du prélèvement total à payer – Délai maximal pour une rectification a posteriori – Principes de proportionnalité, de sécurité juridique et de protection de la confiance légitime »</p>
+<p class="normal">Dans l’affaire C‑423/18,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par le Finanzgericht Baden-Württemberg (tribunal des finances de Bade-Wurtemberg, Allemagne), par décision du 20 mars 2018, parvenue à la Cour le 27 juin 2018, dans la procédure</p>
+<p class="normal">
+<span class="bold">Südzucker AG</span>
+</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">Hauptzollamt Karlsruhe,</span>
+</p>
+<p class="normal">LA COUR (huitième chambre),</p>
+<p class="normal">composée de M<span class="super">me</span> L. S. Rossi (rapporteure), présidente de chambre, MM. J. Malenovský et F. Biltgen, juges,</p>
+<p class="normal">avocat général : M<span class="super">me</span> E. Sharpston,</p>
+<p class="normal">greffier : M<span class="super">me</span> M. Krausenböck, administratrice,</p>
+<p class="normal">vu la procédure écrite et à la suite de l’audience du 16 mai 2019,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour Südzucker AG, par M<span class="super">e</span> D. Ehle, Rechtsanwalt,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour l’Hauptzollamt Karlsruhe, par M<span class="super">mes</span> A. Weins et R. Gleim‑Arnold ainsi que par M. T.‑M. Seith, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M<span class="super">me</span> B. Eggers et M. B. Hofstötter, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">vu la décision prise, l’avocate générale entendue, de juger l’affaire sans conclusions,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation de l’article 3, paragraphe 2, du règlement (CE) n<span class="super">o</span> 967/2006 de la Commission, du 29 juin 2006, portant modalités d’application du règlement (CE) n<span class="super">o</span> 318/2006 du Conseil en ce qui concerne la production hors quota dans le secteur du sucre (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:176:TOC" hreflang="fr" target="CourtTab">JO 2006, L 176, p. 22</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant Südzucker AG à l’Hauptzollamt Karlsruhe (bureau principal des douanes de Karlsruhe, Allemagne, ci-après le « bureau des douanes ») au sujet de la fixation du prélèvement sur l’excédent de sucre produit pour la campagne de commercialisation 2007/2008.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit de l’Union</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 15 du règlement (CE) n<span class="super">o</span> 318/2006 du Conseil, du 20 février 2006, portant organisation commune des marchés dans le secteur du sucre (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:058:TOC" hreflang="fr" target="CourtTab">JO 2006, L 58, p. 1</a>), tel que modifié par le règlement (CE) n<span class="super">o</span> 1260/2007 du Conseil, du 9 octobre 2007 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2007:283:TOC" hreflang="fr" target="CourtTab">JO 2007, L 283, p. 1</a>) (ci-après le « règlement n<span class="super">o</span> 318/2006 »), dispose :</p>
+<p class="normal">« 1.   Un prélèvement sur l’excédent est perçu sur les quantités :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">de sucre excédentaire, d’isoglucose excédentaire et de sirop d’inuline excédentaire produites au cours d’une campagne de commercialisation, à l’exception des quantités reportées sur la campagne de commercialisation suivante, au compte de la production sous quota de cette campagne, et stockées conformément à l’article 14, ou des quantités visées à l’article 12, points c) et d) ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">de sucre industriel, d’isoglucose industriel et de sirop d’inuline industriel pour lesquelles aucune preuve de leur utilisation dans l’un des produits visés à l’article 13, paragraphe 2, n’a été apportée dans un délai à déterminer ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c)</p>
+</td>
+<td valign="top">
+<p class="normal">de sucre et d’isoglucose retirées du marché conformément aux articles 19 et 19 bis et pour lesquelles les obligations prévues à l’article 19, paragraphe 3, ne sont pas respectées.</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   Le prélèvement sur l’excédent est fixé conformément à la procédure visée à l’article 39, paragraphe 2, à un niveau suffisamment élevé pour éviter l’accumulation des quantités visées au paragraphe 1.</p>
+<p class="normal">3.   Le prélèvement sur l’excédent acquitté conformément au paragraphe 1 est perçu par les États membres auprès des entreprises établies sur leur territoire en fonction des quantités produites visées au paragraphe 1, qui ont été fixées pour ces entreprises pour la campagne de commercialisation concernée. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 3 du règlement n<span class="super">o</span> 967/2006, intitulé « Montant », est ainsi libellé :</p>
+<p class="normal">« 1.   Le prélèvement prévu à l’article 15 du règlement (CE) n<span class="super">o</span> 318/2006 est fixé à 500 [euros] par tonne.</p>
+<p class="normal">2.   Avant le 1<span class="super">er</span> mai suivant la campagne de commercialisation durant laquelle l’excédent a été produit, l’État membre communique aux fabricants le prélèvement total à payer. Ce prélèvement est payé par les fabricants en cause avant le 1<span class="super">er</span> juin de la même année.</p>
+<p class="normal">(3)   La quantité sur laquelle le prélèvement a été acquitté est considérée comme écoulée sur le marché communautaire. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 4 de ce règlement, intitulé « Excédent soumis à prélèvement », prévoit :</p>
+<p class="normal">« 1.   Le prélèvement est perçu auprès du fabricant sur l’excédent produit en sus de son quota de production pour une campagne de commercialisation donnée.</p>
+<p class="normal">Toutefois, le prélèvement n’est pas perçu sur les quantités visées au paragraphe 1, qui ont été:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">livrées à un transformateur avant le 30 novembre de la campagne de commercialisation suivante pour être utilisées dans la fabrication des produits visés à l’annexe;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">reportées conformément à l’article 14 du règlement (CE) n<span class="super">o</span> 318/2006 et, dans le cas du sucre, stockées par le fabricant jusqu’au dernier jour de la campagne de commercialisation concernée ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c)</p>
+</td>
+<td valign="top">
+<p class="normal">livrées avant le 31 décembre de la campagne de commercialisation suivante, dans le cadre du régime spécifique d’approvisionnement des régions ultrapériphériques prévu au titre II du règlement (CE) n<span class="super">o</span> 247/2006 ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">d)</p>
+</td>
+<td valign="top">
+<p class="normal">exportées avant le 31 décembre de la campagne de commercialisation suivante sous couvert d’un certificat d’exportation ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">e)</p>
+</td>
+<td valign="top">
+<p class="normal">détruites ou avariées sans avoir pu être récupérées, dans des circonstances reconnues par l’organisme compétent de l’État membre concerné.</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   Chaque fabricant de sucre communique à l’organisme compétent de l’État membre qui l’a agréé, avant le 1<span class="super">er</span> février de la campagne de commercialisation concernée, la quantité de sucre produite en sus de son quota de production.</p>
+<p class="normal">Chaque fabricant de sucre communique également, le cas échéant, avant la fin de chacun des mois suivants, les ajustements de cette production au cours du mois précédent de ladite campagne.</p>
+<p class="normal">3.   Les États membres établissent et communiquent à la Commission, le 30 juin au plus tard, les quantités visées au paragraphe 1, deuxième alinéa, le total des quantités excédentaires et les prélèvements perçus pour la campagne de commercialisation précédente.</p>
+<p class="normal">4.   Lorsque, en cas de force majeure, les opérations visées au paragraphe 1, points a), c) et d) ne peuvent être réalisées dans les délais prévus, l’organisme compétent de l’État membre sur le territoire duquel le sucre, l’isoglucose ou le sirop d’inuline excédentaire a été produit arrête les mesures nécessaires en raison des circonstances invoquées par l’intéressé. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 10 du règlement (CE) n<span class="super">o</span> 952/2006 de la Commission, du 29 juin 2006, portant modalités d’application du règlement n<span class="super">o</span> 318/2006 en ce qui concerne la gestion du marché intérieur du sucre et le régime des quotas (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:178:TOC" hreflang="fr" target="CourtTab">JO 2006, L 178, p. 39</a>), tel que modifié par le règlement (CE) n<span class="super">o</span> 707/2008 de la Commission, du 24 juillet 2008 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:197:TOC" hreflang="fr" target="CourtTab">JO 2008, L 197, p. 4</a>) (ci-après le règlement n<span class="super">o</span> 952/2006) :</p>
+<p class="normal">« 1.   Au cours de chaque campagne, l’autorité compétente de l’État membre procède à des contrôles auprès de chaque fabricant ou raffinerie agréé.</p>
+<p class="normal">2.   Les contrôles visent à s’assurer de l’exactitude et de l’exhaustivité des données des registres visés à l’article 9 et des communications visées à l’article 21 au moyen, notamment, d’une analyse de la cohérence entre les quantités de matières premières livrées et les quantités de produits finis obtenus ainsi que d’un rapprochement avec les documents commerciaux ou d’autres documents pertinents.</p>
+<p class="normal">Les contrôles incluent une vérification de l’exactitude des instruments de pesée et des analyses en laboratoire utilisées pour déterminer les livraisons de matières premières et leur entrée en production, les produits obtenus et les mouvements de stocks.</p>
+<p class="normal">Les contrôles comprennent une vérification de l’exactitude et de l’exhaustivité des données utilisées pour l’établissement des prix de vente mensuels moyens de l’entreprise, visés à l’article 13, paragraphe 2.</p>
+<p class="normal">Pour les fabricants de sucre, les contrôles portent également sur le respect de l’obligation de payer le prix minimal au producteur de betteraves.</p>
+<p class="normal">Au moins une fois tous les deux ans, les contrôles incluent une vérification physique des stocks.</p>
+<p class="normal">3.   S’il est prévu par les autorités compétentes de l’État membre que certains éléments du contrôle puissent être mis en œuvre sur la base d’un échantillon, celui-ci doit assurer un niveau de contrôle fiable et représentatif.</p>
+<p class="normal">4.   L’État membre peut exiger des entreprises agréées qu’elles recourent aux services d’un certificateur des comptes, dont le statut est reconnu dans l’État membre, pour établir une certification des données de prix visées à l’article 13.</p>
+<p class="normal">5.   Chaque contrôle fait l’objet d’un rapport de contrôle signé par le contrôleur, rendant compte avec précision des différents éléments du contrôle. Ce rapport indique notamment :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">la date du contrôle et les personnes présentes ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">la période contrôlée et les quantités concernées ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c)</p>
+</td>
+<td valign="top">
+<p class="normal">les techniques de contrôle utilisées, y compris, le cas échéant, une référence aux méthodes d’échantillonnage ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">d)</p>
+</td>
+<td valign="top">
+<p class="normal">les résultats du contrôle et les mesures rectificatives éventuellement exigées ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">e)</p>
+</td>
+<td valign="top">
+<p class="normal">une évaluation de la gravité, de l’étendue, du degré de permanence et de la durée des défauts et des discordances éventuellement constatées ainsi que tous les autres éléments à prendre en considération pour l’application d’une sanction.</p>
+</td>
+</tr>
+</table>
+<p class="normal">Chaque rapport de contrôle est archivé et conservé au moins pendant les trois années qui suivent l’année du contrôle, de manière à être facilement exploitable par les services de contrôle de la Commission.</p>
+<p class="normal">6.   Les États membres se prêtent mutuelle assistance pour assurer l’efficacité des contrôles et permettre de vérifier l’authenticité des documents présentés et/ou l’exactitude des données échangées. »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit allemand</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 12, paragraphe 1, première phrase, du Gesetz zur Durchführung der gemeinsamen Marktorganisationen und der Direktzahlungen (loi relative à la mise en œuvre des organisations communes de marché et des paiements directs), dans sa version du 24 juin 2005 (BGBl. 2017 I, p. 3746, ci-après le « MOG »), énonce :</p>
+<p class="normal">« Les dispositions du code des impôts [...] sont applicables mutatis mutandis [...] aux cotisations prélevées au titre des organisations communes de marché, à moins qu’une règle dérogatoire à ces dispositions ne soit prévue par la présente loi ou par une ordonnance adoptée en application de cette loi. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 8, paragraphe 1, de la Verordnung über die im Rahmen der Produktionsregelung für Zucker zu erhebenden Abgaben (règlement sur les cotisations à percevoir dans le cadre de la régulation de la production du sucre), du 13 mars 1983, dans sa version du 9 novembre 2006, prévoit :</p>
+<p class="normal">« (1)   Aux dates fixées par les actes visés à l’article premier, le Hauptzollamt compétent</p>
+<p class="normal">1. remet à chaque fabricant de sucre un avis déterminant sa production de sucre provisoire et définitive au cours de la campagne de commercialisation [...]</p>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 164, paragraphe 1, paragraphe 2, première phrase, et paragraphe 4, première phrase, de l’Abgabenordnung (code des impôts) (BGBl. 2002 I, p. 3866) :</p>
+<p class="normal">« (1)   Les taxes peuvent, en attendant une vérification définitive, être liquidées, en général ou dans des cas particuliers, sous réserve de vérification, sans que cette liquidation ait besoin d’être motivée. [...]</p>
+<p class="normal">(2)   La liquidation peut être annulée ou modifiée tant que la réserve reste applicable [...]</p>
+<p class="normal">[...]</p>
+<p class="normal">(4)   La réserve de vérification devient caduque avec l’expiration du délai de liquidation. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 169, paragraphes 1 et 2, de ce code prévoit :</p>
+<p class="normal">« (1)   La liquidation d’une taxe, son annulation ou sa modification ne sont plus autorisées après l’expiration du délai de liquidation. [...]</p>
+<p class="normal">(2)   Le délai de liquidation est de :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">un an pour les droits d’accise et leur remboursement,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">quatre ans pour les impôts et leur remboursement qui ne sont pas des impôts ou des remboursements au sens du point 1 ni des droits à l’importation et à l’exportation conformément à l’article 5, points 20 et 21, du code des douanes de l’Union. [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 170, paragraphe 1, du même code, intitulé « Délai de liquidation », dispose :</p>
+<p class="normal">« (1)   Le délai de liquidation court à partir de la fin de l’année civile au cours de laquelle est né l’impôt [...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 171, paragraphe 10, dudit code, intitulé « Prorogation du délai », énonce :</p>
+<p class="normal">« (10)   Dans la mesure où un avis de constatation [...] a valeur impérative dans la liquidation d’une taxe (avis de base), le délai de liquidation n’expire pas avant les deux années qui suivent la notification de l’avis de base. [...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Conformément à l’article 179 du code des impôts :</p>
+<p class="normal">« (1)   Par dérogation à l’article 157, paragraphe 2, les bases d’imposition sont déterminées distinctement par avis de constatation, dans la mesure précisée dans la présente loi ou dans d’autres lois fiscales.</p>
+<p class="normal">(2)   Un avis de constatation vise le contribuable auquel l’objet de la constatation doit être imputé dans l’imposition. [...]</p>
+<p class="normal">(3)   Toute omission d’une constatation requise dans un avis de constatation sera redressée dans un avis complémentaire.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 181 de ce code, intitulé « Règles de procédure régissant la constatation distincte, le délai de constatation et l’obligation de déclarer » :</p>
+<p class="normal">« (1)   La constatation distincte est soumise par analogie aux règles de mise en œuvre de l’imposition. [...]</p>
+<p class="normal">(2)   Il appartient à celui auquel l’objet de la constatation doit être imputé en tout ou en partie de faire une déclaration aux fins de la constatation distincte. [...]</p>
+<p class="normal">[...]</p>
+<p class="normal">(5)   Une constatation distincte peut aussi intervenir après l’expiration du délai de constatation applicable, dans la mesure où la constatation distincte intéresse une liquidation de taxe à l’égard de laquelle le délai de liquidation n’a pas encore expiré au moment de la constatation distincte [...] »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Il ressort de la décision de renvoi que Südzucker exploite neuf sucreries. Durant la campagne sucrière 2007/2008 (allant du mois d’octobre 2007 au mois de septembre 2008), elle disposait d’un quota de sucre de 11788978 quintaux de sucre blanc.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Par un avis du 14 novembre 2008, le bureau des douanes a arrêté à 311060,6 tonnes le sucre excédentaire à imputer au titre de la déclaration de Südzucker du 30 octobre 2008 pour la campagne de commercialisation 2007/2008.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Sur cette base, il a été décidé, par un avis du 7 avril 2009, d’imposer un prélèvement d’un montant de 925 euros pour une quantité de 1,85 tonne de sucre blanc. Cette décision, fondée sur l’article 15, paragraphe 1, sous a), du règlement n<span class="super">o</span> 318/2006, indiquait qu’elle avait été prise sous réserve d’un contrôle a posteriori.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard aux résultats obtenus à la suite d’un contrôle sur place réalisé chez un client de Südzucker, par une décision du 19 octobre 2009, le bureau des douanes a rectifié et fixé le montant excédentaire pour la campagne sucrière 2007/2008 à 1083,03 euros pour 2,16606 tonnes de sucre blanc. Cette décision a elle aussi été rendue sous réserve d’un contrôle a posteriori.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Südzucker a introduit une réclamation contre cette décision de rectification. Au cours de la procédure de réclamation, le bureau des douanes a effectué un contrôle de l’organisation des marchés dans l’usine d’Ochsenfurt (Allemagne) de Südzucker et a rectifié, par une décision du 20 mai 2010, la détermination de la production définitive de sucre, en fixant le sucre excédentaire à imputer à 3128878,93 quintaux. Par une décision du même jour, il a ainsi liquidé le prélèvement sur l’excédent pour la campagne sucrière 2007/2008 à un total de 914726,50 euros pour 1829,453 tonnes de sucre blanc. Cette décision, qui a elle aussi été rendue sous réserve d’un contrôle a posteriori, a fait l’objet d’une réclamation de la part de Südzucker.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Sur la base du résultat d’un contrôle de l’organisation des marchés qui avait été repris dans l’usine de Zeitz (Allemagne) de Südzucker, la quantité de sucre excédentaire à imputer a de nouveau été rectifiée par une décision du 27 octobre 2011 (celle-ci étant liquidée à 3149202,3 quintaux), et le prélèvement sur l’excédent a été fixé à 1930895 euros.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Dans le courant de la procédure de réclamation et de recours, Südzucker a notamment invoqué la prescription de la liquidation rectifiée, et plus précisément le fait qu’elle n’avait pas reçu en temps utile la communication du prélèvement sur l’excédent. Par une décision du 17 mars 2015, le bureau des douanes a rejeté la réclamation introduite contre la décision du 27 octobre 2011 pour défaut de fondement, d’une part, à l’égard de la prescription de la liquidation rectifiée invoquée par Südzucker, et, d’autre part, en ce qui concerne la détermination de la production définitive de sucre au cours de la campagne sucrière 2007/2008.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Le 24 avril 2015, Südzucker a introduit un recours contre ladite décision du 17 mars 2015 devant le Finanzgericht Baden-Württemberg (tribunal des finances de Bade-Wurtemberg, Allemagne), en raison de la liquidation rectifiée du prélèvement sur l’excédent, faisant seulement valoir le fait qu’elle n’avait pas reçu, en temps utile, la communication de ce prélèvement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Le Finanzgericht Baden-Württemberg (tribunal des finances de Bade-Wurtemberg) considère, en substance, que la décision au fond dépend de la question de savoir si le prélèvement sur l’excédent pour la campagne sucrière 2007/2008 pouvait encore être communiqué à Südzucker les 20 mai 2010 et 27 novembre 2011, à savoir après l’expiration du délai prévu à l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006, en l’espèce le 1<span class="super">er</span> mai 2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, la juridiction de renvoi relève que, aux termes de cette disposition, l’État membre communique aux fabricants, avant le 1<span class="super">er</span> mai suivant la campagne de commercialisation durant laquelle l’excédent a été produit, le prélèvement total à payer. Pour la campagne sucrière 2007/2008, le délai a donc expiré le 1<span class="super">er</span> mai 2009. Endéans ce délai, Südzucker s’est certes vu communiquer, le 7 avril 2009, un prélèvement sur l’excédent d’un montant de 925 euros pour la quantité excédentaire de sucre qu’elle avait notifiée, mais ce montant a été rectifié par la suite à deux reprises, respectivement les 20 mai 2010 et 27 novembre 2011.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, le Finanzgericht Baden-Württemberg (tribunal des finances de Bade-Wurtemberg) fait valoir que la Cour, dans son arrêt du 10 janvier 2002, British Sugar (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑101/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2002:7</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point57" hreflang="fr" target="CourtTab" type="application/xhtml+xml">57</a>), a décidé que le délai fixé à l’article 3, paragraphe 2, du règlement (CEE) n<span class="super">o</span> 2670/81 de la Commission, du 14 septembre 1981, établissant les modalités d’application pour la production hors quota dans le secteur du sucre (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1981:262:TOC" hreflang="fr" target="CourtTab">JO 1981, L 262, p. 14</a>) – disposition qui a été par la suite remplacée par l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006, applicable dans l’affaire au principal –, est impératif. Elle a ensuite précisé qu’un dépassement du délai peut toutefois être admis lorsque l’autorité nationale compétente, sauf négligence de sa part, ignorait les détails de la production de sucre de l’entreprise et que cette ignorance peut raisonnablement être imputée à ladite entreprise, cette dernière n’ayant pas agi de bonne foi et n’ayant pas observé toutes les dispositions pertinentes (arrêt du 10 janvier 2002, British Sugar, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑101/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2002:7</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point63" hreflang="fr" target="CourtTab" type="application/xhtml+xml">63</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Cependant, dans son arrêt du 25 mars 2004, Azienda Agricola Ettore Ribaldi e.a. (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A179&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑480/00, C‑482/00, C‑484/00, C‑489/00 à C‑491/00 et C‑497/00 à C‑499/00</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A179&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2004:179</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A179&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point52" hreflang="fr" target="CourtTab" type="application/xhtml+xml">52</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A179&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point53" hreflang="fr" target="CourtTab" type="application/xhtml+xml">53</a>), rendu au sujet d’une communication de prélèvements supplémentaires dans le cadre de l’organisation commune du marché du lait, la Cour a décidé que, s’il est vrai que les délais en question sont impératifs, il n’en demeure pas moins qu’ils ne s’opposent pas à la réalisation, par les autorités compétentes d’un État membre, de contrôles et de rectifications a posteriori visant à assurer que la production de cet État membre n’excède pas la quantité globale garantie qui lui avait été allouée. Au contraire, tant ces délais que les contrôles et les rectifications a posteriori ont pour but de garantir le fonctionnement efficace du régime de prélèvement supplémentaire sur le lait et l’application correcte de la réglementation pertinente.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">La Cour en a déduit que les dispositions fixant de tels délais doivent, dès lors, être interprétées en ce sens qu’elles ne s’opposent pas à ce qu’un État membre, à la suite de contrôles, rectifie les quantités de référence individuelles attribuées à chaque producteur et recalcule, en conséquence, après réattribution des quantités de référence inutilisées, les prélèvements supplémentaires dus, postérieurement à la date limite de paiement de ces prélèvements pour la campagne laitière concernée (arrêt du 25 mars 2004, Azienda Agricola Ettore Ribaldi e.a., (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A179&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑480/00, C‑482/00, C‑484/00, C‑489/00 à C‑491/00 et C‑497/00 à C‑499/00</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A179&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2004:179</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A179&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point68" hreflang="fr" target="CourtTab" type="application/xhtml+xml">68</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, le Finanzgericht Baden-Württemberg (tribunal des finances de Bade-Wurtemberg) souligne que, contrairement à ce qu’elle avait statué dans son arrêt du 10 janvier 2002, British Sugar (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑101/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2002:7</a>), la Cour n’aurait pas assorti d’autres conditions la rectification de la communication du prélèvement après l’expiration du délai d’une première communication faite en temps utile.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces circonstances, la chambre de céans estime que les considérations développées par la Cour dans son arrêt du 25 mars 2004, Azienda Agricola Ettore Ribaldi e.a. (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A179&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑480/00, C‑482/00, C‑484/00, C‑489/00 à C‑491/00 et C‑497/00 à C‑499/00</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A179&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2004:179</a>), sont transposables aux circonstances de la présente affaire concernant l’organisation commune des marchés du sucre. Il en découlerait que le prélèvement pour l’excédent fondé sur le résultat de contrôles doit pouvoir être communiqué en dehors du délai, indépendamment d’autres conditions. En effet, si une telle communication n’était pas effectuée en raison de l’écoulement présumé du délai fixé à l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006, les objectifs de l’organisation commune des marchés du sucre, dégagés par la Cour notamment dans son arrêt du 15 novembre 2012, Pfeifer &amp; Langen (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A715&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑131/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A715&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2012:715</a>), seraient compromis. La détermination de l’excédent n’aurait alors aucune conséquence en soi, de sorte que le fabricant de sucre ne serait précisément pas incité à exporter ces excédents de sucre ou à les déclarer et à les reporter sur la campagne de commercialisation suivante, comme l’indique la Cour au point 57 de l’arrêt du 15 novembre 2012, Pfeifer &amp; Langen (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A715&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑131/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A715&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2012:715</a>). De même, les contrôles perdraient leur sens et pourraient être abandonnés.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Pour le cas où la Cour devrait néanmoins considérer que la portée de l’arrêt du 25 mars 2004, Azienda Agricola Ettore Ribaldi e.a. (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A179&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑480/00, C‑482/00, C‑484/00, C‑489/00 à C‑491/00 et C‑497/00 à C‑499/00</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A179&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2004:179</a>), ne doit pas être transposée à la présente affaire au principal et que le délai de communication prévu à l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006 devait également s’appliquer à des communications rectifiées, la juridiction de renvoi se demande alors si ce délai peut être dépassé notamment lorsque les conditions supplémentaires découlant de l’arrêt du 10 janvier 2002, British Sugar (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑101/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2002:7</a>), sont remplies, à savoir si la mauvaise foi du producteur de sucre peut être prouvée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">C’est dans ce contexte que le Finanzgericht Baden-Württemberg (tribunal des finances de Bade-Wurtemberg) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« 1)</p>
+</td>
+<td valign="top">
+<p class="normal">Faut-il interpréter l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006 en ce sens que le délai qui y est visé s’applique également à la rectification d’une communication faite en temps utile du prélèvement sur l’excédent, résultant de la rectification de la détermination de la quantité de sucre excédentaire à imputer intervenue après l’expiration du délai à la suite d’un contrôle réalisé au titre de l’article 10 du règlement n<span class="super">o</span> 952/2006 ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2)</p>
+</td>
+<td valign="top">
+<p class="normal">Si la première question appelle une réponse affirmative :</p>
+<p class="normal">Lorsqu’une communication faite en temps utile est rectifiée à la suite de constats faits dans des contrôles, les conditions dans lesquelles l’arrêt du 10 janvier 2002, British Sugar (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑101/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2002:7</a>), permet un dépassement du délai prescrit à l’article 3, paragraphe 2, du règlement n<span class="super">o</span> 2670/81, dans la version modifiée par le règlement [(CEE) n<span class="super">o</span> 3559/91 de la Commission, du 6 décembre 1991 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1991:336:TOC" hreflang="fr" target="CourtTab">JO 1991, L 336, p. 26</a>),] valent-elles également pour un dépassement du délai de communication prescrit à l’article 3, paragraphe 2, du règlement n<span class="super">o</span> 967/2006 ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3)</p>
+</td>
+<td valign="top">
+<p class="normal">Si l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006 ne s’applique pas aux rectifications communiquées à la suite de contrôles (voir la première question) ou lorsque les conditions d’un dépassement du délai sont réunies (voir la deuxième question), le délai dans lequel la rectification du prélèvement sur l’excédent doit être communiquée doit-il être fixé au 1<span class="super">er</span> mai suivant ou faut-il appliquer les règles de droit interne ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4)</p>
+</td>
+<td valign="top">
+<p class="normal">Si, compte tenu de la réponse apportée à la troisième question, le délai ne doit pas être fixé au 1<span class="super">er</span> mai suivant et les règles de droit interne ne doivent pas être appliquées :</p>
+<p class="normal">Est-il conforme aux principes généraux de droit [de l’Union], parmi lesquels figurent également les principes de proportionnalité, de sécurité juridique et de protection de la confiance légitime, que, dans un cas comme le présent cas d’espèce, en raison de la durée du contrôle, de la durée de l’établissement du rapport de contrôle, et de son analyse, le prélèvement pour la campagne 2007/2008 soit communiqué le 20 octobre 2010 et le 27 octobre 2011 ? Le fait que le fabricant de sucre a contesté ou non la détermination des quantités excédentaires a-t-il une incidence à cet égard ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les questions préjudicielles</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur les première et deuxième questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Par ses première et deuxième questions, qu’il convient d’examiner ensemble, la juridiction de renvoi demande, en substance, si l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006 doit être interprété en ce sens que, lorsqu’une communication de prélèvement sur l’excédent de sucre est adressée par l’autorité compétente d’un État membre au fabricant de sucre concerné dans le respect du délai prévu à cette disposition, ce délai s’applique également à la rectification d’une telle communication résultant d’un contrôle réalisé au titre de l’article 10 du règlement n<span class="super">o</span> 952/2006 ou si, en revanche, les conditions établies dans l’arrêt du 10 janvier 2002, British Sugar (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑101/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2002:7</a>), permettant un dépassement du délai de communication prescrit à l’article 3, paragraphe 2, du règlement n<span class="super">o</span> 2670/81 valent également pour un dépassement du délai prévu à l’article 3, paragraphe 2, du règlement n<span class="super">o</span> 967/2006.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, les faits au principal concernent la campagne sucrière 2007/2008, pour laquelle le délai a expiré le 1<span class="super">er</span> mai 2009. Au cours de ce délai, Südzucker s’est vu imposer, le 7 avril 2009, un prélèvement sur l’excédent d’un montant de 925 euros pour la quantité excédentaire de sucre qu’elle avait notifiée. Toutefois, à la suite de contrôles effectués au titre de l’article 10 du règlement n<span class="super">o</span> 952/2006, ce montant a été rectifié à deux reprises, respectivement les 20 mai 2010 et 27 novembre 2011, et a conduit à un prélèvement sur l’excédent pour un montant total de 1930895 euros, à savoir un montant sensiblement plus élevé par rapport à celui indiqué dans la première décision adoptée par l’autorité nationale compétente.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Par ses deux premières questions, la juridiction de renvoi vise ainsi, en substance, à savoir si le prélèvement sur l’excédent pour la campagne sucrière 2007/2008 pouvait encore être communiqué à Südzucker les 20 mai 2010 et 27 novembre 2011, à savoir après l’expiration du délai prévu à l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006, en l’espèce le 1<span class="super">er</span> mai 2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Afin de répondre à ces questions, il y a lieu de rappeler, à titre liminaire, que, conformément à l’article 4, paragraphe 2, du règlement n<span class="super">o</span> 967/2006, chaque fabricant de sucre a l’obligation de communiquer à l’organisme compétent de l’État membre qui l’a agréé, avant le 1<span class="super">er</span> février de la campagne de commercialisation concernée, la quantité de sucre produite en sus de son quota de production ainsi que, avant la fin de chacun des mois suivants, les ajustements de cette production au cours du mois précédant ladite campagne.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">En outre, aux termes de l’article 3, paragraphe 2, du même règlement, l’État membre doit communiquer aux fabricants, avant le 1<span class="super">er</span> mai suivant la campagne de commercialisation durant laquelle l’excédent a été produit, le prélèvement total à payer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, dans son arrêt du 10 janvier 2002, British Sugar (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑101/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2002:7</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point57" hreflang="fr" target="CourtTab" type="application/xhtml+xml">57</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point58" hreflang="fr" target="CourtTab" type="application/xhtml+xml">58</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point63" hreflang="fr" target="CourtTab" type="application/xhtml+xml">63</a>), la Cour a jugé que le délai fixé à l’article 3, paragraphe 2, du règlement n<span class="super">o</span> 2670/81 est impératif. Toutefois, elle a également précisé qu’un dépassement de ce délai peut être admis lorsque l’autorité nationale compétente, sauf négligence de sa part, en premier lieu, ignorait les détails de la production de sucre de l’entreprise et que, en second lieu, cette ignorance peut raisonnablement être imputée à ladite entreprise, cette dernière n’ayant pas agi de bonne foi et n’ayant pas observé toutes les dispositions pertinentes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Il découle de cette jurisprudence que ce n’est qu’exceptionnellement qu’un dépassement dudit délai de communication est admis, à savoir lorsque les deux conditions cumulatives énoncées par la Cour dans ledit arrêt sont remplies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ce même arrêt, la Cour a, en outre, considéré qu’il appartient à la juridiction nationale de procéder aux vérifications nécessaires à cet égard et d’en tirer les conséquences éventuelles, en tenant compte, notamment, du degré de connaissance de l’autorité nationale compétente concernant la situation en cause et de la diligence dont cette dernière a fait preuve (voir arrêt du 10 janvier 2002, British Sugar, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑101/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2002:7</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point59" hreflang="fr" target="CourtTab" type="application/xhtml+xml">59</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Bien que cet arrêt porte sur l’interprétation de l’article 3, paragraphe 2, du règlement n<span class="super">o</span> 2670/81, il y a lieu de constater que cette disposition a été par la suite remplacée, dans des termes en substance identiques, par l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006, applicable dans l’affaire au principal. Par conséquent, les considérations développées par la Cour dans son arrêt du 10 janvier 2002, British Sugar (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑101/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A7&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2002:7</a>), au sujet de l’article 3, paragraphe 2, du règlement n<span class="super">o</span> 2670/81, sont pleinement transposables aux circonstances de la présente affaire au principal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, afin de déterminer, ainsi que le demande la juridiction de renvoi, si un dépassement du délai de communication prévu à l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006 peut être admis dans de telles circonstances, il y a lieu de vérifier si les conditions cumulatives prévues par la jurisprudence citée au point 37 du présent arrêt sont satisfaites.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant de la première de ces conditions, le dossier soumis à la Cour ne contient pas d’éléments permettant d’établir de manière univoque que l’autorité nationale compétente ignorait les détails de la production de sucre de Südzucker.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">En ce qui concerne la seconde condition, relative à l’absence de bonne foi de l’entreprise visée, il y a lieu de constater que Südzucker a certes reconnu avoir produit une quantité de sucre excédant son quota de production. Toutefois, ainsi qu’il a été confirmé lors de l’audience de plaidoiries dans la présente affaire, il apparaît que cet excédent de production résulte uniquement de la modification de la masse volumique applicable initialement et que cette modification a eu lieu après la fixation du quota de production alloué en faveur de Südzucker, ce qui, en outre, n’a pas été contesté par le bureau des douanes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">En d’autres termes, ainsi que Südzucker l’a souligné lors de l’audience de plaidoiries, il apparaît que, si la masse volumique applicable initialement n’avait pas été modifiée, il n’y aurait pas eu de production de sucre excédentaire par l’entreprise concernée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il appartient à la juridiction de renvoi de vérifier si un tel lien de cause à effet est avéré et d’en tenir compte dans le cadre de l’analyse visant à s’assurer que le producteur de sucre en cause au principal a agi de bonne foi.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Ces considérations ne sauraient être remises en cause par la possibilité, suggérée par la juridiction de renvoi, d’invoquer, dans les circonstances de l’affaire au principal, l’application des principes dégagés par la Cour dans l’arrêt du 25 mars 2004, Azienda Agricola Ettore Ribaldi e.a. (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A179&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑480/00, C‑482/00, C‑484/00, C‑489/00 à C‑491/00 et C‑497/00 à C‑499/00</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A179&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2004:179</a>), tel qu’il ressort des points 26 et 27 du présent arrêt, rendu au sujet d’une communication de prélèvements supplémentaires dans le cadre de l’organisation commune du marché du lait.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">En effet, ainsi que le souligne Südzucker, cet arrêt a été rendu par la Cour au regard d’une situation juridique et d’un domaine différents de celui en cause au principal. Ces différences concernent, notamment, les mesures de contrôle nécessaires pour assurer la perception du prélèvement sur les quantités de lait ainsi que les modalités d’application du prélèvement supplémentaire. Par conséquent, les considérations développées par la Cour dans ledit arrêt, dans le cadre de l’organisation commune du marché du lait, ne peuvent pas être appliquées par analogie dans le cadre du litige au principal, qui concerne l’organisation du marché du sucre. De ce fait, de telles considérations ne sauraient être déterminantes pour l’interprétation et l’application des dispositions pertinentes du règlement n<span class="super">o</span> 967/2006.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard à l’ensemble des considérations qui précèdent, il y a lieu de répondre aux première et deuxième questions que l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006 doit être interprété en ce sens que, lorsqu’une communication de prélèvement sur l’excédent de sucre est adressée par l’autorité compétente d’un État membre au fabricant de sucre concerné dans le respect du délai prévu à cette disposition, ce délai s’applique, en principe, également à la rectification d’une telle communication résultant d’un contrôle réalisé au titre de l’article 10 du règlement n<span class="super">o</span> 952/2006. Un dépassement de ce délai peut néanmoins être admis lorsque l’autorité nationale compétente, sauf négligence de sa part, ignorait les détails de la production de sucre de l’entreprise concernée et que cette ignorance peut raisonnablement être imputée à ladite entreprise, cette dernière n’ayant pas agi de bonne foi et n’ayant pas observé toutes les dispositions pertinentes. Il appartient à la juridiction de renvoi de déterminer si tel est le cas dans l’affaire au principal, eu égard à l’ensemble des circonstances de cette affaire.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur les troisième et quatrième questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Par ces troisième et quatrième questions, qu’il convient d’examiner ensemble, la juridiction de renvoi demande, en substance, à la Cour de clarifier, pour le cas où les États membres peuvent adresser aux fabricants de sucre une communication rectificative de prélèvement sur l’excédent de sucre produit, après l’expiration du délai fixé par l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006, si le délai dans lequel cette rectification doit être communiquée doit être fixé au 1<span class="super">er</span> mai de l’année suivant l’établissement du rapport de contrôle ou s’il y a lieu d’appliquer les règles prévues par le droit interne. Cette juridiction se demande également si les principes généraux de droit de l’Union doivent être interprétés en ce sens qu’ils s’opposent à ce que, dans des circonstances telles que celles de l’affaire au principal, cette communication pour la campagne de commercialisation 2007/2008 soit faite les 20 octobre 2010 et 27 octobre 2011.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Afin de répondre à ces questions, il importe de relever que, si le règlement n<span class="super">o</span> 967/2006 prévoit, à son article 3, paragraphe 2, un délai avant lequel l’État membre doit communiquer aux fabricants le montant du prélèvement total à payer pour une campagne de commercialisation déterminée, il ne contient, en revanche, aucune disposition concernant le délai pour adresser à ces fabricants des communications rectificatives issues des contrôles, au sens de l’article 10 de ce règlement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Or, à défaut de dispositions de droit de l’Union en la matière, il appartient aux autorités nationales, et particulièrement aux juridictions nationales, en vertu du principe de l’autonomie procédurale des États membres, de régler ces aspects de la procédure et de déterminer ainsi les conditions dans lesquelles ces États peuvent adresser aux producteurs de sucre concernés des communications rectificatives du montant total à payer relatif à l’excédent de sucre produit. Toutefois, ces conditions doivent respecter les principes d’équivalence et d’effectivité, à savoir qu’elles ne doivent pas être moins favorables que celles concernant des communications semblables fondées sur des dispositions de droit interne ni aménagées de manière à rendre pratiquement impossible l’exercice des droits conférés par l’ordre juridique de l’Union (voir, en ce sens, arrêts du 27 septembre 2012, Zuckerfabrik Jülich e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑113/10, C‑147/10 et C‑234/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2012:591</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point60" hreflang="fr" target="CourtTab" type="application/xhtml+xml">60</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A591&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point61" hreflang="fr" target="CourtTab" type="application/xhtml+xml">61</a> ainsi que jurisprudence citée, et du 27 juin 2018, Diallo, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A499&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑246/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A499&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2018:499</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A499&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point59" hreflang="fr" target="CourtTab" type="application/xhtml+xml">59</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, il importe de relever que, d’une part, le prélèvement sur l’excédent de sucre produit tout comme les contrôles et les rectifications a posteriori, a pour but de garantir le fonctionnement efficace du régime de quotas pour le marché du sucre et, notamment, d’éviter que certains producteurs ne soient avantagés par rapport à d’autres. En particulier, les contrôles effectués après la première communication de prélèvement visent expressément à clarifier l’exactitude de la production de sucre allouée et à rectifier, a posteriori, des décisions de l’administration nationale compétente rendues précédemment, sous réserve de vérification, en prévoyant éventuellement l’application de sanctions à l’égard des fabricants.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">D’autre part, s’agissant des communications de rectification des montants à payer par les producteurs de sucre, ainsi qu’il a été affirmé au point 38 du présent arrêt, ce n’est qu’à titre exceptionnel qu’un dépassement du délai de communication peut être admis.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">Or, si une telle rectification issue de contrôles a posteriori pouvait conduire, dans tous les cas et indépendamment de tout délai applicable, à une nouvelle détermination du montant total à payer, le délai de communication prévu à l’article 3, paragraphe 2, du règlement n<span class="super">o</span> 967/2006 risquerait d’être totalement privé de son effet utile. En effet, il suffirait à l’administration nationale compétente, afin de respecter ce délai, d’adresser une simple communication de forme à l’entreprise concernée avant l’expiration de ce délai et de réviser par la suite cette communication à tout moment par une communication rectificative.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">En outre, une telle approche risquerait de porter atteinte aux droits du producteur de sucre concerné et, plus particulièrement, de violer le principe de sécurité juridique, qui exige que les règles de droit soient claires et précises et qui vise à garantir la prévisibilité des situations et des relations juridiques relevant du droit de l’Union (arrêt du 15 septembre 2005, Irlande/Commission, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A548&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑199/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A548&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2005:548</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A548&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point69" hreflang="fr" target="CourtTab" type="application/xhtml+xml">69</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il incombe donc à la juridiction nationale de vérifier, dans chaque cas concret et au vu de toutes les circonstances de l’affaire au principal, si le délai dans lequel peut être communiquée une rectification du prélèvement sur l’excédent après l’expiration du délai fixé à l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006 respecte les principes d’équivalence et d’effectivité ainsi que le principe de sécurité juridique.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard à l’ensemble des considérations qui précèdent, il y a lieu de répondre aux troisième et quatrième questions que, à défaut de dispositions de droit de l’Union concernant le délai dans lequel les États membres doivent adresser aux fabricants de sucre une communication rectificative de prélèvement sur l’excédent de sucre produit, après l’expiration du délai fixé par l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006, il appartient à la juridiction nationale de vérifier, dans chaque cas concret et au regard de toutes les circonstances de l’affaire au principal, si ce délai respecte les principes d’équivalence et d’effectivité ainsi que le principe de sécurité juridique.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (huitième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">L’article 3, paragraphe 2, première phrase, du règlement (CE) n<span class="super">o</span> 967/2006 de la Commission, du 29 juin 2006, portant modalités d’application du règlement (CE) n<span class="super">o</span> 318/2006 du Conseil en ce qui concerne la production hors quota dans le secteur du sucre, doit être interprété en ce sens que, lorsqu’une communication de prélèvement sur l’excédent de sucre est adressée par l’autorité compétente d’un État membre au fabricant de sucre concerné dans le respect du délai prévu par cette disposition, ce délai s’applique, en principe, également à la rectification d’une telle communication résultant d’un contrôle réalisé au titre de l’article 10 du règlement (CE) n<span class="super">o</span> 952/2006 de la Commission, du 29 juin 2006, portant modalités d’application du règlement (CE) n<span class="super">o</span> 318/2006 du Conseil en ce qui concerne la gestion du marché intérieur du sucre et le régime des quotas, tel que modifié par le règlement (CE) n<span class="super">o</span> 707/2008 de la Commission, du 24 juillet 2008. Un dépassement de ce délai peut néanmoins être admis lorsque l’autorité nationale compétente, sauf négligence de sa part, ignorait les détails de la production de sucre de l’entreprise concernée et que cette ignorance peut raisonnablement être imputée à ladite entreprise, cette dernière n’ayant pas agi de bonne foi et n’ayant pas observé toutes les dispositions pertinentes. Il appartient à la juridiction de renvoi de déterminer si tel est le cas dans l’affaire au principal, eu égard à l’ensemble des circonstances de cette affaire.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">À défaut de dispositions de droit de l’Union concernant le délai dans lequel les États membres doivent adresser aux fabricants de sucre une communication rectificative de prélèvement sur l’excédent de sucre produit, après l’expiration du délai fixé par l’article 3, paragraphe 2, première phrase, du règlement n<span class="super">o</span> 967/2006, il appartient à la juridiction nationale de vérifier, dans chaque cas concret et au regard de toutes les circonstances de l’affaire au principal, si ce délai respecte les principes d’équivalence et d’effectivité ainsi que le principe de sécurité juridique.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0423_FR_01-E0001" id="t-ECR_62018CJ0423_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : l’allemand.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

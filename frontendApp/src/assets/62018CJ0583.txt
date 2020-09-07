@@ -1,0 +1,811 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Ninth Chamber)</p>
+<p class="coj-sum-title-1">12 March 2020 (<span class="coj-note">
+<a href="#t-ECR_62018CJ0583_EN_01-E0001" id="c-ECR_62018CJ0583_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Consumer protection — Directive 2011/83/EU — Scope — Service contract — Article 2(6) — Contract for passenger transport services — Article 3(3)(k) — Cards conferring entitlement to price reductions when passenger transport contracts are subsequently concluded — Online selling of such cards without informing the consumer about the right of withdrawal)</p>
+<p class="coj-normal">In Case C‑583/18,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Oberlandesgericht Frankfurt am Main (Higher Regional Court, Frankfurt am Main, Germany), made by decision of 13 September 2018, received at the Court on 20 September 2018, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">Verbraucherzentrale Berlin eV</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">DB Vertrieb GmbH,</span>
+</p>
+<p class="coj-normal">THE COURT (Ninth Chamber),</p>
+<p class="coj-normal">composed of D. Šváby, acting as President of the Chamber, K. Jürimäe and N. Piçarra (Rapporteur), Judges,</p>
+<p class="coj-normal">Advocate General: G. Pitruzzella,</p>
+<p class="coj-normal">Registrar: M. Krausenböck, Administrator,</p>
+<p class="coj-normal">having regard to the written procedure and further to the hearing on 24 October 2019,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Verbraucherzentrale Berlin eV, by J. Hennig and J. Christ, Rechtsanwälte,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">DB Vertrieb GmbH, by B. Bräutigam, Rechtsanwalt,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Czech Government, by M. Smolek, J. Vláčil and S. Šindelková, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by B.-R. Killmann and C. Valero, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Article 2(6) and Article 3(3)(k) of Directive 2011/83/EU of the European Parliament and of the Council of 25 October 2011 on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:304:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2011 L 304, p. 64</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between Verbraucherzentrale Berlin eV and DB Vertrieb GmbH concerning the requirements for online marketing of a card entitling its holder to price reductions when subsequently purchasing passenger tickets.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">EU law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Recitals 27 and 49 of Directive 2011/83 state:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(27)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Transport services cover passenger transport and transport of goods. Passenger transport should be excluded from the scope of this Directive as it is already subject to other Union legislation or, in the case of public transport and taxis, to regulation at national level. However, the provisions of this Directive protecting consumers against excessive fees for the use of means of payment or against hidden costs should apply also to passenger transport contracts. In relation to transport of goods and car rental which are services, consumers should benefit from the protection afforded by this Directive, with the exception of the right of withdrawal.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(49)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Certain exceptions from the right of withdrawal should exist, both for distance and off-premises contracts. … The granting of a right of withdrawal to the consumer could … be inappropriate in the case of certain services where the conclusion of the contract implies the setting aside of capacity which, if a right of withdrawal were exercised, the trader may find difficult to fill.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As set out in Article 1 of Directive 2011/83:</p>
+<p class="coj-normal">‘The purpose of this Directive is, through the achievement of a high level of consumer protection, to contribute to the proper functioning of the internal market by approximating certain aspects of the laws, regulations and administrative provisions of the Member States concerning contracts concluded between consumers and traders.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 2 of Directive 2011/83 states:</p>
+<p class="coj-normal">‘For the purpose of this Directive, the following definitions shall apply:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(5)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“sales contract” means any contract under which the trader transfers or undertakes to transfer the ownership of goods to the consumer and the consumer pays or undertakes to pay the price thereof, including any contract having as its object both goods and services;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(6)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“service contract” means any contract other than a sales contract under which the trader supplies or undertakes to supply a service to the consumer and the consumer pays or undertakes to pay the price thereof;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(7)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“distance contract” means any contract concluded between the trader and the consumer under an organised distance sales or service-provision scheme without the simultaneous physical presence of the trader and the consumer, with the exclusive use of one or more means of distance communication up to and including the time at which the contract is concluded;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 3 of Directive 2011/83 provides:</p>
+<p class="coj-normal">‘1.   This Directive shall apply, under the conditions and to the extent set out in its provisions, to any contract concluded between a trader and a consumer. …</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">3.   This Directive shall not apply to contracts:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(k)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">for passenger transport services, with the exception of Article 8(2) and Articles 19 and 22;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 6 of Directive 2011/83, headed ‘Information requirements for distance and off-premises contracts’, provides:</p>
+<p class="coj-normal">‘1.   Before the consumer is bound by a distance or off-premises contract, or any corresponding offer, the trader shall provide the consumer with the following information in a clear and comprehensible manner:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(h)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">where a right of withdrawal exists, the conditions, time limit and procedures for exercising that right in accordance with Article 11(1), as well as the model withdrawal form set out in Annex I(B);</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 9(1) of Directive 2011/83 states:</p>
+<p class="coj-normal">‘Save where the exceptions provided for in Article 16 apply, the consumer shall have a period of 14 days to withdraw from a distance or off-premises contract, without giving any reason, and without incurring any costs other than those provided for in Article 13(2) and Article 14.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">German law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Paragraph 312 et seq. of the Bürgerliches Gesetzbuch (Civil Code) are intended to transpose Directive 2011/83 into German law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Paragraph 312 of the Civil Code states:</p>
+<p class="coj-normal">‘(1)   The provisions of chapters 1 and 2 of this subtitle shall apply only to consumer contracts … that have as their subject matter performance by the trader for consideration.</p>
+<p class="coj-normal">(2)   Of the provisions set out in chapters 1 and 2 of this subtitle, solely Paragraph 312a(1), (3), (4), and (6) shall apply to the following contracts:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">5.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">contracts for passenger transport services’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Paragraph 312d of the Civil Code provides, by reference to Article 246a of the Einführungsgesetz zum Bürgerlichen Gesetzbuch (Introductory Law of the Civil Code), that the trader is obliged, in the case inter alia of distance contracts, to inform the consumer, before he enters into a contractual commitment, about the right of withdrawal and to make the model withdrawal form available to him.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">DB Vertrieb, which is part of the Deutsche Bahn AG group, markets the cards ‘BahnCard 25’ and ‘BahnCard 50’ as intermediary of DB Fernverkehr AG. Those cards permit the holder to obtain reductions of 25% or 50% on the price of DB Fernverkehr’s train tickets. The ‘BahnCard 25’ may be ordered online. No information relating to the consumer’s right of withdrawal is provided on DB Vertrieb’s website.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Verbraucherzentrale Berlin, a consumer protection association, brought an action for an order requiring DB Vertrieb to cease offering that reduction card on its website in the course of trade without providing, prior to the consumer’s contractual commitment, information relating to the right of withdrawal that the consumer possesses and the corresponding model withdrawal form.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By judgment of 6 July 2017, the court of first instance dismissed the action. It held that the contract at issue in the main proceedings is a ‘contract for passenger transport services’ within the meaning of Paragraph 312(2)(5) of the Civil Code, which transposes Article 3(3)(k) of Directive 2011/83. The court stated that, under those provisions, that contract is partially excluded from the directive’s scope and, accordingly, the trader is not required to inform the consumer about the right of withdrawal. It observed that the provision of a transport service to a passenger involves the existence of a synallagmatic relationship with the price paid for that service, the reduction card entitling its holder to obtain the service concerned at a reduced price.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court, the Oberlandesgericht Frankfurt am Main (Higher Regional Court, Frankfurt am Main, Germany), before which an appeal was brought, states, first of all, that, in its view, the contract at issue in the main proceedings falls within the scope of Directive 2011/83, in that it is a ‘service contract’ within the meaning of Article 2(6) of the directive. Referring to the first paragraph of Article 57 TFEU, it takes the view that the directive, in the light of its wording and purpose, also covers services provided to the consumer that take the form of a commitment or a right, such as the service at issue in the main proceedings, which enables the consumer subsequently to acquire passenger tickets at a reduced price.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court notes, next, that Article 3(3)(k) of Directive 2011/83 partially excludes contracts for passenger transport services from the directive’s scope, on the ground that, as mentioned in recital 27, those contracts are subject to other EU legislation or regulation at national level.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, the referring court takes the view that, whilst the contract at issue in the main proceedings does not relate directly to a passenger transport service, but constitutes a ‘framework contract’ conferring upon the consumer entitlement to a price reduction when passenger transport contracts are subsequently concluded, it is nevertheless covered by the term ‘contracts for passenger transport services’, within the meaning of Article 3(3)(k) of Directive 2011/83. Indeed, in the judgment of 10 March 2005, easyCar (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A150&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑336/03</a>, the judgment in easyCar, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A150" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:150</a>), the Court gave a broad interpretation to the term ‘contracts for the provision of … transport … services’ in Article 3(2) of Directive 97/7/EC of the European Parliament and of the Council of 20 May 1997 on the protection of consumers in respect of distance contracts (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1997:144:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1997 L 144, p. 19</a>), an instrument repealed by Directive 2011/83.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court acknowledges that the scope of Directive 2011/83 is more limited in that it refers to the concept of ‘contracts for passenger transport services’. However, there is nothing to indicate that the EU legislature sought to restrict the scope of Article 3(3)(k) of that directive in relation to the scope of Article 3(2) of Directive 97/7, as interpreted by the Court in the judgment in <span class="coj-italic">easyCar</span>.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court takes the view, finally, that the fact that the conditions relating to the reduction card at issue in the main proceedings are included in the schedule of prices and, in accordance with the first sentence of Paragraph 12(2) of the Allgemeines Eisenbahngesetz (General law on the railways), are reviewed by the competent supervisory authority as an integral part of the general terms and conditions of transport supports exclusion of the contract at issue in the main proceedings from the scope of Directive 2011/83 under Article 3(3)(k) thereof. That type of contract is thus governed by national law. According to recital 27 of Directive 2011/83, passenger transport is to be excluded from the directive’s scope in so far as it is already subject, in the case of public transport, to regulation at national level.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the Oberlandesgericht Frankfurt am Main (Higher Regional Court, Frankfurt am Main) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Is Article 2(6) of Directive [2011/83] to be interpreted as also covering contracts by means of which the trader is not directly obliged to supply a service, but rather the consumer acquires the right to receive a discount for services ordered in the future?</p>
+<p class="coj-normal">If Question 1 is answered in the affirmative:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Is the exception for ‘contracts … for passenger transport services’ in Article 3(3)(k) of Directive [2011/83] to be interpreted as also applying to situations in which the consumer does not directly receive a transport service as consideration, but rather acquires the right to receive a discount for contracts for transport services to be concluded in the future?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its first question, the referring court asks, in essence, whether Article 2(6) of Directive 2011/83 must be interpreted as meaning that the term ‘service contract’ covers contracts whose object is to entitle the consumer to a price reduction when passenger transport contracts are subsequently concluded.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The term ‘service contract’ in Article 2(6) of Directive 2011/83 is defined broadly as ‘any contract other than a sales contract under which the trader supplies or undertakes to supply a service to the consumer and the consumer pays or undertakes to pay the price thereof’. It follows from the wording of that provision that that term must be understood as covering all contracts which do not fall within the term ‘sales contract’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The contract at issue in the main proceedings, whose object is to entitle the consumer to a price reduction when a transport ticket is subsequently purchased, does not concern transfer of the ownership of goods, within the meaning of Article 2(5) of Directive 2011/83. Therefore, it is, by default, covered by the term ‘service contract’, within the meaning of Article 2(6) of the directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing considerations, the answer to the first question is that Article 2(6) of Directive 2011/83 must be interpreted as meaning that the term ‘service contract’ covers contracts whose object is to entitle the consumer to a price reduction when passenger transport contracts are subsequently concluded.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its second question, the referring court asks, in essence, whether Article 3(3)(k) of Directive 2011/83 must be interpreted as meaning that the term ‘contract for passenger transport services’ covers a contract whose object is to entitle the consumer to a price reduction when passenger transport contracts are subsequently concluded.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In order to answer this question, it should be noted, first, that, by virtue of Article 3(3)(k), Directive 2011/83 applies only partially to contracts for passenger transport services, so that consumers who are parties to such contracts do not have, in particular, a right of withdrawal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is clear from the Court’s case-law that, where the terms to be interpreted appear in a provision which constitutes a derogation from a principle or, more specifically, from rules of EU law for the protection of consumers, they must be interpreted strictly (the judgment in <span class="coj-italic">easyCar</span>, paragraph 21 and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, inasmuch as Article 3(3)(k) of Directive 2011/83 partially excludes contracts for passenger transport services from the scope of that directive, it must be interpreted strictly.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is to be noted, second, that the Court has held that the term ‘contracts for the provision of … transport … services’, in Article 3(2) of Directive 97/7, is broader than the term ‘contracts of carriage’ commonly used in the legal systems of the Member States. Whilst the latter term relates only to carriage of passengers and goods performed by the carrier, the term ‘contracts for the provision of … transport … services’ can cover all contracts governing services in the field of transport, including those involving an activity which does not include, as such, the carriage of the customer or his goods, but which is aimed at enabling the customer to perform that carriage (see, to that effect, the judgment in <span class="coj-italic">easyCar</span>, paragraph 23).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that context, it has been held that, whilst the service provided in performing a vehicle hire contract does not consist in the action of moving persons from one place to another, it does, however, have the aim of making a mode of transport available to the consumer. It follows that such a contract enables a means of passenger transport to be made available and is covered by the term ‘contract for the provision of … transport … services’ (see, to that effect, the judgment in <span class="coj-italic">easyCar</span>, paragraphs 26 and 27).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Court has also held that that interpretation of Article 3(2) of Directive 97/7 is consistent with the objective pursued by the directive, namely to institute protection for the interests of consumers who use means of distance communication, but also protection for the interests of suppliers of certain services, in order that the latter should not suffer the disproportionate consequences arising from the cancellation, at no expense and with no explanation, of a service for which there is a prior booking, as a consequence of withdrawal by the consumer at short notice before the date specified for the provision of that service (see, to that effect, the judgment in <span class="coj-italic">easyCar</span>, paragraph 28).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In so far as the provisions of Article 3(3)(k) of Directive 2011/83 may be regarded as equivalent to those of Article 3(2) of Directive 97/7, the Court’s interpretation of the latter provisions also applies to the former (see, by analogy, judgments of 9 March 2017, Pula Parking, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A193&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑551/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A193" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:193</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A193" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>, and of 19 December 2019, Darie, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1140&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑592/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1140" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:1140</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1140" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, it must be held that the term ‘contract for passenger transport services’, in Article 3(3)(k) of Directive 2011/83, does not cover a contract whose object is to entitle the consumer to a price reduction when passenger transport contracts are subsequently concluded.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First, unlike the vehicle hire contract at issue in the case which gave rise to the judgment in <span class="coj-italic">easyCar</span>, a contract whose sole object is to entitle the consumer to a reduced price when contracts for the purchase of transport tickets are subsequently concluded is not in itself directly concerned with enabling the transporting of passengers to be carried out.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Second, as has been observed by all the interested parties which have submitted observations in the present proceedings, a contract whose object is to entitle the consumer to a price reduction when passenger transport contracts are subsequently concluded and a contract for the purchase of a passenger ticket are two contracts that are legally distinct from one another, so that the former cannot be regarded as a contract inextricably linked to the latter. The purchase of a card conferring upon its holder entitlement to price reductions when transport tickets are purchased does not necessarily entail the subsequent conclusion of a contract whose object is passenger transport itself.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Third, as the European Commission has observed, the existence of a right of withdrawal, pursuant to Article 9 of Directive 2011/83, following the purchase of a card conferring entitlement to a price reduction when passenger tickets are subsequently purchased does not entail, for the undertaking responsible for carriage of the passengers, disproportionate consequences that can be equated with the consequences, as identified in the judgment in <span class="coj-italic">easyCar</span>, that are connected with exercise of a right of withdrawal in the context of a vehicle hire contract.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Where no transport ticket has been purchased at a reduced price, the consumer receives, in the event of withdrawal, the sum paid, corresponding to the price of the card, and loses the entitlement to a reduced price when purchasing passenger tickets subsequently. Furthermore, if a reduced price ticket has been purchased during the withdrawal period, it is apparent from the observations made during the oral part of the procedure before the Court that it would be possible to require the consumer to pay the difference between the price of the ticket corresponding to the reduced fare, resulting from use of the reduction card, and the price of that ticket corresponding to the full fare.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that a contract whose object is to entitle the consumer to a price reduction when passenger transport contracts are subsequently concluded does not fall within the exception to the right of withdrawal which is mentioned in recital 49 of Directive 2011/83 and concerns ‘certain services where the conclusion of the contract implies the setting aside of capacity which, if a right of withdrawal were exercised, the trader may find difficult to fill’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of all the foregoing considerations, the answer to the second question is that Article 3(3)(k) of Directive 2011/83 must be interpreted as meaning that a contract whose object is to entitle the consumer to a price reduction when passenger transport contracts are subsequently concluded is not covered by the term ‘contract for passenger transport services’ and, consequently, falls within the scope of that directive, including of its provisions relating to the right of withdrawal.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Ninth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 2(6) of Directive 2011/83/EU of the European Parliament and of the Council of 25 October 2011 on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council, must be interpreted as meaning that the term ‘service contract’ covers contracts whose object is to entitle the consumer to a price reduction when passenger transport contracts are subsequently concluded.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 3(3)(k) of Directive 2011/83 must be interpreted as meaning that a contract whose object is to entitle the consumer to a price reduction when passenger transport contracts are subsequently concluded is not covered by the term ‘contract for passenger transport services’ and, consequently, falls within the scope of that directive, including of its provisions relating to the right of withdrawal.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62018CJ0583_EN_01-E0001" id="t-ECR_62018CJ0583_EN_01-E0001">*1</a>
+</span>)	Language of the case: German.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

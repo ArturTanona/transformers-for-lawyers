@@ -1,0 +1,1283 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Seventh Chamber)</p>
+<p class="sum-title-1">26 March 2020 (<span class="note">
+<a href="#t-ECR_62019CJ0182_EN_01-E0001" id="c-ECR_62019CJ0182_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Common Customs Tariff — Combined Nomenclature — Tariff classification — Heading 3005 and heading 3824 — Self-heating patches and belts to relieve pain — Implementing Regulation (EU) 2016/1140 — Invalidity)</p>
+<p class="normal">In Case C–182/19,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the First-tier Tribunal (Tax Chamber) (United Kingdom), made by decision of 21 February 2019, received at the Court on 26 February 2019, in the proceedings</p>
+<p class="normal">
+<span class="bold">Pfizer Consumer Healthcare Ltd</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Commissioners for Her Majesty’s Revenue and Customs,</span>
+</p>
+<p class="normal">THE COURT (Seventh Chamber),</p>
+<p class="normal">composed of P.G. Xuereb, President of the Chamber, T. von Danwitz and A. Kumin (Rapporteur), Judges,</p>
+<p class="normal">Advocate General: E. Tanchev,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Pfizer Consumer Healthcare Ltd, by V. Sloane QC, L. Catrain González, abogada, E. Wright, Barrister, and R. Shiers, Solicitor,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Commissioners for Her Majesty’s Revenue and Customs, by H. Watkinson, Barrister, and A. Beegun, Solicitor,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the United Kingdom Government, by S. Brandon, acting as Agent, and by H. Watkinson, Barrister,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by A. Caeiros, J. Hradil and M. Salyková, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the validity of Commission Implementing Regulation (EU) 2016/1140 of 8 July 2016 concerning the classification of certain goods in the Combined Nomenclature (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2016:189:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2016 L 189, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Pfizer Consumer Healthcare Ltd (‘Pfizer’) and the Commissioners for Her Majesty’s Revenue and Customs (United Kingdom; ‘HMRC’) concerning the tariff classification of self-heating patches and belts to relieve pain.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The CN</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">The Combined Nomenclature, established by Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1987:256:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1987 L 256, p. 1</a>) (‘the CN’), is based on the Harmonised Commodity Description and Coding System, drawn up by the Customs Cooperation Council, now the World Customs Organisation (‘the WCO’), and established by the International Convention on the Harmonised Commodity Description and Coding System concluded in Brussels on 14 June 1983. That convention, and the Protocol of Amendment thereto of 24 June 1986, was approved on behalf of the European Economic Community by Council Decision 87/369/EEC of 7 April 1987 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1987:198:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1987 L 198, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">The general rules for the interpretation of the CN, which appear in Part One, Section I, A, of the CN, provide inter alia:</p>
+<p class="normal">‘Classification of goods in the [CN] shall be governed by the following principles:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings or notes do not otherwise require, according to the following provisions:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">Any reference in a heading to a material or substance shall be taken to include a reference to mixtures or combinations of that material or substance with other materials or substances. Any reference to goods of a given material or substance shall be taken to include a reference to goods consisting wholly or partly of such material or substance. The classification of goods consisting of more than one material or substance shall be according to the principles of rule 3.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3.</p>
+</td>
+<td valign="top">
+<p class="normal">When by application of rule 2(b) or for any other reason, goods are prima facie classifiable under two or more headings, classification shall be effected as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the heading which provides the most specific description shall be preferred to headings providing a more general description. However, when two or more headings each refer to part only of the materials or substances contained in mixed or composite goods or to part only of the items in a set put up for retail sale, those headings are to be regarded as equally specific in relation to those goods, even if one of them gives a more complete or precise description of the goods;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">mixtures, composite goods consisting of different materials or made up of different components, and goods put in sets for retail sale, which cannot be classified by reference to 3(a), shall be classified as if they consisted of the material or component which gives them their essential character, in so far as this criterion is applicable;</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">6.</p>
+</td>
+<td valign="top">
+<p class="normal">For legal purposes, the classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related subheading notes and, <span class="italic">mutatis mutandis</span>, to the above rules, on the understanding that only subheadings at the same level are comparable. For the purposes of this rule, the relative section and chapter notes also apply, unless the context requires otherwise.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Part II of the CN, entitled ‘Schedule of Customs Duties’, includes Section VI, itself entitled ‘Products of the chemical or allied industries’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">In particular, Chapter 30, entitled ‘Pharmaceutical products’, and Chapter 38, entitled ‘Miscellaneous chemical products’, appear in Section VI of the CN.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Chapter 30 of the CN contains heading 3005, which is worded as follows:</p>
+<p class="normal">‘Wadding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Chapter 38 of the CN contains heading 3824, which is worded as follows:</p>
+<p class="normal">‘Prepared binders for foundry moulds or cores; chemical products and preparations of the chemical or allied industries (including those consisting of mixtures of natural products), not elsewhere specified or included’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Heading 3824 within Chapter 30, in the version resulting from Commission Implementing Regulation (EU) 2015/1754 of 6 October 2015 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2015:285:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2015 L 285, p. 1</a>), applicable after the entry into force of Implementing Regulation 2016/1140, comprised the following subheadings:</p>
+<table border="0" cellpadding="0" cellspacing="0" class="table" width="100%">
+<col width="33%"/>
+<col width="67%"/>
+<tbody>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-txt">…</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">…</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-cod">3824 90</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">– Other:</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-txt">…</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">…</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="normal"> </p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">– – Other</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-txt">…</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">…</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="normal"> </p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">– – – Products and preparations for pharmaceutical or surgical uses:</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-txt">…</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">…</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="normal"> </p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">– – – Other:</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-txt">…</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">…</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="normal"> </p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">– – – – Chemical products or preparations, predominantly composed of organic compounds, not elsewhere specified or included:</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-txt">…</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">…</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-cod">3824 90 96</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">– – – – Other</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Regulation (EU) No 952/2013</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 57 of Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2013:269:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2013 L 269, p. 1</a>; ‘the Customs Code’):</p>
+<p class="normal">‘1.   For the application of the Common Customs Tariff, tariff classification of goods shall consist in the determination of one of the subheadings or further subdivisions of the Combined Nomenclature under which those goods are to be classified.</p>
+<p class="normal">2.   For the application of non-tariff measures, tariff classification of goods shall consist in the determination of one of the subheadings or further subdivisions of the Combined Nomenclature, or of any other nomenclature which is established by Union provisions and which is wholly or partly based on the Combined Nomenclature or which provides for further subdivisions to it, under which those goods are to be classified.</p>
+<p class="normal">…</p>
+<p class="normal">4.   The [European] Commission may adopt measures to determine the tariff classification of goods in accordance with paragraphs 1 and 2.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">The first subparagraph of Article 58(2) of the Customs Code provides:</p>
+<p class="normal">‘The Commission shall adopt, by means of implementing acts, the measures referred to in Article 57(4).’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Article 285(1) of that code provides:</p>
+<p class="normal">‘The Commission shall be assisted by the Customs Code Committee. …’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Implementing Regulation 2016/1140</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Implementing Regulation 2016/1140 was adopted by the Commission on the basis of Article 57(4) and the first subparagraph of Article 58(2) of the Customs Code.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1 of that implementing regulation provides:</p>
+<p class="normal">‘The goods described in column (1) of the table set out in the Annex shall be classified within the [CN] under the CN code indicated in column (2) of that table.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">The Annex to that implementing regulation is worded as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" class="table" width="100%">
+<col width="35%"/>
+<col width="30%"/>
+<col width="35%"/>
+<tbody>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-txt">‘Description of goods</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">Classification (CN Code)</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">Reasons</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<p class="tbl-txt">(1)</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">(2)</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">(3)</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="4%"/>
+<col width="96%"/>
+<tbody>
+<tr>
+<td valign="top">
+<p class="normal">1.</p>
+</td>
+<td valign="top">
+<p class="normal">A product in the form of a self-heating patch to relieve pain.</p>
+<p class="normal">The patch is made of adhesive material intended for attaching to the skin (neck, wrist or shoulder).</p>
+<p class="normal">The product is made of a soft synthetic material conforming to the body’s shape and contains a number of discs which, on exposure to the air, generate heat.</p>
+<p class="normal">The discs contain iron powder, charcoal, salt and water. When the individual packets containing the patch are opened and exposed to air, an exothermic reaction takes place.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="table" valign="top">
+<p class="tbl-cod">3824 90 96</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">Classification is determined by general rules 1, 3(b) and 6 for the interpretation of the Combined Nomenclature and the wording of CN codes 3824, 3824 90 and 3824 90 96.</p>
+<p class="tbl-txt">The discs contained in the product are used as a heat source due to the exothermic reaction. This gives the product the essential character of a preparation of heading 3824.</p>
+<p class="tbl-txt">Therefore, the product cannot be considered as bandages and similar articles of heading 3005.</p>
+<p class="tbl-txt">Therefore, the product should be classified in CN code 3824 90 96.</p>
+</td>
+</tr>
+<tr class="table">
+<td class="table" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="4%"/>
+<col width="96%"/>
+<tbody>
+<tr>
+<td valign="top">
+<p class="normal">2.</p>
+</td>
+<td valign="top">
+<p class="normal">A product in the form of a self-heating belt to relieve pain.</p>
+<p class="normal">The belt is made of non-adhesive material, which is attached by means of a self-adhesive strip.</p>
+<p class="normal">The product is made of a soft synthetic material conforming to the body’s shape and contains a number of discs which, upon exposure to air, generate heat.</p>
+<p class="normal">The discs contain iron powder, charcoal, salt and water. When the individual packets containing the belt are opened and exposed to air, an exothermic reaction takes place.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="table" valign="top">
+<p class="tbl-cod">3824 90 96</p>
+</td>
+<td class="table" valign="top">
+<p class="tbl-txt">Classification is determined by general rules 1,3 (b) and 6 for the interpretation of the Combined Nomenclature and the wording of CN codes 3824, 3824 90 and 3824 90 96.</p>
+<p class="tbl-txt">The discs contained in the product are used as a heat source due to the exothermic reaction. This gives the product the essential character of a preparation of heading 3824.</p>
+<p class="tbl-txt">Therefore, the product should be classified in CN code 3824 90 96.’</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Directive 93/42/EEC</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Medical devices falling under the scope of Council Directive 93/42/EEC of 14 June 1993 concerning medical devices (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1993:169:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1993 L 169, p. 1</a>), as amended by Directive 2007/47/EC of the European Parliament and of the Council of 5 September 2007 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2007:247:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2007 L 247, p. 21</a>) (‘Directive 93/42’), are defined in Article 1(2)(a) of that directive as follows:</p>
+<p class="normal">‘“medical device” means any instrument, apparatus, appliance, software, material or other article, whether used alone or in combination, together with any accessories, including the software intended by its manufacturer to be used specifically for diagnostic and/or therapeutic purposes and necessary for its proper application, intended by the manufacturer to be used for human beings for the purpose of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">diagnosis, prevention, monitoring, treatment or alleviation of disease,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">diagnosis, monitoring, treatment, alleviation of or compensation for an injury or handicap,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">investigation, replacement or modification of the anatomy or of a physiological process,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">control of conception,</p>
+</td>
+</tr>
+</table>
+<p class="normal">and which does not achieve its principal intended action in or on the human body by pharmacological, immunological or metabolic means, but which may be assisted in its function by such means’.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Pfizer imports into the United Kingdom single-use products falling under the registered trade mark ThermaCare. The products are presented and marketed for the purposes of heat therapy, to deliver benefits such as analgesia, reduced stiffness and acceleration of healing to damaged tissue.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">The products in the family include heating patches, some but not all of which are available in more than one size and are designed for use on a specific area of the body. They are each flexible to conform securely to the relevant part of the body and to stay in place over the affected area by use of either adhesive strips or Velcro fastening, depending on the product variation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Those patches are broadly composed of a fabric-wrap with ‘heat cells’ inside. The wrap is comprised of a synthetic cloth-like layered material which holds the heat cells in place and protects the user if the contents of the heat cells were to escape. The heat cells consist of a permeable synthetic material which forms the walls of the heat cell and a mix of materials held within the cell (including iron powder, carbon, salt and water).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">The patches are sold in a sealed pouch. When removed and exposed to air, they heat up. Specifically, when the mix of materials is exposed to air via the permeable heat cell wall, an exothermic reaction takes place which releases heat. A constant temperature of 40 degrees Celsius is maintained for between 8 to 12 hours, depending on the product variation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">According to the information provided by the referring court, the First-tier Tribunal (Tax Chamber) (United Kingdom), numerous clinical studies show that therapeutic heat therapy has physiological effects with medical benefits. The therapeutic benefit of heat is confirmed in the International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM), published by the World Health Organisation (WHO). Heat therapy is also recognised and advised as treatment by various clinical guidelines published by recognised national bodies. More specifically, regarding the products in question, they are classified as ‘active medical devices’ under Directive 93/42 and have been approved and certified to carry a CE mark by a notified body.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">In 2012, HMRC issued two Binding Tariff Informations (‘BTIs’), classifying certain ThermaCare products in heading 3005 of the CN, in similar fashion to the German and Slovak customs authorities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Using those BTI decisions, Pfizer imported ThermaCare products into France on three separate occasions between 2012 and 2013. Upon inspection of those imports, the French customs authorities concluded that the goods should be classified under heading 3824 of the CN, with the applicable rate of duty of 6.5%. In 2015, those authorities requested that the classification of ThermaCare products be considered by the European Commission, which referred the matter to the Customs Code Committee.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Following a non-unanimous decision by that committee, the Commission adopted Implementing Regulation 2016/1140. It is apparent from the Annex to that implementing regulation that a product in the form of a self-heating patch to relieve pain, made of adhesive material, or in the form of a self-heating belt to relieve pain, made of non-adhesive material, should be classified in CN code 38249096.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">As a consequence, by letter dated 3 August 2016, HMRC revoked the BTIs they had issued to Pfizer in 2012, which classified the ThermaCare products under heading 3005 of the CN.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">By an application on 12 September 2017, Pfizer applied for a new BTI for the ThermaCare products under heading 3005 of the CN.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">On 10 November 2017, on the basis of Implementing Regulation 2016/1140, HMRC issued a BTI classifying the ThermaCare products under heading 3824 of the CN.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">By an appeal before the referring court lodged on 8 December 2017, Pfizer challenged that decision. Pfizer submits that Implementing Regulation 2016/1140 is invalid in so far as it results in the ThermaCare products being classified under heading 3824 of the CN.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Pfizer primarily argues that the products fall within the wording of heading 3005 of the CN under Implementing Regulation 2016/1140. According to Pfizer, the products are ‘similar articles’ to wadding, gauze, adhesive plasters and poultices within the meaning of that heading, in that they are designed to be applied to the skin for medical purposes and perform a function similar to poultices, particularly in relation to pain relief. In addition, Pfizer submits that they are put up in forms or packings for retail sale.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, in Pfizer’s submission, those products cannot be classified under heading 3824 of the CN, since that heading is applicable only to products ‘not elsewhere specified or included’. Thus, applying General Rule of Interpretation 1 of the CN, the ThermaCare products must be classified under heading 3005. According to Pfizer, Implementing Regulation 2016/1140 wrongly reduced the scope of that heading and accordingly the Commission has exceeded its powers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">In addition, Pfizer submits that, in so far as it is stated that the classification of the products covered by Implementing Regulation 2016/1140 under heading 3824 of the CN has been made in accordance with the application of General Rules of Interpretation 1, 3(b) and 6 of the CN, that regulation is inadequately and incorrectly reasoned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Since it considers that the grounds that Pfizer has put forward to challenge the validity of Implementing Regulation 2016/1140 are arguable, the First-tier Tribunal (Tax Chamber) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:</p>
+<p class="normal">‘Is … Implementing Regulation … 2016/1140 … invalid in so far as it classifies under CN code 3824, specifically 38249096, products which:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">i.</p>
+</td>
+<td valign="top">
+<p class="normal">are composed of a bandage-like material, containing “heat cells” including chemicals,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">ii.</p>
+</td>
+<td valign="top">
+<p class="normal">operate in similar fashion to a poultice, though providing additional benefits,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">iii.</p>
+</td>
+<td valign="top">
+<p class="normal">through an exothermic chemical reaction relieve pain, decrease stiffness and promote tissue healing (as verified in multiple clinical trials),</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">iv.</p>
+</td>
+<td valign="top">
+<p class="normal">are put up in forms or packings for retail sale, and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">v.</p>
+</td>
+<td valign="top">
+<p class="normal">are explicitly presented and marketed as being for medical purposes and as producing the effects identified in (iii) above,</p>
+</td>
+</tr>
+</table>
+<p class="normal">on the basis of the chemicals being the material or component which gives them their essential character and not under heading 3005 (on the basis of the wording of the relevant headings, section or chapter notes, and explanatory notes under General Rule of Interpretation 1, the operation of General Rule of Interpretation 3(a) requiring classification in accordance with the most specific description, or otherwise)?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">By its question, the referring court essentially raises the question of the validity of Implementing Regulation 2016/1140.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">It should be noted at the outset that the goods, as described in the order for reference, which are imported by Pfizer and which are the subject of the main proceedings are identical or at least sufficiently similar to the two products covered by Implementing Regulation 2016/1140. That implementing regulation is therefore applicable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">The European Parliament and the Council of the European Union have conferred upon the Commission, acting in cooperation with the customs experts of the Member States, a broad discretion to define the subject matter of tariff headings falling to be considered for the classification of particular goods. However, the Commission’s power to adopt the measures referred to in Article 57(4) of the Customs Code does not authorise it to alter the subject matter and the scope of the tariff headings (judgment of 19 December 2019, Amoena, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1142&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑677/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A1142&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:1142</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A1142&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, it is necessary to examine whether, by classifying the products covered by Implementing Regulation 2016/1140 under subheading 38249096 of the CN, and not under heading 3005, the Commission has altered the subject matter or the scope of those tariff headings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the settled case-law of the Court states that, in the interests of legal certainty and ease of verification, the decisive criterion for the classification of goods for customs purposes is in general to be sought in their objective characteristics and properties as defined in the wording of the relevant heading of the CN and in the section or chapter notes (judgment of 22 February 2018, Kubota (UK) and EP Barrus, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A101&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑545/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A101&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:101</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A101&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, the intended use of a product may constitute an objective criterion for classification if it is inherent to the product, and that inherent character must be capable of being assessed on the basis of the product’s objective characteristics and properties (judgment of 22 February 2018, Kubota (UK) and EP Barrus, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A101&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑545/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A101&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:101</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A101&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, as is clear from the wording of column (1) of the table set out in the Annex to Implementing Regulation 2016/1140, the products covered by that implementing regulation are presented in the form of self-heating patches or belts to relieve pain. Those patches are made of adhesive material intended for attaching to the skin, while those belts are made of non-adhesive material, which is attached by means of a self-adhesive strip. Both products are made of a soft synthetic material conforming to the body’s shape which contains a number of discs filled with iron powder, charcoal, salt and water which, on exposure to the air, generate heat as a result of an exothermic reaction.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">According to the terms of heading 3824 of the CN, products falling within that heading are products ‘not elsewhere specified or included’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, it is appropriate to examine first whether the products covered by Implementing Regulation 2016/1140 fall within heading 3005 of the CN.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">On the basis of its wording, goods falling within heading 3005 of the CN are ‘wadding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">In this respect, Pfizer submits that the products in question should be considered as ‘similar articles’, within the meaning of that heading, which are put up in forms or packings for retail sale for medical purposes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the first place, the criterion relating to the forms or packings for retail sale, it is true that no details are provided in column (1) of the table set out in the Annex to Implementing Regulation 2016/1140 regarding the forms or packings for retail sale of the products covered by that implementing regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">However, it is not contested that those products are put up in forms or packings for retail sale, which is also confirmed by the legislative history of that implementing regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the second place, the concept of ‘medical purposes’ within the meaning of heading 3005 of the CN, it is not defined either in the CN or in the explanatory notes thereto.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">However, it must be noted that, according to the case-law of the Court, in order to establish whether a product is intended for medical use, it is appropriate to take account of all the relevant factors in the case, to the extent that they are characteristics and objective properties inherent to that product. Among the relevant factors, it is necessary to assess the use for which the product is intended by the manufacturer and the methods and place of its use (see, by analogy, judgment of 4 March 2015, Oliver Medical, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A139&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑547/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A139&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:139</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A139&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point51" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">51</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A139&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point52" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">52</a>). In particular, the product concerned must be specially designed to be used for such purposes (see, to that effect, judgment of 6 October 1982, Nederlandsch Bevrachtingskantoor, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1982%3A340&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">37/82</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1982%3A340&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1982:340</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1982%3A340&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point11" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">11</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">It must also be pointed out that, according to settled case-law, the meaning and scope of terms for which EU law provides no definition must be determined according to their meaning in everyday language whilst considering the context in which they occur and the purposes of the rules of which they form part (see judgment of 6 September 2018, Kreyenhop &amp; Kluge, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A681&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑471/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A681&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:681</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A681&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, in so far as the adjective ‘medical’ refers to the term ‘medicine’ and that term may generally be understood, inter alia, as a science to prevent, detect and treat illnesses or injuries, it is appropriate to consider that goods specifically designed to prevent, detect or treat illnesses or injuries relate to ‘medical purposes’ within the meaning of heading 3005 of the CN.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, that applies to the products covered by Implementing Regulation 2016/1140. As is apparent from their description set out in the Annex to that implementing regulation, those products are intended to relieve pain by generating heat through an exothermic reaction when the cells which they contain are exposed to air. Therefore, this is a form of therapeutic heat therapy, which is recognised as a treatment, given the physiological benefits thus provided.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, the fact that those products are classified as an ‘active medical device’ under Directive 93/42 constitutes further evidence in that regard (see, to that effect, judgment of 4 March 2015, Oliver Medical, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A139&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑547/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A139&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:139</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A139&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point53" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">53</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">By contrast, there is nothing in the file to suggest that those products are mainly aimed at bringing about aesthetic improvements, which is an indication capable of establishing that they are not intended for medical use (see, to that effect, judgment of 4 March 2015, Oliver Medical, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A139&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑547/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A139&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:139</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A139&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point52" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">52</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the third place, whether the products covered by Implementing Regulation 2016/1140 can be considered as ‘similar articles’ to ‘wadding, gauze [or] bandages’ within the meaning of heading 3005 of the CN, the Commission contests this and submits that the general purpose of the goods classified in that heading is to treat sores or wounds, while the goods at issue in the main proceedings themselves display warnings that they should not be applied to the skin for the purpose of dressing wounds, bruises or swelling.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">This argument cannot be accepted. The fact that those goods should not be used in some cases does not call into question the finding that they are intended to treat sores or wounds.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the products covered by Implementing Regulation 2016/1140 fall within heading 3005 of the CN and thus, as is apparent from paragraph 40 of this judgment, do not fall within heading 3824 of the CN.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, those products must be classified in heading 3005 of the CN.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that, by classifying those products in subheading 38249096 of the CN, and not heading 3005, the Commission has altered the subject matter of those tariff headings and has exceeded the powers conferred on it by Article 57(4) of the Customs Code.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from all of the foregoing considerations that the answer to the question referred is that Regulation No 2016/1140 is invalid.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Seventh Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Commission Implementing Regulation (EU) 2016/1140 of 8 July 2016 concerning the classification of certain goods in the Combined Nomenclature is invalid.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<div class="signaturecaserow">
+<div class="signatory3left">
+<p class="normal">Xuereb</p>
+</div>
+<div class="signatorycenter">
+<p class="normal">von Danwitz</p>
+</div>
+<div class="signatory3right">
+<p class="normal">Kumin</p>
+</div>
+</div>
+<p class="normal">Delivered in open court in Luxembourg on 26 March 2020.</p>
+<div class="signaturecaserow">
+<div class="signatory2left">
+<p class="normal">A. Calot Escobar</p>
+<p class="normal">Registrar</p>
+</div>
+<div class="signatory2right">
+<p class="normal">P.G. Xuereb</p>
+<p class="normal">President of the Seventh Chamber</p>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62019CJ0182_EN_01-E0001" id="t-ECR_62019CJ0182_EN_01-E0001">*1</a>
+</span>)	Language of the case: English.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

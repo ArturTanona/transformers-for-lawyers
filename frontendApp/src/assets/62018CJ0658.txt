@@ -1,0 +1,2367 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Second Chamber)</p>
+<p class="coj-sum-title-1">16 July 2020 (<span class="coj-note">
+<a href="#t-ECR_62018CJ0658_EN_01-E0001" id="c-ECR_62018CJ0658_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Admissibility — Article 267 TFEU — Definition of ‘court or tribunal of a Member State’ — Criteria — Social policy — Directive 2003/88/EC — Scope — Article 7 — Paid annual leave — Directive 1999/70/EC — Framework agreement on fixed-term work concluded by ETUC, UNICE and CEEP — Clauses 2 and 3 — Concept of ‘fixed-term worker’ — Magistrates and ordinary judges — Difference in treatment — Clause 4 — Principle of non-discrimination — Concept of ‘objective grounds’)</p>
+<p class="coj-normal">In Case C‑658/18,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Giudice di pace di Bologna (magistrate of Bologna, Italy), made by decision of 16 October 2018, received at the Court on 22 October 2018, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">UX</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Governo della Repubblica italiana,</span>
+</p>
+<p class="coj-normal">THE COURT (Second Chamber),</p>
+<p class="coj-normal">composed of A. Arabadjiev (Rapporteur), President of the Chamber, P.G. Xuereb and T. von Danwitz, Judges,</p>
+<p class="coj-normal">Advocate General: J. Kokott,</p>
+<p class="coj-normal">Registrar: R. Schiano, Administrator,</p>
+<p class="coj-normal">having regard to the written procedure and further to the hearing on 28 November 2019,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">UX, by G. Guida, F. Sisto, F. Visco and V. De Michele, avvocati,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Governo della Repubblica italiana, by G. Palmieri, acting as Agent, and L. Fiandaca and F. Sclafani, avvocati dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by G. Gattinara and M. van Beek, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">after hearing the Opinion of the Advocate General at the sitting on 23 January 2020,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of (i) Article 267 TFEU, (ii) Article 31(2) and Article 47 of the Charter of Fundamental Rights of the European Union (‘the Charter’), (iii) the principle of liability of Member States for infringements of EU law, (iv) Article 1(3) and Article 7 of Directive 2003/88/EC of the European Parliament and of the Council of 4 November 2003 concerning certain aspects of the organisation of working time (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2003:299:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2003 L 299, p. 9</a>) and (v) clauses 2 and 4 of the Framework agreement on fixed-term work concluded on 18 March 1999 (‘the Framework Agreement’), which is annexed to Council Directive 1999/70/EC of 28 June 1999 concerning the framework agreement on fixed-term work concluded by ETUC, UNICE and CEEP (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1999:175:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1999 L 175, p. 43</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between UX and the Governo della Repubblica italiana (Government of the Italian Republic) concerning a claim for compensation for damage caused as a result of an infringement of EU law by the Italian State.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">EU law</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Directive 89/391/EEC</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 2 of Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1989:183:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1989 L 183, p. 1</a>) defines the sectors of activity covered by the directive as follows:</p>
+<p class="coj-normal">‘1.   This Directive shall apply to all sectors of activity, both public and private (industrial, agricultural, commercial, administrative, service, educational, cultural, leisure, etc.).</p>
+<p class="coj-normal">2.   This Directive shall not be applicable where characteristics peculiar to certain specific public service activities, such as the armed forces or the police, or to certain specific activities in the civil protection services inevitably conflict with it.</p>
+<p class="coj-normal">In that event, the safety and health of workers must be ensured as far as possible in the light of the objectives of this Directive.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Directive 2003/88</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 1 of Directive 2003/88, entitled ‘Purpose and scope’, provides, in paragraphs 1 to 3:</p>
+<p class="coj-normal">‘1.   This Directive lays down minimum safety and health requirements for the organisation of working time.</p>
+<p class="coj-normal">2.   This Directive applies to:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">minimum periods of … annual leave …</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<p class="coj-normal">3.   This Directive shall apply to all sectors of activity, both public and private, within the meaning of Article 2 of Directive 89/391/EEC, without prejudice to Articles 14, 17, 18 and 19 of this Directive.</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 7 of Directive 2003/88, which is entitled ‘Annual leave’, provides:</p>
+<p class="coj-normal">‘1.   Member States shall take the measures necessary to ensure that every worker is entitled to paid annual leave of at least four weeks in accordance with the conditions for entitlement to, and granting of, such leave laid down by national legislation and/or practice.</p>
+<p class="coj-normal">2.   The minimum period of paid annual leave may not be replaced by an allowance in lieu, except where the employment relationship is terminated.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Directive 1999/70</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Recital 17 of Directive 1999/70 is worded as follows:</p>
+<p class="coj-normal">‘As regards terms used in the framework agreement but not specifically defined therein, this Directive allows Member States to define such terms in conformity with national law or practice as is the case for other Directives on social matters using similar terms, provided that the definitions in question respect the content of the framework agreement’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 1 of Directive 1990/70 states that the purpose of that directive is ‘to put into effect the framework agreement … concluded … between the general cross-industry organisations (ETUC, UNICE and CEEP)’ annexed thereto.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to clause 1 of the Framework Agreement, the purpose of that agreement is, first, to improve the quality of fixed-term work by ensuring the application of the principle of non-discrimination and, secondly, to establish a framework to prevent abuse arising from the use of successive fixed-term employment contracts or relationships.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Clause 2 of the Framework Agreement, entitled ‘Scope’, provides:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘1.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This agreement applies to fixed-term workers who have an employment contract or employment relationship as defined in law, collective agreements or practice in each Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Member States after consultation with the social partners and/or the social partners may provide that this agreement does not apply to:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">initial vocational training relationships and apprenticeship schemes;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">employment contracts and relationships which have been concluded within the framework of a specific public or publicly supported training, integration and vocational retraining programme.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Clause 3 of the Framework Agreement, entitled ‘Definitions’, is worded as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘1.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">For the purpose of this agreement the term “fixed-term worker” means a person having an employment contract or relationship entered into directly between an employer and a worker where the end of the employment contract or relationship is determined by objective conditions such as reaching a specific date, completing a specific task, or the occurrence of a specific event.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">For the purpose of this agreement, the term “comparable permanent worker” means a worker with an employment contract or relationship of indefinite duration, in the same establishment, engaged in the same or similar work/occupation, due regard being given to qualifications/skills. …’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Clause 4 of the Framework Agreement, entitled ‘Principle of non-discrimination’, provides:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘1.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In respect of employment conditions, fixed-term workers shall not be treated in a less favourable manner than comparable permanent workers solely because they have a fixed-term contract or relation unless different treatment is justified on objective grounds.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Where appropriate, the principle of <span class="coj-italic">pro rata temporis</span> shall apply.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Italian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 106 of the Italian Constitution contains basic provisions on access to judicial office:</p>
+<p class="coj-normal">‘Judges shall be selected and appointed by means of competition.</p>
+<p class="coj-normal">The law governing the judicial system may provide for the appointment, including by election, of “honorary” judges [<span class="coj-italic">onorari</span>] for the performance of all functions carried out by a single judge.</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Legge n. 374 Istituzione del giudice di pace (Law No 374 establishing the office of magistrate) of 21 November 1991 (ordinary supplement to GURI No 278 of 27 November 1991, p. 5; ‘Law No 374/1991’) provides, in the version applicable at the material time in the main proceedings:</p>
+<p class="coj-ti-art">‘Article 1</p>
+<p class="coj-sti-art">Establishment of the office of magistrate and magistrates’ duties</p>
+<p class="coj-normal">1.   The office of magistrate is hereby created. A magistrate shall exercise jurisdiction in civil and criminal matters and shall conduct settlement procedures in civil matters in accordance with the provisions laid down by this law.</p>
+<p class="coj-normal">2.   The office of magistrate shall be held by an “honorary” judge who is a member of the judiciary.</p>
+<p class="coj-normal">…</p>
+<p class="coj-ti-art">Article 3</p>
+<p class="coj-sti-art">Establishment plan and organisation charts</p>
+<p class="coj-normal">1.   The number of “honorary” judges serving as magistrates is fixed at 4700 positions; …</p>
+<p class="coj-normal">…</p>
+<p class="coj-ti-art">Article 4</p>
+<p class="coj-sti-art">Appointment to office</p>
+<p class="coj-normal">1.   The “honorary” judges called on to serve as magistrates are appointed by decree of the President of the Republic, following deliberation in the Supreme Council of the Judiciary, on a proposal of the judicial council with territorial jurisdiction, assisted by five representatives designated, by common agreement, by the Councils of the Bar Association for the appeal court district.</p>
+<p class="coj-normal">…</p>
+<p class="coj-ti-art">Article 10</p>
+<p class="coj-sti-art">Duties of magistrates</p>
+<p class="coj-normal">1.   Magistrates are subject to the duties of ordinary judges. …</p>
+<p class="coj-normal">…</p>
+<p class="coj-ti-art">Article 11</p>
+<p class="coj-sti-art">Compensation paid to magistrates</p>
+<p class="coj-normal">1.   The office of magistrate is “honorary”.</p>
+<p class="coj-normal">2.   The honorary judges who carry out the duties of magistrate shall receive compensation of 70000 [Italian lira (ITL) (approximately EUR 35)] for each civil or criminal hearing, even when not an oral hearing, and for affixing seals, as well as ITL 110000 [(approximately EUR 55)] for any other procedure allocated which is closed or removed from the register.</p>
+<p class="coj-normal">3.   They shall further receive compensation of ITL 500000 [(approximately EUR 250)] for each month of actual service by way of reimbursement of training fees, retraining costs and costs related to the general services of the office.</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">4a.   The compensation provided for in the present article may be received concurrently with pensions and retirement benefits, irrespective of how they are designated.</p>
+<p class="coj-normal">4b.   The compensation provided for in the present article may not, in any event, exceed EUR 72000 gross per annum.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 8a of legge del 2 aprile 1979, n. 97 — Norme sullo stato giuridico dei magistrati e sul trattamento economico dei magistrati ordinari e amministrativi, dei magistrati della giustizia militare e degli avvocati dello Stato (Law No 97 of 2 April 1979, Rules concerning the legal status of judges and the remuneration of ordinary and administrative judges, military judges and lawyers of the State Legal Advisory Service), in the version applicable at the material time:</p>
+<p class="coj-normal">‘… ordinary and administrative judges, judges of the Court of Auditors and military judges as well as lawyers of the State Legal Advisory Service and State prosecutors (<span class="coj-italic">avvocati dello Stato</span> and <span class="coj-italic">procuratori dello Stato</span>) shall be entitled to annual leave of 30 days’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 24 of the decreto legislativo del 13 luglio 2017, n. 116 — Riforma organica della magistratura onoraria e altre disposizioni sui giudici di pace, nonché disciplina transitoria relativa ai magistrati onorari in servizio, a norma della legge 28 aprile 2016, n. 57 (Legislative decree No 116 of 13 July 2017 — Organic reform of the office of honorary judge and other provisions relating to magistrates, and transitional provisions relating to honorary judges in office, in accordance with Law No 57 of 28 April 2016) (GURI No 177 of 31 July 2017, p. 1) provides for compensation for magistrates’ annual leave but only for those honorary judges who took up their duties after 16 August 2017.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The applicant in the main proceedings was appointed as <span class="coj-italic">giudice di pace</span> (magistrate) on 23 February 2001 and carried out those functions in two different courts from 2002 to 2005 and, subsequently, from 2005 until the present.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">For the period from 1 July 2017 to 30 June 2018, the applicant handed down 478 judgments in her capacity as a judge in criminal cases and made 1113 orders that no further action be taken in respect of known suspects and 193 orders that no further action be taken in respect of unknown suspects in her capacity as <span class="coj-italic">giudice dell’indagine preliminare</span> (pre-trial investigation judge). In the course of her duties, she conducts, as a judge sitting alone, two hearings per week, except during the period of unpaid leave in August, during which procedural time limits are suspended.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In August 2018, during her unpaid leave, the applicant did not carry out any activity as a magistrate and did not, therefore, receive any remuneration.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 8 October 2018, the applicant requested the Giudice di pace di Bologna (magistrate of Bologna, Italy) to issue a payment order against the Governo della Repubblica italiana (Government of the Italian Republic) in the amount of EUR 4 500.00 — which, according to her, corresponded to the remuneration for the month of August 2018 which, in her view, an ordinary judge with the same length of service as herself may claim — as compensation for the damage she allegedly suffered due to a manifest infringement by the Italian State, in particular of clause 4 of the Framework Agreement, Article 7 of Directive 2003/88 and Article 31 of the Charter. In the alternative, she requests that the Italian Government be ordered to pay the sum of EUR 3 039.76, on the same basis, calculated by reference to the net compensation which she received in the month of July 2018.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that context, it is apparent from the order for reference that the payments received by magistrates are linked to the work carried out and are calculated with regard to the number of judgments handed down. Consequently, during the annual leave in August, the applicant in the main proceedings did not receive any compensation, whereas ordinary judges are entitled to 30 days’ paid leave. Article 24 of Legislative decree No 116 of 13 July 2017, which now provides for payments to magistrates for annual leave, is not applicable to the applicant due to the date on which she took up her duties.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is further apparent from that order for reference that magistrates are subject, from a disciplinary perspective, to obligations that are similar to those of ordinary judges. These are enforced by the Supreme Council of the Judiciary, together with the Minister for Justice.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Giudice di pace di Bologna (the magistrate of Bologna; ‘the referring judge’ or ‘the referring court’) considers, contrary to the highest Italian courts, that magistrates, despite the honorary nature of their service, must be regarded as ‘workers’ in accordance with the provisions of Directive 2003/88 and the Framework Agreement. In support of that approach, he refers in particular to the relationship of subordination which, in his view, characterises the relationship between magistrates and the Ministero della giustizia (Ministry of Justice). Moreover, magistrates are not only subject to the disciplinary power of the Supreme Council of the Judiciary but also included in the latter’s staff. In addition, the payment certificates for magistrates are issued in the same manner as that provided for public employees and the income of magistrates is treated like the income of employees. Directive 2003/88 and the Framework Agreement are, therefore, applicable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances the Giudice di pace di Bologna (the magistrate of Bologna) decided to stay the proceedings and to refer five questions to the Court of Justice for a preliminary ruling.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By decision of 11 November 2019, received at the Court on 12 November 2019, the referring court decided to withdraw the fourth and fifth questions, while confirming that the first to third questions were maintained:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Does a <span class="coj-italic">giudice di pace</span> [magistrate], when making a request for a preliminary ruling, meet the definition of an ordinary European court having jurisdiction to make a request for a preliminary ruling pursuant to Article 267 TFEU, even though — in breach of the guarantees of the independence and impartiality of ordinary European courts referred to by the Court of Justice in its judgments of 19 September 2006, Wilson (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A587&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑506/04</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A587" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:587</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A587" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a> to <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A587" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">53</a>); of 27 February 2018, Associação Sindical dos Juízes Portugueses (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A117&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑64/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A117" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:117</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A117" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A117" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> to <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A117" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a>); and of 25 July 2018, Minister for Justice and Equality(Deficiencies in the system of justice) (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A586&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑216/18 PPU</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A586" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:586</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A586" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a> to <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A586" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">54</a>) — under national law, magistrates do not, because of their job insecurity, enjoy working conditions equivalent to those of professional judges, even though they perform the same judicial functions and are included in the national judicial system?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If question 1 is answered in the affirmative, is the work carried out by the applicant <span class="coj-italic">giudice di pace</span> [magistrate] covered by the term “fixed-term worker” for the purpose of Article 1(3) and Article 7 of Directive 2003/88, read in conjunction with clause 2 of [the Framework Agreement] and Article 31(2) of [the Charter], as interpreted by the Court of Justice in its judgments of 1 March 2012, O’Brien (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑393/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:110</a>), and of 29 November 2017, King (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A914&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑214/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A914" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:914</a>) and, if so, may an ordinary or professional judge be regarded as a permanent worker indistinguishable from a <span class="coj-italic">giudice di pace</span> [magistrate] working for a fixed term, for the purposes of the application of the same working conditions as referred to in clause 4 of [the Framework Agreement]?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(3)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If questions 1 and 2 are answered in the affirmative, is Article 47 of [the Charter], read in conjunction with Article 267 TFEU, and in the light of the case-law of the [Court] concerning the liability of the Italian State for manifest infringement of [EU] law by courts adjudicating at last instance in the judgments of 30 September 2003, Köbler (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A513&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑224/01</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A513" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:513</a>); of 13 June 2006, Traghetti del Mediterraneo (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A391&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑173/03</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A391" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:391</a>); and of 24 November 2011, Commission v Italy (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A775&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑379/10</a>, [not published,] <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A775" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:775</a>), inconsistent with Article 2(3) and (3a) of [legge n. 117 — Risarcimento dei danni cagionati nell’esercizio delle funzioni giudiziarie e responsabilità civile dei magistrate (Law No 117 concerning compensation for damage caused in the exercise of judicial functions and the civil liability of judges) of 13 April 1988] … [(GURI No 88 of 15 April 1988)], which provides for judicial liability for intentional fault or serious misconduct “in the event of manifest infringement of the law or of European Union law” and which presents national courts with the choice — which, however it is made, gives rise to civil liability and liability to disciplinary action in relation to the State in cases in which the public authority itself is a substantive party and in particular where the adjudicator of the case is a <span class="coj-italic">giudice di pace</span> [magistrate] working for a fixed term and without effective legal, economic and social security protection as in the present case — of either infringing national legislation, by disapplying it and applying EU law, as interpreted by the Court of Justice, or of infringing EU law and applying national legislation which precludes protection and is incompatible with Article 1(3) and Article 7 of Directive 2003/88, clauses 2 and 4 of [the Framework Agreement] and Article 31(2) of [the Charter]?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Procedure before the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court requested that the case be dealt with under the urgent preliminary ruling procedure provided for in Article 23a of the Statute of the Court of Justice of the European Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 6 November 2018, acting on a proposal from the Judge-Rapporteur and after hearing the Advocate General, the Court decided that it was unnecessary to grant that request.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The request to have the oral procedure reopened</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Following the delivery of the Advocate General’s Opinion, the applicant in the main proceedings submitted, by a document lodged at the Court Registry on 29 January 2020, a request for the oral part of the procedure to be reopened, pursuant to Article 83 of the Rules of Procedure of the Court of Justice.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In support of her request, she submits, in essence, that, as regards the components of magistrates’ remuneration, the Advocate General, in her Opinion, relied on case-law of the Court that was not debated at the hearing on 28 November 2019. The applicant disputes the Advocate General’s assessment of the method of calculating the compensation for paid leave and, more specifically, certain aspects of the remuneration that must be used to calculate that compensation. Thus, the applicant submits that the Advocate General introduced a new argument that had not been debated at the hearing.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be borne in mind that, under the second paragraph of Article 252 TFEU, the Advocate General, acting with complete impartiality and independence, makes, in open court, reasoned submissions on cases which, in accordance with the Statute of the Court of Justice, require his or her involvement. The Court is not bound either by the Advocate General’s Opinion or by the reasoning on which it is based (judgment of 19 March 2020, Sánchez Ruiz and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑103/18 and C‑429/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:219</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">42</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It should also be noted in that respect that the Statute of the Court of Justice of the European Union and the Rules of Procedure make no provision for the parties or the interested persons referred to in Article 23 of that Statute to submit observations in response to the Advocate General’s Opinion. The fact that a party or such an interested person disagrees with the Advocate General’s Opinion, irrespective of the questions examined in the Opinion, cannot therefore in itself constitute grounds justifying the reopening of the oral procedure (judgment of 19 March 2020, Sánchez Ruiz and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑103/18 and C‑429/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:219</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">43</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that, since the applicant’s request to have the oral part reopened is intended to enable her to respond to the findings made by the Advocate General in her Opinion, it cannot be granted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That said, pursuant to Article 83 of its Rules of Procedure, the Court may at any time, after hearing the Advocate General, order the reopening of the oral part of the procedure, in particular if it considers that it lacks sufficient information or where a party has, after the close of that part of the procedure, submitted a new fact which is of such a nature as to be a decisive factor for the decision of the Court, or where the case must be decided on the basis of an argument which has not been debated between the parties or the interested persons referred to in Article 23 of the Statute of the Court of Justice of the European Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, the Court, after hearing the Advocate General, considers that it has all the information necessary to answer the questions raised by the referring court and that the present case does not need to be decided on the basis of an argument which has not been debated between the parties.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing, there is no need to order the reopening of the oral part of the procedure.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Admissibility</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Italian Republic and the European Commission contend, in the first place, that the request for a preliminary ruling is inadmissible in its entirety, on the ground that the magistrate who made the order for reference cannot be considered to be a court or tribunal of a Member State within the meaning of Article 267 TFEU, in the absence of three of the essential conditions in that respect.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First, they argue that the requirement of independence is not met, in particular in its second, internal, aspect, in so far as the referring judge necessarily has an interest in the outcome of the dispute in the main proceedings as he belongs to the category of magistrates. Thus, the referring judge cannot be regarded as impartial.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Secondly, as regards the compulsory nature of the referring court’s jurisdiction, the Italian Republic and the Commission contend that, first of all, the applicant’s claims arise in the context of a dispute under employment law as to whether magistrates are workers and, secondly, that the magistrate’s jurisdiction is based on a splitting — forbidden under Italian law — of the applicant’s claims against the Italian State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Thirdly, the Italian Government and the Commission contend that, in the present case, the order for payment procedure before the referring court is not <span class="coj-italic">inter partes</span>.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the second place, the Commission expresses uncertainty, on the one hand, regarding the need for a request for a preliminary ruling and, on the other, regarding the questions’ relevance to the resolution of the dispute in the main proceedings. It considers, first, that while the referring judge himself states, in paragraph 22 of the order for reference, that a request for a preliminary ruling is unnecessary, he did not clearly explain why he is unsure as to the interpretation of certain provisions of EU law. Secondly, the Commission contends, on the one hand, that the second question is not raised in order to answer a genuine doubt on the part of the referring judge as regards the interpretation of EU law and, on the other, that the third question bears no relation to the actual facts of the main action or to its purpose.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, the Court must consider, in the first place, whether in the present case the magistrate making the reference for a preliminary ruling meets the criteria to be regarded as a national court or tribunal for the purposes of Article 267 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This issue is also raised by the first question, which seeks, in essence, to determine whether magistrates fall within the concept of ‘court or tribunal of a Member State’ within the meaning of Article 267 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to settled case-law, in order to determine whether a body making a reference is a ‘court or tribunal’ within the meaning of Article 267 TFEU, which is a question governed by EU law alone, the Court takes account of a number of factors, such as whether the body is established by law, whether it is permanent, whether its jurisdiction is compulsory, whether its procedure is <span class="coj-italic">inter partes</span>, whether it applies rules of law and whether it is independent (judgment of 21 January 2020, Banco de Santander, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑274/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:17</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">51</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, there is no doubt, on the basis of the information in the file submitted to the Court, that magistrates meet the criteria that they be established by law, be permanent and apply rules of law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, the question arises, first, as to whether magistrates meet the criterion of independence. The referring judge expresses, as regards his own independence, reservations linked to the working conditions of Italian magistrates.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it must be borne in mind that the independence of national courts and tribunals is essential to the proper working of the judicial cooperation system embodied by the preliminary ruling mechanism established by Article 267 TFEU, in that, in accordance with the settled case-law of the Court referred to in paragraph 42 above, that mechanism may be activated only by a body responsible for applying EU law which satisfies, inter alia, that criterion of independence (judgment of 21 January 2020, Banco de Santander, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑274/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:17</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to the case-law of the Court, the concept of ‘independence’ has two aspects. The first aspect, which is external, requires that the body concerned exercise its functions wholly autonomously, without being subject to any hierarchical constraint or subordinated to any other body and without taking orders or instructions from any source whatsoever, being thus protected against external interventions or pressure liable to impair the independent judgment of its members and to influence their decisions (judgment of 21 January 2020, Banco de Santander, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑274/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:17</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">57</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Again as regards the external aspect of the concept of ‘independence’, it should be borne in mind that the irremovability of the members of the body concerned constitutes a guarantee that is essential to judicial independence in that it serves to protect the person of those who have the task of adjudicating in a dispute (judgment of 21 January 2020, Banco de Santander, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑274/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:17</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">58</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The principle of irremovability, the cardinal importance of which is to be emphasised, requires, in particular, that judges may remain in post provided that they have not reached the obligatory retirement age or until the expiry of their mandate, where that mandate is for a fixed term. While it is not wholly absolute, there can be no exceptions to that principle unless they are warranted by legitimate and compelling grounds, subject to the principle of proportionality. Thus it is widely accepted that judges may be dismissed if they are deemed unfit for the purposes of carrying out their duties on account of incapacity or a serious breach of their obligations, provided that the appropriate procedures are followed (judgment of 21 January 2020, Banco de Santander, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑274/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:17</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">59</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The guarantee of irremovability of the members of a court or tribunal thus requires that dismissals of members of that body should be determined by specific rules, by means of express legislative provisions offering safeguards that go beyond those provided for by the general rules of administrative law and employment law which apply in the event of an unlawful dismissal (judgment of 21 January 2020, Banco de Santander, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑274/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:17</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">60</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The second aspect of the concept of ‘independence’ — which is an internal aspect — is linked to ‘impartiality’ and seeks to ensure a level playing field for the parties to the proceedings and their respective interests with regard to the subject matter of those proceedings. That aspect requires objectivity and the absence of any interest in the outcome of the proceedings apart from the strict application of the rule of law (judgment of 21 January 2020, Banco de Santander, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑274/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:17</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">61</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Those guarantees of independence and impartiality require rules, particularly as regards the composition of the body and the appointment, length of service and the grounds for abstention, rejection and dismissal of its members, in order to dismiss any reasonable doubt in the minds of individuals as to the imperviousness of that body to external factors and its neutrality with respect to the interests before it (judgment of 21 January 2020, Banco de Santander, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑274/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:17</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A17" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">63</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, as regards the appointment of magistrates, it must be noted that, in accordance with the applicable national legislation, in particular Article 4 of Law No 374/1991, magistrates are appointed by decree of the President of the Italian Republic, following deliberation in the Supreme Council of the Judiciary, on a proposal of the judicial council with territorial jurisdiction, assisted by five representatives designated, by common agreement, by the Councils of the Bar Association for the appeal court district.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the length of service of magistrates, it is apparent from the file submitted to the Court that those magistrates have a four-year term of office, renewable upon expiry for the same duration. Furthermore, magistrates remain, in principle, in office until the expiry of their four-year term, provided that the latter is not renewed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the dismissal of magistrates, it is apparent from the file that dismissals and the specific procedures related thereto are determined by express national legislative provisions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is further apparent that magistrates perform their duties wholly autonomously, subject to disciplinary rules, and without external pressure capable of influencing their decisions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the requirement of independence considered under its second — and internal — aspect, referred to in paragraph 50 above, as noted by the Advocate General in point 51 of her Opinion, it is sufficient to state that the Court has had occasion to answer a number of requests for preliminary rulings concerning the status of judges, without casting doubt on the independence of the referring courts (see, to that effect, judgment of 13 June 2017, Florescu and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A448&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑258/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A448" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:448</a>; of 27 February 2018, Associação Sindical dos Juízes Portugueses, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A117&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑64/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A117" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:117</a>; of 7 February 2019, Escribano Vindel, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A106&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑49/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A106" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:106</a>; and of 19 November 2019, A. K. and Others (Independence of the Disciplinary Chamber of the Supreme Court), <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A982&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑585/18, C‑624/18 and C‑625/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A982" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:982</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Having regard to the findings in paragraphs 44 to 56 above, the requirement of independence is met in the present case.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Next, the question arises as to the compulsory nature of the referring court’s jurisdiction.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Italian Republic and the Commission have expressed doubts as to the jurisdiction of the referring court to hear a dispute such as the one at issue in the main proceedings in so far as, on the one hand, the applicant’s claims arise in the context of a dispute under employment law as to whether magistrates are workers. It is sufficient to note, in that regard, that it is common ground that the dispute in the main proceedings is not a dispute under employment law but an action for compensation against the State. Furthermore, the Italian Republic and the Commission do not dispute that magistrates have jurisdiction to hear such actions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards, on the other hand, the alleged splitting of the applicant’s claims, it must be noted that it is apparent from the order for reference that, in accordance with the first paragraph of Article 7 of the codice di procedura civile (Code of Civil Procedure), magistrates have jurisdiction in disputes over movable property of a value not exceeding EUR 5000, where those disputes are not attributed by law to the jurisdiction of another court. According to the order for reference, Article 4(43) of the legge 12 novembre 2011, n. 183 (Law No 183 of 12 November 2011) does not provide for any exceptions as regards substantive jurisdiction, and thus, the request of the applicant for an order for payment against the Italian Government was correctly made within the limits of the referring court’s jurisdiction, in terms of value and the territorial jurisdiction of that court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it is sufficient to note that it is not for the Court to call into question the referring court’s assessment of the admissibility of the action in the main proceedings, which falls, in the context of the preliminary ruling proceedings, within the jurisdiction of the national court; nor is it for the Court to determine whether the order for reference was made in accordance with the rules of national law governing the organisation of the courts and legal proceedings (judgment of 10 December 2018, Wightman and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A999&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑621/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A999" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:999</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A999" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a>, and order of 17 January 2019, Rossi and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A28&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑626/17</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A28" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:28</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A28" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">22</a> and the case-law cited). The Court must abide by the decision from a court of a Member State requesting a preliminary ruling in so far as that decision has not been overturned in any appeal procedures provided for by national law (judgments of 7 July 2016, Genentech, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A526&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑567/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A526" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:526</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A526" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>, and of 11 July 1996, SFEI and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1996%3A285&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑39/94</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1996%3A285" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1996:285</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1996%3A285" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It should be added that, in those circumstances, such a situation is different from those at issue, in particular, in the case giving rise to the orders of 6 September 2018, Di Girolamo (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A684&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑472/17</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A684" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:684</a>), and of 17 December 2019, Di Girolamo (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1090&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑618/18</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1090" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:1090</a>), in which the referring court clearly indicated that it lacked jurisdiction to rule on the action brought before it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Lastly, as regard the <span class="coj-italic">inter partes</span> nature of the procedure pending before the referring court, it is sufficient to note that, according to the Court’s settled case-law, Article 267 TFEU does not make the reference to the Court subject to there having been an <span class="coj-italic">inter partes</span> hearing in the proceedings. On the contrary, it follows from that article that a national court may refer a question to the Court only if there is a case pending before it and if it is called upon to give judgment in proceedings intended to lead to a decision of a judicial nature (judgments of 16 December 2008, Cartesio, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A723&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑210/06</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A723" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:723</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A723" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>, and of 4 September 2019, Salvoni, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A661&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑347/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A661" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:661</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A661" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a> and the case-law cited). This is the case here.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, as noted by the Advocate General in point 62 of her Opinion, the Court has ruled that a request for a preliminary ruling arising from an order for payment procedure can also be submitted to the Court (see, to that effect, judgments of 14 December 1971, Politi, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1971%3A122&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">43/71</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1971%3A122" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1971:122</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1971%3A122" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">4</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1971%3A122" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">5</a>, and of 8 June 1998, Corsica Ferries France, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1998%3A306&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑266/96</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1998%3A306" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1998:306</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1998%3A306" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing, the doubts expressed by the Commission and the Italian Government may be discounted and it must be found that the magistrate meets the criteria to be regarded as a ‘court or tribunal of a Member State’ within the meaning of Article 267 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the second place, as regards the need for the preliminary ruling and the relevance of the questions referred, it should be noted that, according to settled case-law, it is solely for the national court before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine in the light of the particular circumstances of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of a rule of EU law, the Court is in principle bound to give a ruling (judgment of 19 November 2019, A. K. and Others (Independence of the Disciplinary Chamber of the Supreme Court), <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A982&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑585/18, C‑624/18 and C‑625/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A982" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:982</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A982" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">97</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that questions relating to EU law enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgments of 19 November 2019, A. K. and Others (Independence of the Disciplinary Chamber of the Supreme Court), <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A982&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑585/18, C‑624/18 and C‑625/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A982" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:982</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A982" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">98</a> and the case-law cited, and of 19 October 2017, Paper Consult, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A775&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑101/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A775" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:775</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A775" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Thus, since the order for reference serves as the basis for the procedure before the Court, it is essential that the national court should, in that order, expand on the factual and legal context of the dispute in the main proceedings and give at the very least some explanation of the reasons for the choice of the EU law provisions which it seeks to have interpreted and of the link it established between those provisions and the national legislation applicable to the proceedings pending before it (see, to that effect, inter alia, judgment of 9 March 2017, Milkova, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A198&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑406/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A198" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:198</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A198" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">73</a>, and order of 16 January 2020, Telecom Italia and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A21&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑368/19</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A21" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:21</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A21" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Those cumulative requirements concerning the content of a request for a preliminary ruling are expressly set out in Article 94 of the Court’s Rules of Procedure. It follows therefrom, in particular, that the request must contain the ‘statement of the reasons which prompted the referring court or tribunal to inquire about the interpretation or validity of certain provisions of European Union law, and the relationship between those provisions and the national legislation applicable to the main proceedings’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, it must be noted that it is clearly apparent from paragraph 22 of its decision that, on that point, the referring court merely sets out the arguments of the applicant, according to which it is possible to grant her request without making a reference to the Court, and does not argue that there is no need to make a request for a preliminary ruling for the purposes of adjudicating on the case pending before it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, as observed by the Advocate General in points 32 and 33 of her Opinion, it must be noted that the second question referred is not irrelevant in so far as, by that question the referring court, in order to determine whether the applicant may claim compensation for the refusal to be granted paid leave, seeks clarification of the concept of ‘worker’ within the meaning of Directive 2003/88 and of the principle of non-discrimination set out in the Framework Agreement, in order to determine whether they apply to Italian magistrates.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As observed by the Advocate General in point 34 of her Opinion, those issues require clarification.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By contrast, it must be found, as regards the third question, that the dispute in the main proceedings does not concern the personal liability of judges but an application for compensation in respect of paid leave. The referring court has not explained in what respect there is a need for an interpretation of Article 47 of the Charter for the purposes of giving a ruling, or the link which it establishes between the EU provisions which it seeks to have interpreted and the national legislation applicable to the proceedings pending before it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, it is in no way apparent from the order for reference that liability for intentional fault or serious misconduct on the part of the referring judge may be invoked.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, in the light of all those factors, it must be held that the request for a preliminary ruling is admissible, with the exception of the third question.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Substance</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">The first question</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its first question, the referring court asks, in essence, whether Article 267 TFEU must be interpreted as meaning that the <span class="coj-italic">giudice di pace</span> (magistrate) falls within the concept of a ‘court or tribunal of a Member State’ within the meaning of that article.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, it is apparent from the considerations set out in paragraphs 42 to 65 above that this is the case. Therefore, the answer to the first question is that the <span class="coj-italic">giudice di pace</span> (magistrate) falls within the concept of a ‘court or tribunal of a Member State’ within the meaning of that article.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">The second question</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As a preliminary point, it must be noted that the second question includes three distinct aspects of assessing a possible entitlement of magistrates to paid leave on the basis of EU law. Thus, that question concerns, first of all, the interpretation of the concept of ‘worker’ within the meaning of Directive 2003/88, in order to determine whether a <span class="coj-italic">giudice di pace</span> (magistrate), such as the applicant in the main proceedings, may fall within that concept, since Article 7(1) of that directive provides that Member States are to take the measures necessary to ensure that every worker is entitled to paid annual leave of at least four weeks. Next, that question concerns the concept of ‘fixed-term worker’ within the meaning of the Framework Agreement. Lastly, should that concept cover magistrates, the referring court is uncertain whether they can be compared to ordinary judges, who are entitled to additional paid annual leave of 30 days in total, for the purposes of applying the principle of non-discrimination set out in clause 4 of that framework agreement.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">– <span class="coj-italic">Directive 2003/88</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point79">79</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By the first part of its second question, the referring court asks, in essence, whether Article 7(1) of Directive 2003/88 and Article 31(2) of the Charter must be interpreted as meaning that a magistrate who carries out his or her duties as a principal activity and who receives compensation linked to the services performed and compensation for each month of actual service may fall within the concept of ‘worker’ within the meaning of those provisions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point80">80</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the first place, it must be determined whether that directive applies in the present case.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point81">81</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it must be borne in mind that Article 1(3) of Directive 2003/88 defines the scope of that directive by reference to Article 2 of Directive 89/391.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point82">82</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Pursuant to Article 2(1) of Directive 89/391, that directive applies to ‘all sectors of activity, both public and private’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point83">83</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Nevertheless, as is clear from the first subparagraph of Article 2(2) thereof, that directive is not applicable where characteristics peculiar to certain specific public service activities, inter alia the armed forces or the police, or to certain specific activities in the civil protection services, inevitably conflict with it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point84">84</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be borne in mind that, according to the Court’s case-law, the criterion used in the first subparagraph of Article 2(2) of Directive 89/391 to exclude certain activities from the scope of that directive and, indirectly, from that of Directive 2003/88, is based not on the fact that workers belong to one of the sectors of the public service referred to in that provision, taken as a whole, but exclusively on the specific nature of certain particular tasks performed by workers in the sectors referred to in that provision, which justify an exception to the rule on the protection of the safety and health of workers, on account of the absolute necessity to guarantee effective protection of the community at large (judgment of 20 November 2018, Sindicatul Familia Constanţa and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑147/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:926</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">55</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point85">85</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, even though the judicial activity of magistrates is not expressly mentioned in the examples referred to in Article 2(1) of Directive 89/391, it is part of the public sector of activity. Thus, in principle, it falls within the scope of Directive 89/391 and Directive 2003/88.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point86">86</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, as noted by the Advocate General in point 71 of her Opinion, there is nothing to justify the application of the first subparagraph of Article 2(2) of Directive 89/391 to magistrates and their complete exclusion from the scope of the two directives.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point87">87</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, it must be found that Directive 2003/88 applies in the dispute in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point88">88</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the second place, it must be noted that, for the purposes of applying Directive 2003/88, the concept of ‘worker’ cannot be interpreted differently according to the law of the Member States but has an autonomous meaning specific to EU law (judgments of 26 March 2015, Fenoll, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A200&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑316/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A200" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:200</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A200" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a>, and of 20 November 2018, Sindicatul Familia Constanţa and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑147/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:926</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point89">89</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That finding applies also with regard to the interpretation of the term ‘worker’ within the meaning of Article 7 of Directive 2003/88 and of Article 31(2) of the Charter, in order that the uniform scope of the right of workers to paid leave <span class="coj-italic">rationae personae</span> may be ensured (judgment of 26 March 2015, Fenoll, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A200&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑316/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A200" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:200</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A200" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point90">90</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That concept must be defined in accordance with objective criteria which distinguish the employment relationship by reference to the rights and duties of the persons concerned (judgment of 20 November 2018, Sindicatul Familia Constanţa and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑147/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:926</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point91">91</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is ultimately for the national court to apply that concept of ‘worker’ in any classification, and the national court must base that classification on objective criteria and make an overall assessment of all the circumstances of the case brought before it, having regard both to the nature of the activities concerned and the relationship of the parties involved (see, to that effect, judgment of 14 October 2010, Union syndicale Solidaires Isère, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A612&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑428/09</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A612" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:612</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A612" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point92">92</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Court may, however, mention to the referring court the principles and criteria which it must take into account in the course of its examination.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point93">93</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It must, therefore, be recalled, on the one hand, that any person who pursues real and genuine activities, to the exclusion of activities on such a small scale as to be regarded as purely marginal and ancillary, must be regarded as a ‘worker’ (judgment of 26 March 2015, Fenoll, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A200&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑316/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A200" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:200</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A200" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point94">94</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On the other hand, according to settled case-law, the essential feature of an employment relationship is that for a certain period of time a person performs services for and under the direction of another person in return for which he or she receives remuneration (judgment of 20 November 2018, Sindicatul Familia Constanţa and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑147/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:926</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point95">95</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First of all, as regards the services performed by the applicant in the main proceedings in her capacity as magistrate, it is apparent from the order for reference that those are real and genuine and that, furthermore, she carries them out as a principal activity. In particular, during a certain period, in the present case from 1 July 2017 to 30 June 2018, she, first, in her capacity as a judge in criminal cases, handed down 478 judgments and made 1326 orders and, secondly, conducted hearings twice per week. Those services do not appear to be purely marginal and ancillary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point96">96</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that context, it must be borne in mind that, as regards the nature of the legal relationship at issue in the main proceedings in the context of which the applicant carries out her duties, the Court has ruled that the <span class="coj-italic">sui generis</span> legal nature of an employment relationship in national law can in no way whatsoever affect whether or not the person is a ‘worker’ for the purposes of EU law (judgment of 26 March 2015, Fenoll, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A200&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑316/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A200" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:200</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A200" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point97">97</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Next, as regards remuneration, it must be examined whether the sums received by the applicant were paid to her in return for her professional activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point98">98</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it is apparent from the file submitted to the Court that magistrates receive compensation of EUR 35 or EUR 55 linked to the services carried out by them, that compensation being subject to the same taxation as that levied on the remuneration of ordinary workers. In particular, they are entitled to such compensation for each civil or criminal hearing, even when not an oral hearing, and for the affixing of seals, as well as for any other procedure allocated which is closed or removed from the register. Furthermore, those judges receive compensation for each month of actual service in respect of training fees, retraining costs and costs related to the general services of the office.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point99">99</p>
+</td>
+<td valign="top">
+<p class="coj-normal">While it is apparent from the order for reference that the duties of a magistrate are ‘honorary’ and that some of the sums paid as compensation are to reimburse fees, the volume of work performed by the applicant and, consequently, the sums received by her for that work are nevertheless significant. It is apparent from that order that, during the period from 1 July 2017 to 30 June 2018, the applicant closed some 1800 procedures.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point100">100</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Thus, the mere fact that the duties of a magistrate are classified as ‘honorary’ by the national legislation does not mean that the financial benefits that a magistrate receives must be regarded as not representing remuneration.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point101">101</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, while it is clear that remuneration for services performed constitutes an essential feature of an employment relationship, the fact remains that neither the origin of the funds from which that remuneration is paid nor the limited amount of that remuneration can have any consequence in regard to whether or not the person is a ‘worker’ for the purposes of EU law (see, to that effect, judgments of 30 March 2006, Mattern and Cikotic, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A220&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑10/05</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A220" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:220</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A220" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">22</a>, and of 4 June 2009, Vatsouras and Koupatantze, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A344&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑22/08 and C‑23/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A344" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:344</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A344" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point102">102</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, it is for the national court, when assessing the facts, for which it alone is competent, ultimately to verify whether the amounts received by the applicant in the main proceedings, in the context of her professional activity as magistrate, represent remuneration such as to confer on her a material advantage and provide for her subsistence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point103">103</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Lastly, an employment relationship implies the existence of a hierarchical relationship between the worker and his or her employer. Whether such a relationship exists must, in each particular case, be assessed on the basis of all the factors and circumstances characterising the relationship between the parties (judgment of 20 November 2018, Sindicatul Familia Constanţa and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑147/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:926</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A926" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">42</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point104">104</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Admittedly, it is inherent in judicial office that judges must be protected from external intervention or pressure liable to undermine their independence when exercising judicial activities and adjudicating.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point105">105</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, as noted by the Advocate General in point 83 of her Opinion, that requirement does not preclude them from being classified as ‘workers’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point106">106</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it follows from the case-law that the fact that judges are subject to terms of service and that they might be regarded as workers in no way undermines the principle of the independence of the judiciary or the right of the Member States to provide for a particular status governing the judiciary (see, to that effect, judgment of 1 March 2012, O’Brien, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑393/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:110</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point107">107</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, while the fact that, in the present case, magistrates are subject to the disciplinary authority of the Consiglio superiore della magistratura (Supreme Council of the Judiciary, Italy; ‘SCJ’) is not in itself sufficient for them to be regarded as being, vis-à-vis an employer, in a legal relationship of subordination (see, to that effect, judgment of 26 March 1987, Commission v Netherlands, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1987%3A161&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">235/85</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1987%3A161" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1987:161</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1987%3A161" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">14</a>), that fact should nonetheless be taken into account in the context of all the facts of the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point108">108</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The way in which the magistrates’ work is organised must, therefore, be taken into account.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point109">109</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it is apparent from the order for reference that, even though they can organise their work in a more flexible manner than members of other professions, magistrates are obliged to comply with the charts indicating the composition of the magistrates’ court to which they belong, as those charts govern in detail and in a binding manner the organisation of their work, including how case files are assigned and the dates and times of hearings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point110">110</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is further apparent from the order for reference that magistrates must comply with the instructions of the Capo dell’Ufficio (Head of magistrates, Italy). They must also comply with the SJC’s specific and general decisions pertaining to organisation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point111">111</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court adds that those magistrates must be permanently available and are subject, from a disciplinary perspective, to obligations that are similar to those of professional judges.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point112">112</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, it appears that, at an administrative level, magistrates perform their duties in a legal relationship of subordination that does not affect their independence when adjudicating, which it is for the referring court to verify.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point113">113</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing considerations, the answer to the first part of the second question is that Article 7(1) of Directive 2003/88 and Article 31(2) of the Charter must be interpreted as meaning that a magistrate who, in the context of his or her duties, performs real and genuine services which are neither purely marginal nor ancillary, and for which he or she receives compensation representing remuneration, may fall within the concept of ‘worker’ within the meaning of those provisions, which it is for the referring court to verify.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">– <span class="coj-italic">The concept of ‘fixed-term worker’ within the meaning of the Framework Agreement</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point114">114</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By the second part of its second question, the referring courts asks, in essence, whether clause 2(1) of the Framework Agreement must be interpreted as meaning that a magistrate appointed for a limited period, who carries out his or her duties as a principal activity and who receives compensation linked to the services performed and compensation for each month of actual service, falls within the concept of ‘fixed-term worker’ within the meaning of that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point115">115</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it is apparent from the wording of that provision that its scope is conceived in broad terms, as it covers generally ‘fixed-term workers who have an employment contract or employment relationship as defined in law, collective agreements or practice in each Member State’. In addition, the definition of ‘fixed-term workers’ within the meaning of clause 3(1) of the Framework Agreement, encompasses all workers without drawing a distinction according to whether their employer is in the public, or private, sector and regardless of the classification of their contract under domestic law (judgment of 19 March 2020, Sánchez Ruiz and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑103/18 and C‑429/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:219</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">108</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point116">116</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Framework Agreement therefore applies to all workers providing remunerated services in the context of a fixed-term employment relationship linking them with their employer, provided that they are linked by an employment contract or relationship within the meaning of national law, subject to the sole provisos of the discretion conferred on Member States by clause 2(2) of the Framework Agreement as to the application of that agreement to certain categories of employment contracts or relationships and of the exclusion, in accordance with the fourth paragraph of the preamble to the Framework Agreement, of temporary agency workers (judgment of 19 March 2020, Sánchez Ruiz and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑103/18 and C‑429/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:219</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">109</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point117">117</p>
+</td>
+<td valign="top">
+<p class="coj-normal">While, as is apparent from recital 17 of Directive 1999/70 and clause 2(1) of the Framework Agreement, that directive leaves Member States free to define the terms ‘employment contract’ or ‘employment relationship’ used in that clause in accordance with national law and practice, the discretion granted to the Member States in order to define such concepts is nevertheless not unlimited. Such terms may be defined in accordance with national law and practices on condition that they respect the effectiveness of that directive and the general principles of EU law (see, to that effect, judgment of 1 March 2012, O’Brien, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑393/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:110</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point118">118</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that context, the mere fact that a professional activity, the exercise of which leads to a material advantage, may be classified as ‘honorary’ under national law is irrelevant as regards the applicability of the Framework Agreement, as otherwise, in reserving to Member States the ability to remove at will certain categories of persons from the protection offered by Directive 1999/70 and the Framework Agreement, the effectiveness of those instruments would be in jeopardy, as would their uniform application in the Member States (see, to that effect, judgments of 13 September 2007, Del Cerro Alonso, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A509&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑307/05</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A509" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2007:509</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A509" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>, and of 1 March 2012, O’Brien, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑393/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:110</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point119">119</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As pointed out in paragraph 116 above, Directive 1999/70 and the Framework Agreement are applicable to all workers performing remunerated services in the context of a fixed-term employment relationship linking them to their employer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point120">120</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As is apparent from paragraphs 95, 98 and 99 above and from the request for a preliminary ruling, it is apparent that a magistrate such as the applicant in the main proceedings performs real and genuine services which are neither purely marginal nor ancillary, and which result in compensation in return for each service as well as monthly compensation, which cannot be ruled out as representing remuneration.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point121">121</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Moreover, the Court has held that the Framework Agreement does not exclude any specific sector and the provisions laid down in that agreement are intended to apply to fixed-term employment contracts and relationships concluded with the public authorities and other public-sector bodies (order of 19 March 2019, CCOO, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A224&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑293/18</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A224" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:224</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A224" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point122">122</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that connection, it must be pointed out that the fact that, in the present case, magistrates are judicial office holders, is insufficient in itself to exclude the latter from enjoying the rights provided for by that framework agreement (see, to that effect, judgment of 1 March 2012, O’Brien, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑393/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:110</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point123">123</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows from the need to safeguard the effectiveness of the principle of equal treatment enshrined in that framework agreement that such an exclusion may be permitted, if it is not to be regarded as arbitrary, only if the nature of the employment relationship concerned is substantially different from the relationship between employers and their employees which fall within the category of ‘workers’ under national law (see, by analogy, judgment of 1 March 2012, O’Brien, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑393/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:110</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">42</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point124">124</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, it is ultimately for the referring court to examine to what extent the relationship between magistrates and the Ministry of Justice is, by its nature, substantially different from an employment relationship between an employer and a worker. The Court may, however, mention to the referring court a number of principles and criteria which it must take into account in the course of its examination (see, by analogy, judgment of 1 March 2012, O’Brien, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑393/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:110</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">43</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point125">125</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that connection, in examining whether the nature of the relationship between magistrates and the Ministry of Justice is substantially different from that between employees falling, according to national law, within the category of ‘workers’ and their employers, the referring court will have to bear in mind that, in order to have regard to the spirit and purpose of the Framework Agreement, that distinction must be made in particular in the light of the differentiation between that category and self-employed persons (see, by analogy, judgment of 1 March 2012, O’Brien, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑393/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:110</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point126">126</p>
+</td>
+<td valign="top">
+<p class="coj-normal">With that in mind, the rules for appointing and dismissing magistrates must be considered, and also the way in which their work is organised (see, by analogy, judgment of 1 March 2012, O’Brien, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑393/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:110</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A110" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point127">127</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the appointment of magistrates, Article 4 of Law No 374/1991 provides that they are appointed by decree of the President of the Italian Republic, following deliberation in the Supreme Council of the Judiciary, on a proposal of the judicial council with territorial jurisdiction, assisted by five representatives designated, by common agreement, by the Councils of the Bar Association for the appeal court district.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point128">128</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, in that regard, the fact that those employment relationships were established by presidential decrees due to the public nature of the employer is not decisive (see, to that effect, judgment of 19 March 2020, Sánchez Ruiz and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑103/18 and C‑429/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:219</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A219" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">115</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point129">129</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the dismissal of magistrates, it is apparent from the documents before the Court that their dismissal and the specific procedures related thereto are determined by express national legislative provisions. In that regard, it is for the referring court to verify whether the rules governing the dismissal of magistrates established at a national level make the relationship between magistrates and the Ministry of Justice substantially different from an employment relationship between an employer and a worker.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point130">130</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the way in which magistrates’ work is organised and, more specifically, whether those magistrates carry out their duties in the context of a legal relationship of subordination, as evidenced by paragraphs 107 to 112 above, while it appears that those magistrates carry out their duties in the context of such a legal relationship, it is for the referring court to verify this.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point131">131</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards whether the relationship between a magistrate and the Ministry of Justice is a fixed-term one, it follows from the wording of clause 3(1) of the Framework Agreement that a fixed-term employment contract or employment relationship is characterised by the fact that the end of that employment contract or relationship ‘is determined by objective conditions such as reaching a specific date, completing a specific task, or the occurrence of a specific event’ (order of 19 March 2019, CCOO, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A224&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑293/18</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A224" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:224</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A224" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point132">132</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the case in the main proceedings, it is apparent from the file submitted to the Court that a magistrate’s term of office is limited to a four-year renewable period.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point133">133</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, it appears that, in the present case, the relationship between a magistrate and the Ministry for Justice is a fixed-term one.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point134">134</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of all those factors, the answer to the second part of the second question is that clause 2(1) of the Framework Agreement must be interpreted as meaning that the concept of ‘fixed-term worker’ in that provision may encompass a magistrate appointed for a limited period, who, in the context of his or her duties, performs real and genuine services which are neither purely marginal nor ancillary, and for which he or she receives compensation representing remuneration, which it is for the referring court to verify.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">– <span class="coj-italic">The principle of non-discrimination within the meaning of the Framework Agreement</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point135">135</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By the third part of the second question, the referring court asks, in essence, whether clause 4(1) of the Framework Agreement must be interpreted as precluding national legislation which does not provide for an entitlement on the part of magistrates to 30 days’ paid annual leave, such as that provided for ordinary judges, where those magistrates fall within the concept of ‘fixed-term workers’ within the meaning of clause 2(1) of that framework agreement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point136">136</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be recalled that clause 4(1) of the Framework Agreement prohibits, in respect of employment conditions, fixed-term workers being treated in a less favourable manner than comparable permanent workers, on the sole ground that they are employed on a fixed-term contract, unless different treatment is justified on objective grounds.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point137">137</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Court has held that that provision aims to apply the principle of non-discrimination to fixed-term workers in order to prevent an employer using such an employment relationship to deny those workers rights which are recognised for permanent workers (judgment of 22 January 2020, Baldonedo Martín, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A26&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑177/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A26" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:26</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point138">138</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In view of the objectives pursued by the Framework Agreement, clause 4 of that agreement must be interpreted as articulating a principle of EU social law, which cannot be interpreted restrictively (judgment of 5 June 2018, Montero Mateos, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑677/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:393</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point139">139</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, it must be noted, in the first place, that the difference in treatment alleged by the applicant in the main proceedings stems from the fact that ordinary judges are entitled to 30 days of paid annual leave, whereas magistrates are not.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point140">140</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the second place, it must be taken into account that workers’ entitlement to paid annual leave indisputably falls within the concept of ‘employment conditions’ within the meaning of clause 4(1) of the Framework Agreement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point141">141</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the third place, it must be borne in mind that, according to the Court’s settled case-law, the principle of non-discrimination, of which clause 4(1) of the Framework Agreement is a specific expression, requires that comparable situations should not be treated differently and different situations should not be treated alike, unless such treatment is objectively justified (judgment of 5 June 2018, Montero Mateos, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑677/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:393</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">49</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point142">142</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, the principle of non-discrimination has been implemented and specifically applied by the Framework Agreement solely as regards differences in treatment as between fixed-term workers and permanent workers in a comparable situation (judgment of 5 June 2018, Montero Mateos, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑677/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:393</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point143">143</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to the Court’s settled case-law, in order to assess whether the persons concerned are engaged in the same or similar work for the purposes of the Framework Agreement, it must be determined, in accordance with clauses 3(2) and 4(1) of the Framework Agreement, whether, in the light of a number of factors, such as the nature of the work, training requirements and working conditions, those persons can be regarded as being in a comparable situation (judgment of 5 June 2018, Montero Mateos, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑677/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:393</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">51</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point144">144</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, where it is established that, when they were employed, those fixed-term workers carried out the same duties as workers employed by the same employer for an indefinite period or held the same post as them, it is necessary, in principle, to regard the situations of those two categories of worker as being comparable (judgment of 22 January 2020, Baldonedo Martín, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A26&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑177/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A26" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:26</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point145">145</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, it is apparent from the file submitted to the Court that the applicant could, in her capacity as magistrate, be considered to be comparable to a <span class="coj-italic">togato</span> (ordinary judge) who has successfully passed the third professional aptitude assessment and completed at least 14 years of service, since she exercised judicial activity equivalent to that of such an ordinary judge, while having the same responsibilities from an administrative, disciplinary and tax perspective, and she was continuously included in the organisation charts of the offices in which she worked, receiving the financial benefits provided for in Article 11 of Law No 374/1991.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point146">146</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In particular, it is apparent from the file that, like ordinary judges, magistrates are, first, judges belonging to the Italian judiciary, perform judicial functions in civil and criminal matters and conduct settlement procedures in civil matters. Secondly, pursuant to Article 10(1) of Law No 374/1991, magistrates are subject to the duties of ordinary judges. Thirdly, magistrates, like ordinary judges, are required to comply with the charts indicating the composition of the magistrates’ court to which they belong, as those charts govern in detail and in a binding manner the organisation of their work, including how case files are assigned and the dates and times of the hearings. Fourthly, both ordinary judges and magistrates must observe the instructions of the Head of the service and the SJC’s specific and general decisions pertaining to organisation. Fifthly, magistrates, in the same manner as ordinary judges, must be permanently available. Sixthly, where magistrates fail to comply with their ethical duties and professional obligations, they are subject, like ordinary judges, to the SJC’s disciplinary powers. Seventhly, magistrates are subject to the same rigorous criteria as those applicable to the professional aptitude assessment of ordinary judges. Eighthly, magistrates are subject to the same rules on civil liability and financial damage caused to the State as those prescribed by law for ordinary judges.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point147">147</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Nevertheless, as regards the duties of magistrates, it is apparent from the information in the file that proceedings reserved to honorary judges and, in particular, to magistrates, are not as complex as those entrusted to ordinary judges. Magistrates principally handle cases of lesser importance, whereas ordinary judges in higher courts handle cases of greater importance and complexity. Furthermore, under the second paragraph of Article 106 of the Italian Constitution, magistrates may only sit as single judges and cannot, therefore, be assigned to collegiate courts.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point148">148</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, it is for the referring court, which alone has jurisdiction to assess the facts, ultimately to determine whether a magistrate such as the applicant in the main proceedings is in a situation comparable to that of an ordinary judge who has successfully passed the third professional aptitude assessment and completed at least 14 years of service during the same period (see, to that effect, judgment of 5 June 2018, Montero Mateos, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑677/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:393</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">52</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point149">149</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If it is established that a magistrate such as the applicant and an ordinary judge are comparable, it must still be verified whether there is an objective ground justifying a difference in treatment such as that at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point150">150</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be noted that, according to settled case-law, the concept of ‘objective grounds’, within the meaning of clause 4(1) of the Framework Agreement, must be understood as not permitting a difference in treatment between fixed-term workers and permanent workers to be justified on the basis that the different treatment is provided for by a general or abstract measure, such as a law or a collective agreement (see, to that effect, judgment of 5 June 2018, Montero Mateos, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑677/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:393</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point151">151</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That concept requires, according to equally settled case-law, the unequal treatment found to exist to be justified by the presence of precise and specific factors, characterising the employment condition to which it relates, in the specific context in which it occurs and, on the basis of objective and transparent criteria, in order to ensure that that unequal treatment in fact responds to a genuine need, is appropriate for the purpose of attaining the objective pursued and is necessary for that purpose. Those factors may be apparent, in particular, from the specific nature of the tasks for the performance of which fixed-term contracts have been concluded and from the inherent characteristics of those tasks or, as the case may be, from pursuit of a legitimate social-policy objective of a Member State (see, to that effect, judgment of 5 June 2018, Montero Mateos, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑677/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:393</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A393" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">57</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point152">152</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Reliance on the mere temporary nature of employment does not meet those requirements and cannot, therefore, constitute an ‘objective ground’ within the meaning of clause 4(1) and/or (4) of the Framework Agreement. If the mere temporary nature of an employment relationship were considered to be enough to justify a difference in treatment as between fixed-term workers and permanent workers, the objectives of Directive 1999/70 and the Framework Agreement would be rendered meaningless and it would be tantamount to perpetuating a situation disadvantageous to fixed-term workers (judgment of 20 September 2018, Motter, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑466/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:758</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point153">153</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The mere fact that the fixed-term worker completed those periods of service on the basis of an employment relationship or contract for a fixed term does not constitute such an objective ground (see, to that effect, judgment of 20 September 2018, Motter, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑466/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:758</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point154">154</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, in order to justify the difference in treatment alleged in the main proceedings, the Italian Government submits that the existence of an initial competition specifically designed for ordinary judges to enter the judiciary, which is not inherent in the appointment of magistrates, constitutes an objective ground. That government considers that the jurisdiction of magistrates is different from that of ordinary judges recruited via a competition. Unlike the latter, as regards the specific nature of the tasks and their inherent characteristics, magistrates are entrusted with proceedings of a level of complexity and volume that does not correspond to those of the cases of ordinary judges.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point155">155</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Bearing in mind those differences, from both a qualitative and a quantitative perspective, the Italian Government considers that it is justified to treat magistrates and ordinary judges differently.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point156">156</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it must be noted that, in the light of the discretion enjoyed by Member States as regards the organisation of their own public authorities, those States can, in principle, without acting contrary to Directive 1999/70 or the Framework Agreement, lay down conditions for entering the judiciary and conditions of employment applicable to both ordinary judges and magistrates (see, to that effect, judgment of 20 September 2018, Motter, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑466/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:758</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">43</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point157">157</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, that discretion notwithstanding, the criteria which the Member States lay down must be applied in a transparent manner and must be open to review in order to prevent any unfavourable treatment of fixed-term workers solely on the basis of the duration of contracts or employment relationships which attest to their length of service and professional experience (judgment of 20 September 2018, Motter, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑466/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:758</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point158">158</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Where such a difference in treatment arises from the need to take account of objective requirements relating to the post which the recruitment procedure is intended to fill and which are unrelated to the fixed-term nature of the worker’s employment relationship, it may be justified for the purposes of clause 4(1) and/or (4) of the Framework Agreement (judgment of 20 September 2018, Motter, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑466/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:758</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point159">159</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it must be taken into account that some differences in treatment between permanent workers recruited following a competition and fixed-term workers recruited following a procedure that is different from than the one provided for permanent workers, may, in principle, be justified by differences in the qualifications required and the nature of the duties undertaken (see, to that effect, judgment of 20 September 2018, Motter, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑466/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:758</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point160">160</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The objectives, put forward by the Italian Government, of reflecting the differences in professional practice between magistrates and ordinary judges may, therefore, be considered to constitute an ‘objective reason’ within the meaning of clause 4(1) and/or (4) of the Framework Agreement, provided that they respond to a genuine need, are appropriate for the purpose of attaining the objectives pursued and are necessary for that purpose (see, to that effect, judgment of 20 September 2018, Motter, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑466/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:758</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A758" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point161">161</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, while the differences between the recruitment procedures for magistrates and ordinary judges do not necessarily require that magistrates be deprived of paid annual leave corresponding to that provided for ordinary judges, those differences and in particular the special importance attributed by the national judicial order and, more particularly, by the first paragraph of Article 106 of the Italian Constitution, to the competitions specifically designed for the recruitment of ordinary judges, nevertheless appear to indicate that the tasks that the latter must carry out are of a particular nature and the qualifications required for the performance of those tasks are of a different level. In any event, it is for the referring court to assess, to that end, the available qualitative and quantitative evidence concerning the duties carried out by magistrates and professional judges, their work schedules and the constraints to which they are subject and, in general, all relevant circumstances and facts.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point162">162</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Subject to verification, which is exclusively for the referring court, it appears that the objectives invoked by the Italian Government in the present case, namely reflecting the differences in professional practice between magistrates and ordinary judges, could be such as to respond to a genuine need and the differences in treatment between those two categories, including as regards paid annual leave, considered proportionate to the objectives which they pursue.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point163">163</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the aforementioned considerations, the answer to the third part of the second question is that clause 4(1) of the Framework Agreement must be interpreted as precluding national legislation which does not provide for an entitlement on the part of magistrates to 30 days’ paid annual leave, such as that provided for ordinary judges, where those magistrates fall within the concept of ‘fixed-term workers’ within the meaning of clause 2(1) of that framework agreement, and are in a situation comparable to that of ordinary judges, unless such a difference in treatment is justified by the differences in the qualifications required and the nature of the duties undertaken by those judges, which it is for the referring court to verify.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point164">164</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Second Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 267 TFEU must be interpreted as meaning that the <span class="coj-italic">giudice di pace</span> (magistrate, Italy) falls within the concept of ‘court or tribunal of a Member State’ within the meaning of that article.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 7(1) of Directive 2003/88/EC of the European Parliament and of the Council of 4 November 2003 concerning certain aspects of the organisation of working time and Article 31(2) of the Charter of Fundamental Rights of the European Union must be interpreted as meaning that a magistrate who, in the context of his or her duties, performs real and genuine services which are neither purely marginal nor ancillary, and for which he or she receives compensation representing remuneration, may fall within the concept of ‘worker’ within the meaning of those provisions, which it is for the referring court to verify.</span>
+</p>
+<p class="coj-normal">
+<span class="coj-bold">Clause 2(1) of the Framework agreement on fixed-term work concluded on 18 March 1999, which is annexed to Council Directive 1999/70/EC of 28 June 1999 concerning the framework agreement on fixed-term work concluded by ETUC, UNICE and CEEP, must be interpreted as meaning that the concept of ‘fixed-term worker’ in that provision may encompass a magistrate appointed for a limited period, who, in the context of his or her duties, performs real and genuine services which are neither purely marginal nor ancillary, and for which he or she receives compensation representing remuneration, which it is for the referring court to verify.</span>
+</p>
+<p class="coj-normal">
+<span class="coj-bold">Clause 4(1) of the Framework agreement on fixed-term work concluded on 18 March 1999, which is annexed to Directive 1999/70, must be interpreted as precluding national legislation which does not provide for an entitlement on the part of magistrates to 30 days’ paid annual leave, such as that provided for ordinary judges, where those magistrates fall within the concept of ‘fixed-term workers’ within the meaning of clause 2(1) of that framework agreement, and are in a situation comparable to that of ordinary judges, unless such a difference in treatment is justified by the differences in the qualifications required and the nature of the duties undertaken by those judges, which it is for the referring court to verify.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62018CJ0658_EN_01-E0001" id="t-ECR_62018CJ0658_EN_01-E0001">*1</a>
+</span>)	Language of the case: Italian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

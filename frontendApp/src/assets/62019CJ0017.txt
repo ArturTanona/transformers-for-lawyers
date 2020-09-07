@@ -1,0 +1,1208 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="coj-sum-title-1">14 May 2020 (<span class="coj-note">
+<a href="#t-ECR_62019CJ0017_EN_01-E0001" id="c-ECR_62019CJ0017_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Migrant workers — Social security — Regulation (EEC) No 1408/71 — Legislation applicable — Article 14(1)(a) and (2)(b) — Regulation (EC) No 883/2004 — Article 12(1) — Article 13(1)(a) — Posted workers — Workers employed in two or more Member States — Regulation (EEC) No 574/72 — Article 11(1)(a) — Article 12a(2)(a) and(4)(a) — Regulation (EC) No 987/2009 — Article 19(2) — E 101 and A 1 Certificates — Binding effect — Consequences — Social security — Employment law)</p>
+<p class="coj-normal">In Case C-17/19,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Cour de cassation (Court of Cassation, France), made by decision of 8 January 2019, received at the Court on 10 January 2019, in the criminal proceedings against</p>
+<p class="coj-normal">
+<span class="coj-bold">Bouygues travaux publics,</span>
+</p>
+<p class="coj-normal">
+<span class="coj-bold">Elco construct Bucarest,</span>
+</p>
+<p class="coj-normal">
+<span class="coj-bold">Welbond armatures,</span>
+</p>
+<p class="coj-normal">THE COURT (Fifth Chamber),</p>
+<p class="coj-normal">composed of E. Regan (Rapporteur), President of the Chamber, I. Jarukaitis, E. Juhász, M. Ilešič and C. Lycourgos, Judges,</p>
+<p class="coj-normal">Advocate General: P. Pikamäe,</p>
+<p class="coj-normal">Registrar: V. Giacobbo, administrator,</p>
+<p class="coj-normal">having regard to the written procedure and further to the hearing on 23 January 2020,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Bouygues travaux publics, by P. Spinosi and V. Steinberg, avocats,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Elco construct Bucarest, by M. Bodin and U. Candas, avocats,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Welbond armatures, by J.-J. Gatineau, avocat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the French Government, initially by E. de Moustier, A. Daly, R. Coesme, A. Ferrand and D. Colas, then by E. de Moustier, A. Daly, R. Coesme and A. Ferrand, acting as Agents</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Czech Government, by M. Smolek, J. Pavliš, J. Vláčil and L. Dvořáková, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Polish Government, by B. Majczyna, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by M. Van Hoof, B.-R. Killmann and D. Martin, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Article 11 of Council Regulation (EEC) No 574/72 of 21 March 1972 laying down the procedure for implementing Regulation (EEC) No 1408/71 on the application of social security schemes to employed persons, to self-employed persons and to their families moving within the Community (OJ, English Special Edition , Series I 1972 (I), p. 160), in the version amended and updated by Council Regulation (EC) No 118/97 of 2 December 1996 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1997:028:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1997 L 28, p. 1</a>), as amended by Regulation (EC) No 647/2005 of the European Parliament and of the Council of 13 April 2005 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2005:117:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2005 L 117, p. 1</a>) (‘Regulation No 574/72’), and of Article 19 of Regulation (EC) No 987/2009 of the European Parliament and of the Council of 16 September 2009 laying down the procedure for implementing Regulation (EC) No 883/2004 on the coordination of social security systems (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:284:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2009 L 284, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in criminal proceedings brought against the Bouygues public works companies (‘Bouygues’), Elco construct Bucharest (‘Elco’) and Welbond armatures (‘Welbond’) on charges of concealed employment and unlawful provision of workers.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">European Union law</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Regulation No 1408/71</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Regulation (EEC) No 1408/71 of the Council of 14 June 1971 on the application of social security schemes to employed persons, to self‑employed persons and to members of their families moving within the Community (OJ, English Special Edition, Series I 1971(II), p. 98) in the version as amended and updated by Regulation No 118/97, as amended by Council Regulation (EC) No 1606/98 of 29 June 1998 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1998:209:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1998 L 209, p. 1</a>) (‘Regulation No 1408/71’), contained Title I, titled ‘General provisions’, within which Article 1, headed ‘Definitions’ provided, inter alia:</p>
+<p class="coj-normal">‘For the purpose of this Regulation:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(j)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“legislation” means all the laws, regulations and other provisions and all other present or future implementing measures of each Member State relating to the branches and schemes of social security covered by Article 4(1) and (2) or those special non-contributory benefits covered by Article 4(2a).</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 4 of Regulation No 1408/71, also within Title 1 thereof, that article being headed ‘Matters covered’, provided:</p>
+<p class="coj-normal">‘1.   ‘This Regulation shall apply to all legislation concerning the following branches of social security:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">sickness and maternity benefits;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">invalidity benefits, including those intended for the maintenance or improvement of earning capacity;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">old-age benefits;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(d)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">survivors’ benefits;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(e)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">benefits in respect of accidents at work and occupational diseases;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(f)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">death grants;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(g)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">unemployment benefits;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(h)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">family benefits.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">2.   This Regulation shall apply to all general and special social security schemes, whether contributory or non-contributory, and to schemes concerning the liability of an employer or ship owner in respect of the benefits referred to in paragraph 1.</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Articles 13 and 14 of Regulation No 1408/71 were contained in Title II thereof, entitled ‘Determination of the legislation applicable’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 13 of Regulation No 1408/71, headed ‘General rules’, was worded as follows:</p>
+<p class="coj-normal">‘1.   Subject to Articles 14c and 14f, persons to whom this Regulation applies shall be subject to the legislation of a single Member State only. That legislation shall be determined in accordance with the provisions of this Title.</p>
+<p class="coj-normal">2.   Subject to Articles 14 to 17:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">a person employed in the territory of one Member State shall be subject to the legislation of that State even if he resides in the territory of another Member State or if the registered office or place of business of the undertaking or individual employing him is situated in the territory of another Member State;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 14 of that regulation, headed ‘Special rules applicable to persons, other than mariners, who are self-employed’, stated:</p>
+<p class="coj-normal">‘Article 13(2)(a) shall apply subject to the following exceptions and circumstances:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(1)</p>
+</td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">a person employed in the territory of a Member State by an undertaking to which he is normally attached who is posted by that undertaking to the territory of another Member State to perform work there for that undertaking shall continue to be subject to the legislation of the first Member State, provided that the anticipated duration of that work does not exceed 12 months and that he is not sent to replace another person who has completed his term of posting.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">A person normally employed in the territory of two or more Member States shall be subject to the legislation determined as follows:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">A person other than that referred to in (a) shall be subject:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(i)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">to the legislation of the Member State in whose territory he resides, if he pursues his activity partly in that territory or if he is attached to several undertakings or several employers who have their registered offices or places of business in the territory of different Member States;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(ii)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">to the legislation of the Member State in whose territory is situated the registered office or place of business of the undertaking or individual employing him, if he does not reside in the territory of the Member State where he is pursuing his activity.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-normal">...’0</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Regulation No 883/2004</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Regulation No 1408/71 was repealed and replaced with effect from 1 May 2010 by Regulation (EC) No 883/2004 of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:166:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 L 166, p. 1</a>), which was amended by Regulation (EC) No 465/2012 of the European Parliament and of the Council of 22 May 2012 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2012:149:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2012 L 149, p. 4</a>, and corrigendum, <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:200:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 L 200, p. 1</a>) (‘Regulation No 883/2004’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 1(j) and Article 4(1) of Regulation No 1408/71 were replaced, respectively, by Article 1(l) and Article 3(1) of Regulation No 883/2004, the provisions of which are, in essence, identical.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 13(2)(a) of Regulation No 1408/71 was replaced, in essence, by Article 11(3)(a) of Regulation No 883/2004, which provides that ‘subject to Articles 12 to 16 … a person pursuing an activity as an employed or self-employed person in a Member State shall be subject to the legislation of that Member State’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 14(1)(a) of Regulation No 1408/71 was replaced, in essence, by Article 12(1) of Regulation No 883/2004, which provides that ‘a person who pursues an activity as an employed person in a Member State on behalf of an employer which normally carries out its activities there and who is posted by that employer to another Member State to perform work on that employer’s behalf shall continue to be subject to the legislation of the first Member State, provided that the anticipated duration of such work does not exceed [24] months and that that person is not sent to replace another posted person’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 14(2)(b) of Regulation No 1408/71 was replaced, in essence, by Article 13(1) of Regulation No 883/2004, which provides:</p>
+<p class="coj-normal">‘A person who normally pursues an activity as an employed person in two or more Member States shall be subject to:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the legislation of the Member State of residence if he/she pursues a substantial part of his/her activity in the Member State of residence; or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">if he/she does not pursue a substantial part of his/her activity in the Member State of residence:</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Regulation No 574/72</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Title III of Regulation No 574/72, titled ‘Implementation of the provisions of the regulation for determining the legislation applicable’, laid down, inter alia, rules for the application of Articles 13 and 14 of Regulation No 1408/71.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In particular, Article 11(1)(a) and Article 12a(2) and (4)(a) of Regulation No 574/72 provided that, in the cases referred to in, inter alia, Article 14(1)(a) and (2)(b) of Regulation No 1408/71, the institution designated by the competent authority of the Member State whose legislation remained applicable was to issue a certificate (‘the E 101 Certificate’), attesting that the worker concerned remained subject to that legislation.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Regulation No 987/2009</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Regulation No 574/72 was repealed and replaced, with effect from 1 May 2010, by Regulation No 987/2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 5(1) of Regulation No 987/2009 provides:</p>
+<p class="coj-normal">‘Documents issued by the institution of a Member State and showing the position of a person for the purposes of the application of the basic Regulation and of the implementing Regulation, and supporting evidence on the basis of which the documents have been issued, shall be accepted by the institutions of the other Member States for as long as they have not been withdrawn or declared to be invalid by the Member State in which they were issued.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 19(2) of Regulation No 987/2009, which partly replaced Article 11(1)(a) and Article 12a(2)(a) and (4)(a) of Regulation No 574/72, provides that ‘at the request of the person concerned or of the employer, the competent institution of the Member State whose legislation is applicable pursuant to Title II of [Regulation No 883/2004] shall provide an attestation that such legislation is applicable and indicate, where appropriate, until what date and under what conditions’. That attestation is issued by means of a certificate (‘the A 1 Certificate’).</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">French law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article L. 1221‑10 of the code du travail (the Labour Code), in the version applicable to the dispute in the main proceedings, provided:</p>
+<p class="coj-normal">‘An employee may be engaged only after the employer has submitted a declaration of the name of the employee to the social protection bodies designated for that purpose.</p>
+<p class="coj-normal">The employer shall make that declaration at all places of work where employees are employed.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article L. 8211‑1 of that code provided</p>
+<p class="coj-normal">‘The following offences shall constitute unlawful work, under the conditions laid down in this [part of the code]:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">1.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Concealed employment;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">3.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Unlawful provision of workers;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article L. 8221‑1 of that code stated:</p>
+<p class="coj-normal">‘The following shall be prohibited:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">1.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Total or partial concealed employment, defined and performed in the circumstances specified in Articles L. 8221-3 and L. 8221-5;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Advertising, by whatever means, which is intended knowingly to promote concealed employment;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">3°</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Deliberate use, either directly or through an intermediary, of the services of a person who is engaged in concealed employment.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article L. 8221‑3 of that code provided:</p>
+<p class="coj-normal">‘Concealed employment by means of concealment of activity shall be deemed to exist where a production, transformation, reparation or service provision activity is carried out for purposes of gain or trade activities are undertaken by any natural or legal person who, deliberately avoiding his obligations:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">has not made the required declarations to the social protection bodies or to the tax authorities in accordance with the legal provisions in force. …;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article L. 8221‑5 of the code du travail:</p>
+<p class="coj-normal">‘Any employer shall be deemed to have hidden work by concealment of paid employment where:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">1.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">he intentionally fails to fulfil the formal requirement provided for in Article L. 1221‑10, relating to the declaration prior to engagement of an employee; or</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">3.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">he fails to submit declarations in respect of wages or wage-based social security contributions to the authorities responsible for the collection of social security contributions.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the period from 18 June 2011 to 10 August 2016, the latter provision of Article L. 8221‑5 was worded as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘3.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">he intentionally avoids submitting declarations in respect of wages or wage-based social security contributions to the authorities responsible for the collection of social security contributions or the tax authorities under the statutory provisions.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">After being awarded contracts for the construction of a new generation nuclear reactor, a pressurised water reactor known as ‘EPR’, in Flamanville (France), Bouygues, a company established in France, formed with two other undertakings, for the performance of those contracts, a limited partnership, which subcontracted the contracts to an economic interest grouping that included, among others, Welbond, a company also established in France. That grouping itself used subcontractors, including Elco, a company established in Romania, and Atlanco Ltd, a temporary employment company established in Ireland with a subsidiary in Cyprus and an office in Poland.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Following a complaint about the accommodation provided for foreign workers, strike action by temporary Polish employees concerning the absence or inadequacy of social security cover for accidents, the discovery that there had been more than one hundred unreported workplace accidents, and an investigation initially by the Nuclear Safety Authority and then by the police, Bouygues, Welbond and Elco were prosecuted for offences committed between June 2008 and October 2012, in particular, as regards Bouygues and Welbond, on charges of concealed employment and the unlawful provision of workers, and, as regards Elco, on a charge of concealed employment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By judgment of 20 March 2017, the cour d’appel de Caen (Court of Appeal, Caen, France), upholding in part the judgment delivered on 7 July 2015 by the chambre correctionnelle du tribunal d’instance de Cherbourg (Criminal Chamber of the first instance court of Cherbourg, France), held that Elco was guilty of the offence of concealed employment in having failed to submit declarations of the names of employees prior to engaging them and declarations relating to wages and social security contributions to the bodies responsible for the recovery of social security contributions. That court held that Elco’s activity in France had been performed in a habitual, stable and continuous manner, which meant that it was not entitled to rely on the legislation on posting of workers. The court found, in that regard, that the vast majority of the workers in question had been engaged by Elco solely with a view to being posted to France a few days before they were posted, most of them not having worked for that company or having worked for it only for a short time, that Elco’s activity in Romania had become ancillary to its activity in France, that the administrative management of the workers concerned was not carried out in Romania and that certain postings had lasted for more than 24 months.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards Bouygues and Welbond, the cour d’appel de Caen (Court of Appeal, Caen) held that those companies were guilty of concealed employment offences, in the case of workers supplied by Atlanco, and of unlawful provision of workers. In that regard, that court found, first, that Bouygues and Welbond had, through the Cypriot subsidiary of Atlanco and an office of that subsidiary in Poland, recruited Polish temporary workers by having them sign a contract drawn up in Greek, with a view to supplying them to French companies, through the intermediary of two employees of that subsidiary based in Dublin (Ireland) and working in France. Second, that court noted that that subsidiary was not registered in the commercial and companies register in France and that it had no business activities in either Cyprus or Poland. Finally, that court established that, although Bouygues and Welbond had indeed asked Atlanco for the documents relating to the temporary Polish workers on the Flamanville site, in particular the E 101 and A 1 Certificates, they had continued to employ those workers without all those documents being sent to them.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Bouygues, Elco and Welbond brought an appeal before the Cour de cassation (Court of Cassation, France) against the judgment of the cour d’appel de Caen (Court of Appeal, Caen) of 20 March 2017, claiming, inter alia, that that court had disregarded the effects attached to the E 101 and A 1 Certificates issued to the workers concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the view of the referring court, it follows from the judgments of 27 April 2017, A-Rosa Flussschiff (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A309&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑620/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A309" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:309</a>), and of 6 February 2018, Altun and Others (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑359/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:63</a>), that where criminal proceedings are brought before a national court on charges of concealed employment for failure to make declarations to the social security authorities and where the accused person produces E 101 Certificates, now A 1 Certificates, for the workers concerned, in accordance with Article 14(2)(a) of Regulation No 1408/71, that court, having heard the arguments of the parties, may disregard those certificates only if, on the basis of an assessment of specific evidence, collected in the course of the judicial investigation, which supports the conclusion that the certificates had been fraudulently obtained or relied on and which the issuing institution failed, within a reasonable time, to take into account, it makes a finding of fraud, comprised, as regards its objective element, by failure to meet the conditions laid down in the aforementioned provision and, as regards its subjective element, by the intention of the accused person to evade or circumvent the conditions for the issue of those certificates, with a view to obtaining the advantages attaching thereto.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That court states, however, that, in the present case, employers are being prosecuted on charges of concealed employment for failure to submit, not only declarations regarding wages and social security contributions to the bodies responsible for collection of social security contributions, but also for failure to submit declarations of the names of employees prior to the engagement of workers, on the basis of Articles L. 8221-3 and L. 8221-5 of the code du travail, while two companies, Bouygues and Welbond, are being prosecuted under Article L. 8221‑1 of that code, on charges of concealed employment with respect to a workers employed by a company which is accused of failure to fulfil the same obligations, on the basis of, inter alia, Article L. 8221‑1 of that code.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, according to the referring court, the question arises as to whether the effects attached to E 101 and A 1 Certificates, issued, in the present case, respectively, under Article 14(1)(a) and (2)(b) of Regulation No 1408/71 and Article 13(1) of Regulation No 883/2004, as regards the determination of the law applicable to the social security scheme and to the declarations of the employer to the social protection bodies, extend to the determination of the applicable law as regards the law applicable with respect to employment law and the obligations incumbent on the employer, arising from the application of the employment law of the State in which the workers concerned by those certificates carry out their work, and, in particular, extend to the declarations which must be made by the employer prior to the engagement of those workers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the Cour de cassation (the Court of Cassation) decided to stay proceedings and to refer the following question to the Court for a preliminary ruling:</p>
+<p class="coj-normal">‘Must [Article] 11 of Regulation [No 574/72] and [Article] 19 of Regulation [No 987/2009] be interpreted as meaning that an E 101 Certificate issued by the institution designated by the competent authority of a Member State, under Article 14(1) and (2)(b) of Regulation No 1408/71 … or an A 1 Certificate issued under Article 13(1) of Regulation No 883/2004 … is binding on the courts of the Member State in which the work is carried out when it comes to determining the legislation applicable, not only as regards the social security system but also as regards employment law, where such legislation defines the obligations of employers and the rights of employees, so that, having heard the arguments of the parties, those courts can disregard the abovementioned certificates only if, on the basis of an assessment of specific evidence, collected in the course of the judicial investigation, which supports the conclusion that the certificates were fraudulently obtained or relied on and which the issuing institution failed to take into account within a reasonable time, the said courts make a finding of fraud, comprised, as regards its objective element, by the failure to meet the conditions laid down in either of the aforementioned provisions of Regulations [No 574/72] and [No 987/2009] and, as regards its subjective element, by the intention of the accused person to evade or circumvent the conditions for the issue of that certificate, in order to obtain the advantages attaching thereto?’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its question, the referring court seeks, in essence, to ascertain whether Article 11(1)(a), Article 12a(2)(a) and (4)(a) of Regulation No 574/72 and Article 19(2) of Regulation No 987/2009 must be interpreted as meaning that an E 101 Certificate, issued by the competent institution of a Member State, pursuant to Article 14(1)(a) or Article 14(2)(b) of Regulation No 1408/71, to workers employed in the territory of another Member State, and an A 1 Certificate, issued by that institution under Article 12(1) or Article 13(1) of Regulation No 883/2004, to such workers, are binding on the courts or tribunals of the latter Member State not only in the area of social security, but also in the area of employment law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is apparent from the information available to the Court that that question has been raised in the context of criminal proceedings on charges of, inter alia, concealed employment brought against employers who had recourse in French territory during the period from 2008 to 2012 to workers covered by E 101 or A 1 Certificates, as the case may be, in connection with the posting of workers or the employment of workers in several Member States, without having made to the competent French authorities the declaration required by the code du travail prior to the engagement of employees.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court is thus uncertain as to the effect of those certificates on such an obligation to make a prior declaration and, therefore, as to the consequences of those certificates with respect to the application to the workers concerned of the legislation of the host Member State in the area of employment law, that uncertainty arising on the assumption that that those certificates are valid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First, it must be observed that, given that Regulations No 1408/71 and No 574/72 were replaced by Regulation No 883/2004 and Regulation No 987/2009 respectively as from 1 May 2010, each of those regulations, as stated correctly by the referring court, may be applicable in the main proceedings. Further, the E 101 Certificate provided for by Regulation No 574/72 preceded the A 1 Certificate provided for by Regulation No 987/2009, and the provisions relating to the issue of the E 101 Certificate, namely, in particular, Article 11(1)(a) and Article 12a(2)(a) and (4)(a) of Regulation No 574/72, were replaced, in part, by Article 19(2) of Regulation No 987/2009, which provides for the issue of the A 1 Certificate. In addition, Article 14(1)(a) and Article 14(2)(b) of Regulation No 1408/71 were respectively replaced, in essence, by Article 12(1) and Article 13(1) of Regulation No 883/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It should be recalled that, according to the Court’s settled case-law, the E 101 and A 1 Certificates are intended, like the rules of substantive law laid down in Article 14(1)(a) and (2)(b) of Regulation No 1408/71 and in Article 12(1) and Article 13(1) of Regulation No 883/2004, to facilitate freedom of movement for workers and freedom to provide services (see, to that effect, judgment of 6 February 2018, Altun and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑359/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:63</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Those certificates correspond to a standard form issued, in accordance, as the case may be, with Title III of Regulation No 574/72 or Title II of Regulation No 987/2009, by the institution designated by the competent authority of the Member State whose social security legislation is applicable, in order to ‘attest’, in accordance, inter alia, with Article 11(1)(a), Article 12a(2)(a) and (4)(a) of Regulation No 574/72 and of Article 19(2) of Regulation No 987/2009, that workers finding themselves in one of the situations referred to in certain provisions of Title II of Regulations No 1408/71 and No 987/2009 are subject to the legislation of that Member State (see, to that effect, judgment of 9 September 2015, X and van Dijk, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A564&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑72/14 and C-197/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A564" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:564</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A564" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By virtue of the principle that workers must be covered by only one social security system, those certificates thus necessarily imply that the other Member State’s social security system cannot apply (see, to that effect, judgment of 6 February 2018, Altun and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑359/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:63</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under the principle of sincere cooperation, laid down in Article 4(3) TEU, which also entails the principle of mutual trust, in so far as E 101 and A 1 Certificates create a presumption that the worker concerned is properly affiliated to the social security scheme of the Member State whose competent institution has issued those certificates, those certificates are binding, in principle, on the competent institution and the courts of the Member State in which that worker is working (see, to that effect, judgments of 6 February 2018, Altun and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑359/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:63</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> to <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a>, and of 6 September 2018, Alpenrind and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A669&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑527/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A669" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:669</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A669" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, as long as those certificates are not withdrawn or declared invalid, the competent institution of a Member State in which a worker actually works must take account of the fact that that person is already subject to the social security legislation of the Member State whose competent institution has issued those certificates, and the former institution cannot therefore subject the worker in question to its own social security system (see, to that effect, judgment of 6 February 2018, Altun and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑359/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:63</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A63" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to the Court’s case-law, that is also the case even where it is found that the conditions under which the employee concerned carries out his activities clearly do not fall within the material scope of Title II of Regulations No 1408/71 and No 883/2004.(see, to that effect, judgment of 27 April 2017, A‑Rosa Flussschiff, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A309&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑620/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A309" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:309</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A309" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">61</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As correctly stated by the referring court, a court or tribunal of the host Member State may disregard E 101 Certificates only where two cumulative conditions are met: (i) the institution that issued those certificates, to which there has been promptly submitted by the competent institution of that Member State a request to review the grounds for the issue of those certificates, failed to undertake such a review, in the light of the evidence transmitted to it by the latter institution, and has failed to make a decision, within a reasonable time, on that request, as appropriate, cancelling or withdrawing those certificates, and (ii) that evidence permits that court or tribunal to find, with due regard to the safeguards inherent in the right to a fair trial, that the certificates at issue were fraudulently obtained or relied on (judgment of 2 April 2020, CRPNPAC and Vueling Airlines, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A260&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑370/17 and C‑37/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A260" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:260</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A260" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">78</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows, however, that, although E 101 and A 1 Certificates have binding effects, those effects are limited solely to the obligations imposed by national legislation in the area of social security which is the subject of the coordination carried out by Regulations No 1408/71 and No 883/2004 (see, to that effect, judgments of 4 October 1991, De Paep, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1991%3A381&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑196/90</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1991%3A381" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1991:381</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1991%3A381" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">12</a>, and of 9 September 2015, X and van Dijk, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A564&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑72/14 and C‑197/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A564" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:564</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A564" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be recalled that, under Article 1(j) of Regulation No 1408/71 and Article 1(l) of Regulation No 883/2004, the concept of ‘legislation’, for the purposes of the application of those regulations, refers to the laws of the Member States concerning the branches of social security and social security schemes listed in Article 4(1) and (2) of Regulation No 1408/71 and Article 3(1) of Regulation No 883/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Further, it is apparent from the Court’s case-law that the decisive factor for the purposes of the application of those regulations is the direct and sufficiently relevant link which a particular benefit must have with the national legislation governing those branches and social security schemes (see, to that effect, judgments of 26 February 2015, de Ruyter, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A123&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑623/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A123" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:123</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A123" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>, and of 23 January 2019, Zyla, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A49&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑272/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A49" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:49</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A49" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that E 101 and A 1 Certificates, issued by the competent institution of a Member State, are binding on the competent institution and the courts of the host Member State only in so far as they certify that the worker concerned is subject, in social security matters, to the legislation of the first Member State with respect to the grant of benefits directly linked to one of the branches and schemes listed in Article 4(1) and (2) of Regulation No 1408/71 and Article 3(1) of Regulation No 883/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Those certificates therefore have no binding effect with regard to obligations imposed by national law in matters other than social security, within the meaning of those regulations, such as, inter alia, those relating to the employment relationship between employers and workers, in particular their employment and working conditions (see, to that effect, judgment of 4 October 1991, De Paep, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1991%3A381&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑196/90</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1991%3A381" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1991:381</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1991%3A381" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">13</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the nature and effect of the declaration prior to the engagement of employees provided for by the code du travail, the requirement of which by the French authorities is at the heart of the dispute in the main proceedings, it should be noted that, according to the applicants in the main proceedings, the purpose of that declaration, although it is formally provided for by that code, is to verify whether a worker is affiliated to one or other branch of the social security scheme and, consequently, to ensure payment of social security contributions in France. That declaration should be made by employers to the social security bodies and is thus the means whereby the latter can verify compliance with national social security rules, in order to combat clandestine work.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On the other hand, the French Government’s position is that the declaration prior to the engagement of employees constitutes an administrative simplification device allowing the employer to take a single step in order to complete simultaneously several formalities, some of which admittedly concern social security, but which in no way involve affiliation to the French social security scheme. By providing the competent authorities with all relevant information concerning the future contractual relationship between the employer and the worker concerned, that declaration makes it possible, inter alia, to ensure compliance with the terms and conditions of employment laid down by the national rules in the field of employment law where a worker is, as in the case in the main proceedings, not posted within the meaning of those rules, but employed in France. Thus, the present dispute does not concern the payment of social security contributions in that Member State, but concerns compliance by the applicants in the main proceedings with all the French rules of employment law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It must be borne in mind that Article 267 TFEU does not empower the Court to apply rules of EU law to a particular case, but only to give a ruling on the interpretation of the Treaties and on acts adopted by the EU institutions.(see, inter alia, judgment of 19 November 2019, A.K. and Others (Independence of the Disciplinary Chamber of the Supreme Court), <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A982&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑585/18, C‑624/18 and C‑625/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A982" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:982</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A982" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">132</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is therefore not for the Court either to establish the facts which have given rise to the dispute in the main proceedings and to draw any inferences therefrom for the decision which the referring court is required to deliver, or to interpret the relevant national laws or regulations (see, to that effect, judgment of 16 October 2019, Glencore Agriculture Hungary, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A861&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑189/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A861" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:861</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A861" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A861" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, it is for the referring court to determine whether the sole purpose of the obligation to make a declaration prior to engagement of employees laid down by the code du travail is to ensure that the workers concerned are affiliated to one or other branch of the social security scheme and, therefore, to ensure only compliance with the legislation in that area, in which case the E 101 and A 1 Certificates, issued by the issuing institution, would, in principle, preclude such an obligation, or, alternatively, whether the purpose of that obligation is also, even in part, to protect the effectiveness of checks made by the competent national authorities in order to ensure compliance with conditions of employment and working conditions imposed by employment law, in which case those certificates would have no effect on that obligation, given that that obligation cannot, in any event, entail that the workers concerned are affiliated to one or other branch of the social security system.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of all the foregoing, the answer to the question referred is that Article 11(1)(a), Article 12a(2)(a) and (4)(a) of Regulation No 574/72 and Article 19(2) of Regulation No 987/2009 must be interpreted as meaning that an E 101 Certificate, issued by the competent institution of a Member State, under Article 14(1)(a) or Article 14(2)(b) of Regulation No 1408/71, to workers who are employed in the territory of another Member State, and an A 1 Certificate, issued by that institution, under Article 12(1) or Article 13(1) of Regulation No 883/2004, to such workers, are binding on the courts or tribunals of the latter Member State solely in the area of social security.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="coj-normal">
+<span class="coj-bold">Article 11(1)(a), Article 12a(2)(a) and (4)(a) of Council Regulation (EEC) No 574/72 of 21 March 1972 laying down the procedure for implementing Regulation (EEC) No 1408/71 on the application of social security schemes to employed persons, to self-employed persons and to their families moving within the Community, in the version amended and updated by Council Regulation (EC) No 118/97 of 2 December 1996, as amended by Regulation (EC) No 647/2005 of the European Parliament and of the Council of 13 April 2005 and Article 19(2) of Regulation (EC) No 987/2009 of the European Parliament and of the Council of 16 September 2009 laying down the procedure for implementing Regulation (EC) No 883/2004 on the coordination of social security systems, must be interpreted as meaning that an E 101 Certificate, issued by the competent institution of a Member State, under Article 14(1)(a) or Article 14(2)(b) of Council Regulation (EEC) No 1408/71 of 14 June 1971 on the application of social security schemes to employed persons, to self-employed persons and to their families moving within the Community, in the version amended and updated by Regulation No 118/97, as amended by Council Regulation (EC) No 1606/98 of 29 June 1998, to workers employed in the territory of another Member State, and an A 1 Certificate, issued by that institution, under Article 12(1) or Article 13(1) of Regulation (EC) No 883/2004 of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems, as amended by Regulation (EC) No 465/2012 of the European Parliament and of the Council of 22 May 2012, to such workers, are binding on the courts or tribunals of the latter Member State solely in the area of social security.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62019CJ0017_EN_01-E0001" id="t-ECR_62019CJ0017_EN_01-E0001">*1</a>
+</span>)	Language of the case: French.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

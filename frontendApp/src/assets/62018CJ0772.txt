@@ -1,0 +1,631 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Tenth Chamber)</p>
+<p class="coj-sum-title-1">30 April 2020 (<span class="coj-note">
+<a href="#t-ECR_62018CJ0772_EN_01-E0001" id="c-ECR_62018CJ0772_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Trade marks — Directive 2008/95/EC — Article 5(1) — Article 5(3)(b) and (c) — Infringement — Concept of ‘use in the course of trade’ — Goods released for free circulation –Imports — Storage — Retention of goods for marketing — Exports)</p>
+<p class="coj-normal">In Case C‑772/18,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Korkein oikeus (Supreme Court, Finland), made by decision of 28 November 2018, received at the Court on 3 December 2018, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">A</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">B,</span>
+</p>
+<p class="coj-normal">THE COURT (Tenth Chamber),</p>
+<p class="coj-normal">composed of I. Jarukaitis, President of the Chamber, E. Juhász (Rapporteur) and M. Ilešič, Judges,</p>
+<p class="coj-normal">Advocate General: M. Campos Sánchez-Bordona,</p>
+<p class="coj-normal">Registrar: A. Calot Escobar,</p>
+<p class="coj-normal">having regard to the written procedure,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">A, by J. Kaulo, luvan saanut oikeudenkäyntiavustaja,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">B, by M. Jakobsson, asianajaja,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Finnish Government, by S. Hartikainen, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by É. Gippini Fournier and I. Koskinen, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Article 5(1) of Directive 2008/95/EC of the European Parliament and of the Council of 22 October 2008 to approximate the laws of the Member States relating to trade marks (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:299:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2008 L 299, p. 25</a>) read in conjunction with Article 5(3)(b) and (c) of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between A and B concerning a trade mark infringement action brought against B.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">EU law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 5 of Directive 2008/95, headed ‘Rights conferred by a trade mark’, provides:</p>
+<p class="coj-normal">‘1.   The registered trade-mark shall confer on the proprietor exclusive rights therein. The proprietor shall be entitled to prevent all third parties not having his/her consent from using in the course of trade:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">any sign which is identical with the trade mark in relation to goods or services which are identical with those for which the trade mark is registered;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">any sign where, because of its identity with, or similarity to, the trade mark and the identity or similarity of the goods or services covered by the trade mark and the sign, there exists a likelihood of confusion on the part of the public, which includes the likelihood of association between the sign and the trade mark.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<p class="coj-normal">3.   The following, inter alia, may be prohibited under paragraphs 1 and 2:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">affixing the sign to the goods or to the packaging thereof;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">offering the goods, or putting them on the market or stocking them for these purposes under that sign, or offering or supplying services thereunder;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">importing or exporting the goods under the sign;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Finnish law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Paragraph 4(1) of the tavaramerkkilaki (7/1964) [Law on trade marks (7/1964)], in the version applicable at the material time, the effect of the right to a sign is that no one other than the proprietor of a trade mark may in the course of trade use a sign that may be confused with that mark on goods or their packaging, in advertising or in business documents or in any other way, including oral use.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That provision is applicable regardless of whether the goods are put or intended to be put on the market in Finland or abroad or whether they are imported into Finnish territory for use in the course of trade or for retention or storage there, or for onward export to a third country.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 4 April 2011 B, a natural person resident in Finland, received from China a consignment of 150 ball bearings weighing in total 710 kg, used as spare parts in transmission mechanisms, generators and engines and in the construction of bridges and tramways. On those bearings there was affixed a sign corresponding to the international word mark INA, of which A is the proprietor, covering, inter alia, goods classed as ‘bearings’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Once customs clearance was completed in B’s name, on 12 April 2011 B withdrew the consignment from the customs warehouse at the airport of Helsinki-Vantaa (Finland), where it was stored, and took it to his home.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">A few weeks later, the bearings were delivered to a third party in order to be exported to Russia.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">B received as remuneration for those services a carton of cigarettes and a bottle of brandy.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In criminal proceedings for trade mark infringement brought against B before the Helsingin käräjäoikeus (Court of first instance of Helsinki, Finland), to which proceedings A was joined with respect to his civil interest, that court acquitted B on the ground that it could not be proved that he had deliberately committed an offence. That court however ordered B not to continue or repeat such conduct and ordered him to pay compensation and damages to A for the harm suffered by the latter.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">B challenged those orders before the Helsingin hovioikeus (Court of Appeal of Helsinki, Finland).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That court, referring to the judgment of 16 July 2015, TOP Logistics and Others (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A497&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑379/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A497" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:497</a>), held that (i) B’s activity was, to a certain extent, equivalent to an activity of storage and onward transport of goods, and it had not been B’s objective to obtain any economic benefit from that activity, and (ii) the remuneration received on that occasion was not based on the economic exploitation of the goods in the course of a business but constituted only consideration for the storage of goods on behalf of a third party.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing, the Helsingin hovioikeus (Court of Appeal of Helsinki) held that B had not used in the course of trade a sign similar to the registered trade mark at issue in the main proceedings and, consequently, held that the claim for compensation and damages made by A was unfounded.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">A brought an appeal against that judgment before the Korkein oikeus (Supreme Court, Finland).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Korkein oikeus (Supreme Court) submits that it is not clearly apparent from the Court’s case-law whether the extent of the economic benefit obtained by a private person by reason of an alleged infringement of a trade mark is a relevant factor in order to determine whether or not there is use of a trade mark in the course of trade.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Further, while it is plain that Article 5 of Directive 2008/95 applies where a person uses a trade mark in the course of his or her own economic activity, there may be some doubt on that point where that person uses it for the benefit of a third party.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Korkein oikeus (Supreme Court) submits that, in the judgment of 16 July 2015, TOP Logistics and Others (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A497&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑379/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A497" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:497</a>), it was held that the proprietor of a tax and customs warehouse who does no more than store on behalf of a third party goods bearing a sign identical or similar to a trade mark does not use that sign. The referring court is uncertain whether such case-law can be transposed by analogy to a case, such as that in the main proceedings, where an individual, in exchange for a bottle of cognac and a carton of cigarettes, has imported goods on behalf of a third party and has retained and stored them, prior to their being uplifted for onward shipment to a non-Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court is uncertain, last, whether the fact that an individual makes known his or her address to a dealer in goods, and takes delivery of them, although he or she did not request that those goods be sent to him or her and he or she took no other active role, can be considered to constitute the importing of goods, within the meaning of Article 5(3)(c) of Directive 2008/95.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, the referring court notes that, in the judgment of 18 October 2005, Class International (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A616&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑405/03</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A616" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:616</a>), the Court held that a prerequisite of goods being put on the market is that those goods have been released for free circulation within the meaning of Article 29 TFEU, which means that the customs duties and charges having equivalent effect that are due have been collected in that Member State. The referring court submits that there is uncertainty as to whether importing can be considered to occur where the person concerned does no more than take delivery of goods sent to his or her address, although he or she did not request that those goods be sent and there is no other active participation by that person in the shipment of those goods into the country.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of all the foregoing, the Korkein oikeus (Supreme Court) decided to stay the proceedings and to refer to the Court the following questions for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Is the amount of the benefit received from an alleged infringement of a trade mark by a private individual relevant when assessing whether his conduct is the use of a trade mark in the course of trade within the meaning of Article 5(1) of [Directive 2008/95] or purely private use? If a private individual uses a trade mark, does use in the course of trade require the satisfaction of criteria other than the requirement of economic benefit obtained from the transaction in question concerning the trade mark?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If the economic benefit must have a certain degree of significance, and a person, on the basis of the triviality of the economic benefit received by him and the non-fulfilment of other possible criteria of use in the course of trade, may not be regarded as having used a trade mark in the course of his own trade, is the condition of use in the course of trade within the meaning of Article 5(1) of [Directive 2008/95] satisfied if a private individual uses a trade mark on behalf of another person as part of that other person’s trade, where he is not, however, an employee in the service of that other person?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(3)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Does a person keeping goods use a trade mark in relation to goods within the meaning of Article 5(1) and (3)(b) of [Directive 2008/95] if the goods on which the trade mark is affixed, sent to a Member State and released into free circulation there, are taken delivery of and retained on behalf of a company that deals in goods by a person who does not carry on a business of importing and storing goods and who does not have a licence to operate a customs warehouse or tax warehouse?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(4)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">May a person be regarded as importing goods on which a trade mark is affixed within the meaning of Article 5(3)(c) of [Directive 2008/95] if the goods were not imported at the person’s request, but the person provided his address to a dealer and the goods released into free circulation in the Member State were taken delivery of by that person on behalf of the dealer, and that person retained them for some weeks and delivered them for shipment to a third country outside the European Union for the purpose of resale there?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its four questions, which can be examined together, the referring court seeks, in essence, to ascertain whether Article 5(1) of Directive 2008/95, read in conjunction with Article 5(3)(b) and (c) of that directive, must be interpreted as meaning that a person who does not engage in trade as an occupation, who takes delivery of, releases for free circulation in a Member State and retains goods that are manifestly not intended for private use, where those goods were sent to that person’s address from a third country and where a trade mark, without the consent of the proprietor of that trade mark, is affixed to those goods, must be regarded as using that trade mark in the course of trade, within the meaning of Article 5(1) of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First, it must be observed that the question whether the conditions laid down in Article 5(1) of Directive 2008/95 are satisfied must be determined solely on the basis of objective factors.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, the expression ‘use in the course of trade’, to be found in that provision, entails that the exclusive rights conferred by a trade mark may, as a rule, be relied on by the proprietor of that trade mark only as against economic operators and, consequently, only in the context of a trading business (see, to that effect, judgment of 12 July 2011, L’Oréal and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A474&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑324/09</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A474" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:474</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A474" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">54</a>). Further, if the transactions carried out, by reason of their volume, their frequency or other characteristics, go beyond the scope of a private activity, whoever carries out those transactions will be acting in the course of trade (judgment of 12 July 2011, L’Oréal and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A474&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑324/09</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A474" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:474</a> paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A474" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">55</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In this case, it is clear from the information available to the Court that the goods at issue in the main proceedings are ball bearings weighing, in total, 710 kg, generally used in heavy industry.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Accordingly, since those goods, having regard to their nature and their volume, are manifestly not intended for private use, the relevant transactions must be considered to fall within the scope of a trading business, though that is a matter to be determined by the referring court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Further, a person who makes known his or her address as the place to which the goods concerned are to be shipped, who completes or has completed by an agent the customs clearance of those goods and who releases them for free circulation is importing those goods within the meaning of Article 5(3)(c) of Directive 2008/95.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards whether the person concerned can be considered to have himself used a sign identical to a trade mark, although that person was acting in the economic interests of a third party, it must be observed that, in order to identify use in the course of trade, ownership of the goods on which the trade mark is affixed is of no relevance. The Court has held that the fact that an economic operator uses a sign corresponding to a trade mark in relation to goods which are not his own goods — in the sense that he does not have title to them — does not in itself prevent that use from falling within the scope of Article 5(1) of Directive 2008/95 (see, to that effect, judgment of 12 July 2011, L’Oréal and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A474&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑324/09</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A474" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:474</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A474" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">91</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The fact that a person has imported and released for free circulation such goods justifies in itself a finding that that person has acted in the course of trade, there being no need to examine subsequent dealings with those goods, whether, for example, they have been stored by the importer or put on the market within the European Union or exported to non-Member countries.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Last, the significance of the remuneration that the importer has received by way of consideration for his so acting is also of no relevance.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing, the answer to the questions referred is that Article 5(1) of Directive 2008/95, read in conjunction with Article 5(3)(b) and (c) of that directive, must be interpreted as meaning that a person who does not engage in trade as an occupation, who takes delivery of, releases for free circulation in a Member State and retains goods that are manifestly not intended for private use, where those goods were sent to his or her address from a third country and where a trade mark, without the consent of the proprietor of that trade mark, is affixed to those goods, must be regarded as using that trade mark in the course of trade, within the meaning of Article 5(1) of that directive.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Tenth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="coj-normal">
+<span class="coj-bold">Article 5(1) of Directive 2008/95/EC of the European Parliament and of the Council of 22 October 2008 to approximate the laws of the Member States relating to trade marks, read in conjunction with Article 5(3)(b) and (c) of that directive, must be interpreted as meaning that a person who does not engage in trade as an occupation, who takes delivery of, releases for free circulation in a Member State and retains goods that are manifestly not intended for private use, where those goods were sent to his or her address from a third country and where a trade mark, without the consent of the proprietor of that trade mark, is affixed to those goods, must be regarded as using that trade mark in the course of trade, within the meaning of Article 5(1) of that directive.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62018CJ0772_EN_01-E0001" id="t-ECR_62018CJ0772_EN_01-E0001">*1</a>
+</span>)	Language of the case: Finnish.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

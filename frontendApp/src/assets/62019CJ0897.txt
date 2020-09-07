@@ -1,0 +1,1232 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Grand Chamber)</p>
+<p class="coj-sum-title-1">2 April 2020 (<span class="coj-note">
+<a href="#t-ECR_62019CJ0897_EN_01-E0001" id="c-ECR_62019CJ0897_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Urgent preliminary ruling procedure — EEA Agreement — Non-discrimination — Article 36 — Freedom to provide services — Scope — Agreement between the European Union and the Republic of Iceland and the Kingdom of Norway concerning the latters’ association with the implementation, application and development of the Schengen <span class="coj-italic">acquis</span> — Agreement on the surrender procedure between the Member States of the European Union and Iceland and Norway — Extradition to a third State of an Icelandic national — Protection of a Member State’s nationals against extradition — No equivalent protection for nationals of another State — Icelandic national who was granted asylum under national law before acquiring Icelandic citizenship — Restriction of freedom of movement — Justification based on the prevention of impunity — Proportionality — Verification of the guarantees provided for in Article 19(2) of the Charter of Fundamental Rights of the European Union)</p>
+<p class="coj-normal">In Case C‑897/19 PPU,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Vrhovni sud (Supreme Court, Croatia), made by decision of 28 November 2019, received at the Court on 5 December 2019, in the criminal proceedings against</p>
+<p class="coj-normal">
+<span class="coj-bold">I.N.,</span>
+</p>
+<p class="coj-normal">intervening parties:</p>
+<p class="coj-normal">
+<span class="coj-bold">Ruska Federacija,</span>
+</p>
+<p class="coj-normal">THE COURT (Grand Chamber),</p>
+<p class="coj-normal">composed of K. Lenaerts, President, R. Silva de Lapuerta, Vice-President, A. Arabadjiev, A. Prechal, M. Vilaras (Rapporteur), M. Safjan, S. Rodin, and I. Jarukaitis, Presidents of Chambers, L. Bay Larsen, T. von Danwitz, D. Šváby, K. Jürimäe and N. Piçarra, Judges,</p>
+<p class="coj-normal">Advocate General: E. Tanchev,</p>
+<p class="coj-normal">Registrar: M. Longar, Administrator,</p>
+<p class="coj-normal">having regard to the written procedure and further to the hearing on 31 January 2020,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">I.N., by D. Perković and S. Večerina, odvjetnici,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ruska Federacija, by S. Ljubičić, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Croatian Government, by G. Vidović Mesarek, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ireland, by G. Hodge, acting as Agent, and by M. Gray QC,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Greek Government, by S. Charitaki and A. Magrippi, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Icelandic Government, by J.B. Bjarnadóttir and H.S. Ingimundardóttir, acting as Agents, and by T. Fuchs, Rechtsanwalt,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Norwegian Government, by P. Wennerås and K. Isaksen, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by S. Grünheid, M. Wilderspin and M. Mataija, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the EFTA Surveillance Authority, by C. Zatschler, C. Howdle and I.Ó. Vilhjálmsdóttir, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">after hearing the Opinion of the Advocate General at the sitting on 27 February 2020,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Article 18 TFEU and the Agreement between the European Union and the Republic of Iceland and the Kingdom of Norway on the surrender procedure between the Member States of the European Union and Iceland and Norway (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:292:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 292, p. 2</a>), which was approved, on behalf of the European Union, by Article 1 of Council Decision 2014/835/EU of 27 November 2014 on the conclusion of the Agreement between the European Union and the Republic of Iceland and the Kingdom of Norway on the surrender procedure between the Member States of the European Union and Iceland and Norway (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2014:343:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2014 L 343, p. 1</a>), and which entered into force on 1 November 2019 (‘the Agreement on the surrender procedure’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in the context of an extradition request issued by the Russian authorities to the Croatian authorities in relation to I.N., a Russian and Icelandic national, in connection with a number of passive corruption offences.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">European Union law</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">The EEA Agreement</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the second recital to the Agreement on the European Economic Area of 2 May 1992 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1994:001:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1994 L 1, p. 3</a>) (‘the EEA Agreement’), the parties to that agreement reaffirmed ‘the high priority attached to the privileged relationship between the [European Union], its Member States and the States [of the European Free Trade Association (EFTA)], which is based on proximity, long-standing common values and European identity’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to Article 1(1) thereof, the aim of the EEA Agreement, is to promote a continuous and balanced strengthening of trade and economic relations between the contracting parties with equal conditions of competition, and the respect of the same rules, with a view to creating a homogeneous European Economic Area (EEA).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 3 of the EEA Agreement provides:</p>
+<p class="coj-normal">‘The Contracting Parties shall take all appropriate measures, whether general or particular, to ensure fulfilment of the obligations arising out of this Agreement.</p>
+<p class="coj-normal">They shall abstain from any measure which could jeopardise the attainment of the objectives of this Agreement.</p>
+<p class="coj-normal">Moreover, they shall facilitate cooperation within the framework of this Agreement.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 4 of the EEA Agreement provides:</p>
+<p class="coj-normal">‘Within the scope of application of this Agreement, and without prejudice to any special provisions contained therein, any discrimination on grounds of nationality shall be prohibited.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 6 of the EEA Agreement states:</p>
+<p class="coj-normal">‘Without prejudice to future developments of case-law, the provisions of this Agreement, in so far as they are identical in substance to corresponding rules of the Treaty [on the Functioning of the European Union] and the Treaty establishing the European Coal and Steel Community and to acts adopted in application of these two Treaties, shall, in their implementation and application, be interpreted in conformity with the relevant rulings of the Court of Justice of the European Communities given prior to the date of signature of this Agreement.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 36 of the EEA Agreement states:</p>
+<p class="coj-normal">‘1.   Within the framework of the provisions of this Agreement, there shall be no restrictions on freedom to provide services within the territory of the Contracting Parties in respect of nationals of [EU] Member States and EFTA States who are established in an [EU] Member State or an EFTA State other than that of the person for whom the services are intended.</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">The Agreement of 18 May 1999</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 2 of the Agreement concluded by the Council of the European Union and the Republic of Iceland and the Kingdom of Norway concerning the latters’ association with the implementation, application and development of the Schengen <span class="coj-italic">acquis</span>, of 18 May 1999 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1999:176:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1999 L 176, p. 36</a>) (‘the Agreement of 18 May 1999’), provides:</p>
+<p class="coj-normal">‘1.   The provisions of the Schengen <span class="coj-italic">acquis</span> as listed in Annex A to this Agreement as they apply to the Member States of the European Union … which participate in the closer cooperation authorised by the Schengen Protocol, shall be implemented and applied by [the Republic of Iceland and the Kingdom of Norway].</p>
+<p class="coj-normal">2.   The provisions of the acts of the European Community listed in Annex B to this Agreement, to the extent that they have replaced corresponding provisions of, or adopted pursuant to, the Convention signed in Schengen on 19 June 1990 implementing the Agreement on the gradual abolition of checks at the common borders, shall be implemented and applied by [the Republic of Iceland and the Kingdom of Norway].</p>
+<p class="coj-normal">3.   The acts and the measures taken by the European Union amending or building upon the provisions referred to in Annexes A and B, to which the procedures set out in this Agreement have been applied, shall also, without prejudice to Article 8, be accepted, implemented and applied by [the Republic of Iceland and the Kingdom of Norway].’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 7 of the Agreement of 18 May 1999 states:</p>
+<p class="coj-normal">‘The Contracting Parties agree that an appropriate arrangement should be concluded on the criteria and mechanisms for establishing the State responsible for examining a request for asylum lodged in any of the Member States or in Iceland or Norway. …’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Agreement on the surrender procedure</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The preamble to the Agreement on the surrender procedure states:</p>
+<p class="coj-normal">‘The European Union,</p>
+<p class="coj-normal">on the one hand, and</p>
+<p class="coj-normal">the Republic of Iceland,</p>
+<p class="coj-normal">and</p>
+<p class="coj-normal">the Kingdom of Norway,</p>
+<p class="coj-normal">on the other hand,</p>
+<p class="coj-normal">hereinafter referred to as “the Contracting Parties”,</p>
+<p class="coj-normal">WISHING to improve judicial cooperation in criminal matters between the Member States of the European Union and Iceland and Norway, without prejudice to the rules protecting individual freedom,</p>
+<p class="coj-normal">CONSIDERING that current relationships among the Contracting Parties require close cooperation in the fight against crime,</p>
+<p class="coj-normal">EXPRESSING their mutual confidence in the structure and functioning of their legal systems and in the ability of all Contracting Parties to guarantee a fair trial,</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 1 of that agreement states:</p>
+<p class="coj-normal">‘1.   The Contracting Parties undertake to improve, in accordance with the provisions of this Agreement, the surrender for the purpose of prosecution or execution of sentence between, on the one hand, the Member States and, on the other hand, the Kingdom of Norway and the Republic of Iceland, by taking account of, as minimum standards, the terms of the Convention of 27 September 1996 relating to extradition between the Member States of the European Union.</p>
+<p class="coj-normal">2.   The Contracting Parties undertake, in accordance with the provisions of this Agreement, to ensure that the extradition system between, on the one hand, the Member States and, on the other hand, the Kingdom of Norway and the Republic of Iceland shall be based on a mechanism of surrender pursuant to an arrest warrant in accordance with the terms of this Agreement.</p>
+<p class="coj-normal">3.   This Agreement shall not have the effect of modifying the obligation to respect fundamental rights and fundamental legal principles as enshrined in the [Convention for the Protection of Human Rights and Fundamental Freedoms, signed at Rome on 4 November 1950], or, in case of execution by the judicial authority of a Member State, of the principles referred to in Article 6 of the Treaty on European Union.</p>
+<p class="coj-normal">4.   Nothing in this Agreement should be interpreted as prohibiting refusal to surrender a person in respect of whom an arrest warrant as defined by this Agreement has been issued when there are reasons to believe, on the basis of objective elements, that the said arrest warrant has been issued for the purpose of prosecuting or punishing a person on the grounds of his or her sex, race, religion, ethnic origin, nationality, language, political opinions or sexual orientation, or that that person’s position may be prejudiced for any of these reasons.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Croatian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 9 of the Constitution of the Republic of Croatia, (<span class="coj-italic">Narodne novine</span>, br. 56/1990, 135/1997, 113/2000, 28/2001, 76/2010 and 5/2014) is worded as follows:</p>
+<p class="coj-normal">‘…</p>
+<p class="coj-normal">A national of the Republic of Croatia may not be forcibly expelled from the Republic of Croatia, deprived of his or her nationality, or extradited to another State, except in implementation of a decision on extradition or surrender made in accordance with an international treaty or the <span class="coj-italic">acquis communautaire</span>.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 1 of the zakon o međunarodnoj pravnoj pomoći u kaznenim stvarima (Law on international mutual legal assistance in criminal matters, <span class="coj-italic">Narodne novine</span>, br. 178/2004) (‘the ZOMPO’) provides:</p>
+<p class="coj-normal">‘(1)   The present law shall govern international legal assistance in criminal matters (“international legal assistance”), subject to the provisions of any international treaty to the contrary.</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 12 of the ZOMPO provides:</p>
+<p class="coj-normal">‘(1) The competent national authority may reject the request for international legal assistance if:</p>
+<p class="coj-normal">1.   the request concerns an act considered to be a political offence or an act linked to such an offence;</p>
+<p class="coj-normal">2.   the request concerns a tax offence;</p>
+<p class="coj-normal">3.   acceptance of the request could undermine the sovereignty, security, legal order or other vital interests of the Republic of Croatia;</p>
+<p class="coj-normal">4.   it can be reasonably assumed that the person referred to in the request for extradition would face, were he or she to be extradited, prosecution or punishment on account of his or her race, religion, nationality, membership of a particular social group, or political opinion, or that his or her situation would be made more difficult on one of those grounds;</p>
+<p class="coj-normal">5.   the offence in question is a minor offence.</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 55 of the ZOMPO provides:</p>
+<p class="coj-normal">‘(1)   Where the competent court rules that the legal conditions for extradition are not met, it shall adopt an order dismissing the extradition request and forward that order without delay to the Vrhovni sud [(Supreme Court)] of the Republic of Croatia, which, after hearing the competent Public Prosecutor, shall confirm, set aside or amend the order.</p>
+<p class="coj-normal">(2)   The final order dismissing the extradition request shall be sent to Ministry of Justice, which will notify the requesting State.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 56 of the ZOMPO provides:</p>
+<p class="coj-normal">‘(1)   Where the chamber of the competent court hearing the case rules that the legal conditions for extradition are met, it shall do so by way of an order.</p>
+<p class="coj-normal">(2)   That order may be appealed within 3 days. The Vrhovni sud [(Supreme Court)] of the Republic of Croatia shall give a ruling on the appeal.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 20 May 2015, Interpol’s Bureau in Moscow (Russia) issued an international wanted persons notice for I.N., who, at that time, was a Russian national only, for his arrest, on account of criminal proceedings for passive corruption.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 30 June 2019, I.N. presented himself, at the border control between Slovenia and Croatia, where he was seeking to enter the territory of the latter State, as a bus passenger in possession of an Icelandic travel document for refugees. He was arrested on the basis of the international wanted persons notice referred to in the preceding paragraph. His arrest started a decision-making process, brought on the basis of the ZOMPO, concerning his possible extradition to Russia.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 1 July 2019, I.N. was questioned by an investigating judge of the Županijski sud u Zagrebu (County Court, Zagreb, Croatia). He declared that he opposed his extradition to Russia and, furthermore, claimed that he was both a Russian citizen and an Icelandic citizen. A note from the Embassy of Iceland transmitted to the Županijski sud u Zagrebu (County Court, Zagreb) via the Ministry of Foreign and European Affairs of the Republic of Croatia confirmed that, since 19 June 2019, I.N. has been a citizen of Iceland and has the status of a permanent resident in Iceland. The note also stated that the Icelandic Government requested that I.N. be guaranteed safe passage to Iceland with a minimum of delay.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 6 August 2019, the Županijski sud u Zagrebu (County Court, Zagreb) received a request from the Public Prosecutor’s Office of the Russian Federation for the extradition of I.N. to that third State, in accordance with the provisions of the European Convention on Extradition, signed at Paris on 13 December 1957 (‘the European Convention on Extradition’), on account of criminal proceedings against him for several offences of passive corruption. It was stated in that request that the Public Prosecutor’s Office of the Russian Federation guarantees that the purpose of the extradition request is not to prosecute the person concerned for political reasons, on account of his race, religion, nationality or opinions, that I.N. would have every opportunity to exercise his right of defence with the assistance of a lawyer, and that he would not be subjected to torture, cruel or inhuman treatment, or punishment undermining human dignity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By order of 5 September 2019, the Županijski sud u Zagrebu (County Court, Zagreb) held that the legal conditions, laid down in the ZOMPO, for the extradition of I.N. on account of those criminal proceedings were met.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 30 September 2019, I.N. appealed against that order to the referring court. He claimed that there is a concrete, serious and reasonably foreseeable risk that, if he were extradited to the Russian Federation, he would be subjected to torture and inhuman and degrading treatment there. He also pointed out that his status as refugee had been recognised in Iceland precisely on account of the actual criminal proceedings of which he had been the subject in Russia and that, by its order of 5 September 2019, the Županijski sud u Zagrebu (County Court, Zagreb) de facto harmed the international protection that had been granted to him in Iceland. In addition, he stated that he held Icelandic nationality and criticised the Županijski sud u Zagrebu (County Court, Zagreb) for having failed correctly to apply the judgment of 6 September 2016, Petruhhin (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court states that, in accordance with its settled case-law, it will examine whether there is a real risk that I.N. would be subject, if extradited, to torture or inhuman punishment or treatment. However, before carrying out that examination, that court wishes to know whether it is necessary to inform the Republic of Iceland, of which I.N. is a national, of the request for extradition so that State can, if it so wishes, seek the surrender of its national in order to bring proceedings aimed at preventing the risk of impunity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, the referring court, first, states that the Republic of Croatia does not extradite its own nationals to Russia and has not concluded a bilateral agreement with that State that entails an obligation to do so.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Secondly, after recalling the lessons to be drawn from the judgment of 6 September 2016, Petruhhin (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>), the referring court observes that, while, unlike the person concerned in that judgment, I.N. is not an EU citizen, it remains the case that he is a citizen of the Republic of Iceland with which the European Union maintains particular links.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, the referring court recalls that, first, in accordance with Article 2 of Protocol No 19 on the Schengen <span class="coj-italic">acquis</span> integrated into the framework of the European Union (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:C:2010:083:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2010 C 83, p. 290</a>), annexed to the Treaty of Lisbon, the Schengen <span class="coj-italic">acquis</span> applies to the Member States referred to in Article 1 of that protocol and, secondly, the Council, pursuant to Article 6 of that protocol, concluded with the Republic of Iceland and the Kingdom of Norway the Agreement of 18 May 1999 by virtue of which those two third States implement the provisions of that <span class="coj-italic">acquis</span>. I.N. exercised his right to free movement within the Member States of the Schengen area and was arrested at the time of his entry into the territory of the Republic of Croatia from that of another Member State, in this case the Republic of Slovenia.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In addition, the referring court considers that, since it entered into force on 1 November 2019, the Agreement on the surrender procedure is also relevant for the case in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Having regard to all those elements, the referring court states that it is uncertain as to whether Article 18 TFEU should be interpreted as meaning that a Member State, such as the Republic of Croatia, which is called upon to rule on an application for the extradition to a third State of a national of a State which is not a member of the European Union, but which is a member of the Schengen area, is required, before adopting any decision on that extradition, to inform the latter State of the application for extradition, and whether, if that State seeks the surrender of its national in order to conduct the proceedings in respect of which extradition is sought, to surrender that national to it, in accordance with the Agreement on surrender proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the Vrhovni sud (Supreme Court) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Must Article 18 TFEU be interpreted as meaning that a Member State of the European Union which gives a ruling on the extradition to a third State of a national of a State that is not a Member State of the European Union but is a Member State of the Schengen area is required to inform that Member State of the Schengen area which granted nationality to that person of the extradition request?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If the answer to the preceding question is in the affirmative and the Member State of the Schengen area has requested the surrender of that person in order to conduct the proceedings in respect of which extradition is requested, must that person be surrendered to that State, in accordance with the [Agreement on the surrender procedure]?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The urgent procedure</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court requested that this request for a preliminary ruling be dealt with under the urgent procedure provided for in Article 107 of the Rules of Procedure of the Court of Justice.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In support of that request, the referring court relied, inter alia, on the fact that I.N. has been detained pending extradition, such that he is currently deprived of his liberty.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It must be observed, in the first place, that this reference for a preliminary ruling concerns, inter alia, the Agreement on the surrender procedure. The decision by which that agreement was approved on behalf of the European Union was adopted on the basis of Article 82(1)(d) TFEU, read in conjunction with Article 218(6)(a) TFEU. That agreement therefore comes within the areas covered by Title V of Part Three of the FEU Treaty, on the area of freedom, security and justice. This reference for a preliminary ruling can therefore be dealt with under the urgent preliminary ruling procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the second place, it is necessary, according to the case-law of the Court, to take into account the fact that the person concerned in the case in the main proceedings is currently deprived of his liberty and that the question whether he may continue to be held in custody depends on the outcome of the dispute in the main proceedings (see, to that effect, judgment of 27 May 2019, OG and PI (Public Prosecutor’s Office in Lübeck and Zwickau)<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A456&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑508/18 and C‑82/19 PPU</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A456" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:456</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A456" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a> and the case-law cited). I.N.’s placement in detention pending extradition was ordered, according to the explanation provided by the referring court, in the context of the extradition proceedings brought against him.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, on 16 December 2019, the Fourth Chamber of the Court of Justice, acting on a proposal from the Judge-Rapporteur and after hearing the Advocate General, decided to accede to the referring court’s request that the present reference for a preliminary ruling be dealt with under the urgent preliminary ruling procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It was also decided to remit this case to the Court in order for it to be assigned to the Grand Chamber.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As a preliminary matter, it should be recalled that, in paragraph 50 of the judgment of 6 September 2016, Petruhhin (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>), the Court held that Articles 18 and 21 TFEU must be interpreted as meaning that, when a Member State to which a Union citizen, a national of another Member State, has moved receives an extradition request from a third State with which the first Member State has concluded an extradition agreement, it must inform the Member State of which the citizen in question is a national and, should that Member State so request, surrender that citizen to it, in accordance with the provisions of Council Framework Decision 2002/584/JHA of 13 June 2002 on the European arrest warrant and the surrender procedures between Member States (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2002:190:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2002 L 190, p. 1</a>), as amended by Council Framework Decision 2009/299/JHA of 26 February 2009 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:081:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2009 L 81, p. 24</a>) (‘Framework Decision 2002/584’), provided that that Member State has jurisdiction, pursuant to its national law, to prosecute that person for offences committed outside its national territory.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Court has clarified in that regard, in paragraph 54 of the judgment of 10 April 2018, Pisciotti (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A222&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑191/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A222" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:222</a>), that, in order to safeguard the objective of preventing the risk of impunity for the person concerned in respect of the offences alleged against him in the request for extradition, a European arrest warrant issued by a Member State other than the requested Member State must, at least, relate to the same offences.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring Court queries whether, in the dispute before it, it is necessary to follow the interpretation given by the Court in its judgment of 6 September 2016, Petruhhin (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>) as regards not only EU citizens, but also Icelandic nationals.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be recalled that, by prohibiting ‘any discrimination on grounds of nationality’, Article 18 TFEU requires that persons in a situation falling within the scope of application of the Treaties be treated equally (see, to that effect, judgment of 6 September 2016, Petruhhin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> and the case-law cited). However, as the Court has already held, that provision is not intended to apply to cases of a possible difference in treatment between nationals of Member States and those of third States (see, to that effect, judgment of 4 June 2009, Vatsouras and Koupatantze, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A344&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑22/08 and C‑23/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A344" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:344</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A344" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">52</a>, and Opinion 1/17 (<span class="coj-italic">EU-Canada CET</span>
+<span class="coj-italic">Agreement</span>) of 30 April 2019, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A341" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:341</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A341" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">169</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards Article 21 TFEU, it should be recalled that, in paragraph 1 thereof, that article provides for the right of every Union citizen to move and reside freely in the territory of the Member States and applies, as Article 20(1) TFEU states, to every person holding the nationality of a Member State, with the result that it also does not apply to a national of a third State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, Framework Decision 2002/584, which also contributed to the Court’s reasoning recalled in paragraph 37 above, applies only to Member States and not to third States.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It should however be borne in mind that, according to the Court’s settled case-law, in the procedure laid down by Article 267 TFEU providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the national court with an answer which will be of use to it and enable it to determine the case before it. To that end, the Court may have to reformulate the questions referred to it. The Court has a duty to interpret all provisions of EU law which national courts require in order to decide the actions pending before them, even if those provisions are not expressly indicated in the questions referred to the Court of Justice by those courts (judgment of 8 May 2019, PI, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A383&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑230/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A383" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:383</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A383" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">42</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In this case, the Republic of Iceland has a special relationship with the European Union, which goes beyond economic and commercial cooperation. It implements and applies the Schengen <span class="coj-italic">acquis</span>, as the referring court observes, but it is also a party to the EEA Agreement, participates in the common European asylum system and has concluded the Agreement on the surrender procedure with the European Union. Therefore, in order to give a useful answer to the referring court, it is necessary to take into consideration, in addition to the European law norms referred to by it, the EEA Agreement to which both the European Union and the Republic of Iceland, in particular, are parties.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is therefore necessary to regard the referring court’s questions as asking, in essence, whether EU law, including the EEA Agreement, read in the light of the judgment of 6 September 2016, Petruhhin (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>) must be interpreted as meaning that when a Member State, to which a national of an EFTA State — which is a party to the EEA Agreement and with which the European Union has concluded a surrender agreement — has moved, receives an extradition request from a third State pursuant to the European Convention on Extradition, it must inform that EFTA State of that request and, should that State so request, surrender that national to it, in accordance with the provisions of the surrender agreement, provided that that State has jurisdiction, pursuant to its national law, to prosecute that person for offences committed outside its national territory.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In addition, it is also clear from the case file submitted to the Court, subject to verification by the referring court, that before he acquired Icelandic nationality, I.N. was granted asylum under Icelandic law precisely on account of criminal proceedings brought against him in Russia, and with regard to which his extradition has been requested of the Croatian authorities by the Russian Federation. That was not the situation in the case that gave rise to the judgment of 6 September 2016, Petruhhin (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that context, and subject to the assessment as to the applicability of EU law to the case in the main proceedings, it should be observed that a useful answer for the referring court also presupposes the clarification of the scope of the protection afforded by Article 19(2) of the Charter of Fundamental Rights of the European Union (‘the Charter’) pursuant to which no one may be removed, expelled or extradited to a State where there is a serious risk that he or she would be subjected to the death penalty, torture or other inhuman or degrading treatment or punishment.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The applicability of EU law in the case in the main proceedings</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It must be recalled that, in the absence of an international convention on this subject between the European Union and the third State concerned, in this case the Russian Federation, the rules on extradition fall within the competence of the Member States. However, as is clear from the Court’s case-law, those same Member States are required to exercise that competence in accordance with EU law (see, to that effect, judgment of 13 November 2018, Raugevicius, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A898&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑247/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A898" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:898</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A898" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since an international agreement concluded by the European Union is an integral part of EU law (see, inter alia, judgment of 30 April 1974, Haegeman, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1974%3A41&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">181/73</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1974%3A41" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1974:41</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1974%3A41" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">5</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1974%3A41" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">6</a>, and Opinion 1/17 (<span class="coj-italic">EU-Canada CET</span>
+<span class="coj-italic">Agreement</span>), of 30 April 2019, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A341" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:341</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A341" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">117</a>), situations falling within the scope of such an agreement, such as the EEA Agreement, are, in principle, situations governed by EU law, (see, to that effect, Opinion 1/17 (<span class="coj-italic">EU-Canada CET Agreement</span>), of 30 April 2019, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A341" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:341</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A341" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">171</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, the EEA Agreement reaffirms, as stated in its second recital, the special relationship between the European Union, its Member States and the EFTA States, which is based on proximity, long-standing common values and European identity. It is in the light of that special relationship that one of the principal objectives of the EEA Agreement must be understood, namely to provide for the fullest possible realisation of the free movement of goods, persons, services and capital within the whole EEA, so that the internal market established within the European Union is extended to the EFTA States. In that perspective, a number of provisions in the EEA Agreement are intended to ensure that the interpretation of that agreement is as uniform as possible throughout the EEA. It is for the Court, in that context, to ensure that the rules of the EEA Agreement which are identical in substance to those of the FEU Treaty are interpreted uniformly within the Member States (judgments of 23 September 2003, Ospelt and Schlössle Weissenberg, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A493&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑452/01</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A493" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:493</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A493" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>; of 28 October 2010, Établissements Rimbaud, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A645&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑72/09</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A645" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:645</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A645" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">20</a>; and of 19 July 2012, A, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A485&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑48/11</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A485" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:485</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A485" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">15</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, I.N. stated in his written observations that he entered the territory of the Republic of Croatia in order to take his summer holiday there, which was confirmed at the hearing by the Icelandic Government.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Court has already held that the freedom to provide services, within the meaning of Article 56 TFEU, includes the freedom for the recipients of services to go to another Member State in order to receive a service there, without being obstructed by restrictions, and that tourists must be regarded as recipients of services (judgment of 2 February 1989, Cowan, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1989%3A47&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">186/87</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1989%3A47" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1989:47</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1989%3A47" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">15</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That same interpretation must be given as regards the freedom to provide services guaranteed in Article 36 of the EEA Agreement (see, by analogy, judgments of 23 September 2003, Ospelt and Schlössle Weissenberg, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A493&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑452/01</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A493" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:493</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A493" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>, and of 28 October 2010, Établissements Rimbaud, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A645&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑72/09</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A645" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:645</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A645" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">20</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows from the foregoing that the situation of an Icelandic national, such as that of I.N., who presented himself at the border of a Member State in order to enter its territory and receive services there, falls within the scope of the EEA Agreement and, consequently, of EU law (see, by analogy, judgment of 6 September 2016, Petruhhin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a> and the case-law cited). In the case in the main proceedings, the Republic of Croatia is, therefore, obliged to exercise its competence in respect of extradition to third States in a manner that complies with the EEA Agreement, in particular Article 36 thereof ensuring the freedom to provide services.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The restriction on the freedom to provide services and the possible justification thereof</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By prohibiting ‘any discrimination on grounds of nationality’, Article 4 of the EEA Agreement requires equal treatment for persons in a situation governed by that agreement. The principle of non-discrimination enshrined in that provision has effect ‘within the scope of application’ of the agreement and ‘without prejudice to any special provisions contained therein’. By this latter expression, Article 4 of the EEA Agreement refers in particular to other provisions of that agreement in which the general principle which it sets out is given concrete form in respect of specific situations. Such is the case, inter alia, as regards the provisions relating to the freedom to provide services (see, by analogy, judgment of 2 February 1989, Cowan, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1989%3A47&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">186/87</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1989%3A47" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1989:47</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1989%3A47" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">10</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1989%3A47" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">14</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="coj-normal">National rules on extradition, such as those at issue in the main proceedings, give rise to a difference in treatment depending on whether the person concerned is a national of the Member State in question or a national of an EFTA State, which is party to the EEA Agreement, in that they result in nationals of those latter States, such as I.N., an Icelandic national, not being granted the protection against extradition enjoyed by nationals of the Member State in question (see, by analogy, judgment of 6 September 2016, Petruhhin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In so doing, such rules are liable to affect, in particular, the freedom enshrined in Article 36 of the EEA Agreement. It follows that, in a situation such as that at issue in the main proceedings, the unequal treatment which allows the extradition of a national of an EFTA State, which is a party to the EEA Agreement, such as I.N., gives rise to a restriction of that freedom (see, by analogy, judgment of 6 September 2016, Petruhhin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is appropriate to add that not only the fact that the person concerned has the status as a national of an EFTA State, which is a party to the EEA Agreement, but also the fact that that State implements and applies the Schengen <span class="coj-italic">acquis</span>, renders the situation of that person objectively comparable with that of an EU citizen to whom, in accordance with Article 3(2) TEU, the Union offers an area of freedom, security and justice without internal frontiers, in which the free movement of persons is ensured.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="coj-normal">A restriction, such as that set out in paragraph 57 above, can be justified only where it is based on objective considerations and is proportionate to the legitimate objective of the national provisions (see, by analogy, judgment of 6 September 2016, Petruhhin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As the Court has already held, the objective of preventing the risk of impunity for persons who have committed an offence, put forward in the order for reference for the purpose of justification, must be considered legitimate. However, measures which restrict the freedom laid down in Article 36 of the EEA Agreement, may be justified by objective considerations only if they are necessary for the protection of the interests which they are intended to secure and only in so far as those objectives cannot be attained by less restrictive measures (see, by analogy, judgment of 6 September 2016, Petruhhin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In its judgment of 6 September 2016, Petruhhin (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>) the Court recalled that extradition is a procedure whose aim is to combat the impunity of a person who is present in a territory other than that in which he has allegedly committed an offence, and thus allows offences committed in the territory of a State by persons who have fled that territory not to remain unpunished. Although the non-extradition of its own nationals is generally counterbalanced by the possibility for the requested Member State to prosecute such nationals for serious offences committed outside its territory, that Member State as a general rule has no jurisdiction to try cases concerning such acts when neither the perpetrator nor the victim of the alleged offence is a national of that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Court concluded therefrom, in paragraph 40 of the judgment of 6 September 2016, Petruhhin (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>), that national rules, such as those at issue in the case giving rise to that judgment, which allow an extradition request to be granted for the purposes of prosecution and judgment in the third State where the offence is alleged to have been committed, appeared, in principle, appropriate to achieve the objective pursued.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, given that, as has been held in paragraph 54 above, the situation of an Icelandic national who arrives at the border of a Member State with a view to entering into its territory and receiving services there is covered by EU law, the provisions of Article 19(2) of the Charter are applicable to such a request from a third State (judgment of 6 September 2016, Petruhhin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">52</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">53</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, where, in such a situation, the Icelandic national concerned invokes a real risk of inhuman or degrading treatment if extradited, the requested Member State must verify, before carrying out that extradition, that the extradition will not prejudice the rights referred to in Article 19(2) of the Charter (judgment of 6 September 2016, Petruhhin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">60</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="coj-normal">For that purpose, that Member State, in accordance with Article 4 of the Charter, which prohibits inhuman or degrading treatment or punishment, cannot restrict itself to taking into consideration solely the declarations of the requesting third State or the accession, by the latter State to international treaties guaranteeing, in principle, respect for fundamental rights. The competent authority of the requested Member State, such as the referring court, must rely, for the purposes of that verification, on information that is objective, reliable, specific and properly updated. That information may be obtained from, inter alia, judgments of international courts, such as judgments of the European Court of Human Rights, judgments of courts of the requesting third State, and also decisions, reports and other documents produced by bodies of the Council of Europe or under the aegis of the United Nations (judgment of 6 September 2016, Petruhhin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">55</a> to <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">59</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In particular, the fact that the person concerned was granted asylum by the Republic of Iceland on the ground that he was at risk of suffering inhuman and degrading treatment in his country of origin, is a particularly substantial piece of evidence that the competent authority of the requested Member State must take into account for the purposes of the verification referred to in paragraph 64 above.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Such evidence is all the more important for the purposes of that verification where the grant of asylum was based precisely on the criminal proceedings to which the person concerned is subject in his country of origin and which led to that latter country to issue a request for the extradition of that person.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the absence of specific facts, including inter alia significant changes in the situation in the requesting third State or indeed substantial and reliable information to demonstrate that the person whose extradition is requested obtained asylum by concealing the fact that he or she was subject to criminal proceedings in his or her country of origin, the existence of a decision of the Icelandic authorities granting that person asylum must thus lead the competent authority of the requested Member State, such as the referring court, to refuse extradition, pursuant to application of Article 19(2) of the Charter.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If the authorities of the requested Member State reach the conclusion that Article 19(2) of the Charter does not preclude the execution of that request, it will remain necessary to examine whether the restriction at issue is proportionate to the objective of preventing the risk of impunity for persons who have committed a criminal offence, as recalled in paragraph 60 above. In that regard, it is appropriate to observe that use of the cooperation and mutual assistance mechanisms provided for in the criminal field under EU law is, in any event, an alternative means, which is less prejudicial to the exercise of the right to freedom of movement than extradition to a third State with which the European Union has not concluded an extradition agreement, which also allows that objective to be effectively achieved (see, to that effect, judgment of 6 September 2016, Petruhhin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">49</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="coj-normal">More specifically, the Court has held that, in such a case, the exchange of information with the Member State of which the person concerned is a national must be given priority in order to afford the authorities of that Member State, in so far as they have jurisdiction pursuant to their national law to prosecute that person for offences committed outside national territory, the opportunity to issue, in accordance with Framework Decision 2002/584, a European arrest warrant with a view to the surrender of that person for the purposes of prosecution. Thus, the competent authority of the requested Member State must inform the Member State of which the person concerned is a national and, should that Member State so request, surrender the person concerned to it, on the basis of such a European arrest warrant (see, to that effect, judgment of 6 September 2016, Petruhhin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Although Framework Decision 2002/584 does not apply to the Republic of Iceland, an EFTA State of which I.N. is a national, it must be recalled that that State, like the Kingdom of Norway, has concluded with the European Union the Agreement on the surrender procedure, which entered into force on 1 November 2019.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As is clear from its preamble, that agreement seeks to improve judicial cooperation in criminal matters between, on the one hand, the Member States of the European Union and, on the other hand, the Republic of Iceland and the Kingdom of Norway, in so far as the current relationships among the contracting parties, characterised in particular by the fact that the Republic of Iceland and the Kingdom of Norway are part of the EEA, require close cooperation in the fight against crime.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, in the same preamble, the contracting parties to the Agreement on the surrender procedure have expressed their mutual confidence in the structure and functioning of their legal systems and their capacity to guarantee a fair trial.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In addition, it must be observed that the provisions of the Agreement on the surrender procedure are very similar to the corresponding provisions of Framework Decision 2002/584.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Having regard to all those elements, it must be held that the ruling adopted by the Court in the judgment of 6 September 2016, Petruhhin (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑182/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:630</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>) must be applied by analogy to nationals of the Republic of Iceland, such as I.N., who, with regard to the third State requesting their extradition and, as is stated in paragraph 58 above, are in a situation that is objectively comparable with that of an EU citizen to whom, in accordance with Article 3(2) TEU, the European Union offers an area of freedom, security and justice without internal frontiers, in which the free movement of persons is ensured.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Hence, when a Member State, to which a national of the Republic of Iceland has moved, receives an extradition request from a third State with which the first Member State has concluded an extradition agreement, it is in principle obliged to inform the Republic of Iceland and, should that State so request, surrender that national to it, in accordance with the provisions of the Agreement on the surrender procedure, provided that the Republic of Iceland has jurisdiction, pursuant to its national law, to prosecute that person for offences committed outside its national territory.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Having regard to all the foregoing considerations, the answer to the questions referred is that EU law, in particular Article 36 of the EEA Agreement and Article 19(2) of the Charter, must be interpreted as meaning that, when a Member State, to which a national of an EFTA State — which is a party to the EEA Agreement and with which the European Union has concluded a surrender agreement — has moved, receives an extradition request from a third State pursuant to the European Convention on Extradition, and when that national was granted asylum by that EFTA State — before he or she acquired the nationality of that State — precisely on account of the criminal proceedings brought against him or her in the State which issued the request for extradition, it is for the competent authority of the requested Member State to verify that the extradition would not infringe the rights covered by Article 19(2) of the Charter, the grant of asylum being a particularly substantial piece of evidence in the context of that verification. Before considering executing the request for extradition, the requested Member State is obliged, in any event, to inform that same EFTA State and, should that State so request, surrender that national to it, in accordance with the provisions of the surrender agreement, provided that that State has jurisdiction, pursuant to its national law, to prosecute that person for offences committed outside its national territory.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Grand Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="coj-normal">
+<span class="coj-bold">EU law, in particular Article 36 of the Agreement on the European Economic Area of 2 May 1992 and Article 19(2) of the Charter of Fundamental Rights of the European Union, must be interpreted as meaning that, when a Member State, to which a national of a Member State of the European Free Trade Association (EFTA) — which is a party to the Agreement on the European Economic Area and with which the European Union has concluded a surrender agreement — has moved, receives an extradition request from a third State pursuant to the European Convention on Extradition, signed at Paris on 13 December 1957, and when that national was granted asylum by that EFTA State — before he or she acquired the nationality of that State — precisely on account of the criminal proceedings brought against him or her in the State which issued the request for extradition, it is for the competent authority of the requested Member State to verify that the extradition would not infringe the rights covered by Article 19(2) of the Charter of Fundamental Rights, the grant of asylum being a particularly substantial piece of evidence in the context of that verification. Before considering executing the request for extradition, the requested Member State is obliged, in any event, to inform that same EFTA State and, should that State so request, surrender that national to it, in accordance with the provisions of the surrender agreement, provided that that EFTA State has jurisdiction, pursuant to its national law, to prosecute that national for offences committed outside its national territory.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62019CJ0897_EN_01-E0001" id="t-ECR_62019CJ0897_EN_01-E0001">*1</a>
+</span>)	Language of the case: Croatian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

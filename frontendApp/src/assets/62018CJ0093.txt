@@ -1,0 +1,1029 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (First Chamber)</p>
+<p class="sum-title-1">2 October 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0093_EN_01-E0001" id="c-ECR_62018CJ0093_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Citizenship of the Union — Directive 2004/38/EC — Right of residence of a third-country national who is a direct relative in the ascending line of Union citizen minors — Article 7(1)(b) — Condition of sufficient resources — Resources formed by income from employment occupied without a residence card and work permit)</p>
+<p class="normal">In Case C‑93/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Court of Appeal in Northern Ireland (United Kingdom), made by decision of 15 December 2017, received at the Court on 9 February 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Ermira Bajratari</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Secretary of State for the Home Department,</span>
+</p>
+<p class="normal">intervening parties:</p>
+<p class="normal">
+<span class="bold">Aire Centre,</span>
+</p>
+<p class="normal">THE COURT (First Chamber),</p>
+<p class="normal">composed of J.‑C. Bonichot, President of the Chamber, R. Silva de Lapuerta (Rapporteur), Vice-President of the Court, A. Rosas, L. Bay Larsen and M. Safjan, Judges,</p>
+<p class="normal">Advocate General: M. Szpunar,</p>
+<p class="normal">Registrar: R. Schiano, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 24 January 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">E. Bajratari, by R. Gillen, Solicitor, H. Wilson, BL, and R. Lavery, QC,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Aire Centre, by C. Moynagh, Solicitor, R. Toal, BL, G. Mellon, BL, A. Danes, QC, and A. O’Neill, QC,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the United Kingdom Government, by F. Shibli and R. Fadoju, acting as Agents, and D. Blundell, Barrister,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Czech Government, by M. Smolek, J. Vláčil and A. Brabcová, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Danish Government, by J. Nymann‑Lindegren, M. Wolff and P. Ngo, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Netherlands Government, by M. Bulterman and C.S. Schillemans, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Austrian Government, represented initially by G. Hesse, then by J. Schmoll, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by E. Montaguti and J. Tomkin, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 19 June 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 7(1)(b) of Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:158:TOC" hreflang="en" target="CourtTab">OJ 2004 L 158, p. 77</a>, and corrigenda <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:229:TOC" hreflang="en" target="CourtTab">OJ 2004 L 229, p. 35</a>, <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2005:030:TOC" hreflang="en" target="CourtTab">OJ 2005 L 30, p. 27</a> and <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2005:197:TOC" hreflang="en" target="CourtTab">OJ 2005 L 197, p. 34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Ermira Bajratari and the Secretary of State for the Home Department (United Kingdom) concerning Mrs Bajratari’s right of residence in the United Kingdom.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">According to recital 10 of Directive 2004/38:</p>
+<p class="normal">‘Persons exercising their right of residence should not … become an unreasonable burden on the social assistance system of the host Member State during an initial period of residence. Therefore, the right of residence for Union citizens and their family members for periods in excess of three months should be subject to conditions.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Under the heading ‘Definitions’, Article 2 of Directive 2004/38 states:</p>
+<p class="normal">‘For the purposes of this Directive:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">“Union citizen” means any person having the nationality of a Member State;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">“family member” means:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">the dependent direct relatives in the ascending line and those of the spouse or partner as defined in point (b);</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3.</p>
+</td>
+<td valign="top">
+<p class="normal">“host Member State”: means the Member State to which a Union citizen moves in order to exercise his/her right of free movement and residence.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3 of Directive 2004/38, under the heading ‘Beneficiaries’, provides, in paragraph 1:</p>
+<p class="normal">‘This Directive shall apply to all Union citizens who move to or reside in a Member State other than that of which they are a national, and to their family members as defined in point 2 of Article 2 who accompany or join them.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 7 of that directive, under the heading ‘Right of residence for more than three months’, provides, in paragraph 1:</p>
+<p class="normal">‘All Union citizens shall have the right of residence on the territory of another Member State for a period of longer than three months if they:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">are workers or self-employed persons in the host Member State; or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">have sufficient resources for themselves and their family members not to become a burden on the social assistance system of the host Member State during their period of residence and have comprehensive sickness insurance cover in the host Member State; or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">are enrolled at a private or public establishment, accredited or financed by the host Member State on the basis of its legislation or administrative practice, for the principal purpose of following a course of study, including vocational training; and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">have comprehensive sickness insurance cover in the host Member State and assure the relevant national authority, by means of a declaration or by such equivalent means as they may choose, that they have sufficient resources for themselves and their family members not to become a burden on the social assistance system of the host Member State during their period of residence; or</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">are family members accompanying or joining a Union citizen who satisfies the conditions referred to in points (a), (b) or (c).’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 14 of the directive, under the heading ‘Retention of the right of residence’, provides, in paragraph 2:</p>
+<p class="normal">‘Union citizens and their family members shall have the right of residence provided for in Articles 7, 12 and 13 as long as they meet the conditions set out therein.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">In Chapter VI of Directive 2004/38, under the heading ‘Restrictions on the right of entry and the right of residence on grounds of public policy, public security or public health’, Article 27(1) and (2) of that directive provides:</p>
+<p class="normal">‘1.   Subject to the provisions of this Chapter, Member States may restrict the freedom of movement and residence of Union citizens and their family members, irrespective of nationality, on grounds of public policy, public security or public health. These grounds shall not be invoked to serve economic ends.</p>
+<p class="normal">2.   Measures taken on grounds of public policy or public security shall comply with the principle of proportionality and shall be based exclusively on the personal conduct of the individual concerned. Previous criminal convictions shall not in themselves constitute grounds for taking such measures.</p>
+<p class="normal">The personal conduct of the individual concerned must represent a genuine, present and sufficiently serious threat affecting one of the fundamental interests of society. Justifications that are isolated from the particulars of the case or that rely on considerations of general prevention shall not be accepted.’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The facts of the case in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">The applicant in the main proceedings, Mrs Bajratari, who is an Albanian national, has been residing in Northern Ireland since 2012.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">The applicant’s husband in the main proceedings, Mr Bajratari, also an Albanian national residing in Northern Ireland, held a residence card authorising him to reside in the United Kingdom from 13 May 2009 to 13 May 2014. That residence card had been issued to him on the basis of his previous relationship with Ms Toal, a United Kingdom national, which ended in early 2011. Although he left the United Kingdom in 2011 to marry Mrs Bajratari in Albania, he returned to Northern Ireland in 2012. His residence card was at no time revoked.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">The couple have three children, all born in Northern Ireland. The first two of their children obtained a certificate of Irish nationality.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">According to the order for reference, Mr Bajratari has pursued various occupational activities since 2009, and, at least since 12 May 2014, the date on which his residence card expired, he has been working illegally, since he does not hold a residence card and work permit. In addition, it is noted that no family member has ever moved or resided in another EU Member State and that the only resources available to the family is Mr Bajratari’s income.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">After the birth of her first child, Mrs Bajratari applied to the Home Office (United Kingdom) on 9 September 2013 for recognition of a derived right of residence under Directive 2004/38, relying on her status as the person who is the primary carer of her child, a Union citizen, and maintaining that refusal of a residence permit would deprive her child of the enjoyment of his rights as a Union citizen.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">That application was rejected by a decision of 28 January 2014 of the Secretary of State for the Home Department on two grounds, that is, first, that Mrs Bajratari did not have the status of ‘family member’ within the meaning of Directive 2004/38 and, second, that her child did not satisfy the requirement of self-sufficiency provided for in Article 7(1)(b) of that directive. The condition relating to ‘comprehensive sickness insurance cover’ has not, however, been contested.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">On 8 June 2015, the First-tier Tribunal (Immigration and Asylum Chamber) (United Kingdom) dismissed the appeal brought by Mrs Bajratari against the decision of the Home Office. On 6 October 2016, the Upper Tribunal (Immigration and Asylum Chamber) (United Kingdom) dismissed Mrs Bajratari’s second appeal. She then lodged an application for leave to appeal against the judgment of the Upper Tribunal (Immigration and Asylum Chamber) to the Court of Appeal in Northern Ireland (United Kingdom).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court notes that this Court has previously held that the requirement imposed by Article 7(1)(b) of Directive 2004/38, according to which a Union citizen must have sufficient resources, is satisfied when those resources are at the disposal of that citizen, and that there is no requirement as to the origin of those resources (see, to that effect, judgments of 19 October 2004, Zhu and Chen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A639&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑200/02</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A639&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2004:639</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A639&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="en" target="CourtTab" type="application/xhtml+xml">30</a>, and of 10 October 2013, Alokpa and Moudoulou, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A645&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑86/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A645&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:645</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A645&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point27" hreflang="en" target="CourtTab" type="application/xhtml+xml">27</a>). Nevertheless, the referring court points out that this Court did not specifically rule on whether income deriving from employment which is unlawful under national law should be taken into account.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Court of Appeal in Northern Ireland decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Can income from employment that is unlawful under national law establish, in whole or in part, the availability of sufficient resources under Article 7(1)(b) of [Directive 2004/38/EC]?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">If “yes”, can Article 7(1)(b) [of that directive] be satisfied where the employment is deemed precarious solely by reason of its unlawful character?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Admissibility</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">The United Kingdom Government submits that, after the reference for a preliminary ruling was made, Mrs Bajratari’s first two children were deprived of Irish nationality, so that they no longer enjoy Union citizenship or the rights deriving therefrom. Thus, United Kingdom Government maintains that the issues raised in the questions referred have become purely hypothetical in nature and that the Court must therefore refuse to answer those questions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Mrs Bajratari and the Aire Centre state that an application for judicial review has been made to challenge the Irish authorities’ decision to annul the citizenship of Mrs Bajratari’s first two children and that that application is currently pending before the High Court (Ireland).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">In that connection, it is solely for the national court hearing the case, which has the responsibility of taking the subsequent judicial decision, to determine, with regard to the particular aspects of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it refers to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is in principle bound to give a ruling. The Court may refuse to rule on a question referred by a national court for a preliminary ruling only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of 27 June 2019, Azienda Agricola Barausse Antonio e Gabriele, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A545&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑348/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A545&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:545</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A545&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point26" hreflang="en" target="CourtTab" type="application/xhtml+xml">26</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it appears from the evidence in the file submitted to the Court that Mrs Bajratari was granted permission to challenge, by way of judicial review, the decisions to invalidate her first two children’s Irish nationality certificates.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, it cannot be concluded from any evidence in the file that such decisions have become final.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In addition, following the Court’s request for clarification from the referring court pursuant to Article 101 of Rules of Procedure of the Court of Justice, the referring court stated that, while the case in the main proceedings might become unsustainable, due to the loss of Irish nationality of the two children in question, they remain live and valid at present.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, it must be held that the request for a preliminary ruling is admissible.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Substance</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">By both questions, which it is appropriate to consider together, the referring court asks, in essence, whether Article 7(1)(b) of Directive 2004/38 must be interpreted as meaning that a Union citizen minor has sufficient resources not to become an unreasonable burden on the social assistance system of the host Member State during his period of residence, despite his resources being derived from income obtained from the unlawful employment of his father, a third-country national without a residence card and work permit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary matter, it should be noted that, as regards Union citizens who are born in the host Member State and have never made use of their right to freedom of movement, such as Mrs Bajratari’s first two children, the Court has previously held that such Union citizens are entitled to rely on Article 21(1) TFEU and the measures adopted to give it effect (see, to that effect, judgment of 13 September 2016, Rendón Marín, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A675&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑165/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A675&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:675</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A675&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point42" hreflang="en" target="CourtTab" type="application/xhtml+xml">42</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A675&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point43" hreflang="en" target="CourtTab" type="application/xhtml+xml">43</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that Article 21(1) TFEU and Directive 2004/38 confer, in principle, a right of residence in the United Kingdom on Mrs Bajratari’s first two children.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">However, it should also be noted that, under Article 21 TFEU, the right to reside within the territory of the Member States is conferred on every citizen of the Union ‘subject to the limitations and conditions laid down in the Treaties and by the measures adopted to give them effect’ (judgment of 30 June 2016, NA, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A487&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑115/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A487&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:487</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A487&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point75" hreflang="en" target="CourtTab" type="application/xhtml+xml">75</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">In particular, the limitations and conditions in question are those laid down in Article 7(1) of Directive 2004/38 and include the condition of having sufficient resources not to become a burden on the social assistance system of the host Member State during the period of residence, and having comprehensive sickness insurance cover within the meaning of Article 7(1)(b) of that directive (judgment of 30 June 2016, NA, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A487&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑115/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A487&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:487</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A487&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point76" hreflang="en" target="CourtTab" type="application/xhtml+xml">76</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, inter alia, the condition of sufficient resources provided for in Article 7(1)(b) of Directive 2004/38, the Court has previously held that, while the Union citizen must have sufficient resources, EU law does not, however, lay down any requirement whatsoever as to their origin, since they may be provided, inter alia, by a third-country national who is a parent of the Union citizens who are minors (judgment of 13 September 2016, Rendón Marín, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A675&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑165/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A675&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:675</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A675&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point48" hreflang="en" target="CourtTab" type="application/xhtml+xml">48</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, the fact that the resources available to a Union citizen minor, for the purposes of Article 7(1)(b) of Directive 2004/38, derive from income obtained by his third-State national parent from that parent’s employment in the host Member State does not preclude the condition concerning the sufficiency of resources in that provision, from being regarded as satisfied (see, to that effect, judgment of 16 July 2015, Singh and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A476&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑218/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A476&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:476</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A476&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point76" hreflang="en" target="CourtTab" type="application/xhtml+xml">76</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">It must be ascertained whether that conclusion also applies where the parent of the Union citizen minor does not have a residence card and work permit in the host Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be noted that it cannot be concluded from the wording of Article 7(1)(b) of Directive 2004/38 that only resources derived from employment occupied by a Union citizen minor’s third-State national parent pursuant to a residence card and work permit can be taken into consideration for the purposes of that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">That provision merely requires that the Union citizens concerned have sufficient resources at their disposal to prevent them from becoming an unreasonable burden on the social assistance system of the host Member State during their period of residence, without establishing any other conditions, in particular as regards the origin of those resources.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, it should be noted that, as is clear from the Court’s case-law, since the right to freedom of movement is — as a fundamental principle of EU law — the general rule, the conditions laid down in Article 7(1)(b) of Directive 2004/38 must be construed in compliance with the limits imposed by EU law and the principle of proportionality (see, to that effect, judgment of 19 September 2013, Brey, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A565&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑140/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A565&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:565</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A565&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point70" hreflang="en" target="CourtTab" type="application/xhtml+xml">70</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Compliance with that principle means that the national measures taken in applying the conditions and limitations laid down in that provision must be appropriate and necessary to attain the objective pursued (see, to that effect, as regards EU legislation prior to Directive 2004/38, judgment of 23 March 2006, Commission v Belgium, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A192&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑408/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A192&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2006:192</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A192&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point39" hreflang="en" target="CourtTab" type="application/xhtml+xml">39</a> and the case-law cited), namely the protection of the public finances of the Member States (see, to that effect, judgment of 16 July 2015, Singh and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A476&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑218/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A476&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:476</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A476&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point75" hreflang="en" target="CourtTab" type="application/xhtml+xml">75</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is true that, where the resources available to a Union citizen minor to support himself and his family members during his period of residence in the host Member State are derived from income obtained from employment in that Member State occupied by a parent, who is a third-country national without a residence card and work permit, in the light of that parent’s precarious situation, due to the illegal nature of that residence, the risk of a loss of sufficient resources and of that Union citizen minor becoming a burden on the social assistance system is greater.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">From that perspective, a national measure excluding such income from the concept of ‘sufficient resources’ within the meaning of Article 7(1)(b) of Directive 2004/38 would undoubtedly achieve the objective pursued by that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">However, it is to be noted that, in order to protect the legitimate interests of the host Member State, Directive 2004/38 contains provisions allowing that State to act in the event of an actual loss of financial resources, to prevent the holder of the residence permit from becoming a burden on the public finances of that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">In particular, under Article 14(2) of Directive 2004/38, the right of Union citizens and their family members to reside in the host Member State on the basis of Article 7 of that directive continues only as long as those citizens and family members meet the conditions laid down in that provision (judgment of 16 July 2015, Singh and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A476&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑218/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A476&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:476</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A476&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point57" hreflang="en" target="CourtTab" type="application/xhtml+xml">57</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Article 14 of Directive 2004/38 thus allows the host Member State to check that Union citizens and their family members with a right of residence satisfy the conditions laid down in that regard in Directive 2004/38 throughout the period of their residence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, an interpretation of the condition of sufficient resources, in Article 7(1)(b) of Directive 2004/38 to the effect that a Union citizen minor cannot rely, for the purposes of that provision, on income obtained from employment in the host Member State occupied by a parent, who is a third-country national without a residence and work permit in that host Member State would introduce, in addition to that condition, a further requirement relating to the origin of the resources provided by that parent, which would constitute a disproportionate interference with the exercise of the Union citizen minor’s fundamental rights of free movement and of residence under Article 21 TFEU, in so far as that requirement is not necessary for the achievement of the objective pursued.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it is clear from Mrs Bajratari’s observations that, since 2009, Mr Bajratari has always been employed in the United Kingdom, first as a chef in a restaurant, then, from February 2018, as a car wash attendant.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, Mrs Bajratari confirmed at the hearing, without it being disputed by the United Kingdom Government, that the tax and social security contributions were paid on the income from Mr Bajratari’s continued employment despite the expiry of his residence card.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, there is nothing in the file before the Court to indicate that, in the course of the previous 10 years, Mrs Bajratari’s children received social assistance in the United Kingdom. Moreover, as appears from paragraph 14 above, the condition of comprehensive sickness insurance cover, provided for in Article 7(1)(b) of Directive 2004/38, has not been contested in the present case.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">A national measure allowing the authorities of the Member State in question to refuse a Union citizen minor a right of residence on the ground that the resources at his disposal, for the purposes of Article 7(1)(b) of Directive 2004/38, are derived from employment occupied by a third-State national parent without a residence card and work permit, despite the fact that those resources have allowed that Union citizen to support himself and his family members for the past 10 years without needing to rely on the social assistance system of that Member State, goes manifestly beyond what is necessary in order to protect the public finances of that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, an interpretation of the condition of sufficient resources such as that referred to in paragraph 42 above would run contrary to the objective pursued by Directive 2004/38, namely, as is apparent from settled case-law, to facilitate the exercise of the primary and individual right to move and reside freely within the territory of the Member States that is conferred directly on Union citizens by Article 21(1) TFEU and to strengthen that right (judgment of 18 December 2014, McCarthy and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2450&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑202/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2450&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:2450</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2450&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="en" target="CourtTab" type="application/xhtml+xml">31</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the foregoing that the fact that the resources available to a Union citizen minor, for the purposes of Article 7(1)(b) of Directive 2004/38, derive from income obtained by a third-State national parent’s employment in the host Member State does not prevent the condition of sufficient resources in that provision from being regarded as satisfied, despite that parent not having a residence card and work permit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, the United Kingdom Government relies on grounds of public policy in order to justify the restriction on a Union citizen minor’s right of residence resulting from excluding the income derived from employment in that Member State by that minor’s third-country national parent without a residence and work permit in the United Kingdom from the concept of ‘sufficient resources’ within the meaning of Article 7(1)(b) of Directive 2004/38.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be noted that, as a justification for derogating from the right of residence of Union citizens or members of their families, the concept of ‘public policy’ must be interpreted strictly, so that its scope cannot be determined unilaterally by the Member States without being subject to control by the EU institutions (judgment of 13 September 2016, CS, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A674&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑304/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A674&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:674</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A674&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="en" target="CourtTab" type="application/xhtml+xml">37</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has thus held that the concept of ‘public policy’ presupposes, in any event, the existence, in addition to the disturbance of the social order which any infringement of the law involves, of a genuine, present and sufficiently serious threat affecting one of the fundamental interests of society (judgment of 13 September 2016, CS, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A674&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑304/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A674&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:674</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A674&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="en" target="CourtTab" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">In view of circumstances of the case in the main proceedings, it must be found, as the Advocate General concluded in point 78 of his Opinion, that the conditions required to justify, on grounds of public order, the limitation of Mrs Bajratari’s first two children’s right of residence resulting from the exclusion of their father’s income from illegal employment from the concept of ‘sufficient resources’, within the meaning of Article 7(1)(b) of Directive 2004/38, are not satisfied in the present case.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answer to the questions referred is that Article 7(1)(b) of Directive 2004/38 must be interpreted as meaning that a Union citizen minor has sufficient resources not to become an unreasonable burden on the social assistance system of the host Member State during his period of residence, despite his resources being derived from income obtained from the unlawful employment of his father, a third-country national without a residence card and work permit.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (First Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 7(1)(b) of Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC must be interpreted as meaning that a Union citizen minor has sufficient resources not to become an unreasonable burden on the social assistance system of the host Member State during his period of residence, despite his resources being derived from income obtained from the unlawful employment of his father, a third-country national without a residence card and work permit.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<div class="signaturecaserow">
+<div class="signatory3left">
+<p class="normal">Bonichot</p>
+</div>
+<div class="signatorycenter">
+<p class="normal">Silva de Lapuerta</p>
+</div>
+<div class="signatory3right">
+<p class="normal">Rosas</p>
+</div>
+</div>
+<div class="signaturecaserow">
+<div class="signatory2left">
+<p class="normal">Bay Larsen</p>
+</div>
+<div class="signatory2right">
+<p class="normal">Safjan</p>
+</div>
+</div>
+<p class="normal">Delivered in open court in Luxembourg on 2 October 2019.</p>
+<div class="signaturecaserow">
+<div class="signatory2left">
+<p class="normal">A. Calot Escobar</p>
+<p class="normal">Registrar</p>
+</div>
+<div class="signatory2right">
+<p class="normal">J.-C. Bonichot</p>
+<p class="normal">President of the First Chamber</p>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0093_EN_01-E0001" id="t-ECR_62018CJ0093_EN_01-E0001">*1</a>
+</span>)	Language of the case: English.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

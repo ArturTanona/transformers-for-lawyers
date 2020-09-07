@@ -1,0 +1,1113 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+<p class="coj-sum-title-1">23 April 2020 (<span class="coj-note">
+<a href="#t-ECR_62018CJ0401_EN_01-E0001" id="c-ECR_62018CJ0401_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Common system of value added tax (VAT) — Directive 2006/112/EC — Article 2(1)(b) — Intra-Community acquisition of goods — Article 20 — Acquisition of the right to dispose of goods as owner — Chain of transactions for the purchase and resale of goods with a single intra-Community transport — Right to take decisions capable of affecting the legal situation of property — Transaction to which the transport should be ascribed — Transport under an excise duty suspension arrangement — Temporal effect of judgments by way of interpretation)</p>
+<p class="coj-normal">In Case C‑401/18,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Krajský soud v Praze (Regional Court, Prague, Czech Republic), made by decision of 6 June 2018, received at the Court on 18 June 2018, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">Herst s.r.o.</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Odvolací finanční ředitelství</span>
+</p>
+<p class="coj-normal">THE COURT (Fourth Chamber),</p>
+<p class="coj-normal">composed of M. Vilaras, President of the Chamber, S. Rodin, D. Šváby, K. Jürimäe (Rapporteur) and N. Piçarra, Judges,</p>
+<p class="coj-normal">Advocate General: J. Kokott,</p>
+<p class="coj-normal">Registrar: A. Calot Escobar,</p>
+<p class="coj-normal">having regard to the written procedure,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Herst s.r.o., by J. Balada, advokát,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Odvolací finanční ředitelství, by T. Rozehnal, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Czech Government, by M. Smolek, J. Vláčil and O. Serdula, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by M. Salyková and L. Lozano Palacios, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">after hearing the Opinion of the Advocate General at the sitting on 3 October 2019,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling primarily concerns the interpretation of Article 20 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 347, p. 1</a>; ‘the VAT Directive’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between Herst s.r.o. and the Odvolací finanční ředitelství (Appellate Tax Directorate, Czech Republic; ‘the Tax Directorate’) concerning the deduction by Herst of value added tax (VAT) in respect of purchases of fuel transported by that company under an excise duty suspension arrangement from certain Member States to the Czech Republic.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">EU law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 2(1)(a) and (b) of the VAT Directive provides as follows:</p>
+<p class="coj-normal">‘The following transactions shall be subject to VAT:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the supply of goods for consideration within the territory of a Member State by a taxable person acting as such;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the intra-Community acquisition of goods for consideration within the territory of a Member State by:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(i)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">a taxable person acting as such, or a non-taxable legal person, where the vendor is a taxable person acting as such who is not eligible for the exemption for small enterprises provided for in Articles 282 to 292 and who is not covered by Articles 33 or 36;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As set out in Article 14(1) of that directive:</p>
+<p class="coj-normal">‘“Supply of goods” shall mean the transfer of the right to dispose of tangible property as owner.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The first paragraph of Article 20 of that directive is worded as follows:</p>
+<p class="coj-normal">‘“Intra-Community acquisition of goods” shall mean the acquisition of the right to dispose as owner of movable tangible property dispatched or transported to the person acquiring the goods, by or on behalf of the vendor or the person acquiring the goods, in a Member State other than that in which dispatch or transport of the goods began.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 138(1) of that directive states:</p>
+<p class="coj-normal">‘Member States shall exempt the supply of goods dispatched or transported to a destination outside their respective territory but within the Community, by or on behalf of the vendor or the person acquiring the goods, for another taxable person, or for a non-taxable legal person acting as such in a Member State other than that in which dispatch or transport of the goods began.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Czech law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As set out in Paragraph 2(1)(a) of Zákon č. 235/2004 Sb., o dani z přidané hodnoty (Law No 235/2004 on value added tax), in the version in force at the material time in the main proceedings:</p>
+<p class="coj-normal">‘The supply of goods for consideration by a taxable person as part of an economic activity where the place of performance is situated within the national territory shall be subject to tax.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Paragraph 13(1) of that law provides:</p>
+<p class="coj-normal">‘For the purposes of this law, “supply of goods” shall mean the transfer of the right to dispose of the goods as owner.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Paragraph 72(1)(a) of that law provides:</p>
+<p class="coj-normal">‘Persons liable for payment of VAT shall be entitled to a deduction of input VAT for supplies acquired which they use in connection with their economic activities for the purposes of carrying out taxable supplies of goods or services where the place of supply is the national territory.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Herst is a company established in the Czech Republic which operates in the road transport sector. It also owns a number of fuel filling stations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Following an inspection, the Czech tax authorities found that, during the periods from November 2010 to May 2013 and from July to August 2013, Herst had, using its own means and at its own expense, transported fuel from a number of Member States, namely Austria, Germany, Slovakia and Slovenia, to the Czech Republic.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In transporting that fuel, Herst acted not only as carrier, but also as final purchaser, at the end of a chain of successive purchase and resale transactions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is apparent from the information provided by the referring court that the fuel was initially purchased by an economic operator which is established and subject to VAT in the Czech Republic, and that Herst transported the fuel from the Member States cited in paragraph 11 of the present judgment to the Czech Republic. In each case, Herst carried out a single transport of fuel under an excise duty suspension arrangement, during the course of which the fuel was successively resold to other economic operators established in the Czech Republic. Herst was not paid to transport the fuel, but benefited from a mark-up representing the difference between the purchase price and sale price of the fuel.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In addition, on the basis of a sale agreement between Herst and that economic operator, it was settled at the outset that Herst would be the legal owner of the fuel only once it was released for free circulation in the Czech Republic.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Herst claimed to the Czech tax authorities that the acquisitions of fuel which it effected in the Czech Republic were internal acquisitions. The tax authorities, however, took the view that they were intra-Community acquisitions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to the tax authorities, where there is a chain of transactions connected with a single intra-Community transport, that transport cannot be ascribed to one single transaction.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Accordingly, the tax authorities took the view that the place of the acquisitions effected by Herst was not the Czech Republic, but the Member States where the fuel was located when it was loaded by Herst in order to be transported, using its own means and at its own expense, to the Czech Republic for the purposes of its own economic activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By way of several additional payment demands, the Czech tax authorities refused Herst the right to deduct VAT from the acquisitions and imposed a penalty on Herst.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Herst brought an appeal against the additional payment demands before the Tax Directorate, claiming that the place where the fuel was acquired was the Czech Republic since the fuel had been transported under an excise duty suspension arrangement and the goods were released for free circulation only after they were transported.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Tax Directorate, by its first decision, cancelled the additional payment demands relating to the period from July to August 2013 on the ground that Herst had submitted invoices showing that the other economic operators to which the fuel had been successively resold had acted as transport organisers. By its second decision, the Tax Directorate confirmed the additional payment demands relating to the period from February 2011 to February 2013. By a third decision, the Tax Directorate amended the additional payment demands relating to the periods from November 2010 to January 2011 and from March to May 2013. Herst received a tax adjustment in the sum of 145381137 Czech koruny (CZK) (approximately EUR 5664520) and a fine of CZK 30476215 (approximately EUR 1187450).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Herst brought an action against the Tax Directorate’s second and third decisions before the referring court, the Krajský soud v Praze (Regional Court, Prague, Czech Republic).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Before the referring court, Herst submits that each transport of fuel at issue in the main proceedings was made up of two separate transports. The first was an international transport between the Member State concerned and the Czech Republic during which Herst acted only as carrier. The second was a national transport after the fuel was released for free circulation in the Czech Republic, when Herst acquired the right freely to dispose of the goods.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court considers that, in the case before it, it is necessary to carry out an overall assessment of all of the circumstances of the case in order to identify which of the supplies at issue meets all of the conditions required for there to be an intra-Community supply. For a transaction to be classified as a ‘supply of goods’ within the meaning of Article 14(1) of the VAT Directive, the transaction must have had the effect of entitling a person to dispose, as owner, of the goods which are the subject of the transaction.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the situation at issue in the main proceedings, the referring court points out that the reason for the participation of other economic operators in such a complex chain of purchase and resale transactions was, besides economic considerations, the fact that Herst was not authorised to operate a tax warehouse or to receive goods under an excise duty suspension arrangement. That is why Herst needed to use an intermediary which operates such a warehouse, so that the intermediary could acquire the fuel in question in order to pay the excise duty and ensure that it was released for free circulation in the Czech Republic. The Tax Directorate submits that the involvement of a number of economic operators in the chain is evidence of VAT evasion.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court takes the view that, even if Herst had control over the fuel in question while it was being transported, it did not have the right to dispose of it as owner, within the meaning of the Court’s case-law, before the moment when, after it was transferred, the fuel was released for free circulation in the Czech Republic. Until that time, Herst could not supply the fuel to any person other than the person designated as the recipient in the accompanying documents.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of those considerations, the referring court, while acknowledging the significant factual similarities between the present case and that which gave rise to the judgment of 19 December 2018, AREX CZ (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑414/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1027</a>), is nevertheless uncertain as to the moment at which, in the case pending before it, Herst acquired the right to dispose of the fuel ‘as owner’ within the meaning of the Court’s case-law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In particular, the referring court takes the view that, in the case in the main proceedings, only the economic operators to which the fuel was successively resold while it was being transported acquired the right of disposal. Herst, however, even though it had physical possession of the fuel while it was being transported, was not legally entitled to dispose of it. In that regard, Herst was required to comply with the instructions of the intermediary economic operators in the chain of purchase and resale transactions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court considers, in essence, that there is doubt as to whether the fact that goods are transported under an excise duty suspension arrangement — in accordance with Council Directive 2008/118/EC of 16 December 2008 concerning the general arrangements for excise duty and repealing Directive 92/12/EEC (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:009:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2009 L 9, p. 12</a>) — affects the conditions governing the transfer of the right to dispose of the goods as owner, provided for by the VAT Directive. In that regard, the referring court points out that, where there is doubt as to the interpretation of a provision of national tax law in a dispute between the authorities and an individual, the case-law of the Ústavní soud České republiky (Constitutional Court, Czech Republic) has identified a constitutional principle under national law pursuant to which any doubt should be resolved in favour of the individual (the principle of ‘<span class="coj-italic">in dubio mitius</span>’). In the present case, the referring court considers that, at the time of the facts in the main proceedings, the decisive legislation for the purposes of resolving the dispute before it cannot be described as clear, either at the level of national law or EU law, so that it is uncertain whether, if the interpretation adopted by the Court in this judgment is unfavourable to the taxpayer, the referring court must comply with it, regardless of the constitutional principle under national law. The referring court also wonders whether, in the light of that principle, the effects of the Court’s judgment should not be limited to legal situations which arise after it has been delivered.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the Krajský soud v Praze (Regional Court, Prague) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Must any taxable person be regarded as a taxable person within the meaning of Article 138(2)(b) of [the VAT Directive]? If not, to which taxable persons does that provision apply?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If the Court’s answer is that Article 138(2)(b) of the VAT Directive applies to a situation such as that in the main proceedings (that is, the acquirer of the products is a taxable person registered for tax), must that provision be interpreted as meaning that, where the dispatch or transport of those products takes place in accordance with the relevant provisions of [Directive 2008/118], a supply connected with a procedure under [Directive 2008/118] must be regarded as a supply entitled to exemption under that provision, even though the conditions for exemption under Article 138(1) of the VAT Directive are not otherwise satisfied, having regard to the assignment of the transport of goods to another transaction?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(3)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If the Court’s answer is that Article 138(2)(b) of the VAT Directive does not apply to a situation such as that in the main proceedings, is the fact that the goods are transported under an excise duty suspension arrangement decisive for deciding the question of which of several successive supplies a transport is to be ascribed to for the purposes of the right to exemption from VAT under Article 138(1) of the VAT Directive?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(4)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Is “the right to dispose of the goods as owner” within the meaning of the VAT Directive acquired by a taxable person who buys goods from another taxable person directly for a specific customer in order to fulfil an already existing order (identifying the type of goods, the quantity, place of origin and time of delivery) where he or she does not physically handle the goods him or herself since, in the context of concluding the contract of sale, his or her buyer agrees to arrange transport of the goods from their point of origin, so that he or she will only provide access to the requested goods via his or her suppliers and communicate the information necessary for acceptance of the goods (on his or her own behalf or on behalf of his or her sub-suppliers in the chain), and his or her profit from the transaction is the difference between the buying-in price and the selling price of such goods without the cost of transporting the goods being invoiced in the chain?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(5)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Does [Directive 2008/118] establish (for example, in Article 4(1), Article 17 or Article 19), either directly or indirectly through a limit on the effective handling of such goods, sufficient conditions for the transfer of the “right to dispose of the goods (that are subject to excise duty) as the owner” within the meaning of the VAT Directive, with the result that the taking over of the goods under an excise duty suspension arrangement by an authorised warehousekeeper or registered consignee should be treated as a supply of goods for VAT purposes?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(6)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In this context, when considering the determination of a supply which is linked to transport within a chain of supply of goods under an excise duty suspension arrangement with a single transport, is it necessary to regard a transport in the sense of the VAT Directive as commencing and closing in accordance with Article 20 of [Directive 2008/118]?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(7)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Does the principle of VAT neutrality or any other principle of EU law prevent application of the constitutional principle of <span class="coj-italic">in dubio mitius</span> in national law, which obliges public authorities, where legal rules are ambiguous and objectively offer a number of possible interpretations, to choose the interpretation that benefits the person subject to the legal rule (here the taxable person for VAT)? Would the application of this principle be compatible with EU law at least if it were limited to situations where the relevant facts of the case preceded a binding interpretation of a disputed legal question by the Court, which has determined that another interpretation less favourable to the taxable entity is correct?</p>
+<p class="coj-normal">If it is possible to apply the principle of <span class="coj-italic">in dubio mitius</span>:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(8)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Was it possible, in terms of the limits set by EU law at the time when the taxable transactions took place in this case (November 2010 to May 2013), to consider the question whether the legal concept of supply of goods or transport of goods has (or does not have) the same content both for the purposes of the VAT Directive and for the purposes of [Directive 2008/118] objectively as legally uncertain and offering two interpretations?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Procedure before the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By letter of 21 December 2018, the Court sent the referring court the judgment of 19 December 2018, AREX CZ (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑414/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1027</a>) and asked whether, in the light of that judgment, it wished to maintain its request for a preliminary ruling and, if so, whether it intended to maintain all of the questions referred.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its response of 11 January 2019, the referring court stated that it was maintaining its request for a preliminary ruling, but that it was no longer seeking a response to the first, second, third, fifth and sixth questions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Accordingly, it is necessary to respond only to the fourth, seventh and eighth questions.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The fourth question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its fourth question, the referring court wishes to know, in essence, whether Article 20 of the VAT Directive is to be interpreted as meaning that a taxable person which carries out an intra-Community transport of goods under an excise duty suspension arrangement with the intention of purchasing those goods for the purposes of its economic activity once they have been released for free circulation in the Member State of destination acquires the right to dispose of the goods as owner, within the meaning of that provision, even though, while they were being transported, the goods were successively resold to other economic operators.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As a preliminary observation, it should be noted that the intra-Community acquisition of goods, within the meaning of Article 20 of the VAT Directive, is effected when the right to dispose of the goods as owner has been transferred to the purchaser, when the supplier establishes that those goods have been dispatched or transported to another Member State and when, as a result of that dispatch or that transport, they have physically left the territory of the Member State of origin (see, to that effect, judgments of 27 September 2007, Teleos and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A548&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑409/04</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A548" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2007:548</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A548" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A548" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">42</a>, and of 19 December 2018, AREX CZ, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑414/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1027</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">61</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The aim of the national court in referring questions to the Court is to determine whether the first of those conditions is met in the present case, namely whether the right to dispose of goods as owner has been transferred to a taxable person such as Herst, which transports the goods under an excise duty suspension arrangement from one Member State to another, without being the owner of the goods at that stage, with the intention of purchasing the goods once they have been released for free circulation in the Member State of destination.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First, it should be noted that, according to the Court’s case-law, the transfer of the right to dispose of goods as owner is not restricted to the transfer in accordance with the procedures prescribed by the applicable national law, but covers any transfer of tangible property by one party which empowers the other party actually to dispose of it as if he or she were its owner (see, to that effect, judgments of 3 June 2010, De Fruytier, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A316&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑237/09</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A316" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:316</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A316" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a> and the case-law cited, and of 19 December 2018, AREX CZ, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑414/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1027</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">75</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As the Advocate General stated, in essence, in point 36 of her Opinion, the transfer of ownership under national law does not necessarily coincide with the transfer of the right to dispose of property as owner.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Second, it should be noted that a transfer of the right to dispose of tangible property as owner does not require that the party to whom the property is transferred must physically possess it or that it must be physically transported to and/or received by that party (order of 15 July 2015, Itales, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A511&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑123/14</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A511" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:511</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A511" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a>, and judgment of 19 December 2018, AREX CZ, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑414/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1027</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">75</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, a transaction for the transport of fuel, that is to say, the transportation of those goods from one Member State to another, cannot be considered as decisive for the purposes of determining whether the right to dispose of goods as owner has been transferred without there being any other circumstances which lead to the presumption that such a transfer took place on the date of the transport (see, to that effect, judgment of 19 December 2018, AREX CZ, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑414/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1027</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">78</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Moreover, the existence of a transfer of the right to dispose of tangible property as owner means that the party to whom the right is transferred has the right to take decisions which are capable of affecting the legal situation of the property concerned, including, inter alia, the decision to sell it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That is the case in a situation such as that in the main proceedings, in which, both before and while it was transported, the fuel was purchased and then resold by different economic operators which acted as owners.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On that basis, having regard to the facts of the case in the main proceedings as set out in the request for a preliminary ruling, it is not inconceivable that the referring court found that, in the case before it, a number of successive transfers of the right to dispose of those goods as owner took place.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, in order to give the referring court a response that is helpful for the purposes of resolving the dispute in the main proceedings, it is necessary to add that, according to the Court’s case-law concerning the interpretation of Article 138(1) of the VAT Directive, as regards transactions which form a chain of a number of successive supplies which gave rise to only a single intra-Community transport, the intra-Community transport can be ascribed to only one of the supplies, which, therefore, will alone be exempt under that provision, and that, in order to determine to which of the supplies the intra-Community transport must be ascribed, an overall assessment of all the circumstances of the individual case must be made. That case-law also applies to the assessment of transactions which, like those at issue in the main proceedings, form a chain of successive purchase and resale transactions in respect of goods subject to excise duty which gave rise to only a single intra-Community transport (see, to that effect, judgment of 19 December 2018, AREX CZ, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑414/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1027</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">70</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">71</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As part of that overall assessment, it is necessary to determine, in particular, when the transfer to the final purchaser of the right to dispose of the goods as owner occurred. In the present case, if the transfer took place before the intra-Community transport, that transfer must be considered as a circumstance capable of causing that acquisition to be classified as an intra-Community acquisition (see, to that effect, judgment of 19 December 2018, AREX CZ, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑414/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1027</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">70</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">72</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, if the referring court were to find that a number of transfers of the right to dispose of the fuel in question occurred in favour of various intermediary operators in the chain of purchase and resale transactions while the fuel was being transported, applying the case-law of the Court recalled in the preceding paragraph would not enable the referring court to determine to which acquisitions in the chain the single transport of the fuel is to be ascribed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That case-law is based on a temporal criterion in accordance with which it is necessary to assess whether a transfer of the right to dispose of property as owner occurred before it was transported in order to determine to which of the acquisitions in the chain in question the single intra-Community transport is to be ascribed and which must, therefore, be classified as the intra-Community acquisition. In the present case, application of that temporal criterion could enable the referring court to determine whether the transport of fuel in question should be ascribed to the acquisition effected by the first economic operator in the chain of purchase and resale transactions before the single intra-Community transport of that fuel took place. The criteria will not apply, however, if successive transfers of the right to dispose of property as owner took place while the fuel was being transported.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, to determine to which of the acquisitions at issue in the main proceedings the single intra-Community transport should be ascribed and which must, therefore, be classified as the intra-Community acquisition, it is for the referring court, in accordance with the case-law recalled in paragraph 43 of the present judgment, to carry out an overall assessment of all of the particular circumstances of the case in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As the Czech Republic submits in its written observations, the referring court will be able to take into account as part of its overall assessment the fact that Herst initiated the intra-Community transport at issue in the main proceedings for the purposes of carrying out its own economic activity, namely to purchase the fuel once it was released for free circulation in the Czech Republic and then resell it to its own customers, benefiting from a mark-up representing the difference between the purchase price and sale price of the fuel.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As is apparent from the order for reference, Herst itself initiated the transport of the fuel by paying an advance invoice to the first economic operator in the chain of purchase and resale transactions before loading the fuel at the premises situated in the Member States of origin, transported the fuel using its own vehicles and did not invoice the cost of transporting it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the context of that overall assessment, the fact that the transport of fuel in question was carried out under an excise duty suspension arrangement is not, however, a decisive factor in determining to which of the acquisitions that transport must be ascribed (see, by analogy, judgment of 19 December 2018, AREX CZ, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑414/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1027</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">73</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of all the foregoing considerations, the answer to the fourth question is:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 20 of the VAT Directive must be interpreted as meaning that a taxable person which carries out a single intra-Community transport of goods under an excise duty suspension arrangement with the intention of purchasing those goods for the purposes of its economic activity once they have been released for free circulation in the Member State of destination acquires the right to dispose of the goods as owner, within the meaning of that provision, provided that it has the right to take decisions which are capable of affecting the legal situation of the goods, including, inter alia, the decision to sell them;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the fact that that taxable person had, at the outset, the intention to purchase those goods for the purposes of its economic activity once they have been released for free circulation in the Member State of destination is a circumstance which must be taken into account by the national court in its overall assessment of all of the particular circumstances of the case before it in order to determine to which of the successive acquisitions the intra-Community transport is to be ascribed.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The seventh question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its seventh question, the referring court asks, in essence, whether EU law precludes a national court that is confronted with a provision of national tax law, which has transposed a provision of the VAT Directive and is open to several interpretations, from adopting the interpretation that is most favourable to the taxable person, by relying on the constitutional principle of <span class="coj-italic">in dubio mitius</span> under national law, even after the Court has held that such an interpretation is incompatible with EU law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, the referring court states, in essence, that Czech law is ambiguous as to the effect of the rules concerning the treatment of goods subject to excise duty on the determination of when the right to dispose of such goods as owner is transferred. According to the referring court, the Czech legislation which transposed the VAT Directive into national law leads taxable persons reasonably to assume that the fact that goods are transported to another Member State under an excise duty suspension arrangement affects the conditions which govern the transfer of the right to dispose of those goods as owner.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be recalled that, according to the Court’s settled case-law, the interpretation which, in the exercise of the jurisdiction conferred on it by Article 267 TFEU, the Court gives to a rule of EU law clarifies and defines the meaning and scope of that rule as it must be, or ought to have been, understood and applied from the date of its entry into force. It follows that the rule as thus interpreted may, and must, be applied by the courts even to legal relationships which arose and were established before the judgment ruling on the request for interpretation, provided that in other respects the conditions for bringing a dispute relating to the application of that rule before the courts having jurisdiction are satisfied (judgments of 19 October 1995, Richardson, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1995%3A342&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑137/94</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1995%3A342" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1995:342</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1995%3A342" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>, and of 13 December 2018, Hein, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1018&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑385/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1018" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1018</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1018" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the question of whether EU law precludes the application of a constitutional principle under national law pursuant to which where, in a dispute between the authorities and an individual, there is doubt as to the interpretation of a provision of national tax law which transposed a provision of EU law, the authorities are to adopt the interpretation that is most favourable to the taxable person, it should be pointed out that the application of that principle, as contemplated by the referring court, would in practice have the effect of limiting the temporal effects of the interpretation given by the Court of the EU law which has been transposed by the provisions of national law since, as a result of that application, such an interpretation would not be applicable in the main proceedings (see, by analogy, judgments of 19 April 2016, DI, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A278&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑441/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A278" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:278</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A278" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>, and of 13 December 2018, Hein, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1018&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑385/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1018" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1018</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1018" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">61</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be noted that it is only quite exceptionally that the Court may, in application of the general principle of legal certainty inherent in the EU legal order, be moved to restrict, for any person concerned, the opportunity of relying on a provision which it has interpreted with a view to calling into question legal relationships established in good faith. Two essential criteria must be fulfilled before such a limitation can be imposed, namely that those concerned acted in good faith and that there is a risk of serious difficulties (judgment of 13 December 2018, Hein, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1018&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑385/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1018" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1018</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1018" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">57</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Court has already held that restricting the temporal effects of such an interpretation may be allowed only in the actual judgment ruling upon the interpretation requested. That principle guarantees the equal treatment of the Member States and of other persons subject to EU law, under that law, fulfilling, at the same time, the requirements arising from the principle of legal certainty (see, to that effect, judgments of 6 March 2007, Meilicke and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A132&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑292/04</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A132" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2007:132</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A132" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>, and of 23 October 2012, Nelson and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A657&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑581/10 and C‑629/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A657" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:657</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A657" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">91</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, the Court has already held, in paragraph 76 of the judgment of 19 December 2018, AREX CZ (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑414/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1027" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1027</a>), that although Directive 2008/118 lays down, inter alia, requirements applicable to the transport of goods under an excise duty suspension arrangement, it in no way affects the conditions for the transfer of the right to dispose of those goods as owner, which is provided for by the VAT Directive. In that judgment, the Court did not restrict the temporal effects of its interpretation of the VAT Directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that, in the present case, in applying national law, the referring court is required to take into consideration the whole body of rules of national law and to apply methods of interpretation that are recognised by those rules in order to interpret it, so far as possible, in the light of the wording and the purpose of the VAT Directive, as interpreted by the Court, in order to achieve the result sought by the directive and, consequently, to comply with the third paragraph of Article 288 TFEU (see, to that effect, judgment of 19 April 2016, DI, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A278&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑441/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A278" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:278</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A278" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows from the above considerations that the response to the seventh question is that EU law precludes a national court that is confronted with a provision of national tax law, which has transposed a provision of the VAT Directive and is open to several interpretations, from adopting the interpretation that is most favourable to the taxable person by relying on the constitutional principle of <span class="coj-italic">in dubio mitius</span> under national law, even after the Court has held that such an interpretation is incompatible with EU law.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The eighth question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In view of the answer to the seventh question, there is no need to reply to the eighth question.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Fourth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 20 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that a taxable person which carries out a single intra-Community transport of goods under an excise duty suspension arrangement, with the intention of purchasing those goods for the purposes of its economic activity once they have been released for free circulation in the Member State of destination, acquires the right to dispose of the goods as owner, within the meaning of that provision, provided that it has the right to take decisions which are capable of affecting the legal situation of the goods, including, inter alia, the decision to sell them;</span>
+<br/>
+<br/>
+<span class="coj-bold">The fact that that taxable person had, at the outset, the intention to purchase those goods for the purposes of its economic activity once they have been released for free circulation in the Member State of destination is a circumstance which must be taken into account by the national court in its overall assessment of all of the particular circumstances of the case before it in order to determine to which of the successive acquisitions the intra-Community transport is to be ascribed.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">EU law precludes a national court that is confronted with a provision of national tax law, which has transposed a provision of Directive 2006/112 and is open to several interpretations, from adopting the interpretation that is most favourable to the taxable person by relying on the constitutional principle of <span class="coj-italic">in dubio mitius</span> under national law, even after the Court has held that such an interpretation is incompatible with EU law.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62018CJ0401_EN_01-E0001" id="t-ECR_62018CJ0401_EN_01-E0001">*1</a>
+</span>)	Language of the case: Czech.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

@@ -1,0 +1,1018 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>ARRÊT DE LA COUR (deuxième chambre)</p>
+<p class="sum-title-1">23 avril 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0640_FR_01-E0001" id="c-ECR_62018CJ0640_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Directive 78/660/CEE – Comptes annuels de certaines formes de sociétés – Principe de l’image fidèle – Acquisition d’une immobilisation financière par une société anonyme – Inscription en charge au compte de résultat d’un escompte lié à une dette à plus d’un an, non productive d’intérêts, et inscription du prix d’acquisition de l’immobilisation à l’actif du bilan, sous déduction de l’escompte »</p>
+<p class="normal">Dans l’affaire C‑640/18,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par la cour d’appel de Mons (Belgique), par décision du 21 septembre 2018, parvenue à la Cour le 12 octobre 2018, dans la procédure</p>
+<p class="normal">
+<span class="bold">Wagram Invest SA</span>
+</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">État belge,</span>
+</p>
+<p class="normal">LA COUR (deuxième chambre),</p>
+<p class="normal">composée de M. A. Arabadjiev (rapporteur), président de chambre, MM. P. G. Xuereb et T. von Danwitz, juges,</p>
+<p class="normal">avocat général : M. G. Pitruzzella,</p>
+<p class="normal">greffier : M. M. Aleksejev, chef d’unité,</p>
+<p class="normal">vu la procédure écrite et à la suite de l’audience du 18 septembre 2019,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour Wagram Invest SA, par M<span class="super">es</span> B. Paquot et J. Terfve, avocats,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement belge, par M<span class="super">me</span> C. Pochet, ainsi que par MM. J.-C. Halleux et P. Cottin, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement allemand, initialement par MM. J. Möller, U. Bartl, M. Hellmann et T. Henze, puis par MM. J. Möller, U. Bartl et M. Hellmann, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement autrichien, par M<span class="super">me</span> J. Schmoll et M. G. Hesse, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M. H. Støvlbæk, ainsi que par M<span class="super">mes</span> N. Gossement et C. Perrin, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">ayant entendu l’avocat général en ses conclusions à l’audience du 27 novembre 2019,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation de la quatrième directive 78/660/CEE du Conseil, du 25 juillet 1978, fondée sur l’article [44, paragraphe 2, sous g), CE] et concernant les comptes annuels de certaines formes de sociétés (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1978:222:TOC" hreflang="fr" onclick="target='CourtTab';">JO 1978, L 222, p. 11</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant Wagram Invest SA à l’État belge, au sujet de l’impôt des sociétés dû par cette société pour les exercices d’imposition 2000 et 2001.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit de l’Union</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Le troisième considérant de la directive 78/660 énonce :</p>
+<p class="normal">« considérant qu’il est [...] nécessaire que soient établies dans la Communauté des conditions juridiques équivalentes minimales quant à l’étendue des renseignements financiers à porter à la connaissance du public par des sociétés concurrentes ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 2 de cette directive :</p>
+<p class="normal">« [...]</p>
+<p class="normal">3.   Les comptes annuels doivent donner une image fidèle du patrimoine, de la situation financière ainsi que des résultats de la société.</p>
+<p class="normal">4.   Lorsque l’application de la présente directive ne suffit pas pour donner l’image fidèle visée au paragraphe 3, des informations complémentaires doivent être fournies.</p>
+<p class="normal">5.   Si, dans des cas exceptionnels, l’application d’une disposition de la présente directive se révèle contraire à l’obligation prévue au paragraphe 3, il y a lieu de déroger à la disposition en cause afin qu’une image fidèle au sens du paragraphe 3 soit donnée. Une telle dérogation doit être mentionnée dans l’annexe et dûment motivée, avec indication de son influence sur le patrimoine, la situation financière et les résultats. Les États membres peuvent préciser les cas exceptionnels et fixer le régime dérogatoire correspondant.</p>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 31, paragraphe 1, de ladite directive dispose :</p>
+<p class="normal">« Les États membres assurent que l’évaluation des postes figurant dans les comptes annuels se fait suivant les principes généraux suivants :</p>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c)</p>
+</td>
+<td valign="top">
+<p class="normal">le principe de prudence doit en tout cas être observé et notamment :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">aa)</p>
+</td>
+<td valign="top">
+<p class="normal">seuls les bénéfices réalisés à la date de clôture du bilan peuvent y être inscrits ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">bb)</p>
+</td>
+<td valign="top">
+<p class="normal">il doit être tenu compte de tous les risques prévisibles et pertes éventuelles qui ont pris naissance au cours de l’exercice ou d’un exercice antérieur, même si ces risques ou pertes ne sont connus qu’entre la date de clôture du bilan et la date à laquelle il est établi ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">cc)</p>
+</td>
+<td valign="top">
+<p class="normal">il doit être tenu compte des dépréciations, que l’exercice se solde par une perte ou par un bénéfice ;</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">d)</p>
+</td>
+<td valign="top">
+<p class="normal">il doit être tenu compte des charges et produits afférents à l’exercice auquel les comptes se rapportent, sans considération de la date de paiement ou d’encaissement de ces charges ou produits ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">e)</p>
+</td>
+<td valign="top">
+<p class="normal">les éléments des postes de l’actif et du passif doivent être évalués séparément ;</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 32 de la même directive :</p>
+<p class="normal">« L’évaluation des postes figurant dans les comptes annuels se fait selon les dispositions des articles 34 à 42, fondées sur le principe du prix d’acquisition ou du coût de revient. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 35 de la directive 78/660 prévoit :</p>
+<p class="normal">« 1.   </p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">Les éléments de l’actif immobilisé doivent être évalués au prix d’acquisition ou au coût de revient sans préjudice des lettres b) et c).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">Le prix d’acquisition ou le coût de revient des éléments de l’actif immobilisé dont l’utilisation est limitée dans le temps doit être diminué des corrections de valeur calculées de manière à amortir systématiquement la valeur de ces éléments pendant leur durée d’utilisation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c)</p>
+</td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">aa)</p>
+</td>
+<td valign="top">
+<p class="normal">Les immobilisations financières peuvent faire l’objet de corrections de valeur afin de donner à ces éléments la valeur inférieure qui est à leur attribuer à la date de clôture du bilan.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">bb)</p>
+</td>
+<td valign="top">
+<p class="normal">Que leur utilisation soit ou non limitée dans le temps, les éléments de l’actif immobilisé doivent faire l’objet de corrections de valeur afin de donner à ces éléments la valeur inférieure qui est à leur attribuer à la date de clôture du bilan, si l’on prévoit que la dépréciation sera durable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">cc)</p>
+</td>
+<td valign="top">
+<p class="normal">Les corrections de valeur visées sous aa) et bb) doivent être portées au compte de profits et pertes et indiquées séparément dans l’annexe si elles ne sont pas indiquées séparément dans le compte de profits et pertes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">dd)</p>
+</td>
+<td valign="top">
+<p class="normal">L’évaluation à la valeur inférieure visée sous aa) et bb) ne peut pas être maintenue lorsque les raisons qui ont motivé les corrections de valeur ont cessé d’exister.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">d)</p>
+</td>
+<td valign="top">
+<p class="normal">Si les éléments de l’actif immobilisé font l’objet de corrections de valeur exceptionnelles pour la seule application de la législation fiscale, il y a lieu d’indiquer dans l’annexe le montant dûment motivé de ces corrections.</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   Le prix d’acquisition s’obtient en ajoutant les frais accessoires au prix d’achat.</p>
+<p class="normal">3.   </p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">Le coût de revient s’obtient en ajoutant au prix d’acquisition des matières premières et consommables les coûts directement imputables au produit considéré.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">Une fraction raisonnable des coûts qui ne sont qu’indirectement imputables au produit considéré peut être ajoutée au coût de revient dans la mesure où ces coûts concernent la période de fabrication.</p>
+</td>
+</tr>
+</table>
+<p class="normal">4.   L’inclusion dans le coût de revient des intérêts sur les capitaux empruntés pour financer la fabrication d’immobilisations est permise dans la mesure où ces intérêts concernent la période de fabrication. Dans ce cas, leur inscription à l’actif doit être signalée dans l’annexe. »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit belge</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 24 de l’arrêté royal du 30 janvier 2001, portant exécution du code des sociétés (<span class="italic">Moniteur belge</span> du 6 février 2001, p. 3008, ci-après l’« arrêté royal du 30 janvier 2001 »), dispose :</p>
+<p class="normal">« Les comptes annuels doivent donner une image fidèle du patrimoine, de la situation financière ainsi que du résultat de la société.</p>
+<p class="normal">Si l’application des dispositions du présent titre ne suffit pas pour satisfaire à ce prescrit, des informations complémentaires doivent être fournies dans l’annexe. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 29, premier alinéa, de cet arrêté royal, figurant au chapitre II, de ce dernier, intitulé « Règles d’évaluation », prévoit :</p>
+<p class="normal">« Dans le cas exceptionnel où l’application des règles d’évaluation prévues au présent chapitre ne conduirait pas au respect du prescrit de l’article 24, [premier alinéa], il y a lieu d’y déroger par application dudit article. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 35 dudit arrêté royal prévoit :</p>
+<p class="normal">« Sans préjudice de l’application des articles 29, 57, 67, 69, 71, 73 et 77, les éléments de l’actif sont évalués à leur valeur d’acquisition et sont portés au bilan pour cette même valeur, déduction faites des amortissements et réductions de valeurs y afférents.</p>
+<p class="normal">Par valeur d’acquisition, il faut entendre, soit le prix d’acquisition défini à l’article 36, soit le coût de revient défini à l’article 37 soit la valeur d’apport définie à l’article 39. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 67, paragraphe 2, de l’arrêté royal du 30 janvier 2001 :</p>
+<p class="normal">« L’inscription au bilan des créances à leur valeur nominale s’accompagne de l’inscription en comptes de régularisation du passif et de la prise en résultats prorata temporis sur la base des intérêts composés :</p>
+<p class="normal">[...]</p>
+<p class="normal">c) de l’escompte de créances qui ne sont pas productives d’intérêt ou qui sont assorties d’un intérêt anormalement faible, lorsque ces créances :</p>
+<p class="normal">1° sont remboursables à une date éloignée de plus d’un an, à compter de leur entrée dans le patrimoine de la société, et</p>
+<p class="normal">2° sont afférentes soit à des montants actés en tant que produits au compte de résultats, soit au prix de cession d’immobilisations ou de branches d’activités.</p>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">En vertu de l’article 77 de cet arrêté royal, l’article 67 de celui-ci est d’application analogue aux dettes de nature et de durée correspondantes.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Par une convention du 10 janvier 1997, Wagram Invest, qui a son siège social en Belgique et qui était dénommée, à l’époque des faits en cause au principal, SCRL HDB de promotion et de gestion, a acquis de son gérant des actions d’IENA SA pour un prix de 24000000 francs belges (BEF) (594944,45 euros), payable en 16 semestrialités de 1500000 BEF (37184,02 euros), sans intérêts, la dernière semestrialité étant due le 10 juillet 2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Par une seconde convention, du 10 mars 1999, Wagram Invest a acquis de son gérant d’autres actions d’IENA pour un prix de 31760400 BEF (787319,75 euros), payable en 12 semestrialités de 2646700 BEF (65609,97 euros), sans intérêts.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Le prix ayant servi de base à ces deux conventions de cession des actions d’IENA correspond au prix payé par les actionnaires de cette société lorsqu’ils avaient souscrit à l’augmentation de capital, peu de temps auparavant.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Afin de comptabiliser lesdites opérations d’achat d’actions, Wagram Invest a passé les écritures comptables suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">inscription au passif de son bilan de la dette à l’égard du gérant parmi les dettes à plus d’un an, pour sa valeur nominale, soit 24000000 BEF (594944,45 euros) et 31760400 BEF (787319,75 euros) ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">inscription à l’actif des 2005 actions acquises le 10 janvier 1997 à une valeur actualisée de 18233827 BEF (452004,76 euros) et de 1993 actions acquises le 10 mars 1999 à une valeur actualisée de 25871302 BEF (641332,82 euros) ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">inscription en compte de régularisation (compte 4901) de l’escompte consistant en la différence entre la valeur nominale de la dette et la valeur actualisée de l’immobilisation, soit 5766173 BEF (142939,69 euros) et 5889098 BEF (145986,93 euros), et</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">inscription en charges financières, à la clôture de chaque exercice, d’un prorata de charges à reporter correspondant à l’escompte de la dette.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">À la clôture de l’exercice fiscal 2000, Wagram Invest a comptabilisé un prorata de charges de 1970339 BEF (48843,42 euros), soit 1000506 BEF (24801,89 euros) pour les actions acquises au cours de l’année 1997 et 969833 BEF (24041,53 euros) pour celles acquises pendant l’année 1999.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">À la clôture de l’exercice fiscal 2001, Wagram Invest a comptabilisé un prorata de charges de 2676318 BEF (66344,19 euros), soit 843090 BEF (20899,65 euros), pour les actions acquises au cours de l’année 1997 et 1833228 BEF (45444,53 euros) pour celles acquises pendant l’année 1999.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Le taux d’escompte retenu pour l’actualisation était celui du marché applicable à de telles dettes au moment de leur entrée dans le patrimoine, soit 8 %.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">À la suite d’un contrôle, l’administration fiscale belge a estimé devoir rejeter les charges d’escompte comptabilisées et déduites pour les exercices d’imposition 2000 et 2001 et, malgré le désaccord de Wagram Invest, lui a adressé une décision de taxation le 28 octobre 2002.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Sur cette base, l’administration fiscale a mis à la charge de Wagram Invest deux cotisations supplémentaires à l’impôt des sociétés pour les exercices 2000 et 2001, respectivement les 20 et 18 novembre 2002.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">La réclamation introduite par Wagram Invest le 18 février 2003 n’ayant pas donné lieu à une décision du directeur de cette administration dans le délai applicable de six mois, cette société a saisi le tribunal de première instance de Namur (Belgique) d’un recours le 10 mars 2005.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Par un jugement du 20 décembre 2007, cette juridiction a déclaré la demande d’annulation de la décision de l’administration fiscale non fondée et a confirmé le bien-fondé des cotisations supplémentaires d’impôt contestées.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Wagram Invest a interjeté appel de ce jugement devant la cour d’appel de Liège (Belgique), laquelle, dans un arrêt du 14 octobre 2011, a confirmé le jugement rendu en première instance.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Wagram Invest s’est pourvue en cassation le 2 juillet 2014. La Cour de cassation (Belgique) a, par un arrêt du 11 mars 2016, cassé cet arrêt de la cour d’appel de Liège et a renvoyé l’affaire devant la cour d’appel de Mons (Belgique).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Si cette dernière juridiction admet que la méthode de comptabilisation utilisée par Wagram Invest est conforme aux dispositions du droit belge, en particulier à l’article 77 de l’arrêté royal du 30 janvier 2001, elle se demande si une telle méthode est conforme à l’article 2, paragraphes 3 à 5, de la directive 78/660, lu en combinaison avec l’article 32 de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, la cour d’appel de Mons a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« 1)</p>
+</td>
+<td valign="top">
+<p class="normal">La notion d’image fidèle visée à l’article 2, [paragraphe 3, de la directive 78/660] autorise-t-elle, lors de l’achat d’une immobilisation financière par une société anonyme, l’inscription en charge au compte de résultat d’un escompte lié à une dette à plus d’un an, non productive d’intérêts, et l’inscription du prix d’acquisition de l’immobilisation à l’actif du bilan sous déduction dudit escompte, compte tenu des principes d’évaluation figurant à l’article 32 de la directive précitée ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2)</p>
+</td>
+<td valign="top">
+<p class="normal">Faut-il interpréter la formule “dans des cas exceptionnels” qui conditionne l’application de l’article 2, [paragraphe 5, de la directive 78/660] et qui permet d’écarter l’application d’une (autre) disposition de ladite directive en un sens tel que cette disposition ne peut s’appliquer que pour autant qu’il soit constaté que le respect du principe d’image fidèle ne peut être atteint par le respect des dispositions de cette directive, le cas échéant, complété par une mention complémentaire dans les annexes conformément à l’article 2, [paragraphe 4,] de ladite directive ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3)</p>
+</td>
+<td valign="top">
+<p class="normal">Faut-il appliquer en priorité l’article 2, [paragraphe 4, de la directive 78/660] de sorte que ce n’est que si une mention complémentaire ne permet pas d’assurer l’application effective du principe d’image fidèle consacré par l’article 2, [paragraphe 3,] de ladite directive qu’il peut être fait application de la faculté d’écarter l’application d’une disposition de cette directive instaurée par l’article 2, [paragraphe 5], de celle-ci, et ce uniquement dans des cas exceptionnels ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">À titre liminaire, il convient de relever que le litige au principal est de nature fiscale. Or, la directive 78/660 , dont l’interprétation est sollicitée en l’occurrence, n’a pas pour objet de fixer les conditions dans lesquelles les comptes annuels des sociétés peuvent ou doivent servir de base pour la détermination, par les autorités fiscales des États membres, de l’assiette et du montant de taxes, telles que l’impôt des sociétés en cause au principal (voir, en ce sens, arrêt du 3 octobre 2013, GIMLE, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑322/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:632</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Toutefois, la Cour a reconnu que les comptes annuels peuvent être utilisés comme base de référence par les États membres à des fins fiscales, ce qui est le cas dans le droit belge (voir, en ce sens, arrêts du 3 octobre 2013, GIMLE, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑322/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:632</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>, ainsi que du 15 juin 2017, Immo Chiaradia et Docteur De Bruyne, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A465&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑444/16 et C‑445/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A465&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:465</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A465&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la première question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa première question, la juridiction de renvoi demande, en substance, si, en cas d’acquisition, par une société anonyme, d’une immobilisation financière pour laquelle le paiement du prix est prévu de manière échelonnée à long terme, sans intérêts, dans des conditions s’apparentant à celles d’un prêt, le principe de l’image fidèle énoncé à l’article 2, paragraphe 3, de la directive 78/660 doit être interprété en ce sens qu’il s’oppose à l’utilisation d’une méthode de comptabilisation qui prévoit l’inscription en charge, au compte de résultat, d’un escompte lié à la dette à plus d’un an, non productive d’intérêts, relative à cette acquisition, et l’inscription du prix d’acquisition de cette immobilisation à l’actif du bilan, sous déduction dudit escompte.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">À titre liminaire, il convient de souligner que la directive 78/660, selon son troisième considérant, ne vise qu’à établir des conditions minimales quant à l’étendue des renseignements financiers à porter à la connaissance du public (arrêt du 3 octobre 2013, GIMLE, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑322/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:632</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Le respect du principe de l’image fidèle constitue l’objectif primordial de la directive 78/660. Selon ce principe, figurant à l’article 2, paragraphe 3, de cette directive, les comptes annuels doivent donner une image fidèle du patrimoine, de la situation financière ainsi que des résultats de la société (voir, en ce sens, arrêt du 3 octobre 2013, GIMLE, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑322/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:632</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point30" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">30</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, la Cour a jugé que ledit principe exige, d’une part, que les comptes reflètent les activités et les opérations qu’ils sont censés décrire et, d’autre part, que les informations comptables soient données dans la forme jugée la plus valable et la mieux adaptée pour satisfaire les besoins d’informations des tiers, sans porter préjudice aux intérêts de la société concernée (arrêt du 14 septembre 1999, DE + ES Bauunternehmung, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1999%3A406&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑275/97</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1999%3A406&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:1999:406</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1999%3A406&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">La Cour a précisé, par ailleurs, que l’application du principe de l’image fidèle doit être guidée, dans la mesure du possible, par les principes généraux figurant à l’article 31 de la directive 78/660, au sein desquels le principe de prudence, énoncé à l’article 31, paragraphe 1, sous c), de cette directive, revêt une importance particulière (arrêt du 3 octobre 2013, GIMLE, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑322/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:632</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point32" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">32</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">En vertu des dispositions de l’article 31, paragraphe 1, sous c), de la directive 78/660, la prise en compte de l’ensemble des éléments – bénéfices réalisés, charges, produits, risques et pertes – qui sont réellement afférents à l’exercice concerné permet d’assurer le respect du principe de l’image fidèle (arrêt du 3 octobre 2013, GIMLE, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑322/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:632</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">33</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Par ailleurs, le principe de l’image fidèle doit également être compris à la lumière du principe énoncé à l’article 32 de la directive 78/660, en vertu duquel l’évaluation des postes figurant dans les comptes annuels se fonde sur le principe du prix d’acquisition ou du coût de revient (voir, en ce sens, arrêt du 3 octobre 2013, GIMLE, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑322/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:632</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">En vertu de cet article, l’image fidèle que doivent donner les comptes annuels d’une société se fonde sur une évaluation des actifs non pas sur la base de leur valeur réelle, mais sur celle de leur coût historique (arrêt du 3 octobre 2013, GIMLE, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑322/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:632</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A632&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point35" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, lorsqu’un contrat d’acquisition d’une immobilisation financière prévoit le paiement du prix de manière échelonnée à long terme, sans intérêts, le législateur belge a considéré l’opération d’acquisition, qui est formellement unique, comme une opération constituée, en réalité, de deux éléments, à savoir, d’une part, l’acquisition proprement dite de l’immobilisation financière et, d’autre part, une opération de prêt implicite.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces circonstances, la valeur nominale du prix payé pour l’acquisition de l’immobilisation financière, qui correspond au coût historique de cette immobilisation, comprend, en réalité, deux éléments, à savoir, d’une part, la valeur actualisée du prix d’acquisition de l’immobilisation, correspondant au prix d’achat apuré des intérêts implicites du prêt, et, d’autre part, un montant correspondant à ces intérêts implicites.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, la méthode de comptabilisation en cause au principal, prévoyant, d’une part, l’inscription à l’actif de la valeur actualisée du prix payé pour l’immobilisation financière, à savoir la valeur nominale apurée des intérêts implicites, et, d’autre part, l’inscription en compte de régularisation d’un escompte représentant les intérêts implicites, dont le montant correspond à la différence entre la valeur nominale de la dette contractée pour l’acquisition de l’immobilisation et la valeur actualisée de cette dette, offre une image fidèle des deux éléments de cette opération.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi que le souligne la Commission européenne, cette méthode de comptabilisation, lorsqu’elle est appliquée dans des conditions normales de marché, fait prévaloir la substance de la transaction sur la forme de celle-ci, en donnant lieu à une prise en compte de la valeur de l’actif immobilisé respectant le principe de l’image fidèle, sur la base d’une évaluation qui tient compte de l’ensemble des facteurs pertinents, notamment, en l’occurrence, des charges financières, même si de telles charges, étant implicites, ne ressortent pas formellement de la valeur nominale du prix d’acquisition de l’élément d’actif concerné.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard à l’ensemble des considérations qui précèdent, il convient de répondre à la première question que, dans le cas d’une opération d’acquisition par une société anonyme d’une immobilisation financière, pour laquelle le paiement du prix est prévu de manière échelonnée à long terme, sans intérêts, dans des conditions s’apparentant à celles d’un prêt, le principe de l’image fidèle énoncé à l’article 2, paragraphe 3, de la directive 78/660 doit être interprété en ce sens qu’il ne s’oppose pas à l’utilisation d’une méthode de comptabilisation qui prévoit l’inscription en charge au compte de résultat d’un escompte, au taux du marché, lié à la dette à plus d’un an, non productive d’intérêts, relative à cette acquisition, et l’inscription du prix d’acquisition de cette immobilisation à l’actif du bilan, sous déduction dudit escompte.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur les deuxième et troisième questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Compte tenu de la réponse apportée à la première question, il n’y a pas lieu de répondre aux deuxième et troisième questions.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (deuxième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Dans le cas d’une opération d’acquisition par une société anonyme d’une immobilisation financière, pour laquelle le paiement du prix est prévu de manière échelonnée à long terme, sans intérêts, dans des conditions s’apparentant à celles d’un prêt, le principe de l’image fidèle énoncé à l’article 2, paragraphe 3, de la directive 78/660/CEE du Conseil, du 25 juillet 1978, fondée sur l’article [44, paragraphe 2, sous g), CE], et concernant les comptes annuels de certaines formes de sociétés, doit être interprété en ce sens qu’il ne s’oppose pas à l’utilisation d’une méthode de comptabilisation qui prévoit l’inscription en charge au compte de résultat d’un escompte, au taux du marché, lié à la dette à plus d’un an, non productive d’intérêts, relative à cette acquisition, et l’inscription du prix d’acquisition de cette immobilisation à l’actif du bilan sous déduction dudit escompte.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<div class="signaturecaserow">
+<div class="signatory3left">
+<p class="normal">Arabadjiev</p>
+</div>
+<div class="signatorycenter">
+<p class="normal">Xuereb</p>
+</div>
+<div class="signatory3right">
+<p class="normal">von Danwitz</p>
+</div>
+</div>
+<p class="normal">Ainsi prononcé en audience publique à Luxembourg, le 23 avril 2020.</p>
+<div class="signaturecaserow">
+<div class="signatory2left">
+<p class="normal">Le greffier</p>
+<p class="normal">A. Calot Escobar</p>
+</div>
+<div class="signatory2right">
+<p class="normal">Le président de la II<span class="super">ème</span> chambre</p>
+<p class="normal">A. Arabadjiev</p>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0640_FR_01-E0001" id="t-ECR_62018CJ0640_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : le français.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

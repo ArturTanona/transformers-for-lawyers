@@ -1,0 +1,1315 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="sum-title-1">7 November 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0068_EN_01-E0001" id="c-ECR_62018CJ0068_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Taxation of energy products and electricity — Directive 2003/96/EC — Article 21(3) — No chargeable event giving rise to taxation — Consumption of energy products on a site that produces such products — Article 2(3) — Obligation to obtain a classification for energy products in order to determine the level of excise duty — Tax rate applicable to those products — Principle of proportionality)</p>
+<p class="normal">In Case C‑68/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Curtea de Apel București (Court of Appeal, Bucharest, Romania), made by decision of 21 December 2017, received at the Court on 2 February 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">SC Petrotel-Lukoil SA</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Agenţia Naţională de Administrare Fiscală — Direcţia Generală de Administrare a Marilor Contribuabili,</span>
+</p>
+<p class="normal">
+<span class="bold">Agenţia Naţională de Administrare Fiscală — Direcţia Generală de Soluţionare a Contestaţiilor,</span>
+</p>
+<p class="normal">THE COURT (Fifth Chamber),</p>
+<p class="normal">composed of E. Regan (Rapporteur), President of the Chamber, I. Jarukaitis, E. Juhász, M. Ilešič and C. Lycourgos, Judges,</p>
+<p class="normal">Advocate General: M. Szpunar,</p>
+<p class="normal">Registrar: R. Șereș, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 10 January 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">SC Petrotel-Lukoil SA, by D.‑D. Dascălu and A.M. Iordache, avocats,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Romanian Government, by C.‑R. Canţăr and by R.I. Haţieganu and L. Liţu, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by A. Armenia and C. Perrin, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 16 May 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 2(3) and Article 21(3) of Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2003:283:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2003 L 283, p. 51</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request was made in the context of a dispute between, on the one hand, SC Petrotel-Lukoil SA (‘PLK’) and, on the other, the Agenţia Naţională de Administrare Fiscală — Direcţia Generală de Administrare a Marilor Contribuabili (National Agency for Tax Administration — Directorate-General for large-scale taxpayers, Romania) and the Agenţia Naţională de Administrare Fiscală — Direcţia Generală de Soluţionare a Contestaţiilor (National Agency for Tax Administration — Directorate-General for the settlement of complaints, Romania), regarding a tax adjustment concerning, inter alia, taxation in respect of excise duty on energy products consumed within PLK facilities.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">EU law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Recitals 2 to 7, 9, 11, 12 and 24 of Directive 2003/96 state:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(2)</p>
+</td>
+<td valign="top">
+<p class="normal">The absence of Community provisions imposing a minimum rate of taxation on electricity and energy products other than mineral oils may adversely affect the proper functioning of the internal market.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">The proper functioning of the internal market and the achievement of the objectives of other Community policies require minimum levels of taxation to be laid down at Community level for most energy products, including electricity, natural gas and coal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">Appreciable differences in the national levels of energy taxation applied by Member States could prove detrimental to the proper functioning of the internal market.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(5)</p>
+</td>
+<td valign="top">
+<p class="normal">The establishment of appropriate Community minimum levels of taxation may enable existing differences in the national levels of taxation to be reduced.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(6)</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with Article 6 of the [EC] Treaty, environmental protection requirements must be integrated into the definition and implementation of other Community policies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(7)</p>
+</td>
+<td valign="top">
+<p class="normal">As a party to the United Nations Framework Convention on Climate Change, the Community has ratified the Kyoto Protocol. The taxation of energy products and, where appropriate, electricity is one of the instruments available for achieving the Kyoto Protocol objectives.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(9)</p>
+</td>
+<td valign="top">
+<p class="normal">Member States should be given the flexibility necessary to define and implement policies appropriate to their national circumstances.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(11)</p>
+</td>
+<td valign="top">
+<p class="normal">Fiscal arrangements made in connection with the implementation of this Community framework for the taxation of energy products and electricity are a matter for each Member State to decide. In this regard, Member States might decide not to increase the overall tax burden if they consider that the implementation of such a principle of tax neutrality could contribute to the restructuring and the modernisation of their tax systems by encouraging behaviour conducive to greater protection of the environment and increased labour use.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(12)</p>
+</td>
+<td valign="top">
+<p class="normal">Energy prices are key elements of Community energy, transport and environment policies.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(24)</p>
+</td>
+<td valign="top">
+<p class="normal">Member States should be permitted to apply certain other exemptions or reduced levels of taxation where that will not be detrimental to the proper functioning of the internal market and will not result in distortions of competition.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 2(1) to (3) of that directive provides as follows:</p>
+<p class="normal">‘1.   For the purposes of this Directive, the term “energy products” shall apply to products:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">falling within CN codes 2701, 2702 and 2704 to 2715;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">2.   This Directive shall also apply to:</p>
+<p class="normal">Electricity falling within CN code 2716.</p>
+<p class="normal">3.   When intended for use, offered for sale or used as motor fuel or heating fuel, energy products other than those for which a level of taxation is specified in this Directive shall be taxed according to use, at the rate for the equivalent heating fuel or motor fuel.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 14(1) of that directive provides:</p>
+<p class="normal">‘In addition to the general provisions set out in [Council Directive 92/12/EEC of 25 February 1992 on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1992:076:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1992 L 76, p. 1</a>), as amended by Council Directive 2000/47/EC of 20 July 2000 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2000:193:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2000 L 193, p. 73</a>)] on exempt uses of taxable products, and without prejudice to other Community provisions, Member States shall exempt the following from taxation under conditions which they shall lay down for the purpose of ensuring the correct and straightforward application of such exemptions and of preventing any evasion, avoidance or abuse:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">energy products and electricity used to produce electricity and electricity used to maintain the ability to produce electricity. However, Member States may, for reasons of environmental policy, subject these products to taxation without having to respect the minimum levels of taxation laid down in this directive. In such case, the taxation of these products shall not be taken into account for the purpose of satisfying the minimum level of taxation on electricity laid down in Article 10;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 21 of the directive states:</p>
+<p class="normal">‘1.   In addition to the general provisions defining the chargeable event and the provisions for payment set out in Directive 92/12/EEC, the amount of taxation on energy products shall also become due on the occurrence of one of the chargeable events mentioned in Article 2(3).</p>
+<p class="normal">…</p>
+<p class="normal">3.   The consumption of energy products within the curtilage of an establishment producing energy products shall not be considered as a chargeable event giving rise to taxation, if the consumption consists of energy products produced within the curtilage of the establishment. Member States may also consider the consumption of electricity and other energy products not produced within the curtilage of such an establishment and the consumption of energy products and electricity within the curtilage of an establishment producing fuels to be used for generation of electricity as not giving rise to a chargeable event. Where the consumption is for purposes not related to the production of energy products and in particular for the propulsion of vehicles, this shall be considered a chargeable event, giving rise to taxation.</p>
+<p class="normal">…</p>
+<p class="normal">5.   For the purposes of applying Articles 5 and 6 of Directive 92/12/EEC, electricity and natural gas shall be subject to taxation and shall become chargeable at the time of supply by the distributor or redistributor. …</p>
+<p class="normal">…</p>
+<p class="normal">An entity producing electricity for its own use is regarded as a distributor. Notwithstanding Article 14(1)(a), Member States may exempt small producers of electricity provided that they tax the energy products used for the production of that electricity.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Romanian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 175 of Legea nr. 571/2003 privind Codul fiscal (Law No 571/2003 on the Tax Code) of 22 December 2003 (<span class="italic">Monitorul Oficial al României</span>, Part I, No 927 of 23 December 2003), in force until 31 March 2010, provided as follows:</p>
+<p class="normal">‘1.   For the purposes of the present title, “energy products” means:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">products falling within CN codes 2701, 2702 and 2704 to 2715;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">3.   Energy products subject to excise duty are:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">gas oil falling within CN codes 27101941 to 27101949;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(g)</p>
+</td>
+<td valign="top">
+<p class="normal">heating oil falling within CN codes 27101961 to 27101969;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">4.   Energy products, other than those provided for in paragraph 3, shall be subject to excise duty if they are intended for use, offered for sale or used as heating fuel or motor fuel. The rate of excise duty shall be determined in accordance with the intended purpose, at the rate for the equivalent heating fuel or motor fuel.</p>
+<p class="normal">…</p>
+<p class="normal">7.   The consumption of energy products within the premises of an establishment where energy products are produced shall not be considered release for consumption when it takes place for purposes connected with production. When that consumption takes place for purposes other than production, and in particular for the propulsion of vehicles, it shall be regarded as release for consumption.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">The implementing rules for that law, as approved by Government Decision No 44/2004, provided, in respect of Article 175 of that law, as follows:</p>
+<p class="normal">‘5.1.   Energy products other than those referred to in Article 175(3) of Law No 571/2003 on the Tax Code, as subsequently amended and supplemented, shall be subject to excise duty when:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the products are manufactured for use as heating fuel or motor fuel;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the products are offered for sale as heating fuel or as motor fuel;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">the products are used as heating fuel or as motor fuel.</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   Any economic operator in one of the situations referred to in paragraph 1 shall be required, before the production, offering for sale or use of energy products, to submit a request to the Ministry of Public Finances — Office for the issue of tax warehouse authorisation for classification of those products for the purposes of excise duty. That request must be accompanied by the test report for the relevant product, issued by a recognised laboratory, by the tariff classification of the product by the National Customs Authority and by the opinion from the Ministry of the Economy and Trade on the equivalence of that product to an equivalent product for which excise duties have been determined.</p>
+<p class="normal">…</p>
+<p class="normal">4.   As regards products covered by any of the situations referred to in Article 175(4), (5) and (6) of Law No 571 of 2003 on the Tax Code, as subsequently amended and supplemented, for which the economic operator has failed to fulfil the obligations referred to in paragraphs 2 and 3, the excise duty payable in the case of motor fuel and additives shall correspond to the tax payable for leaded petrol and, in the case of heating fuel, the excise duty payable is that determined for gas oil.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 206<span class="super">16</span> of Law No 571/2003 on the Tax Code, in the version in force from 1 April 2010:</p>
+<p class="normal">‘1.   For the purposes of this chapter, “energy products” means:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">products falling within CN codes 2701, 2702 and 2704 to 2715;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">3.   Energy products subject to excise duty are:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">gas oil falling within CN codes 27101941 to 27101949;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(g)</p>
+</td>
+<td valign="top">
+<p class="normal">heating oil falling within CN codes 27101961 to 27101969;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">4.   Energy products, other than those provided for in paragraph 3, shall be subject to excise duty if they are intended for use, offered for sale or used as heating fuel or motor fuel. The rate of excise duty shall be determined in accordance with the intended purpose, at the rate for the equivalent heating fuel or motor fuel.</p>
+<p class="normal">…</p>
+<p class="normal">7.   The consumption of energy products within the premises of a place of production of energy products shall not be considered to be a chargeable event giving rise to excise duty, if the consumption consists of energy products produced within the premises of that place of production. When that consumption takes place for purposes other than production, in particular for the propulsion of vehicles, it shall be regarded as a chargeable event giving rise to excise duty.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">In 2011, paragraph [4<span class="super">1</span>] was inserted in Article 206<span class="super">16</span> of Law No 571/2003 on the Tax Code. It provides as follows:</p>
+<p class="normal">‘The energy products provided for in paragraph 3(g) or similar products, if they are intended for use, offered for sale or used as fuel, with the exception of products used as fuel for navigation, shall be subject to the same rate of excise duty as gas oil.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">The implementing provisions for that law are worded as follows, as regards Article 206<span class="super">16</span>:</p>
+<p class="normal">‘78. 1.   …</p>
+<p class="normal">2.   Any product, other than those provided for in Article 206<span class="super">16</span>(3) of the Tax Code, shall be subject to excise duty where:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the product is produced for use as heating fuel or motor fuel;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the product is offered for sale as heating fuel or motor fuel;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">the product is used as heating fuel or motor fuel.</p>
+</td>
+</tr>
+</table>
+<p class="normal">3.   Any economic operator in one of the situations referred to in paragraph 2 shall be required, before the production, offering for sale or use of energy products, to submit a request to the Office [for the issue of tax warehouse authorisation] for classification of those products for the purposes of excise duty. That request must be accompanied by the test report for the relevant product, issued by a recognised laboratory, by the tariff classification of the product by the National Customs Authority and by the opinion from the Ministry of the Economy and Trade on the equivalence of that product to an equivalent product for which excise duties have been determined.</p>
+<p class="normal">…</p>
+<p class="normal">4.   As regards products covered by any of the situations referred to in Article 206<span class="super">16</span>(4), (5) and (6) of the Tax Code, for which the economic operator has failed to fulfil the obligations referred to in paragraph 3, the excise duty payable in the case of motor fuel and additives shall correspond to the tax payable for leaded petrol and, in the case of heating fuel, the excise duty payable is that determined for gas oil.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">PLK manufactures energy products, in particular different types of motor fuel, by virtue of several tax warehouse authorisations, which allow it, under excise duty suspension arrangements, to receive, produce, process, hold and dispatch certain of those products. In the course of its activities, PLK also generates 40/42S heating oil and semi-processed heating oil.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">The transactions carried out by PLK during the period from 1 January 2009 to 31 December 2011 were the subject of a tax inspection.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">It was noted, inter alia, that PLK had consumed 40/42S heating oil and semi-processed heating oil as furnace heating fuel, both for the furnaces of its technological installations and for the boilers of its own combined heat and power plant in order to obtain the steam needed to produce heat and electricity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">The tax inspection authorities also observed that PLK had never requested that the semi-processed heating oil be treated as an equivalent product for the purposes of determining the relevant excise duties.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, a tax notice was issued, on 18 December 2014, for payment of additional excise duty concerning, in particular, the internal consumption of 40/42S heating oil and semi-processed heating oil in the combined heat and power plant of the applicant in the main proceedings. For the purpose of calculating those excise duties, in the absence of a decision to treat the semi-processed heating oil as another energy product, the tax inspection authorities applied the excise duty rate for gas oil.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">PLK’s complaint against that tax notice was rejected on 11 November 2015 by the Directorate-General for the settlement of complaints. In that regard, no account was taken of the fact that, following the tax inspection, by decision of 27 April 2015, the semi-processed heating oil had been treated as heating oil.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">On 5 January 2016, PLK brought an action before the referring court by which it sought annulment of that decision, partial annulment of the tax notice of 18 December 2014 and recognition of its right to a refund of certain sums unduly paid as excise duty.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">According to the referring court, the outcome of the dispute in the main proceedings, which concerns whether or not the tax obligations at issue in the main proceedings exist and, if so, the amount of those obligations, depends on the interpretation of EU law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">First, the dispute in the main proceedings raises a question relating to the interpretation of Article 21(3) of Directive 2003/96, which lays down an exception concerning the chargeable event giving rise to taxation for the consumption of energy products within the premises of an establishment producing energy products when the consumption consists of energy products produced within the premises of that establishment. Secondly, clarification is required concerning the mechanism laid down in Article 2(3) of that directive, relating to the taxation of energy products for which that directive does not lay down any specific rate. In that regard, it is necessary to determine whether the refusal by the tax authority to take into consideration the subsequent decision to treat the semi-processed heating oil as heating oil infringes the principle of proportionality.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Curtea de Apel Bucureşti (Court of Appeal, Bucharest, Romania) decided to stay proceedings and refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Do the provisions of Article 21(3) of [Directive 2003/96] preclude the provisions laid down in Article 175 of [Law No 571/2003 on the Tax Code], in force until 31 March 2010, and Article 206<span class="super">16</span> [of that law], in force as from 1 April 2010, and the rules arising therefrom?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Do the provisions of Article 2(3) of [Directive 2003/96] preclude the provisions laid down in Article 175 of [Law No 571/2003 on the Tax Code], in force until 31 March 2010, and in Article 206<span class="super">16</span> [of that law], in force as from 1 April 2010, and the rules arising therefrom?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">Does the principle of proportionality preclude the State from taking no notice of the fact that the company, following the tax inspection, obtained a decision permitting “semi-processed heating oil” to be treated in the same way as “heating oil” and, at the time of investigation of the complaint of the taxpayer, preclude the excise duty initially calculated for “gas oil” from being maintained?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">By its first question, the referring court seeks, in essence, to ascertain whether Article 21(3) of Directive 2003/96 must be interpreted as precluding national provisions or national practices which provide, in circumstances such as those at issue in the main proceedings, for the taxation of energy products consumed in the combined heat and power plant of the establishment in which those energy products were produced.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be observed that, under the first sentence of Article 21(3) of that directive, the consumption of energy products within the premises of an establishment producing energy products is not to be considered a chargeable event giving rise to taxation, if the energy products consumed were produced within the premises of the establishment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">However, it must be noted that the third sentence of Article 21(3) of that directive specifies that that exception concerning the chargeable event giving rise to taxation cannot apply to the consumption of energy products for purposes not relating to the production of energy products.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, in order to assess whether the consumption, in the combined heat and power plant of an establishment, of energy products produced in that establishment is capable of falling within the scope of the exception laid down in the first sentence of Article 21(3) of Directive 2003/96, it is necessary to focus on the purpose of such consumption (see, to that effect, judgment of 6 June 2018, Koppers Denmark, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A395&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑49/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A395&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:395</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A395&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point32" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">In the first place, it must be noted that the consumption of energy products, in circumstances such as those at issue in the main proceedings, cannot give rise to the application of the exception concerning the chargeable event giving rise to taxation for those energy products used to generate energy which is not itself intended for the production of energy products. That is the case, in particular, as the applicant in the main proceedings acknowledged at the hearing, as regards the use of heat produced in the combined heat and power plant of the applicant’s establishment for the purpose of heating its own premises.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, the consumption of the proportion of energy products intended to produce energy products by generating, within the combined heat and power plant, the thermal energy required for the technological process for producing those products fall within the exception concerning the chargeable event giving rise to taxation, laid down in the first sentence of Article 21(3) of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, as the Advocate General observed in point 23 of his Opinion, it is irrelevant, first, whether the consumption of energy products as heating fuel takes place directly in technological facilities for energy production or in the combined heat and power plant of the establishment for the purpose of generating thermal energy used, subsequently, in the production process and, secondly, whether such energy production takes place by means of generating an intermediate product, such as steam.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">First of all, the wording of the first sentence of Article 21(3) of Directive 2003/96 does not refer to a specific process by virtue of which energy products should have been consumed in the establishment where they were produced in order to be capable of benefiting from the exception concerning the chargeable event giving rise to taxation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Next, the interpretation given in paragraph 28 of the present judgment is confirmed by the general scheme of Article 21(3) of that directive. In particular, it may be inferred from the negative wording of the third sentence of that provision that it seeks merely to preclude the consumption of energy products with no link whatsoever to the production of energy products from benefiting from that exception. It follows that the consumption of energy products cannot, solely on account of its form, be deprived of the benefit of that exception, provided that it contributes to the technological process of producing energy products.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Finally, an interpretation which excludes the consumption of energy products, in circumstances such as those at issue in the main proceedings, from the benefit of Article 21(3) of that directive on the sole ground that that consumption takes place within the combined heat and power plant of the establishment concerned would be contrary to the aims pursued by that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Such an interpretation would undermine the production of thermal energy in cogeneration units in relation to the consumption of energy products as heating fuel directly in technological facilities for the production of energy products. By so doing, that interpretation would be such as to undermine the objective pursued by Directive 2003/96, as set out in recitals 6, 7, 11 and 12 thereof, which seeks to promote environmental policy objectives, since cogeneration offers significant potential for saving primary energy and gives rise to fewer CO<span class="sub">2</span> emissions per unit of output than the separate production of heat and electricity (see, by analogy, judgment of 7 March 2018, Cristal Union, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑31/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:168</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">In the third place, the proportion of energy products consumed in a combined heat and power plant for the purpose of producing electricity does not fall within the exception concerning the chargeable event giving rise to taxation provided for in the first sentence of Article 21(3) of that directive. That finding is, however, without prejudice to the benefit of the exemption provided for in Article 14(1)(a) of that directive for energy products used to produce electricity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with Article 2(2) of Directive 2003/96, electricity is also subject to the harmonised system of taxation established by that directive. It follows, as the Advocate General pointed out in point 30 of his Opinion, that, for the purposes of applying that system in circumstances such as those at issue in the main proceedings, while it is not necessary to take into account the production, in the combined heat and power plant concerned, of the thermal energy required for the technological process of producing energy products, that cannot be the case for the production of electricity in that plant. Accordingly, as regards energy products used for the generation of electricity, it must be held that the purpose of their consumption is the production of that electricity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">It cannot therefore be claimed, as the Commission maintains, that the first sentence of Article 21(3) of that directive also applies to energy products used for the production of electricity and to the electricity thus produced which is used in the process of producing energy products in the establishment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Such an interpretation, which extends the scope of the exception concerning the chargeable event giving rise to tax laid down in that provision, would be such as to undermine the consistency of the taxation rules laid down by that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">First of all, it must be recalled that a provision, such as the first sentence of Article 21(3) of Directive 2003/96, which provides for an exemption from the tax rules laid down in that directive, must be interpreted strictly (see, by analogy, judgment of 5 March 2015, Statoil Fuel &amp; Retail, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A149&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑553/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A149&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:149</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A149&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>). However, it must be noted that the wording of that provision does not explicitly refer to the consumption of electricity produced within the premises of an establishment producing energy products that are used for the purposes of producing such products.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Next, such an interpretation would run counter to the general scheme of that directive. First, the Court has previously held that any entity which produces electricity for its own use, regardless of its size and its main economic activity, must be regarded as a distributor, within the meaning of the third subparagraph of Article 21(5) of that directive (see, to that effect, judgment of 27 June 2018, Turbogás, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑90/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:498</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>). Accordingly, for the purposes of the system of harmonised taxation laid down by that directive, the production of electricity, for its own use, by an establishment such as that at issue in the main proceedings, which therefore falls within the concept of a ‘distributor’ within the meaning of that provision, must not be disregarded.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Secondly, it follows from the second sentence of Article 21(3) of that directive that Member States may consider, inter alia, the consumption of electricity for the production of energy products not to be a chargeable event giving rise to taxation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">An interpretation which would result in electricity produced and used for the purposes of producing energy products, in circumstances such as those at issue in the main proceedings, benefiting automatically from the exception concerning the chargeable event giving rise to taxation laid down in the first sentence of Article 21(3) of that directive would have the effect of rendering such an option ineffective.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Finally, such an interpretation would be likely to undermine the objectives of Directive 2003/96. The Court has previously held that the third subparagraph of Article 21(5) of that directive is intended to close a loophole which would have been likely to arise under the system of harmonised taxation established by that directive, by preventing electricity produced by an entity for its own use from falling outside the scope of the system of harmonised taxation established by that directive (judgment of 27 June 2018, Turbogás, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑90/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:498</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">By preventing unequal treatment between entities which, like the entity in question in the main proceedings, produce the electricity they need and those which are supplied by third parties for the purpose of producing energy products, that directive contributes to the achievement of the objectives of Directive 2003/96, since, by making provision for a system of harmonised taxation of energy products and electricity, it seeks, inter alia, as is apparent from recitals 2 to 5 and 24 of that directive, to promote the proper functioning of the internal market in the energy sector by avoiding, in particular, distortions of competition (judgment of 27 June 2018, Turbogás, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑90/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:498</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">A broad interpretation of the first sentence of Article 21(3) of that Directive, to the effect that the exception concerning the chargeable event giving rise to taxation would apply to electricity produced in an establishment such as that at issue in the main proceedings and used for the production of energy products, would lead to the situation which the EU legislature specifically intended to avoid by means of the third subparagraph of Article 21(5) of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the above considerations that, as regards electricity produced in circumstances such as those at issue in the main proceedings, it is important, in order to preserve the integrity of the harmonised system of taxation established by Directive 2003/96, to apply the provisions of that directive which the EU legislature specifically devoted to electricity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the consumption of energy products in a combined heat and power plant for the purposes of generating electrical energy does not fall within the scope of Article 21(3) of that directive but of the provisions of that directive which relate to the production of electricity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">In particular, as was stated in paragraph 33 of the present judgment, that consumption must, in principle, be covered by the provisions laid down in the first sentence of Article 14(1)(a) of that directive, by virtue of which energy products and electricity used to produce electricity and electricity used to maintain the ability to produce electricity are to be exempt from taxation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be recalled that that provision is binding on Member States, subject to the option afforded them, under the second sentence of Article 14(1)(a) of Directive 2003/96, of derogating from that exemption regime (judgment of 27 June 2018, Turbogás, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑90/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:498</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point41" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a>). It is not evident from the documents before the Court that Romania has exercised that option; that, however, is a matter for the referring court to ascertain.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing, the answer to the first question is that Article 21(3) of Directive 2003/96 must be interpreted as precluding national provisions or national practices which provide for the taxation of energy products consumed in the combined heat and power plant of the establishment in which they were produced, provided that that consumption concerns the production of energy products by generating the thermal energy necessary for the technological process of producing those products. That interpretation does not affect the application, in principle, of Article 14(1)(a) of that directive to the proportion of energy products consumed for the purpose of producing electricity.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The second and third questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">By its second and third questions, which must be examined together, the referring court asks, in essence, whether Article 2(3) of Directive 2003/96 and the principle of proportionality must be interpreted as precluding national provisions or national practices which, in the absence of a request made to the competent tax authorities for the purpose of classification in relation to excise duties for energy products, such as those at issue in the main proceedings, whose level of taxation has not been determined by that directive, provide for the application of the excise duty rate laid down for gas oil and the maintenance of that rate, even though a classification decision was obtained subsequently in which those products were treated in the same way as heating oil.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">It should be noted that both the general scheme and the purpose of that directive are based on the principle that energy products are taxed in accordance with their actual use, taking into account, in particular, the clear distinction between the motor fuels and heating fuels on which that directive is based (see, to that effect, judgments of 2 June 2016, ROZ-ŚWIT, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑418/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:400</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>, and of 13 July 2017, Vakarų Baltijos laivų statykla, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A537&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑151/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A537&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:537</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A537&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point42" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">42</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, Article 2(3) of Directive 2003/96 provides that when intended for use, offered for sale or used as motor fuel or heating fuel, energy products other than those for which a level of taxation is specified in that directive are to be taxed according to use, at the rate for the equivalent heating fuel or motor fuel. It follows from the Court’s case-law that the ‘equivalent heating fuel or motor fuel’, within the meaning of that provision, must be determined, first, according to the use, as heating fuel or motor fuel, to which the product in question is put, before identifying for which of the motor fuels or the heating fuels listed in the relevant table in Annex I to that directive that product is in fact a substitute in terms of use or, failing that, the motor fuel or heating fuel which, by its properties and intended use, is closest to that product (judgment of 3 April 2014, Kronos Titan and Rhein-Ruhr Beschichtungs-Service, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A216&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑43/13 and C‑44/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A216&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:216</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A216&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">In so far as Directive 2003/96 does not specify any particular control mechanism for the actual use of energy products nor measures to combat tax evasion connected with the use of those products, it is for Member States to provide such mechanisms and such measures in their national legislation, in conformity with EU law. In that regard, it follows from recital 9 of that directive that the Member States have discretion in the definition and implementation of policies appropriate to their national circumstances (see, by analogy, judgment of 2 June 2016, ROZ-ŚWIT, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑418/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:400</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">That said, the discretion afforded to the Member States cannot call into question the principle that energy products are taxed according to actual use (see, by analogy, judgment of 13 July 2017, Vakarų Baltijos laivų statykla, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A537&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑151/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A537&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:537</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A537&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point44" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">However, national provisions or national practices, such as those at issue in the main proceedings, which provide, in the absence of a request made to the competent tax authorities for the purpose of classification in relation to excise duties for energy products, for the application to those products of the excise duty rate laid down for gas oil and the maintenance of that rate, are contrary to that principle, since those provisions or practices are liable to subject those products to taxation which does not correspond to their actual use, which is in particular the case when, as in the present case, those products are subsequently treated in the same way as heating oil (see, by analogy, judgment of 2 June 2016, ROZ-ŚWIT, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑418/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:400</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, such automatic application of the excise duty rate laid down for gas oil and the maintenance of that rate in the absence of such a request for classification being made infringes the principle of proportionality.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be recalled that general principles of law, which include the principle of proportionality, form part of the EU legal order. In that regard, they must accordingly be observed not only by the EU institutions but also by Member States in the exercise of the powers conferred on them by EU directives (judgment of 2 June 2016, ROZ-ŚWIT, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑418/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:400</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point20" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">20</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">In its written observations, the Romanian Government submits that the application to energy products of the excise duty rate applied to gas oil and the maintenance of that rate, in the event that the economic operator concerned has not requested classification of those products in relation to excise duties, aim to combat tax avoidance and evasion by preventing such consumption being subject to the rates laid down for heating fuels when the actual use of the energy products as a motor fuel should be subject to taxation at higher rates.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">However, the application to energy products such as those at issue in the main proceedings of the excise duty rate laid down for motor fuels, in the present case gas oil, and the maintenance of such a level of taxation, on account of failure to make a request for classification of those products, although it was previously established that, on account of their use as a heating fuel, they should be treated in the same way as heating oil, goes further than is necessary to prevent tax avoidance and evasion (see, by analogy, judgment of 2 June 2016, ROZ-ŚWIT, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑418/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:400</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A400&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">In that context, it must be borne in mind that, while Member States may provide for a financial penalty to be imposed for non-compliance with formal requirements, such as the requirement to make such a request when the level of taxation of those products has not been determined in Directive 2003/96, an infringement of formal requirements cannot call into question the taxation of products such as those at issue in the main proceedings in accordance with the substantive conditions laid down in Article 2(3) of that directive (see, by analogy, judgment of 27 June 2018, Turbogás, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑90/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:498</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point44" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, as follows from paragraphs 50 and 51 of the present judgment, those substantive conditions, relating to the taxation of such products, cover their actual use as heating fuel or motor fuel and their identification with the heating fuel or motor fuel whose level of taxation is determined in that directive for which they are in fact a substitute in terms of their use or, failing that, the motor fuel or heating fuel which, by its properties and intended use, is closest to that product.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, it must be held that the obligation on the part of economic operators to submit a request for classification of energy products for the purpose of excise duty, such as that in question in the main proceedings, does not fall within the scope of those substantive conditions and is intended merely to allow the tax authorities to check compliance by those operators with those conditions. Accordingly, contrary to what the Romanian Government submits, that obligation is merely formal in nature.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing, the answer to the second and third questions is that Article 2(3) of Directive 2003/96 and the principle of proportionality must be interpreted as precluding national provisions or national practices which, in the absence of a request made to the competent tax authorities for the purpose of classification in relation to excise duties for energy products whose level of taxation has not been determined by that directive, provide for the application of the excise duty rate laid down for gas oil and the maintenance of that rate, even though a classification decision was obtained subsequently in which those products were treated as heating oil.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 21(3) of Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity must be interpreted as precluding national provisions or national practices which provide for the taxation of energy products consumed in the combined heat and power plant of the establishment in which they were produced, provided that that consumption concerns the production of energy products by generating the thermal energy necessary for the technological process of producing those products. That interpretation does not affect the application, in principle, of Article 14(1)(a) of that directive to the proportion of energy products consumed for the purpose of producing electricity.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 2(3) of Directive 2003/96 and the principle of proportionality must be interpreted as precluding national provisions or national practices which, in the absence of a request made to the competent tax authorities for the purpose of classification in relation to excise duties for energy products whose level of taxation has not been determined by that directive, provide for the application of the excise duty rate laid down for gas oil and the maintenance of that rate, even though a classification decision was obtained subsequently in which those products were treated as heating oil.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0068_EN_01-E0001" id="t-ECR_62018CJ0068_EN_01-E0001">*1</a>
+</span>)	Language of the case: Romanian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

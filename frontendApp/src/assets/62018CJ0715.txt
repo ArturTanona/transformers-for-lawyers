@@ -1,0 +1,666 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Eighth Chamber)</p>
+<p class="sum-title-1">19 December 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0715_EN_01-E0001" id="c-ECR_62018CJ0715_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Taxation — Value added tax (VAT) — Directive 2006/112/EC — Article 98 — Option for the Member States to apply a reduced rate of VAT to certain supplies of goods and services — Point 12 of Annex III — Reduced rate of VAT applicable to the letting of places on camping or caravan sites — Question of whether that reduced rate is applicable to the letting of boat moorings in a marina — Comparison with the letting of premises and sites for the parking of vehicles — Equal treatment — Principle of fiscal neutrality)</p>
+<p class="normal">In Case C‑715/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Bundesfinanzhof (Federal Finance Court, Germany), made by decision of 2 August 2018, received at the Court on 15 November 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Segler-Vereinigung Cuxhaven eV</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Finanzamt Cuxhaven,</span>
+</p>
+<p class="normal">THE COURT (Eighth Chamber),</p>
+<p class="normal">composed of L.S. Rossi, President of the Chamber, J. Malenovský (Rapporteur) and F. Biltgen, Judges,</p>
+<p class="normal">Advocate General: M. Szpunar,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the German Government, by S. Eisenberg and J. Möller, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Italian Government, by G. Palmieri, acting as Agent, and F. Urbani Neri, avvocato dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by R. Pethke and N. Gossement, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 98(2) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 347, p. 1</a>; ‘the VAT Directive’), read in conjunction with point 12 of Annex III thereto.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Segler-Vereinigung Cuxhaven eV and Finanzamt Cuxhaven (Tax Office, Cuxhaven, Germany; ‘the Tax Office’) concerning the rate of value added tax (VAT) applicable to the letting of boat moorings.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">EU law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">As provided in Article 2(1)(c) of the VAT Directive, the following transactions are to be subject to VAT:</p>
+<p class="normal">‘the supply of services for consideration within the territory of a Member State by a taxable person acting as such’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 96 of the VAT Directive provides:</p>
+<p class="normal">‘Member States shall apply a standard rate of VAT, which shall be fixed by each Member State as a percentage of the taxable amount and which shall be the same for the supply of goods and for the supply of services.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 98(1) and (2) of the VAT Directive provides:</p>
+<p class="normal">‘1.   Member States may apply either one or two reduced rates.</p>
+<p class="normal">2.   The reduced rates shall apply only to supplies of goods or services in the categories set out in Annex III.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 135(1)(l) of the VAT Directive, the Member States are to exempt inter alia ‘the leasing or letting of immovable property’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 135(2) of the VAT Directive states:</p>
+<p class="normal">‘The following shall be excluded from the exemption provided for in point (l) of paragraph 1:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the provision of accommodation, as defined in the laws of the Member States, in the hotel sector or in sectors with a similar function, including the provision of accommodation in holiday camps or on sites developed for use as camping sites;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the letting of premises and sites for the parking of vehicles;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Annex III to the VAT Directive contains the list of supplies of goods and services to which the reduced rates of VAT referred to in Article 98 of the directive may be applied. Point 12 of that annex covers the following services:</p>
+<p class="normal">‘accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites’.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">German law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 1(1)(1) of the Umsatzsteuergesetz (Law on turnover tax; ‘the UStG’) provides:</p>
+<p class="normal">(1)   The following transactions shall be subject to turnover tax:</p>
+<p class="normal">supplies of goods and services effected for consideration within the territory of the country by a trader in the course of his business. Transactions are not excluded from taxation where they are carried out pursuant to statute or an order of an authority or are deemed to be carried out under a statutory provision’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 4(12)(a) of the UStG states:</p>
+<p class="normal">‘The following transactions covered by Paragraph 1(1)(1) shall be exempt from tax:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">12</p>
+</td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the letting and leasing of immovable property, of rights governed by provisions of civil law relating to immovable property, and of sovereign rights in regard to immovable goods and property.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">There shall be no exemption for the letting of living and sleeping areas which a trader keeps available for the short-term accommodation of visitors, the letting of premises and sites for the parking of vehicles, the short-term letting of places on camping sites and the letting and leasing of equipment and machinery of any kind which are part of an undertaking’s facility … even where they are constituent parts of a property’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with Paragraph 12(1) of the UStG, a standard tax rate of 19% is applied.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Under Paragraph 12(2)(11) of the UStG, turnover tax is reduced to 7% of the taxable amount for the following transactions:</p>
+<p class="normal">‘the letting of living and sleeping areas which a trader keeps available for the short-term accommodation of visitors, and the short-term letting of camping areas. The first sentence shall not apply to supplies of goods and services which are not directly used for the letting, even if they are covered by the rental charge’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3(1) of the Grundgesetz für die Bundesrepublik Deutschland (Basic Law for the Federal Republic of Germany) of 23 May 1949 (BGBl. 1949, p. 1) provides that everyone is to be equal before the law.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">The appellant in the main proceedings is a registered non-profit-making association whose object is to promote the sport of sailing and motorised water sports. It maintains approximately 300 boat moorings, roughly half of which were allocated during 2010 to 2012 (‘the years at issue’) to members of the association. Those members are obliged to tolerate the use of their moorings by guests in their absence. The remaining moorings may be used by guests without restriction.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">In the years at issue, the appellant in the main proceedings applied the reduced rate of VAT to payments received for making the moorings available to guests.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Following an audit carried out in respect of the appellant in the main proceedings, the Tax Office decided to amend the turnover tax assessment notices for the years at issue and applied the standard rate of VAT to those payments.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">The Niedersächsisches Finanzgericht (Finance Court of Lower Saxony, Germany) dismissed the action brought by the appellant in the main proceedings against that decision. According to that court, the short-term provision of boat moorings cannot be classified under the ‘short-term letting of camping areas’, within the meaning of Paragraph 12(2)(11) of the UStG. Such provision falls within the concept of the ‘letting of premises and sites for the parking of vehicles’, referred to in Paragraph 4(12), second sentence, second alternative, of the UStG which is founded on Article 135(2)(b) of the VAT Directive. It stated that the general principle of equality laid down in Article 3(1) of the Basic Law for the Federal Republic of Germany does not preclude that interpretation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">The appellant in the main proceedings appealed on a point of law to the Bundesfinanzhof (Federal Finance Court, Germany) against the judgment of the Niedersächsisches Finanzgericht (Finance Court of Lower Saxony). According to the appellant in the main proceedings, taxation of the letting of boat moorings at the standard rate of VAT infringes the general principle of equality since the provision of places for camper vans and caravans is subject to the reduced rate of VAT. An interpretation in conformity with the principle of equality would, in its submission, result in all forms of short-term accommodation, whatever they may be, being uniformly subject to the reduced rate of VAT. The supplies of services carried out by the appellant in the main proceedings are concentrated on the provision of boat moorings for the purpose of accommodating yachtsmen. Thus, the mooring charge (<span class="italic">Hafengeld</span>) is payable only in the case of overnight stays.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">In that context, the Bundesfinanzhof (Federal Finance Court) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:</p>
+<p class="normal">‘Does the tax rate reduction for the letting of places on camping or caravan sites under Article 98(2) of [the VAT Directive], in conjunction with point 12 of Annex III to that directive, also cover the letting of boat moorings?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">By its question, the referring court asks, in essence, whether Article 98(2) of the VAT Directive, read in conjunction with point 12 of Annex III thereto, must be interpreted as meaning that the reduced rate of VAT, envisaged in that provision, for the letting of places on camping or caravan sites is also applicable to the letting of boat moorings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 96 of the VAT Directive, each Member State is to apply the same standard rate of VAT in respect of the supply of goods and in respect of the supply of services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">By way of derogation, Article 98 of the VAT Directive provides for the possibility of applying reduced rates of VAT. To that end, Annex III to the directive sets out an exhaustive list of the supplies of goods and services to which the reduced rates may be applied (judgment of 9 March 2017, Oxycure Belgium, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A189&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑573/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A189&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:189</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A189&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point21" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">21</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In particular, point 12 of Annex III to the VAT Directive allows the Member States to apply a reduced rate of VAT to ‘accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, the question arises as to whether the letting of boat moorings may, under point 12 of Annex III to the VAT Directive, be treated in the same way as the letting of places on camping or caravan sites.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should, first of all, be pointed out that provisions which are in the nature of exceptions to a principle must be interpreted strictly. Also, the concepts used in Annex III to the VAT Directive must be interpreted in accordance with the usual meaning of the terms at issue (judgment of 10 November 2016, Baštová, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑432/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:855</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point59" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">59</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point60" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">60</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Point 12 of Annex III to the VAT Directive specifies the various supplies of ‘accommodation’ that may be subject to a reduced rate of VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">As is clear from the case-law cited in paragraph 25 of the present judgment, the concept of ‘accommodation’, within the meaning of point 12 of Annex III to the VAT Directive, should be interpreted strictly and the scope of that provision should not be extended to services which are neither included in its wording nor intrinsically linked to that concept.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">The letting of boat moorings, first, is not included in the wording of point 12 of Annex III to the VAT Directive and, second, is not intrinsically linked to the concept of ‘accommodation’, but has the primary purpose of enabling boats to be immobile and secure when moored.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, it is evident that point 12 of Annex III to the VAT Directive is not to be read as permitting a Member State to apply a reduced rate of VAT to the letting of boat moorings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">That interpretation is, moreover, borne out by the objectives pursued by the system of reduced rates of VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is to be pointed out that the EU legislature should be accorded a broad discretion, given that, when it adopts a tax measure, it is called upon to make political, economic and social choices, and to rank divergent interests or to undertake complex assessments (judgment of 7 March 2017, RPO, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A174&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑390/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A174&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:174</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A174&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point54" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">54</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">In that general context, it must be stated that, in establishing Annex III to the VAT Directive, the EU legislature intended that essential commodities, and goods and services serving social or cultural objectives, may be subject to a reduced rate of VAT, provided that they pose little or no risk of distortion to competition (judgment of 4 June 2015, Commission v United Kingdom, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A355&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑161/14</a>, not published, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A355&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:355</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A355&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">More specifically, the conferral upon the Member States, in point 12 of that annex, of the ability to apply a reduced rate of VAT to various forms of accommodation, in particular holiday accommodation, thus responding to an essential need of any person on his or her travels, is such as to facilitate wide access to the services in question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Grant of the ability to apply a reduced rate of VAT to services for the letting of boat moorings would clearly not be justified in the light of such a social objective, since sailing boats and motor boats, such as those at issue in the main proceedings, do not serve, at least principally, as accommodation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Finally, contrary to the doubts expressed by the referring court, the interpretation of point 12 of Annex III to the VAT Directive as resulting from paragraph 29 of the present judgment does not undermine the principle of fiscal neutrality.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">That principle precludes similar goods or services which are in competition with each other being treated differently for VAT purposes (judgment of 27 June 2019, Belgisch Syndicaat van Chiropraxie and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑597/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:544</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point47" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">It is sufficient to state that, as is apparent from paragraph 34 of the present judgment, services for the letting of places on camping or caravan sites, on the one hand, and services for the letting of boat moorings, on the other, perform different functions and, accordingly, are not in competition with each other.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answer to the question referred is that Article 98(2) of the VAT Directive, read in conjunction with point 12 of Annex III thereto, must be interpreted as meaning that the reduced rate of VAT, envisaged in that provision, for the letting of places on camping or caravan sites is not applicable to the letting of boat moorings.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Eighth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 98(2) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, read in conjunction with point 12 of Annex III thereto, must be interpreted as meaning that the reduced rate of value added tax, envisaged in that provision, for the letting of places on camping or caravan sites is not applicable to the letting of boat moorings.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0715_EN_01-E0001" id="t-ECR_62018CJ0715_EN_01-E0001">*1</a>
+</span>)	Language of the case: German.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

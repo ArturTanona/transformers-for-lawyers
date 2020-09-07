@@ -1,0 +1,939 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>ARRÊT DE LA COUR (sixième chambre)</p>
+<p class="coj-sum-title-1">16 juillet 2020 (<span class="coj-note">
+<a href="#t-ECR_62019CJ0686_FR_01-E0001" id="c-ECR_62019CJ0686_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">« Renvoi préjudiciel – Protection des consommateurs – Contrats de crédit aux consommateurs – Directive 2008/48/CE – Notion de “coût total du crédit pour le consommateur” – Frais liés à la prolongation du crédit »</p>
+<p class="coj-normal">Dans l’affaire C‑686/19,</p>
+<p class="coj-normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par l’Augstākā tiesa (Senāts) (Cour suprême, Lettonie), par décision du 12 septembre 2019, parvenue à la Cour le 18 septembre 2019, dans la procédure</p>
+<p class="coj-normal">
+<span class="coj-bold">SIA « Soho Group »</span>
+</p>
+<p class="coj-pnormal">contre</p>
+<p class="coj-normal">
+<span class="coj-bold">Patērētāju tiesību aizsardzības centrs,</span>
+</p>
+<p class="coj-normal">LA COUR (sixième chambre),</p>
+<p class="coj-normal">composée de M. M. Safjan, président de chambre, M. L. Bay Larsen et M<span class="coj-super">me</span> C. Toader (rapporteure), juges,</p>
+<p class="coj-normal">avocat général : M. J. Richard de la Tour,</p>
+<p class="coj-normal">greffier : M. A. Calot Escobar,</p>
+<p class="coj-normal">vu la procédure écrite,</p>
+<p class="coj-normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">pour SIA « Soho Group », par M<span class="coj-super">me</span> I. Šimulīte,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">pour le gouvernement letton, par M<span class="coj-super">mes</span> V. Kalniņa et V. Soņeca, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">pour le gouvernement italien, par M<span class="coj-super">me</span> G. Palmieri, en qualité d’agent, assistée de M. G. Rocchitta, avvocato dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">pour la Commission européenne, par M<span class="coj-super">mes</span> I. Rubene et G. Goddin, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">vu la décision prise, l’avocat général entendu, de juger l’affaire sans conclusions,</p>
+<p class="coj-normal">rend le présent</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La demande de décision préjudicielle porte sur l’interprétation de l’article 3, sous g), de la directive 2008/48/CE du Parlement européen et du Conseil, du 23 avril 2008, concernant les contrats de crédit aux consommateurs et abrogeant la directive 87/102/CEE du Conseil (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:133:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2008, L 133, p. 66</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Cette demande a été présentée dans le cadre d’un litige opposant SIA « Soho Group » au Patērētāju tiesību aizsardzības centrs (Centre de protection des droits des consommateurs, Lettonie) (ci-après le « CPDC ») au sujet de la demande d’annulation de la décision de ce dernier infligeant à Soho Group une amende pour violation des intérêts collectifs des consommateurs.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Le cadre juridique</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Le droit de l’Union</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Les considérants 19, 20, 26, 28 et 43 de la directive 2008/48 se lisent comme suit :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">« (19)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il convient, pour que le consommateur puisse prendre sa décision en pleine connaissance de cause, que celui-ci reçoive, préalablement à la conclusion du contrat de crédit, des informations adéquates qu’il peut emporter et examiner, sur les conditions et le coût du crédit, ainsi que sur ses obligations. Afin d’assurer une transparence aussi complète que possible et pour permettre la comparabilité des offres, ces informations devraient comporter, notamment, le taux annuel effectif global [(TAEG)] afférent au crédit, établi de la même manière dans toute [l’Union européenne]. [...]</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(20)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Le coût total du crédit pour le consommateur devrait inclure tous les coûts, y compris les intérêts, les commissions, les taxes, la rémunération des intermédiaires de crédit et les autres frais éventuels que le consommateur est tenu de payer dans le cadre du contrat de crédit, à l’exception des frais de notaire. [...]</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(26)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Les États membres devraient prendre les mesures appropriées afin de promouvoir les pratiques responsables lors de toutes les phases de la relation de prêt, en tenant compte des caractéristiques particulières de leur marché du crédit. Ces mesures peuvent inclure, par exemple, l’information et l’éducation des consommateurs, y compris des mises en garde sur les risques du défaut de paiement ou du surendettement. Il importe, en particulier sur un marché du crédit en expansion, que les prêteurs ne soient pas amenés à octroyer des prêts de manière irresponsable ou à accorder des crédits sans évaluation préalable de la solvabilité, et que les États membres exercent la surveillance nécessaire afin de prévenir de tels comportements, et définissent les moyens nécessaires pour sanctionner les prêteurs qui en seraient auteurs. Sans préjudice des dispositions en matière de risque de crédit de la directive 2006/48/CE du Parlement européen et du Conseil, du 14 juin 2006, concernant l’accès à l’activité des établissements de crédit et son exercice [(<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:177:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2006, L 177, p. 1</a>)], les prêteurs devraient avoir la responsabilité de vérifier la solvabilité de chaque consommateur cas par cas. [...]</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(28)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Afin d’évaluer la solvabilité d’un consommateur, le prêteur devrait également consulter les bases de données pertinentes. Les circonstances de droit et de fait peuvent nécessiter que ces consultations soient réalisées dans un cadre variable. [...]</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(43)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Afin de promouvoir l’établissement et le fonctionnement du marché intérieur et d’assurer aux consommateurs un niveau élevé de protection dans l’ensemble de [l’Union], il est nécessaire de veiller à ce que les informations relatives aux [TAEG] soient comparables dans toute [l’Union]. [...] La présente directive devrait donc définir clairement et complètement le coût total du crédit pour le consommateur. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Selon son article 1<span class="coj-super">er</span>, la directive 2008/48 a pour objet d’harmoniser certains aspects des règles des États membres en matière de contrats de crédit aux consommateurs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 2, paragraphe 6, de cette directive prévoit que les États membres peuvent décider que seules certaines dispositions de celle-ci s’appliquent aux contrats de crédit prévoyant que les délais de paiement ou les modes de remboursement font l’objet d’un accord entre le prêteur et le consommateur lorsque celui-ci est déjà en situation de défaut de paiement pour le contrat de crédit initial.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Aux termes de l’article 3 de ladite directive :</p>
+<p class="coj-normal">« Aux fins de la présente directive, on entend par :</p>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">g)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“coût total du crédit pour le consommateur” : tous les coûts, y compris les intérêts, les commissions, les taxes, et tous les autres types de frais que le consommateur est tenu de payer pour le contrat de crédit et qui sont connus par le prêteur, à l’exception des frais de notaire ; ces coûts comprennent également les coûts relatifs aux services accessoires liés au contrat de crédit, notamment les primes d’assurance, si, en outre, la conclusion du contrat de service est obligatoire pour l’obtention même du crédit ou en application des clauses et conditions commerciales ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">h)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“montant total dû par le consommateur” : la somme du montant total du crédit et du coût total du crédit pour le consommateur ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">i)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“[TAEG]” : le coût total du crédit pour le consommateur, exprimé en pourcentage annuel du montant total du crédit, en tenant compte, le cas échéant, des frais visés à l’article 19, paragraphe 2 ;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">l)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“montant total du crédit” : le plafond ou le total des sommes rendues disponibles en vertu d’un contrat de crédit ;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 5 de la directive 2008/48, intitulé « Informations précontractuelles », liste, à son paragraphe 1, sous c), g), et i), les informations devant être fournies au consommateur avant que celui-ci ne soit lié par un contrat ou une offre de crédit, lesquelles sont, respectivement, le « montant total du crédit et les conditions de prélèvement », le « [TAEG] et le montant total dû par le consommateur » ainsi que, le cas échéant, « tous autres frais découlant du contrat de crédit et les conditions dans lesquelles ces frais peuvent être modifiés ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 8 de cette directive, intitulé « Obligation d’évaluer la solvabilité du consommateur », prévoit, à son paragraphe 1 :</p>
+<p class="coj-normal">« Les États membres veillent à ce que, avant de conclure le contrat de crédit, le prêteur évalue la solvabilité du consommateur, à partir d’un nombre suffisant d’informations, fournies, le cas échéant, par ce dernier et, si nécessaire, en consultant la base de données appropriée. Les États membres dont la législation prévoit l’évaluation obligatoire par le prêteur de la solvabilité du consommateur sur la base d’une consultation de la base de données appropriée peuvent maintenir cette obligation. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 10 de ladite directive, intitulé « Information à mentionner dans les contrats de crédit », prévoit, à son paragraphe 2, les informations devant être mentionnées de « façon claire et concise ». Parmi ces informations figurent respectivement, aux points d), g), k) et u), « le montant total du crédit et les conditions de prélèvement », « le [TAEG] et le montant total dû par le consommateur, calculés au moment de la conclusion du contrat de crédit ; toutes les hypothèses utilisées pour calculer ce taux sont mentionnées », et, le cas échéant, « tous autres frais découlant du contrat de crédit et les conditions dans lesquelles ces frais peuvent être modifiés », ainsi que « les autres clauses et conditions contractuelles ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 19 de la directive 2008/48, intitulé « Calcul du [TAEG] », dispose, à son paragraphe 2, que, pour effectuer ce calcul, « on détermine le coût total du crédit pour le consommateur, à l’exception des frais dont ce dernier est redevable en cas de non-exécution d’une quelconque de ses obligations figurant dans le contrat de crédit, et des frais, autres que le prix d’achat, lui incombant lors d’un achat de biens ou de services, que celui-ci soit effectué au comptant ou à crédit ».</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Le droit letton</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La notion de « coût total du crédit pour le consommateur », issue de la directive 2008/48, a été reprise par le Ministru kabineta noteikumi Nr. 1219 « Noteikumi par patērētāja kreditēšanu » (décret n<span class="coj-super">o</span> 1219 du conseil des ministres, relatif aux « Règles en matière de crédit aux consommateurs »), du 28 décembre 2010 (<span class="coj-italic">Latvijas Vēstnesis</span>, 2011, n<span class="coj-super">o</span> 2), régissant le calcul du TAEG.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Le Patērētāju tiesību aizsardzības likums (loi sur la protection des droits des consommateurs), dans sa version applicable au litige au principal (ci-après la « loi PDC »), reprend, à son article 1<span class="coj-super">er</span>, paragraphe 9, la définition du « coût total du crédit pour le consommateur », telle qu’elle est libellée dans la directive 2008/48.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 8 de cette loi, intitulé « Prêt à un consommateur », dispose :</p>
+<p class="coj-normal">« [...]</p>
+<p class="coj-normal">(2<span class="coj-super">2</span>)   Le coût du contrat de crédit octroyé à un consommateur est proportionné et conforme aux pratiques commerciales loyales. Le coût total du crédit pour le consommateur est calculé selon les modalités définies dans les dispositions législatives et réglementaires en matière de crédit aux consommateurs.</p>
+<p class="coj-normal">(2<span class="coj-super">3</span>)   Les exigences visées au paragraphe 2<span class="coj-super">2</span> du présent article ne sont pas considérées comme remplies lorsque le coût total du crédit pour le consommateur représente un pourcentage journalier supérieur à 0,55 % du montant du crédit entre le premier et le septième jour (inclus) d’usage du crédit, à 0,25 % du montant du crédit entre le huitième et le quatorzième jour (inclus) d’usage du crédit et à 0,2 % du montant du crédit à compter du quinzième jour d’usage du crédit. Pour les contrats en vertu desquels le crédit doit être remboursé sur demande ou la durée du crédit est supérieure à 30 jours, les exigences visées au paragraphe 2<span class="coj-super">2</span> du présent article ne sont pas considérées comme remplies lorsque le coût total du crédit pour le consommateur représente un pourcentage journalier supérieur à 0,25 % du montant du crédit. Les limitations du coût total du crédit pour le consommateur ne s’appliquent pas aux contrats de crédit aux consommateurs dans lesquels, aux fins de leur conclusion, un bien est remis au prêteur à titre de garantie et en vertu desquels la responsabilité du consommateur est limitée exclusivement au bien donné en garantie.</p>
+<p class="coj-normal">[...] »</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Le litige au principal et les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Soho Group est un établissement de crédit spécialisé dans l’attribution, en ligne, de prêts de faible montant, pour de courtes durées. La pratique commerciale de cette entreprise consiste à fournir aux consommateurs des services de crédit sous forme de prêts d’un montant compris entre 70 et 425 euros, pour une durée qui, ainsi qu’il ressort de la décision de renvoi, peut aller de 30 jours jusqu’à 12 mois.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Lors d’un contrôle sur le site Internet de la société, le CPDC a constaté que Soho Group proposait des contrats de crédit comportant une clause intitulée « Prolongation de la durée du prêt ». En vertu de cette clause, l’emprunteur pourrait demander une prolongation de la durée du prêt en versant, sur le compte courant du prêteur, des frais de prolongation qui dépendent du montant et de la durée du prêt. Après réception du versement, le prêteur enverrait un avis confirmant la prolongation de la durée indiquée dans les conditions particulières du contrat de crédit ou dans l’échéancier de paiement, ou refuserait l’octroi de cette prolongation, sans qu’il soit nécessaire de motiver ce refus.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À l’issue de ce contrôle, le CPDC a conclu que, en ce qui concerne la prolongation de la durée du crédit, Soho Group proposait aux consommateurs des contrats de crédit dont le coût total journalier n’était pas conforme à l’article 8, paragraphe 2<span class="coj-super">3</span>, de la loi PDC. En conséquence, le CPDC a estimé que les coûts du contrat de crédit proposé aux consommateurs par Soho Group n’étaient ni proportionnés ni conformes aux pratiques commerciales loyales, au sens de l’article 8, paragraphe 2<span class="coj-super">2</span>, de cette loi. Pour ce faire, il a considéré que le coût total du crédit incluait les frais de prolongation du crédit au motif que les conditions de prolongation du crédit faisaient partie des clauses et des conditions convenues entre le prêteur et l’emprunteur dans le contrat de crédit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Par décision du 21 février 2017, le CPDC a infligé à Soho Group une amende de 25000 euros.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À la suite du rejet par l’administratīvā rajona tiesa (tribunal administratif de district, Lettonie) du recours formé par Soho Group tendant à l’annulation de cette décision, Soho Group a interjeté appel devant l’Administratīvā apgabaltiesa (Cour administrative régionale, Lettonie), laquelle a, par arrêt du 4 décembre 2018, confirmé la décision de l’administratīvā rajona tiesa (tribunal administratif de district).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dans cet arrêt, l’Administratīvā apgabaltiesa (Cour administrative régionale) a considéré que, si la durée du contrat de crédit en cause au principal était prorogée, les coûts liés à l’utilisation du crédit pendant la période de prolongation devenaient connus et constituaient des coûts de crédit auxquels les limitations prévues par la loi PDC étaient applicables.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Soho Group a formé un pourvoi devant la juridiction de renvoi dans le cadre duquel elle soutient que le paiement des frais de prolongation n’est pas obligatoire pour obtenir le prêt ou pour l’utiliser. D’ailleurs, la prolongation du contrat de crédit ne serait que l’une des trois options possibles lorsque survient l’échéance du prêt. Les deux autres options consisteraient à rembourser le prêt sans paiement supplémentaire ou à ne pas rembourser le prêt, ce qui déclencherait le calcul d’intérêts de retard. Selon Soho Group, la prolongation du crédit n’étant pas connue au moment de la conclusion de ce contrat, c’est-à-dire au moment auquel le coût total du crédit est déterminé et le TAEG est calculé, les frais de cette prolongation ne pourraient pas être inclus dans le coût total du crédit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La juridiction de renvoi fait observer qu’il y a lieu d’établir si le « coût total du crédit pour le consommateur » inclut les frais de prolongation du crédit, dans la mesure où les conditions de son éventuelle prolongation font partie des clauses et des conditions convenues entre le prêteur et l’emprunteur dans le contrat de crédit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À cet égard, la juridiction de renvoi indique, d’une part, que la jurisprudence de la Cour confirme le caractère large de la notion de « coût total du crédit pour le consommateur », au sens de la directive 2008/48 et, d’autre part, que cette jurisprudence reconnaît que le prêteur peut également percevoir des commissions non prévues par cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Toutefois, la juridiction de renvoi éprouve des doutes sur le point de savoir si de tels frais relèvent de ladite notion.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Cette juridiction précise encore que certaines clauses spécifiques du contrat de crédit en cause au principal montreraient que le prêteur considère la prolongation de ce contrat comme une solution acceptable destinée à éviter l’inexécution des obligations contractuelles. Cela ressortirait à la fois du caractère détaillé de ces clauses et du grand nombre de contrats de crédit prolongés dans la pratique.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dans ces conditions, l’Augstākā tiesa (Senāts) (Cour suprême, Lettonie) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">« 1.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La notion de “coût total du crédit pour le consommateur” figurant à l’article 3, sous g), de la directive [2008/48] est-elle une notion autonome du droit de l’Union ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dans une situation telle que celle de [l’affaire au principal], la notion de “coût total du crédit pour le consommateur” figurant à [cette disposition] comprend-elle les frais de prolongation du crédit, dès lors que les conditions de prolongation du crédit font partie des clauses et conditions convenues entre le prêteur et l’emprunteur dans le contrat de crédit ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Sur les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Par ses questions, qu’il convient d’examiner ensemble, la juridiction de renvoi demande, en substance, si la notion de « coût total du crédit pour le consommateur », figurant à l’article 3, sous g), de la directive 2008/48, doit être interprétée en ce sens que cette notion comprend les frais de prolongation du crédit, dans le cas où les conditions de son éventuelle prolongation font partie des clauses et des conditions convenues entre le prêteur et l’emprunteur dans le contrat de crédit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À titre liminaire, il convient de souligner que, conformément à son article 1<span class="coj-super">er</span>, la directive 2008/48 ne vise qu’à harmoniser certains aspects des règles en matière de contrats de crédit aux consommateurs, et qu’elle ne contient pas de règles d’harmonisation sur le report du terme du crédit. Cette directive ne mentionne, à son article 2, paragraphe 6, que les cas de défaut de paiement, ce qui n’est pas en cause dans l’affaire au principal. Par ailleurs, ainsi que l’ensemble des parties au principal l’ont fait valoir, la question du coût maximal admissible du crédit n’est pas réglementée par ladite directive, de sorte que les États membres demeurent compétents pour fixer un tel coût (voir, en ce sens, arrêt du 26 mars 2020, Mikrokasa et Revenue Niestandaryzowany Sekurytyzacyjny Fundusz Inwestycyjny Zamknięty, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A236&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑779/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A236" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:236</a>, points <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A236" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">40</a> et <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A236" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">48</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Selon l’article 3, sous g), de la directive 2008/48, la notion de « coût total du crédit pour le consommateur » inclut « tous les coûts, y compris les intérêts, les commissions, les taxes, et tous les autres types de frais que le consommateur est tenu de payer pour le contrat de crédit et qui sont connus par le prêteur, à l’exception des frais de notaire ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il ressort du libellé de cette disposition que, d’une part, seuls les « frais de notaire » sont explicitement exclus de cette définition. D’autre part, cette définition ne précise pas si les frais qui y sont visés se limitent à ceux qui sont nécessaires à l’obtention du crédit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">En revanche, il ressort de ce libellé que la notion de « coût total du crédit pour le consommateur » comprend « tous les autres types de frais que le consommateur est tenu de payer pour le contrat de crédit et qui sont connus par le prêteur », et que ces frais incluent « également les coûts relatifs aux services accessoires liés au contrat de crédit ». Selon la jurisprudence de la Cour, cette notion désigne tous les coûts que celui-ci est tenu de payer pour le contrat de crédit et qui sont connus du prêteur (arrêts du 21 avril 2016, Radlinger et Radlingerová, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A283&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑377/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A283" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:283</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A283" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">84</a>, ainsi que du 8 décembre 2016, Verein für Konsumenteninformation, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A934&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑127/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A934" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:934</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A934" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>), y compris les commissions que l’emprunteur est tenu de payer au prêteur (voir, en ce sens, arrêt du 12 juillet 2012, SC Volksbank România, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A443&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑602/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A443" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:443</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A443" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">65</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ainsi, afin d’assurer une protection étendue des consommateurs, le législateur de l’Union retient, à l’article 3, sous g), de la directive 2008/48, une définition large de la notion de « coût total du crédit pour le consommateur » (arrêt du 26 mars 2020, Mikrokasa et Revenue Niestandaryzowany Sekurytyzacyjny Fundusz Inwestycyjny Zamknięty, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A236&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑779/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A236" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:236</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A236" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">39</a> ainsi que jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À cet égard, non seulement la définition de la notion de « coût total du crédit pour le consommateur » ne contient aucune limitation relative à la durée du contrat de crédit, mais surtout les frais et leur ventilation au cours de la durée de ce contrat relèvent de ladite notion (voir, en ce sens, arrêt du 11 septembre 2019, Lexitor, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A702&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑383/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A702" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:702</a>, points <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A702" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">23</a> et <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A702" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">31</a> à <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A702" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>). Cela est d’ailleurs confirmé par le considérant 20 de la directive 2008/48, selon lequel la notion de « coût total du crédit pour le consommateur » s’entend « dans le cadre du contrat de crédit ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il en découle que la notion de « coût total du crédit pour le consommateur » vise à la fois les coûts liés à l’obtention du crédit et ceux liés à son utilisation dans le temps.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il convient en outre de préciser que, afin que les frais d’une éventuelle prolongation du contrat de crédit, prévue par ce dernier, remplissent les conditions rappelées au point 30 du présent arrêt et puissent, dès lors, être pris en compte dans le calcul du « coût total du crédit pour le consommateur », au sens de l’article 3, sous g), de la directive 2008/48, d’une part, les conditions concrètes et précises de cette éventuelle prolongation doivent être précisées dans ledit contrat et, d’autre part, ces frais doivent être connus du prêteur, permettant ainsi au consommateur de déterminer lesdits frais sur la base des dispositions contractuelles, notamment en fonction de la durée de l’utilisation du crédit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">S’agissant de ces conditions de prolongation du crédit, il convient de relever, ainsi qu’il résulte des constatations de la juridiction de renvoi, que celles-ci font partie des clauses et des conditions convenues dans le contrat de crédit conclu entre le prêteur et l’emprunteur. De même, si cette juridiction précise que le prêteur peut refuser la prolongation du contrat, sans que ce refus ait à être motivé, il est constant que cette prolongation ne peut avoir lieu qu’à la suite d’une demande en ce sens du consommateur, d’une acceptation du prêteur et du versement par celui-ci des frais de prolongation sur le compte courant de ce dernier.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il s’ensuit que, dans le cadre des contrats de crédit tels que ceux en cause au principal, c’est le consommateur qui est tenu de verser les frais de prolongation et que ces frais sont connus du prêteur, c’est-à-dire qu’ils sont déterminés ou déterminables.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Soho Group, le gouvernement italien et la Commission européenne font cependant valoir dans leurs observations écrites que, en raison de la circonstance que la prolongation du contrat en cause au principal ne serait pas certaine lors de la conclusion de ce contrat, les frais afférents à cette prolongation ne pourraient pas relever de la notion de « coût total du crédit pour le consommateur », au sens de l’article 3, sous g), de la directive 2008/48.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il y a tout d’abord lieu de relever, ainsi qu’il résulte des définitions énoncées à l’article 3 de la directive 2008/48, que la notion de « coût total du crédit pour le consommateur » est liée à celles de « montant total du crédit » et de « montant total dû par le consommateur » en vue de calculer le TAEG.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">L’article 3 de la directive 2008/48 ne comportant, pour ces notions, aucun renvoi au droit national, chacune d’elles doit être considérée comme constituant une notion autonome du droit de l’Union, devant être interprétée de manière uniforme sur le territoire de cette dernière (voir, en ce sens, arrêt du 14 novembre 2019, State Street Bank International, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A967&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑255/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A967" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:967</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A967" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ensuite, d’une part, s’agissant de la notion de « montant total du crédit », au sens de la directive 2008/48, celle-ci est définie à son article 3, sous l), comme étant le plafond ou le total des sommes rendues disponibles en vertu d’un contrat de crédit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">D’autre part, en vertu de l’article 3, sous i), de cette directive, le TAEG correspond au « coût total du crédit pour le consommateur », exprimé en pourcentage annuel du montant total du crédit, en tenant compte, le cas échéant, des frais visés à l’article 19, paragraphe 2, de cette même directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Dès lors que la notion de « montant total dû par le consommateur » est définie à l’article 3, sous h), de la directive 2008/48 comme étant « la somme du montant total du crédit et du coût total du crédit pour le consommateur », il en résulte que les notions de « montant total du crédit » et de « coût total du crédit pour le consommateur » sont exclusives l’une de l’autre et que, partant, le « montant total du crédit » ne saurait inclure aucune des sommes entrant dans le coût total du crédit pour le consommateur (arrêt du 21 avril 2016, Radlinger et Radlingerová, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A283&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑377/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A283" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:283</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A283" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">85</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ainsi, la directive 2008/48 contient une conception complète de la ventilation des sommes relevant des contrats de crédit à la consommation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Or, dans des circonstances telles que celles en cause au principal, qui ne concernent pas l’inexécution des obligations contractuelles, au sens de l’article 19, paragraphe 2, de la directive 2008/48, si les frais de prolongation font partie du « montant total dû par le consommateur », ceux-ci ne peuvent pas relever du « montant total du crédit », de sorte qu’ils relèvent du « coût total du crédit pour le consommateur », au sens de l’article 3, sous g), de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Il convient aussi d’observer que les dispositions de la directive 2008/48 visent non seulement la conclusion du contrat de crédit, mais également les modalités de sa modification.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À cet égard, tout d’abord, si l’article 10, paragraphe 2, sous g), de la directive 2008/48 énonce que le TAEG et le « montant total dû par le consommateur », mentionnés dans le contrat de crédit, sont calculés « au moment de la conclusion du contrat de crédit », cette même disposition précise toutefois que « toutes les hypothèses utilisées pour calculer ce taux [y] sont mentionnées ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Pour des contrats de crédit, tels que ceux offerts par Soho Group, et pour lesquels il n’est pas rare, ainsi qu’il ressort du dossier soumis à la Cour, qu’ils ne comprennent qu’une seule échéance se confondant avec le terme du contrat, il est possible pour le prêteur de mentionner l’hypothèse dans laquelle le contrat de crédit ferait l’objet d’une ou de plusieurs prolongations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La mention des différentes hypothèses utilisées pour calculer le TAEG permet de surcroît de mettre en œuvre l’objectif mentionné à l’article 5, paragraphe 1, de la directive 2008/48 relatif aux informations nécessaires à la comparaison des différentes offres afin de permettre au consommateur de prendre une décision en connaissance de cause sur la conclusion d’un contrat de crédit, cette comparaison devant pouvoir se faire en prenant en compte le TAEG suivant les différentes durées des offres à sa disposition.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">À cet égard, il convient de rappeler, d’une part, que la directive 2008/48 a été adoptée dans le double objectif d’assurer à tous les consommateurs de l’Union un niveau élevé et équivalent de protection de leurs intérêts et de faciliter l’émergence d’un marché intérieur performant du crédit à la consommation. Il ressort du considérant 19 de cette directive qu’elle tend notamment à garantir que le consommateur reçoive, préalablement à la conclusion du contrat de crédit, des informations adéquates, portant en particulier sur le TAEG dans toute l’Union, qui lui permettent de comparer les taux pratiqués (arrêt du 19 décembre 2019, Home Credit Slovakia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1130&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑290/19</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1130" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:1130</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1130" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">28</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">D’autre part, il ressort du libellé tant de l’article 5 de la directive 2008/48, relatif aux « Informations précontractuelles », en particulier de son paragraphe 1, sous i), ainsi que de l’article 10 de cette directive, concernant l’« Information à mentionner dans les contrats de crédit », en particulier de son paragraphe 2, sous k), que ces dispositions visent « tous autres frais découlant du contrat de crédit et les conditions dans lesquelles ces frais peuvent être modifiés ». Par ailleurs, le point u), dudit article 10, paragraphe 2, énonce également que le contrat de crédit mentionne, de façon claire et concise, le cas échéant, les « autres clauses et conditions contractuelles ». Ces considérations permettent ainsi de mettre en œuvre l’objectif, rappelé au considérant 43 de ladite directive, consistant à ce que celle-ci définisse clairement et complètement le coût total du crédit pour le consommateur, et de préserver l’effet utile de cette même directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Par conséquent, eu égard, premièrement, au libellé de l’article 3, sous g), de la directive 2008/48, ainsi qu’à la conception large de la notion de « coût total du crédit pour le consommateur », deuxièmement, à la circonstance que cette notion vise tant l’obtention que l’utilisation du crédit, troisièmement, à l’interconnexion des notions de « coût total du crédit pour le consommateur », de « montant total du crédit » et de « montant total dû par le consommateur », et, quatrièmement, à la finalité de ladite directive, ainsi qu’à la nécessité de préserver son effet utile, lorsque le terme d’un contrat de crédit est prolongé et sa rémunération est modifiée par le paiement de frais afférents, de telle sorte que cela a une incidence sur la notion de « montant total dû par le consommateur », les frais de prolongation dudit contrat, lorsqu’une telle faculté de prolongation est convenue entre les parties, et que ces frais sont connus du prêteur, relèvent de la notion de « coût total du crédit pour le consommateur », au sens de l’article 3, sous g), de la directive 2008/48.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ce constat ne saurait être remis en cause par l’argument du prêteur selon lequel la prolongation du contrat de crédit serait une solution préférable à une éventuelle inexécution du contrat. À cet égard, il convient de relever, ainsi que le souligne la juridiction de renvoi, qu’un très grand nombre des contrats de crédit conclus font l’objet d’une prolongation du délai initialement convenu. Or, le prêteur ne doit pas être amené à octroyer des prêts de manière irresponsable ou à accorder des crédits sans évaluation préalable de la solvabilité du consommateur. En effet, celui-ci est tenu, conformément à l’article 8, paragraphe 1, de la directive 2008/48, lu à la lumière des considérants 26 et 28 de celle-ci, préalablement à la conclusion d’un contrat de crédit, d’évaluer la solvabilité du consommateur. Cette obligation a pour objectif, conformément au considérant 26 de cette directive, de responsabiliser le prêteur et d’éviter que celui-ci n’octroie un crédit à des consommateurs non solvables (voir, en ce sens, arrêt du 5 mars 2020, OPR-Finance, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A167&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑679/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A167" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:167</a>, point <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A167" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">20</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Eu égard à l’ensemble des considérations qui précèdent, il convient de répondre aux questions posées que la notion de « coût total du crédit pour le consommateur », figurant à l’article 3, sous g), de la directive 2008/48, doit être interprétée en ce sens que cette notion comprend les frais de l’éventuelle prolongation du crédit, dès lors que, d’une part, les conditions concrètes et précises de son éventuelle prolongation, y compris la durée de celle-ci, font partie des clauses et des conditions convenues entre le prêteur et l’emprunteur dans le contrat de crédit et, d’autre part, ces frais sont connus du prêteur.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">Par ces motifs, la Cour (sixième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="coj-normal">
+<span class="coj-bold">La notion de « coût total du crédit pour le consommateur », figurant à l’article 3, sous g), de la directive 2008/48/CE du Parlement européen et du Conseil, du 23 avril 2008, concernant les contrats de crédit aux consommateurs et abrogeant la directive 87/102/CEE du Conseil, doit être interprétée en ce sens que cette notion comprend les frais de l’éventuelle prolongation du crédit, dès lors que, d’une part, les conditions concrètes et précises de son éventuelle prolongation, y compris la durée de celle-ci, font partie des clauses et des conditions convenues entre le prêteur et l’emprunteur dans le contrat de crédit et, d’autre part, ces frais sont connus du prêteur.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62019CJ0686_FR_01-E0001" id="t-ECR_62019CJ0686_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : le letton.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

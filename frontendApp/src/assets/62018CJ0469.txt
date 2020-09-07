@@ -1,0 +1,505 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="sum-title-1">24 October 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0469_EN_01-E0001" id="c-ECR_62018CJ0469_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Taxation — Personal Income Tax — Inadmissibility of the request for a preliminary ruling)</p>
+<p class="normal">In Joined Cases C‑469/18 and C‑470/18,</p>
+<p class="normal">TWO REQUESTS for a preliminary ruling under Article 267 TFEU from the Hof van Cassatie (Court of Cassation, Belgium), made by decisions of 28 June 2018, received at the Court on 19 July 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">IN</span> (C‑469/18),</p>
+<p class="normal">
+<span class="bold">JM</span> (C‑470/18)</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Belgische Staat,</span>
+</p>
+<p class="normal">THE COURT (Fifth Chamber),</p>
+<p class="normal">composed of E. Regan, President of the Chamber, I. Jarukaitis (Rapporteur), E. Juhász, M. Ilešič and C. Lycourgos, Judges,</p>
+<p class="normal">Advocate General: J. Kokott,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">IN and JM, by J. Verbist, advocaat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Belgian Government, by J.-C. Halleux, P. Cottin and C. Pochet, acting as Agents, and by W. van Eeckhouette, advocaat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Italian Government, by G. Palmieri, acting as Agent, and by P. Gentili, avvocato dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Netherlands Government, by M.K. Bulterman and J. Hoogveld, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by H. Krämer and W. Roels, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 11 July 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">These requests for a preliminary ruling concern the interpretation of Article 47 of the Charter of Fundamental Rights of the European Union (‘the Charter’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The requests have been made in proceedings between IN (Case C‑469/18) and JM (Case C‑470/18) and the Belgische Staat (Belgian State) regarding notices of assessment issued by the Belgian tax authorities for the tax years 1997 and 1998, adjusting their personal income tax returns.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">International law</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 20 of the Treaty on Extradition and Mutual Assistance in Criminal Matters between the Kingdom of Belgium, the Grand Duchy of Luxembourg and the Kingdom of the Netherlands, signed in Brussels on 27 June 1962, provides that:</p>
+<p class="normal">‘1.   At the request of the requesting party, the requested party shall, in so far as is permitted by its law, seize and hand over property:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">which may be required as evidence, or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">which has been acquired as a result of the offence or was found before or after the surrender of the person arrested.</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   The transfer is subject to the approval of the pre-trial division (Raadkamer/chambre du conseil) of the court where the searches and seizures took place. That division shall decide whether or not the seized property is to be transferred, in whole or in part, to the requesting party. It may order the return of property that is not directly related to the charge brought against the suspect, and, where appropriate, shall decide on objections from third parties who were in possession of the property, or from other entitled persons.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The disputes in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">The facts pertaining to the two disputes in the main proceedings are, <span class="italic">mutatis mutandis</span>, identical in Cases C‑469/18 and C‑470/18. They can be summarised as follows.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">The appellants in the main proceedings are managing directors of undertakings trading and distributing computers and computer parts. In 1996, those undertakings were the subject of a criminal investigation following a complaint by the Belgian tax authorities who, in 1995, had started investigations into value added tax (‘VAT’) carousel fraud.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">As part of the criminal investigation, a letter rogatory was executed in Luxembourg in connection with which the director of a Luxembourg bank handed over, during his hearing by a Luxembourg examining magistrate in the presence of his Belgian counterpart, banking documents concerning the appellants in the main proceedings. However, that transfer took place without approval being sought from the pre-trial division of the court where the searches and seizures took place, namely the chambre du conseil of the tribunal d’arrondissement de Luxembourg (District Court, Luxembourg, Luxembourg), which is required under Article 20 of the Treaty on Extradition and Mutual Assistance in Criminal Matters between the Kingdom of Belgium, the Grand Duchy of Luxembourg and the Kingdom of the Netherlands.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Having obtained authorisation to consult the case file in the criminal proceedings and to make copies thereof, the Belgian tax authorities issued notices of assessment adjusting the personal income tax returns submitted by the appellants in the main proceedings and ordering the payment of tax on profit from industrial and commercial undertakings, amounting to EUR 536 738.94 for the 1997 tax year and EUR 576 717.62 for the 1998 tax year, which had been paid to a Luxembourg account.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">After the complaints brought against those notices of assessment by the appellants in the main proceedings were rejected, those individuals brought actions seeking an exemption from the tax imposed on them, claiming that the banking documents had been improperly obtained and therefore could not be used as the basis for a tax decision. Those actions were upheld by a judgment of the court of first instance which was overturned on appeal. The appellants in the main proceedings then brought appeals in cassation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Before the referring court, the Hof van Cassatie (Court of Cassation, Belgium), the appellants in the main proceedings claim, inter alia, that it follows from Article 8 of the European Convention for the Protection of Human Rights and Fundamental Freedoms, signed in Rome on 4 November 1950 (‘the ECHR’), and from Article 7 of the Charter that the transfer of natural persons’ banking data is possible only if the legal procedures laid down for that purpose are complied with. That is not the case here and therefore their fundamental right to respect for private life has been infringed. Obtaining such evidence in breach of such a right is contrary to what can be expected of an authority acting in accordance with the principles of sound administration and the use of such evidence should therefore, in all circumstances, be considered inadmissible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">In this regard, the appellants in the main proceedings invoke the judgment of 17 December 2015, WebMindLicenses (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑419/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:832</a>), arguing that if, in the context of the levying of income tax, the possibility of using evidence obtained in breach of a fundamental right were to be allowed under Belgian law, this would lead to a difference in treatment, that is unjustifiable from the point of view of the principle of equality and non-discrimination guaranteed by the Belgian Constitution, between the taxpayer subject to a levying of income tax and the taxpayer subject to a levying of VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court explains, first, that the Belgian tax rules do not contain any general provision prohibiting evidence improperly obtained from being used for the purpose of establishing a tax debt and imposing, where appropriate, a surcharge or fine. The authorities’ use of such evidence should be weighed against the principles of sound administration and the right to a fair trial. Except where the legislature imposes particular sanctions in this respect, the use of that evidence in tax matters can be rejected only if it was obtained in a way that is so at odds with what can be expected of an authority acting in accordance with the principle of sound administration that such use must be considered impermissible in all circumstances, or if the use of that evidence puts the taxpayer’s right to a fair trial at risk, In that assessment, the court may, in particular, take into account one or more of the following aspects: the purely formal nature of the irregularity, its repercussions on the right or freedom that the infringed standard protects, whether or not the irregularity committed by the authority is intentional, and the fact that the seriousness of the infringement far exceeds the irregularity committed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court quotes, secondly, the judgment of 17 December 2015, WebMindLicenses (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑419/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:832</a>), and observes that, in that judgment, the Court decided that, in relation to the levying of VAT, evidence obtained in breach of a fundamental right must be disregarded. It follows, on the other hand, from the case-law of the European Court of Human Rights that the use of evidence gathered in breach of Article 8 ECHR does not necessarily lead to an infringement of the right to a fair trial guaranteed in Article 6(1) ECHR and that Article 13 ECHR does not in itself require such evidence to be excluded from the discussion.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">In light of that case-law of the European Court of Human Rights, the referring court considers it necessary for the Court to be questioned again as to whether, in the case of VAT, Article 47 of the Charter must be interpreted as precluding, in all circumstances, the use of evidence obtained in breach of the right to respect for private life guaranteed by Article 7 of the Charter or as not precluding national rules under which a court that has to assess whether such evidence may be used to support a levying of VAT is required to carry out an examination such as that described above.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court states that, although the cases in the main proceedings concern income tax and thus not a matter covered by EU law, a response to the question raised in each of the joined cases is necessary in order to be able to assess the unequal treatment, alleged by the appellants in the main proceedings, between a taxpayer subject to a levying of personal income tax and a taxpayer subject to a levying of VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances the Hof van Cassatie (Court of Cassation) decided, in Cases C‑469/18 and C‑470/18, to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling, which is worded identically in each of those two cases:</p>
+<p class="normal">‘Should Article 47 of the Charter …, in cases of [VAT], be interpreted as precluding in all circumstances the use of evidence obtained in violation of the right to respect for private life as guaranteed by Article 7 of the Charter, or does it leave room for a national regulation under which the court which has to decide whether such a piece of evidence can be used as the basis for a VAT assessment has to make an evaluation such as the one set out [in the grounds of the request for a preliminary ruling]?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Procedure before the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">By decision of the President of the Court of 6 September 2018, Cases C‑469/18 and C‑470/18 were joined for the purposes of the written procedure and the judgment.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Admissibility of the requests for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">As the referring court observes, the situation at issue in the main proceedings, the subject matter of which is an adjustment of personal income tax returns, does not fall within the scope of EU law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">It should be noted that the fact that, in the main proceedings, evidence was obtained in criminal proceedings following a complaint by the Belgian tax authorities which had investigated VAT fraud does not mean per se, as the Advocate General noted in point 66 of her Opinion, that the use of that evidence for the purpose of adjusting personal income tax returns constitutes an implementation of EU law within the meaning of Article 51(1) of the Charter. Such use does not have any link to EU law which goes beyond the close relationship that may exist, in one Member State, between the rules on the levying of VAT and those on the levying of personal income tax or the indirect effects of one of those matters on the other (see, to that effect, judgment of 10 July 2014, Julián Hernández and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2055&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑198/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2055&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2014:2055</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2055&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point34" hreflang="en" target="CourtTab" type="application/xhtml+xml">34</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, the Court cannot therefore assess, in the light of the Charter, the national legislation or case-law applicable to the use, in the procedure for the levying of personal income tax to which the appellants in the main proceedings are subject, of evidence which, according to the referring court, was improperly obtained.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">However, although the cases in the main proceedings concern personal income tax, the referring court, whose question specifically concerns the interpretation of Article 47 of the Charter, seeks, in fact, to determine to what extent EU law permits or does not permit the use of improperly obtained evidence for the purpose of the levying of VAT. According to the referring court, there may be a discrepancy on this point between the solution found by the Court in the judgment of 17 December 2015, WebMindLicenses (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑419/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:832</a>), and the case-law of the European Court of Human Rights. The answer to the question raised is necessary for it to be able to assess the unequal treatment, alleged by the appellants in the main proceedings, between a taxpayer who is the subject, as in the present case, of a levying of personal income tax and a taxpayer who is the subject of a levying of VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be borne in mind that the Court has recognised as admissible requests for a preliminary ruling concerning provisions of EU law in situations where the facts of the case in the main proceedings fell outside the scope of EU law but where those provisions of EU law had been rendered applicable by national law due to a reference made by that law to the content of those provisions (see, to that effect, judgments of 18 October 2012, Nolan, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A638&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑583/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A638&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:638</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A638&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point45" hreflang="en" target="CourtTab" type="application/xhtml+xml">45</a>, and of 15 November 2016, Ullens de Schooten, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A874&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑268/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A874&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:874</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A874&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point53" hreflang="en" target="CourtTab" type="application/xhtml+xml">53</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Where, in regulating purely internal situations, national legislation adopts the same solutions as those adopted in EU law in order, for example, to avoid discrimination against nationals of the Member State in question or any distortion of competition, or to ensure a single procedure is applied in comparable situations, it is clearly in the interest of the European Union that, in order to forestall future differences of interpretation, provisions or concepts taken from EU law should be interpreted uniformly, irrespective of the circumstances in which they are to be applied (see, to that effect, judgments of 18 October 1990, Dzodzi, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1990%3A360&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑297/88 and C‑197/89</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1990%3A360&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:1990:360</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1990%3A360&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="en" target="CourtTab" type="application/xhtml+xml">37</a>; of 17 July 1997, Leur-Bloem, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A369&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑28/95</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A369&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:1997:369</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A369&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point32" hreflang="en" target="CourtTab" type="application/xhtml+xml">32</a>; and of 18 October 2012, Nolan, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A638&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑583/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A638&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:638</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A638&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point46" hreflang="en" target="CourtTab" type="application/xhtml+xml">46</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, an interpretation by the Court of provisions of EU law in situations not falling within the scope of those provisions is warranted where such provisions have been made directly and unconditionally applicable to such situations by national law, in order to ensure that those situations and situations falling within the scope of those provisions are treated in the same way (judgments of 18 October 2012, Nolan, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A638&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑583/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A638&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:638</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A638&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point47" hreflang="en" target="CourtTab" type="application/xhtml+xml">47</a>, and of 7 November 2018, C and A, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A876&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑257/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A876&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:876</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A876&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point33" hreflang="en" target="CourtTab" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">In a situation such as that at issue in the main proceedings, which does not fall within the scope of EU law, it is for the referring court to indicate to the Court, in accordance with the requirements of Article 94 of the Rules of Procedure of the Court, in what way the dispute pending before it has a connecting factor with the provisions of EU law that makes the preliminary ruling on interpretation necessary for it to give judgment in that dispute (see, to that effect, judgments of 15 November 2016, Ullens de Schooten, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A874&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑268/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A874&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:874</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A874&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point55" hreflang="en" target="CourtTab" type="application/xhtml+xml">55</a>, and of 20 September 2018, Fremoluc, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A754&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑343/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A754&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:754</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A754&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point22" hreflang="en" target="CourtTab" type="application/xhtml+xml">22</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">However, given that EU law does not make provision for rules relating to the procedure for the taking of evidence in cases of VAT fraud and given that it is for the Member States to establish such rules in accordance with the principle of the effectiveness of EU law and the rights guaranteed by that law (see, to that effect, judgments of 17 December 2015, WebMindLicenses, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑419/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:832</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point65" hreflang="en" target="CourtTab" type="application/xhtml+xml">65</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point68" hreflang="en" target="CourtTab" type="application/xhtml+xml">68</a>, and of 17 January 2019, Dzivev and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A30&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑310/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A30&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:30</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A30&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point24" hreflang="en" target="CourtTab" type="application/xhtml+xml">24</a>), it is hard to conceive of there being a reference in national law to provisions of EU law in this area. In any event, it is not apparent from the order for reference that Belgian law makes such a reference.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from all of the foregoing that these requests for a preliminary ruling are inadmissible.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">The requests for a preliminary ruling made by the Hof van Cassatie (Court of Cassation, Belgium) by decisions of 28 June 2018 are inadmissible.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0469_EN_01-E0001" id="t-ECR_62018CJ0469_EN_01-E0001">*1</a>
+</span>)	Language of the case: Dutch.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

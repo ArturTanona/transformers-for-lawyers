@@ -1,0 +1,1396 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>ARRÊT DE LA COUR (deuxième chambre)</p>
+<p class="sum-title-1">23 avril 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0013_FR_01-E0001" id="c-ECR_62018CJ0013_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Fiscalité – Taxe sur la valeur ajoutée (TVA) – Directive 2006/112/CE – Droit à déduction de la taxe payée en amont – Remboursement de l’excédent de TVA – Remboursement tardif – Calcul des intérêts – Modalités d’octroi d’un intérêt dû en raison de l’indisponibilité d’un excédent de TVA déductible retenu en violation du droit de l’Union et d’un intérêt dû en raison du retard de l’administration fiscale pour verser une somme due – Principes d’effectivité et d’équivalence »</p>
+<p class="normal">Dans les affaires jointes C‑13/18 et C‑126/18,</p>
+<p class="normal">ayant pour objet deux demandes de décision préjudicielle au titre de l’article 267 TFUE, introduites par le Szegedi Közigazgatási és Munkaügyi Bíróság (tribunal administratif et du travail de Szeged, Hongrie) (C-13/18) et par le Szekszárdi Közigazgatási és Munkaügyi Bíróság (tribunal administratif et du travail de Szekszárd, Hongrie) (C‑126/18), par décisions des 2 janvier 2018 et 3 janvier 2018, parvenues à la Cour, respectivement, les 8 janvier 2018 et 16 février 2018, dans les procédures</p>
+<p class="normal">
+<span class="bold">Sole-Mizo Zrt.</span> (C‑13/18),</p>
+<p class="normal">
+<span class="bold">Dalmandi Mezőgazdasági Zrt.</span> (C‑126/18)</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága,</span>
+</p>
+<p class="normal">LA COUR (deuxième chambre),</p>
+<p class="normal">composée de M. A. Arabadjiev, président de chambre, MM. P. G. Xuereb et T. von Danwitz (rapporteur), juges,</p>
+<p class="normal">avocat général : M. G. Hogan,</p>
+<p class="normal">greffier : M<span class="super">me</span> R. Şereş, administratrice,</p>
+<p class="normal">vu la procédure écrite et à la suite de l’audience du 6 juin 2019,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour Sole-Mizo Zrt., par M<span class="super">e</span> L. Maklári, ügyvéd,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour Dalmandi Mezőgazdasági Zrt., par M<span class="super">e</span> L. Maklári, ügyvéd,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement hongrois, par MM. M. Z. Fehér et G. Koós, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M<span class="super">me</span> L. Lozano Palacios et M. A. Sipos, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">ayant entendu l’avocat général en ses conclusions à l’audience du 11 septembre 2019,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">Les demandes de décision préjudicielle portent sur l’interprétation du droit de l’Union en matière de droit au remboursement de taxes perçues dans un État membre en violation du droit de l’Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Ces demandes ont été présentées dans le cadre de deux litiges opposant Sole-Mizo Zrt. (C-13/18) et Dalmandi Mezőgazdasági Zrt. (C-126/18) à la Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága (direction des recours de l’Office national des impôts et des douanes, Hongrie) au sujet des conditions de fond et de procédure dans lesquelles est opéré le remboursement, au profit de l’assujetti, de l’excédent de la taxe sur la valeur ajoutée (TVA) qui n’a pas pu être récupéré dans un délai raisonnable en raison d’une condition fixée par la législation d’un État membre ayant ensuite été déclarée contraire au droit de l’Union par la Cour.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit de l’Union</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 183 de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2006, L 347, p. 1</a>, ci-après la « directive TVA »), prévoit :</p>
+<p class="normal">« Lorsque le montant des déductions dépasse celui de la TVA due pour une période imposable, les États membres peuvent soit faire reporter l’excédent sur la période suivante, soit procéder au remboursement selon les modalités qu’ils fixent.</p>
+<p class="normal">Toutefois, les États membres peuvent refuser le report ou le remboursement lorsque l’excédent est insignifiant. »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit hongrois</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">La loi relative à la TVA</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 186, paragraphe 2, de l’az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (loi CXXVII de 2007, relative à la taxe sur la valeur ajoutée) [<span class="italic">Magyar Közlöny</span> 2007/155 (XI.16.), ci-après la « loi relative à la TVA »] subordonnait le remboursement de l’excédent de TVA déductible au paiement intégral de la contrepartie due, TVA comprise, pour l’opération dont résultait la TVA déductible (condition dite « des acquisitions réglées »). En l’absence de paiement, l’excédent devait être reporté sur la période imposable suivante.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Dans l’arrêt du 28 juillet 2011, Commission/Hongrie (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A530&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑274/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A530&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:530</a>), la Cour a, en substance, jugé que l’article 186, paragraphe 2, de la loi relative à la TVA était contraire à l’article 183 de la directive TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">L’az általános forgalmi adóról szóló 2007. évi CXXVII. törvény jogharmonizációs célú módosításáról és az adó-visszaigénylés különös eljárás szabályairól szóló 2011. évi CXXIII. törvény (loi n<span class="super">o</span> CXXIII de 2011, portant modification, dans un but d’harmonisation du droit, de la loi CXXVII de 2007 relative à la TVA, et définissant les modalités de la procédure spéciale de récupération de la TVA, ci-après la « loi modificative »), a abrogé, avec effet au 27 septembre 2011, l’article 186, paragraphes 2 à 4, de la loi relative à la TVA. Elle permet désormais le remboursement de l’excédent de TVA déductible sans qu’il soit nécessaire d’attendre le paiement de la contrepartie de l’opération dont résultait la TVA déductible.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Le code de procédure fiscale</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 37 de l’az adózás rendjéről szóló 2003. évi XCII. törvény (loi XCII de 2003, portant code de procédure fiscale, ci-après le « code de procédure fiscale »), dispose, à ses paragraphes 4 et 6 :</p>
+<p class="normal">« 4.   L’échéance du versement d’une subvention budgétaire due au contribuable est régie par les annexes de la présente loi ou une loi particulière. Il convient de verser la subvention budgétaire ou la TVA dont le remboursement est réclamé dans les 30 jours à compter de la réception de la demande (déclaration), au plus tôt toutefois à compter de l’échéance, ce délai étant porté à 45 jours lorsque le montant de la TVA récupérable dépasse 500000 forints [hongrois (HUF)]. [...]</p>
+<p class="normal">[...]</p>
+<p class="normal">6.   Lorsque l’administration fiscale effectue un versement tardivement, elle paie pour chaque jour de retard un intérêt d’un taux équivalent à celui d’une pénalité de retard. [...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 124/C de ce code :</p>
+<p class="normal">« (1)   Lorsque l’Alkotmánybíróság [Cour constitutionnelle, Hongrie], la Kúria [Cour suprême, Hongrie] ou la Cour de justice de l’Union européenne constatent, avec effet rétroactif, qu’une règle de droit prescrivant une obligation fiscale est contraire à la Loi fondamentale ou à un acte obligatoire de l’Union européenne ou, s’il s’agit d’un règlement communal, à toute autre règle de droit, et que cette décision juridictionnelle fait naître un droit à remboursement pour le contribuable, l’autorité fiscale de premier degré procède au remboursement à la demande de ce dernier – selon les modalités spécifiées dans la décision concernée – conformément aux dispositions du présent article.</p>
+<p class="normal">(2)   Le contribuable peut introduire sa demande par écrit auprès de l’autorité fiscale dans un délai de 180 jours suivant la publication ou la notification de la décision de l’Alkotmánybíróság [Cour constitutionnelle], de la Kúria [Cour suprême] ou de la Cour de justice de l’Union européenne ; aucune demande de relevé de forclusion ne sera admise à l’expiration du délai. L’autorité fiscale rejette la demande en cas de prescription, à la date de publication ou de notification de la décision, du droit afférent à l’établissement de l’impôt.</p>
+<p class="normal">[...]</p>
+<p class="normal">(6)   Si le droit à remboursement du contribuable est fondé, l’autorité fiscale paie – au moment de rembourser – un intérêt sur la taxe à rembourser, d’un taux égal au taux de base de la banque centrale et calculé à partir de la date de paiement de la taxe jusqu’au jour où la décision faisant droit au remboursement est devenue définitive. Le remboursement est exigible à la date à laquelle la décision y faisant droit est devenue définitive et il doit être effectué dans un délai de 30 jours à compter de la date à laquelle il est devenu exigible. Les dispositions relatives au versement des subventions budgétaires sont applicables mutatis mutandis au remboursement régi par le présent paragraphe, à l’exception de celle de l’article 37, paragraphe 6. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 124/D, paragraphes 1 à 3, dudit code est libellé comme suit :</p>
+<p class="normal">« (1)   Pour autant que le présent article n’en dispose pas autrement, les dispositions de l’article 124/C sont applicables aux demandes de remboursement fondées sur le droit à déduction de la TVA.</p>
+<p class="normal">(2)   Le contribuable peut faire valoir le droit visé au paragraphe 1 ci‑dessus au moyen d’une déclaration de régularisation – introduite dans un délai de 180 jours suivant la publication ou la notification de la décision de l’Alkotmánybíróság [Cour constitutionnelle], de la Kúria [Cour suprême] ou de la Cour de justice de l’Union européenne – de la déclaration ou des déclarations correspondant à l’exercice fiscal ou aux exercices fiscaux au cours duquel ou desquels est né le droit à déduction concerné. Aucune demande de relevé de forclusion ne sera admise à l’expiration du délai.</p>
+<p class="normal">(3)   Si le décompte, tel que rectifié dans la déclaration de régularisation, fait apparaître que le contribuable a un droit à remboursement soit en raison de la diminution de l’impôt qu’il doit acquitter, soit en raison de l’augmentation de la somme récupérable [...], l’autorité fiscale applique à la somme à rembourser un taux d’intérêt équivalent au taux de base de la banque centrale, calculé pour la période comprise entre la date fixée pour le paiement dans la ou les déclarations concernées par la déclaration de régularisation, ou la date d’exigibilité – ou la date du paiement de l’impôt si celle-ci est postérieure – et la date de l’introduction de la déclaration de régularisation. Le remboursement – auquel les dispositions relatives au versement des subventions budgétaires sont applicables – doit être effectué dans les 30 jours suivant la date de l’introduction de la déclaration de régularisation. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 164, paragraphe 1, du code de procédure fiscale énonce :</p>
+<p class="normal">« Le droit à l’établissement de l’impôt se prescrit par cinq ans à compter du dernier jour de l’année civile au cours de laquelle la déclaration ou notification afférente à cet impôt aurait dû être faite, ou, en l’absence de déclaration ou notification, au cours de laquelle l’impôt aurait dû être acquitté. Sauf disposition contraire de la loi, le droit de demander une subvention budgétaire de même que le droit au remboursement des trop-perçus se prescrivent par cinq ans à compter du dernier jour de l’année civile au cours de laquelle le droit de demander la subvention ou le remboursement a été ouvert. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 165, paragraphe 2, de ce code dispose :</p>
+<p class="normal">« Le taux de la pénalité de retard pour chaque jour civil est égal à 1/365<span class="super">e</span> du double du taux de base de la banque centrale en vigueur à la date de son application. Une pénalité de retard ne peut donner lieu elle-même à l’application d’une pénalité de retard. L’administration fiscale et douanière centrale n’ordonne pas le versement de pénalités de retard d’un montant inférieur à 2000 [HUF]. »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Les litiges au principal et les questions préjudicielles</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">L’affaire C-13/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Dans l’ordonnance du 17 juillet 2014, Delphi Hungary Autóalkatrész Gyártó (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2127&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑654/13</a>, non publiée, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2127&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2127</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2127&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>), la Cour a considéré que le droit de l’Union, et notamment l’article 183 de la directive TVA, doit être interprété en ce sens qu’il s’oppose à une réglementation et à une pratique d’un État membre qui excluent le versement d’intérêts relatifs au montant de l’excédent de TVA déductible qui n’était pas récupérable dans un délai raisonnable en raison d’une disposition nationale jugée contraire au droit de l’Union. Toutefois, la Cour a également rappelé que, en l’absence de législation de l’Union en la matière, la détermination des modalités de versement de tels intérêts incombe, sous réserve du respect des principes d’équivalence et d’effectivité, aux États membres.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">À la suite de cette ordonnance, l’administration fiscale hongroise a adopté une pratique administrative sur la régularité de laquelle la Kúria (Cour suprême) s’est prononcée dans son arrêt n<span class="super">o</span> Kfv.I.35.472/2016/5 du 24 novembre 2016. Sur le fondement de cet arrêt, cette juridiction a adopté une décision (n<span class="super">o</span> EBH2017.K18), intitulée « Examen (quant au taux et à la prescription) de la question des intérêts sur la TVA obligatoirement cumulée à cause de la condition de paiement » (ci-après la « décision de principe de la Cour suprême n<span class="super">o</span> 18/2017 »), précisant les modalités de calcul des intérêts sur le montant de TVA qui n’a pas pu être récupéré en raison de la condition des « acquisitions réglées ». Selon cette décision du principe, il y a lieu de distinguer deux périodes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la période comprise entre le jour suivant celui de l’expiration du délai de dépôt de la déclaration de TVA et la date d’expiration du délai de dépôt de la déclaration suivante, les articles 124/C et 124/D du code de procédure fiscale, qui régissent les cas où l’Alkotmánybíróság (Cour constitutionnelle) ou la Kúria (Cour suprême) jugent une disposition contraire à une norme de droit nationale supérieure, sont d’application par analogie <span class="bold">et</span>
+</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la période qui s’étend de la date d’exigibilité de l’intérêt dû par l’administration fiscale à la date de versement effectif de l’intérêt par celle-ci, il convient d’appliquer l’article 37, paragraphe 6, du code de procédure fiscale.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Le 30 décembre 2016, Sole-Mizo a, en se prévalant de l’ordonnance du 17 juillet 2014, Delphi Hungary Autóalkatrész Gyártó (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2127&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑654/13</a>, non publiée, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2127&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2127</a>), présenté à l’administration fiscale une demande de paiement d’intérêts sur les excédents de TVA déductible qui n’avaient pas été remboursés dans un délai raisonnable en raison de la condition des « acquisitions réglées ». Cette demande portait sur des intérêts relatifs à différentes périodes de déclaration ayant couru du mois de décembre 2005 au mois de juin 2011. Des intérêts de retard étaient également réclamés en raison du paiement tardif de ces intérêts.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">L’autorité fiscale de premier degré a, par une décision datée du 3 mars 2017, partiellement accueilli la demande de Sole-Mizo et ordonné le versement en sa faveur d’intérêts, calculés à un taux correspondant au taux de base simple de la banque centrale hongroise, d’un montant de 99630000 HUF (environ 321501 euros), mais l’a rejetée en tant qu’elle visait le paiement d’un intérêt de retard calculé à un taux équivalant au double du taux de base de la banque centrale hongroise, en raison du retard dans le paiement de ces intérêts.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Par décision du 19 juin 2017, adoptée à la suite d’un recours administratif formé par Sole-Mizo, l’autorité fiscale de deuxième degré a réformé cette décision et ordonné le versement d’intérêts relatifs au montant de l’excédent de TVA déductible qui n’était pas récupérable en raison de la condition des « acquisitions réglées », à hauteur de 104165000 HUF (environ 338891 euros). La somme due au titre de ces intérêts a été calculée sur le fondement des articles 124/C et 124/D du code de procédure fiscale, en appliquant un taux correspondant au taux de base simple de la banque centrale hongroise.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Sole-Mizo a intenté un recours devant la juridiction de renvoi dans l’affaire C-13/18 contre la décision de l’autorité fiscale de deuxième degré, en faisant valoir que la somme due au titre des intérêts relatifs au montant de l’excédent de TVA déductible qui n’était pas récupérable en raison de la condition des « acquisitions réglées » devait également être calculée en appliquant un taux égal au double du taux de base de la banque centrale hongroise, conformément à l’article 37, paragraphe 6, du code de procédure fiscale.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Cette juridiction s’interroge sur la compatibilité des modalités de calcul des intérêts sur le montant de TVA, telles que déterminées par la décision de principe de la Cour suprême n<span class="super">o</span> 18/2017, avec le droit de l’Union et, en particulier, avec les principes d’équivalence et d’effectivité.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">C’est dans ces conditions que le Szegedi Közigazgatási és Munkaügyi Bíróság (tribunal administratif et du travail de Szeged, Hongrie) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« 1)</p>
+</td>
+<td valign="top">
+<p class="normal">Les règles du droit [de l’Union], les dispositions de la directive [TVA] (compte tenu, en particulier, de son article 183), et les principes d’effectivité, d’effet direct et d’équivalence s’opposent‑ils à une pratique interne d’un État membre dans l’application des règles pertinentes en matière d’intérêts de retard, en vertu de laquelle l’autorité fiscale nationale n’a pas commis d’infraction (carence), c’est-à-dire qu’il n’y a pas eu de sa part de retard de paiement en ce qui concerne la part non récupérable de la TVA sur les acquisitions non réglées des assujettis, dès lors que, à l’époque où l’autorité fiscale nationale a statué, la condition de droit national contraire au droit [de l’Union] était une règle en vigueur et l’incompatibilité de cette condition avec le droit [de l’Union] n’a été constatée que plus tard par la [Cour] ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2)</p>
+</td>
+<td valign="top">
+<p class="normal">Le droit [de l’Union], particulièrement les dispositions de la directive TVA (compte tenu notamment de son article 183), le principe d’équivalence ainsi que les principes d’effectivité et de proportionnalité s’opposent-ils à une pratique interne d’un État membre qui, dans l’application des règles pertinentes en matière d’intérêts de retard, fait une distinction selon que le non-remboursement de la taxe par l’autorité fiscale a lieu dans le respect des règles de droit national en vigueur s’avérant contraires au droit [de l’Union] ou en violation de celles-ci, en identifiant, en ce qui concerne le taux d’intérêt sur la TVA non récupérée dans un délai raisonnable à cause d’une condition de droit national jugée contraire au droit de l’Union par la [Cour], deux périodes distinctes caractérisées comme suit :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la première période – sachant que la réglementation hongroise contraire au droit [de l’Union] était encore en vigueur à l’époque et que, partant, les autorités fiscales hongroises n’ont pas commis d’infraction en n’autorisant pas le remboursement dans un délai raisonnable de la TVA mentionnée sur les factures –, les assujettis ne peuvent réclamer, à titre d’intérêts de retard, que des intérêts au taux de base de la banque centrale, tandis que,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la seconde période, il y a lieu de payer un intérêt au double du taux de base de la banque centrale pris comme référence par le droit hongrois en cas de retard, mais uniquement pour le paiement tardif des intérêts de retard tels qu’ils sont calculés pour la première période ?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3)</p>
+</td>
+<td valign="top">
+<p class="normal">Faut-il interpréter l’article 183 de la directive TVA en ce sens que le principe d’équivalence s’oppose à une pratique nationale en vertu de laquelle le non-remboursement de la TVA donne lieu à un paiement d’intérêts par l’autorité fiscale au simple taux de base de la banque centrale en cas de violation du droit de l’Union, mais au double de ce taux en cas de violation du droit interne ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">L’affaire C-126/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Le 30 décembre 2016, Dalmandi Mezőgazdasági a formé auprès de l’autorité fiscale de premier degré une demande de versement d’intérêts sur les excédents de TVA déductible qui n’avaient pas été remboursés dans un délai raisonnable entre l’année 2005 et l’année 2011 en raison de la condition des « acquisitions réglées ». La somme réclamée était de 74518800 HUF (environ 240515 euros). Pour le calcul des intérêts réclamés, la demande prenait en compte l’intégralité de la période comprise entre la date d’expiration du délai de remboursement pour chaque période de déclaration concernée et la date d’expiration du délai de remboursement pour la période de déclaration durant laquelle a été adoptée la loi modificative, à savoir, en l’occurrence, le 5 décembre 2011. La demande retenait, en vue de ce calcul, un taux égal au double du taux de base de la banque centrale hongroise, en application de l’article 37, paragraphe 6, du code de procédure fiscale. Par ailleurs, Dalmandi Mezőgazdasági a demandé le paiement d’un intérêt supplémentaire pour la période allant du 5 décembre 2011 jusqu’à la date de versement effectif, en appliquant également le taux visé à l’article 37, paragraphe 6, du code de procédure fiscale.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Par une décision du 10 mars 2017, l’autorité fiscale de premier degré a partiellement fait droit à cette demande, en accordant à celle-ci des intérêts à hauteur de 34673000 HUF (environ 111035 euros) en ce qui concernait les excédents de TVA déductible indûment retenus pour la période comprise entre le quatrième trimestre 2005 et le troisième trimestre 2011, en application de l’article 124/D, paragraphe 3, du code de procédure fiscale. Elle a rejeté la demande pour le surplus.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">La décision de l’autorité fiscale de premier degré se fondait sur les principes énoncés dans la décision de principe de la Cour suprême n<span class="super">o</span> 18/2017. Premièrement, pour déterminer le montant de la créance d’intérêts, l’autorité fiscale a fait application des articles 124/C et 124/D du code de procédure fiscale, qui prescrivent l’application d’un taux équivalant au taux de base de la banque centrale hongroise. Deuxièmement, elle a estimé que la demande de Dalmandi Mezőgazdasági tendant au paiement d’un intérêt de retard n’était pas fondée, puisque cette dernière n’avait ni déposé de demande de récupération exceptionnelle ni présenté de déclaration de TVA incluant une demande de remboursement. Troisièmement, l’autorité fiscale de premier degré a, pour l’année 2005, rejeté la demande d’intérêts de Dalmandi Mezőgazdasági après avoir constaté que la créance était prescrite en ce qui concernait les trois premiers trimestres de cette année.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Par décision du 12 juin 2017, l’autorité fiscale de deuxième degré, devant laquelle Dalmandi Mezőgazdasági a formé un recours administratif, a réduit le montant alloué à celle-ci à titre d’intérêts relatifs au montant de l’excédent de TVA déductible qui n’était pas récupérable en raison de la condition des « acquisitions réglées » à 34259000 HUF (environ 111527 euros). Conformément à la décision de principe de la Cour suprême n<span class="super">o</span> 18/2017, ces intérêts étaient calculés, en application des articles 124/C et 124/D du code de procédure fiscale, au taux équivalant au taux de base simple de la banque centrale hongroise. En outre, elle a accordé des intérêts de retard à hauteur de 7000 HUF (environ 22 euros) pour dépassement du délai de traitement de sa demande, calculés à partir du 9 mars 2017, et a confirmé la décision de premier degré pour le surplus.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Dalmandi Mezőgazdasági a intenté un recours contre cette décision devant la juridiction de renvoi. En particulier, elle a fait valoir que la décision de principe de la Cour suprême n<span class="super">o</span> 18/2017 méconnaissait les principes d’équivalence, d’effectivité et d’effet direct du droit de l’Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">C’est dans ces conditions que le Szekszárdi Közigazgatási és Munkaügyi Bíróság (tribunal administratif et du travail de Szekszárd, Hongrie) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« 1)</p>
+</td>
+<td valign="top">
+<p class="normal">Les règles du droit [de l’Union], les dispositions de la directive [TVA] (compte tenu, en particulier, de son article 183), et les principes d’effectivité, d’effet direct et d’équivalence s’opposent-ils à une pratique juridictionnelle interne d’un État membre dans l’application des règles pertinentes en matière d’intérêts de retard, en vertu de laquelle l’autorité fiscale nationale n’a pas commis d’infraction (carence), c’est-à-dire qu’il n’y a pas eu de sa part de retard de paiement en ce qui concerne la part non récupérable de la TVA sur les acquisitions non réglées des assujettis, dès lors que, à l’époque où ladite autorité a statué, la condition de droit national contraire au droit [de l’Union] était une règle en vigueur et l’incompatibilité de cette condition avec le droit [de l’Union] n’a été constatée que plus tard par la [Cour] ? On notera que, ce faisant, la pratique interne reconnaît comme quasi légale l’application de la condition législative nationale contraire au droit de l’Union tant que le législateur national n’a pas formellement abrogé celle-ci.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2)</p>
+</td>
+<td valign="top">
+<p class="normal">Le droit [de l’Union], particulièrement les dispositions de la directive [TVA] (compte tenu notamment de son article 183), le principe d’équivalence ainsi que les principes d’effectivité et de proportionnalité s’opposent-ils à une réglementation et à une pratique d’un État membre qui, dans l’application des règles pertinentes en matière d’intérêts de retard, font une distinction selon que le non‑remboursement de la taxe par l’autorité fiscale a lieu dans le respect de règles de droit national en vigueur s’avérant contraires au droit [de l’Union] ou en violation de celles-ci, en identifiant, en ce qui concerne le taux d’intérêt sur la TVA non récupérée dans un délai raisonnable à cause d’une condition de droit national jugée contraire au droit de l’Union par la [Cour], deux périodes distinctes caractérisées comme suit :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la première période – sachant que la réglementation hongroise contraire au droit [de l’Union] était encore en vigueur à l’époque et que, partant, les autorités fiscales hongroises n’ont pas commis d’infraction en n’autorisant pas le remboursement dans un délai raisonnable de la TVA mentionnée sur les factures –, les assujettis ne peuvent réclamer, à titre d’intérêts de retard, que des intérêts au taux de base de la banque centrale, tandis que,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la seconde période, il y a lieu de payer un intérêt au double du taux de base de la banque centrale pris comme référence par le droit hongrois en cas de retard, mais uniquement pour le paiement tardif des intérêts de retard tels qu’ils sont calculés pour la première période ?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3)</p>
+</td>
+<td valign="top">
+<p class="normal">Le droit [de l’Union], en particulier l’article 183 de la directive [TVA], et le principe d’effectivité s’opposent-ils à une pratique interne d’un État membre qui retient, comme date de début du calcul de l’intérêt de retard (intérêt composé) payable, selon les dispositions nationales, sur un montant principal consistant dans les intérêts de retard (intérêts sur la TVA) dus en raison du remboursement tardif de la taxe retenue en violation du droit de l’Union, non pas la date de l’exigibilité initiale des intérêts sur la TVA, en tant que créance principale, mais une date postérieure, compte tenu en particulier du fait que le droit de prétendre à des intérêts sur des taxes retenues ou non remboursées en violation du droit de l’Union est un droit subjectif qui découle directement du droit de l’Union lui-même ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4)</p>
+</td>
+<td valign="top">
+<p class="normal">Le droit [de l’Union], en particulier l’article 183 de la directive [TVA], et le principe d’effectivité s’opposent-ils à une pratique interne d’un État membre qui oblige l’assujetti à introduire une demande spéciale lorsqu’il réclame un intérêt en raison d’une infraction consistant dans un retard de l’administration fiscale, alors qu’une demande spéciale de réclamation d’un intérêt de retard n’est pas nécessaire dans d’autres cas, où celui-ci doit être accordé d’office ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">5)</p>
+</td>
+<td valign="top">
+<p class="normal">Pour le cas où la question qui précède appellerait une réponse affirmative, le droit [de l’Union], en particulier l’article 183 de la directive [TVA], et le principe d’effectivité s’opposent-ils à une pratique interne d’un État membre selon laquelle un intérêt (intérêt composé), dû en raison du versement tardif d’un montant principal consistant dans les intérêts (intérêts sur la TVA) dus sur une taxe dont la rétention a été ultérieurement déclarée contraire au droit de l’Union par la Cour, ne peut être accordé que si l’assujetti introduit une demande exceptionnelle dont le contenu concerne concrètement non pas la créance d’intérêt mais bien la récupération – à la date de l’abrogation en droit interne de la disposition prévoyant, en violation du droit communautaire, la rétention de la TVA pour cause de non‑règlement – de la TVA relative, précisément, aux acquisitions non réglées, étant entendu que les intérêts sur la TVA constituant l’assiette de l’intérêt composé réclamé – lesquels n’ont été versés ni à ce moment ni après – étaient déjà exigibles pour les périodes de déclaration antérieures précédant la demande exceptionnelle ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">6)</p>
+</td>
+<td valign="top">
+<p class="normal">Pour le cas où la question qui précède appellerait une réponse affirmative, le droit [de l’Union], en particulier l’article 183 de la directive [TVA], et le principe d’effectivité s’opposent-ils à une pratique interne d’un État membre qui prévoit la déchéance du droit à un intérêt (intérêt composé), dû en raison du versement tardif d’un montant principal consistant dans les intérêts (intérêts sur la TVA) dus sur une taxe dont la rétention a été ultérieurement déclarée contraire au droit de l’Union par la Cour, dans les cas de créances d’intérêts sur la TVA qui ne concernent pas la période de déclaration à la TVA affectée par le délai de prescription prévu pour le dépôt d’une demande exceptionnelle car elles étaient exigibles avant cela ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">7)</p>
+</td>
+<td valign="top">
+<p class="normal">Le droit [de l’Union], et notamment l’article 183 de la directive [TVA], s’opposent-ils – compte tenu, en particulier, du principe d’effectivité et aussi de la nature subjective du droit de réclamer des intérêts sur les taxes illégalement non remboursées – à une pratique interne d’un État membre qui prive définitivement l’assujetti de la possibilité de réclamer un intérêt sur une taxe, laquelle a été retenue en vertu d’une disposition nationale qui interdit la récupération de la TVA en cas de non-règlement de l’acquisition et a été déclarée par la suite contraire au droit [de l’Union], et ce</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">en ne considérant pas la créance d’intérêt comme fondée en raison du fait que la disposition déclarée par la suite contraire au droit [de l’Union] était en vigueur au moment où la taxe était exigible à l’origine (c’est-à-dire au motif qu’il ne s’est pas produit de retard et que l’administration fiscale n’a fait qu’appliquer le droit en vigueur),</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">et plus tard – après qu’a été abrogée la disposition restreignant le droit à récupération déclarée contraire au droit [de l’Union] – par l’effet de la prescription ?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">8)</p>
+</td>
+<td valign="top">
+<p class="normal">Le droit [de l’Union], en particulier l’article 183 de la directive [TVA], et le principe d’effectivité s’opposent-ils à une pratique interne d’un État membre qui, en application d’une disposition de droit interne déclarée par la suite contraire au droit [de l’Union], subordonne la possibilité de réclamer, pour toute la période 2005-2011, un intérêt de retard sur le montant principal, consistant dans les intérêts auxquels l’assujetti a droit sur la taxe non remboursée à la date d’exigibilité initiale, au point de savoir si l’assujetti est en mesure de demander la récupération de la taxe dans sa déclaration à la TVA pour la période (à savoir le mois de septembre 2011) pendant laquelle a été abrogée la disposition contraire au droit [de l’Union] en question, sachant que le versement du montant principal consistant dans les intérêts sur la TVA n’a eu lieu ni à ce moment ni ultérieurement, à savoir à la date où la juridiction nationale a été saisie de la demande d’intérêts ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Par décision du président de la Cour du 12 mars 2018, les affaires C‑13/18 et C‑126/18 ont été jointes aux fins de la procédure écrite et orale ainsi que de l’arrêt.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur la compétence de la Cour</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Le gouvernement hongrois invoque l’irrecevabilité des demandes de décision préjudicielle. Selon lui, il n’appartient pas à la Cour d’examiner les questions, soulevées dans les procédures au principal, du paiement des intérêts, dont le taux, le calcul et les modalités procédurales sont régis non pas par le droit de l’Union, mais par le droit national.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Par son argumentation, le gouvernement hongrois conteste en réalité la compétence de la Cour pour répondre aux questions posées.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Saisie au titre de l’article 267 TFUE, la Cour est compétente pour statuer sur l’interprétation des traités ainsi que sur la validité et l’interprétation des actes pris par les institutions de l’Union. À cet égard, s’il n’appartient pas à la Cour d’apprécier la conformité d’une législation nationale avec le droit de l’Union ni d’interpréter des dispositions législatives ou réglementaires nationales, elle est cependant compétente pour fournir aux juridictions de renvoi tous les éléments d’interprétation relevant du droit de l’Union qui peuvent permettre à celles-ci d’apprécier une telle conformité pour le jugement de l’affaire dont elles sont saisies (arrêt du 16 octobre 2019, Glencore Agriculture Hungary, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A861&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑189/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A861&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:861</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A861&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">31</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, il convient de rappeler que les États membres sont tenus de restituer, avec des intérêts, des taxes prélevées en violation du droit de l’Union. Si, en l’absence de législation de l’Union, il appartient à l’ordre juridique interne de chaque État membre de prévoir les conditions dans lesquelles de tels intérêts doivent être versés, notamment le taux et le mode de calcul de ces intérêts, ces conditions doivent cependant respecter les principes d’équivalence et d’effectivité ainsi que le principe de neutralité fiscale (voir, en ce sens, arrêts du 18 avril 2013, Irimie, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A250&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑565/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A250&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:250</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A250&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point22" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">22</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A250&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>, ainsi que du 28 février 2018, Nidera, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑387/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:121</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point22" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">22</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">23</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Or, par leurs questions, les juridictions de renvoi interrogent la Cour sur l’interprétation du droit de l’Union, et plus particulièrement sur celle des principes du droit de l’Union visés au point précédent du présent arrêt, ce qui relève de la compétence de la Cour.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il y a lieu de considérer que la Cour est compétente pour répondre aux questions déférées par les juridictions de renvoi.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les questions préjudicielles</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur les première à troisième questions dans l’affaire C-13/18 ainsi que sur les première et deuxième questions et la première partie de la septième question dans l’affaire C-126/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Par les première à troisième questions dans l’affaire C-13/18 ainsi que par les première et deuxième questions et la première partie de la septième question dans l’affaire C-126/18, qu’il convient d’examiner ensemble, les juridictions de renvoi demandent, en substance, si le droit de l’Union, et, en particulier, l’article 183 de la directive TVA, ainsi que les principes d’effectivité et d’équivalence, d’effet direct et de proportionnalité doivent être interprétés en ce sens qu’ils s’opposent à la pratique d’un État membre, telle que celle en cause au principal, consistant à calculer les intérêts sur les excédents de TVA déductible retenus par cet État au-delà d’un délai raisonnable en violation du droit de l’Union, en appliquant un taux qui correspond au taux de base de la banque centrale nationale.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il ressort de la jurisprudence de la Cour que le droit d’obtenir le remboursement de taxes perçues dans un État membre en violation des règles du droit de l’Union est la conséquence et le complément des droits conférés aux justiciables par les dispositions du droit de l’Union telles qu’elles ont été interprétées par la Cour. Les États membres sont donc tenus, en principe, de rembourser les taxes perçues en violation du droit de l’Union (arrêt du 19 juillet 2012, Littlewoods Retail e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑591/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:478</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point24" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">24</a> ainsi que jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">La Cour a également dit pour droit que, lorsqu’un État membre a prélevé des taxes en violation des règles du droit de l’Union, les justiciables ont droit au remboursement non seulement de l’impôt indûment perçu, mais également des montants payés à cet État ou retenus par celui-ci en rapport direct avec cet impôt. Cela comprend également les pertes constituées par l’indisponibilité de sommes d’argent à la suite de l’exigibilité prématurée de l’impôt (arrêt du 19 juillet 2012, Littlewoods Retail e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑591/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:478</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> ainsi que jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Il ressort de cette jurisprudence que le principe de l’obligation faite aux États membres de restituer avec des intérêts les montants des taxes prélevées en violation du droit de l’Union découle de ce dernier droit (arrêt du 19 juillet 2012, Littlewoods Retail e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑591/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:478</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">26</a> ainsi que jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">En l’absence de législation de l’Union, il appartient à l’ordre juridique interne de chaque État membre de prévoir les conditions dans lesquelles de tels intérêts doivent être versés, notamment le taux et le mode de calcul de ces intérêts (intérêts simples ou intérêts composés). Ces conditions doivent respecter les principes d’équivalence et d’effectivité c’est-à-dire qu’elles ne doivent pas être moins favorables que celles concernant des réclamations semblables fondées sur des dispositions de droit interne ni aménagées de manière à rendre pratiquement impossible l’exercice des droits conférés par l’ordre juridique de l’Union (arrêt du 19 juillet 2012, Littlewoods Retail e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑591/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:478</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> ainsi que jurisprudence citée). Lesdites conditions doivent, en outre, respecter le principe de neutralité fiscale (arrêt du 28 février 2018, Nidera, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑387/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:121</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, les juridictions de renvoi s’interrogent, en premier lieu, sur le point de savoir si la pratique de l’administration fiscale, fondée sur la décision de principe de la Cour suprême n<span class="super">o</span> 18/2017, est compatible avec le principe d’équivalence, en ce qu’elle prévoit que des intérêts sur les montants de l’excédent de TVA déductible qui n’ont pas pu être récupérés en raison de la condition des « acquisitions réglées » sont calculés en application des articles 124/C et 124/D du code de procédure fiscale et non pas sur le fondement de l’article 37, paragraphes 4 et 6, de ce code.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Selon les indications figurant dans les décisions de renvoi, les articles 124/C et 124/D du code de procédure fiscale prévoient que le taux d’intérêt applicable aux sommes à rembourser au contribuable à la suite du prononcé d’une décision par la Cour de justice ou par l’Alkotmánybíróság (Cour constitutionnelle) ou la Kúria (Cour suprême), constatant qu’une règle de droit national prescrivant une obligation fiscale est contraire au droit de l’Union ou à la Loi fondamentale hongroise ou, s’il s’agit d’un règlement communal, à toute autre règle de droit, est égal au taux de base de la banque centrale hongroise. En revanche, selon ces mêmes indications, l’article 37, paragraphe 6, du code de procédure fiscale prévoit l’application d’un taux correspondant au double du taux de base de la banque centrale hongroise dans l’hypothèse où l’administration ne verse pas la TVA dont le remboursement est demandé dans les 30 ou 45 jours de la réception de la demande de remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Il appartient, en définitive, aux juridictions de renvoi, qui sont seules à avoir une connaissance directe des modalités de ces recours en restitution dirigés contre l’État, de vérifier si les modalités destinées à assurer, en droit interne, la sauvegarde des droits que les justiciables tirent du droit de l’Union sont conformes audit principe et d’examiner tant l’objet que les éléments essentiels des recours prétendument similaires de nature interne. À ce titre, ces juridictions nationales doivent vérifier la similitude des recours concernés sous l’angle de leur objet, de leur cause et de leurs éléments essentiels (arrêt du 19 juillet 2012, Littlewoods Retail e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑591/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:478</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A478&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Sous réserve de cette vérification incombant aux juridictions de renvoi, il convient de relever que l’intérêt prévu aux articles 124/C et 124/D du code de procédure fiscale semble avoir pour cause un arrêt de la Cour ou d’une juridiction supérieure nationale constatant, avec effet rétroactif, la contrariété d’une règle du droit national imposant une obligation fiscale avec une règle supérieure. Au contraire, l’article 37, paragraphes 4 et 6, de ce code semble concerner une situation dans laquelle l’administration n’a pas donné suite à une demande de remboursement de la TVA dans le délai imparti. En conséquence, cette disposition sanctionne le non-respect par l’administration fiscale du délai dans lequel elle était tenue de rembourser une somme dont elle était redevable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Il convient d’ajouter que, ainsi que l’a relevé en substance la Commission européenne dans ses observations écrites, alors que l’intérêt de retard prévu à l’article 37, paragraphe 6, dudit code semble s’appliquer sur une période postérieure à la date de la demande de l’assujetti tendant au versement d’une somme due, l’intérêt prévu aux articles 124/C et 124/D de ce code apparaît s’appliquer, notamment, sur une période précédant une telle demande. Il apparaît ainsi que les articles 124/C et 124/D du code de procédure fiscale et l’article 37, paragraphes 4 et 6, de ce code n’ont pas un objet et une cause semblables, ce qu’il appartient toutefois aux juridictions de renvoi de vérifier.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">En second lieu, le principe d’effectivité exige que les règles nationales relatives au calcul des intérêts éventuellement dus en cas de demande de remboursement de l’excédent de TVA déductible retenu en violation du droit de l’Union n’aboutissent pas à priver l’assujetti d’une indemnisation adéquate de la perte occasionnée par l’indisponibilité des sommes concernées (voir, en ce sens, arrêt du 18 avril 2013, Irimie, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A250&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑565/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A250&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:250</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A250&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">26</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ce contexte, il y a lieu de rappeler que, compte tenu de la finalité du versement d’intérêts sur les excédents de TVA retenus par un État membre en violation des règles du droit de l’Union qui tend à compenser les pertes financières générées, au préjudice de l’assujetti, par l’indisponibilité des sommes concernées, le principe de neutralité fiscale exige que les modalités du versement d’intérêts doivent être établies de telle manière que la charge économique des montants de taxe indûment retenus puisse être compensée (voir, en ce sens, arrêts du 16 mai 2013, Alakor Gabonatermelő és Forgalmazó, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A315&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑191/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A315&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:315</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A315&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point24" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">24</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A315&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>, ainsi que du 28 février 2018, Nidera, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑387/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:121</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point24" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A121&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, les juridictions de renvoi s’interrogent sur la compatibilité de la pratique de l’administration fiscale en cause au principal avec les principes rappelés aux deux points précédents du présent arrêt, compte tenu, d’une part, du niveau du taux d’intérêt prévu par les articles 124/C et 124/D du code de procédure fiscale et, d’autre part, de la période couverte par l’application de ces intérêts.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant de ce taux d’intérêt, il convient de relever que les articles 124/C et 124/D de ce code prescrivent l’application des intérêts sur l’excédent de TVA à un taux égal au taux de base de la banque centrale hongroise, correspondant au taux d’intérêt que la banque centrale nationale applique aux opérations principales de refinancement. Toutefois, ainsi que M. l’avocat général l’a relevé aux points 72 et 74 de ses conclusions, si un assujetti devait emprunter une somme égale au montant d’excédent de TVA déductible auprès d’un établissement de crédit afin de compenser le déficit de trésorerie découlant du défaut de remboursement de l’excédent de TVA déductible retenu en violation du droit de l’Union, il devrait payer un taux d’intérêt plus élevé que le taux de base de la banque centrale nationale, lequel est réservé aux seuls établissements de crédit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">En ce qui concerne la période couverte par l’application de ces intérêts, il ressort des dossiers dont dispose la Cour que, conformément à la pratique nationale en cause, les intérêts sur le montant de l’excédent de TVA déductible qui n’a pas pu être récupéré en raison de la condition des « acquisitions réglées » sont calculés sur la période de déclaration de TVA. Conformément à la décision de principe de la Cour suprême n<span class="super">o</span> 18/2017, ces intérêts courent à compter du jour suivant celui du dépôt du formulaire de la déclaration de TVA sur lequel l’assujetti a indiqué un excédent de TVA qui devait être reporté sur la période de déclaration suivante en raison de la condition des « acquisitions réglées » jusqu’au dernier jour du dépôt du formulaire de la déclaration de TVA suivant.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Il ressort à cet égard des éléments présentés par Sole-Mizo et par Dalmandi Mezőgazdasági à la Cour, éléments dont la vérification incombe aux juridictions de renvoi, que la période comprise entre la date à laquelle le montant des intérêts sur l’excédent de TVA déductible non récupérable en raison de la condition des « acquisitions réglées » a été déterminé et la date du paiement effectif de ces intérêts aurait, pour ces deux entreprises, une durée variant entre cinq ans à près de onze ans, durée pour laquelle aucun intérêt ne semblerait être prévu pour compenser l’assujetti de la dépréciation monétaire provoquée par l’écoulement du temps affectant la valeur du montant concerné.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Or, une pratique nationale selon laquelle, en cas de remboursement à la demande de l’assujetti d’un montant d’excédent de TVA déductible retenu en violation du droit de l’Union, les intérêts appliqués sur ce montant, d’une part, sont calculés selon un taux qui est moins élevé que celui qu’un assujetti qui n’est pas un établissement de crédit devrait payer pour emprunter une somme égale audit montant et, d’autre part, courent pendant une période de déclaration donnée, sans application d’un intérêt pour compenser l’assujetti de la dépréciation monétaire provoquée par l’écoulement du temps à la suite de cette période de déclaration jusqu’au paiement effectif de ces intérêts, est susceptible de priver l’assujetti d’une indemnisation adéquate de la perte occasionnée par l’indisponibilité des sommes concernées et, partant, ne respecte pas le principe d’effectivité. En outre, une telle pratique n’est pas de nature à compenser la charge économique des montants de taxe indûment retenus, contrairement au principe de neutralité fiscale.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Compte tenu de ce qui précède, il n’est pas nécessaire d’examiner les présentes questions au regard des principes d’effet direct et de proportionnalité.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard à ce qui précède, il convient de répondre aux première à troisième questions dans l’affaire C-13/18 et aux première et deuxième questions ainsi qu’à la première partie de la septième question dans l’affaire C-126/18 que le droit de l’Union et, en particulier, les principes d’effectivité et de neutralité fiscale doivent être interprétés en ce sens qu’ils s’opposent à la pratique d’un État membre consistant à calculer les intérêts sur les excédents de TVA déductible retenus par cet État membre au-delà d’un délai raisonnable en violation du droit de l’Union, en appliquant un taux qui correspond au taux de base de la banque centrale nationale, lorsque, d’une part, ce taux est moins élevé que celui qu’un assujetti qui n’est pas un établissement de crédit devrait payer pour emprunter une somme égale audit montant et, d’autre part, les intérêts sur les excédents de TVA concernés courent pendant une période de déclaration donnée, sans application d’un intérêt pour compenser l’assujetti de la dépréciation monétaire provoquée par l’écoulement du temps à la suite de cette période de déclaration jusqu’au paiement effectif de ces intérêts.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la deuxième partie de la septième question dans l’affaire C-126/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Par la deuxième partie de sa septième question dans l’affaire C-126/18, la juridiction de renvoi demande, en substance, si le droit de l’Union et, en particulier, les principes d’effectivité et d’équivalence doivent être interprétés en ce sens qu’ils s’opposent à une pratique d’un État membre qui soumet à un délai de prescription de cinq ans les demandes de paiement des intérêts sur l’excédent de TVA déductible retenu en raison de l’application d’une disposition nationale jugée contraire au droit de l’Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il résulte de la jurisprudence visée au point 37 du présent arrêt que, en l’absence de législation de l’Union, il appartient à l’ordre juridique interne de chaque État membre de prévoir les conditions dans lesquelles des intérêts sur les montants des taxes prélevées en violation du droit de l’Union doivent être versés, sous réserve du respect notamment des principes d’équivalence et d’effectivité.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant, en premier lieu, du principe d’effectivité, la Cour a reconnu la compatibilité avec le droit de l’Union de la fixation de délais raisonnables de recours à peine de forclusion dans l’intérêt de la sécurité juridique, qui protègent à la fois le contribuable et l’administration concernés. En effet, de tels délais ne sont pas de nature à rendre pratiquement impossible ou excessivement difficile l’exercice des droits conférés par l’ordre juridique de l’Union, même si, par définition, l’écoulement de ces délais entraîne le rejet, total ou partiel, de l’action intentée (arrêt du 14 juin 2017, Compass Contract Services, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A454&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑38/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A454&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:454</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A454&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point42" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">42</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">Il ressort, en effet, de la jurisprudence de la Cour que la possibilité d’introduire une demande de remboursement des excédents de TVA sans aucune limitation dans le temps irait à l’encontre du principe de sécurité juridique qui exige que la situation fiscale de l’assujetti, eu égard à ses droits et à ses obligations vis-à-vis de l’administration fiscale, ne soit pas indéfiniment susceptible d’être remise en cause (arrêt du 21 janvier 2010, Alstom Power Hydro, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A32&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑472/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A32&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:32</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A32&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point16" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">16</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">La Cour a déjà jugé qu’un délai national de forclusion de trois ans qui court à compter de la date du paiement contesté apparaît raisonnable (arrêt du 11 juillet 2002, Marks &amp; Spencer, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A435&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑62/00</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A435&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2002:435</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A435&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point35" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">35</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, il ressort de la décision de renvoi dans l’affaire C‑126/18 que la pratique nationale en cause au principal, fondée sur l’article 164, paragraphe 1, du code de procédure fiscale, permet à l’assujetti de réclamer des intérêts pour compenser les pertes qu’il a subies depuis la dernière période de déclaration en 2005 en raison de l’application de la condition des « acquisitions réglées ». Conformément à cette pratique nationale, une demande de versement d’intérêts devait être introduite au plus tard le dernier jour de la cinquième année civile après l’entrée en vigueur le 27 septembre 2011 de la loi modificative – laquelle a ouvert une procédure de remboursement d’excédent de TVA déductible retenu en raison de la condition des « acquisitions réglées » – soit jusqu’au 31 décembre 2016.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">Il apparaît ainsi que ladite pratique nationale subordonne le droit de réclamer des intérêts sur un excédent de TVA déductible, retenu par l’État en violation du droit de l’Union, à un délai de prescription de cinq ans qui court à compter de la date d’entrée en vigueur d’une législation nationale instaurant une procédure de remboursement de cet excédent. Il convient de constater qu’une telle pratique nationale respecte les exigences découlant du principe d’effectivité.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">En ce qui concerne, en second lieu, le principe d’équivalence, la Cour ne dispose d’aucun élément de nature à faire douter de la conformité avec ce principe de la pratique nationale en cause au principal, dans la mesure où une demande de versement d’intérêts est subordonnée au même délai de prescription de cinq ans, peu important que la demande soit fondée sur une violation du droit de l’Union ou sur la méconnaissance du droit interne ayant un objet et une cause semblables.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard à ce qui précède, il convient de répondre à la deuxième partie de la septième question dans l’affaire C-126/18 que le droit de l’Union et, en particulier, les principes d’effectivité et d’équivalence doivent être interprétés en ce sens qu’ils ne s’opposent pas à une pratique d’un État membre qui soumet à un délai de prescription de cinq ans les demandes de paiement des intérêts sur l’excédent de TVA déductible retenu en raison de l’application d’une disposition nationale jugée contraire au droit de l’Union.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur les troisième et quatrième questions dans l’affaire C-126/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">Par ses troisième et quatrième questions dans l’affaire C-126/18, qu’il convient d’examiner ensemble, la juridiction de renvoi demande, en substance, si le droit de l’Union et, en particulier, l’article 183 de la directive TVA ainsi que le principe d’effectivité doivent être interprétés en ce sens qu’ils s’opposent à une pratique d’un État membre qui, premièrement, subordonne le paiement d’un intérêt de retard dû en raison du fait que l’administration fiscale n’a pas procédé, dans le délai imparti, au paiement d’une créance d’intérêt due au titre du remboursement d’un excédent de TVA retenu en violation du droit de l’Union à l’introduction d’une demande spécifique, alors que, dans d’autres cas, un tel intérêt est accordé d’office, et, deuxièmement, applique cet intérêt à compter de l’expiration d’un délai de 30 ou de 45 jours imparti à l’administration pour le traitement d’une telle demande, et non à partir de la date à laquelle cet excédent a été constitué.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">À titre liminaire, il convient de relever que ces questions portent non pas sur les intérêts s’appliquant sur les excédents de TVA déductible retenus en violation du droit de l’Union, mais sur l’intérêt de retard prévu à l’article 37, paragraphes 4 et 6, du code de procédure fiscale, qui est applicable en cas de retard par l’administration dans le paiement d’une somme dont la restitution est demandée par l’assujetti. À cet égard, il ressort de la décision de renvoi dans l’affaire C‑126/18 que Dalmandi Mezőgazdasági n’a pas introduit sa demande de récupération des intérêts sur les excédents de cette société relatifs à différentes périodes de déclaration ayant couru du mois de décembre 2005 au mois de juin 2011 dès l’entrée en vigueur de la loi modificative instaurant une procédure de remboursement des excédents de TVA déductible retenus par l’État hongrois en raison de la condition des « acquisitions réglées » au cours de l’année 2011, mais seulement le 30 décembre 2016. Or, la demande de Dalmandi Mezőgazdasági tendant au paiement, à compter d’une date antérieure à l’introduction de cette demande et à l’expiration du délai de traitement par l’administration, d’un intérêt de retard, au titre de l’article 37, paragraphe 6, du code de procédure fiscal, a été refusée par l’administration fiscale, au motif que, en l’absence de demande, aucun retard ne peut être imputable à l’administration.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi que M. l’avocat général l’a relevé au point 100 de ses conclusions, l’intérêt de retard prévu à l’article 37, paragraphes 4 et 6, du code de procédure fiscale étant dû en raison du paiement tardif par l’administration fiscale d’une créance sur demande de l’assujetti, le versement d’un tel intérêt découle directement non pas de l’obligation, en vertu du droit de l’Union, de compenser les pertes occasionnées par l’indisponibilité de l’excédent de TVA retenu en violation du droit de l’Union, mais du dépassement par l’administration fiscale d’un délai procédural auquel elle est soumise, prévu par le droit national.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">Il n’en demeure pas moins que, lorsque, comme dans l’affaire au principal, la créance a pour cause la violation par un État membre du droit de l’Union, le principe d’effectivité exige de celui-ci qu’il verse un intérêt de retard en cas de paiement tardif de cette créance par l’administration, à défaut de quoi les États membres ne seraient pas incités à compenser dans les meilleurs délais les effets de cette violation subis par les assujettis.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant des conditions dans lesquelles de tels intérêts sont versés, il résulte de la jurisprudence rappelée au point 37 du présent arrêt que, en l’absence de législation de l’Union, il appartient à l’ordre juridique interne de chaque État membre de prévoir ces conditions, sous réserve du respect notamment des principes d’équivalence et d’effectivité.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">En ce qui concerne le principe d’effectivité, seul visé par les troisième et quatrième questions dans l’affaire C-126/18, l’exigence relative au dépôt par l’assujetti d’une demande de versement d’un intérêt de retard dû en cas de retard dans le paiement par l’administration d’une créance résultant de la violation par l’État du droit de l’Union n’est, en soi, pas susceptible de rendre pratiquement impossible l’exercice du droit au remboursement d’un excédent de TVA retenu en violation du droit de l’Union. Ainsi que le gouvernement hongrois l’a fait observer, c’est par le dépôt d’une telle demande que l’assujetti informe l’administration fiscale de sa créance et c’est cette demande qui permet à l’administration de s’assurer du montant et du fondement juridique de la créance concernée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">Compte tenu de l’autonomie procédurale dont disposent les États membres pour prévoir, dans leur droit national, les conditions procédurales du versement d’intérêts sur les montants des taxes prélevées en violation du droit de l’Union, l’exigence relative au dépôt par l’assujetti d’une demande de versement d’un intérêt de retard dû en cas de retard dans le paiement par l’administration d’une créance résultant de la violation par l’État du droit de l’Union n’est pas contraire au principe d’effectivité.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="normal">En conséquence, une pratique nationale qui applique l’intérêt de retard prévu par le droit national en cas de paiement tardif par l’administration fiscale d’une créance due à la demande de l’assujetti, à compter de l’expiration d’un délai de 30 ou de 45 jours imparti à l’administration fiscale pour le traitement de cette demande n’est pas non plus contraire au principe d’effectivité, peu important que la créance soit apparue dans le contexte du remboursement d’un excédent de TVA retenu en violation du droit de l’Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il y a lieu de répondre aux troisième et quatrième questions dans l’affaire C-126/18 que le droit de l’Union et, en particulier, le principe d’effectivité doivent être interprétés en ce sens qu’ils ne s’opposent pas à une pratique d’un État membre qui, premièrement, subordonne le paiement d’un intérêt de retard dû en raison du fait que l’administration fiscale n’a pas procédé, dans le délai imparti, au paiement d’une créance due au titre du remboursement d’un excédent de TVA retenu en violation du droit de l’Union à l’introduction d’une demande spécifique, alors que, dans d’autres cas, un tel intérêt est accordé d’office, et, deuxièmement, applique cet intérêt à compter de l’expiration d’un délai de 30 ou de 45 jours imparti à l’administration pour le traitement d’une telle demande, et non à partir de la date à laquelle cet excédent a été constitué.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur les cinquième et sixième questions dans l’affaire C-126/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="normal">Dès lors que, d’une part, la cinquième question dans l’affaire C-126/18 est posée dans l’hypothèse où la Cour répondrait à la quatrième question par l’affirmative et, d’autre part, la sixième question dans cette affaire est posée dans l’hypothèse où la Cour répondrait à la cinquième question par l’affirmative, il n’y a pas lieu de répondre à ces questions.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la huitième question dans l’affaire C-126/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa huitième question dans l’affaire C-126/18, la juridiction de renvoi demande, en substance, si le droit de l’Union et, en particulier, l’article 183 de la directive TVA ainsi que le principe d’effectivité doivent être interprétés en ce sens qu’ils s’opposent à une pratique d’un État membre en vertu de laquelle le paiement d’un intérêt de retard dû en raison du fait que l’administration fiscale n’a pas procédé, dans le délai imparti, au paiement d’une créance d’intérêt due au titre du remboursement d’un excédent de TVA retenu en violation du droit de l’Union ne peut être accordé, pour la période au cours de laquelle cet excédent a été constitué, que si la déclaration de l’assujetti relative à la période au cours de laquelle cet État membre a mis fin à cette violation du droit de l’Union fait apparaître un excédent de TVA déductible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il ressort de la décision de renvoi dans l’affaire C-126/18 que Dalmandi Mezőgazdasági a obtenu le paiement d’un intérêt de retard à hauteur de 7000 HUF (environ 22 euros) pour dépassement du délai de traitement de sa demande du 30 septembre 2016 tendant au versement des intérêts sur les excédents de TVA déductible retenus en violation du droit de l’Union, pour une période postérieure à sa demande, alors que l’administration fiscale a refusé de lui verser un tel intérêt pour la période antérieure à sa demande. En outre, il est constant que la déclaration de cette société relative à la période au cours de laquelle l’État hongrois a mis fin à cette violation du droit de l’Union n’avait pas fait apparaître un excédent de TVA déductible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="normal">Or, ainsi qu’il ressort des points 67 et 68 du présent arrêt, l’administration fiscale pouvait, sans méconnaître le principe d’effectivité, refuser de verser un tel intérêt de retard concernant la période antérieure à l’introduction de la demande.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il n’est pas nécessaire de répondre à la question de savoir si, compte tenu des exigences découlant de ce principe, l’administration pouvait refuser le paiement d’un tel intérêt quant à cette même période pour un motif autre que le retard de dépôt de la demande, tenant à l’absence d’excédent de TVA figurant sur la déclaration de l’assujetti relative à la période au cours de laquelle l’État hongrois a mis fin à ladite violation du droit de l’Union.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant les juridictions de renvoi, il appartient à celles-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (deuxième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Le droit de l’Union et, en particulier, les principes d’effectivité et de neutralité fiscale doivent être interprétés en ce sens qu’ils s’opposent à la pratique d’un État membre consistant à calculer les intérêts sur les excédents de taxe sur la valeur ajoutée (TVA) déductible retenus par cet État membre au-delà d’un délai raisonnable en violation du droit de l’Union, en appliquant un taux qui correspond au taux de base de la banque centrale nationale, lorsque, d’une part, ce taux est moins élevé que celui qu’un assujetti qui n’est pas un établissement de crédit devrait payer pour emprunter une somme égale audit montant et, d’autre part, les intérêts sur les excédents de TVA concernés courent pendant une période de déclaration donnée, sans application d’un intérêt pour compenser l’assujetti de la dépréciation monétaire provoquée par l’écoulement du temps à la suite de cette période de déclaration jusqu’au paiement effectif de ces intérêts.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Le droit de l’Union et, en particulier, les principes d’effectivité et d’équivalence doivent être interprétés en ce sens qu’ils ne s’opposent pas à une pratique d’un État membre qui soumet à un délai de prescription de cinq ans les demandes de paiement des intérêts sur l’excédent de taxe sur la valeur ajoutée déductible retenu en raison de l’application d’une disposition nationale jugée contraire au droit de l’Union.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">3)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Le droit de l’Union et, en particulier, le principe d’effectivité doivent être interprétés en ce sens qu’ils ne s’opposent pas à une pratique d’un État membre qui, premièrement, subordonne le paiement d’un intérêt de retard dû en raison du fait que l’administration fiscale n’a pas procédé, dans le délai imparti, au paiement d’une créance due au titre du remboursement d’un excédent de taxe sur la valeur ajoutée retenu en violation du droit de l’Union à l’introduction d’une demande spécifique, alors que, dans d’autres cas, un tel intérêt est accordé d’office, et, deuxièmement, applique cet intérêt à compter de l’expiration d’un délai de 30 ou de 45 jours imparti à l’administration pour le traitement d’une telle demande, et non à partir de la date à laquelle cet excédent a été constitué.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0013_FR_01-E0001" id="t-ECR_62018CJ0013_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : le hongrois.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

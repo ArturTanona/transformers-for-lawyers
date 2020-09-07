@@ -1,0 +1,1278 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>ARRÊT DE LA COUR (quatrième chambre)</p>
+<p class="sum-title-1">28 mai 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0796_FR_01-E0001" id="c-ECR_62018CJ0796_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Marchés publics – Directive 2014/24/UE – Article 2, paragraphe 1, point 5 – Article 12, paragraphe 4 – Article 18, paragraphe 1 – Notion de “contrat à titre onéreux” – Contrat entre deux pouvoirs adjudicateurs poursuivant un objectif commun d’intérêt public – Mise à disposition d’un logiciel destiné à coordonner les interventions des pompiers – Absence de contrepartie pécuniaire – Lien avec un accord de coopération prévoyant la mise à disposition mutuelle et à titre gratuit de modules supplémentaires de ce logiciel – Principe d’égalité de traitement – Interdiction de placer une entreprise privée dans une situation privilégiée par rapport à ses concurrents »</p>
+<p class="normal">Dans l’affaire C‑796/18,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par l’Oberlandesgericht Düsseldorf (tribunal régional supérieur de Düsseldorf, Allemagne), par décision du 28 novembre 2018, parvenue à la Cour le 19 décembre 2018, dans la procédure</p>
+<p class="normal">
+<span class="bold">Informatikgesellschaft für Software-Entwicklung (ISE) mbH</span>
+</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">Stadt Köln,</span>
+</p>
+<p class="normal">en présence de :</p>
+<p class="normal">
+<span class="bold">Land Berlin,</span>
+</p>
+<p class="normal">LA COUR (quatrième chambre),</p>
+<p class="normal">composée de M. M. Vilaras, président de chambre, M. K. Lenaerts, président de la Cour, faisant fonction de juge de la quatrième chambre, MM. S. Rodin, D. Šváby (rapporteur) et N. Piçarra, juges,</p>
+<p class="normal">avocat général : M. M. Campos Sánchez-Bordona,</p>
+<p class="normal">greffier : M. D. Dittert, chef d’unité,</p>
+<p class="normal">vu la procédure écrite et à la suite de l’audience du 6 novembre 2019,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour Informatikgesellschaft für Software-Entwicklung (ISE) mbH, par M<span class="super">e</span> Bernhard Stolz, Rechtsanwalt,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Stadt Köln, par M<span class="super">es</span> K. van de Sande et U. Jasper, Rechtsanwältinnen,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement autrichien, par M<span class="super">me</span> J. Schmoll ainsi que par MM. G. Hesse et M. Fruhmann, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M<span class="super">me</span> L. Haasbeek ainsi que par MM. M. Noll-Ehlers et P. Ondrůšek, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">ayant entendu l’avocat général en ses conclusions à l’audience du 29 janvier 2020,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation de l’article 2, paragraphe 1, point 5, et de l’article 12, paragraphe 4, de la directive 2014/24/UE du Parlement européen et du Conseil, du 26 février 2014, sur la passation des marchés publics et abrogeant la directive 2004/18/CE (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2014:094:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2014, L 94, p. 65</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant Informatikgesellschaft für Software-Entwicklung (ISE) mbH à la Stadt Köln (ville de Cologne, Allemagne) au sujet de deux contrats conclus entre la ville de Cologne et le Land Berlin (Land de Berlin, Allemagne) et prévoyant, respectivement, la mise à disposition gratuite, au bénéfice de cette ville, d’un logiciel de gestion des interventions des pompiers et une coopération en vue de développer ledit logiciel.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit de l’Union</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Les considérants 31 et 33 de la directive 2014/24 énoncent :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« (31)</p>
+</td>
+<td valign="top">
+<p class="normal">Il existe une importante insécurité juridique quant à la question de savoir dans quelle mesure les règles sur la passation des marchés publics devraient s’appliquer aux marchés conclus entre entités appartenant au secteur public. La jurisprudence applicable de la [Cour] fait l’objet d’interprétations divergentes entre États membres et même entre pouvoirs adjudicateurs. Il est dès lors nécessaire de préciser dans quels cas les marchés conclus au sein du secteur public ne sont pas soumis à l’application des règles relatives à la passation des marchés publics.</p>
+<p class="normal">Ces précisions devraient s’appuyer sur les principes énoncés dans la jurisprudence pertinente de la [Cour]. La seule circonstance que les deux parties à un accord sont elles-mêmes des pouvoirs publics n’exclut pas en soi l’application des règles relatives à la passation des marchés publics. L’application de ces règles ne devrait toutefois pas interférer avec la liberté des pouvoirs publics d’exercer les missions de service public qui leur sont confiées en utilisant leurs propres ressources, ce qui inclut la possibilité de coopérer avec d’autres pouvoirs publics.</p>
+<p class="normal">Il convient de veiller à ce qu’aucune coopération public-public ainsi exclue n’entraîne de distorsion de concurrence à l’égard des opérateurs économiques privés dans la mesure où cela place un prestataire de services privé dans une situation privilégiée par rapport à ses concurrents.</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(33)</p>
+</td>
+<td valign="top">
+<p class="normal">Les pouvoirs adjudicateurs devraient pouvoir choisir de fournir conjointement leurs services publics par la voie de la coopération, sans être contraints de recourir à une forme juridique particulière. Cette coopération pourrait porter sur tous les types d’activités liées à l’exécution de services et à l’exercice de responsabilités confiées aux pouvoirs adjudicateurs participants ou assumées par eux, telles que des missions obligatoires ou volontaires relevant d’autorités locales ou régionales ou des services confiés à des organismes particuliers par le droit public. Les services fournis par les différents pouvoirs adjudicateurs participants ne doivent pas nécessairement être identiques ; ils pourraient également être complémentaires.</p>
+<p class="normal">Les marchés concernant la fourniture conjointe de services publics ne devraient pas être soumis à l’application des règles établies dans la présente directive, à condition qu’ils soient conclus exclusivement entre pouvoirs adjudicateurs, que la mise en œuvre de cette coopération n’obéisse qu’à des considérations d’intérêt public et qu’aucun prestataire privé de services ne soit placé dans une situation privilégiée par rapport à ses concurrents.</p>
+<p class="normal">Pour que ces conditions soient remplies, il convient que la coopération soit fondée sur le concept de coopération. Cette coopération n’exige pas que tous les pouvoirs participants se chargent de l’exécution des principales obligations contractuelles, tant que l’engagement a été pris de coopérer à l’exécution du service public en question. En outre, la mise en œuvre de la coopération, y compris tout transfert financier entre les pouvoirs adjudicateurs participants, ne devrait obéir qu’à des considérations d’intérêt public. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Intitulé « Objet et champ d’application », l’article 1<span class="super">er</span> de cette directive dispose, à son paragraphe 1 :</p>
+<p class="normal">« La présente directive établit les règles applicables aux procédures de passation de marchés par des pouvoirs adjudicateurs en ce qui concerne les marchés publics, ainsi que les concours, dont la valeur estimée atteint ou dépasse les seuils établis à l’article 4. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 2, paragraphe 1, point 5, de ladite directive définit les « marchés publics » comme « des contrats à titre onéreux conclus par écrit entre un ou plusieurs opérateurs économiques et un ou plusieurs pouvoirs adjudicateurs et ayant pour objet l’exécution de travaux, la fourniture de produits ou la prestation de services ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Intitulé « Marchés publics passés entre entités appartenant au secteur public », l’article 12 de la directive 2014/24 prévoit, à son paragraphe 4 :</p>
+<p class="normal">« Un marché conclu exclusivement entre deux pouvoirs adjudicateurs ou plus ne relève pas du champ d’application de la présente directive, lorsque toutes les conditions suivantes sont réunies :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">le marché établit ou met en œuvre une coopération entre les pouvoirs adjudicateurs participants dans le but de garantir que les services publics dont ils doivent assurer la prestation sont réalisés en vue d’atteindre les objectifs qu’ils ont en commun ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">la mise en œuvre de cette coopération n’obéit qu’à des considérations d’intérêt public ; et</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c)</p>
+</td>
+<td valign="top">
+<p class="normal">les pouvoirs adjudicateurs participants réalisent sur le marché concurrentiel moins de 20 % des activités concernées par la coopération ».</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 18 de cette directive, qui énonce les « [p]rincipes de la passation de marchés », dispose, à son paragraphe 1 :</p>
+<p class="normal">« Les pouvoirs adjudicateurs traitent les opérateurs économiques sur un pied d’égalité et sans discrimination et agissent d’une manière transparente et proportionnée.</p>
+<p class="normal">Un marché ne peut être conçu dans l’intention de le soustraire au champ d’application de la présente directive ou de limiter artificiellement la concurrence. La concurrence est considérée comme artificiellement limitée lorsqu’un marché est conçu dans l’intention de favoriser ou de défavoriser indûment certains opérateurs économiques. »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit allemand</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 103, paragraphe 1, du Gesetz gegen Wettbewerbsbeschränkungen (loi contre les restrictions de concurrence), du 26 juin 2013 (BGBl. 2013 I, p. 1750), dans sa version applicable au litige au principal (ci-après la « loi contre les restrictions de concurrence »), dispose que les marchés publics sont des contrats à titre onéreux conclus entre pouvoirs adjudicateurs et entreprises ayant pour objet la fourniture de produits, l’exécution de travaux ou la prestation de services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Conformément à l’article 106, paragraphe 1, première phrase, de cette loi, les instances de contrôle des procédures de passation de marchés peuvent être saisies en cas d’attribution de marchés publics dont la valeur estimée hors taxe sur la valeur ajoutée est égale ou supérieure aux seuils fixés.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 108, paragraphe 6, de ladite loi prévoit que le recours aux instances de contrôle des procédures de passation de marchés n’est pas ouvert pour les marchés conclus entre deux pouvoirs adjudicateurs ou plus, lorsque :</p>
+<p class="normal">« 1.   le marché établit ou met en œuvre une coopération entre les pouvoirs adjudicateurs participants afin de garantir que les services publics dont ils doivent assurer la prestation sont réalisés en vue d’atteindre les objectifs qu’ils ont en commun,</p>
+<p class="normal">2.   la mise en œuvre de la coopération visée au paragraphe 1 n’obéit qu’à des considérations d’intérêt public et</p>
+<p class="normal">3.   les pouvoirs adjudicateurs réalisent sur le marché moins de 20 % des activités concernées par la coopération visée au paragraphe 1. »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Le Land de Berlin, qui dispose du plus grand corps de pompiers professionnels d’Allemagne, utilise le logiciel « IGNIS Plus » qu’il a acquis par contrat auprès de Sopra Steria Consulting GmbH pour gérer les interventions des pompiers. Ce contrat lui permet notamment de transmettre gratuitement ledit logiciel à d’autres autorités chargées de la sécurité.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">En Allemagne, conformément aux décisions dites de « Kiel », datant de l’année 1979, fixant les principes d’échange de logiciels entre administrations publiques, la transmission gratuite d’un logiciel d’une collectivité publique à une autre n’est pas considérée comme étant une passation de marchés devant faire l’objet d’un appel d’offres. Il résulterait en effet du principe de la réciprocité générale que les développements logiciels dont la commercialisation par les pouvoirs publics est exclue sont transmis gratuitement entre administrations publiques, dès lors qu’elles ne sont pas en concurrence les unes avec les autres.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Le 10 septembre 2017, la ville de Cologne et le Land de Berlin ont, en application de ces décisions, conclu un contrat de mise à disposition gratuite et permanente du logiciel « IGNIS Plus » (ci‑après le « contrat de mise à disposition du logiciel »), qui stipule notamment :</p>
+<p class="normal">« 1. Objet du contrat</p>
+<p class="normal">Les présentes conditions régissent la mise à disposition permanente et l’utilisation du logiciel individualisé “IGNIS Plus”. L’entité mettant le logiciel à disposition dispose des droits sur ce dernier.</p>
+<p class="normal">Le logiciel individualisé “IGNIS Plus” est le logiciel de gestion des interventions utilisé par l’entité le mettant à disposition pour la réception, le traitement et le suivi opérationnel des activités des pompiers dans la lutte contre les incendies, l’assistance technique, le secours d’urgence et la protection civile. [...]</p>
+<p class="normal">2. Nature et étendue des prestations</p>
+<p class="normal">2.1. Le cédant met le logiciel individualisé “IGNIS Plus” à la disposition du cessionnaire conformément à ce qui est convenu dans l’accord de coopération.</p>
+<p class="normal">[...]</p>
+<p class="normal">4. Contrepartie de la mise à disposition</p>
+<p class="normal">La mise à disposition du logiciel individualisé “IGNIS Plus” en tant que logiciel de gestion des interventions est gratuite. [...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Le même jour, la ville de Cologne et le Land de Berlin ont également conclu un contrat de coopération pour ce logiciel (ci-après le « contrat de coopération »), destiné notamment à adapter ledit logiciel aux besoins du partenaire et à le mettre concrètement à sa disposition par l’ajout de nouvelles fonctionnalités techniques sous forme de « modules techniques complémentaires et ajoutés » qui seront proposés gratuitement aux partenaires de la coopération.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">L’accord de coopération stipule en particulier :</p>
+<p class="normal">« Article premier – Finalité de la volonté de coopérer</p>
+<p class="normal">[...] Les partenaires ont choisi un partenariat d’égal à égal et, si nécessaire, dans un esprit de compromis afin d’adapter le logiciel aux besoins respectifs du partenaire et le mettre à sa disposition. [...]</p>
+<p class="normal">Article 2 – Détermination de l’objectif de la coopération</p>
+<p class="normal">L’objectif des partenaires est de mettre en place le logiciel “IGNIS Plus”, en tant que système de gestion des interventions, dans les centres opérationnels des pompiers. De nouvelles fonctionnalités techniques peuvent être ajoutées au système logiciel sous forme de modules et mises à la disposition des autres partenaires de la coopération en vue d’une utilisation gratuite. [...]</p>
+<p class="normal">[...]</p>
+<p class="normal">Article 5 – Configuration de la coopération</p>
+<p class="normal">[...] La mise à disposition du logiciel de base est gratuite. Les modules techniques complémentaires et ajoutés sont proposés gratuitement aux partenaires de la coopération.</p>
+<p class="normal">L’adaptation du logiciel de base ainsi que des modules aux processus individuels doit être demandée et financée de manière autonome.</p>
+<p class="normal">[...] [Le contrat] de coopération n’est contraignant qu’en tant que document conjoint avec le contrat [de mise à disposition du logiciel]. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">ISE, qui conçoit et vend des logiciels de gestion des interventions pour les autorités chargées de la sécurité, a formé un recours devant la Vergabekammer Rheinland (chambre des marchés publics de Rhénanie, Allemagne) visant à ce que le contrat de mise à disposition du logiciel et le contrat de coopération soient invalidés en raison du non-respect de la réglementation des marchés publics. Selon ISE, la participation de la ville de Cologne au développement ultérieur du logiciel « IGNIS Plus » mis gratuitement à sa disposition constitue un avantage financier suffisant pour le Land de Berlin de telle sorte que ces contrats auraient un caractère onéreux.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Par décision du 20 mars 2018, la Vergabekammer Rheinland (chambre des marchés publics de Rhénanie) a déclaré ce recours irrecevable au motif que lesdits contrats ne constituaient pas un marché public, eu égard à leur absence de caractère onéreux. En particulier, le lien synallagmatique entre la prestation et la contrepartie ferait défaut dans le cadre de la coopération en cause.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">ISE a saisi la juridiction de renvoi, l’Oberlandesgericht Düsseldorf (tribunal régional supérieur de Düsseldorf, Allemagne), d’un recours dirigé contre cette décision. Elle réaffirme que le contrat de coopération est un contrat à titre onéreux dans la mesure où le Land de Berlin entendrait retirer un avantage financier de la mise à disposition du logiciel en cause au principal, la ville de Cologne étant tenue de mettre gratuitement à sa disposition les modules complémentaires ou ajoutés de ce logiciel qu’elle aurait développés. ISE fait également grief à la Vergabekammer Rheinland (chambre des marchés publics de Rhénanie) d’avoir omis à tort de considérer que le fait de se procurer le logiciel de base entraîne l’attribution de marchés ultérieurs au fabricant puisque lui seul serait en mesure de l’adapter, ainsi que d’en assurer l’entretien et la maintenance.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">La ville de Cologne sollicite la confirmation de la décision de cette juridiction et fait valoir, en outre, que, si le contrat de coopération était considéré comme un contrat à titre onéreux, il constituerait une coopération entre pouvoirs adjudicateurs et, partant, ne relèverait pas du droit des marchés publics, conformément à l’article 108, paragraphe 6, de la loi contre les restrictions de concurrence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Éprouvant des doutes quant au bien-fondé de la décision de la Vergabekammer Rheinland (chambre des marchés publics de Rhénanie), la juridiction de renvoi estime nécessaire d’interroger la Cour sur l’interprétation de la directive 2014/24.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">La première question préjudicielle vise ainsi à déterminer si la notion de « marché public », au sens de l’article 2, paragraphe 1, point 5, de la directive 2014/24, est différente de celle de « marché », visée à l’article 12, paragraphe 4, de cette directive. Dans l’affirmative, un contrat dépourvu de caractère onéreux pourrait, sans constituer un marché public, être qualifié de « marché », au sens de l’article 12, paragraphe 4, de ladite directive et, partant, échapper aux règles de passation des marchés publics, dès lors que les conditions visées aux points a) à c) de cette disposition sont réunies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Par ailleurs, jusqu’alors, la juridiction de renvoi aurait retenu, dans sa jurisprudence, une acception large du contrat à titre onéreux caractérisant le marché public, au sens de l’article 103, paragraphe 1, de la loi contre les restrictions de concurrence, en considérant que tout lien juridique entre des prestations réciproques était suffisant. Partant, bien que la mise à disposition du logiciel « IGNIS Plus » débouche sur une coopération qui n’ouvre des droits que si l’un des partenaires de la coopération souhaite étendre les fonctionnalités de ce logiciel, l’offre de coopération en cause aurait un caractère onéreux, en dépit de l’incertitude quant aux futurs développements dudit logiciel.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi se demande cependant s’il ne conviendrait pas, eu égard à l’arrêt du 21 décembre 2016, Remondis (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A985&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑51/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A985&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:985</a>), de retenir une acception des notions de « marché public » et de « contrat à titre onéreux », visées à l’article 2, paragraphe 1, point 5, de la directive 2014/24, plus étroite que celle qu’elle retenait jusqu’alors et qui n’engloberait pas des situations telles que celle en cause au principal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Enfin, les marchés attribués par la ville de Cologne pour les adaptations et la maintenance du logiciel « IGNIS Plus » devraient être considérés comme des contrats à titre onéreux. Il s’agirait en effet d’accords contractuels autonomes conclus avec des tiers et séparables de la mise à disposition de ce logiciel.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">La deuxième question préjudicielle concerne l’objet de la coopération entre les pouvoirs adjudicateurs prévue à l’article 12, paragraphe 4, de la directive 2014/24. Après avoir comparé les versions en langues allemande, anglaise et française de cette directive et, eu égard au début du considérant 33 de ladite directive, la juridiction de renvoi estime que des activités auxiliaires peuvent constituer l’objet de cette coopération, sans qu’il soit nécessaire que ladite coopération ait lieu lors de la fourniture des services publics en tant que tels.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">La troisième question préjudicielle se justifierait par le fait que, selon la jurisprudence de la Cour se rapportant à la directive 2004/18/CE du Parlement européen et du Conseil, du 31 mars 2004, relative à la coordination des procédures de passation des marchés publics de travaux, de fournitures et de services (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:134:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2004, L 134, p. 114</a>), l’interdiction de traitement plus favorable d’un opérateur économique était interprétée en ce sens qu’une coopération horizontale ne pouvait échapper au droit des marchés publics que si aucune entreprise privée n’était placée dans une situation privilégiée par rapport à ses concurrents. Or, l’article 12, paragraphe 4, de la directive 2014/24 ne prévoirait aucune interdiction analogue, bien que celle-ci soit évoquée au considérant 33 de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">C’est dans ce contexte que l’Oberlandesgericht Düsseldorf (tribunal régional supérieur de Düsseldorf) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« 1)</p>
+</td>
+<td valign="top">
+<p class="normal">Une mise à disposition d’un logiciel, par une administration publique à une autre administration publique, convenue par écrit et liée à un accord de coopération constitue-t-elle un “marché public” au sens de l’article 2, paragraphe 1, point 5, de la directive [2014/24] ou un marché relevant du champ d’application de la directive au sens de l’article 12, paragraphe 4, de la directive – à tout le moins dans un premier temps, sous réserve de l’article 12, paragraphe 4, sous a) à c) –, lorsque, bien que l’administration ayant reçu le logiciel n’ait pas à payer un prix ou à rembourser le coût du logiciel, l’accord de coopération lié à la mise à disposition prévoit que chaque partie à l’accord de coopération – et donc aussi celle recevant le logiciel – met gratuitement à la disposition de l’autre les futurs développements logiciels qu’elle est susceptible, sans obligation à cet égard, d’avoir conçus ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2)</p>
+</td>
+<td valign="top">
+<p class="normal">[En cas de réponse affirmative à la première question], conformément à l’article 12, paragraphe 4, sous a), de la directive 2014/24, la coopération entre les pouvoirs adjudicateurs participants doit-elle avoir pour objet les services publics devant être fournis conjointement au citoyen en tant que tels, ou suffit-il que la coopération porte sur des activités qui contribuent de quelque manière que ce soit aux services publics devant de même être fournis, mais pas forcément conjointement ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3)</p>
+</td>
+<td valign="top">
+<p class="normal">Une interdiction non écrite de traitement plus favorable s’applique-t-elle dans le cadre de l’article 12, paragraphe 4, de la directive 2014/24, et, si oui, quelle est sa teneur ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les questions préjudicielles</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la première question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa première question, la juridiction de renvoi demande, en substance, si la directive 2014/24 doit être interprétée en ce sens qu’un accord qui, d’une part, prévoit qu’un pouvoir adjudicateur met gratuitement à la disposition d’un autre pouvoir adjudicateur un logiciel et, d’autre part, est lié à un accord de coopération en vertu duquel chaque partie à cet accord est tenue de mettre gratuitement à la disposition de l’autre partie les futurs développements de ce logiciel qu’elle pourrait concevoir, constitue un « marché public », au sens de l’article 2, paragraphe 1, point 5, de cette directive, ou un « marché », au sens de l’article 12, paragraphe 4, de ladite directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">À titre liminaire, il convient de noter qu’en se référant seulement à la notion de « marché » et non à celle de « marché public », le libellé de l’article 12, paragraphe 4, de la directive 2014/24 pourrait suggérer que ces deux notions sont distinctes. Toutefois, il n’y a, en réalité, pas lieu de les distinguer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">En effet, premièrement, l’article 1<span class="super">er</span> de cette directive, qui en précise l’« objet et [le] champ d’application », dispose, à son paragraphe 1, que « [l]a présente directive établit les règles applicables aux procédures de passation de marchés par des pouvoirs adjudicateurs en ce qui concerne les marchés publics, ainsi que les concours, dont la valeur estimée atteint ou dépasse les seuils établis à l’article 4 [de cette directive] ». Il s’ensuit que ladite directive ne régit que les marchés publics et les concours, à l’exclusion des marchés qui ne présenteraient pas le caractère de marché public.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Deuxièmement, l’article 2, paragraphe 1, de la directive 2014/24, qui définit les principales notions dont dépend l’application de cette directive, ne mentionne aucunement la notion de « marché » mais seulement celle de « marchés publics », ce qui suggère que le terme « marché » ne constitue qu’une version abrégée de l’expression « marché public ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Troisièmement, une telle interprétation est corroborée par l’intitulé de l’article 12 de la directive 2014/24, lequel vise les « [m]archés publics passés entre entités appartenant au secteur public ». Dès lors, la mention d’un « marché » à l’article 12, paragraphe 4, de cette directive doit être comprise comme renvoyant à la notion de « marché public », au sens de l’article 2, paragraphe 1, point 5, de ladite directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Quatrièmement, ladite interprétation est également confirmée par les travaux préparatoires relatifs à l’article 12, paragraphe 4, de la directive 2014/24. Ainsi que l’a rappelé la Commission européenne dans ses observations écrites, tandis que sa proposition de directive du Parlement européen et du Conseil sur la passation des marchés publics du 20 décembre 2011 [COM(2011) 896 final] comportait un article 11 intitulé « Relations entre pouvoirs publics », dont le paragraphe 4 prévoyait qu’« [u]n accord conclu entre deux pouvoirs adjudicateurs ou plus n’est pas réputé être un marché public au sens de l’article 2, point 6, de la présente directive, dès lors que toutes les conditions suivantes sont réunies », le législateur de l’Union n’a pas entendu suivre cette proposition. Il s’ensuit que l’article 12, paragraphe 4, de la directive 2014/24 ne saurait avoir pour effet d’ôter sa qualité de marché public à une coopération entre pouvoirs adjudicateurs. Son effet se limite uniquement à exclure un tel marché de l’application des règles de passation normalement applicables.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Cinquièmement, cette interprétation est confirmée par l’analyse du contexte de l’article 12 de la directive 2014/24. En effet, cet article est placé dans la section 3, intitulée « Exclusions », du chapitre I de cette directive. Or, il serait incohérent que le législateur de l’Union ait cherché à exclure des règles relatives à la passation des marchés publics des contrats qui ne constituent pas des marchés publics. En effet, par hypothèse, les causes d’exclusion sont sans objet à l’égard de tels contrats.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit, d’une part, que l’exclusion des règles de passation des marchés publics postule que le contrat concerné soit un marché public, au sens de l’article 2, paragraphe 1, point 5, de la directive 2014/24 et, d’autre part, qu’un marché public remplissant les conditions posées à l’article 12, paragraphe 4, sous a) à c), de cette directive, conserve sa nature juridique de « marché public », et ce même si de telles règles ne lui sont pas applicables.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">En conséquence, la notion de « marché », visée à l’article 12, paragraphe 4, de la directive 2014/24, se confond avec celle de « marché public », telle que définie à l’article 2, paragraphe 1, point 5, de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il y a lieu de déterminer si un accord qui, d’une part, prévoit qu’un pouvoir adjudicateur met gratuitement à la disposition d’un autre pouvoir adjudicateur un logiciel et, d’autre part, est lié à un accord de coopération en vertu duquel chaque partie à cet accord est tenue de mettre gratuitement à la disposition de l’autre partie les futurs développements de ce logiciel qu’elle pourrait concevoir, constitue un « marché public », au sens de l’article 2, paragraphe 1, point 5, de la directive 2014/24.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">À titre liminaire, il convient de rappeler que, aux fins de la possible qualification de « marché public », au sens de cette disposition, d’une opération qui comporte plusieurs actes, cette opération doit être examinée dans sa globalité et en tenant compte de sa finalité (voir, par analogie, arrêts du 10 novembre 2005, Commission/Autriche, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A670&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C-29/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A670&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:670</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A670&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point41" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">41</a>, et du 21 décembre 2016, Remondis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A985&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C-51/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A985&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:985</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A985&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de ladite disposition, les « marchés publics » se définissent comme des contrats à titre onéreux conclus par écrit entre un ou plusieurs opérateurs économiques et un ou plusieurs pouvoirs adjudicateurs et ayant pour objet l’exécution de travaux, la fourniture de produits ou la prestation de services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Par conséquent, pour être qualifié de « marché public », au sens de ladite disposition, un contrat doit avoir été conclu à titre onéreux et, partant, impliquer que le pouvoir adjudicateur qui conclut un marché public reçoive en vertu de ce contrat, moyennant une contrepartie, une prestation devant comporter un intérêt économique direct pour ce pouvoir adjudicateur. En outre, ce contrat doit présenter un caractère synallagmatique, ce trait constituant une caractéristique essentielle d’un marché public (voir, par analogie, arrêt du 21 décembre 2016, Remondis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A985&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑51/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A985&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:985</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A985&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point43" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">43</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, le caractère onéreux du contrat de mise à disposition du logiciel et du contrat de coopération paraît subordonné au caractère synallagmatique de la coopération ainsi instaurée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Dans la mesure où l’article 5, troisième alinéa, du contrat de coopération prévoit que ce contrat n’est contraignant « qu’en tant que document conjoint avec le contrat de mise à disposition du logiciel », il convient, afin d’apprécier le caractère synallagmatique de l’ensemble contractuel constitué par ces deux contrats de tenir compte non seulement de leurs stipulations mais également de l’environnement réglementaire dans le cadre duquel ils ont été conclus.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Or, sur ce dernier point, il apparaît, ainsi que l’a indiqué la ville de Cologne tant dans ses observations écrites qu’à l’audience, que la réglementation allemande sur la protection contre les incendies, l’assistance technique et la protection civile ainsi que celle sur les services de secours, sur les interventions d’urgence et le transport en ambulance par des entreprises obligent les collectivités territoriales allemandes en charge desdites missions à utiliser le système de gestion des interventions de la manière la plus optimale possible et à l’adapter en permanence aux besoins.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">C’est en partant de cette prémisse que la Cour examinera les termes de l’ensemble contractuel litigieux.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, tant les termes du contrat de mise à disposition du logiciel que ceux du contrat de coopération rendent vraisemblables l’existence d’une contrepartie. Si l’article 4 du contrat de mise à disposition indique que la mise à disposition de ce logiciel est « gratuite », il ressort toutefois de l’article 1<span class="super">er</span> de ce contrat que celle-ci est « permanente ». Or, un contrat de mise à disposition d’un logiciel tel que celui en cause au principal, qui est censé s’inscrire dans la durée, sera nécessairement amené à connaître des évolutions, afin de tenir compte, ainsi que l’a notamment souligné ISE à l’audience, des adaptations imposées par de nouvelles réglementations, de l’évolution de l’organisation du service de secours ou encore des progrès technologiques. D’ailleurs, selon les déclarations formulées par la ville de Cologne lors de l’audience, des modifications importantes dudit logiciel et l’ajout de modules complémentaires interviendraient trois ou quatre fois par an.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">En outre, ainsi que le stipule l’article 2.1 du contrat de mise à disposition du logiciel, le logiciel « IGNIS Plus » est mis à disposition « conformément à ce qui est convenu dans [le contrat] de coopération », ce qui suggère que le Land de Berlin a introduit une forme de conditionnalité. Dès lors, bien que gratuite, la mise à disposition dudit logiciel n’apparaît pas désintéressée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">Par ailleurs, selon l’article 1<span class="super">er</span> du contrat de coopération, la finalité de ce dernier est d’instaurer « un partenariat d’égal à égal et, si nécessaire, dans un esprit de compromis afin d’adapter le logiciel aux besoins respectifs du partenaire et de le mettre à sa disposition ». La formulation retenue suggère également que les parties s’engagent à faire évoluer la version initiale du logiciel en cause au principal, lorsque l’utilisation la plus optimale possible du système de gestion des interventions et l’adaptation permanente de ce système aux besoins exigent une telle évolution.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">De surcroît, l’article 5 dudit contrat stipule que « [l]’adaptation du logiciel de base ainsi que des modules aux processus individuels doit être demandée et financée de manière autonome », ce qui traduit l’intérêt financier, pour le Land de Berlin, de la mise à disposition gratuite dudit logiciel. D’ailleurs, en réponse à une question posée par la Cour lors de l’audience qui s’est tenue devant elle, la ville de Cologne a reconnu qu’un tel contrat devrait permettre à tous les partenaires de réaliser des économies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Enfin, dans l’hypothèse où l’une des parties contractantes à l’ensemble contractuel en cause au principal apporterait des adaptations au logiciel en cause au principal et ne les transmettrait pas à l’autre partie, il semblerait que cette dernière puisse soit résilier le contrat de coopération, ainsi que, le cas échéant, le contrat de mise à disposition du logiciel, voire agir en justice afin de réclamer le bénéfice de l’adaptation ainsi apportée. Il apparaît ainsi que les obligations découlant du marché public en cause au principal sont juridiquement contraignantes, leur exécution pouvant être réclamée en justice (arrêt du 25 mars 2010, Helmut Müller, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A168&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑451/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A168&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:168</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A168&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point62" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">62</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, sous réserve de vérification par la juridiction de renvoi, il ressort des considérations qui précèdent que le contrat de mise à disposition du logiciel et le contrat de coopération présentent un caractère synallagmatique dans la mesure où la mise à disposition gratuite du logiciel « IGNIS Plus » engendre une obligation réciproque de développement de ce logiciel lorsque l’utilisation la plus optimale possible du système de gestion des interventions et l’adaptation permanente de ce système aux besoins exigent une telle évolution, laquelle se concrétise par le financement de modules complémentaires qui devront par la suite être mis gratuitement à la disposition de l’autre partenaire.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il apparaît, ainsi que l’a relevé en substance M. l’avocat général aux points 59 et 62 de ses conclusions, que la mise à jour du logiciel « IGNIS Plus » sera inévitable en pratique, quel que soit le moment auquel elle interviendra, de sorte que la contrepartie ne dépend pas d’une condition purement potestative.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Dès lors que l’adaptation du logiciel en cause au principal par l’un des partenaires présente un intérêt financier évident pour l’autre partenaire, si la juridiction de renvoi concluait au caractère synallagmatique de l’ensemble contractuel constitué par le contrat de mise à disposition du logiciel et le contrat de coopération, il conviendrait de considérer que ces contrats ont été conclus à titre onéreux de sorte que les conditions d’identification d’un marché public, telles que rappelées au point 40 du présent arrêt, seraient satisfaites.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">Il convient donc de répondre à la première question que la directive 2014/24 doit être interprétée en ce sens qu’un accord qui, d’une part, prévoit qu’un pouvoir adjudicateur met gratuitement à la disposition d’un autre pouvoir adjudicateur un logiciel et, d’autre part, est lié à un accord de coopération en vertu duquel chaque partie à cet accord est tenue de mettre gratuitement à la disposition de l’autre partie les futurs développements de ce logiciel qu’elle pourrait concevoir, constitue un « marché public », au sens de l’article 2, paragraphe 1, point 5, de cette directive, lorsqu’il résulte tant des termes de ces accords que de la réglementation nationale applicable que ledit logiciel fera en principe l’objet d’adaptations.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la deuxième question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa deuxième question, la juridiction de renvoi demande, en substance, si l’article 12, paragraphe 4, de la directive 2014/24 doit être interprété en ce sens qu’une coopération entre pouvoirs adjudicateurs peut être exclue du champ d’application des règles de passation des marchés publics prévues par cette directive lorsque ladite coopération porte sur des activités accessoires aux services publics qui doivent être fournis, fût-ce à titre individuel, par chaque membre de la coopération, pour autant que ces activités accessoires contribuent à la réalisation effective desdits services publics.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">Il convient, en premier lieu, de déterminer si l’article 12, paragraphe 4, sous a), de la directive 2014/24 autorise des pouvoirs adjudicateurs à instaurer une coopération portant sur des missions de service public qu’ils ne fournissent pas conjointement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">Il ressort de cette disposition qu’un marché public conclu exclusivement entre deux pouvoirs adjudicateurs ou plus ne relève pas du champ d’application de ladite directive, lorsqu’il établit ou met en œuvre une coopération entre les pouvoirs adjudicateurs participants dans le but de garantir que les services publics dont ils doivent assurer la prestation sont réalisés en vue d’atteindre les objectifs qu’ils ont en commun.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">Ce faisant, ainsi que l’a relevé en substance M. l’avocat général au point 71 de ses conclusions, ladite disposition se borne à évoquer une communauté d’objectifs, sans exiger la fourniture conjointe d’un même service public. En effet, ainsi qu’il ressort du considérant 33, premier alinéa, de la directive 2014/24, « [l]es services fournis par les différents pouvoirs adjudicateurs participants [à une telle coopération] ne doivent pas nécessairement être identiques ; ils pourraient également être complémentaires ». Il n’apparaît donc pas indispensable que l’activité de service public soit assurée en commun par les personnes publiques participant à la coopération.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit que l’article 12, paragraphe 4, sous a), de la directive 2014/24 doit être interprété en ce sens qu’il autorise indifféremment les pouvoirs adjudicateurs participants à assurer, aussi bien conjointement que chacun individuellement, une mission de service public, pourvu que leur coopération permette d’atteindre les objectifs qu’ils ont en commun.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">En second lieu, il découle de l’article 12, paragraphe 4, de la directive 2014/24, lu en combinaison avec le considérant 33, premier alinéa, de cette directive, qu’une coopération entre personnes publiques peut porter sur tous les types d’activités liées à l’exécution de services et à l’exercice de responsabilités confiées aux pouvoirs adjudicateurs participants ou assumées par eux.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">Or, il convient de constater que l’expression « tous les types d’activités » est susceptible de couvrir une activité accessoire à un service public, pour autant que cette activité accessoire contribue à la réalisation effective de la mission de service public qui fait l’objet de la coopération entre les pouvoirs adjudicateurs participants. Le considérant 33, troisième alinéa, de la directive 2014/24 prévoit en effet qu’une coopération entre pouvoirs publics « n’exige pas que tous les pouvoirs participants se chargent de l’exécution des principales obligations contractuelles tant que l’engagement a été pris de coopérer à l’exécution du service public en question ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">En outre, il n’est pas certain qu’un logiciel de suivi des interventions des pompiers dans la lutte contre les incendies, l’assistance technique, le secours d’urgence et la protection civile, tel que celui en cause au principal, qui semblerait être indispensable à la réalisation de ces missions, puisse être réduit au rang d’activité purement accessoire, ce qu’il incombe toutefois à la juridiction de renvoi de vérifier.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">Il convient donc de répondre à la deuxième question que l’article 12, paragraphe 4, de la directive 2014/24 doit être interprété en ce sens qu’une coopération entre pouvoirs adjudicateurs peut être exclue du champ d’application des règles de passation des marchés publics prévues par cette directive lorsque ladite coopération porte sur des activités accessoires aux services publics qui doivent être fournis, même à titre individuel, par chaque membre de cette coopération, pour autant que ces activités accessoires contribuent à la réalisation effective desdits services publics.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la troisième question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa troisième question, la juridiction de renvoi demande, en substance, d’une part, si l’article 12, paragraphe 4, de la directive 2014/24, lu en combinaison avec le considérant 33 et l’article 18, paragraphe 1, de cette directive, doit être interprété en ce sens qu’une coopération entre pouvoirs adjudicateurs ne doit pas avoir pour effet, conformément au principe d’égalité de traitement, de placer une entreprise privée dans une situation privilégiée par rapport à ses concurrents et, d’autre part, quelle est la teneur de ce principe.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi que le relève à juste titre la juridiction de renvoi, il découle de la jurisprudence de la Cour portant sur la directive 2004/18 que les règles du droit de l’Union en matière de marchés publics n’étaient pas applicables aux contrats qui instauraient une coopération entre des entités publiques ayant pour objet d’assurer la mise en œuvre d’une mission de service public commune à celles-ci, pour autant que de tels contrats étaient conclus exclusivement par des entités publiques, sans la participation d’une partie privée, qu’aucun prestataire privé n’était placé dans une situation privilégiée par rapport à ses concurrents et que ladite coopération était uniquement régie par des considérations et des exigences propres à la poursuite d’objectifs d’intérêt public. De tels contrats ne pouvaient sortir du champ d’application du droit de l’Union en matière de marchés publics que s’ils remplissaient cumulativement tous ces critères (voir, en ce sens, arrêts du 19 décembre 2012, Ordine degli Ingegneri della Provincia di Lecce e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A817&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑159/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A817&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:817</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A817&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> à <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A817&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">36</a>, ainsi que du 13 juin 2013, Piepenbrock, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A385&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑386/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A385&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:385</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A385&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> à <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A385&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">Bien que l’interdiction, pour les pouvoirs adjudicateurs participants à une coopération, de traiter plus favorablement une entreprise privée par rapport à ses concurrents ne soit pas mentionnée à l’article 12, paragraphe 4, de la directive 2014/24, le législateur de l’Union n’a aucunement entendu s’écarter de la jurisprudence de la Cour citée au point précédent.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">Premièrement, tout en relevant l’existence d’une « importante insécurité juridique quant à la question de savoir dans quelle mesure les règles sur la passation des marchés publics devraient s’appliquer aux marchés conclus entre entités appartenant au secteur public » et, partant, la nécessité d’apporter des précisions à cet égard, la directive 2014/24 énonce, à son considérant 31, que ces précisions devraient s’appuyer sur les principes énoncés dans la jurisprudence pertinente de la Cour. Il s’ensuit que le législateur de l’Union n’a pas entendu remettre en cause, sur ce point, la jurisprudence de la Cour.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">Deuxièmement, il ressort du considérant 33, deuxième alinéa, de cette directive que les marchés concernant la fourniture conjointe de services publics ne devraient pas être soumis à l’application des règles établies dans ladite directive, à condition qu’ils soient conclus exclusivement entre pouvoirs adjudicateurs, que la mise en œuvre de cette coopération n’obéisse qu’à des considérations d’intérêt public et qu’aucun prestataire privé de services ne soit placé dans une situation privilégiée par rapport à ses concurrents, ce qui correspond en substance à l’état de la jurisprudence de la Cour relative à l’article 1<span class="super">er</span>, paragraphe 2, sous a), de la directive 2004/18 et mentionnée au point 64 du présent arrêt.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="normal">Troisièmement, en tout état de cause, dans la mesure où une coopération entre pouvoirs adjudicateurs répondant aux conditions posées à l’article 12, paragraphe 4, de la directive 2014/24 conserve sa qualification de « marché public » au sens de l’article 2, paragraphe 1, point 5, de cette directive, ainsi que cela résulte de la réponse apportée à la première question, l’article 18 de ladite directive, qui énonce les principes de la passation des marchés publics, trouve à s’appliquer à ce type de coopération.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="normal">Or, aux termes de l’article 18, paragraphe 1, de la directive 2014/24, d’une part, les pouvoirs adjudicateurs doivent traiter les opérateurs économiques sur un pied d’égalité et sans discrimination ainsi qu’agir d’une manière transparente et proportionnée et, d’autre part, un marché ne peut être conçu dans l’intention de le soustraire au champ d’application de cette directive ou de limiter artificiellement la concurrence, celle-ci étant considérée comme artificiellement limitée lorsqu’un marché est conçu dans l’intention de favoriser ou de défavoriser indûment certains opérateurs économiques.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, pour regrettable qu’elle soit, au regard en particulier du principe de sécurité juridique, qui constitue un principe fondamental du droit de l’Union et qui exige, notamment, qu’une réglementation soit claire et précise, afin que les justiciables puissent connaître sans ambiguïté leurs droits et obligations et prendre leurs dispositions en conséquence (arrêts du 9 juillet 1981, Gondrand et Garancini, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1981%3A171&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">169/80</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1981%3A171&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:1981:171</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1981%3A171&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point17" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">17</a> ; du 13 février 1996, Van Es Douane Agenten, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1996%3A45&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑143/93</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A45&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:1996:45</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A45&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>, et du 14 avril 2005, Belgique/Commission, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A223&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑110/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A223&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:223</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A223&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point30" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">30</a>), l’omission de mentionner, à l’article 12, paragraphe 4, de la directive 2014/24, qu’un prestataire privé ne doit pas, dans le cadre d’une coopération entre pouvoirs adjudicateurs, être placé dans une situation privilégiée par rapport à ses concurrents, ne saurait être déterminante.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, le Land de Berlin a acquis, auprès de Sopra Steria Consulting, le logiciel « IGNIS Plus », avant de le transmettre gratuitement à la ville de Cologne.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi que l’a soutenu ISE, sans être démentie par la ville de Cologne lors de l’audience qui s’est tenue devant la Cour, l’adaptation de ce logiciel constitue un processus très complexe dont la valeur économique est nettement plus importante que celle correspondant à l’acquisition initiale du logiciel de base. Ainsi, d’après ISE, la ville de Cologne aurait, d’ores et déjà, estimé les frais d’adaptation dudit logiciel à deux millions d’euros, tandis que le Land de Berlin aurait publié un avis de pré-information au <span class="italic">Journal officiel de l’Union européenne</span> en vue de développer le logiciel « IGNIS Plus » pour un montant de 3,5 millions d’euros. Dès lors, selon ISE, l’intérêt économique ne se situe pas dans l’acquisition ou la vente du logiciel de base mais bien en aval, au stade de l’adaptation, de la maintenance, dont le coût s’élèverait à 100000 euros par an, et du développement de ce logiciel.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="normal">Or, ISE considère que, en pratique, les marchés de l’adaptation, de la maintenance et du développement du logiciel de base sont exclusivement réservés à l’éditeur de ce logiciel dans la mesure où son développement nécessite de disposer non seulement du code source dudit logiciel mais également d’autres connaissances concernant le développement de ce code source.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il importe de souligner que, lorsqu’il envisage d’organiser une procédure de passation de marchés publics en vue d’assurer la maintenance, l’adaptation ou le développement d’un logiciel acquis auprès d’un opérateur économique, un pouvoir adjudicateur doit veiller à communiquer suffisamment d’informations aux candidats et soumissionnaires potentiels afin de permettre le développement d’une concurrence effective sur le marché dérivé de la maintenance, de l’adaptation ou du développement dudit logiciel.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, afin d’assurer le respect des principes de la passation des marchés publics, tels qu’énoncés à l’article 18 de la directive 2014/24, il appartient à la juridiction de renvoi de vérifier, premièrement, que tant le Land de Berlin que la ville de Cologne disposent du code source du logiciel « IGNIS Plus », deuxièmement, que, dans l’hypothèse où ils organiseraient une procédure de passation de marchés publics destinée à assurer la maintenance, l’adaptation ou le développement de ce logiciel, ces pouvoirs adjudicateurs communiquent ce code source aux candidats et soumissionnaires potentiels et, troisièmement, que l’accès à ce seul code source suffit à garantir que les opérateurs économiques intéressés par la passation du marché concerné soient traités d’une manière transparente, égalitaire et non discriminatoire.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard aux considérations qui précèdent, il y a lieu de répondre à la troisième question que l’article 12, paragraphe 4, de la directive 2014/24, lu en combinaison avec le considérant 33, deuxième alinéa, et l’article 18, paragraphe 1, de cette directive, doit être interprété en ce sens qu’une coopération entre des pouvoirs adjudicateurs ne doit pas avoir pour effet, conformément au principe d’égalité de traitement, de placer une entreprise privée dans une situation privilégiée par rapport à ses concurrents.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.<br/>
+<br/>
+</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (quatrième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">La directive 2014/24/UE du Parlement européen et du Conseil, du 26 février 2014, sur la passation des marchés publics et abrogeant la directive 2004/18/CE, doit être interprétée en ce sens qu’un accord qui, d’une part, prévoit qu’un pouvoir adjudicateur met gratuitement à la disposition d’un autre pouvoir adjudicateur un logiciel et, d’autre part, est lié à un accord de coopération en vertu duquel chaque partie à cet accord est tenue de mettre gratuitement à la disposition de l’autre partie les futurs développements de ce logiciel qu’elle pourrait concevoir, constitue un « marché public », au sens de l’article 2, paragraphe 1, point 5, de cette directive, lorsqu’il résulte tant des termes de ces accords que de la réglementation nationale applicable que ledit logiciel fera en principe l’objet d’adaptations.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">L’article 12, paragraphe 4, de la directive 2014/24 doit être interprété en ce sens qu’une coopération entre pouvoirs adjudicateurs peut être exclue du champ d’application des règles de passation des marchés publics prévues par cette directive lorsque ladite coopération porte sur des activités accessoires aux services publics qui doivent être fournis, même à titre individuel, par chaque membre de cette coopération, pour autant que ces activités accessoires contribuent à la réalisation effective desdits services publics.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">3)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">L’article 12, paragraphe 4, de la directive 2014/24, lu en combinaison avec le considérant 33, deuxième alinéa, et l’article 18, paragraphe 1, de cette directive, doit être interprété en ce sens qu’une coopération entre des pouvoirs adjudicateurs ne doit pas avoir pour effet, conformément au principe d’égalité de traitement, de placer une entreprise privée dans une situation privilégiée par rapport à ses concurrents.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0796_FR_01-E0001" id="t-ECR_62018CJ0796_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : l’allemand.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

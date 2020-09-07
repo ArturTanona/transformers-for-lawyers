@@ -1,0 +1,837 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Tenth Chamber)</p>
+<p class="sum-title-1">17 October 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0653_EN_01-E0001" id="c-ECR_62018CJ0653_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Taxation — Value added tax (VAT) — Directive 2006/112/EC — Article 146 — Exemptions on exportation — Concept of ‘supply of goods’ — Article 131 — Conditions laid down by the Member States — Principle of proportionality — Principle of fiscal neutrality — Evidence — Tax evasion — Practice of a Member State consisting in refusing the right to exemption where the person acquiring the goods exported is not identified)</p>
+<p class="normal">In Case C‑653/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Naczelny Sąd Administracyjny (Supreme Administrative Court, Poland), made by decision of 19 June 2018, received at the Court on 17 October 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Unitel sp. z o.o.</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Dyrektor Izby Skarbowej w Warszawie,</span>
+</p>
+<p class="normal">THE COURT (Tenth Chamber),</p>
+<p class="normal">composed of I. Jarukaitis (Rapporteur), President of the Chamber, M. Ilešič and C. Lycourgos, Judges,</p>
+<p class="normal">Advocate General: M. Campos Sánchez-Bordona,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Unitel sp. z o.o., by A. Nikończyk, doradca podatkowy,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Polish Government, by B. Majczyna, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by M. Siekierzyńska and J. Jokubauskaitė, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 146(1)(a) and (b) and Article 131 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" target="CourtTab">OJ 2006 L 347, p. 1</a>) (‘the VAT Directive’) in the light, in particular, of the principles of fiscal neutrality and proportionality.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Unitel sp. z o.o. and the Dyrektor Izby Skarbowej w Warszawie (Director of the Tax Chamber, Warsaw, Poland) (‘the Director of the Tax Chamber’), concerning the refusal of an exemption from value added tax (VAT) in respect of exports of goods to a destination outside the European Union made in 2007.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 14(1) of the VAT Directive provides as follows:</p>
+<p class="normal">‘“Supply of goods” shall mean the transfer of the right to dispose of tangible property as owner.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 131 of that directive:</p>
+<p class="normal">‘The exemptions provided for in Chapters 2 to 9 shall apply without prejudice to other [EU law] provisions and in accordance with conditions which the Member States shall lay down for the purposes of ensuring the correct and straightforward application of those exemptions and of preventing any possible evasion, avoidance or abuse.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 146 of that directive, in Chapter 6 thereof, entitled ‘Exemptions on exportation’, provides in paragraph 1(a) and (b) thereof as follows:</p>
+<p class="normal">‘Member States shall exempt the following transactions:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the supply of goods dispatched or transported to a destination outside the [European Union] by or on behalf of the vendor;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the supply of goods dispatched or transported to a destination outside the [European Union] by or on behalf of a customer not established within their respective territory, with the exception of goods transported by the customer himself for the equipping, fuelling and provisioning of pleasure boats and private aircraft or any other means of transport for private use.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 168(a) of the VAT Directive provides that, in so far as the goods and services are used for the purposes of the taxed transactions of a taxable person, the taxable person is to be entitled, in the Member State in which he carries out those transactions, to deduct, from the VAT which he is liable to pay, the VAT due or paid in that Member State in respect of supplies to him of goods or services, carried out or to be carried out by another taxable person. Under Article 169(b) of that directive, the taxable person is to be entitled to deduct the VAT in so far as the goods and services are used for transactions which are exempt pursuant to Article 146 of that directive.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Polish law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">The ustawa o podatku od towarów i usług (Law on the Tax on Goods and Services) of 11 March 2004 (Dz. U. of 2011, No 177, heading 1054), in the version applicable at the material time (‘the Law on VAT’), provides in Article 2(8) thereof as follows:</p>
+<p class="normal">‘For the purposes of the following provisions: “export of goods” shall mean a supply of goods dispatched or transported to a destination outside the territory of the European Union from the national territory:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">by or on behalf of the supplier; or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">by or on behalf of a person acquiring the goods who is established outside the national territory, with the exception of goods exported by the person acquiring the goods himself for the equipping, fuelling and provisioning of pleasure boats and private aircraft or any other means of transport for private use, if the export of the goods to a destination outside the territory of the European Union is confirmed by the competent customs authority stipulated in the customs regulations.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 7(1) of the Law on VAT states that ‘the supply of goods referred to in Article 5(1)(1) shall mean the transfer of the right to dispose of the goods as owner’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Article 41 of that Law provides as follows:</p>
+<p class="normal">‘…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">The tax rate applicable to the export of goods referred to in Article 2(8)(a) shall be 0%.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(6)</p>
+</td>
+<td valign="top">
+<p class="normal">The tax rate of 0% shall apply to the export of goods referred to in paragraphs 4 and 5 provided that before the expiry of the deadline for filing a tax return for the tax period in question the taxable person has received the document confirming the export of goods to a destination outside the territory of the European Union.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(11)</p>
+</td>
+<td valign="top">
+<p class="normal">The provisions of paragraphs 4 and 5 shall apply <span class="italic">mutatis mutandis</span> to the export of goods referred to in Article 2(8)(b) if the taxable person, before the expiry of the deadline for filing a tax return for the tax period in which the supply of goods was made, has received the document referred to in paragraph 6 which states the identity of the goods that were supplied and exported. …</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">In the period from January 2007 to May 2007, Unitel, a company established in Poland, sold mobile telephones to two Ukrainian entities. Following an audit carried out on that company, the tax authorities found that the procedure for the exportation of those mobile telephones to a destination outside the territory of the European Union had been carried out, but that those goods had not been acquired by the entities stated on the invoices but by other entities which were not identified. Those authorities thus found, by a decision confirmed by a decision of the Director of the Tax Chamber dated 29 August 2014, that there had been no supply of goods within the meaning of Article 2(8) of the Law on VAT and, therefore, that Unitel was not entitled to apply the 0% rate of VAT provided for in Article 41(4) of that Law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">The Wojewódzki Sąd Administracyjny w Warszawie (Regional Administrative Court, Warsaw, Poland), seised of an appeal against the decision of the Director of the Tax Chamber, noted that it was apparent from the findings made that one of the two Ukrainian entities was a shell company, serving to conceal the actual recipient and to perpetrate tax fraud against both the Polish and Ukrainian tax authorities, and that the other entity was not the economic operator which had acquired the telephones from Unitel. That court found that there had been no supply of goods since the tax authorities had established that the persons acquiring the goods mentioned on the invoices had not entered into possession of those goods, had not disposed of those goods as owner and did not carry out any economic activity, so therefore the transactions at issue could not be characterised as an ‘export of goods’ within the meaning of Article 2(8) of the Law on VAT. That court also held that Unitel had not exercised due diligence when conducting those transactions. It observed, inter alia, in that regard that that company had drawn up its invoices based on data submitted by entities whose mandates were not valid or which did not possess genuine business addresses or valid documents providing proof of VAT accounting.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Unitel brought an appeal against the judgment of the Wojewódzki Sąd Administracyjny w Warszawie (Regional Administrative Court, Warsaw) before the referring court, the Naczelny Sąd Administracyjny (Supreme Administrative Court, Poland). In support of its appeal, Unitel pleads incorrect interpretation and application of Article 131 of the VAT Directive, read in conjunction with Article 146(1)(a) and (b) thereof, inasmuch as the application of the rate of 0% was held subject to compliance with formal conditions even though all the substantive conditions for the application of that rate were satisfied, and an error of interpretation and application of Article 41(4) and (11) of the Law on VAT, read in conjunction with Article 41(6), Article 2(8) and Article 7(1) of that Law. That error, in Unitel’s view, consists in having found that the supply of goods is effective only when the operator mentioned on the invoice as the person acquiring the goods is the same as the operator which actually takes part in the transaction at issue in that capacity, and in refusing as a result to treat that transaction as an export of goods and to apply the rate of 0%, and in finding nevertheless that that transaction constitutes a supply taxable at the national rate.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">According to the referring court, the outcome of the dispute in the main proceedings requires it to interpret the VAT Directive and, above all, the concept of ‘supply of goods’ within the meaning of Article 146(1)(a) and (b) of that directive. It states that the national tax authorities submit that that concept must be interpreted in accordance with Article 7(1) of the Law on VAT, which transposed Article 14(1) of the VAT Directive, namely as the transfer of the right to dispose of the goods as owner. Thus, according to those authorities, the two parties to the transaction must actually exist and be identified, which is not the case when the person acquiring the goods designates a fictitious entity on the invoice or customs documents or when the person acquiring the goods outside the territory of the European Union is a different person who is not identified. That interpretation is also the interpretation accepted by the majority of the Polish administrative courts.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court is nevertheless uncertain as to whether, in order to find that a supply of goods to a destination outside the territory of the European Union indeed took place, where the export per se of those goods is not disputed, it is in fact necessary that the entity designated on the supplier’s invoice and the customs documents as the person acquiring those goods must be the same as the actual recipient of those goods. It raises the issue of whether, in such a situation, there is a transfer of the right to dispose of tangible property as owner, within the meaning of Article 14(1) of the VAT Directive. It observes, inter alia, that in the judgment of 19 December 2013, BDV Hungary Trading (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A854&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑563/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A854&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:854</a>), the Court held that, in circumstances where the conditions for the exemption on exportation laid down in Article 146(1)(b) of the VAT Directive, in particular, the requirement that the goods concerned leave the customs territory of the European Union, are satisfied, no liability to pay VAT arises in respect of a supply and that, in those circumstances, there no longer exists, in principle, a risk of tax evasion or loss of tax which could justify the transaction concerned being taxed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">In that context, the issue then arises, in the referring court’s view, of knowing to what extent possible tax evasion, which occurs in the territory of the non-Member State where the goods exported were received by a person other than that indicated on the customs documents, affects the applicability of the exemption with the right to deduct VAT. Examining the case-law of the Court according to which it is for the Member States to refuse to grant the rights provided for in the VAT Directive in the event of tax evasion committed by the taxable person himself or where that person knew or ought to have known that, by the transaction at issue, he was participating in a transaction which was part of a VAT fraud, it raises the issue of whether that obligation, which is aimed at protecting the internal market, applies where the tax evasion is committed only in a non-Member State, that being the State of destination and consumption of the goods exported.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, the referring court raises the issue of whether, in a situation such as that in the main proceedings, the correct national practice is to apply VAT to the transaction at issue as if that transaction constituted a domestic supply, even though the finding that there was no supply of goods should lead to the conclusion that that transaction is not subject to VAT and does not give a right to the deduction of input VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Naczelny Sąd Administracyjny (Supreme Administrative Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of Article 146(1)(a) and (b) and Article 131 of [the VAT Directive] and of the principles of taxation of consumption, neutrality and proportionality, should the correct national practice be to apply an exemption with the right to deduct (which in Poland means application of a 0% rate) in each case where both of the following conditions are met:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the goods have been exported to an unidentified recipient outside the European Union; and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">there is clear evidence that the goods have left the territory of the European Union, and this is not disputed?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Do the provisions of Article 146(1)(a) and (b) and Article 131 of [the VAT Directive] and the principles of taxation of consumption, neutrality and proportionality preclude a national practice whereby it is assumed that no supply of goods has taken place in the case where the goods have been indubitably exported outside the territory of the European Union, and following their exportation the tax authorities establish in the course of their investigation that the person actually acquiring the goods was not the entity to whom the taxable person issued the invoice documenting the supply, but was another entity unidentified by the authorities, as a result of which the authorities refuse to exempt such a transaction from tax with the right to deduct (which in Poland means application of a 0% rate)?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of Article 146(1)(a) and (b) and Article 131 of [the VAT Directive] and of the principles of taxation of consumption, neutrality and proportionality, should the correct national practice be to apply the domestic rate to the supply of goods where there is clear evidence that the goods have left the territory of the European Union, but the authorities, in the absence of an identified recipient, conclude that no supply of goods has taken place, or should it rather be assumed that no taxable transaction for VAT purposes has taken place at all in those circumstances and therefore that the taxable person is not entitled to deduct input VAT on the purchase of the exported goods under Article 168 of [the VAT Directive]?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first and second questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">By its first and second questions, which must be examined together, the national court asks, in essence, whether Article 146(1)(a) and (b) and Article 131 of the VAT Directive and the principles of fiscal neutrality and proportionality must be interpreted as precluding a national practice, such as that at issue in the main proceedings, which consists in considering in all cases that there is no supply of goods, within the meaning of that former provision, and in refusing as a result the VAT exemption, where the goods concerned were exported to a destination outside the European Union and where, following their exportation, the tax authorities found that the person acquiring those goods was not the person stated on the invoice issued by the taxable person but another entity which has not been identified. In that context, the referring court raises the issue of what effect possible tax evasion committed in the territory of a non-Member State may have on the applicability of the right to exemption from VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">It must be recalled in this connection, in the first place, that in accordance with Article 146(1)(a) and (b) of the VAT Directive the Member States are to exempt the supply of goods dispatched or transported to a destination outside the European Union by or on behalf of the vendor or by or on behalf of a customer. That provision should be read in conjunction with Article 14(1) of the directive, in accordance with which ‘supply of goods’ is to mean the transfer of the right to dispose of tangible property as owner (judgments of 19 December 2013, BDV Hungary Trading, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A854&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑563/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A854&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:854</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A854&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point23" hreflang="en" target="CourtTab" type="application/xhtml+xml">23</a>, and of 28 March 2019, Vinš, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑275/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:265</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point22" hreflang="en" target="CourtTab" type="application/xhtml+xml">22</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">That exemption is intended to ensure that the supplies of goods concerned are taxed at the place of destination of those goods, namely the place where the exported products will be consumed (judgment of 28 March 2019, Vinš, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑275/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:265</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point23" hreflang="en" target="CourtTab" type="application/xhtml+xml">23</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">As the Court has already observed on several occasions, it follows from the provisions mentioned in paragraph 19 above, and particularly from the word ‘dispatched’ in Article 146(1)(a) and (b) of the VAT Directive, that the export of goods is effected and the exemption of the supply of goods for export becomes applicable when the right to dispose of the goods as owner has been transferred to the person acquiring the goods, the supplier establishes that those goods have been dispatched or transported outside the European Union, and, as a result of that dispatch or that transport, the goods have physically left the territory of the European Union (see, to that effect, judgments of 19 December 2013, BDV Hungary Trading, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A854&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑563/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A854&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:854</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A854&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point24" hreflang="en" target="CourtTab" type="application/xhtml+xml">24</a> and the case-law cited, and of 28 March 2019, Vinš, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑275/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:265</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point24" hreflang="en" target="CourtTab" type="application/xhtml+xml">24</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has also already held that the concept of ‘supply of goods’ is objective in nature and that it applies without regard to the purpose or results of the transactions concerned and without its being necessary for the tax authorities to carry out inquiries to determine the intention of the taxable person in question or for them to take account of the intention of an operator other than that taxable person involved in the same chain of supply (see, to that effect, judgment of 21 November 2013, Dixons Retail, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A758&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑494/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A758&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:758</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A758&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point21" hreflang="en" target="CourtTab" type="application/xhtml+xml">21</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that transactions such as those at issue in the main proceedings constitute supplies of goods within the meaning of Article 146(1)(a) and (b) of the VAT Directive if they meet the objective criteria upon which that concept is based, set out in paragraph 21 above.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">The fact that exported goods are acquired outside the European Union by an entity which is not that mentioned on the invoice and which is not identified does not preclude those objective criteria from being met.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the characterisation of a transaction as a supply of goods within the meaning of Articles 146(1)(a) and (b) of the VAT Directive cannot be held subject to the condition that the person acquiring the goods must be identified.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">However, in the second place, it is for the Member States to lay down, in accordance with Article 131 of the VAT Directive, the conditions under which they will exempt transactions on exportation for the purposes of ensuring the correct and straightforward application of the exemptions provided for in that directive and of preventing any possible evasion, avoidance or abuse. When they exercise their powers, Member States must nonetheless respect the general principles of law which form part of the legal order of the European Union, including, in particular, the principle of proportionality (see, to that effect, judgment of 28 February 2018, Pieńkowski, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A124&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑307/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A124&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:124</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A124&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point32" hreflang="en" target="CourtTab" type="application/xhtml+xml">32</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A124&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point33" hreflang="en" target="CourtTab" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">As regards that principle of proportionality, it must be recalled that a national measure goes beyond what is necessary to ensure the correct collection of the tax if, in essence, it makes the right of exemption from VAT subject to compliance with formal obligations, without any account being taken of the substantive requirements and, in particular, without any consideration being given as to whether those requirements have been satisfied. Transactions should be taxed taking into account their objective characteristics (judgments of 8 November 2018, Cartrans Spedition, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑495/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:887</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="en" target="CourtTab" type="application/xhtml+xml">38</a>, and of 28 March 2019, Vinš, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑275/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:265</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point29" hreflang="en" target="CourtTab" type="application/xhtml+xml">29</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">When those substantive requirements have been satisfied, the principle of fiscal neutrality requires the VAT exemption to be granted even if certain formal requirements have been omitted by the taxable persons (judgment of 8 November 2018, Cartrans Spedition, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑495/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:887</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point39" hreflang="en" target="CourtTab" type="application/xhtml+xml">39</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">According to the Court’s case-law, there are only two situations in which the failure to meet a formal requirement may result in the loss of entitlement to an exemption from VAT (judgments of 8 November 2018, Cartrans Spedition, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑495/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:887</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point40" hreflang="en" target="CourtTab" type="application/xhtml+xml">40</a>, and of 28 March 2019, Vinš, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑275/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:265</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point32" hreflang="en" target="CourtTab" type="application/xhtml+xml">32</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">First, a breach of a formal requirement may lead to the refusal of an exemption from VAT if the effect of the breach is to prevent the production of conclusive evidence that the substantive requirements have been satisfied (judgments of 8 November 2018, Cartrans Spedition, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑495/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:887</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point42" hreflang="en" target="CourtTab" type="application/xhtml+xml">42</a>, and of 28 March 2019, Vinš, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑275/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:265</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point35" hreflang="en" target="CourtTab" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, if the failure to identify the person actually acquiring the goods prevents, in a given case, it from being proved that the transaction at issue constitutes a supply of goods within the meaning of Article 146(1)(a) and (b) of the VAT Directive, that fact may lead to refusal of the exemption on exportation provided for in that article. On the other hand, requiring in all cases that the person who acquires the goods in the non-Member State must be identified, without seeking to ascertain whether the substantive conditions for that exemption, in particular the exit of the goods concerned from the customs territory of the European Union, have been met, is not in accordance with either the principle of proportionality or the principle of fiscal neutrality.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, the order for reference shows that it is not disputed that the goods concerned in the case in the main proceedings were sold, that they were dispatched to a destination outside the European Union and that they physically left the territory of the European Union, so that, subject to those facts being verified, which is a matter for the national court, it seems to have been proven that the criteria for a transaction to constitute a supply of goods, within the meaning of Article 146(1)(a) and (b) of the VAT Directive, have been met, irrespective of the fact that the persons who actually acquired those goods were not identified.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Secondly, the principle of fiscal neutrality cannot be relied on for the purposes of an exemption from VAT by a taxable person who has intentionally participated in tax evasion which has jeopardised the operation of the common system of VAT. According to the Court’s case-law, it is not contrary to EU law to require an operator to act in good faith and to take every step which could reasonably be asked of him to satisfy himself that the transaction which he is carrying out does not result in his participation in tax evasion. If it were concluded that the taxable person concerned knew or ought to have known that the transaction he carried out was part of a fraud committed by the person acquiring the goods and that he has not taken every step which could reasonably be asked of him to prevent that fraud from being committed, he would have to be refused the exemption (judgment of 8 November 2018, Cartrans Spedition, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑495/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:887</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point41" hreflang="en" target="CourtTab" type="application/xhtml+xml">41</a>, and of 28 March 2019, Vinš, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑275/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:265</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A265&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point33" hreflang="en" target="CourtTab" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">On the other hand, the supplier cannot be held liable for the payment of the VAT irrespective of his involvement in the tax evasion committed by the person acquiring the goods. It would clearly be disproportionate to hold a taxable person liable for the shortfall in tax caused by fraudulent acts of third parties over which he has no influence whatsoever (see, to that effect, judgment of 21 February 2008, Netto Supermarkt, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A105&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑271/06</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A105&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2008:105</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A105&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point23" hreflang="en" target="CourtTab" type="application/xhtml+xml">23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">In the judgment of 19 December 2013, BDV Hungary Trading (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A854&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑563/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A854&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:854</a>), cited by the referring court, the Court observed, in paragraph 40 thereof, that in circumstances where the conditions for the exemption on exportation laid down in Article 146(1)(b) of the VAT Directive, in particular, the requirement that the goods concerned leave the customs territory of the European Union, are satisfied, no liability to pay VAT arises in respect of such a supply and there no longer exists, in principle, a risk of tax evasion or loss of tax which could justify the transaction concerned being taxed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case the referring court, without providing further details on the nature of the fraud of which the transactions at issue in the main proceedings were allegedly part, indicates that the goods covered by those transactions left the territory of the European Union and observes that that fraud was committed only on the territory of a non-Member State, that being the State of destination and the place of consumption of those goods.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Since the fact that the fraudulent acts were committed in a non-Member State is not such as to be sufficient to rule out the existence of any tax evasion committed to the detriment of the common system of VAT, it is for the national court to verify that the transactions at issue in the main proceedings were not part of any such fraud and, if they were, to assess whether the taxable person knew or ought to have known that that was the case.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of all these considerations, the answer to the first and second questions is that Article 146(1)(a) and (b) and Article 131 of the VAT Directive and the principles of fiscal neutrality and proportionality must be interpreted as precluding a national practice, such as that at issue in the main proceedings, which consists in considering in all cases that there is no supply of goods, within the meaning of that former provision, and in refusing as a result the VAT exemption, where the goods concerned were exported to a destination outside the European Union and where, following their exportation, the tax authorities found that the person acquiring those goods was not the person stated on the invoice issued by the taxable person but another entity which has not been identified. In such circumstances, the VAT exemption provided for in Article 146(1)(a) and (b) of that directive must be refused if the failure to identify the person actually acquiring the goods prevents it from being proved that the transaction at issue constitutes a supply of goods within the meaning of that provision or if it is established that that taxable person knew or ought to have known that that transaction was part of a fraud committed to the detriment of the common system of VAT.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The third question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">By its third question, the referring court asks, in essence, whether the VAT Directive must be interpreted as meaning that where, in circumstances such as those described in the first and second questions, there is a refusal to grant the VAT exemption provided for in Article 146(1)(a) and (b) of the VAT Directive, the VAT applicable to supplies of goods made on national territory must be applied to the transaction in question or whether that transaction should be considered not to constitute a taxable transaction and, accordingly, not to confer entitlement to the deduction of input VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">It is sufficient to state in this respect that, in the absence of any supply of goods made on national territory and of any transaction exempt under Article 146(1)(a) and (b) of the VAT Directive, there is neither a taxable transaction nor a right to deduct under Article 168 or Article 169 of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the answer to the third question is that the VAT Directive must be interpreted as meaning that where, in circumstances such as those described in the first and second questions, there is a refusal to grant the VAT exemption provided for in Article 146(1)(a) and (b) of the VAT Directive, the transaction in question should be considered not to constitute a taxable transaction and, accordingly, not to confer entitlement to the deduction of input VAT.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Tenth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 146(1)(a) and (b) and Article 131 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax and the principles of fiscal neutrality and proportionality must be interpreted as precluding a national practice, such as that at issue in the main proceedings, which consists in considering in all cases that there is no supply of goods, within the meaning of that former provision, and in refusing as a result the value added tax (VAT) exemption, where the goods concerned were exported to a destination outside the European Union and where, following their exportation, the tax authorities found that the person acquiring those goods was not the person stated on the invoice issued by the taxable person but another entity which has not been identified. In such circumstances, the VAT exemption provided for in Article 146(1)(a) and (b) of that directive must be refused if the failure to identify the person actually acquiring the goods prevents it from being proved that the transaction at issue constitutes a supply of goods within the meaning of that provision or if it is established that that taxable person knew or ought to have known that that transaction was part of a fraud committed to the detriment of the common system of VAT.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Directive 2006/112 must be interpreted as meaning that where, in those circumstances, there is a refusal to grant the value added tax (VAT) exemption provided for in Article 146(1)(a) and (b) of Directive 2006/112, the transaction in question should be considered not to constitute a taxable transaction and, accordingly, not to confer entitlement to the deduction of input VAT.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0653_EN_01-E0001" id="t-ECR_62018CJ0653_EN_01-E0001">*1</a>
+</span>)	Language of the case: Polish.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

@@ -1,0 +1,1065 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="coj-sum-title-1">16 October 2019 (<span class="coj-note">
+<a href="#t-ECR_62018CJ0189_EN_01-E0001" id="c-ECR_62018CJ0189_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Value added tax (VAT) — Directive 2006/112/EC– Articles 167 and 168 — Right to deduct VAT — Refusal — Fraud — Taking of evidence — Principle of respect for the rights of the defence — Right to be heard — Access to the file — Article 47 of the Charter of Fundamental Rights of the European Union — Effective judicial review — Principle of equality of arms — <span class="coj-italic">Inter partes</span> principle — National legislation or practice according to which, when checking the right to deduct VAT exercised by a taxable person, the tax authorities are bound by the findings of fact and the legal classifications which they have made in the context of related administrative procedures to which that taxable person was not a party)</p>
+<p class="coj-normal">In Case C‑189/18,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Fővárosi Közigazgatási és Munkaügyi Bíróság (Budapest Administrative and Labour Court, Hungary), made by decision of 14 February 2018, received at the Court on 13 March 2018, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">Glencore Agriculture Hungary Kft.</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága,</span>
+</p>
+<p class="coj-normal">THE COURT (Fifth Chamber),</p>
+<p class="coj-normal">composed of E. Regan, President of the Chamber, I. Jarukaitis (Rapporteur), E. Juhász, M. Ilešič and C. Lycourgos, Judges,</p>
+<p class="coj-normal">Advocate General: M. Bobek,</p>
+<p class="coj-normal">Registrar: R. Şereş, Administrator,</p>
+<p class="coj-normal">having regard to the written procedure and further to the hearing on 20 March 2019,</p>
+<p class="coj-normal">after hearing the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Glencore Agriculture Hungary Kft., by Z. Várszegi, D. Kelemen and B. Balog, ügyvédek,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Hungarian Government, by M.Z. Fehér and G. Koós, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by L. Havas and J. Jokubauskaitė, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">after hearing the Opinion of the Advocate General at the sitting on 5 June 2019,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 347, p. 1</a>, ‘the VAT Directive’), of the principle of respect for the rights of the defence and of Article 47 of the Charter of Fundamental Rights of the European Union (‘the Charter’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between Glencore Agriculture Hungary Kft. (‘Glencore’) and the Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága (Appeals National Tax and Customs Administration, Hungary) (‘the tax authorities’) concerning two decisions ordering, in particular, payment of sums by way of value added tax (‘VAT’) for the financial years 2010 and 2011.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">EU law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 167 of the VAT Directive provides:</p>
+<p class="coj-normal">‘A right of deduction shall arise at the time the deductible tax becomes chargeable.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 168 of that directive provides:</p>
+<p class="coj-normal">‘In so far as the goods and services are used for the purposes of the taxed transactions of a taxable person, the taxable person shall be entitled, in the Member State in which he carries out these transactions, to deduct the following from the VAT which he is liable to pay:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the VAT due or paid in that Member State in respect of supplies to him of goods or services, carried out or to be carried out by another taxable person;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Hungarian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 119(1) of the általános forgalmi adóról szóló 2007. évi CXXVII. törvény (Law No CXXVII of 2007 on value added tax) provides:</p>
+<p class="coj-normal">‘Save where the law provides otherwise, the right to deduct tax shall arise when it is necessary to establish the tax payable corresponding to the tax calculated in advance (Article 120).’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the words of Article 120 of that law:</p>
+<p class="coj-normal">‘In so far as the goods or services are used, or otherwise exploited, by the taxable person — and in that capacity — in order to make supplies of goods or to supply taxed services, the taxable person shall be entitled to deduct from the amount of the tax payable by him:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the tax invoiced to him by any other taxable person — including any person or entity subject to simplified corporation tax — upon the acquisition of the goods or the use of the services;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 1(3a) of the adózás rendjéről szóló 2003. évi XCII. törvény (Law No XCII of 2003 on the Code of fiscal procedure, ‘the Code of fiscal procedure’) provides:</p>
+<p class="coj-normal">‘In the context of the inspection of the parties to a legal relationship (contract, transaction) to which a tax liability applies, the tax authorities cannot classify a legal relationship to which the inspection relates and which has already been classified differently for each taxable person and it shall as a matter of course apply the findings made in respect of one of the parties to that legal relationship when inspecting any other party to that relationship.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In accordance with Article 12(1) and (3) of the Code of fiscal procedure, the taxable person, like any person required to pay tax pursuant to Article 35(2) and (7), is to be entitled to have access to the documents relating to the tax. He may consult, take or request a copy of any document necessary for the exercise of his rights or for the fulfilment of his obligations. Nonetheless, the taxable person cannot consult, in particular, any part a document containing information about another person disclosure of which would breach a provision relating to fiscal secrecy.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 97(4) and (5) of that code provides:</p>
+<p class="coj-normal">‘4.   During the inspection, the tax authorities shall be required to establish and prove the facts, save where it is the taxpayer who, according to the law, bears the burden of proof.</p>
+<p class="coj-normal">5.   Means of proof and admissible proof shall include … the findings made in the related checks which have been ordered …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the words of Article 100(4) of that code:</p>
+<p class="coj-normal">‘If the tax authorities support the findings of an investigation with the help of the results of a related investigation carried out in respect of another taxable person, or with the help of the data and evidence obtained on that occasion, the taxable person shall receive a detailed communication of the part of the relevant report and decision that concern him, and of the data and evidence gathered during that related investigation.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Glencore is a company established in Hungary, its main activities are bulk trading in grains, oilseeds and animal feed and also in raw materials.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Following inspections concerning, first, all taxes and subsidies for the financial years 2010 and 2011, with the exception of VAT for September and October 2011, and, second, VAT for October 2011, the tax authorities adopted two decisions, the first ordering, in particular, Glencore to pay the sum of 1951418000 Hungarian forints (HUF) (approximately EUR 6000000) by way of VAT and also a fine and a penalty for late payment, and the second ordering it to pay additional VAT in the amount of HUF 130171000 (approximately EUR 400000).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those decisions, the tax authorities considered that Glencore had unlawfully deducted VAT, since it knew or should have known that the transactions which it carried out with its suppliers were involved in VAT fraud. They relied on findings made with regard to those suppliers and considered that fraud to be an established fact.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Following the dismissal of its administrative appeal against those two decisions, Glencore brought an action for annulment before the Fővárosi Közigazgatási és Munkaügyi Bíróság (Budapest Administrative and Labour Court, Hungary), the referring court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In support of that action, Glencore maintains, in particular, that the tax authorities breached the right to a fair hearing guaranteed by Article 47 of the Charter, and also the requirements which that right entails, and breached, in particular, the principle of equality of arms. The tax authorities also, in Glencore’s submission, breached the principle of respect for the rights of the defence, in two respects. First, they alone had access to the entire file relating to the criminal proceedings brought against the suppliers, to which Glencore was not a party and in which it could therefore not rely on any right, and evidence was thus gathered and used against it. Second, the tax authorities did not make available to Glencore either the file relating to the inspections carried out with respect to those suppliers, in particular the documents on which the tax authorities’ findings are based, or its report, or the administrative provisions which it adopted, but merely communicated a part of them, which it selected according to its own criteria.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The tax authorities contend that, although Glencore cannot have the rights associated with the status of party in tax proceedings concerning another taxable person, there was nonetheless no breach of the rights of the defence, since Glencore was able, in the context of the procedure concerning it, to examine the written material and the statements originating in related procedures and placed on its file, and to challenge their probative value by exercising its right to bring an action.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court observes that the right to deduct VAT is a fundamental principle of the common system of VAT and that in principle it cannot be refused if the requisite material conditions are satisfied. And yet the tax authorities’ practice implemented in the main proceedings, based in particular on an interpretation of Article 1(3a) of the Code of fiscal procedure as meaning that those authorities are bound by the findings set out in the decisions which they adopted following inspections carried out in respect of the taxable person’s suppliers and which have become final, resulted in Glencore being denied that right of deduction.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court explains that the purpose of Article 1(3a) of the Code of fiscal procedure is to guarantee legal certainty be requiring that the same conclusions are drawn from the same transaction. The question arises, however, in its view, whether that objective justifies a practice, such as that at issue in the main proceedings, according to which the tax authorities avoid the burden of proof which they bear by taking into consideration as a matter of course findings made in the context of an earlier procedure, in which the taxable person did not have the status of party, could not therefore exercise the rights associated with that status and became aware of the decisions adopted following those procedures, which had become final, only in the context of the inspections of which it was the subject.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court adds that Glencore received only partial disclosure of those decisions and of the documents on which they are based, as the tax authorities merely indicated in their report each of the findings made in those decisions, but did not produce those decisions or the documents on which they are based.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court questions the compatibility of such a practice with the principle of respect for the rights of the defence and with the right to a fair hearing enshrined in Article 47 of the Charter, having regard to the limits of the judicial review which it is able to carry out, as it is not empowered to examine the legality of the decisions taken following inspections that concerned other taxable persons or, in particular, to ascertain whether the evidence on which those decisions are based was obtained lawfully. Referring to the judgment of 17 December 2015, WebMindLicenses (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑419/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:832</a>), it asks whether the requirements of a fair hearing require that the court hearing an action against the decision of the tax authorities adjusting VAT are empowered to check that the evidence from a related administrative procedure was obtained in accordance with the rights guaranteed by EU law and that the findings based on that evidence does not breach those rights.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It was in those circumstances that the Fővárosi Közigazgatási és Munkaügyi Bíróság (Budapest Administrative and Labour Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Must the provisions of the VAT Directive and, in so far as they are concerned, the fundamental principle of respect for the rights of the defence and Article 47 of the [Charter], be interpreted as precluding the legislation of a Member State and national practice based on that legislation, under which the findings, in the context of an inspection carried out of the parties to a legal relationship (contract, transaction) to which the tax liability relates, made by the tax authorities at the conclusion of a procedure instigated in respect of one of the parties to the legal relationship (the issuer of the invoices in the main proceedings) and entailing a reclassification of that legal relationship, must be taken into account as a matter of course by the tax authorities when carrying out an inspection of another party to the legal relationship (the recipient of the invoices in the main proceedings), it being understood that the other party to the legal relationship has no rights, in particular rights attaching to the status of a party, in the original inspection procedure?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If the Court of Justice answers the first question in the negative, do the provisions of the VAT Directive and, in so far as they are concerned, the fundamental principle of respect for the rights of the defence and Article 47 of the [Charter], preclude a national practice that allows a procedure such as that referred to in the first question whereby the other party to the legal relationship (the recipient of the invoices) does not have, in the original inspection procedure, rights attaching to the status of a party, and cannot therefore exercise any right of appeal with respect to an inspection procedure the findings of which must be taken into account as a matter of course by the tax authorities in the inspection procedure concerning the other party’s tax liability and may be adopted as evidence against that other party, it being understood that the tax authorities do not make available to the other party the relevant files concerning the inspection carried out in respect of the first party to the legal relationship (the issuer of the invoices), in particular documents underpinning the findings, the reports and administrative decisions, but discloses only part of them to that other party in the form of a summary, the tax authorities thus apprising the other party of the contents of the file only indirectly, making a selection according to their own criteria, over which the other party may not exercise any control?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(3)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Must the provisions of the VAT Directive and, in so far as they are concerned, the fundamental principle of respect for the rights of the defence and Article 47 of the [Charter], be interpreted as precluding a national practice under which the findings, in the context of the inspection of the parties to a legal relationship to which the tax liability relates, made by the tax authorities at the conclusion of a procedure instigated in respect of the issuer of the invoices and including the finding that that issuer actively participated in tax evasion, must be taken into account as a matter of course by the tax authorities when carrying out an inspection in respect of the recipient of the invoices, it being understood that that recipient has no rights attaching to the status of a party in the inspection procedure carried out at the premises of the issuer of the invoices, and cannot therefore exercise any right of appeal in an inspection procedure the findings of which must be taken into account as a matter of course by the tax authorities in the inspection procedure concerning the tax liability of the recipient and may be adopted as evidence against that recipient, and that [the tax authorities] do not make available to the recipient the relevant files relating to the inspection carried out in respect of the issuer, in particular the documents underpinning the findings, the reports and administrative decisions, but disclose only part of them to the recipient in the form of a summary, the tax authorities thus apprising the recipient of the contents of the files only indirectly, making a selection according to their own criteria and over which the recipient may exercise no control?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Preliminary observations</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is apparent from the order for reference that, following tax inspections of which it and its suppliers were the subject, Glencore was refused the right to deduct VAT and, consequently, VAT adjustments were imposed on it. The tax authorities based that refusal, in particular, in accordance with Article 1(3a) of the Code of fiscal procedure, on findings made in the context of procedures carried out against those suppliers, and to which Glencore was therefore not a party, which had given rise to decisions which had become final, according to which those suppliers had committed VAT fraud.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As the request for a preliminary ruling refers to a criminal procedure and to an earlier administrative tax procedure and to administrative procedures of which Glencore’s suppliers were the subject, the Court, in accordance with Article 101 of its Rules of Procedure, requested the referring court to provide clarification on the criminal procedure or procedures in question and to state whether they were closed by decisions of a criminal court which had become final. In answer to that request, the referring court stated that it had no information as to whether the criminal procedures concerning Glencore’s suppliers had been closed by a substantive judgment and it communicated four final administrative tax decisions, of which certain of those suppliers were the subject.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">At the hearing, it was stated by Glencore and by the Hungarian Government that two criminal procedures relating to the fraud in question were still pending when the tax authorities consulted the documents in those procedures and adopted the two administrative decisions contested by Glencore in the main proceedings. Those procedures had therefore not yet been closed by a substantive decision delivered by a criminal court. It follows that the present case does not raise questions linked to <span class="coj-italic">res judicata</span>.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of that information, it must be considered that, by its three questions, which should be examined together, the referring court asks, in essence, whether the VAT Directive, the principle of respect for the rights of the defence and Article 47 of the Charter must be interpreted as meaning that they preclude the legislation or a practice of a Member State according to which, in a verification of the right to deduct VAT exercised by a taxable person, the tax authorities are bound by the findings of fact and the legal classifications which they have already made in the context of related administrative procedures against suppliers of that taxable person, on which decisions which have become final and which found the existence of a VAT fraud by those suppliers are based.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to the information provided by the referring court, the tax authorities consider that the fact that they are bound by the findings of fact and the legal classifications set out in those decisions which have become final relieves them of their obligation to adduce proof of fraud again in the procedure carried out against the taxable person. In that context, the referring court wonders, in particular, whether the VAT Directive and the principle of respect for the rights of the defence preclude a practice of the tax authorities consisting, as in the main proceedings, in not providing that taxable person with access to the file relating to related procedures and, in particular, to all the documents on which those findings are based, to the reports drawn up and to the decisions adopted, and in communicating to that taxable person indirectly, in the form of a summary, only a part of that evidence which they have selected according to their own criteria and which is not amenable to review.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it was stated at the hearing that, in order to prove Glencore’s involvement in that fraud, the tax authorities relied on evidence gathered in the context of the pending criminal procedures, the administrative procedures initiated against Glencore’s suppliers and the administrative procedure of which Glencore was the subject.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Explaining, moreover, that it is not empowered to examine the legality of the earlier decisions delivered following inspections concerning other taxable persons and, in particular, to verify whether the evidence on which those decisions are based was obtained lawfully, the referring court also wonders, referring to the judgment of 17 December 2015, WebMindLicenses (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑419/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:832</a>), whether the requirements of a fair hearing are such that the court hearing an action against the decision of the tax authorities adjusting VAT must be empowered to verify that the evidence coming from a related administrative procedure was obtained in accordance with the rights guaranteed by EU law and that the findings based on that evidence do not breach those rights.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In so far as, in its written and oral observations, the Hungarian Government provided an interpretation of the national provisions and an explanation of the tax authorities’ practice, concerning the taking of evidence, the extent of access to the file and the scope of judicial review, that differed from those stated by the referring court, it should be borne in mind that it is not for the Court of Justice, in the context of the judicial cooperation established by Article 267 TFEU, to call into question or to verify the accuracy of the interpretation of national law made by the national court, as such interpretation falls within the exclusive jurisdiction of that court. In addition, when hearing a reference for a preliminary ruling from a national court, the Court of Justice must base its reasoning on the interpretation of national law as described to it by that court (judgment of 6 October 2015, Târşia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A662&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑69/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A662" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:662</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A662" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">13</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Likewise, it is not for the Court of Justice but for the national court to ascertain the facts which have given rise to the dispute and to establish the consequences which they have for the judgment which it is required to deliver. The Court of Justice must thus take account, under the division of jurisdiction between it and the national courts, of the factual and legislative context, as described in the order for reference, in which the questions put to it are set (see, to that effect, judgment of 7 June 2018, Scotch Whisky Association, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A415&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑44/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A415" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:415</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A415" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Nor is it the task of the Court of Justice to rule upon the compatibility of national law with EU law or to interpret national legislation or regulations (judgments of 1 March 2012, Ascaforand Asidac, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A113&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑484/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A113" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:113</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A113" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a> and the case-law cited, and of 6 October 2015, Consorci Sanitari del Maresme, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A664&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑203/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A664" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:664</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A664" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">43</a>). The Court of Justice is however competent to give the referring court full guidance on the interpretation of EU law in order to enable it to determine the issue of compatibility for the purposes of the case before it (judgments of 1 March 2012, Ascafor and Asidac, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A113&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑484/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A113" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:113</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A113" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> and the case-law cited, and of 26 July 2017, Europa Way and Persidera, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A593&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑560/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A593" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:593</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A593" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Having regard to those preliminary observations, it is appropriate to examine in turn the requirements flowing from the VAT Directive, from the principle of respect for the rights of the defence and from Article 47 of the Charter as regards the taking of evidence, the extent of access to the file by the taxable person and the scope of judicial review in a case such as that in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The taking of evidence under the VAT Directive and the principle of respect for the rights of the defence</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to settled case-law, the right of taxable persons to deduct VAT due or already paid on goods purchased and services received as inputs from the VAT which they are liable to pay is a fundamental principle of the common system of VAT established by the relevant EU legislation. As the Court has consistently held, the right of deduction provided for in Article 167 et seq. of the VAT Directive is an integral part of the VAT scheme and in principle may not be limited (judgments of 6 December 2012, Bonik, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑285/11</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:774</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>; of 19 October 2017, Paper Consult, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A775&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑101/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A775" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:775</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A775" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A775" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a>; and of 21 March 2018, Volkswagen, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑533/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:204</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That being so, the prevention of tax evasion, avoidance and abuse is an objective recognised and encouraged by the VAT Directive and the Court has repeatedly held EU law cannot be relied on for abusive or fraudulent ends. It is therefore for the national courts and authorities to refuse the right of deduction, if it is shown, in the light of objective factors, that that right is being relied on for fraudulent or abusive ends (see, to that effect, judgments of 6 December 2012, Bonik, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑285/11</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:774</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a> to <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> and the case-law cited, and of 28 July 2016, Astone, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A614&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑332/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A614" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:614</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A614" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If that is the case where a fraud is committed by the taxable person himself, it is also the case where a taxable person knew, or should have known, that, by his purchase, he was taking part in a transaction connected with VAT fraud. A taxable person thus cannot be refused the right of deduction unless it is established on the basis of objective factors that that taxable person — to whom the supply of goods or services, on the basis of which the right of deduction is claimed, was made — knew or should have known that, through the acquisition of those goods or services, he was participating in a transaction connected with VAT fraud committed by the supplier or by another trader acting upstream or downstream in the chain of supply of those goods or services (see, to that effect, judgments of 6 December 2012, Bonik, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑285/11</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:774</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a> to <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A774" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a>, and of 13 February 2014, Maks Pen, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑18/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A69" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:69</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A69" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A69" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since the refusal of the right of deduction is an exception to the application of the fundamental principle constituted by that right, it is incumbent on the tax authorities to establish, to the requisite legal standard, the objective evidence on which it may be concluded that the taxable person knew or should have known that the transaction relied on as a basis for the right of deduction was involved in such a fraud (see, to that effect, judgment of 13 February 2014, Maks Pen, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A69&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑18/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A69" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:69</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A69" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since EU law lays down no rules relating to the procedures for taking evidence in connection with VAT fraud, that objective evidence must be established by the tax authorities in accordance with the rules of evidence laid down in national law. However, those rules must not undermine the effectiveness of EU law and must observe the rights guaranteed by EU law, especially by the Charter (see, to that effect, judgment of 17 December 2015, WebMindLicenses, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑419/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:832</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">65</a> to <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">67</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It was thus, and subject to those conditions, that the Court held, in the judgment of 17 December 2015, WebMindLicenses (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑419/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:832</a>), in paragraph 68, that EU law does not preclude the tax authorities from being able, in the context of an administrative procedure, in order to establish the existence of an abusive practice concerning VAT, to use evidence obtained in the context of a parallel criminal procedure concerning the taxable person that has not yet been concluded. As the Advocate General observed in point 39 of his Opinion, such an assessment also applies to the use, for the purpose of establishing the existence of a VAT fraud, of evidence obtained in the context of criminal procedures which have not been closed and which do not involve the taxable person or obtained in related administrative procedures to which, as in the case in the main proceedings, the taxable person was not a party.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Among the rights guaranteed by EU law is respect for the rights of the defence, which, according to a consistent body of case-law, is a general principle of EU law which applies where the authorities are minded to adopt a measure which will adversely affect an individual. In accordance with that principle, the addressees of decisions which significantly affect their interests must be placed in a position in which they can effectively make known their views as regards the information on which the authorities intend to base their decision. The authorities of the Member States are subject to that obligation when they take decisions which come within the scope of EU law, even though the EU law applicable does not expressly provide for such a procedural requirement (judgments of 18 December 2008, Sopropé, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A746&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑349/07</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A746" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:746</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A746" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> to <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A746" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>, and of 22 October 2013, Sabou, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A678&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑276/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A678" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:678</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A678" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That general principle thus applies in circumstances such as those at issue in the main proceedings, in which a Member State, in order to comply with the obligation arising from the application of EU law to take all legislative and administrative measures appropriate for ensuring collection of all the VAT due on its territory and for preventing fraud, submits a taxpayer to a tax inspection procedure (see, to that effect, judgment of 9 November 2017, Ispas, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑298/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:843</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">An integral part of respect for the rights of the defence is the right to be heard, which guarantees every person the opportunity to make known his view effectively during an administrative procedure and before the adoption of any decision liable to affect his interests adversely. In accordance with the Court’s case-law, the purpose of the rule that the addressee of an adverse decision must be placed in a position to submit his observations before that decision is taken is to put the competent authority in a position effectively to take all relevant information into account. In order to ensure that the person concerned is in fact protected, the purpose of that rule is, inter alia, to enable that person to correct an error or submit such information relating to his or her personal circumstances as will argue in favour of the adoption or non-adoption of the decision, or in favour of its having a specific content (judgment of 5 November 2014, Mukarubega, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2336&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑166/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2336" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2336</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2336" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2336" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The right to be heard also requires that the authorities pay due attention to the observations thus submitted by the person concerned, examining carefully and impartially all the relevant aspects of the individual case and giving a detailed statement of reasons for their decision; the obligation to state reasons for a decision which are sufficiently specific and concrete to allow the person concerned to understand why his application is being rejected is thus a corollary of the principle of respect for the rights of the defence (judgment of 5 November 2014, Mukarubega, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2336&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑166/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2336" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2336</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2336" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, according to settled case-law of the Court, the principle of respect for the rights of the defence is not an unfettered prerogative but may be restricted, provided that the restrictions in fact correspond to objectives of public interest pursued by the measure in question and do not constitute, in the light of the objectives pursued, a disproportionate and intolerable interference which impairs the very substance of the rights thus guaranteed (judgment of 9 November 2017, Ispas, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑298/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:843</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, the question whether there is a breach of the rights of the defence must be examined by reference to the specific circumstances of each particular case, including the nature of the act at issue, the context in which it was adopted and the legal rules governing the matter in question (judgment of 5 November 2014, Mukarubega, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2336&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑166/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2336" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2336</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2336" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">54</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In addition, it should be borne in mind that legal certainty is one of a number of general principles recognised in EU law. Thus, the Court has repeatedly held that the finality of an administrative decision, which is acquired upon expiry of the reasonable time limits for legal remedies or by exhaustion of those remedies, contributes to legal certainty and that EU law does not require that administrative bodies be placed under an obligation, in principle, to reopen an administrative decision which has become final in that way (see, to that effect, judgments of 13 January 2004, Kühne &amp; Heitz, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A17&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑453/00</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A17" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2004:17</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A17" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>; of 12 February 2008, Kempter, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A78&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑2/06</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A78" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:78</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A78" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>; and of 4 October 2012, Byankov, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A608&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑249/11</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A608" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:608</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A608" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">76</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards a rule, such as that set out in Article 1(3a) of the Code of fiscal procedure, under which, according to the referring court, the tax authorities are bound by the findings of fact and the legal classifications which they have made in the context of related administrative procedures initiated against the taxable person’s suppliers, to which the taxable person was therefore not a party, it appears that it is of such a kind, as the Hungarian Government has claimed and as the Advocate General observed in point 46 of his Opinion, as to guarantee legal certainty and equality between taxpayers, in that it requires those authorities to show consistency by ascribing the same legal classifications to the same facts. EU law therefore does not preclude, in principle, the application of such a rule.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, that does not apply if, under that rule and because of the finality of decisions taken at the close of those related administrative procedures, the tax authorities are relieved of the obligation to disclose to the taxable person the evidence, including that originating in those procedures, on the basis of which they intend to take a decision, and that taxable person is thus deprived of the right effectively to call into question, during the procedure of which he is the subject, those findings of fact and those legal classifications.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First, such an application of that rule, which amounts to conferring authority on a final administrative decision, finding the existence of fraud, as against a taxable person who was not a party to the procedure that culminated in that finding is contrary to the obligation placed on the tax authorities, referred to in paragraph 36 of this judgment, to establish to the requisite legal standard the objective evidence on which it may be concluded that the taxable person knew or should have known that the transaction relied on as the basis for the right of deduction was involved in a fraud, since that obligation assumes that those authorities adduce, in the procedure of which the taxable person is the subject, proof of the existence of the fraud in which he is alleged to have played a passive role.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Second, in the context of a tax inspection procedure, such as that at issue in the main proceedings, the principle of legal certainty cannot justify such a restriction of the rights of the defence, the content of which is set out in paragraphs 39 and 41 of this judgment, which constitutes, in the light of the aim pursued, a disproportionate and intolerable interference impairing the very essence of those rights. It deprives the taxable person whose right to deduct VAT it is proposed to deny of the possibility of effectively making known, during the administrative procedure and before a decision adversely affecting his or her interests is adopted, his or her point of view as regards the evidence on which the authorities intend to rely. It alters the possibility that the competent authority will be in a position effectively to take all the relevant evidence into account and that the person concerned will, where appropriate, correct an error. Last, it relieves the authorities of their duty to pay all necessary attention to the observations submitted by the person concerned, by examining, carefully and impartially, all the relevant elements of the particular case and providing detailed reasons for their decision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, although the VAT Directive and the principle of respect for the rights of the defence do not preclude, in principle, such a rule, that is on condition that its application does not relieve the tax authorities of their obligation to disclose to the taxable person the evidence, including the evidence originating in the related procedures initiated against his or her suppliers, on the basis of which they intend to take a decision, and that that taxable person is not thus deprived of the right effectively to call into question, during the procedure of which he or she is the subject, the findings of fact and the legal classifications which those authorities have made in the context of those related procedures.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The extent of access to the file by the taxable person in the light of the principle of respect for the rights of the defence</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The requirement, referred to in paragraphs 39 and 41 of this judgment, for a person to be able to make his views known as regards the evidence on which the authorities intend to base their decision means that the addressees of that decision must be in a position to be aware of that evidence (see, to that effect, judgment of 9 November 2017, Ispas, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑298/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:843</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>). The principle of respect for the rights of the defence thus has as a corollary the right of access to the file (see, to that effect, judgment of 7 January 2004, Aalborg Portland and Others v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A6&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑204/00 P, C‑205/00 P, C‑211/00 P, C‑213/00 P, C‑217/00 P and C‑219/00 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A6" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2004:6</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A6" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">68</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As the addressee of a decision having an adverse effect must be put in a position to submit his observations before that decision is taken, so that, in particular, the competent authority will be able effectively to take account of all the relevant evidence and so that, where appropriate, the addressee will be able to correct an error and effectively rely on such evidence relating to his personal situation, access to the file must be authorised during the administrative procedure. Therefore a breach of the right of access to the file during the administrative procedure is not remedied by the mere fact that access to the file was made possible during the judicial proceedings relating to an action in which annulment of the contested decision is sought (see, by analogy, judgments of 8 July 1999, Hercules Chemicals v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1999%3A357&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑51/92 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1999%3A357" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1999:357</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1999%3A357" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">78</a>; of 15 October 2002, Limburgse Vinyl Maatschappij and Others v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A582&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑238/99 P, C‑244/99 P, C‑245/99 P, C‑247/99 P, C‑250/99 P to C‑252/99 P and C‑254/99 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A582" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2002:582</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A582" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">318</a>; and of 7 January 2004, Aalborg Portland and Others v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A6&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑204/00 P, C‑205/00 P, C‑211/00 P, C‑213/00 P, C‑217/00 P and C‑219/00 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A6" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2004:6</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A6" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">104</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that, in an administrative tax procedure such as that at issue in the main proceedings, the taxable person must be able to have access to all the evidence in the file on which the tax authorities intend to base their decision. Thus, when the tax authorities intend to base their decision on evidence obtained, as in the case in the main proceedings, in the context of related criminal procedures and administrative procedures initiated against his or her suppliers, that taxable person must be able to have access to that evidence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, as the Advocate General observed in points 59 and 60 of his Opinion, the taxable person must also be allowed access to documents which do not directly serve as a basis for the decision of the tax authorities, but may be helpful in the exercise of the rights of the defence, in particular to exculpatory evidence that may have been collected by those authorities (see, to that effect, judgment of 13 September 2018, UBS Europe and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A715&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑358/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A715" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:715</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A715" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">66</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, in so far as, as was observed in paragraph 43 of this judgment, the principle of respect for the rights of the defence is not an absolute prerogative but may be subject to restrictions, it should be observed that, in a tax verification procedure, such restrictions, enshrined in national law, may, in particular, be designed to protect requirements of confidentiality or business secrecy (see, to that effect, judgment of 9 November 2017, Ispas, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑298/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:843</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a>), and also, as the Hungarian Government has claimed, the private life of third parties, the personal data relating to them or the effectiveness of the criminal action, which access to certain information and certain documents is liable to harm.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The principle of respect for the rights of the defence, in an administrative procedure such as that at issue in the main proceedings, therefore does not impose on the tax authorities a general obligation to provide unrestricted access to the file which it holds, but requires that the taxable person is to have the opportunity to have communicated to him or her, at his or her request, the information and documents in the administrative file and taken into consideration by those authorities when they adopted their decision, unless objectives of public interest warrant restricting access to that information and those documents (see, to that effect, judgment of 9 November 2017, Ispas, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑298/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:843</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A843" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a> et 39). In the latter case, as the Advocate General observed in point 64 of his Opinion, it is for the tax authorities to consider whether partial access is possible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that, when the tax authorities intend to base their decision on evidence obtained, as in the case in the main proceedings, in the context of criminal procedures and related administrative procedures initiated against the taxable person’s suppliers, the principle of respect for the rights of the defence requires that the taxable person be able to have access, during the procedure of which he is the subject, to all of that evidence and to the evidence that may be useful for his or her defence, unless public-interest objectives justify restricting that access.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That requirement is not satisfied in the case of a practice of the tax authorities consisting in not giving the taxable person concerned any access to that material and, in particular, to the documents on which the findings made are based, to the reports drawn up and to the decisions adopted at the close of the related administrative procedures, and in communicating to him or her indirectly, in the form of a summary, only a part of that material which they have selected according to criteria which are specific to him or her and over which he or she can exercise no control.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The scope of judicial review under Article 47 of the Charter</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since the referring court wonders whether the requirements of a fair trial require that the court hearing an action against a decision of the tax authorities giving rise to an adjustment of VAT be empowered to ascertain that the evidence originating in a related administrative procedure has been obtained in accordance with the rights guaranteed by EU law and that the findings based on that evidence do not breach those rights, it should be borne in mind that the fundamental rights guaranteed by the Charter are applicable in such a situation, since an adjustment of VAT after an abusive practice has been found, such as the adjustment forming the subject matter of the main proceedings, constitutes implementation of EU law for the purposes of Article 51(1) of the Charter (see, to that effect, judgments of 26 February 2013, Åkerberg Fransson, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A105&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑617/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A105" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:105</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A105" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">19</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A105" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>, and of 17 December 2015, WebMindLicenses, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑419/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:832</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">67</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 47 of the Charter, everyone whose rights and freedoms guaranteed by the law of the Union are violated has the right to an effective remedy before a tribunal in compliance with the conditions laid down in that article. Everyone is entitled, in particular, to a fair hearing.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The principle of equality of arms, which is an integral part of the principle of effective judicial protection of the rights that individuals derive from EU law, enshrined in Article 47 of the Charter, in that it is a corollary, like, in particular, the principle <span class="coj-italic">audi alteram partem</span>, of the very concept of a fair trial, implies an obligation to offer each party a reasonable opportunity to present its case in conditions that do not place it in a clearly less advantageous position by comparison with its opponent (see, to that effect, judgments of 17 July 2014, Sánchez Morcillo and Abril García, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2099&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑169/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2099" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2099</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2099" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">49</a>, and of 16 May 2017, Berlioz Investment Fund, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A373&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑682/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A373" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:373</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A373" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">96</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The aim of that principle is to ensure a procedural balance between the parties to judicial proceedings, guaranteeing the equality of rights and obligations of those parties as regards, inter alia, the rules that govern the taking of evidence and the adversarial hearing before the court and also those parties’ rights to bring an action (judgment of 28 July 2016, Ordre des barreaux francophones et germanophone and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A605&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑543/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A605" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:605</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A605" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a>). In order to satisfy the requirements associated with the right to a fair hearing, it is important for the parties to be apprised of, and to be able to debate and be heard on, the matters of fact and of law which will determine the outcome of the proceedings (judgment of 2 December 2009, Commission v Ireland and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A742&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑89/08 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A742" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:742</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A742" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the judgment of 17 December 2015, WebMindLicenses (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑419/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:832</a>), to which the referring court makes reference, since the case that gave rise to that judgment involved evidence obtained, without the taxable person’s knowledge, in the context of a criminal procedure that had not yet been concluded, by means of the interception of telecommunications and seizure of emails capable of constituting an infringement of Article 7 of the Charter, and the use of that evidence in the context of an administrative procedure, the Court observed, in paragraph 87 of that judgment, that in order for the judicial review guaranteed by Article 47 of the Charter to be effective, the court reviewing the legality of a decision implementing EU law must be able to verify whether the evidence on which that decision is founded has been obtained and used in breach of the rights guaranteed by EU law and, especially, by the Charter.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Court observed, in paragraph 88 of that judgment, that that requirement is satisfied if the court hearing an action challenging the decision of the tax authorities adjusting VAT is empowered to check that that evidence, on which that decision is founded, was obtained in that criminal procedure in accordance with the rights guaranteed by EU law or can at least satisfy itself, on the basis of a review already carried out by a criminal court in an <span class="coj-italic">inter partes</span> procedure, that that evidence was obtained in accordance with EU law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The effectiveness of the judicial review guaranteed by Article 47 of the Charter requires, likewise, that the court hearing an action challenging a decision of the tax authorities adjusting VAT be empowered to check that the evidence obtained during a related administrative procedure, to which the taxable person was not a party, and used as the basis of that decision was not obtained in breach of the rights guaranteed by EU law and especially by the Charter. The same applies when, as in the case in the main proceedings, that evidence served as the basis for administrative decisions taken with respect to other taxable persons which have become final.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be pointed out that, as the Advocate General observed in point 74 of his Opinion, statements and findings of administrative authorities cannot bind the courts.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="coj-normal">More generally, that court must be able to ascertain, in the context of an <span class="coj-italic">inter partes</span> procedure, the legality of the manner in which the evidence gathered in the course of related administrative procedures initiated against other taxable persons was obtained and used and the findings made in the administrative decisions adopted at the close of those procedures, which are decisive for the outcome of the action. The equality of arms would be upset and the <span class="coj-italic">inter partes</span> principle would not be observed if the tax authorities, on the ground that they are bound by the decisions taken with respect to other taxable persons which have become final, were not required to produce that evidence before it, if the taxable person were unable to be apprised of it, if the parties could not discuss, in an <span class="coj-italic">inter partes</span> procedure, both that evidence and those findings and if that court were not in a position to verify all the matters of fact and of law on which those decisions are based and which are decisive for the solution of the dispute before it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If that court is not empowered to carry out that check and if, therefore, the right to an effective judicial remedy is not effective, the evidence obtained during the related administrative procedures and the findings made in the administrative decisions taken with respect to other taxable persons following those procedures must be disregarded and the contested decision which is founded on that evidence must be annulled if, as a result, that decision has no basis (see, to that effect, judgment of 17 December 2015, WebMindLicenses, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑419/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:832</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A832" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">89</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of all of the foregoing considerations, the answer to the questions referred must be that the VAT Directive, the principle of respect for the rights of the defence and Article 47 of the Charter must be interpreted as not precluding, in principle, legislation or a practice of a Member State according to which, during a check of the right to deduct VAT exercised by a taxable person, the tax authorities are bound by the findings of fact and the legal classifications which they have already made in the context of related administrative procedures initiated against suppliers of that taxable person, on which decisions which have become final finding the existence of VAT fraud committed by those suppliers are based, on condition, first, that it does not relieve the tax authorities of the obligation to disclose to the taxable person the evidence, including that originating in those related administrative procedures, on the basis of which they intend to take a decision, and that that taxable person is not thus deprived of the right effectively to challenge those findings of fact and legal classifications during the procedure brought against him; second, that the taxable person may have access during that procedure to all the evidence obtained during those related administrative procedures or any other procedure on which those authorities intend to base their decision or which may assist the exercise of the rights of the defence, unless objectives of public interest justify restricting that access; and, third, that the court hearing an action challenging that decision may check the legality of the way in which that evidence was obtained and used and the findings made in the administrative decisions taken with respect to those suppliers that are decisive for the outcome of the action.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="coj-normal">
+<span class="coj-bold">Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, the principle of respect for the rights of the defence and Article 47 of the Charter of Fundamental Rights of the European Union must be interpreted as not precluding, in principle, legislation or a practice of a Member State according to which, during a check of the right to deduct value added tax (VAT) exercised by a taxable person, the tax authorities are bound by the findings of fact and the legal classifications which they have already made in the context of related administrative procedures initiated against suppliers of that taxable person, on which decisions which have become final finding the existence of VAT fraud committed by those suppliers are based, on condition, first, that it does not relieve the tax authorities of the obligation to disclose to the taxable person the evidence, including that originating in those related administrative procedures, on the basis of which they intend to take a decision, and that that taxable person is not thus deprived of the right effectively to challenge those findings of fact and legal classifications during the procedure brought against him; second, that the taxable person may have access during that procedure to all the evidence obtained during those related administrative procedures or any other procedure on which those authorities intend to base their decision or which may assist the exercise of the rights of the defence, unless objectives of public interest justify restricting that access; and, third, that the court hearing an action challenging that decision may check the legality of the way in which that evidence was obtained and used and the findings made in the administrative decisions taken with respect to those suppliers that are decisive for the outcome of the action.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62018CJ0189_EN_01-E0001" id="t-ECR_62018CJ0189_EN_01-E0001">*1</a>
+</span>)	Language of the case: Hungarian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

@@ -1,0 +1,693 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Second Chamber)</p>
+<p class="sum-title-1">17 October 2019 (<span class="note">
+<a href="#t-ECR_62017CJ0692_EN_01-E0001" id="c-ECR_62017CJ0692_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Value added tax (VAT) — Directive 2006/112/EC — Exemptions — Article 135(1)(b) and (d) — Transactions relating to the granting, negotiation and management of credit — Transactions concerning debts, with the exception of the recovery of debt — Assignment for consideration, to a third party, of a position held in enforcement proceedings for recovery of a debt recognised by a judgment)</p>
+<p class="normal">In Case C‑692/17,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Supremo Tribunal Administrativo (Supreme Administrative Court, Portugal), made by decision of 8 November 2017, received at the Court on 11 December 2017, in the proceedings</p>
+<p class="normal">
+<span class="bold">Paulo Nascimento Consulting — Mediação Imobiliária Lda</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Autoridade Tributária e Aduaneira,</span>
+</p>
+<p class="normal">THE COURT (Second Chamber),</p>
+<p class="normal">composed of A. Arabadjiev, President of the Chamber, L. Bay Larsen and C. Vajda (Rapporteur), Judges,</p>
+<p class="normal">Advocate General: H. Saugmandsgaard Øe,</p>
+<p class="normal">Registrar: M. Ferreira, principal administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 7 February 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Paulo Nascimento Consulting — Mediação Imobiliária Lda, by R. Silva Lopes and A. Coelho Martins, advogados,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Portuguese Government, by L. Inez Fernandes, M. Figueiredo and R. Campos Laires, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by L. Lozano Palacios and B. Rechena, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 2 May 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 135(1)(b) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" target="CourtTab">OJ 2006 L 347, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Paulo Nascimento Consulting — Mediação Imobiliária Lda (‘PNC’) and the Autoridade Tributária e Aduaneira (the Tax and Customs Authority, Portugal) concerning the value added tax (VAT) payable on account of the assignment for consideration, to a third party, of PNC’s position in enforcement proceedings for recovery of a debt recognised by a judgment.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">EU law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 2(1)(a) and (c) of Directive 2006/112, ‘the supply of goods for consideration within the territory of a Member State by a taxable person acting as such’ and ‘the supply of services for consideration within the territory of a Member State by a taxable person acting as such’, respectively, are to be subject to VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 9(1) of that directive provides:</p>
+<p class="normal">‘“Taxable person” shall mean any person who, independently, carries out in any place any economic activity, whatever the purpose or results of that activity.</p>
+<p class="normal">Any activity of producers, traders or persons supplying services, including mining and agricultural activities and activities of the professions, shall be regarded as “economic activity”. The exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis shall in particular be regarded as an economic activity.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with Article 14(1) of Directive 2006/112, ‘“supply of goods” shall mean the transfer of the right to dispose of tangible property as owner’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 24(1) of that directive, ‘“supply of services” shall mean any transaction which does not constitute a supply of goods’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 25(a) of Directive 2006/112 states that ‘a supply of services may consist, inter alia, in … the assignment of intangible property, whether or not the subject of a document establishing title’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 135(1)(b) and (d) of that directive provides:</p>
+<p class="normal">‘Member States shall exempt the following transactions:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the granting and the negotiation of credit and the management of credit by the person granting it;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">transactions, including negotiation, concerning deposit and current accounts, payments, transfers, debts, cheques and other negotiable instruments, but excluding debt collection.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Portuguese law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">The Código do Imposto sobre o Valor Acrescentado (Code on Value Added Tax), which transposed Directive 2006/112 into Portuguese law, provides, in Article 9(27)(a) and (c), in the version applicable to the facts at issue in the main proceedings (‘the VAT Code’), that the following transactions are exempt from VAT:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(a)</p>
+</td>
+<td valign="top">
+<p class="normal">The granting and the negotiation of credit, in any form, including discount and rediscount transactions, and the administration and management of credit by the person who granted it;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">transactions, including negotiation, concerning deposit and current accounts, payments, transfers, payments received, cheques, negotiable and other instruments, but excluding transactions consisting in simple debt collection.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the order for reference that, in November 2006, PNC agreed, in the context of its activity as a property agency, to provide its agency services on an exclusive basis for a sale of agricultural land. An offer of sale was proposed by PNC but rejected by its principal, the owner of the land, who refused to pay it for the service provided.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">PNC then brought an action before the Tribunal de Família e Menores e de Comarca de Portimão (Family, Juvenile and District Court, Portimão, Portugal), seeking an order that its principal pay it an amount of EUR 125000 in respect of the property agency fee payable, plus VAT and default interest until the date of full payment. That court granted PNC’s application by a judgment which became final.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">It is further apparent from the file before the Court that since the debtor failed to pay the amount thus owed by her, PNC brought before the same court an enforcement action seeking to recover the debt owed to it as recognised by that judgment, which amounted to EUR 170 859.62 in total.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">It is also common ground that, in the context of that enforcement procedure, immovable property belonging to the debtor was made subject to attachment in order to secure payment of the amount due. The attached property was subsequently awarded to PNC for the amount of EUR 606200, a sum which represented approximately 70% of that property’s market value. The property was awarded in exchange for the obligation on the part of PNC to pay to the enforcement agency the surplus — that is to say, the difference between the amount of the award and the value of the debt owed to PNC — plus enforcement costs, amounting to EUR 417 937.12 in total.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">By agreement of 29 September 2010, PNC transferred to Starplant — Unipessoal Lda (‘Starplant’) all the rights and obligations deriving from its position in the ongoing enforcement proceedings, in exchange for a payment by Starplant in the amount of EUR 351 619.90.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">In October 2010, first, PNC entered in its accounts the amount of EUR 125000 received in exchange for the services provided to the abovementioned principal and paid the amount of EUR 26250, corresponding to the VAT payable in that regard. Secondly, it entered in its accounts an amount of EUR 200 369.90, recorded as ‘other unspecified income’, which corresponded to the remainder of the price paid by Starplant, an amount on which it paid no VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">On 24 June 2014, the Autoridade Tributária e Aduaneira (Tax and Customs Authority, Portugal) issued VAT assessments to PNC in the total amount of EUR 83 647.77, after taking the view that the VAT return submitted by PNC for the period in question had not properly accounted for the assignment, for EUR 351 619.90, of the position held in the proceedings. In that regard, the Tax and Customs Authority took the view that that transaction was separate from that relating to the property agency fee and subject to VAT, since it constituted an assignment of a right for consideration by a taxable person acting as such, which fell within the concept of the supply of services and was not covered by any exemption provided for by the VAT Code.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">The Tribunal Administrativo e Fiscal de Loulé (Administrative and Tax Court, Loulé, Portugal) upheld PNC’s action for annulment of the VAT assessments referred to above.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">In its judgment of 4 February 2016, the Tribunal Central Administrativo Sul (Southern Central Administrative Court, Portugal), before which the matter was brought by the Fazenda Pública (Public Treasury, Portugal), set aside the judgment at first instance, on the ground that the debt assignment at issue formed part of the economic activity of PNC, was to be regarded as a taxable supply of services and did not benefit from any of the exemptions referred to in Article 9 of the VAT Code. In particular, that court found that the transaction in question did not fall within the exemption provided for in Article 9(27)(a) of the VAT Code for banking and financial transactions granting and negotiating credit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">PNC appealed against that judgment to the Supremo Tribunal Administrativo (Supreme Administrative Court, Portugal), arguing primarily that the exemption provided for in Article 9(27)(a) of the VAT Code was applicable to debt assignment transactions even where they were carried out by entities other than financial institutions. In that regard, it relied on the case-law of the Court relating to the provision of EU law transposed into Portuguese law by Article 9(27)(a) of the VAT Code, namely Article 13B(d)(1) of Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1977:145:TOC" hreflang="en" target="CourtTab">OJ 1977 L 145, p. 1</a>; ‘the Sixth Directive’). That provision of the Sixth Directive was reproduced in Article 135(1)(b) of Directive 2006/112, the directive which repealed and replaced the Sixth Directive as from 1 January 2007.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances the Supremo Tribunal Administrativo (Supreme Administrative Court) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="normal">‘For the purposes of application of the exemption provided for in Article 135(1)(b) of [Directive 2006/112/EC], do the terms “granting”, “negotiation” and “management of credit” encompass the assignment for consideration to a third party of the positon held by a taxable person liable for VAT in enforcement proceedings for recovery of a debt, recognised by a judgment and resulting from the breach of a property agency agreement, plus VAT at the rate in force on the date of payment and the default interest already accrued or which may accrue until full payment?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">By its question, the referring court asks, in essence, whether Article 135(1)(b) of Directive 2006/112 must be interpreted as meaning that the exemption which it lays down for transactions concerning the granting, negotiation and management of credit applies to a transaction which, for the taxable person, consists in assigning, to a third party, for consideration its positon in enforcement proceedings for recovery of a debt.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">First of all, it must be examined whether that transaction constitutes a transaction subject to VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, in the first place, it follows from Article 2(1) of Directive 2006/112, which defines the scope of VAT, that, within the territory of a Member State, activities of an economic nature alone are subject to that tax. Pursuant to the first subparagraph of Article 9(1) of that directive, a taxable person is understood to mean any person who independently carries out in any place such an economic activity. The concept of economic activity is defined in the second subparagraph of Article 9(1) of Directive 2006/112 as encompassing any activity of producers, traders or persons supplying services and, more particularly, the exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis (judgment of 8 November 2018, C&amp;D Foods Acquisition, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A888&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑502/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A888&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:888</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A888&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point29" hreflang="en" target="CourtTab" type="application/xhtml+xml">29</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">It must be noted that the Court has already interpreted the first subparagraph of Article 9(1) of Directive 2006/112 in the case giving rise to the judgment of 13 June 2013, Kostov (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A391&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑62/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A391&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:391</a>), which raised the issue of the liability to VAT of transactions carried out on an occasional basis by a taxable person for VAT purposes in respect of his main activity, where that person’s secondary activity, while constituting an economic activity having a connection with his main activity, was not the same as that main activity. The Court held that a taxable person for VAT purposes in respect of an economic activity which he carries out permanently must be regarded as a ‘taxable person’ in respect of any other economic activity carried out occasionally, provided that that activity constitutes an activity within the meaning of the second subparagraph of Article 9(1) of Directive 2006/112 (see, to that effect, judgment of 13 June 2013, Kostov, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A391&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑62/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A391&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2013:391</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A391&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="en" target="CourtTab" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">It is also apparent from the case-law of the Court that the number and scale of the transactions cannot constitute a criterion for distinguishing between the activities of an operator acting in a private capacity, which fall outside the scope of that directive, and those of an operator whose transactions constitute an economic activity (see, to that effect, judgment of 15 September 2011, Słaby and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A589&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑180/10 and C‑181/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A589&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2011:589</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A589&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="en" target="CourtTab" type="application/xhtml+xml">37</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, PNC has expressed uncertainty as to whether, in a situation such as that at issue in the main proceedings, the assignor may be considered to have acted in the course of his ‘economic activity’ within the meaning of the second subparagraph of Article 9(1) of Directive 2006/112, on the ground that PNC’s involvement in the debt assignment transaction at issue in the main proceedings was only ad hoc, since the economic activity which it usually carries out is that of a property agency.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be pointed out, as the Advocate General notes in point 42 of his Opinion, that the assignment at issue in the main proceedings occurred in the context of a dispute relating to the enforcement of a debt stemming from a contract concluded in the course of PNC’s taxable economic activity, consisting in the provision of property agency services, and PNC has not denied that it acted, as regards the transaction giving rise to the enforcement procedure, in the course of its economic activity. Consequently, the transaction at issue in the main proceedings is a direct extension of PNC’s main activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the fact that the transaction at issue in the main proceedings, carried out by a person already subject to VAT, is not that person’s main activity, and was carried out only on an ad hoc basis, does not preclude that person from having acted, as regards that transaction, in the course of its economic activity, within the meaning of the first subparagraph of Article 9(1) of Directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, it must be borne in mind that, as set out in Article 2(1)(a) and (c) of Directive 2006/112, ‘the supply of goods for consideration within the territory of a Member State by a taxable person acting as such’ and ‘the supply of services for consideration within the territory of a Member State by a taxable person acting as such’ are to be subject to VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Article 14(1) of Directive 2006/112 defines the supply of goods as being ‘the transfer of the right to dispose of tangible property as owner’, while Article 24(1) of that directive defines the supply of services as ‘any transaction which does not constitute a supply of goods’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, as regards the characterisation, for VAT purposes, of the transaction at issue in the main proceedings, it is not in dispute that that transaction was carried out ‘for consideration’. It is apparent from the file before the Court that PNC assigned to Starplant, for consideration, in a unitary and comprehensive manner, all the rights and obligations deriving from its position in enforcement proceedings for recovery of a debt recognised by a judgment, a debt the actual recovery of which was secured by the attachment and award to PNC of property belonging to the debtor.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the case-law of the Court that it must be concluded that there is a single supply where two or more elements or acts supplied by the taxable person to the customer are so closely linked that they form, objectively, a single, indivisible economic supply, which it would be artificial to split (see, to that effect, judgments of 10 March 2011, Bog and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A135&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑497/09, C‑499/09, C‑501/09 and C‑502/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A135&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2011:135</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A135&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point53" hreflang="en" target="CourtTab" type="application/xhtml+xml">53</a>, and of 10 November 2016, Baštová, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑432/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:855</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point70" hreflang="en" target="CourtTab" type="application/xhtml+xml">70</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, in the light of the information from the file before the Court, mentioned in paragraph 31 above, it must be found that the transaction at issue in those proceedings cannot be artificially split into two supplies of services consisting, first, in an assignment of debt and, secondly, the assignment of a position in enforcement proceedings seeking the recovery of a debt.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, while it is apparent, as the Advocate General observed in point 36 of his Opinion, that, of the various elements comprising the transaction at issue, the essential element is the assignment of tangible property, that is to say the immovable property awarded to the taxable person, the order for reference does not make clear whether, before the judgment awarding that property became final, the taxable person to whom that property had been awarded, had already actually been able to dispose of it as if it were the owner thereof.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">If that were the case, the assignment transaction at issue in the main proceedings, which occurred, according to the observations submitted to the Court, the day before the judgment ordering the property concerned to be awarded became final, would consist in a transfer of tangible property — that is, immovable property — by one party which empowers another party actually to dispose of it as if he were its owner, which would amount to a supply of goods (see, to that effect, judgment of 27 March 2019, Mydibel, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A254&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑201/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A254&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:254</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A254&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point34" hreflang="en" target="CourtTab" type="application/xhtml+xml">34</a> and the case-law cited). If that were not the case, the transaction at issue in the main proceedings would consist in the assignment of intangible property, the subject matter of which would be rights over immovable property, and would fall within the concept of the supply of services, in accordance with Article 25(a) of Directive 2006/112. It is for the referring court to conduct the necessary checks in that respect.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the specificities of the transaction at issue in the main proceedings, as set out in paragraphs 31 to 35 above, whether it is characterised as a supply of services or a supply of goods, it is, by its nature, different from the transaction at issue in the case giving rise to the judgment of 27 October 2011, GFKL Financial Services (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A700&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑93/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A700&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2011:700</a>). The transaction examined by the Court in that judgment consisted in the purchase by an operator, at his own risk, of defaulted debts at a price below their face value, in respect of which the Court concluded, in paragraph 26 of that judgment, that an operator purchasing such debts does not effect a supply of services for consideration and does not carry out an economic activity falling within the scope of the Sixth Directive when the difference between the face value of those debts and their purchase price reflects the actual economic value of the debts at the time of their assignment. By contrast, the transaction at issue in the main proceedings consists in the assignment, to a third party, for remuneration, of all the rights and obligations deriving from a taxable person’s position in enforcement proceedings for recovery of a debt recognised by a judgment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from all the foregoing considerations that the transaction at issue in the main proceedings is subject to VAT, pursuant to Article 2(1)(a) or (c) of Directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, next, whether that transaction falls within the exemption provided for in Article 135(1)(b) of Directive 2006/112 relating to ‘the granting and the negotiation of credit and the management of credit by the person granting it’, it must be pointed out that, as the Portuguese Government and the Commission noted in their observations and as the Advocate General emphasised in point 61 of his Opinion, the circumstances giving rise to the dispute in the main proceedings clearly do not relate to ‘credit’ consisting in making available an amount of capital, duly remunerated by the payment of interest, or in a deferred payment in the purchase price of goods agreed by a supplier in return for payment of interest remunerating that credit (see, to that effect, judgments of 11 July 1996, Régie dauphinoise, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1996%3A290&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑306/94</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A290&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:1996:290</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A290&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point16" hreflang="en" target="CourtTab" type="application/xhtml+xml">16</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1996%3A290&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point19" hreflang="en" target="CourtTab" type="application/xhtml+xml">19</a>; of 29 April 2004, EDM, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A243&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑77/01</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A243&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2004:243</a> paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A243&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point65" hreflang="en" target="CourtTab" type="application/xhtml+xml">65</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A243&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point70" hreflang="en" target="CourtTab" type="application/xhtml+xml">70</a>; and of 18 October 2018, Volkswagen Financial Services (UK), <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A845&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑153/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A845&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:845</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A845&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point36" hreflang="en" target="CourtTab" type="application/xhtml+xml">36</a> and the case-law cited). It is not apparent from the order for reference that the transaction at issue in the main proceedings entailed an obligation on Starplant to pay interest intended to remunerate any credit granted to it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, even if that transaction were characterised by the referring court as a supply of services, such a transaction would not fall within the exemption provided for in Article 135(1)(b) of Directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">In addition, contrary to what PNC maintained at the hearing before the Court, having regard to the considerations in paragraphs 33 and 35 above, the transaction at issue in the main proceedings cannot, in any event, be considered to concern ‘debts’ and does not, therefore, fall within the exemption provided for in Article 135(1)(d) of Directive 2006/112, in respect of transactions concerning ‘debts …, but excluding debt collection’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of all the foregoing considerations, the answer to the question raised is that Article 135(1)(b) of Directive 2006/112 must be interpreted as meaning that the exemption laid down by it in respect of transactions concerning the granting, negotiation or management of credit does not apply to a transaction which, for the taxable person, consists in assigning, to a third party, for consideration all the rights and obligations deriving from the taxable person’s position in enforcement proceedings for recovery of a debt recognised by a judgment, a debt the payment of which was secured by a right over immovable property awarded to that taxable person and made the subject of attachment.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Second Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 135(1)(b) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that the exemption laid down by it in respect of transactions concerning the granting, negotiation or management of credit does not apply to a transaction which, for the taxable person, consists in assigning, to a third party, for consideration all the rights and obligations deriving from the taxable person’s position in enforcement proceedings for recovery of a debt recognised by a judgment, a debt the payment of which was secured by a right over immovable property awarded to that taxable person and made the subject of attachment.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62017CJ0692_EN_01-E0001" id="t-ECR_62017CJ0692_EN_01-E0001">*1</a>
+</span>)	Language of the case: Portuguese.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

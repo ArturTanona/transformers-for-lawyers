@@ -1,0 +1,541 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (First Chamber)</p>
+<p class="sum-title-1">8 May 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0127_EN_01-E0001" id="c-ECR_62018CJ0127_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Common system of value added tax (VAT) — Directive 2006/112/EC — Articles 90 and 273 — Total or partial non-payment, by the debtor, of a sum due to the taxable person in respect of a transaction subject to VAT — Taxable amount — Reduction — Principles of fiscal neutrality and proportionality)</p>
+<p class="normal">In Case C‑127/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Nejvyšší správní soud (Supreme Administrative Court, Czech Republic), made by decision of 18 January 2018, received at the Court on 16 February 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">A-PACK CZ s. r. o.</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Odvolací finanční ředitelství,</span>
+</p>
+<p class="normal">THE COURT (First Chamber),</p>
+<p class="normal">composed of J.-C. Bonichot (Rapporteur), President of the Chamber, C. Toader, A. Rosas, L. Bay Larsen and M. Safjan, Judges,</p>
+<p class="normal">Advocate General: E. Tanchev,</p>
+<p class="normal">Registrar: M. Aleksejev, Head of Unit,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 9 January 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">A-PACK CZ s. r. o., by R. Cholenský and F. Hejl, advokáti,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Odvolací finanční ředitelství, by T. Rozehnal, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Czech Government, by M. Smolek, J. Vláčil and O. Serdula, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Polish Government, by B. Majczyna and A. Kramarczyk-Szaładzińska, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by M. Salyková and J. Jokubauskaitė and by R. Lyal, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of the principles of fiscal neutrality and proportionality and of Article 90 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" target="CourtTab">OJ 2006 L 347, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between A-PACK CZ s. r. o. and the Odvolací finanční ředitelství (Appellate Finance Directorate, Czech Republic) concerning the latter’s refusal to grant A-PACK CZ an adjustment of the amount of value added tax (VAT) paid in respect of unpaid debts considered to be irrecoverable as a result of the debtor’s insolvency.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 73 of Directive 2006/112 provides:</p>
+<p class="normal">‘In respect of the supply of goods or services, other than as referred to in Articles 74 to 77, the taxable amount shall include everything which constitutes consideration obtained or to be obtained by the supplier, in return for the supply, from the customer or a third party, including subsidies directly linked to the price of the supply.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 90 of that directive:</p>
+<p class="normal">‘1.   In the case of cancellation, refusal or total or partial non-payment, or where the price is reduced after the supply takes place, the taxable amount shall be reduced accordingly under conditions which shall be determined by the Member States.</p>
+<p class="normal">2.   In the case of total or partial non-payment, Member States may derogate from paragraph 1.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 273 of that directive provides:</p>
+<p class="normal">‘Member States may impose other obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion, subject to the requirement of equal treatment as between domestic transactions and transactions carried out between Member States by taxable persons and provided that such obligations do not, in trade between Member States, give rise to formalities connected with the crossing of frontiers.</p>
+<p class="normal">The option under the first paragraph may not be relied upon in order to impose additional invoicing obligations over and above those laid down in Chapter 3.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Czech law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">The right to correct the amount of the tax in the event of debts owed by debtors in insolvency proceedings was introduced into Law No 235/2004 on value added tax by Law No 47/2011 (‘the Law on VAT’), the recitals of which state:</p>
+<p class="normal">‘This introduces a new possibility of correcting the amount of output tax in the case of debts owed by debtors (buyers) which are subject to insolvency proceedings, as a result of negative economic developments. The present proposal is an active response to the current economic situation and constitutes an anti-crisis measure to help companies whose cash-flow is reduced by irrecoverable debts owed by companies in insolvency.</p>
+<p class="normal">Due to the impact of the global financial crisis, there are an increasing number of companies which are in insolvency proceedings and which are no longer able to meet their obligations towards their creditors (suppliers). Many suppliers (creditors) are no longer able to recover fully the debts owed to them by purchasers (debtors). This has a negative effect on the economic situation of previously “viable” companies.</p>
+<p class="normal">On the basis of this provision, the creditor (supplier) will therefore have the right to correct the amount of the output tax if the purchaser (debtor) has not paid for the goods delivered or the service provided, and if the insolvency court has initiated insolvency proceedings against the purchaser. …</p>
+<p class="normal">The proposal is fully compatible with Articles 90 and 185 of [Directive 2006/112]. Similar legislation is applicable in at least 12 EU Member States. That scheme is implemented, in different forms, in the following Member States: Belgium, Luxembourg, Denmark, Germany, France, Portugal, Ireland, Austria, Italy, Greece, Latvia and the United Kingdom.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 44(3) of the Law on VAT, concerning the correction of the amount of the tax in relation to debts owed by debtors subject to insolvency proceedings, provides:</p>
+<p class="normal">‘The creditor may correct the amount of the output tax at the earliest during the tax year in which the conditions laid down in paragraph 1 have been met. Correction cannot be carried out … if the debtor has ceased to be a taxable person.’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">A-PACK CZ is a Czech company and a taxable person for the purposes of VAT. One of its customers, Delpharmea Nutraceuticals, a.s., was the subject of insolvency proceedings launched on 27 May 2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">In its tax return for the fourth quarter of the 2011 tax year, A-PACK CZ requested the reimbursement of 539822 Czech Koruna (CZK) (approximately EUR 21000) as a result, inter alia, of a correction of the amount of VAT in respect of unpaid debts owed by Delpharmea Nutraceuticals, for supplies of goods and services in the period from 30 October 2008 to 2 February 2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">By a decision of 17 April 2012, the Finanční úřad pro Prahu 9 (Prague 9 Finance Office, Czech Republic) limited the amount requested by A-PACK CZ to CZK 41211 (approximately EUR 1600) on the ground that Article 44(3) of the Law on VAT does not allow a correction of the amount of the tax if the debtor has ceased to be a taxable person, which was the case as regards Delpharmea Nutraceuticals since 3 November 2011.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">A-PACK CZ lodged an administrative appeal against that decision before the Appellate Finance Directorate, which rejected it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">A-PACK CZ brought an action for the annulment of the Appellate Finance Directorate’s decision before the Městský soud v Praze (Prague City Court, Czech Republic), which dismissed the action.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">In that context, A-PACK CZ brought an appeal in cassation against the decision of the City Court before the referring court, the Nejvyšší správní soud (Supreme Administrative Court, Czech Republic). It submits that the condition relating to the debtor’s status as a taxable person, laid down in Article 44(3) of the Law on VAT, is not only contrary to Article 90 of Directive 2006/112 but also constitutes prohibited State aid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court considers that A-PACK CZ’s arguments relating to the existence of State aid cannot be accepted. By contrast, the condition that the debtor must not have ceased to be a taxable person, laid down in Article 44(3) of the Law on VAT, is — in the referring court’s view — contrary to Article 90 of Directive 2006/112, since it may render impossible the adjustment of the taxable amount of the creditor taxable person, without this being justified by the uncertainty as to the definitive nature of the non-payment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Nejvyšší správní soud (Supreme Administrative Court) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Can Article 90(2) of [Directive 2006/112] be interpreted, having regard to the principle of fiscal neutrality and the principle of proportionality, in such a way that it allows Member States by way of derogation to lay down conditions which for certain cases exclude a reduction of the taxable amount in the event of total or partial non-payment of the price?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">If the answer to Question 1 is in the affirmative, is national legislation contrary to the purpose of Article 90 of [Directive 2006/112] if it does not allow payers of VAT to make a correction to the amount of tax where tax became chargeable on a taxable supply to another taxpayer who paid for it only in part or not at all, and who subsequently ceased to be a VAT payer?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">By its two questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 90 of Directive 2006/112, read in the light of the principles of fiscal neutrality and proportionality, must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which provides that a taxable person cannot correct the VAT taxable amount, in the case of total or partial non-payment, by its debtor, of a sum due in respect of a transaction subject to that tax, if the debtor is no longer a taxable person for the purposes of VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">It is settled case-law of the Court that Article 90(1) of Directive 2006/112, which relates to cases of cancellation, refusal or total or partial non-payment, or where the price is reduced after the supply which gave rise to the payment of VAT takes place, requires the Member States to reduce the taxable amount and, consequently, the amount of VAT payable by the taxable person whenever, after a transaction has been concluded, part or all of the consideration has not been received by the taxable person. That provision embodies one of the fundamental principles of Directive 2006/112, according to which the taxable amount is the consideration actually received and the corollary of which is that the tax authorities may not collect an amount of VAT exceeding the tax which the taxable person received (see, inter alia, judgment of 6 December 2018, Tratave, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑672/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:989</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point29" hreflang="en" target="CourtTab" type="application/xhtml+xml">29</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">It is true that Article 90(2) of that directive permits the Member States to derogate from that rule in the case of total or partial non-payment of the price of the supply.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">However, as the Court has already held, that power to derogate in the case of total or partial non-payment is based on the notion that in certain circumstances and because of the legal situation prevailing in the Member State concerned, non-payment of consideration may be difficult to establish or may only be temporary (see, to that effect, judgments of 3 July 1997, Goldsmiths, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A339&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑330/95</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A339&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:1997:339</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A339&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point18" hreflang="en" target="CourtTab" type="application/xhtml+xml">18</a>; of 23 November 2017, Di Maura, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑246/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:887</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point17" hreflang="en" target="CourtTab" type="application/xhtml+xml">17</a>; and of 22 February 2018, T‑2, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A109&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑396/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A109&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:109</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A109&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="en" target="CourtTab" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the exercise of that power must be justified if the measures taken by the Member States for its implementation are not to undermine the objective of fiscal harmonisation pursued by Directive 2006/112 (see, to that effect, judgments of 3 July 1997, Goldsmiths, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A339&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑330/95</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A339&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:1997:339</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A339&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point18" hreflang="en" target="CourtTab" type="application/xhtml+xml">18</a>; of 23 November 2017, Di Maura, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑246/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:887</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point18" hreflang="en" target="CourtTab" type="application/xhtml+xml">18</a>; and of 22 February 2018, T‑2, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A109&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑396/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A109&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:109</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A109&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="en" target="CourtTab" type="application/xhtml+xml">38</a>) and it cannot allow the Member States to exclude altogether reduction of the VAT taxable amount in the event of non-payment (see, to that effect, judgment of 23 November 2017, Di Maura, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑246/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:887</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point20" hreflang="en" target="CourtTab" type="application/xhtml+xml">20</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point21" hreflang="en" target="CourtTab" type="application/xhtml+xml">21</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">That conclusion is also supported by a teleological interpretation of Article 90(2) of Directive 2006/112. Although it is relevant that the Member States may counteract the uncertainty as to the non-payment of an invoice or the definitive nature of that non-payment, such a power of derogation cannot extend beyond that uncertainty, and in particular cannot extend to whether a reduction of the taxable amount may not be carried out in situations of non-payment (judgments of 23 November 2017, Di Maura, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑246/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:887</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point22" hreflang="en" target="CourtTab" type="application/xhtml+xml">22</a>, and of 22 February 2018, T‑2, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A109&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑396/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A109&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:109</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A109&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point40" hreflang="en" target="CourtTab" type="application/xhtml+xml">40</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, to accept that it is possible for Member States to exclude any reduction of the VAT taxable amount would run counter to the principle of the neutrality of VAT, which means, inter alia, that the trader, as tax collector on behalf of the State, is entirely to be relieved of the burden of tax due or paid in the course of his economic activities which are themselves subject to VAT (see, to that effect, judgment of 23 November 2017, Di Maura, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑246/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:887</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A887&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point23" hreflang="en" target="CourtTab" type="application/xhtml+xml">23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, a requirement such as that laid down by the national legislation at issue in the main proceedings, which makes the correction of the VAT taxable amount subject to the condition that the debtor has not ceased to be a taxable person for the purposes of VAT, cannot be justified by the need to take account of the uncertainty as to the definitive nature of the non-payment in question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Indeed, as noted, in essence, by the European Commission in its written observations, the fact that the debtor has ceased to be a taxable person, in the context of insolvency proceedings, is rather, on the contrary, evidence of the definitive nature of the non-payment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">As to the question whether, as maintained by the Czech Government in its written observations, referring in particular to paragraph 33 of the judgment of 26 January 2012, Kraft Foods Polska (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A40&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑588/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A40&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:40</a>), such a requirement may nevertheless be regarded as consistent with Article 90(2) of Directive 2006/112 in that it pursues the objectives of ensuring the correct collection of VAT, preventing evasion and eliminating the risk of loss of tax revenue, it should be noted that such targets do not allow Member States to go against the purpose and scheme of that provision and justify a derogation from Article 90(1) of that directive on grounds other than those relating to the uncertainty as to the non-payment or the definitive nature of that non-payment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Likewise, although Article 273 of Directive 2006/112, also invoked by the Czech Republic in support of its interpretation, allows Member States to impose obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion, it follows from settled case-law of the Court that such measures may not, in principle, derogate from the rules relating to the taxable amount except within the limits strictly necessary for achieving that specific aim, since they must have as little effect as possible on the objectives and principles of Directive 2006/112 and may not therefore be used in such a way that they would have the effect of undermining the neutrality of VAT (see, to that effect, judgment of 6 December 2018, Tratave, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑672/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:989</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A989&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point33" hreflang="en" target="CourtTab" type="application/xhtml+xml">33</a> and the case-law cited), which constitutes a fundamental principle of the common system of VAT established by the relevant EU legislation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it does not appear from the file submitted to the Court that authorising a creditor taxable person, such as A-PACK CZ, to reduce the VAT taxable amount where it is faced with the non-payment of debt owed to it by an insolvent debtor which has since become a non-taxable person would pose a particular risk of tax evasion or avoidance. In addition, excluding any possibility of a reduction of the taxable amount in such circumstances and forcing that creditor taxable person to pay an amount of VAT which it did not receive in the course of its economic activities goes beyond, in any event, what is strictly necessary to achieve the objectives referred to in Article 273 of Directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing, the answer to the questions referred is that Article 90 of Directive 2006/112 must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which provides that a taxable person cannot correct the VAT taxable amount, in the case of total or partial non-payment, by its debtor, of a sum due in respect of a transaction subject to that tax, if the debtor is no longer a taxable person for the purposes of VAT.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (First Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 90 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which provides that a taxable person cannot correct the value added tax (VAT) taxable amount, in the case of total or partial non-payment, by its debtor, of a sum due in respect of a transaction subject to that tax, if the debtor is no longer a taxable person for the purposes of VAT.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0127_EN_01-E0001" id="t-ECR_62018CJ0127_EN_01-E0001">*1</a>
+</span>)	Language of the case: Czech.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

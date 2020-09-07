@@ -1,0 +1,1182 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Seventh Chamber)</p>
+<p class="coj-sum-title-1">30 April 2020 (<span class="coj-note">
+<a href="#t-ECR_62018CJ0661_EN_01-E0001" id="c-ECR_62018CJ0661_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Value added tax (VAT) — Directive 2006/112/EC — Deduction of input tax — Article 173 — Mixed taxable person — Deduction methods — Pro rata method — Deduction on the basis of actual use — Article 184 to Article 186 — Adjustment of deductions — Change in the factors used to determine the amount to be deducted — Output transaction incorrectly regarded as VAT-exempt — National measure prohibiting a change in the deduction method for years that have already elapsed — Limitation period — Principles of fiscal neutrality, legal certainty, effectiveness, and proportionality)</p>
+<p class="coj-normal">In Case C–661/18,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa, Portugal), made by decision of 15 October 2018, received at the Court on 22 October 2018, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">CTT — Correios de Portugal</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Autoridade Tributária e Aduaneira,</span>
+</p>
+<p class="coj-normal">THE COURT (Seventh Chamber),</p>
+<p class="coj-normal">composed of P.G. Xuereb (Rapporteur), President of the Chamber, T. von Danwitz and A. Kumin, Judges,</p>
+<p class="coj-normal">Advocate General: M. Szpunar,</p>
+<p class="coj-normal">Registrar: A. Calot Escobar,</p>
+<p class="coj-normal">having regard to the written procedure,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">CTT — Correios de Portugal, by A. Fernandes de Oliveira, advogado,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Portuguese Government, by L. Inez Fernandes, T. Larsen, R. Campos Laires and P. Barros da Costa, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Spanish Government, by S. Jiménez García, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by L. Lozano Palacios and B. Rechena, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This reference for a preliminary ruling concerns the interpretation of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 347, p. 1</a>) (‘the VAT Directive’) and the principles of fiscal neutrality, effectiveness, equivalence and proportionality.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between CTT — Correios de Portugal (‘CTT’) and the Autoridade Tributária e Aduaneira (Tax and Customs Authority, Portugal) concerning the adjustment of value added tax (‘VAT’) deductions made by CTT, in the course of its business, which is the provision of postal services.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Title IX of the VAT Directive, entitled ‘Exemptions’, includes inter alia Chapter 2, on ‘Exemptions for certain activities in the public interest’, and Chapter 3, entitled ‘Exemptions for other activities’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 132 of that directive, which appears in Chapter 2 of Title IX, provides in paragraph 1:</p>
+<p class="coj-normal">‘Member States shall exempt the following transactions:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the supply by the public postal services of services other than passenger transport and telecommunications services, and the supply of goods incidental thereto;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 135(1) of the VAT Directive, which appears in Chapter 3 of Title IX, is worded as follows:</p>
+<p class="coj-normal">‘Member States shall exempt the following transactions:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(d)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">transactions, including negotiation, concerning deposit and current accounts, payments, transfers, debts, cheques and other negotiable instruments, but excluding debt collection;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Title X of the VAT Directive, entitled ‘Deductions’, includes inter alia Chapter 2, on ‘Proportional deduction’, in which Articles 173 to 175 appear, and Chapter 5, entitled ‘Adjustment of deductions’, in which Articles 184 to 189, inter alia, appear.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 173 of the VAT Directive provides:</p>
+<p class="coj-normal">‘1.   In the case of goods or services used by a taxable person both for transactions in respect of which VAT is deductible …, and for transactions in respect of which VAT is not deductible, only such proportion of the VAT as is attributable to the former transactions shall be deductible.</p>
+<p class="coj-normal">The deductible proportion shall be determined, in accordance with Articles 174 and 175, for all the transactions carried out by the taxable person.</p>
+<p class="coj-normal">2.   Member States may take the following measures:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">authorise or require the taxable person to make the deduction on the basis of the use made of all or part of the goods and services;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 175(3) of that directive states:</p>
+<p class="coj-normal">‘Deductions made on the basis of such provisional proportions shall be adjusted when the final proportion is fixed during the following year.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 184 of that directive provides:</p>
+<p class="coj-normal">‘The initial deduction shall be adjusted where it is higher or lower than that to which the taxable person was entitled.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 185(1) of the VAT Directive provides:</p>
+<p class="coj-normal">‘Adjustment shall, in particular, be made where, after the VAT return is made, some change occurs in the factors used to determine the amount to be deducted, for example where purchases are cancelled or price reductions are obtained …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 186 of that directive:</p>
+<p class="coj-normal">‘Member States shall lay down the detailed rules for applying Articles 184 and 185.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Portuguese law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 9 of the Código do Imposto sobre o Valor Acrescentado (Value Added Tax Code), in the version applicable to the facts in the main proceedings, (‘VAT Code’) provides:</p>
+<p class="coj-normal">‘The following shall be tax-exempt:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">23 —</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the supply of services and the supply of goods incidental thereto by public postal services, with the exception of telecommunications;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">24 —</p>
+</td>
+<td valign="top">
+<p class="coj-normal">deliveries at face value of postage stamps in circulation or stamped values, together with related sales commission;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 22 of the VAT Code, entitled ‘Origin and scope of the right of deduction’, states in paragraphs 1 to 3 thereof:</p>
+<p class="coj-normal">‘1 —   The right of deduction shall arise at the time the deductible tax becomes chargeable, in accordance with the provisions of Articles 7 and 8, and shall be exercised by subtracting from the total amount of tax due in respect of the taxable transactions carried out by the taxable person during a reporting period the amount of deductible tax chargeable during the same period.</p>
+<p class="coj-normal">2 —   Without prejudice to Article 78, the deduction shall be made in the declaration for the period or for a period subsequent to the period during which the invoices or a receipt for payment of the VAT forming part of the import declarations were received.</p>
+<p class="coj-normal">3 —   If the documents referred to in the previous paragraph are received in a reporting period other from that in which they were issued, the deduction may be made, if still possible, in the reporting period in which they were issued.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 23 of the VAT Code, entitled ‘Deduction methods relating to mixed-use goods’ provides:</p>
+<p class="coj-normal">‘1 —   Where a taxable person, in the course of its business, carries out transactions in respect of which value added tax is deductible and transactions in respect of which it is not deductible, under Article 20, the deduction of the tax paid on the purchase of the goods and services used for the purpose of carrying out both types of transactions shall be determined as follows:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Without prejudice to the provisions of the foregoing subparagraph, in the case of goods or services used to carry out transactions connected with the pursuit of an economic activity provided for in Article 2(1)(a), some of which do not give rise to the right to deduct, the tax shall be deductible in direct proportion to the annual value of the transactions in respect of which VAT is deductible.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<p class="coj-normal">2 —   Notwithstanding the provisions of paragraph 1(b), the taxable person may make the deduction according to the actual use of all or part of the goods and services used, on the basis of objective criteria making it possible to determine the extent to which those goods and services are used in transactions in respect of which VAT is deductible and in transactions in respect of which VAT is not deductible, without prejudice to any special conditions which may be imposed on it by the Directorate-General for Taxation, and to the power of that Directorate-General to withdraw the right to such treatment if it finds that this causes or may cause significant distortion of taxation.</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">4 —   The deductible percentage referred to in paragraph 1(b) shall be expressed as a fraction made up, in the numerator, of the annual amount, exclusive of VAT, of transactions in respect of which VAT is deductible in accordance with Article 20(1) and, in the denominator, of the annual amount, exclusive of VAT, of all transactions carried out by the taxable person and deriving from the pursuit of an economic activity as provided for in Article 2(1)(a), as well as non-taxable subsidies other than equipment subsidies.</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">6 —   The deductible percentage referred to in paragraph 1(b), provisionally calculated on the basis of the value of the transactions carried out in the previous year, like the deduction made under paragraph 2, provisionally calculated on the basis of objective criteria initially used to apply the method of actual use, shall be adjusted to reflect the final amounts for the year to which they relate, resulting in the corresponding adjustment of the deductions made, which shall appear in the declaration for the final period of the relevant year.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 78 of the VAT Code, entitled ‘Adjustments’, provides in paragraph 6 thereof:</p>
+<p class="coj-normal">‘The correction of material or calculation errors in the registration, which refer to Articles 44 to 51 and 65, in the declarations referred to in Article 41 and in the guides or declarations referred to in Article 67(1)(b) and (c) shall be optional where the outcome is favourable to the taxable person, but such a correction may be made only within a period of two years, which, where the right to deduct is exercised, shall run from the time when that right arises in accordance with Article 22(1), and shall be compulsory where the outcome is favourable to the State.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 98(2) of the VAT Code, entitled ‘Ex officio review and deadline for exercising the right to deduct’ provides:</p>
+<p class="coj-normal">‘Without prejudice to any special provisions, the right to deduction or to the reimbursement of overpaid tax may only be exercised for a period of four years from the date on which the right to deduction or to the payment of the overpaid tax has arose, respectively.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">CTT operates on the market for the provision of postal services in Portugal. It has, inter alia, public service obligations on this market.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">CTT’s transactions which fall within the scope of the universal postal service are VAT-exempt under Article 132(1)(a) of the VAT Directive and therefore do not give rise to a right to deduct. Since it also carries out transactions which are subject to VAT and give rise to a right to deduct, that undertaking is a ‘mixed’ taxable person.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under a binding tax ruling issued in 2007 (‘binding tax ruling’), the Tax and Customs Authority took the view that the postal bill-payment services offered by CTT were tax-exempt. The validity of that binding tax ruling expired on 31 December 2012.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In 2012, the Portugal legislature revised the legal regime applicable to the provision of postal services, with a view to liberalising the market from 1 January 2013 pursuant to Directive 2008/6/EC of the European Parliament and of the Council of 20 February 2008, amending Directive 97/67/EC with regard to the full accomplishment of the internal market of Community postal services (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:052:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2008 L 52, p. 3</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, it is only in 2015 that doubts arose regarding the fiscal consequences of the liberalisation of the Portuguese postal market. CTT started to pay VAT on postal bill-payment services from April 2015 and, on 23 June 2015, requested an update of the 2007 binding tax ruling.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In a new binding tax ruling of 20 November 2015, the Tax and Customs Authority clarified the impact of the liberalisation of the postal services market on the VAT exemption and specified that postal bill-payment services carried out from 1 January 2013 no longer fell within the scope of the VAT exemption for public postal services, in the light of the judgment of 23 April 2009, TNT Post UK (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑357/07</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A248" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:248</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, in 2016, CTT paid VAT in respect of postal bill-payment transactions carried out from 1 January 2013 and made an additional back payment of VAT for 2013 as well as for 2014 and 2015, by submitting adjustment declarations. In addition, in those adjustment declarations, CTT changed the method it used to calculate deductions, as part of the VAT which had previously been deducted using the pro rata method was then deducted using the actual use method. That new method resulted overall in an additional VAT deduction of EUR 1967 567.82.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Following an inspection of CTT in respect of the financial year 2015, the Tax and Customs Authority pointed out that the deduction method may not be altered once the final proportion has been applied and concluded that CTT, which had already applied the final proportion, was out of time to alter its deduction method. In addition, it considered that there was no legal basis in the VAT Code for CTT’s adjustment request in relation to the change in its deduction method. That authority therefore refused to accept the additional deduction based on the change in the deduction method but adjusted the final proportions for the period 2013 to 2015 on the ground that postal bill-payment transactions carried out during that period were not VAT-exempt.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 21 March 2018, CTT submitted an application for an arbitration ruling before the referring court, arguing that the principles of effectiveness and equivalence were incompatible with an interpretation of the VAT Code to the effect that the deduction method to be used may be determined only when the invoices are received.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is in those circumstances that the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa) (Tax Arbitration Tribunal (Centre for Administrative Arbitration), Portugal) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Do the principles of neutrality, effectiveness, equivalence and proportionality preclude an interpretation of Article 98(2) of [the VAT Code] to the effect that it does not apply to situations where deductions which have already been made are altered or adjusted?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Do those principles preclude legislation such as Article 23(1)(b) and (6) of [the VAT Code], interpreted to the effect that a taxable person who had opted for a coefficient method and/or allocation key in order to calculate the deduction entitlement in respect of the tax paid on mixed-use goods and services and made the adjustment on the basis of the final amounts for the year to which the deduction related, pursuant to Article 23(6), may not retroactively alter those amounts by recalculating the initial deduction which has already been adjusted in accordance with that rule, following a retroactive VAT assessment relating to an activity which it had initially regarded as being exempt?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Admissibility of the request for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In its written observations, the Portuguese Government raises doubts as to the admissibility of the questions referred. According to the Portuguese Government, first, the referring court does not set out the reasons why the principles of fiscal neutrality, proportionality, equivalence and effectiveness are relevant in this case. Second, those questions are in effect asking the Court to rule on the scope of provisions of national law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that connection, it should be borne in mind that the system of cooperation established by Article 267 TFEU is based on a clear division of responsibilities between the national courts and the Court of Justice. In proceedings brought on the basis of that article, the interpretation of provisions of national law is a matter for the courts of the Member States, not for the Court of Justice, and the Court has no jurisdiction to rule on the compatibility of rules of national law with EU law. However, the Court does have jurisdiction to provide the national court with all the guidance as to the interpretation of EU law necessary to enable that court to determine whether those national rules are compatible with EU law (judgment of 15 October 2015, Iglesias Gutiérrezand Rion Bea, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A691&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑352/14 and C‑353/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A691" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:691</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A691" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">21</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Although it is true that, on a literal reading of the referring court’s questions, the Court is being asked to rule on the compatibility of a provision of national law with EU law, there is nothing to prevent the Court from giving an answer that will be of use to the national court, by providing the latter with guidance as to the interpretation of EU law which will enable that court to rule itself on the compatibility of national rules with EU law (judgment of 15 October 2015, Iglesias Gutiérrez and Rion Bea, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A691&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑352/14 and C‑353/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A691" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:691</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A691" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">22</a> and the case-law cited). Consequently, where the questions submitted concern the interpretation of EU law, the Court is in principle bound to give a ruling (see to that effect order of 13 December 2012, Debiasi, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A802&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑560/11</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A802" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:802</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A802" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The questions referred must therefore be understood, in essence, as seeking an interpretation of the VAT Directive, more specifically, Articles 173 and 184 to 186, read in the light of the EU law principles of fiscal neutrality, effectiveness, equivalence and proportionality.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its first question, the referring court essentially asks whether Article 173 of the VAT Directive, read in the light of the EU law principles of fiscal neutrality, effectiveness, equivalence and proportionality, must be interpreted as precluding a Member State, when authorising a taxable person to deduct VAT on the basis of the use made of all or part of the goods and services used both for transactions in respect of which VAT is deductible and for transactions in respect of which VAT is not deductible pursuant to that provision, from prohibiting such a taxable person from changing the deduction method once the final proportion has been fixed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">For the purpose of answering that question, it should be borne in mind that, pursuant to the second subparagraph of Article 173(1) of the VAT Directive, the deductible proportion is to be determined, in accordance with Articles 174 and 175 of that directive, for all the transactions carried out by the taxable person by reference to turnover. Nevertheless, under Article 173(2)(c) of that directive, Member States may authorise or require the taxable person to make the deduction on the basis of the use made of all or part of the goods and services (see to that effect, judgment of 18 October 2018, Volkswagen Financial Services (UK), <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A845&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑153/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A845" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:845</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A845" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">49</a> et 50).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In this case, it is not contested that, pursuant to that provision, the Portuguese legislature authorised mixed taxable persons to deduct VAT on the basis of the use made of all or part of the goods and services and that CTT was therefore entitled to opt to deduct VAT for mixed-use goods and services on the basis of the pro rata method or the actual use method.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that respect, it should be pointed out that, pursuant to Article 173(2)(c) of the VAT Directive, the application of a VAT deduction system on the basis of the use made of all or part of the goods and services constitutes an option available to the Member States to organise their tax system. However, while the Member States have discretion in the choice of measures to be adopted in order to ensure the correct collection of VAT and to prevent evasion, they must exercise that power in accordance with EU law and its general principles, and, in particular, in accordance with the principles of proportionality, fiscal neutrality and legal certainty (see to that effect, judgments of 8 November 2012, BLC Baumarkt, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A689&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑511/10</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A689" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:689</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A689" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">22</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A689" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>, and of 17 May 2018, Vámos, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A321&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑566/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A321" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:321</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A321" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Concerning those principles, it should be borne in mind, first, regarding the principle of proportionality, that it does not preclude a Member State which has exercised the power to authorise its taxpayers a right of option for a special taxation scheme from adopting legislation which makes the application of that scheme conditional upon non-retroactive, prior approval by the tax authorities, and that the fact that the approval process is not retroactive does not make that process disproportionate. Consequently, national legislation, such as that at issue in the main proceedings, which does not allow taxable persons to apply the deduction system based on actual use once the final proportion has been fixed does not go beyond what is necessary for the correct collection of VAT (see, by analogy with the exemption scheme for small enterprises, judgment of 17 May 2018, Vámos, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A321&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑566/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A321" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:321</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A321" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">43</a> to <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A321" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Next, concerning the principle of fiscal neutrality, it is true, according to the Court’s case-law, that the Member States may, pursuant to Article 173(2)(c) of the VAT Directive, apply, for a given transaction, a method or allocation key other than the turnover-based method, on condition that, in accordance with the principle of fiscal neutrality, that method guarantees a more precise determination of the deductible proportion of the input VAT than that arising from the application of the turnover-based method. Thus, any Member State which decides to authorise or require the taxable person to deduct VAT on the basis of the use made of all or part of the goods and services must ensure that the method for calculating the deduction entitlement makes it possible to ascertain with the greatest possible precision the portion of VAT relating to transactions in respect of which VAT is deductible. The principle of fiscal neutrality, which forms an integral part of the common system of VAT, requires that the method by which the deduction is calculated objectively reflects the actual share of the expenditure resulting from the acquisition of mixed-use goods and services that may be attributed to transactions in respect of which VAT is deductible (see to that effect judgment of 18 October 2018, Volkswagen Financial Services (UK), <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A845&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑153/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A845" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:845</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A845" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">51</a> et 52 and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, the Court has specified that the method chosen must not necessarily be the most precise possible but that it must be able to guarantee a more precise result than that which would be obtained from the application of the turnover-based allocation key (see to that effect judgment of 18 October 2018, Volkswagen Financial Services (UK), <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A845&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑153/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A845" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:845</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A845" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">53</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that, contrary to what CTT argues in essence, the principle of fiscal neutrality cannot be interpreted as meaning that, in each situation, the most precise deduction method must be ascertained to the point of requiring the deduction method initially applied to be systematically called into question, even after the final proportion has been ascertained.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First, such an interpretation would deprive the prerogative of Member States, provided in Article 173(2)(c) of the VAT Directive, to authorise taxable persons deduct VAT on the basis of the use made of all or parts of goods and services of any meaning, since this option would become, in practice, an obligation. In this respect, it is sufficient to recall that the taking into account of those principles which govern the system of VAT but from which the legislature may validly derogate cannot in any event justify an interpretation which would deprive a derogation, which the legislature has expressly intended, of all effectiveness (judgment of 14 December 2016, Mercedes Benz Italia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A950&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑378/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A950" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:950</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A950" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">42</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Second, such an interpretation would be at odds with the case-law according to which the VAT Directive does not impose upon a taxable person who may choose between two transactions an obligation to apply the transaction which entails the payment of the highest amount of VAT. On the contrary, taxpayers may choose to structure their business in such a way as to limit their tax liability (see to that effect judgment of 21 February 2006, Halifax and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A121&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑255/02</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A121" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:121</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A121" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">73</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Finally, regarding the principle of legal certainty, that principle requires the tax position of the taxable person, having regard to his rights and obligations vis-à-vis the tax authorities, not to be open to challenge indefinitely (see to that effect judgments of 6 February 2014, Fatorie, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A50&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑424/12</a>,<a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A50" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:50</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A50" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a>, and of 17 May 2018, Vámos, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A321&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑566/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A321" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:321</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A321" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">51</a>). However, as the Portuguese Government rightly observes, it does not appear reasonable to require from the tax authorities that they accept in all circumstances that a taxable person may unilaterally alter the deduction method that it has used to determine the amount of VAT that may be deducted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows from the above that Article 173(2)(c) of the VAT Directive, read in the light of the EU law principles of fiscal neutrality, legal certainty and proportionality, must be interpreted as not precluding a Member State, when authorising a taxable person to deduct VAT on the basis of the use made of all or part of the goods and services used both for transactions in respect of which VAT is deductible and for transactions in respect of which VAT is not deductible pursuant to that provision, from prohibiting such a taxable person from changing the deduction method once the final proportion has been fixed.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its second question, the referring court essentially asks whether Articles 184 to 186 of the VAT Directive, read in the light of the EU law principles of fiscal neutrality, effectiveness, equivalence and proportionality, must be interpreted as precluding national legislation under which a taxable person is denied the opportunity, once the final proportion has been determined pursuant to Article 175(3) of that directive, to correct, using the actual use method authorised by national law pursuant to Article 173(2)(c) of that directive, deductions of VAT charged on the acquisition of goods and services used both for transactions in respect of which VAT is deductible and for transactions in respect of which VAT is not deductible in a situation where, first, the taxable person was unaware, when choosing the deduction method, that a transaction which it regarded as exempt was in fact taxable and, second, the general limitation period fixed by the national law for the purposes of adjusting deductions had not yet expired.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is apparent from the order for reference and the answers given by the parties to the questions put by the Court that, when it chose to deduct the VAT relating to certain goods and services on the basis of the turnover-based method for the years at issue in the main proceedings, CTT took into consideration the fact that the postal bill-payment services which it provided were tax-exempt according to the 2007 binding tax ruling. However, in the course of 2015, the competent tax authority took the view that the liberalisation of the postal services market, which commenced on 1 January 2013, limited the scope of the exemption to the services provided by the public postal service. Therefore, according to the competent tax authority, CTT incorrectly regarded postal bill-payment services, in respect of the period 2013 to 2015, as VAT-exempt.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As a preliminary matter, it should be borne in mind that, while the national court alone has jurisdiction to find and assess the facts in the case before it and to interpret and apply national law, it is for the Court of Justice to provide the national court with an answer which will be of use and to enable it to determine the case at issue (see to that effect judgment of 26 April 2017, Farkas, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A302&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑564/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A302" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:302</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A302" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A302" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In this case, the European Commission, in its written observations, and CTT, in its answer to the questions asked by the Court, argue that the postal bill-payment services at issue in the main proceedings may constitute VAT-exempt payment transactions pursuant to Article 135(1)(d) of the VAT Directive. CTT added that it is on that ground and not on the basis of Article 132(1)(a) of that directive that those services were regarded as VAT-exempt in the 2007 binding tax ruling. Therefore, it is for the referring court to ascertain whether those services fall within the scope of the VAT exemption provided in Article 135(1)(d).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">For the purposes of answering the second question, it is necessary to start from the premiss, which appears in the order for reference, that while the provision of those services was no longer VAT exempt from 1 January 2013, it was only in 2015 that this change became apparent, so that CTT was unaware, when it chose the deduction method, that the transactions which it regarded as exempt were in fact taxable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In this respect, it is, however, for the referring court to ascertain whether CTT was acting in good faith, which also depends, inter alia, on whether or not, after the liberalisation of the Portuguese postal market, changes concerning the exemption of services provided by public postal services were foreseeable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That said, it should be borne in mind, first, that Article 184 of the VAT Directive provides that the initial deduction is to be adjusted where it is higher or lower than that to which the taxable person was entitled. According to Article 185(1) of that directive, adjustment is, in particular, to be made where some change occurs in the factors used to determine the amount to be deducted (judgment of 16 June 2016, KreissparkasseWiedenbrück, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A452&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑186/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A452" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:452</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A452" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The adjustment mechanism provided for in Articles 184 to 186 of the VAT Directive aims to establish a close and direct relationship between the right to deduct input VAT and the use of the goods or services concerned for taxable output transactions (judgment of 27 March 2019, Mydibel, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A254&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑201/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A254" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:254</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A254" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>). Calling into question the exemption of postal bill-payment services had the effect of breaking that close and direct relationship between the right to deduct input VAT and the use of the goods or services concerned for taxable output transactions. Therefore, the calling into question of that exemption for the period from 2013 to 2015 brought about a change, within the meaning of Article 185 of the VAT Directive, of one of the factors initially taken into consideration when calculating the amount to be deducted. It follows that CTT was entitled to an adjustment pursuant to Article 184 of that directive (see, by analogy with a transaction incorrectly regarded as subject to VAT but in fact exempt, judgment of 11 April 2018, SEB bankas, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A228&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑532/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A228" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:228</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A228" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is also apparent from reading Articles 184 and 185 of the VAT Directive together that the adjustment of deductions must be calculated in such a way that the final amount to be deducted corresponds to the total amount which a taxable person, such as CTT, would have been entitled to deduct if it had first taken into account the fact that postal bill-payment services were not VAT-exempt (see by analogy judgment of 16 June 2016, Kreissparkasse Wiedenbrück, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A452&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑186/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A452" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:452</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A452" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In this respect, the question whether a given transaction is exempt constitutes an essential factor taken into consideration by a mixed taxable person for the purpose of determining how to deduct VAT. It is sufficient to point out in that regard that calling into question the exemption of an input transaction may have the effect that certain goods or services which were regarded as intended for mixed use are, in fact, only used for transactions in respect of which VAT is deductible. It is clear from the wording of Article 173 of the VAT Directive that it only applies to goods and services intended for mixed use. For goods and services intended to be used exclusively for carrying out taxable transactions, taxable persons are entitled to deduct all the tax that has been charged on their acquisition or supply (see to that effect judgment of 18 October 2018, Volkswagen Financial Services (UK), <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A845&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑153/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A845" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:845</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A845" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In this case, it follows that CTT should have been entitled to alter the deduction method in order to make the VAT deductions to which it would have been entitled if it had been able in the first place to take into consideration that fact that postal bill-payment services were not VAT-exempt for the years at issue in the main proceedings. In that regard, the Portuguese Government’s argument that the deductions were adjusted, in so far as the tax authority accepted the rectification of the final proportions for the years at issue in the main proceedings since the postal bill-payment services were incorrectly regarded as VAT-exempt, cannot succeed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Moreover, even though Article 186 of the VAT Directive expressly makes Member States responsible for establishing the conditions for such adjustments, the Member States must comply with EU law when adopting national legislation establishing those detailed rules, in particular, its fundamental principles (see to that effect judgment of 11 April 2018, SEB bankas, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A228&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑532/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A228" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:228</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A228" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A228" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The principle of fiscal neutrality requires, as recalled in paragraph 36 above, that the method by which the VAT deduction is calculated objectively reflects the actual share of the expenditure resulting from the acquisition of mixed use goods and services that may be attributed to transactions in respect of which VAT is deductible. That principle thus precludes a Member State from refusing to accept a change in the method of deducting VAT in a situation such as that at issue in the main proceedings, unless such a change does not make it possible to establish more precisely the proportion of VAT relating to transactions in respect of which VAT is deductible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Pursuant to the principle of proportionality, the national legislature is able to attach penalties to the formal obligations of taxable persons to encourage them to comply with those obligations, in order to ensure the proper working of the VAT system. In view of the dominant position which the right of deduction has in the common system of value added tax, a penalty consisting in an absolute refusal of a taxable person’s right to deduct appears disproportionate where no evasion or detriment to the budget of the State is ascertained (see to that effect judgment of 26 April 2018, Zabrus Siret, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑81/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:283</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">51</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In this case, there is nothing in the file before the Court to suggest evasion or abusive practice on CTT’s part.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Finally, the Portuguese Government observes that, if CTT had the right to alter the deduction method for VAT, the adjustment requested was in any event out of time. According to the Portuguese Government, while Article 98(2) of the VAT Code lays down, for the right to alter or adjust deductions, a general time limit of four years from the date on which the right to deduction or to the payment of the overpaid tax arose, that time limit does not apply where the final proportion has been fixed pursuant to Article 175(3) of the VAT Directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In this respect, it should be borne in mind that, pursuant to the principle of legal certainty, a limitation period the expiry of which has the effect of penalising a taxable person who has not been sufficiently diligent and has failed to claim deduction of input tax, by making him forfeit his right to deduct, cannot be regarded as incompatible with the regime established by the VAT Directive, in so far as, first, that period applies in the same way to analogous rights in tax matters founded on domestic law and to those founded on EU law (principle of equivalence) and, second, that it does not in practice render impossible or excessively difficult the exercise of the right to deduct (principle of effectiveness) (judgment of 26 April 2018, Zabrus Siret, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑81/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:283</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, although it is not apparent from the information provided by the referring court that the national legislation at issue in the main proceedings lays down in respect of VAT a different scheme from that laid down in respect of other tax matters under national law, the principle of effectiveness, on the other hand, precludes such legislation if it is liable, in circumstances such as those at issue in the main proceedings, to deny a taxable person the opportunity to correct his VAT returns once the final proportion has been fixed, even though the four-year limitation period laid down by that legislation has not yet expired. In such circumstances, the exercise of the right to adjust VAT, deductions, referred to in paragraph 51 above, will be impossible in practice or, at the very least, excessively difficult (see, by analogy, judgment of 26 April 2018, Zabrus Siret, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑81/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:283</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should also be borne in mind that the national courts are bound to interpret, where possible, national law in a manner consistent with EU law, and that, although the obligation to interpret national law in a manner consistent with EU law cannot serve as the basis for an interpretation of national law <span class="coj-italic">contra legem</span>, national courts must alter their case-law or decision-making practice, where necessary, if it is based on an interpretation of national law that is incompatible with the objectives of a directive (see, to that effect, judgment of 8 May 2019, Związek Gmin Zagłębia Miedziowego, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A390&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑566/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A390" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:390</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A390" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A390" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">49</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In light of the foregoing considerations, the answer to the second question referred is that Articles 184 to 186 of the VAT Directive, read in the light of the EU law principles of fiscal neutrality, effectiveness and proportionality, must be interpreted as precluding national legislation under which a taxable person who deducted VAT charged on the acquisition of goods and services used both for transactions in respect of which VAT is deductible and for transactions in respect of which VAT is not deductible, using the turnover-based method, is denied the opportunity, once the final proportion has been fixed pursuant to Article 175(3) of that directive, to correct those deductions, by using the actual use method in a situation where:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Member State concerned authorises taxable persons to deduct VAT on the basis of the use made of all or part of the goods and services used both for transactions in respect of which VAT is deductible and for transactions in respect of which VAT is not deductible, pursuant to Article 173(2)(c) of that directive;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the taxable person was unaware, and acting in good faith, when choosing the deduction method, that a transaction which it regarded as exempt was in fact taxable</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the general limitation period fixed by the national law for the purposes of adjusting deductions has not yet expired, and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the change in the deduction method makes it possible to establish more precisely the proportion of VAT relating to transactions in respect of which VAT is deductible.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Seventh Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 173(2)(c) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, read in the light of the EU law principles of fiscal neutrality, legal certainty and proportionality, must be interpreted as not precluding a Member State, when authorising a taxable person to deduct value added tax (VAT) on the basis of the use made of all or part of the goods and services used both for transactions in respect of which VAT is deductible and for transactions in respect of which VAT is not deductible pursuant to that provision, from prohibiting such a taxable person from changing the deduction method once the final proportion has been fixed.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Articles 184 to 186 of Directive 2006/112, read in the light of the EU law principles of fiscal neutrality, effectiveness and proportionality, must be interpreted as precluding national legislation under which a taxable person who deducted VAT charged on the acquisition of goods and services used both for transactions in respect of which VAT is deductible and for transactions in respect of which VAT is not deductible, using the turnover-based method, is denied the opportunity, once the final proportion has been fixed pursuant to Article 175(3) of that directive, to correct those deductions, by using the actual use method in a situation where:</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">the Member State concerned authorises taxable persons to deduct VAT on the basis of the use made of all or part of the goods and services used both for transactions in respect of which VAT is deductible and for transactions in respect of which VAT is not deductible, pursuant to Article 173(2)(c) of that directive;</span>
+</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">the taxable person was unaware, and acting in good faith, when choosing the deduction method, that a transaction which it regarded as exempt was in fact taxable,</span>
+</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">the general limitation period fixed by the national law for the purposes of adjusting the deductions has not yet expired, and</span>
+</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">the change in the deduction method makes it possible to establish more precisely the proportion of VAT relating to transactions in respect of which VAT is deductible.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62018CJ0661_EN_01-E0001" id="t-ECR_62018CJ0661_EN_01-E0001">*1</a>
+</span>)	Language of the case: Portuguese.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

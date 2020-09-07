@@ -1,0 +1,966 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Sixth Chamber)</p>
+<p class="sum-title-1">5 March 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0211_EN_01-E0001" id="c-ECR_62018CJ0211_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Taxation — Value added tax (VAT) — Directive 2006/112/EC — Article 132(1)(b) — Exemptions — Hospital and medical care — Hospital establishments — Services provided under social conditions comparable to those applicable to bodies governed by public law — Articles 377 and 391 — Derogations — Right to opt for a taxation regime — Maintenance of the taxation — Variation in the conditions for the exercise of the activity)</p>
+<p class="normal">In Case C‑211/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa) (Tax Arbitration Tribunal (Centre for Administrative Arbitration), Portugal), made by decision of 19 February 2018, received at the Court on 26 March 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">IDEALMED III — Serviços de Saúde, SA</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Autoridade Tributária e Aduaneira,</span>
+</p>
+<p class="normal">THE COURT (Sixth Chamber),</p>
+<p class="normal">composed of M. Safjan, President of the Chamber, L. Bay Larsen (Rapporteur) and C. Toader, Judges,</p>
+<p class="normal">Advocate General: M. Szpunar,</p>
+<p class="normal">Registrar: M. Ferreira, Principal Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 17 June 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Idealmed III — Serviços de Saúde SA, by J.P. Lampreia and F. Antas, advogados,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Portuguese Government, by L. Inez Fernandes, M. Figueiredo, R. Campos Laires, M.J. Marques and P. Barros da Costa, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by M. Afonso and N. Gossement, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 10 October 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 132(1)(b) and Articles 377 and 391 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 347 p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Idealmed III — Serviços de Saúde SA (‘Idealmed’) and the Autoridade Tributária e Aduaneira (Tax and Customs Authority, Portugal) concerning the latter’s decision requiring Idealmed to pay an amount corresponding to the value added tax (VAT) deducted in respect of medical services that it provided between 2014 and 2016 and to pay compensatory interest as well as default interest thereon.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Directive 2006/112</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Recital 7 of Directive 2006/112 states:</p>
+<p class="normal">‘The common system of VAT should, even if rates and exemptions are not fully harmonised, result in neutrality in competition, such that within the territory of each Member State similar goods and services bear the same tax burden, whatever the length of the production and distribution chain.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 132(1) of that directive provides:</p>
+<p class="normal">‘Member States shall exempt the following transactions:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">hospital and medical care and closely related activities undertaken by bodies governed by public law or, under social conditions comparable to those applicable to bodies governed by public law, by hospitals, centres for medical treatment or diagnosis and other duly recognised establishments of a similar nature;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(g)</p>
+</td>
+<td valign="top">
+<p class="normal">the supply of services and of goods closely linked to welfare and social security work, including those supplied by old people’s homes, by bodies governed by public law or by other bodies recognised by the Member State concerned as being devoted to social wellbeing;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 133 of the directive provides:</p>
+<p class="normal">‘Member States may make the granting to bodies other than those governed by public law of each exemption provided for in points (b), (g), (h), (i), (l), (m) and (n) of Article 132(1) subject in each individual case to one or more of the following conditions:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the bodies in question must not systematically aim to make a profit, and any surpluses nevertheless arising must not be distributed, but must be assigned to the continuance or improvement of the services supplied;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">those bodies must charge prices which are approved by the public authorities or which do not exceed such approved prices or, in respect of those services not subject to approval, prices lower than those charged for similar services by commercial enterprises subject to VAT;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 377 of the same directive states:</p>
+<p class="normal">‘Portugal may continue to exempt the transactions listed in points (2), (4), (7), (9), (10) and (13) of Annex X, Part B, in accordance with the conditions applying in that Member State on 1 January 1989.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 391 of Directive 2006/112 reads as follows:</p>
+<p class="normal">‘Member States which exempt the transactions referred to in Articles 371, 375, 376 or 377, Article 378(2), Article 379(2) or Articles 380 to 390 may grant taxable persons the right to opt for taxation of those transactions.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Annex X to that directive, entitled ‘List of transactions covered by the derogations referred to in Articles 370 and 371 and Articles 375 to 390’, refers in point 7 of Part B thereof, which lists the transactions that Member states may continue to exempt, ‘transactions carried out by hospitals not covered by point (b) of Article 132(1)’.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Portuguese law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Article 9, point 2 of the Código do IVA (VAT Code) provides that, ‘medical and healthcare services and closely related activities undertaken by hospitals, clinics, healthcare centres and other similar establishments’ are exempt from VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 12 of that code, in the version resulting from Decreto-lei No 102/2008 (Decree-Law No 102/2008) of 20 June 2008, provides</p>
+<p class="normal">‘1.   The following may waive the exemption and opt for the tax to be levied on their transactions:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">hospitals, clinics, healthcare centres and other similar establishments which are not owned by legal persons governed by public law or private institutions which are part of the national health system and which provide medical care and healthcare services and carry out transactions closely related thereto;</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   That option shall be exercised by filing a declaration of commencement or, as the case may be, variation with the competent tax office and shall take effect from the date of filing.</p>
+<p class="normal">3.   Where the right of option has been exercised in accordance with the preceding paragraphs, the taxable person shall be required to remain in the scheme he or she has chosen for a minimum period of five years, at the end of which, if he or she wishes to benefit from the exemption scheme again, he or she must:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">file in the January of one of the years following the year in which the period of application of the optional scheme ended, the declaration referred to in Article 32, which shall take effect from 1 January of the year of filing;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">The lei No 7-A/2016 (Law No 7-A/2016) of 30 March 2016 varied Article 12(1)(b) of that code, which now reads as follows:</p>
+<p class="normal">‘The following may waive the exemption and opt for the tax to be levied on their transactions</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the taxable persons referred to in Article 9(2), who are not legal persons governed by public law, as regards the provision of medical care and healthcare services and closely related activities which do not come under contracts with the State in the context of the health system, in accordance with the respective framework law’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Idealmed is a company which manages and operates, for profit, five healthcare establishments providing, inter alia, medical and nursing care, as well as diagnostic, clinical analysis, and physiotherapy services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">In its declaration of commencement of activity filed on 6 January 2012, Idealmed stated its wish to opt for the normal VAT regime.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">With effect from September 2012, Idealmed concluded agreements and contracts with public authorities providing inter alia for the supply of care services at predetermined prices.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Upon carrying out an inspection, the Tax and Customs Authority found that, between April 2014 and June 2016, a large part of Idealmed’s medical activity was exercised under those agreements and contracts. That authority concluded that that activity should have been exempt, without Idealmed being entitled to opt out of that exemption, and that that company had therefore wrongly deducted VAT paid in the course of carrying out that activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Following that inspection the Tax and Customs Authority adopted a decision varying of its own motion Idealmed’s VAT status with effect from 1 October 2012 and requiring that company to pay a sum corresponding to the amount of VAT wrongly deducted, namely EUR 2 009 944.90, together with interest thereon.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">On 27 June 2017, Idealmed submitted a request for an arbitral tax tribunal to be constituted for the purpose of declaring that decision to be unlawful.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">It is in those circumstances that the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa) (Tax Arbitration Tribunal (Centre for Administrative Arbitration), Portugal) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Does Article 132(1)(b) of [Directive2006/112] preclude a hospital owned by a company governed by private law, which has concluded agreements for the provision of medical care with the State and with legal persons governed by public law, from being deemed to have started to operate under social conditions comparable with those applicable to bodies governed by public law, as referred to in that provision, where the following conditions are met:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">more than 54.5% of revenue, including sums invoiced to the relevant user-beneficiaries, comes from State bodies and public health subsystems, at the prices stipulated in the agreements concluded with them;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">more than 69% of users are beneficiaries of public health subsystems or receive services provided within the framework of agreements concluded with State bodies;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">more than 71% of medical services are carried out under agreements concluded with public health subsystems and with State bodies, and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the activity carried out is of significant general public interest?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">In view of the fact that, in accordance with Article 377 of the [Directive 2006/112], the Portuguese Republic chose to continue to exempt from VAT transactions carried out by hospitals not referred to in Article 132(1)(b) of that directive, that it granted such taxable persons the right to opt for taxation of those transactions under Article 391 of the directive, provided that they continue to be taxed for a minimum period of five years, and that it provides that they may become subject to the exemption scheme again only if they make an express declaration to that effect, does Article 391 and/or the principles of the protection of acquired rights and of legitimate expectations, equality and non-discrimination, neutrality and non-distortion of competition in relation to users and taxable persons which are bodies governed by public law, preclude the taxation and customs authority from imposing the exemption scheme before that period has elapsed, since it considers that the taxable person has started to provide services under social conditions comparable with those applicable to bodies governed by public law?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">Do Article 391 of [Directive 2006/112] and/or the abovementioned principles preclude a new law from requiring the application of the exemption scheme to taxable persons who previously opted for the taxation scheme, before the five-year period has elapsed?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">Do Article 391 of [Directive 2006/112] and the abovementioned principles preclude legislation in accordance with which a taxable person, who opted for application of the taxation scheme because, at the time when he or she opted for that scheme, he or she was not providing healthcare services under social conditions comparable with those applicable to bodies governed by public law, can continue to be subject to that scheme if he or she starts to provide such services under social conditions comparable with those applicable to bodies governed by public law?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary matter, it should be recalled that, pursuant to Article 132(1)(b) of Directive 2006/112, Member States are to exempt hospital and medical care and closely related activities undertaken by bodies governed by public law or, under social conditions comparable to those applicable to bodies governed by public law, by hospitals, centres for medical treatment or diagnosis and other duly recognised establishments of a similar nature.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">It is clear from the wording of that provision that the exemption of care services provided by private hospitals is subject to the condition that those services are provided under social conditions comparable to those applicable to bodies governed by public law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Since that requirement relates to the services provided and not to the provider in question, the proportion of the care services provided under comparable social conditions, within the meaning of that provision, in relation to all the activity undertaken by that provider is irrelevant for the application of the exemption laid down in Article 132(1)(b) of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, by its first question, the referring court must be regarded as asking, in essence, whether Article 132(1)(b) of Directive 2006/112 must be interpreted as meaning that the competent authorities in a Member State may — for the purpose of determining whether the care services provided by a private hospital, which are in the public interest, are provided under social conditions comparable to those applicable to bodies governed by public law, within the meaning of that provision — take into account the fact that those services are provided under contracts concluded with public authorities of that Member State, at prices fixed by those contracts and whose costs are partially borne by the social security institutions of that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be noted at the outset that Article 13(A)(1)(b) and (g) of the Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1977:145:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1977 L 145, p. 1</a>) and Article 132(1)(b) and (g) of Directive 2006/112, which is worded essentially in the same way as the first of those provisions, must be interpreted in the same way and that consequently the case-law of the Court on that first provision lends itself to serving as a basis for the interpretation of the second provision (see, to that effect, judgment of 10 June 2010, Future Health Technologies, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A334&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑86/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A334&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:334</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A334&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the concept of ‘comparable social conditions’, within the meaning of Article 132(1)(b) of Directive 2006/112, it should be observed that that provision does not define precisely the aspects of the provision of care concerned that must be compared for the purpose of assessing whether it applies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be recalled, in the first place, that the purpose of the provisions of Article 132(1) of Directive 2006/112, as a whole, is to exempt from VAT certain activities in the public interest with a view to facilitating access to certain services and the supply of certain goods by avoiding the increased costs that would result if they were subject to VAT (see, to that effect, judgment of 20 November 2019, Infohos, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A992&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑400/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A992&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:992</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A992&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">The public interest nature of those services is therefore a relevant matter to take into account for the purpose of determining whether the care services provided by a private hospital fall within the exemption laid down in Article 132(1)(b) of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, it is clear from Article 133, first paragraph, point (c) of that directive that Member States may make the granting of the exemptions laid down inter alia in Article 132(1)(b) and (g) of the directive to bodies other than those governed by public law subject to the condition that those bodies charge prices which are approved by the public authorities or which do not exceed such approved prices or, in respect of those services not subject to approval, prices lower than those charged for similar services by commercial enterprises subject to VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Since, the EU legislature has made the element as to the fixing of prices for those supplies in an agreement concluded with the public authorities of a Member State a discretionary condition for Member States to choose to apply the exemption laid down in Article 132(1)(b) of Directive 2006/112, the absence of a such an element cannot preclude entitlement to that exemption (see, by analogy, judgment of 26 May 2005, Kingscrest Associates and Montecello, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A322&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑498/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A322&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:322</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A322&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point40" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Such an element remains relevant, however, for the purposes of determining whether the care services provided by a private hospital are provided under social conditions comparable to those applicable to bodies governed by public law, within the meaning of Article 132(1)(b) of Directive 2006/112 (see, by analogy, judgment of 21 January 2016, Les Jardins de Jouvence, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A36&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑335/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A36&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:36</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A36&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, it must held that the element concerning the fixing of prices of those supplies in an agreement concluded with the public authorities of a Member State is an element that may be taken into account for the purpose of determining whether the care services provided by a private hospital are provided under social conditions comparable to those applicable to bodies governed by public law, within the meaning of Article 132(1)(b) of Directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">In the third place, it is clear from the Court’s case-law that the arrangements for services to be paid for by the social security institutions of a Member State are relevant in the context of examining whether the conditions under which those services are provided are comparable, within the meaning of that provision (see, to that effect, judgment of 10 June 2010, CopyGene, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A328&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑262/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A328&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:328</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A328&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point69" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">69</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A328&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point70" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">70</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answer to the first question is that Article 132(1)(b) of Directive 2006/112 must be interpreted as meaning that the competent authorities in a Member State may — for the purpose of determining whether the care services provided by a private hospital, which are in the public interest, are provided under social conditions comparable to those applicable to bodies governed by public law, within the meaning of that provision — take into account the fact that those services are provided under contracts concluded with public authorities of that Member State, at prices fixed by those contracts and whose costs are partially borne by the social security institutions of that Member State.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Questions 2 to 4</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">By its second to fourth questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 391 of Directive 2006/112, read in conjunction with Article 377 thereof, and the principles of legitimate expectation, legal certainty and fiscal neutrality, must be interpreted as precluding the exemption from VAT of care services provided by private hospitals which fall within Article 132(1)(b) of that directive owing to a change in the conditions under which it carried on its activities that occurred after it opted for the taxation regime laid down in the national law of the Member State concerned which laid down the requirement, for all taxable persons exercising that option, to remain subject to that regime for a certain period, where such a period has not yet expired.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">It must be borne in mind that the common system of VAT is the result of a gradual harmonisation of national legislation pursuant to Articles 113 and 115 TFEU. The Court has consistently held that this harmonisation, as brought about by successive directives and in particular by Directive 77/388, is still only partial (see, to that effect, judgment of 26 February 2015, VDP Dental Laboratory and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A116&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑144/13 and C‑160/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A116&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:116</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A116&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point60" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">60</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Directive 2006/112, by virtue of Article 370 thereof, authorised the Member States to retain certain provisions of their national legislation predating that directive which would, without that authorisation, be incompatible with that directive (judgment of 26 February 2015, VDP Dental Laboratory and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A116&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑144/13 and C‑160/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A116&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:116</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A116&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point61" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">61</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In that context, Article 377 of that directive, read in conjunction with Annex X, Part B, point (7) of the directive, authorises the Portuguese Republic to continue to exempt transactions carried out by hospitals not covered by point (b) of Article 132(1) of that directive, under the conditions that existed in that Member State on 1 January 1989.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, Article 391 of Directive 2006/112 permits Member States that exempt transactions covered by the provisions that it cites, which includes Article 377 of that directive, to grant the taxable persons concerned the right to opt for the taxation of those transactions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">It is clear from a combined reading of Articles 377 and 391 of that directive, as well as Annex X, Part B, point (7) thereof, that the right to opt for taxation laid down in Article 391 of the directive concerns only transactions carried out by hospitals not covered by Article 132(1)(b) of Directive 2006/112. That latter provision, however, requires Member States to exempt supplies of services coming within it (see, to that effect, judgment of 10 June 2010, CopyGene, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A328&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑262/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A328&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:328</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A328&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point56" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that, from the time when a private hospital supplies services coming within Article 132(1)(b) of the same directive, it must ensure that the exemption regime is applied to its supplies of services, even if it had opted for the taxation regime for its activities that did not come within that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, the Member States cannot rely on Articles 377 and 391 of Directive 2006/112 in order to justify the continued taxation of a taxable person’s transactions if that would result in those transactions not being exempted despite their coming within the exemption laid down in Article 132(1)(b) of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, having regard to the principle of fiscal neutrality, which is recalled in recital 7 of that directive and which precludes treating supplies that are similar, and thus in competition with each other, differently as regards VAT (see, to that effect, judgment of 5 September 2019, Regards Photographiques, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A668&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑145/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A668&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:668</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A668&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> and the case-law cited), the fact that, in the past, the taxable person concerned made other supplies in respect of which it benefited from a particular tax regime, does not, in principle, have the effect of varying the tax treatment of supplies that it provided subsequently under different social conditions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Similarly, the fact that the national law providing for such a possibility of option regarding the taxation regime applicable to the activities requires the taxable person to remain subject to that regime for a certain period which has not yet expired, is irrelevant to the tax treatment of supplies coming within Article 132(1)(b) of Directive 2006/112 because such a possibility is valid only for transactions not covered by that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, that interpretation is not called into question by the principles of legitimate expectation or legal certainty.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the principle of legitimate expectation, it must be noted that the right to rely on that principle extends to any person in a situation in which an administrative authority has caused that person to entertain expectations which are justified by precise assurances provided to him or her (judgment of 21 February 2018, Kreuzmayr, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A84&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑628/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A84&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:84</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A84&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point46" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">The fact that the national law that permitted a taxable person to opt for the taxation of its activities makes the exercise of that option subject to the requirement for that person to remain subject to the chosen regime for a certain period of time cannot create a legitimate expectation for that taxable person that the competent authorities will maintain that regime in the event of a change in the conditions in which it exercises its activities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the principle of legal certainty, the Court has held that it does not preclude the tax authorities from carrying out, within the limitation period, an assessment for VAT relating to the deducted tax or to services already provided which should have been subject to VAT (judgment of 12 October 2016, Nigl and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A764&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑340/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A764&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:764</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A764&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point48" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">Such a principle does not therefore preclude a tax authority from carrying out an assessment of the situation of a taxable person who had opted for the taxation of its activities or, upon concluding that assessment, from proceeding to the adjustment of VAT relating to the tax deducted for supplies that that taxable person had provided after having exercised its option, where it reaches the conclusion that the supplies come within Article 132(1)(b) of that directive and should have been exempt in accordance with that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the answer to the second to fourth questions is that Article 391 of Directive 2006/112, read in conjunction with Article 377 thereof, and the principles of legitimate expectation, legal certainty and fiscal neutrality, must be interpreted as precluding the exemption from VAT of supplies of care services provided by private hospitals which come within Article 132(1)(b) of that directive owing to a change in the conditions under which it carried on its activities that occurred after it opted for the taxation regime laid down in the national law of the Member State concerned that laid down the requirement, for all taxable persons making such a choice, to remain subject to that regime for a certain period, where such a period has not yet expired.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Sixth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 132(1)(b) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that the competent authorities in a Member State may — for the purpose of determining whether the care services provided by a private hospital, which are in the public interest, are provided under social conditions comparable to those applicable to bodies governed by public law, within the meaning of that provision — take into account the fact that those services are provided under contracts concluded with public authorities of that Member State, at prices fixed by those contracts and whose costs are partially borne by the social security institutions of that Member State.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 391 of Directive 2006/112, read in conjunction with Article 377 thereof, and the principles of legitimate expectation, legal certainty and fiscal neutrality, must be interpreted as precluding the exemption from VAT of supplies of care services provided by private hospitals which fall within Article 132(1)(b) of that directive owing to a change in the conditions under which it carried on its activities that occurred after it opted for the taxation regime laid down in the national law of the Member State concerned which laid down the requirement, for all taxable persons making such a choice, to remain subject to that regime for a certain period, where such a period has not yet expired.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0211_EN_01-E0001" id="t-ECR_62018CJ0211_EN_01-E0001">*1</a>
+</span>)	Language of the case: Portuguese.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

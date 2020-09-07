@@ -1,0 +1,940 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Second Chamber)</p>
+<p class="sum-title-1">30 January 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0513_EN_01-E0001" id="c-ECR_62018CJ0513_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Taxation of energy products and electricity — Directive 2003/96/EC — Article 7(2) and (3) — Concept of ‘commercial gas oil used as propellant’ — National legislation levying a duty on commercial gas oil used as propellant for the regular carriage of passengers but not for the occasional carriage of passengers — Principle of equal treatment)</p>
+<p class="normal">In Case C‑513/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Commissione tributaria provinciale di Palermo (Provincial Tax Court, Palermo, Italy), made by decision of 13 July 2018, received at the Court on 3 August 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Autoservizi Giordano società cooperativa</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Agenzia delle Dogane e dei Monopoli — Ufficio di Palermo</span>
+</p>
+<p class="normal">THE COURT (Second Chamber),</p>
+<p class="normal">composed of A. Arabadjiev, President of the Chamber, P.G. Xuereb (Rapporteur), T. von Danwitz, C. Vajda and A. Kumin, Judges,</p>
+<p class="normal">Advocate General: M. Szpunar,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Italian Government, by G. Palmieri, acting as Agent, and M. Santoro, avvocato dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by A. Armenia and F. Tomat, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 12 September 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 7(2) and (3) of Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2003:283:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2003 L 283, p. 51</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Autoservizi Giordano società cooperativa and the Agenzia delle Dogane e dei Monopoli — Ufficio di Palermo (Customs and Monopolies Agency — Palermo Office, Italy; ‘the Customs and Monopolies Agency’) concerning the latter’s refusal to grant Autoservizi Giordano a reduced rate of excise duty on commercial gas oil used as propellant for the third quarter of 2017.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Recitals 2 to 7, 9, 11, 12 and 24 of Directive 2003/96 state:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(2)</p>
+</td>
+<td valign="top">
+<p class="normal">The absence of Community provisions imposing a minimum rate of taxation on electricity and energy products other than mineral oils may adversely affect the proper functioning of the internal market.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">The proper functioning of the internal market and the achievement of the objectives of other Community policies require minimum levels of taxation to be laid down at Community level for most energy products, including electricity, natural gas and coal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">Appreciable differences in the national levels of energy taxation applied by Member States could prove detrimental to the proper functioning of the internal market.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(5)</p>
+</td>
+<td valign="top">
+<p class="normal">The establishment of appropriate Community minimum levels of taxation may enable existing differences in the national levels of taxation to be reduced.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(6)</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with Article 6 of the [EC] Treaty, environmental protection requirements must be integrated into the definition and implementation of other Community policies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(7)</p>
+</td>
+<td valign="top">
+<p class="normal">As a party to the United Nations Framework Convention on Climate Change, the Community has ratified the Kyoto Protocol. The taxation of energy products and, where appropriate, electricity is one of the instruments available for achieving the Kyoto Protocol objectives.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(9)</p>
+</td>
+<td valign="top">
+<p class="normal">Member States should be given the flexibility necessary to define and implement policies appropriate to their national circumstances.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(11)</p>
+</td>
+<td valign="top">
+<p class="normal">Fiscal arrangements made in connection with the implementation of this Community framework for the taxation of energy products and electricity are a matter for each Member State to decide. In this regard, Member States might decide not to increase the overall tax burden if they consider that the implementation of such a principle of tax neutrality could contribute to the restructuring and the modernisation of their tax systems by encouraging behaviour conducive to greater protection of the environment and increased labour use.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(12)</p>
+</td>
+<td valign="top">
+<p class="normal">Energy prices are key elements of Community energy, transport and environment policies.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(24)</p>
+</td>
+<td valign="top">
+<p class="normal">Member States should be permitted to apply certain other exemptions or reduced levels of taxation, where that will not be detrimental to the proper functioning of the internal market and will not result in distortions of competition.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 4 of Directive 2003/96 provides:</p>
+<p class="normal">‘1.   The levels of taxation which Member States shall apply to the energy products and electricity listed in Article 2 may not be less than the minimum levels of taxation prescribed by this directive.</p>
+<p class="normal">2.   For the purpose of this directive “level of taxation” is the total charge levied in respect of all indirect taxes (except VAT) calculated directly or indirectly on the quantity of energy products and electricity at the time of release for consumption.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with Article 7 of the directive:</p>
+<p class="normal">‘1.   As from 1 January 2004 and from 1 January 2010, the minimum levels of taxation applicable to motor fuels shall be fixed as set out in Annex I Table A.</p>
+<p class="normal">Not later than 1 January 2012, the Council, acting unanimously after consulting the European Parliament, shall, on the basis of a report and a proposal from the Commission, decide upon the minimum levels of taxation applicable to gas oil for a further period beginning on 1 January 2013.</p>
+<p class="normal">2.   Member States may differentiate between commercial and non-commercial use of gas oil used as propellant, provided that the Community minimum levels are observed and the rate for commercial gas oil used as propellant does not fall below the national level of taxation in force on 1 January 2003, notwithstanding any derogations for this use laid down in this directive.</p>
+<p class="normal">3.   “Commercial gas oil used as propellant” shall mean gas oil used as propellant for the following purposes:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the carriage of goods for hire or reward, or on own account, by motor vehicles or articulated vehicle combinations intended exclusively for the carriage of goods by road and with a maximum permissible gross laden weight of not less than 7.5 tonnes;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the carriage of passengers, whether by regular or occasional service, by a motor vehicle of category M2 or category M3, as defined in Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers [(<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1970:042:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1970 L 42, p. 1</a>)].</p>
+</td>
+</tr>
+</table>
+<p class="normal">4.   Notwithstanding paragraph 2, Member States which introduce a system of road user charges for motor vehicles or articulated vehicle combinations intended exclusively for the carriage of goods by road may apply a reduced rate on gas oil used by such vehicles, that goes below the national level of taxation in force on 1 January 2003, as long as the overall tax burden remains broadly equivalent, provided that the Community minimum levels are observed and that the national level of taxation in force on 1 January 2003 for gas oil used as propellant is at least twice as high as the minimum level of taxation applicable on 1 January 2004.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Italian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 6 of decreto legislativo n. 26 — Attuazione della direttiva 2003/96/CE che ristruttura il quadro comunitario per la tassazione dei prodotti energetici e dell’elettricità (Legislative Decree No 26, transposing Directive 2003/96) of 2 February 2007 (Ordinary Supplement to GURI No 68 of 22 March 2007, p. 5), lays down the rate of excise duty on gas oil used as propellant.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 24b of decreto legislativo n. 504 — Testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative (Legislative Decree No 504, Consolidated Text of legislative provisions relating to duties on production and consumption and related criminal and administrative penalties) of 26 October 1995 (Ordinary Supplement to GURI No 279 of 29 November 1995, p. 5; ‘Decree No 504/1995’) introduced by decreto-legge n. 193 — Disposizioni urgenti in materia fiscale e per il finanziamento di esigenze indifferibili (Decree Law No 193 laying down emergency tax provisions and provisions for the financing of immediate needs) of 22 October 2016, adapted with amendments by Law No 225 of 1 December 2016 (Ordinary Supplement to the GURI No 282 of 2 December 2016), entitled ‘Commercial gas oil’, provides:</p>
+<p class="normal">‘1.   Commercial gas oil used as propellant shall be subject to excise duty at the rate stipulated for such use at point 4a of Table A annexed to the present consolidated text.</p>
+<p class="normal">2.   “Commercial gas oil used as propellant” means gas oil used in vehicles, with the exception of vehicles of category Euro 2 or below, which are used by their owner or under some other form of authority which guarantees their exclusive availability, for the following purposes:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the carriage of goods by vehicles with a maximum gross laden weight of not less than 7.5 tonnes by: …</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the carriage of passengers by:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(1)</p>
+</td>
+<td valign="top">
+<p class="normal">public bodies and local public undertakings engaged in transport as referred to in [decreto legislativo n. 422 — Conferimento alle regioni ed agli enti locali di funzioni e compiti in materia di trasporto pubblico locale, a norma dell’articolo 4, comma 4, della legge 15 marzo 1997, n. 59 (Legislative Decree No 422 transferring to regions and local authorities functions and responsibilities in the field of local public transport, under Article 4(4) of Law No 59 of 15 March 1997)] of 19 November 1997 (GURI No 287 of 10 December 1997, p. 4), and in regional implementing laws;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">undertakings operating inter-regional bus services for which the State assumes responsibility, as referred to in [decreto legislativo n. 285 — Riordino dei servizi automobilistici interregionali di competenza statale (Legislative Decree No 285 on the reorganisation of inter-regional bus services for which the State assumes responsibility) of 21 November 2005 (ordinary supplement to the GURI No 6 of 9 January 2006, p. 12)];</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">undertakings operating bus services for which regional or local authorities assume responsibility, as referred to in Legislative Decree No 422 of 19 November 1997;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">undertakings operating regular bus services within the Community context, as referred to in [Regulation (EC) No 1073/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international market for coach and bus services, and amending Regulation (EC) No 561/2006 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:300:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2009 L 300, p. 88</a>)].</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="normal">3.   Commercial gas oil also includes gas oil used for the transportation of passengers by public bodies or by undertakings engaged in the provision of public cableway transport services.</p>
+<p class="normal">4.   The cost resulting from the higher rate of excise duty on commercial gas oil shall be reimbursed in an amount equal to the difference between the rate of excise duty on gas oil used as propellant, as referred to in Annex I, and the rate referred to in paragraph 1 of this Article. To claim reimbursement, the bodies, enterprises and undertakings referred to in paragraphs 2 and 3 shall submit the appropriate declaration to the appropriate offices of the Customs and Monopolies Authority in the month following the end of the quarter in which the commercial gas oil was consumed.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Autoservizi Giordano operates in the field of passenger transport, providing services of hiring out buses and coaches with a driver.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">The company applied to the Customs and Monopolies Agency for the reduced rate of excise duty on commercial gas oil used as propellant for the third quarter of 2017, as provided for in Article 24b of Legislative Decree No 504/1995.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">The Customs and Monopolies Agency rejected that request on the ground that the activity of transporting passengers by hiring out buses and coaches with a driver, such as that carried out by Autoservizi Giordano, did not fall within any of the categories of transport activities which benefit, under Article 24b of Legislative Decree No 504/1995, from a reduced rate of excise duty on commercial gas oil used as propellant.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Autoservizi Giordano challenged that refusal before the Commissione tributaria provinciale di Palermo (Provincial Tax Commission, Palermo, Italy).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">In support of its action, Autoservizi Giordano submits that the benefit of a reduced rate of excise duty flows from the direct application of Article 7 of Directive 2003/96 and that, consequently, the restriction contained in Article 24b of Legislative Decree No 504/1995 is arbitrary and unlawful.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the referring court points out that Article 7 of Directive 2003/96 gives each Member State discretion as to whether to distinguish between the commercial and non-commercial use of gas oil. It points out, however, that that article does not appear to give Member States the same margin of discretion when deciding to provide for a reduced rate of excise duty for the category of commercial gas oil used as propellant, since that category must comply with the definition of ‘commercial gas oil’ provided for in that article.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, according to the referring court, by granting the benefit of the reduced rate of excise duty on commercial gas oil used as propellant only to certain activities, and not to others, such as the activity of hiring buses and coaches with drivers in the private passenger transport sector, Article 24b of Legislative Decree No 504/1995 limits the scope of Article 7(3)(b) of Directive 2003/96, which refers to ‘Carriage of passengers by regular or occasional service’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Finally, the referring court asks whether Article 7 of Directive 2003/96 may be relied on directly by private individuals against the Italian authorities in order to obtain the benefit of a reduced rate of excise duty and the reimbursement of excise duty unduly paid. It points out that, if that is the case, Italian law could scarcely be regarded as compatible with that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the referring court asks the Court to determine whether the discretion conferred on the Member States under Article 7(2) of Directive 2003/96 means that paragraph 3 of that article, which includes in the concept of ‘gas oil for commercial use’ that intended for the ‘carriage of passengers … by … occasional service’, is not sufficiently clear, precise and unconditional.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Commissione tributaria provinciale di Palermo (Provincial Tax Court, Palermo) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Is Article 7 of Directive [2003/96] to be interpreted as including within its scope all undertakings and operators, whether public or private, operating in the sector for the conveyance of passengers by bus and coach, including in this the hire of buses and coaches with a driver, and as precluding national legislation implementing [that] directive in so far as it does not treat operators which hire buses and coaches with a driver as operators using commercial gas oil?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Does the discretion which the Member States are allowed, as referred to in Article 7(2) of Directive 2003/96, under which the Member States may differentiate between commercial and non-commercial use of gas oil used as propellant, provided that the Community minimum levels are observed and the rate for commercial gas oil used as propellant does not fall below the national level of taxation in force on 1 January 2003, render [Article 7(3)(b)] which includes, within the definition of commercial gas oil, used for “the carriage of passengers by occasional service”, not immediately effective and unconditional?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3.</p>
+</td>
+<td valign="top">
+<p class="normal">Is the content of Article 7 of Directive [2003/96] sufficiently precise and unconditional for individuals to be able to rely on it directly against the authorities of the Member State in question?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">First of all, it should be noted that it is apparent from the order for reference that the applicant in the main proceedings is a private undertaking, not a public undertaking. Consequently, and notwithstanding the wording of the first question, it is necessary, in the context of the present case, to determine, first, whether Article 7(2) and (3) of Directive 2003/96 must be interpreted as applying to a private undertaking carrying on the activity of carriage of passengers, by means of bus rental services with a driver and, second, whether that provision precludes national legislation which provides for a reduced rate of excise duty for commercial gas oil used as propellant for the regular carriage of passengers, without providing for such a rate for that used for the occasional carriage of passengers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the first part of the first question, it must be noted that Article 7(2) of that directive provides that Member States may differentiate between gas oil for commercial use and gas oil for private use used as propellant as regards the level of taxation, provided that the Community minimum levels of taxation are observed and that the rate set for gas oil for commercial use is not lower than a certain level of national taxation. Article 7(3) of that directive specifies what is to be understood by ‘gas oil for commercial use as propellant’ and refers, in particular, in point (b) thereof, to gas oil used as propellant for the regular or occasional carriage of passengers by a motor vehicle of category M2 or M3, within the meaning of Directive 70/156.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">As the Advocate General noted, in essence, in point 21 of his Opinion, it follows from Article 7(3) of Directive 2003/96 that the concept of ‘commercial gas oil used as propellant’ is defined by the EU legislature by reference not to the public or private nature of the entities using the gas oil, but to the purposes for which the gas oil is used, namely the transport of goods and carriage of passengers, by means of certain motor vehicles.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, that provision must be interpreted as meaning that it covers a private undertaking engaged in the activity of the carriage of passengers by means of the hire of buses and coaches with drivers, provided that the vehicles rented by that undertaking are of category M2 or M3 within the meaning of Directive 70/156.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">As to the second part of the first question, it must be borne in mind, as a preliminary point, that, in order to determine the scope of a provision of EU law, account must be taken of its terms, its scheme and its aims (judgment of 19 April 2018, CMR, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A262&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑645/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A262&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:262</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A262&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point22" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">22</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the terms of Article 7(2) and (3) of Directive 2003/96, it is important to note that paragraph 2 of that article authorises the Member States, under certain conditions, to differentiate between gas oil for commercial use and gas oil for private use used as propellant, and that paragraph 3(b) of that article states that the concept of ‘gas oil for commercial use used as propellant’ includes gas oil used as propellant for the ‘regular or occasional carriage of passengers’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">It should be pointed out that the terms ‘regular’ and ‘occasional’, which appear in the expression ‘the carriage of passengers, whether by regular or occasional service’ in Article 7(3)(b) of Directive 2003/96, are linked by the coordination conjunction ‘or’. In that regard, it is true that the coordinating conjunction ‘or’ may, linguistically, have an alternative or cumulative meaning (see, to that effect, judgments of 12 July 2005, Commission v France, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A444&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑304/02</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A444&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:444</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A444&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point83" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">83</a>, and of 14 May 2019, M and Others (Revocation of refugee status), <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A403&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑391/16, C‑77/17 and C‑78/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A403&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:403</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A403&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point102" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">102</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">That being so, as the Italian Government argued, in essence, if the EU legislature had intended that the reduced rate of excise duty on commercial gas oil should apply to all activities of the carriage of passengers, without distinction between regular and occasional carriage, it would have used the expression ‘carriage of passengers’ in Article 7(3)(b) of Directive 2003/96. The use of the expression ‘regular or occasional carriage of passengers’ therefore suggests that regular carriage of passengers and occasional carriage of passengers, linked by the conjunction ‘or’, must not necessarily be cumulatively subject to the reduced rate of excise duty, but may also be subject to it alternatively.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the general scheme of Directive 2003/96, it follows from recital (3) and Article 4 of that directive that it has not fully harmonised the rates of excise duty on energy products and electricity but merely sets harmonised minimum levels of taxation. Moreover, as the Advocate General noted in points 30 and 31 of his Opinion, in addition to Article 7(2) of the directive, Articles 5, 14 to 17 and 19 of the directive provide for the possibility for Member States to introduce differentiated rates of taxation, exemptions from taxation or reductions in excise duties. Those provisions show that the EU legislature has left a certain margin of discretion to Member States in the field of excise duties.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">The scheme of Directive 2003/96 therefore calls for an interpretation of Article 7(3)(b) of that directive to the effect that the application of the reduced rate of excise duty does not necessarily have to cover both regular and occasional carriage of passengers, but may also be limited to one of those forms of carriage of passengers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the objectives pursued by Directive 2003/96, it should be noted, first, that it is apparent from recitals 9 and 11 of that directive that it seeks to give Member States the flexibility necessary to define and implement policies appropriate to their national circumstances and the arrangements made in connection with the implementation of that directive are a matter for each Member State to decide (judgment of 18 January 2017, IRCCS — Fondazione Santa Lucia, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A17&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑189/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A17&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:17</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A17&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">As the Advocate General noted, in essence, in point 41 of his Opinion, recognising that Member States may provide for a reduced rate of excise duty for gas oil used for the regular carriage of passengers, and not for gas oil used for the occasional carriage of passengers, enables the Member States to implement policies appropriate to their national circumstances, in particular as regards transport and regional accessibility.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Secondly, by providing for a harmonised system of taxation of energy products and electricity, Directive 2003/96 seeks, as is clear from recitals 2 to 5 and 24 thereof, to promote the proper functioning of the internal market in the energy sector, in particular by avoiding distortions of competition (judgment of 7 March 2018, Cristal Union, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑31/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:168</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> and the case-law cited). In particular, it follows from recital 3 of that directive that it is for the purpose of ensuring the proper functioning of the internal market that the directive has set Community minimum levels of taxation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">However, provided that the Community minimum levels of taxation are observed, that objective does not preclude Article 7(3)(b) of Directive 2003/96 from being interpreted as meaning that Member States may limit the application of the reduced rate of excise duty to regular carriage of passengers only.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Thirdly, Directive 2003/96 also seeks, as is apparent from its recitals 6, 7, 11 and 12, to promote environmental policy objectives (judgment of 7 March 2018, Cristal Union, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑31/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:168</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> and the case-law cited)</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">As the Italian Government has pointed out, those objectives militate in favour of an interpretation of Article 7(2) and (3) of Directive 2003/96 to the effect that it does not preclude the national legislature from providing for a reduced rate of excise duty on commercial gas oil used as propellant for the regular carriage of passengers, without, however, providing for such a rate for the occasional carriage of passengers. In so far as a reduced rate of excise duty on commercial gas oil used as propellant reduces the costs associated with the consumption of gas oil, reducing the number of beneficiaries of such an advantage is likely to provide an incentive to limit such consumption for those forms of carriage of passengers which do not benefit from it and, accordingly, contributes to the environmental policy objectives promoted by the directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, as regards the second part of the first question, it must be held that, having regard both to the terms of Article 7(2) and (3) of Directive 2003/96 and to the scheme and objectives of that directive, the latter provision must be interpreted as not precluding national legislation which provides for a reduced rate of excise duty for commercial gas oil used as propellant in the context of activities of regular carriage of passengers, without providing for such a rate for gas oil used in the context of activities of occasional carriage of passengers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">However, as the Commission recalled, in essence, in its written observations, in the exercise of the power which the Member States have to implement Article 7(2) and (3) of Directive 2003/96, they must comply with the general principles of law which form part of the EU legal order, including, in particular, the principle of equal treatment (see, by analogy, judgments of 2 June 2016, Polihim-SS, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A403&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑355/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A403&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:403</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A403&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point59" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">59</a>, and of 9 November 2017, AZ, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A846&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑499/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A846&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:846</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A846&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A846&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point30" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, the conformity of the national legislation at issue in the main proceedings with EU law is subject to compliance with the principle of equal treatment, which is for the referring court to ascertain. The Court may, nonetheless, provide it with guidance to assist it in resolving the dispute before it (see, by analogy, judgment of 21 November 2018, Fontana, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A932&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑648/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A932&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:932</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A932&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A932&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with settled case-law, the principle of equal treatment requires that comparable situations must not be treated differently and that different situations must not be treated in the same way unless such treatment is objectively justified (see judgment of 3 December 2019, Czech Republic v Parliament and Council, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1035&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑482/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A1035&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:1035</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A1035&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point164" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">164</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">That principle precludes similar goods or services which are in competition with each other from being treated differently from the point of view of the rate of excise duty (see, by analogy, judgment of 27 June 2019, Belgisch Syndicaat van Chiropraxie and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑597/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:544</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point47" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">In order to determine whether goods or services are similar, account must be taken primarily of the point of view of a typical consumer. Goods or services are similar where they have similar properties and meet the same needs in the eyes of the consumer, according to a criterion of comparability in use, and where the existing differences do not significantly influence the decision of the average consumer to use one or the other of those goods or services (judgment of 27 June 2019, Belgisch Syndicaat van Chiropraxie and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑597/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:544</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point48" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, regular services of carriage of passengers, by definition, carry passengers at a specified frequency and on a specified route, passengers being picked up and set down at predetermined stops, while services of occasional carriage of passengers meet specific needs. In addition, operators providing scheduled services carrying passengers are generally entrusted with public service tasks.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, since services of regular and occasional carriage of passengers do not appear to meet the same needs, the national legislation at issue in the main proceedings does not appear to infringe the principle of equal treatment, which it is, however, for the referring court to ascertain.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Having regard to all the foregoing considerations, the answer to the first question must be that Article 7(2) and (3) of Directive 2003/96 must be interpreted as meaning, first, that a private undertaking engaged in the activity of the carriage of passengers, by means of services of hiring a bus or a coach with a driver, falls within its scope, provided that the vehicles hired out by that undertaking are in category M2 or M3, within the meaning of Directive 70/156, and, secondly, that it does not preclude national legislation which provides for a reduced rate of excise duty for commercial gas oil used as propellant for the regular carriage of passengers, without, however, providing for such a rate for that used for the occasional carriage of passengers, provided that that legislation observes the principle of equal treatment, which it is for the referring court to ascertain.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The second and third questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">By its second and third questions, the referring court asks, in essence, whether Article 7(2) and (3) of Directive 2003/96 may be relied on directly by an individual against the Italian authorities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the answer given to the first question, it is not necessary to answer those questions.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Second Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 7(2) and (3) of Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity must be interpreted as meaning, first, that a private undertaking engaged in the activity of the carriage of passengers, by means of services of hiring a bus or a coach with a driver, falls within its scope, provided that the vehicles hired out by that undertaking are in category M2 or M3, within the meaning of Council Directive 70/156/EEC of 6 February 1970, and, secondly, that it does not preclude national legislation which provides for a reduced rate of excise duty for commercial gas oil used as propellant for the regular carriage of passengers, without, however, providing for such a rate for that used for the occasional carriage of passengers, provided that that legislation observes the principle of equal treatment, which it is for the referring court to ascertain.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0513_EN_01-E0001" id="t-ECR_62018CJ0513_EN_01-E0001">*1</a>
+</span>)	Language of the case: Italian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

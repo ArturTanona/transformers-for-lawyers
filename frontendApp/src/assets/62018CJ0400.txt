@@ -1,0 +1,843 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>ARRÊT DE LA COUR (deuxième chambre)</p>
+<p class="sum-title-1">20 novembre 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0400_FR_01-E0001" id="c-ECR_62018CJ0400_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Fiscalité – Taxe sur la valeur ajoutée (TVA) – Sixième directive 77/388/CEE – Article 13, A, paragraphe 1, sous f) – Exonérations – Prestations de services effectuées par des groupements autonomes de personnes – Services fournis aux membres et aux non-membres »</p>
+<p class="normal">Dans l’affaire C‑400/18,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par le Hof van Cassatie (Cour de cassation, Belgique), par décision du 19 avril 2018, parvenue à la Cour le 18 juin 2018, dans la procédure</p>
+<p class="normal">
+<span class="bold">Infohos</span>
+</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">Belgische Staat,</span>
+</p>
+<p class="normal">LA COUR (deuxième chambre),</p>
+<p class="normal">composée de M. A. Arabadjiev, président de chambre, MM. P. G. Xuereb (rapporteur), T. von Danwitz, C. Vajda et A. Kumin, juges,</p>
+<p class="normal">avocat général : M. G. Pitruzzella,</p>
+<p class="normal">greffier : M. A. Calot Escobar,</p>
+<p class="normal">vu la procédure écrite,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour Infohos, par M<span class="super">e</span> F. Soetaert, advocaat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement belge, par MM. J.-C. Halleux et P. Cottin ainsi que par M<span class="super">me</span> C. Pochet, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement portugais, par MM. L. Inez Fernandes et R. Campos Laires ainsi que par M<span class="super">mes</span> P. Barros da Costa et M. J. Marques, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M<span class="super">me</span> L. Lozano Palacios et M. W. Roels, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">ayant entendu l’avocat général en ses conclusions à l’audience du 11 juillet 2019,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation de l’article 13, A, paragraphe 1, sous f), de la sixième directive 77/388/CEE du Conseil, du 17 mai 1977, en matière d’harmonisation des législations des États membres relatives aux taxes sur le chiffre d’affaires – Système commun de taxe sur la valeur ajoutée : assiette uniforme (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1977:145:TOC" hreflang="fr" target="CourtTab">JO 1977, L 145, p. 1</a>, ci-après la « sixième directive »).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant Infohos au Belgische Staat (État belge) au sujet d’un redressement de taxe sur la valeur ajoutée (TVA) pour les années 2002 à 2004.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit de l’Union</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">La sixième directive a été abrogée et remplacée, à compter du 1<span class="super">er</span> janvier 2007, par la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="fr" target="CourtTab">JO 2006, L 347, p. 1</a>). Toutefois, compte tenu de la date des faits en cause dans le litige au principal, celui-ci demeure régi par la sixième directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Les neuvième et onzième considérants de la sixième directive énonçaient :</p>
+<p class="normal">« considérant que la base d’imposition doit faire l’objet d’une harmonisation afin que l’application du taux communautaire aux opérations imposables conduise à des résultats comparables dans tous les États membres ;</p>
+<p class="normal">[...]</p>
+<p class="normal">considérant qu’il convient d’établir une liste commune d’exonérations en vue d’une perception comparable des ressources propres dans tous les États membres ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 2 de la sixième directive prévoyait :</p>
+<p class="normal">« Sont soumises à la taxe sur la valeur ajoutée :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">les livraisons de biens et les prestations de services, effectuées à titre onéreux à l’intérieur du pays par un assujetti agissant en tant que tel ;</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 13 de la sixième directive, intitulé « Exonérations à l’intérieur du pays », disposait :</p>
+<p class="normal">« A. Exonérations en faveur de certaines activités d’intérêt général</p>
+<p class="normal">1.   Sans préjudice d’autres dispositions communautaires, les États membres exonèrent, dans les conditions qu’ils fixent en vue d’assurer l’application correcte et simple des exonérations prévues ci-dessous et de prévenir toute fraude, évasion et abus éventuels :</p>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">f)</p>
+</td>
+<td valign="top">
+<p class="normal">les prestations de services effectuées par des groupements autonomes de personnes exerçant une activité exonérée ou pour laquelle elles n’ont pas la qualité d’assujetti, en vue de rendre à leurs membres les services directement nécessaires à l’exercice de cette activité, lorsque ces groupements se bornent à réclamer à leurs membres le remboursement exact de la part leur incombant dans les dépenses engagées en commun, à condition que cette exonération ne soit pas susceptible de provoquer des distorsions de concurrence ;</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 13, A, paragraphe 1, sous f), de la sixième directive correspond à l’article 131 et à l’article 132, paragraphe 1, sous f), de la directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit belge</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 44, paragraphe 2, point 1 bis, du code de la TVA, dans sa version applicable aux faits en cause au principal, disposait que sont exemptées de la TVA « les prestations de services fournies à leurs membres par les groupements autonomes de personnes exerçant une activité exemptée par le présent article ou pour laquelle elles n’ont pas la qualité d’assujetti, lorsque ces services sont directement nécessaires à l’exercice de cette activité, et que les groupements se bornent à réclamer à leurs membres le remboursement exact de la part qui incombe à chacun d’eux dans les dépenses engagées en commun, à la condition que cette exemption ne soit pas susceptible de provoquer des distorsions de concurrence ; le Roi règle les conditions d’application de cette exemption ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 2 du koninklijk besluit nr. 43 met betrekking tot de vrijstelling op het stuk van de belasting over de toegevoegde waarde ten aanzien van de door zelfstandige groeperingen van personen aan hun leden verleende diensten (arrêté royal n<span class="super">o</span> 43 relatif à l’exemption de la taxe sur la valeur ajoutée concernant les prestations de services fournies à leurs membres par les groupements autonomes de personnes), du 5 juillet 1991 (<span class="italic">Belgisch Staatsblad</span>, 6 août 1991, p. 17215), prévoyait :</p>
+<p class="normal">« Les prestations de services fournies à leurs membres par les groupements autonomes de personnes visés à l’article 1<span class="super">er</span>, sont exemptées de la taxe à condition que :</p>
+<p class="normal">1° les activités du groupement consistent exclusivement à fournir des prestations de services directement au profit de leurs membres pour eux-mêmes, et que ceux-ci exercent tous une activité exemptée en vertu de l’article 44 du Code ou pour laquelle ils n’ont pas la qualité d’assujetti ».</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et la question préjudicielle</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Infohos est une association spécialisée dans l’informatique hospitalière. Elle fournit, d’une part, des prestations de services en informatique hospitalière aux hôpitaux qui lui sont affiliés en tant que membres et, d’autre part, des prestations de services à des non-membres.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Le 5 septembre 2000, elle a conclu avec la société IHC-Group NV un accord de coopération en vue de développer en commun, mais sur commande de Infohos, des logiciels d’application nouveaux ou innovants pour les hôpitaux qui lui sont affiliés en tant que membres.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Infohos ne s’est pas fait enregistrer en qualité d’assujettie à la TVA aux motifs qu’elle estimait ne pas pouvoir être considérée comme telle en vertu de l’article 6 du code de la TVA ou que, à tout le moins, elle pouvait bénéficier de l’exemption prévue à l’article 44, paragraphe 2, point 1 bis, de ce code.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">À la suite d’un contrôle effectué le 20 avril 2005 par l’administration fiscale, cette dernière a considéré que les services que se rendaient mutuellement Infohos et IHC-Group devaient être soumis à la TVA. En outre, selon l’administration fiscale, l’accomplissement d’opérations imposables à l’égard des non-membres avait pour conséquence que les opérations réalisées pour les membres de Infohos devaient également être soumises à la TVA, Infohos ne pouvant plus bénéficier de l’exemption pour les services fournis à ses membres en application de l’article 44, paragraphe 2, point 1 bis, du code de la TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Le 13 décembre 2005, l’administration fiscale a dressé un procès-verbal constatant ces infractions et a, par la suite, émis une contrainte, qui a été déclarée exécutoire.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Le 22 mai 2007, par une requête contradictoire déposée au rechtbank van eerste aanleg Brugge (tribunal de première instance de Bruges, Belgique), Infohos a demandé à cette juridiction de déclarer cette requête recevable et fondée et, partant, de surseoir à l’exécution de la contrainte émise par l’administration fiscale, de dire pour droit que les sommes réclamées n’étaient pas dues, et, à titre subsidiaire, d’ordonner la remise des amendes infligées ou, à tout le moins, de les réduire substantiellement, d’ordonner le remboursement de toutes les sommes qui auraient été perçues au titre de cette contrainte, majorées des intérêts moratoires, ainsi que de condamner l’État belge aux dépens.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Par jugement du 23 février 2009, le rechtbank van eerste aanleg Brugge (tribunal de première instance de Bruges) a jugé que les conditions pour l’application de l’exemption prévue à l’article 44, paragraphe 2, point 1 bis, du code de la TVA n’étaient pas remplies et que Infohos était redevable de la TVA pour tous les services fournis tant à ses membres qu’aux non-membres.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Infohos a interjeté appel de ce jugement devant le hof van beroep te Gent (cour d’appel de Gand, Belgique).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Par un arrêt du 21 septembre 2010, cette juridiction a jugé que Infohos ne pouvait pas se prévaloir de l’exemption prévue à l’article 44, paragraphe 2, point 1 bis, du code de la TVA, sous peine de fausser la concurrence. Par ailleurs, elle a jugé que Infohos, en qualité d’assujettie mixte au sens de l’article 46 du code de la TVA, était fondée à introduire une action en restitution contre l’État belge.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">L’administration fiscale s’est alors pourvue en cassation devant le Hof van Cassatie (Cour de cassation, Belgique).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Par un arrêt du 31 octobre 2014, cette juridiction a annulé l’arrêt du hof van beroep te Gent (cour d’appel de Gand) au motif qu’il était contradictoire de juger, d’une part, que Infohos ne pouvait pas se prévaloir de l’article 44, paragraphe 2, point 1 bis, du code de la TVA et qu’elle devait donc être considérée comme ayant le statut d’assujetti total et, d’autre part, qu’elle pouvait se prévaloir à juste titre du statut d’assujetti mixte.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Le Hof van Cassatie (Cour de cassation) a renvoyé l’affaire devant le hof van beroep te Antwerpen (cour d’appel d’Anvers, Belgique).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Par un arrêt du 20 septembre 2016, cette dernière juridiction a jugé que Infohos ne pouvait pas se prévaloir de l’exemption prévue à l’article 44, paragraphe 2, point 1 bis, du code de la TVA dès lors qu’elle fournissait aussi des prestations de services à des non-membres.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Infohos a formé un pourvoi en cassation contre cet arrêt devant le Hof van Cassatie (Cour de cassation) au motif, notamment, que la condition d’application de l’exemption de TVA, qui figurait à l’article 2, paragraphe 1, de l’arrêté royal n<span class="super">o</span> 43, selon laquelle le groupement autonome de personnes pouvait fournir des services exclusivement à ses membres, ne figurait pas à l’article 13, A, paragraphe 1, sous f), de la sixième directive et était donc contraire à cette disposition.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi rappelle que le hof van beroep te Antwerpen (cour d’appel d’Anvers) a jugé qu’il résultait d’une stricte interprétation de l’article 13, A, paragraphe 1, sous f), de la sixième directive, et en particulier de la condition prévue à cette disposition selon laquelle les groupements autonomes de personnes se bornent à réclamer à leurs membres le remboursement exact de la part leur incombant dans les dépenses engagées en commun, qu’elle excluait que les prestations de services soient également fournies par ces groupements à des personnes qui n’en étaient pas membres. Le hof van beroep te Antwerpen (cour d’appel d’Anvers) a également considéré que, étant donné qu’elle ne se limitait pas à fournir des services à ses membres, mais qu’elle procédait aussi à la commercialisation des logiciels d’application auprès de tiers, Infohos ne pouvait pas se prévaloir de l’exemption pour l’ensemble de ses activités.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">La contestation ainsi soulevée ne peut, selon la juridiction de renvoi, être résolue que par une interprétation de l’article 13, A, paragraphe 1, sous f), de la sixième directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, le Hof van Cassatie (Cour de cassation) a décidé de surseoir à statuer et de poser à la Cour la question préjudicielle suivante :</p>
+<p class="normal">« L’article 13, A, paragraphe 1, sous f), de la [sixième directive], devenu article 132, paragraphe 1, sous f), de la [directive 2006/112], doit-il être interprété en ce sens qu’il autorise les États membres à assortir l’exonération qu’il prévoit d’une condition d’exclusivité qui a pour effet qu’un groupement autonome qui fournit aussi des services à des non-membres est intégralement assujetti à la TVA, même pour les services qu’il effectue pour ses membres ? »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur la question préjudicielle</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa question, la juridiction de renvoi demande, en substance, si l’article 13, A, paragraphe 1, sous f), de la sixième directive doit être interprété en ce sens qu’il s’oppose à une disposition nationale, telle que celle en cause au principal, qui soumet l’octroi de l’exonération de la TVA à la condition que les groupements autonomes de personnes fournissent des services exclusivement à leurs membres, ce qui a pour effet que de tels groupements qui fournissent également des services à des non-membres sont intégralement assujettis à la TVA, y compris pour les services qu’ils fournissent à leurs membres.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Pour répondre à cette question, il convient de rappeler que, en vertu de l’article 13, A, paragraphe 1, sous f), de la sixième directive, les États membres exonèrent, dans les conditions qu’ils fixent en vue d’assurer l’application correcte et simple des exonérations prévues à cette disposition et de prévenir toute fraude, évasion et abus éventuels, les prestations de services effectuées par des groupements autonomes de personnes exerçant une activité exonérée ou pour laquelle elles n’ont pas la qualité d’assujetti, en vue de rendre à leurs membres les services directement nécessaires à l’exercice de cette activité, lorsque ces groupements se bornent à réclamer à leurs membres le remboursement exact de la part leur incombant dans les dépenses engagées en commun, à condition que cette exonération ne soit pas susceptible de provoquer des distorsions de concurrence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il ressort des neuvième et onzième considérants de la sixième directive que celle-ci vise à harmoniser la base d’imposition de la TVA et que les exonérations de cette taxe constituent des notions autonomes du droit de l’Union qui, comme la Cour l’a déjà jugé, doivent être replacées dans le contexte général du système commun de la TVA instauré par ladite directive (arrêt du 11 décembre 2008, Stichting Centraal Begeleidingsorgaan voor de Intercollegiale Toetsing, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑407/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2008:713</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point29" hreflang="fr" target="CourtTab" type="application/xhtml+xml">29</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Par ailleurs, il est de jurisprudence constante que les termes employés pour désigner les exonérations visées à l’article 13 de la sixième directive sont d’interprétation stricte étant donné que ces exonérations constituent des dérogations au principe général selon lequel la TVA est perçue sur chaque prestation de services effectuée à titre onéreux par un assujetti. Toutefois, l’interprétation de ces termes doit être conforme aux objectifs poursuivis par lesdites exonérations et respecter les exigences du principe de neutralité fiscale inhérent au système commun de TVA. Ainsi, cette règle d’interprétation stricte ne signifie pas que les termes utilisés pour définir les exonérations visées audit article 13 doivent être interprétés d’une manière qui priverait celles-ci de leurs effets. La jurisprudence de la Cour n’a pas pour objectif d’imposer une interprétation qui rendrait les exonérations visées quasi inapplicables dans la pratique (arrêt du 11 décembre 2008, Stichting Centraal Begeleidingsorgaan voor de Intercollegiale Toetsing, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑407/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2008:713</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="fr" target="CourtTab" type="application/xhtml+xml">30</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant du libellé de l’article 13, A, paragraphe 1, sous f), de la sixième directive, ainsi qu’il a été rappelé au point 28 du présent arrêt, l’exonération prévue à cette disposition vise les prestations de services effectuées par les groupements autonomes de personnes au profit de leurs membres. En revanche, il ne ressort pas de ce libellé que les prestations de services que de tels groupements fournissent à leurs membres sont exclues de ladite exonération, lorsque ces groupements fournissent, par ailleurs, également des services à des non-membres.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, bien que, selon cette disposition, ladite exonération ne puisse être accordée que pour les prestations de services fournies par les groupements autonomes de personnes à leurs membres, il ne saurait en être déduit de son libellé qu’elle ne pourrait être appliquée que si ces groupements sont tenus de fournir des services à leurs seuls membres.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Conformément à une jurisprudence constante, il y a lieu, pour l’interprétation d’une disposition du droit de l’Union, de tenir compte non seulement des termes de celle-ci, mais également de son contexte et des objectifs poursuivis par la réglementation dont elle fait partie (arrêt du 3 octobre 2019, Wasserleitungsverband Nördliches Burgenland e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A824&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑197/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A824&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2019:824</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A824&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point48" hreflang="fr" target="CourtTab" type="application/xhtml+xml">48</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant du contexte dans lequel s’inscrit l’article 13, A, paragraphe 1, sous f), de la sixième directive, il convient de souligner que l’article 13, A, de cette directive est intitulé « Exonérations en faveur de certaines activités d’intérêt général » et figure sous le titre X de cette directive consacré aux exonérations. Cet intitulé indique que l’exonération prévue à l’article 13, A, paragraphe 1, sous f), de ladite directive ne vise que les groupements autonomes de personnes dont les membres exercent des activités d’intérêt général (voir, en ce sens, arrêt du 21 septembre 2017, Commission/Allemagne, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A721&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑616/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A721&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:721</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A721&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point44" hreflang="fr" target="CourtTab" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Or, ce contexte ne laisse pas apparaître d’éléments dont il résulte que ladite exonération serait cantonnée aux seuls groupements autonomes de personnes fournissant des prestations de services au profit exclusif de leurs membres.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">En ce qui concerne la finalité de l’article 13, A, paragraphe 1, sous f), de la sixième directive, il convient de rappeler qu’il ressort de la jurisprudence de la Cour que cette disposition vise à instituer une exonération de TVA pour éviter que la personne qui offre certains services soit soumise au paiement de ladite taxe alors qu’elle a été amenée à collaborer avec d’autres professionnels à travers une structure commune prenant en charge des activités nécessaires à l’accomplissement desdits services (arrêt du 11 décembre 2008, Stichting Centraal Begeleidingsorgaan voor de Intercollegiale Toetsing, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑407/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2008:713</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="fr" target="CourtTab" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, il y a lieu de considérer que les dispositions de l’article 13, A, paragraphe 1, de la sixième directive ont, dans leur ensemble, pour finalité d’exonérer de la TVA certaines activités d’intérêt général, en vue de faciliter l’accès à certaines prestations ainsi que la fourniture de certains biens, en évitant les surcoûts qui découleraient de leur assujettissement à la TVA (voir, en ce sens, arrêts du 5 octobre 2016, TMD, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A738&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑412/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A738&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2016:738</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A738&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="fr" target="CourtTab" type="application/xhtml+xml">30</a>, et du 21 septembre 2017, Aviva, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A718&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑605/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A718&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:718</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A718&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point28" hreflang="fr" target="CourtTab" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Selon la disposition nationale en cause au principal, l’exonération de la TVA prévue à l’article 13, A, paragraphe 1, sous f), de la sixième directive est systématiquement refusée pour les prestations de services fournies à leurs membres par les groupements autonomes de personnes lorsque ceux-ci fournissent également des prestations de services à des non-membres, l’ensemble des prestations étant soumis à la TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Toutefois, si un groupement autonome de personnes, tel qu’Infohos, fournit également des prestations de services à des non-membres, il n’en reste pas moins que les prestations de services qu’elle fournit à ses membres contribuent directement à l’exercice des activités d’intérêt général visées à ladite disposition. Or, les prestations de services fournies par un groupement autonome de personnes relèvent de l’exonération prévue à l’article 13, A, paragraphe 1, sous f), de la sixième directive, lorsqu’elles contribuent directement à l’exercice d’activités d’intérêt général visées à l’article 13, A, paragraphe 1, de la sixième directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il y a lieu de constater que le fait de refuser à un groupement autonome de personnes, qui remplit l’ensemble des conditions prévues à l’article 13, A, paragraphe 1, sous f), de la sixième directive, le bénéfice de l’exonération visée à cette disposition au seul motif qu’il fournit également des prestations de services à des non-membres aurait pour effet de limiter le champ d’application de ladite disposition, en excluant du bénéfice de l’exonération de TVA des prestations fournies par ce groupement à ses membres, une telle limitation du champ d’application n’étant pas confirmée par la finalité de cette directive telle que rappelée au point 36 du présent arrêt (voir, par analogie, arrêt du 11 décembre 2008, Stichting Centraal Begeleidingsorgaan voor de Intercollegiale Toetsing, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑407/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2008:713</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point36" hreflang="fr" target="CourtTab" type="application/xhtml+xml">36</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="fr" target="CourtTab" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, une application de cette disposition aux prestations de services fournies par un groupement autonome de personnes au profit directement de ses propres membres, qui doivent exercer une activité exonérée ou pour laquelle ils n’ont pas la qualité d’assujetti, est conforme à l’objectif de l’article 13, A, paragraphe 1, sous f), de la sixième directive, cet objectif n’empêchant pas à un tel groupement de fournir des prestations de services à des non-membres.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Cela étant, sont exonérées, conformément à l’article 13, A, paragraphe 1, sous f), de la sixième directive, uniquement les prestations de services fournies aux membres du groupement autonome de personnes, dès lors que ces prestations demeurent fournies dans le cadre des objectifs pour lesquels un tel groupement a été institué et sont donc offertes conformément à l’objet de celui-ci (voir, en ce sens, arrêt du 11 décembre 2008, Stichting Centraal Begeleidingsorgaan voor de Intercollegiale Toetsing, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑407/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2008:713</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A713&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point39" hreflang="fr" target="CourtTab" type="application/xhtml+xml">39</a>). À cet égard, il appartient à la juridiction de renvoi de vérifier si les prestations de services fournies par Infohos satisfont à l’ensemble des conditions prévues à l’article 13, A, paragraphe 1, sous f), de la sixième directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">En revanche, les prestations de services fournies aux non-membres ne peuvent pas bénéficier de cette exonération et restent soumises à la TVA. En effet, dès lors que de telles prestations de services n’entrent pas dans le champ d’application de l’exonération visée à l’article 13, A, paragraphe 1, sous f), de la sixième directive, l’article 2, paragraphe 1, de cette directive exige que lesdites prestations de services, effectuées à titre onéreux sur le territoire d’un État membre par un assujetti agissant en tant que tel, soient soumises à la TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, au regard du libellé et de la finalité de l’article 13, A, paragraphe 1, sous f), de la sixième directive, l’exonération de la TVA prévue à cette disposition n’est pas soumise à la condition que les prestations de services concernées soient offertes exclusivement aux membres du groupement autonome de personnes concerné.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Le gouvernement belge fait valoir que l’article 13, A, paragraphe 1, sous f), de la sixième directive ne s’oppose pas à la réglementation nationale en cause au principal dans la mesure où cette réglementation vise à prévenir toute distorsion de concurrence conformément à la condition prévue à cette même disposition.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Il convient de rappeler que, aux termes de l’article 13, A, paragraphe 1, sous f), de la sixième directive, l’exonération prévue à cette disposition s’applique à condition qu’elle ne soit pas susceptible de provoquer des distorsions de concurrence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, la Cour a déjà constaté que c’est l’exonération de la TVA en soi qui ne doit pas être susceptible de provoquer des distorsions de concurrence et ceci sur un marché dans lequel la concurrence sera en tout état de cause affectée en raison de la présence d’un acteur qui rendra des services à ses membres et à qui la recherche des bénéfices est interdite. C’est donc le fait que les prestations de services effectuées par un groupement sont exonérées, et non le fait que ce groupement satisfait aux autres conditions de la disposition en cause, qui doit être susceptible de provoquer des distorsions de concurrence pour que cette exonération puisse être refusée (arrêt du 20 novembre 2003, Taksatorringen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A621&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑8/01</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A621&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2003:621</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A621&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point58" hreflang="fr" target="CourtTab" type="application/xhtml+xml">58</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, la Cour a jugé que l’octroi de l’exonération de la TVA doit être refusé s’il existe un risque réel que l’exonération puisse à elle seule, dans l’immédiat ou dans le futur, provoquer des distorsions de concurrence (arrêt du 20 novembre 2003, Taksatorringen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A621&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑8/01</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A621&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2003:621</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A621&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point64" hreflang="fr" target="CourtTab" type="application/xhtml+xml">64</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Aux fins de déterminer si l’application, à une activité donnée, de l’exonération visée à l’article 13, A, paragraphe 1, sous f), de la sixième directive est susceptible de provoquer des distorsions de concurrence, il serait certes loisible au législateur national de prévoir des règles aisément gérées et contrôlées par les autorités compétentes (voir, en ce sens, arrêt du 21 septembre 2017, Commission/Allemagne, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A721&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑616/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A721&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:721</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A721&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point65" hreflang="fr" target="CourtTab" type="application/xhtml+xml">65</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Toutefois, la condition relative à l’absence de distorsion de concurrence, visée à cette disposition, ne permet pas de limiter, de manière générale, le champ d’application de l’exonération qui y est prévue (voir, en ce sens, arrêt du 21 septembre 2017, Commission/Allemagne, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A721&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑616/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A721&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:721</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A721&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point67" hreflang="fr" target="CourtTab" type="application/xhtml+xml">67</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Or, tel est précisément l’effet de la disposition nationale en cause au principal, qui établit une présomption générale quant à l’existence d’une distorsion de concurrence et limite, de manière générale, le champ d’application de l’exonération prévue à l’article 13, A, paragraphe 1, sous f), de la sixième directive, en excluant du bénéfice de l’exonération de la TVA des prestations fournies par les groupements autonomes de personnes à leurs membres lorsqu’ils fournissent également des services à des non-membres, alors que, ainsi qu’il ressort du point 43 du présent arrêt, ces derniers services n’entrent pas dans le champ d’application de cette exonération et doivent ainsi être soumis à la TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Par ailleurs, le gouvernement belge soutient que la disposition nationale en cause au principal permet de prévenir toute fraude, toute évasion et tous abus éventuels.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il suffit de rappeler que si, en vertu de la phrase introductive de l’article 13, A, paragraphe 1, de la sixième directive, les États membres fixent les conditions des exonérations afin d’en assurer l’application correcte et simple et de prévenir toute fraude, toute évasion et tous abus éventuels, ces conditions ne sauraient porter sur la définition du contenu des exonérations prévues (arrêt du 15 novembre 2012, Zimmermann, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A716&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑174/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A716&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2012:716</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A716&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point39" hreflang="fr" target="CourtTab" type="application/xhtml+xml">39</a>). Or, tel est précisément l’effet des conditions posées par la réglementation nationale en cause au principal qui instaurent, en ce qui concerne les groupements autonomes de personnes qui fournissent des services également à des non-membres, une présomption générale et irréfragable de fraude, d’abus ou d’évasion fiscale, sans toutefois identifier précisément le type d’abus, de fraude ou d’évasion fiscale que cette réglementation vise à prévenir.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard à l’ensemble des considérations qui précèdent, il convient de répondre à la question posée que l’article 13, A, paragraphe 1, sous f), de la sixième directive doit être interprété en ce sens qu’il s’oppose à une disposition nationale, telle que celle en cause au principal, qui soumet l’octroi de l’exonération de la TVA à la condition que les groupements autonomes de personnes fournissent des services exclusivement à leurs membres, ce qui a pour effet que de tels groupements qui fournissent également des services à des non-membres sont intégralement assujettis à la TVA, y compris pour les services qu’ils fournissent à leurs membres.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (deuxième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">L’article 13, A, paragraphe 1, sous f), de la sixième directive 77/388/CEE du Conseil, du 17 mai 1977, en matière d’harmonisation des législations des États membres relatives aux taxes sur le chiffre d’affaires – Système commun de taxe sur la valeur ajoutée : assiette uniforme, doit être interprété en ce sens qu’il s’oppose à une disposition nationale, telle que celle en cause au principal, qui soumet l’octroi de l’exonération de la taxe sur la valeur ajoutée (TVA) à la condition que les groupements autonomes de personnes fournissent des services exclusivement à leurs membres, ce qui a pour effet que de tels groupements qui fournissent également des services à des non-membres sont intégralement assujettis à la TVA, y compris pour les services qu’ils fournissent à leurs membres.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0400_FR_01-E0001" id="t-ECR_62018CJ0400_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : le néerlandais.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

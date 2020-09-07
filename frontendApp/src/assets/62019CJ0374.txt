@@ -1,0 +1,592 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Eighth Chamber)</p>
+<p class="coj-sum-title-1">9 July 2020 (<span class="coj-note">
+<a href="#t-ECR_62019CJ0374_EN_01-E0001" id="c-ECR_62019CJ0374_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Value added tax (VAT) — Directive 2006/112/EC — Adjustment of deductions — Variation in the deduction entitlement — Capital goods used for both taxed and exempt transactions — Cessation of the activity giving rise to the right of deduction — Remaining use solely for exempt transactions)</p>
+<p class="coj-normal">In Case C‑374/19,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Bundesfinanzhof (Federal Finance Court, Germany), made by decision of 27 March 2019, received at the Court on 13 May 2019, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">HF</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Finanzamt Bad Neuenahr-Ahrweiler,</span>
+</p>
+<p class="coj-normal">THE COURT (Eighth Chamber),</p>
+<p class="coj-normal">composed of L.S. Rossi, President of the Chamber, A. Prechal (Rapporteur), President of the Third Chamber, and N. Wahl, Judge,</p>
+<p class="coj-normal">Advocate General: G. Hogan,</p>
+<p class="coj-normal">Registrar: A. Calot Escobar,</p>
+<p class="coj-normal">having regard to the written procedure,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">HF, by M.S. Thum, Steuerberater,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the German Government, by J. Möller and S. Eisenberg, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by L. Lozano Palacios, J. Jokubauskaitė and R. Pethke, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Articles 185 and 187 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 347, p. 1</a>, ‘the VAT Directive’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between HF and Finanzamt Bad Neuenahr-Ahrweiler (Bad Neuenahr-Ahrweiler Tax Office, Germany, ‘the Tax Office’) concerning the adjustment of deductions of value added tax (VAT) which HF paid on the construction of a cafeteria annexed to the retirement home which it operates as an activity exempt from VAT.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">EU law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 167 of the VAT Directive provides that the right of deduction arises at the time the deductible tax becomes chargeable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 168 of that directive states:</p>
+<p class="coj-normal">‘In so far as the goods and services are used for the purposes of the taxed transactions of a taxable person, the taxable person shall be entitled, in the Member State in which he carries out these transactions, to deduct the following from the VAT which he is liable to pay:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the VAT due or paid in that Member State in respect of supplies to him of goods or services, carried out or to be carried out by another taxable person;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 184 of the directive reads as follows:</p>
+<p class="coj-normal">‘The initial deduction shall be adjusted where it is higher or lower than that to which the taxable person was entitled.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 185 of the directive:</p>
+<p class="coj-normal">‘1.   Adjustment shall, in particular, be made where, after the VAT return is made, some change occurs in the factors used to determine the amount to be deducted, for example where purchases are cancelled or price reductions are obtained.</p>
+<p class="coj-normal">2.   By way of derogation from paragraph 1, no adjustment shall be made in the case of transactions remaining totally or partially unpaid or in the case of destruction, loss or theft of property duly proved or confirmed, or in the case of goods reserved for the purpose of making gifts of small value or of giving samples, as referred to in Article 16.</p>
+<p class="coj-normal">However, in the case of transactions remaining totally or partially unpaid or in the case of theft, Member States may require adjustment to be made.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 187 of the VAT Directive provides:</p>
+<p class="coj-normal">‘1.   In the case of capital goods, adjustment shall be spread over five years including that in which the goods were acquired or manufactured.</p>
+<p class="coj-normal">Member States may, however, base the adjustment on a period of five full years starting from the time at which the goods are first used.</p>
+<p class="coj-normal">In the case of immovable property, the period used as a basis for the calculation of the adjustment may be extended to a maximum of 20 years.</p>
+<p class="coj-normal">2.   The annual adjustment shall be made only in respect of one fifth of the VAT charged on the capital goods, or, if the adjustment period has been extended, in respect of the corresponding fraction thereof.</p>
+<p class="coj-normal">The adjustment referred to in the first subparagraph shall be made on the basis of the variations in the deduction entitlement in subsequent years in relation to that for the year in which the goods were acquired, manufactured or, where applicable, used for the first time.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">German law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Paragraph 15a(1) of the Umsatzsteuergesetz (Law on turnover tax), in the version applicable to the main proceedings (‘the UStG’), provides:</p>
+<p class="coj-normal">‘If, in the case of an asset that is not used only once for executing transactions, the circumstances valid for the original deduction of input tax should change within a period of five years from the date of its first use, an offset is to be made for each calendar year of the change by adjusting the deduction of the input tax amounts attributable to the acquisition or production costs. In the case of immovable property, including the essential parts thereof, entitlements governed by provisions of civil law relating to immovable property and buildings on a third party’s land, a period of ten years shall be substituted for the period of five years.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The applicant in the main proceedings is the parent company of a limited liability company which operates a retirement home exempt from VAT. In 2003, the latter company constructed a cafeteria in an annex to the retirement home, which was accessible to visitors through an outside entrance and to residents of the retirement home via the home’s dining room.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The applicant in the main proceedings initially stated that it would use the cafeteria in question exclusively for taxable transactions since it was intended for use by external visitors and not by residents of the retirement home, who were supposed to remain in the home’s dining room. Following an audit carried out in 2006, the Tax Office agreed, in essence, with the applicant’s statement, but nevertheless took the view that it was unlikely that absolutely no residents at all visited and used the cafeteria with their visitors. The parties to the main proceedings therefore agreed to assume tax-exempt use of the cafeteria at 10%. That led to an adjustment under Paragraph 15a of the UStG for the years from 2003 onwards.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Following a second audit, the Tax Office found that, from 2009 to 2012, the limited liability company at issue in the main proceedings no longer carried out sales transactions in the cafeteria and that in February 2013 the business had moreover been removed from the commercial register. That finding led the Tax Office to make a further adjustment under Paragraph 15a of the UStG for those years since the cafeteria was no longer used at all for transactions giving rise to the right to deduct input VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Following an unsuccessful complaint against the Tax Office’s decision to make a second adjustment, the applicant in the main proceedings brought an action before the Finanzgericht (Finance Court, Germany), which was dismissed. In its judgment, the Finanzgericht held that the intended use of the cafeteria for taxable catering transactions had ceased. As the premises were no longer being used by external visitors, the cafeteria’s use ratio had necessarily changed in that it was now used exclusively by the residents of the retirement home, with the result that there was 100% tax-exempt use of the cafeteria.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The applicant in the main proceedings has brought an appeal on a point of law against that judgment before the referring court, claiming that, although the cafeteria, which forms part of the company’s assets without the possibility of private use, is no longer used for taxable purposes, there has been no change in the use of the cafeteria capable of leading to an adjustment under Paragraph 15a of the UStG. According to the applicant in the main proceedings, that the cafeteria is not being used should be understood as the result of a bad investment. The fact that the Tax Office refused a partial write-down of the cafeteria shows that there was still an intention to use it from 2009 to 2012. Access to the cafeteria was blocked solely for reasons of safety. There has been no increase in use of the cafeteria by the residents of the retirement home.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court states, relying on, inter alia, the judgment of 28 February 2018, Imofloresmira — Investimentos Imobiliários (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑672/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:134</a>), that the right to deduct input tax is retained even where the taxable person has been unable, for reasons beyond his control, to use the goods or services giving rise to the deduction in the context of taxable transactions. Non-use of goods and services for reasons beyond the trader’s control may be equated to the non-use of goods and services in the present case despite an intention to use them for taxable purposes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court points out that the reason the cafeteria ceased operating was the lack of economic viability and therefore the lack of success of the applicant in the main proceedings, which does not in itself constitute a change in the circumstances giving rise to the deduction entitlement for the purpose of Article 185(1) of the VAT Directive, since the tax-exempt use of the cafeteria by the residents of the retirement home remained unchanged. Taxable use of the cafeteria ceased fully and that earlier use was not replaced by increased use of the cafeteria by the residents of the retirement home. The referring court considers that it may constitute an error of law to interpret non-use of the cafeteria as meaning that it is now used exclusively for tax-exempt purposes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the Bundesfinanzhof (Federal Finance Court, Germany), decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:</p>
+<p class="coj-normal">‘Does a taxable person who produces an investment object with regard to taxable use with entitlement to input tax deduction (in this case: construction of a building for the operation of a cafeteria) have to adjust the input tax deduction under Article 185(1) and Article 187 of the VAT Directive if he ceases the sales activity justifying the input tax deduction (in this case: operation of the cafeteria) and the investment object now remains unused in the scope of the previously taxable use?’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its question, the referring court seeks to ascertain, in essence, whether Articles 184, 185 and 187 of the VAT Directive are to be interpreted as precluding national legislation pursuant to which a taxable person who has acquired the right to deduct, on a pro-rata basis, VAT related to the construction of a cafeteria, which is annexed to the retirement home operated by him as an activity exempt from VAT and which is intended to be used for both taxed and exempt transactions, is required to adjust the initial VAT deduction where he has ceased all taxed transactions in that cafeteria’s premises.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be borne in mind that the rules governing deduction are intended to relieve the taxable person entirely of the burden of the VAT payable or paid in the course of all his economic activities. The common system of VAT therefore ensures neutrality of taxation of all economic activities, whatever their purpose or results, provided that those activities are themselves, in principle, subject to VAT (judgment of 25 July 2018, Gmina Ryjewo, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A595&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑140/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A595" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:595</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A595" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">For an interested party to be entitled to the right of deduction, first, he must be a ‘taxable person’ within the meaning of the VAT Directive and, secondly, the goods and services in question must be used for the purposes of his taxed transactions; however, the use to which the goods or services are put, or are intended to be put, determines only the extent of the initial deduction to which the taxable person is entitled and the extent of any adjustments in the course of the following periods, but does not affect whether the right of deduction arises (see, to that effect, judgment of 28 February 2018, Imofloresmira — Investimentos Imobiliários, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑672/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:134</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The adjustment mechanism provided for in Articles 184 to 187 of the VAT Directive is an integral part of the VAT deduction scheme established by that directive. It is intended to enhance the precision of deductions so as to ensure the neutrality of VAT, so that transactions effected at an earlier stage continue to give rise to the right of deduction only to the extent that they are used to make supplies subject to VAT. That mechanism thus aims to establish a close and direct relationship between the right to deduct input VAT and the use of the goods or services concerned for taxed output transactions (see, to that effect, judgment of 27 March 2019, Mydibel, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A254&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑201/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A254" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:254</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A254" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under the common system of VAT, only the input taxes on goods or services used by a taxable person for his taxed transactions may be deducted. The deduction of input taxes is linked to the collection of output taxes. Where goods or services acquired by a taxable person are used for the purposes of transactions that are exempt or do not fall within the scope of VAT, no output tax can be collected or input tax deducted (see, to that effect, judgment of 11 April 2018, SEB bankas, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A228&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑532/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A228" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:228</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A228" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, it is not disputed that the applicant in the main proceedings acquired the right to deduct the VAT it paid on the construction of the cafeteria. That right was first adjusted in 2006 when the Tax Office fixed the extent of the deduction entitlement at 90% of the VAT related to the construction of the cafeteria on the basis of its assessment of tax-exempt use of the cafeteria at 10%, which the applicant in the main proceedings did not dispute.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the adjustment for the years 2009 to 2012, which is at issue in the main proceedings, it is apparent from the file before the Court that the Tax Office made that adjustment on the basis of its finding that, during that period, no further taxed transactions were carried out in the cafeteria, with the result that the cafeteria was used from then on only for exempt transactions. According to the Tax Office, that fact constitutes a change for the purpose of Article 185 of the VAT Directive requiring an adjustment of the deduction for those years.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, the referring court has doubts as to whether there is such a change in the present case, since it takes the view that the cessation of merely the taxable activity was due to the fact that the taxable business of the cafeteria turned out to be not economically viable and that the cessation did not, in this instance, lead to any change or increase in tax-exempt activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be noted, first, that it follows from the case-law cited in paragraph 20 above that, in principle, the right of deduction can be exercised only in so far as there is a close and direct relationship between the right to deduct input VAT and the use of the goods or services concerned for taxed output transactions. Therefore, as regards capital goods such as the cafeteria at issue in the main proceedings, if it is established during the adjustment period fixed pursuant to Article 187(1) of the VAT Directive that that relationship, although it existed at an earlier stage, has now disappeared, there is, in principle, a change for the purpose of Article 185 of the directive, making an adjustment of the deduction mandatory.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Second, according to the Court’s settled case-law, the right of deduction is retained in principle even if subsequently, by reason of circumstances beyond his control, the taxable person does not make use of the goods and services which gave rise to a deduction in the context of taxed transactions (judgment of 28 February 2018, Imofloresmira — Investimentos Imobiliários, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑672/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:134</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a> and the case-law cited). In that regard, the Court has stated that, in such circumstances, to take the view that it is sufficient, in order to establish the existence of a change for the purposes of Article 185 of the VAT Directive, for a property to remain empty after the termination of the lease to which it was subject, due to circumstances beyond the owner’s control, even where it has been established that the owner still intends to use it for a taxed activity and undertakes the necessary steps to that end, would be tantamount to restricting the right of deduction through the provisions applicable to adjustments (judgment of 28 February 2018, Imofloresmira — Investimentos Imobiliários, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑672/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:134</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, in the present case, the situation at issue in the main proceedings, as described by the referring court, differs substantially from those which gave rise to the above case-law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be noted that that case-law concerns situations in which, while the expenditure in question had been incurred for the purpose of carrying out taxed transactions, those transactions did not in fact materialise, with the result that no transactions were effected. In those circumstances, the right to deduct the VAT paid on that expenditure is deemed to maintain a close and direct relationship with the carrying out of the proposed taxed transactions, in accordance with the case-law recalled in paragraph 20 above.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By contrast, in the situation at issue in the main proceedings, it is apparent from the information provided by the referring court that during the period from 2003 to 2008 the cafeteria was in fact used for both taxed and exempt transactions, so that, at least during that period, and on the pro-rata basis of 90% determined by the Tax Office, there was a close and direct relationship between the right to deduct VAT paid on expenditure incurred for the construction of the cafeteria and actual taxed transactions for which the cafeteria was used.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, it is also apparent from the information provided that, during a further period from 2009 to 2012, which alone is at issue in the main proceedings, taxed transactions ceased, for whatever reason, while exempt transactions continued to be carried out. That necessarily means that, in contrast to the facts of the case which gave rise to the judgment of 28 February 2018, Imofloresmira — Investimentos Imobiliários (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑672/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A134" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:134</a>), the cafeteria’s premises, which are an integral part of a retirement home operated as an activity exempt from VAT, did not remain empty, but were used from then on exclusively for exempt transactions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It would be otherwise only if, as the German Government and the European Commission rightly submit, the applicant in the main proceedings had, during that period, found other uses for the cafeteria’s premises entailing transactions which gave rise to the right to deduct VAT. While that does not appear from the file before the Court to be the case, it is for the referring court, if appropriate, to carry out the necessary checks in that regard.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, in accordance with the case-law referred to in paragraphs 20 and 21 above, in so far as the goods or services acquired by the applicant in the main proceedings for the purpose of constructing the cafeteria were used, from 2009 to 2012, exclusively for the purpose of its exempt transactions — which is nevertheless a matter for the referring court to determine — the transactions carried out at the earlier stage are no longer used to make taxed supplies and are therefore subject to the deduction adjustment mechanism. In such circumstances, the close and direct relationship between the right to deduct input VAT paid on the expenditure incurred and taxed activities subsequently carried out by the taxable person, even though it existed at an earlier stage, would now have been broken.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that, in those circumstances, as pointed out in paragraph 25 above, there would in principle be a change for the purpose of Article 185 of the VAT Directive making it necessary to adjust the deduction. The need to do so is not called into question by the sole fact that it results from circumstances beyond a taxable person’s control (see, to that effect, judgment of 29 April 2004, Gemeente Leusden and Holin Groep, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A263&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑487/01 and C‑7/02</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A263" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2004:263</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A263" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">55</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Lastly, it should be stated that the principle of fiscal neutrality does not preclude such a conclusion. The situation of an undertaking which makes investments for the purpose of an economic activity giving rise to both taxed and exempt transactions and which continues to carry out exempt transactions is different from that of an undertaking which makes investments for the purpose of an economic activity giving rise to only taxed transactions without that activity ultimately resulting in such transactions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing, the answer to the question referred is that Articles 184, 185 and 187 of the VAT Directive must be interpreted as not precluding national legislation pursuant to which a taxable person who has acquired the right to deduct, on a pro-rata basis, VAT related to the construction of a cafeteria, which is annexed to the retirement home operated by him as an activity exempt from VAT and which is intended to be used for both taxed and exempt transactions, is required to adjust the initial VAT deduction where he has ceased all taxed transactions in that cafeteria’s premises, if he has continued to carry out exempt transactions in those premises, thus using them henceforth only for those transactions.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Eighth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="coj-normal">
+<span class="coj-bold">Articles 184, 185 and 187 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as not precluding national legislation pursuant to which a taxable person who has acquired the right to deduct, on a pro-rata basis, value added tax (VAT) related to the construction of a cafeteria, which is annexed to the retirement home operated by him as an activity exempt from VAT and which is intended to be used for both taxed and exempt transactions, is required to adjust the initial VAT deduction where he has ceased all taxed transactions in that cafeteria’s premises, if he has continued to carry out exempt transactions in those premises, thus using them henceforth only for those transactions.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62019CJ0374_EN_01-E0001" id="t-ECR_62019CJ0374_EN_01-E0001">*1</a>
+</span>)	Language of the case: German.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

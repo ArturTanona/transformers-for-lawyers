@@ -1,0 +1,1698 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="sum-title-1">7 November 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0105_EN_01-E0001" id="c-ECR_62018CJ0105_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Polluter pays principle — Directive 2000/60/EC — Article 9(1) — Recovery of the costs of water services — Common rules for the internal market in electricity — Directive 2009/72/EC — Article 3(1) — Principle of non-discrimination — Article 107(1) TFEU — State aid — Tax on the use of inland waters for the production of electricity — Tax imposed only on hydroelectricity producers operating on inter-communities river basins)</p>
+<p class="normal">In Joined Cases C‑105/18 to C‑113/18,</p>
+<p class="normal">REQUESTS for a preliminary ruling under Article 267 TFEU from the Tribunal Supremo (Supreme Court, Spain), made by decisions of 27 June 2017 (C‑105/18, C‑106/18, C‑108/18, C‑110/18 and C‑111/18), of 18 July 2017 (C‑107/18 and C‑113/18), of 4 July 2018 (C‑109/18) and of 11 July 2017 (C‑112/18), received at the Court on 13 February 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Asociación Española de la Industria Eléctrica (UNESA)</span> (C‑105/18),</p>
+<p class="normal">
+<span class="bold">Energía de Galicia (Engasa) SA</span> (C‑106/18),</p>
+<p class="normal">
+<span class="bold">Duerocanto SL</span> (C‑107/18),</p>
+<p class="normal">
+<span class="bold">Corporación Acciona Hidráulica (Acciona) SLU</span> (C‑108/18),</p>
+<p class="normal">
+<span class="bold">Associació de Productors i Usuaris d’Energia Elèctrica</span> (C‑109/18),</p>
+<p class="normal">
+<span class="bold">José Manuel Burgos Pérez,</span>
+</p>
+<p class="normal">
+<span class="bold">María del Amor Guinea Bueno</span> (C‑110/18),</p>
+<p class="normal">
+<span class="bold">Endesa Generación SA</span> (C‑111/18),</p>
+<p class="normal">
+<span class="bold">Asociación de Empresas de Energías Renovables (APPA)</span> (C‑112/18),</p>
+<p class="normal">
+<span class="bold">Parc del Segre SA,</span>
+</p>
+<p class="normal">
+<span class="bold">Electra Irache SL,</span>
+</p>
+<p class="normal">
+<span class="bold">Genhidro Generación Hidroeléctrica SL,</span>
+</p>
+<p class="normal">
+<span class="bold">Hicenor SL,</span>
+</p>
+<p class="normal">
+<span class="bold">Hidroeléctrica Carrascosa SL,</span>
+</p>
+<p class="normal">
+<span class="bold">Hidroeléctrica del Carrión SL,</span>
+</p>
+<p class="normal">
+<span class="bold">Hidroeléctrica del Pisuerga SL,</span>
+</p>
+<p class="normal">
+<span class="bold">Hidroeléctrica Santa Marta SL,</span>
+</p>
+<p class="normal">
+<span class="bold">Hyanor SL,</span>
+</p>
+<p class="normal">
+<span class="bold">Promotora del Rec dels Quatre Pobles SA</span> (C‑113/18),</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Administración General del Estado,</span>
+</p>
+<p class="normal">interveners:</p>
+<p class="normal">
+<span class="bold">Iberdrola Generación SAU,</span>
+</p>
+<p class="normal">
+<span class="bold">Hidroeléctrica del Cantábrico SA,</span>
+</p>
+<p class="normal">THE COURT (Fifth Chamber),</p>
+<p class="normal">composed of E. Regan, President of the Chamber, I. Jarukaitis, E. Juhász, M. Ilešič and C. Lycourgos (Rapporteur), Judges,</p>
+<p class="normal">Advocate General: G. Hogan,</p>
+<p class="normal">Registrar: L. Carrasco Marco, administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 28 February 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Asociación Española de la Industria Eléctrica (UNESA), by J.C. García Muñoz, abogado, and M.C. Villaescusa Sanz, procuradora,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Energía de Galicia SA (Engasa), by F. Plasencia Sánchez and B. Ruiz Herrero, abogados, and P. Ortiz-Cañavate Levenfeld, procuradora,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Corporación Acciona Hidráulica (Acciona) SLU, by F. Plasencia Sánchez and A. Lázaro Gogorza, procuradora,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Associació de Productors i Usuaris d’Energia Elèctrica, by J.C. Hernanz Junquero, abogado, and D. Martín Cantón, procuradora,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Endesa Generación SA, by J.L. Buendía Sierra, F.J. López Villalta y Peinado, E. Gardeta González, J.M. Cobos Gómez and A. Lamadrid de Pablo, abogados,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Parc del Segre SA and Others, by P.M. Holtrop, abogado, and F.S. Juanas Blanco, procurador,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Iberdrola Generación SAU, by J. Ruiz Calzado and J. Domínguez Pérez, abogados, and J.L. Martín Jaureguibeitia, procurador,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Spanish Government, by A. Rubio González and V. Ester Casas, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the German Government, initally by T. Henze and J. Möller, and subsequently by J. Möller, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by O. Beynet, P. Němečková, G. Luengo and E. Manhaeve, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 8 May 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">These requests for a preliminary ruling concern the interpretation of Article 191(2) TFEU, Article 9(1) of Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2000:327:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2000 L 327, p. 1</a>), Article 3(1) of Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:211:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2009 L 211, p. 55</a>) and Article 107(1) TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The requests have been made in proceedings between, of the one part, Asociación Española de la Industria Eléctrica (UNESA) and several other Spanish hydroelectricity producers and, of the other, the Administración General del Estado (General administration of the State, Spain), concerning the lawfulness of the tax on the use of inland waters for the production of electricity.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">EU law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Directive 2000/60</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Recital 13 of Directive 2000/60 states:</p>
+<p class="normal">‘There are diverse conditions and needs in the Community which require different specific solutions. This diversity should be taken into account in the planning and execution of measures to ensure protection and sustainable use of water in the framework of the river basin. Decisions should be taken as close as possible to the locations where water is affected or used. Priority should be given to action within the responsibility of Member States through the drawing up of programmes of measures adjusted to regional and local conditions.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 4 of that directive provides:</p>
+<p class="normal">‘1.   In making operational the programmes of measures specified in the river basin management plans:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">for surface waters</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(i)</p>
+</td>
+<td valign="top">
+<p class="normal">Member States shall implement the necessary measures to prevent deterioration of the status of all bodies of surface water, subject to the application of paragraphs 6 and 7 and without prejudice to paragraph 8;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(ii)</p>
+</td>
+<td valign="top">
+<p class="normal">Member States shall protect, enhance and restore all bodies of surface water, subject to the application of subparagraph (iii) for artificial and heavily modified bodies of water, with the aim of achieving good surface water status at the latest 15 years after the date of entry into force of this Directive, in accordance with the provisions laid down in Annex V, subject to the application of extensions determined in accordance with paragraph 4 and to the application of paragraphs 5, 6 and 7 without prejudice to paragraph 8;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(iii)</p>
+</td>
+<td valign="top">
+<p class="normal">Member States shall protect and enhance all artificial and heavily modified bodies of water, with the aim of achieving good ecological potential and good surface water chemical status at the latest 15 years from the date of entry into force of this Directive, in accordance with the provisions laid down in Annex V, subject to the application of extensions determined in accordance with paragraph 4 and to the application of paragraphs 5, 6 and 7 without prejudice to paragraph 8;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(iv)</p>
+</td>
+<td valign="top">
+<p class="normal">Member States shall implement the necessary measures in accordance with Article 16(1) and (8), with the aim of progressively reducing pollution from priority substances and ceasing or phasing out emissions, discharges and losses of priority hazardous substances</p>
+</td>
+</tr>
+</table>
+<p class="normal">without prejudice to the relevant international agreements referred to in Article 1 for the parties concerned;</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 9 of that directive provides:</p>
+<p class="normal">‘1.   Member States shall take account of the principle of recovery of the costs of water services, including environmental and resource costs, having regard to the economic analysis conducted according to Annex III, and in accordance in particular with the polluter pays principle.</p>
+<p class="normal">Member States shall ensure by 2010:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">that water-pricing policies provide adequate incentives for users to use water resources efficiently, and thereby contribute to the environmental objectives of this Directive,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">an adequate contribution of the different water uses, disaggregated into at least industry, households and agriculture, to the recovery of the costs of water services, based on the economic analysis conducted according to Annex III and taking account of the polluter pays principle.</p>
+<p class="normal">Member States may in so doing have regard to the social, environmental and economic effects of the recovery as well as the geographic and climatic conditions of the region or regions affected.</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   Member States shall report in the river basin management plans on the planned steps towards implementing paragraph 1 which will contribute to achieving the environmental objectives of this Directive and on the contribution made by the various water uses to the recovery of the costs of water services.</p>
+<p class="normal">3.   Nothing in this Article shall prevent the funding of particular preventive or remedial measures in order to achieve the objectives of this Directive.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 11 of the same directive provides:</p>
+<p class="normal">‘1.   Each Member State shall ensure the establishment for each river basin district, or for the part of an international river basin district within its territory, of a programme of measures, taking account of the results of the analyses required under Article 5, in order to achieve the objectives established under Article 4. Such programmes of measures may make reference to measures following from legislation adopted at national level and covering the whole of the territory of a Member State. Where appropriate, a Member State may adopt measures applicable to all river basin districts and/or the portions of international river basin districts falling within its territory.</p>
+<p class="normal">2.   Each programme of measures shall include the “basic” measures specified in paragraph 3 and, where necessary, “supplementary” measures.</p>
+<p class="normal">3.   “Basic measures” are the minimum requirements to be complied with and shall consist of:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">measures deemed appropriate for the purposes of Article 9;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Annex III to Directive 2000/60, entitled ‘Economic analysis’, is worded as follows:</p>
+<p class="normal">‘The economic analysis shall contain enough information in sufficient detail (taking account of the costs associated with collection of the relevant data) in order to:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">make the relevant calculations necessary for taking into account under Article 9 the principle of recovery of the costs of water services, taking account of long term forecasts of supply and demand for water in the river basin district and, where necessary:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">estimates of the volume, prices and costs associated with water services, and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">estimates of relevant investment including forecasts of such investments;</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">make judgements about the most cost-effective combination of measures in respect of water uses to be included in the programme of measures under Article 11 based on estimates of the potential costs of such measures.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Directive 2009/72</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Under the title ‘Subject matter and scope’, Article 1 of Directive 2009/72 provides:</p>
+<p class="normal">‘This Directive establishes common rules for the generation, transmission, distribution and supply of electricity, together with consumer protection provisions, with a view to improving and integrating competitive electricity markets in the Community. It lays down the rules relating to the organisation and functioning of the electricity sector, open access to the market, the criteria and procedures applicable to calls for tenders and the granting of authorisations and the operation of systems. It also lays down universal service obligations and the rights of electricity consumers and clarifies competition requirements.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3(1) and (2) of Directive 2009/72 provides:</p>
+<p class="normal">‘1.   Member States shall ensure, on the basis of their institutional organisation and with due regard to the principle of subsidiarity, that, without prejudice to paragraph 2, electricity undertakings are operated in accordance with the principles of this Directive with a view to achieving a competitive, secure and environmentally sustainable market in electricity, and shall not discriminate between those undertakings as regards either rights or obligations.</p>
+<p class="normal">2.   Having full regard to the relevant provisions of the Treaty, in particular Article 86 thereof, Member States may impose on undertakings operating in the electricity sector, in the general economic interest, public service obligations which may relate to security, including security of supply, regularity, quality and price of supplies and environmental protection, including energy efficiency, energy from renewable sources and climate protection. Such obligations shall be clearly defined, transparent, non-discriminatory, verifiable and shall guarantee equality of access for electricity undertakings of the Community to national consumers. In relation to security of supply, energy efficiency/demand-side management and for the fulfilment of environmental goals and goals for energy from renewable sources, as referred to in this paragraph, Member States may introduce the implementation of long-term planning, taking into account the possibility of third parties seeking access to the system.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Spanish law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">The Energy Tax Law</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">The preamble to Ley 15/2012, de medidas fiscales para la sostenibilidad energética (Law 15/2012 on fiscal measures for sustainable energy), of 27 December 2012 (BOE No 312, of 28 December 2012, p. 88081 ‘the Energy Tax Law’), states:</p>
+<p class="normal">‘The objective of [this Law] is to adapt our tax system to more efficient and environmentally friendly use and sustainable development, values that inspire this tax reform, and as such in line with the basic principles that govern the fiscal, energy and, of course, environmental policy of the European Union</p>
+<p class="normal">…</p>
+<p class="normal">… Thus, one of the axes of this tax reform is to internalise the environmental costs resulting from electricity production …</p>
+<p class="normal">This Law must serve as a stimulus to improve our levels of energy efficiency while at the same time ensuring better management of natural resources and continuing to enhance the new model of sustainable development, both from an economic and social point of view, as well as from an environmental point of view.</p>
+<p class="normal">The present reform also contributes to integrating environmental policies into our tax system …</p>
+<p class="normal">To this end, this Law regulates three new taxes: …; a tax on the use of inland waters for the production of electricity is introduced. …</p>
+<p class="normal">Lastly, Title IV of this Law modifies the consolidated text of the Water Law approved by Real Decreto Legislativo 1/2001 de 20 de julio (Royal Legislative Decree 1 of 20 July 2001 (‘the Water Law’)).</p>
+<p class="normal">In particular, this Title regulates the economic and financial regime for the use of the public water resources. Thus, it provides that the competent public authorities, by virtue of the principle of cost recovery and taking into account long-term economic projections, are to establish the appropriate mechanisms to pass on the costs of services related to water management, including environmental and resource costs, to the different end users.</p>
+<p class="normal">Articles 112 and 114 [of the Water Law] provide for four different water-related taxes: the tax for the use of assets comprising public water resources; the discharge tax, which taxes discharges into public water resources; the regulation tax, which taxes the private advantage obtained following [regulation] works [carried out by the State]; and water use taxes, which tax the private advantages obtained following work carried out by the State other than regulation work.</p>
+<p class="normal">…</p>
+<p class="normal">At present, the general quality of Spanish inland waters makes their protection necessary in order to safeguard one of the natural resources necessary for society. In that regard, policies for the protection of public water must be enhanced. To that end, it is necessary to obtain resources that must be provided by those who obtain a benefit from the private use of water or its use specifically for the production of electricity.</p>
+<p class="normal">The purpose of this amendment, therefore, is to apply a new tax to the public assets described in Article 2(a) of the [Water Law], that is to say, to the use or development of inland waters for the production of electricity.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Article 29 of the Energy Tax Law amends the Water Law through the addition of Article 112 bis thereto and is worded as follows:</p>
+<p class="normal">‘Article 112 bis Tax on the use of inland waters for the production of electricity.</p>
+<p class="normal">1.   The use and exploitation of the public assets referred to in paragraph (a) of Article 2 of this Law, for the production of electric power in power station busbars, shall be subject to a levy known as a tax on the use of inland waters for the production of electricity, which seeks to protect and improve the public water resources.</p>
+<p class="normal">2.   The tax will become due on the initial granting and annual maintenance of the hydroelectric concession and will be payable in the corresponding amount and within the periods indicated in the conditions of the concession or authorisation.</p>
+<p class="normal">3.   Those liable to pay the tax shall be the concession-holders or, as the case may be, those who are subrogated to them.</p>
+<p class="normal">4.   The taxable amount shall be determined by the Basin Authority and shall be the economic value of the hydroelectric energy produced, measured according to the plant’s busbar costs, in each annual tax period by the concession-holder through the use and exploitation of public water resources.</p>
+<p class="normal">5.   The annual tax rate shall be 22% of the value of the taxable amount and the total amount of tax shall be the amount resulting from applying the tax rate to the taxable amount.</p>
+<p class="normal">6.   The hydroelectric installations operated directly by the relevant authority for the management of public water resources shall be exempt from that tax.</p>
+<p class="normal">7.   The tax shall by reduced by 90% for hydroelectric installations with a capacity of 50 MW or less and for electricity-generating installations with hydro pump technology and a capacity of more than 50 MW, and in the manner to be determined by regulation for those productions or installations which are to be incentivised on general energy policy grounds.</p>
+<p class="normal">8.   The management and collection of the tax shall be the responsibility of the competent Basin Authority or of the State Tax Authority, by virtue of an agreement with the latter.</p>
+<p class="normal">In the event that the agreement is entered into with the Agencia Estatal de Administración Tributaria [State Tax Administration Agency], the latter shall receive from the Basin Authority the relevant data and registers facilitating its administration, and shall periodically inform that authority in the manner to be determined by regulation. To that effect, the Comisión Nacional de Energía [National Energy Commission, Spain] and the Operador del Sistema eléctrico [Electricity System Operator, Spain] shall be required to provide the Basin Authority or the State Tax Authority with all the data and reports necessary under Article 94 of Ley 58/2003, de 17 de diciembre [Law No 58 of 17 December 2003].</p>
+<p class="normal">2% of the tax collected shall be considered income of the Basin Authority, and the remaining 98% shall be paid to the public exchequer by the collecting body.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">The second additional provision of the Energy Tax Law, relating to the costs of the electricity system, provides:</p>
+<p class="normal">‘Each year, the State’s general finance laws allocate to the financing of the costs of the electricity system provided for in Article 16 of Ley 54/1997, de 27 de noviembre, del Sector Eléctrico [Law No 54 of 27 November 1997 on the electricity sector] an amount equivalent to the sum of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">an estimate of the annual amounts collected by the State in respect of the levies and taxes included in this Law;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the estimated revenue generated by the auctioning of greenhouse gas emission allowances, with a maximum of EUR 500 million.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Royal Decree No 198/2015</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Article 12 of Real Decreto 198/2015, por el que se desarrolla el artículo 112 bis del Texto Refundido de la Ley de Aguas y se regula el canon por utilización de las aguas continentales para la producción de energía eléctrica en las demarcaciones intercomunitarias (Royal Decree No 198 implementing Article 112 bis of the consolidated text of the Water Law and regulating the tax on the use of inland waters for the production of electricity in inter-communities basin districts), of 23 March 2015 (BOE No 72 of 25 March 2015, p. 25674) (‘Royal Decree 198/2015’), provides:</p>
+<p class="normal">‘Revenue of the taxes collected’</p>
+<p class="normal">1.   The amount of the collected revenue will be paid over to the Basin Authority by virtue of the provisions of Article 112 bis(8) of the Water Law …</p>
+<p class="normal">…</p>
+<p class="normal">3.   2% of the net revenue collected shall be considered as revenue of the Basin Authority.</p>
+<p class="normal">4.   Of the amount of the net revenue collected, 98% shall be paid to the public exchequer. The General State Budgets shall allocate at least an amount equal to that sum to actions for the protection and improvement of public water resources, in accordance with the provisions of Article 14. To that end, the investment projects that guarantee the protection and improvement of public water resources shall be determined annually in the General State Budget Laws.</p>
+<p class="normal">5.   In the month following that in which the tax is collected, the Basin Authority shall calculate the balance of the final account and pay that amount to the public exchequer, while accounting for the receipts and costs justifying that balance to Agencia Estatal de Administración Tributaria [State Tax Administration Agency].’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Article 13 of that royal decree provides:</p>
+<p class="normal">‘Guarantee of protection of public resources</p>
+<p class="normal">In order to ensure compliance with the environmental objectives established in [Directive 2000/60] and provided for in Article 98 and subsequent articles of the consolidated text of the Water Law, and in accordance with the principle of cost recovery established in Article 111 bis of the consolidated text of the Water Law, the General State Budgets shall allocate at least an amount equal to the amount provided for in paragraph 4 of the previous Article 12, in accordance with the requirements of Article 14, to actions for the protection and improvement of public water resources and the bodies of water affected by hydroelectric developments.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Article 14 of Royal Decree 198/2015 provides:</p>
+<p class="normal">‘Protection and improvement of public water resources</p>
+<p class="normal">1.   For the purposes of the present Royal Decree, the protection and improvement of the public water resources shall mean the activities which the General administration of the State responsible for managing river basins encompassing more than one autonomous community must carry out in order to meet a threefold objective: to determine the constraints on the bodies of water due to human activity, to correct the status of the bodies of water and the deterioration of public water resources, and to implement sufficiently the tasks of monitoring and supervising public water resources and water police.</p>
+<p class="normal">2.   Activities enabling more efficient and sustainable resource management by rationalising the use of public water resources fall within the activities listed in paragraph 1.</p>
+<p class="normal">3.   Activities seeking to achieve the aims stated in paragraphs 1 and 2 include, in particular:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the measurement, analysis and monitoring of the water consumption granted to concessions and recorded in the water register or in the Catálogo de Aguas Privadas [register of private water operations].</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">The management activities intended to enable public water resources to be used by private parties in the context of the system of authorisations and self-declarations of compliance.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">The modernisation, maintenance and updating of the water register.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">The introduction and development of programmes enabling water authorisations and concessions to be updated.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(e)</p>
+</td>
+<td valign="top">
+<p class="normal">The oversight and monitoring of the level of compliance with the system of concessions and authorisations relating to the public water resources, in particular of the conditions imposed in each case, which take the form of support missions for water policing.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(f)</p>
+</td>
+<td valign="top">
+<p class="normal">The oversight and monitoring of the qualitative and quantitative status of the bodies of water. That oversight is carried out through programmes for the monitoring and evaluation of ground and surface waters, the maintenance and operation of the networks for the oversight and monitoring of the status of the bodies of water, and the monitoring of the different plans and programmes for waste water treatment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(g)</p>
+</td>
+<td valign="top">
+<p class="normal">Technical activities enabling the beds of water courses forming part of the public water resources, the areas associated with them and the mapping of the flood plains to be determined and delimited, and also the implementation of flood-risk management measures the responsibility of the basin authorities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(h)</p>
+</td>
+<td valign="top">
+<p class="normal">Measures for the conservation and improvement of the beds of water courses forming part of the public water resources by activities to improve river fluidity, the adaptation of structures to the migration of fish fauna and sediment transport, the recovery of the beds of rivers and banks, and the fight against invasive species causing deterioration of the status of public water resources.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(i)</p>
+</td>
+<td valign="top">
+<p class="normal">Works for the updating and revision of district water planning, at all phases, in so far as they constitute an essential component for the protection and improvement of the public water resources in that they seek to attain the environmental objectives set out in Article 92 bis of recast text of the Water Law.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The disputes in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">The applicants in the main proceedings brought actions before the Tribunal Supremo (Supreme Court, Spain) in which they sought the annulment of Royal Decree 198/2015 implementing Article 112 bis of the recast text of the Water Law and governing the tax on the use of inland waters for the production of electricity in inter-communities river basins, that is river basins which extend over the territory of more than one autonomous community.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Article 112 bis, which creates that tax, was introduced following amendment of the Water Law by Article 29 of the Energy Tax Law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court is uncertain whether Article 29 of the Energy Tax Lax is compatible with (i) the polluter pays principle, enshrined in Article 191(2) TFEU, read in conjunction with Directive 2000/60, (ii) the principle of non-discrimination enshrined in Article 3(1) of Directive 2009/72 and (iii) competition law, and in that latter regard questions whether the tax in question may be considered State aid within the meaning of Article 107(1) TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court notes that if the Energy Tax Law had to be considered incompatible with EU law, Royal Decree 198/2015, which implements the tax on the use of inland waters for the production of electricity and is the subject matter of the main proceedings, would have no legal basis and would, therefore, have to be annulled.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the first place, whether that tax is consistent with the polluter pays principle, within the meaning of Article 191(2) TFEU, and with Directive 2000/60, the referring court points out that while it follows from the preamble to the Energy Tax Law that the tax on the production of hydroelectricity is based on environmental grounds, namely the protection and improvement of public water resources, the essential characteristics and the very structure of that tax indicate that it actually pursues a purely economic objective in that it seeks to obtain revenue for the State in order to cover the tariff deficit of the electricity system; that deficit corresponds to the difference between the revenues that Spanish electricity companies receive from consumers and the costs of electricity supply recognised by national regulations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">According to the referring court, first, the taxable amount depends on the value of the energy produced, which is calculated on the basis of the total remuneration obtained for the energy injected into the electricity grid. The rate for that tax in force at the material time was 22%, whereas Article 112 bis of the consolidated text of the Water Law provided for a rate of only 5% for the occupation, use and exploitation of natural watercourses, whether continuous or discontinuous streams, and the beds of lakes and lagoons and surface reservoirs in public watercourses requiring concession or administrative authorisation. Secondly, only 2% of the amount of the tax collected is allocated to the activities of the organismo de cuenca (public body responsible for managing the waters in river basins districts, Spain), the remaining 98% being paid to the public exchequer and thus constituting additional revenue for the electricity system. The referring court states that the amount of that tax ought to have been allocated in full to the protection and improvement of public water resources and that Royal Decree 198/2015 sought to correct that inconsistency by specifying that the General State budgets allocated an amount at least equal to 98% of the revenues achieved by that tax to measures to protect and improve public water resources. The referring court states, however, that such allocation was not respected in the general State budget for 2016, which allocated the revenues generated by that tax to the deficit of the electricity system.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, contrary to the requirements of Directive 2000/60, the tax on the use of inland waters for the production of electricity fails to have regard to the principle of recovery of the costs of water services, including environmental costs, fails to determine environmental damage and concerns merely one of the uses of inland waters, that of producing electricity, despite its renewable origin and the non-consumptive use of the water. The referring court notes that that tax actually constitutes a levy which has no connection with occupation of the public domain or the environmental consequences derived from the activity linked to that occupation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, as regards the question whether the tax on the use of inland waters for the production of electricity is compatible with the principle of non-discrimination enshrined in Article 3(1) of Directive 2009/72, the referring court states that that tax applies only to hydroelectricity producers — excluding all other power producers using a different technology — which hold administrative concessions in inter-communities and not intra-community river basins, that is in river basins extending over the territory of more than one autonomous community, not river basins encompassing a single autonomous community.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">In the third place, the referring court considers that because of the asymmetrical nature of that tax, the differences in treatment which it imposes affect competition in the electricity market and must be regarded as constituting State aid in favour of electricity producers that are not subject to that tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances the Tribunal Supremo (Supreme Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling in Cases C‑105/18 to C‑108/18 and C‑110/18 to C‑113/18:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Must the “polluter pays” environmental principle, provided for in Article 191(2) TFEU, and Article 9(1) of Directive [2000/60], which lays down the principle of the recovery of costs for water services and also the appropriate economic balancing of water uses, be interpreted as precluding the introduction of a tax on the use of inland waters to produce electricity, such as the tax at issue in the present case, which does not incentivise the efficient use of water, nor establish mechanisms for the preservation and protection of public water resources, the quantification of that tax being totally unconnected to the capacity to cause damage to the public water resources, as it is focused solely and exclusively on the income-generating capacity of producers?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Is a tax such as the tax on hydroelectricity the subject of the proceedings, which exclusively affects hydroelectricity generators operating in river basins encompassing more than one autonomous community, but not concession-holding producers in river basins encompassing a single autonomous community, and also producers using hydroelectric technology, but not energy producers using other technologies, compatible with the principle of non-discrimination between operators provided for in Article 3(1) of Directive [2009/72]?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">Must Article 107(1) TFEU be interpreted as meaning that the levying of a tax on hydroelectricity such as that at issue [in the present case] to the detriment of hydroelectricity producers operating within river basins encompassing more than one autonomous community constitutes prohibited State aid, in that it introduces an asymmetrical system of taxation within the same area of technology, depending on the plant’s location, and the tax is not levied on producers of energy from other sources?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">In Case C‑109/18, the first two questions referred for a preliminary ruling are, in substance, identical to the first two questions in the cases cited in the previous paragraph. However, the third question is worded as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(3)</p>
+</td>
+<td valign="top">
+<p class="normal">Must Article 107(1) TFEU be interpreted as meaning that the failure to levy the tax on hydroelectric production operating within river basins encompassing a single autonomous community and also on the remaining [consumptive] uses of waters, with only the electricity production uses being taxed, constitutes prohibited State aid?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">By its first question, the referring court asks, in essence, whether Article 191(2) TFEU and Article 9(1) of Directive 2000/60 must be interpreted as precluding a tax on the use of inland waters for the production of electricity, such as the tax at issue in the cases in the main proceedings, which does not incentivise the efficient use of water, or establish mechanisms for the preservation and protection of public water resources, the quantification of that tax being unconnected to the capacity to cause damage to the public water resources, as it is focused solely and exclusively on the income-generating capacity of hydroelectricity producers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Article 191(2) TFEU provides that EU policy on the environment is to aim at a high level of protection and is to be based, inter alia, on the polluter pays principle. That provision thus does no more than define the general environmental objectives of the European Union, since Article 192 TFEU confers on the European Parliament and the Council of the European Union, acting in accordance with the ordinary legislative procedure, responsibility for deciding what action is to be taken in order to attain those objectives (judgment of 4 March 2015, Fipa Group and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A140&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑534/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A140&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:140</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A140&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, since Article 191(2) TFEU, which establishes the polluter pays principle, is directed at action at EU level, that provision cannot be relied on as such by individuals in order to exclude the application of national legislation likely to operate in an area covered by environmental policy for which there is no EU legislation adopted on the basis of Article 192 TFEU that specifically covers the situation in question (see, to that effect, judgment of 4 March 2015, Fipa Group and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A140&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑534/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A140&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:140</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A140&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point40" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that since the polluter pays principle is expressly referred to in Article 9(1) of Directive 2000/60 and that directive was adopted on the basis of Article 175(1) EC (now Article 192 TFEU), whether that principle applies to the cases in the main proceedings must be examined on the basis of Article 9(1) of Directive 2000/60.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, according to the Court’s settled case-law, in interpreting a provision of EU law it is necessary to consider not only its wording but also its context and the objectives pursued by the rules of which it forms part (judgment of 16 May 2019, Conti 11. Container Schiffahrt, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A420&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑689/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A420&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:420</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A420&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">In the first place, it is apparent from the wording of the first subparagraph of Article 9(1) of Directive 2000/60 that Member States must take account of the principle of recovery of the costs of water services, including environmental and resource costs, having regard to the economic analysis conducted according to Annex III to that directive, and in accordance in particular with the polluter pays principle.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Since the first subparagraph of Article 9(1) of Directive 2000/60 does not specify the context in which Member States must take account of the principle of recovery of the costs of water services, it follows that that provision seeks the establishment, by Member States, of a general policy of recovery of costs in the light, in particular, of the polluter pays principle.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">In addition, it is apparent from the second subparagraph of Article 9(1) of that directive that Member States had to ensure, from the date on which Directive 2000/60 was adopted until 2010, that, first, water-pricing policies provided adequate incentives for users to use water resources efficiently, and thereby contribute to the environmental objectives of that directive and, secondly, an adequate contribution of the different water uses, disaggregated into at least industry, households and agriculture, to the recovery of the costs of water services, based on the economic analysis conducted according to Annex III to that directive and taking account of the polluter pays principle.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the fact that the second indent of the second subparagraph of Article 9(1) refers to the different water uses, which must contribute adequately to the principle of recovery of the costs of water services confirms that the obligation to take that principle into account is imposed in the context of the Member States’ general policy relating to those services. Such an interpretation is indeed confirmed by the wording of the third subparagraph of Article 9(1), according to which Member States may have regard to the social, environmental and economic effects of the recovery of those costs as well as the geographic and climatic conditions of the region or regions affected, thereby leaving discretion to the Members States as regards the implementation of the principle of the recovery of costs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">It is, therefore, apparent from the wording of Article 9(1) of Directive 2000/60 that it is only in the light of all the relevant national rules implementing programmes of measures governing water services that it could be ascertained whether a Member State has taken into account the principle of the recovery of the costs of those services. It follows that compliance with Article 9(1) cannot be assessed by reference to a national measure, taken in isolation, which applies to the users of water resources.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">It must, in the second place, be found that the context of which that provision forms part confirms the interpretation of its wording. It must be recalled that Directive 2000/60 is a framework directive adopted on the basis of Article 175(1) EC (now Article 192 TFEU). It establishes the common principles and an overall framework for action in relation to water protection, and coordinates, integrates and, in a longer perspective, develops the overall principles and structures for protection and sustainable use of water in the European Union. Those principles and that framework are to be developed subsequently by the Member States, through the adoption of individual measures (see, to that effect, judgment of 11 September 2014, Commission v Germany, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2202&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑525/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2202&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2202</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2202&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">In addition, Article 11(1) of Directive 2000/60 requires that each Member State must ensure that for each river basin district, or for the part of an international river basin district within its territory, a programme of measures be established, in order to achieve the environmental objectives established under Article 4 of that directive. Article 11(3) of Directive 2000/60 states that basic measures for that programme include measures deemed appropriate for the purposes of Article 9, which confirms that that obligation imposed by the latter concerns the establishment of a series of measures which, taken as a whole, must be ‘appropriate’ in order to ensure that the principle that the costs of water services are to be recovered is observed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">In the third place, it must be noted that that interpretation is consistent with the objective pursued by Directive 2000/60. That directive does not seek to achieve complete harmonisation of the rules of the Member States concerning water (see, to that effect, judgment of 11 September 2014, Commission v Germany, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2202&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑525/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2202&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2202</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2202&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>, and of 1 July 2015, Bund für Umwelt und Naturschutz Deutschland, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A433&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑461/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A433&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:433</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A433&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">According to Article 1(a) of Directive 2000/60, the purpose of the directive is to establish a framework for the protection of inland surface waters, transitional waters, coastal waters and groundwater which prevents further deterioration and protects and enhances the status of aquatic ecosystems and terrestrial ecosystems directly depending on them.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Directive 2000/60 is based essentially on the principles of management per river basin; the setting of objectives per body of water; plans and programmes; an economic analysis of the detailed arrangements governing water pricing; the taking into account of the social, environmental and economic effects of cost recovery, and also the geographic and climatic conditions of the region(s) concerned (see judgment of 11 September 2014, Commission v Germany, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2202&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑525/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2202&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2202</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2202&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point53" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">53</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">It is clear from the provisions of that directive that measures for the recovery of the costs for water services are one of the instruments available to the Member States for qualitative management of water in order to achieve rational water use (see, to that effect, judgment of 11 September 2014, Commission v Germany, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2202&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑525/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2202&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2202</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2202&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point55" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">55</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">As the Advocate General stated, in essence, in paragraph 32 of his Opinion, when, as in the cases in the main proceedings, a Member State requires taxes to be paid by water users, the principle that the costs of the water services are to be recovered, referred to in Article 9(1) of Directive 2000/60, does not require that each tax on water, taken in isolation, must be in proportion to those costs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, it is irrelevant that in the cases in the main proceedings — as the referring court, which has sole jurisdiction to interpret the national law applicable to those cases, stated — having regard both to its essential characteristics and its structure, the tax on the use of inland waters for the production of electricity pursues an objective which is not an environmental one, but purely an economic one, and therefore constitutes revenue of the Spanish electricity system intended to reduce the tariff deficit affecting that system with no connection to either occupation of the public water resources or the environmental consequences derived from the activity linked to that occupation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answer to the first question is that Article 191(2) TFEU and Article 9(1) of Directive 2000/60 must be interpreted as not precluding a tax on the use of inland waters for the production of electricity, such as the tax at issue in the cases in the main proceedings, which does not incentivise the efficient use of water, nor establish mechanisms for the preservation and protection of public water resources, the quantification of that tax being unconnected to the capacity to cause damage to those public water resources, as it is focused solely and exclusively on the income-generating capacity of hydroelectricity producers.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">By the second question, the referring court asks, in essence, whether the principle of non-discrimination, as provided for in Article 3(1) of Directive 2009/72, must be interpreted as precluding a tax, such as the tax on the use of inland waters for the production of electricity at issue in the cases in the main proceedings, which exclusively affects hydroelectricity generators operating in river basins encompassing more than one autonomous community.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">In order to answer the first question raised, the scope of Article 3(1) of Directive 2009/72 must, therefore, be examined.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with that provision, Member States must ensure, on the basis of their institutional organisation and with due regard to the principle of subsidiarity, that, without prejudice to Article 3(2) of Directive 2009/72, electricity undertakings are operated in accordance with the principles of that directive with a view to achieving a competitive, secure and environmentally sustainable market in electricity, and must not discriminate between those undertakings as regards either rights or obligations</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">The Court points out that Article 3(1) enshrines, in the field of the internal market in electricity, the general principle of non-discrimination, which forms an integral part of the general principles of EU law. The Court has held that that principle is binding on Member States where the national situation at issue in the main proceedings falls within the scope of EU law (see, to that effect, judgments of 11 July 2006, Chacón Navas, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A456&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑13/05</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A456&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:456</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A456&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point56" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>, and of 19 January 2010, Kücükdeveci, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A21&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑555/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A21&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:21</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A21&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point21" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">21</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A21&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it must be pointed out that since it is apparent from the information before the Court that the situations at issue in the main proceedings are purely internal, in the sense that they are devoid of any cross-border element and that the tax on the use of inland waters for the production of electricity at issue constitutes a tax measure, the principle of non-discrimination, as provided for in Article 3(1) of Directive 2009/72, is applicable to that tax only if it that directive seeks to harmonise the Member States’ tax provisions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the objective of Directive 2009/72 which consists in completing an internal market in electricity, the EU legislature used the ordinary legislature procedure provided for in Article 95(1) EC (now Article 114(1) TFEU), for the adoption of measures for the approximation of the provisions laid down by law, regulation or administrative action in Member States in the establishment and functioning of the internal market.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">However, in accordance with the wording of Article 95(2) EC (now Article 114(2) TFEU), Article 95(1) (now Article 114(2) TFEU), is not to apply to fiscal provisions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">Since Directive 2009/72 is not a measure for the approximation of the Member States’ fiscal provisions, it must be found that the principle of non-discrimination provided for in Article 3(1) thereof does not apply to a tax, such as the tax on the use of inland waters for the production of electricity at issue in the cases in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answer to the second question is that the principle of non-discrimination, as provided for in Article 3(1) of Directive 2009/72, must be interpreted as not precluding a tax, such as the tax on the use of inland waters for the production of electricity at issue in the cases in the main proceedings, which exclusively affects hydroelectricity generators operating in river basins encompassing more than one autonomous community.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The third question in Joined Cases C‑105/18 to C‑108/18 and C‑110/18 to C‑113/18 and in Case C‑109/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">By its third question, the referring court asks, in essence, whether Article 107(1) TFEU must be interpreted as meaning that the fact that the tax on the use of inland waters for the production of electricity at issue in the cases in the main proceedings is not due, first, by hydroelectricity producers operating within river basins encompassing a single autonomous community, secondly, by producers of electricity from other sources and thirdly, during the remaining consumptive uses of waters, constitutes State aid, within the meaning of that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">It must, first of all, be stated that the order for reference in Case C‑109/18 does not contain any information enabling the Court to provide the referring court with a useful answer as regards any characterisation as State aid, within the meaning of Article 107(1) TFEU, of the tax on the use of inland waters for the production of electricity, which may arise from the fact that that tax is not payable by installations which use water for purposes other than the production of hydroelectricity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">That part of the third question in Case C‑109/18 must, therefore, be held inadmissible inasmuch as it relates to such installations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the substantive response to the admissible parts of the third questions raised in all the joined cases, characterisation of a national measure as ‘State aid’, within the meaning of Article 107(1) TFEU, requires, in accordance with the settled case-law of the Court, that all the following conditions be fulfilled. First, there must be an intervention by the State or through State resources. Secondly, that intervention must be liable to affect trade between Member States. Thirdly, it must confer a selective advantage on the recipient. Fourthly, it must distort or threaten to distort competition (see, in particular, judgment of 29 July 2019, Azienda Napoletana Mobilità, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A633&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑659/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A633&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:633</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A633&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point20" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">20</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">Since the characterisation of a measure as State aid, within the meaning of that provision, requires all four conditions to be met, those conditions being cumulative, and the referring court asks the Court only about the condition relating to the selectivity of the tax on the use of inland waters for the production of electricity, the Court must examine that condition first of all.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">It is clear from settled case-law that in order to assess the selective nature of the advantage granted to the recipients by a national measure, it is necessary to determine whether, under a particular legal regime, that national measure is such as to favour ‘certain undertakings or the production of certain goods’ over others which, in the light of the objective pursued by that regime, are in a comparable factual and legal situation and which accordingly suffer different treatment that can, in essence, be classified as ‘discriminatory’ (judgment of 26 April 2018, ANGED, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑233/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:280</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">In order to characterise a tax as ‘selective’, the ordinary or ‘normal’ tax system applicable in the Member State concerned must first be identified and it must then be demonstrated that the tax being examined is a derogation from that system, in so far as it differentiates between operators who, in the light of the objective pursued by that ordinary tax system, are in a comparable factual and legal situation (judgment of 26 April 2018, ANGED, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑233/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:280</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point40" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the determination of the reference framework has a particular importance in the case of tax measures, since the very existence of an advantage may be established only when compared with ‘normal’ taxation (see, to that effect, judgments of 6 September 2006, Portugal v Commission, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A511&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑88/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A511&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:511</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A511&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point56" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>, and of 21 December 2016, Commission v Hansestadt Lübeck, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A971&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑524/14 P</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A971&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:971</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A971&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point55" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">55</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the first place, the examination on the selective nature of the measure at issue in the main proceedings, which might arise from the fact that the tax on the use of inland waters for the production of electricity is not payable by electricity producers whose source of production is other than water, it must be found that while the tax criterion, relating to the source of production of the electricity, does not appear to derogate formally from a given legal reference framework, its effect is nonetheless to exclude such electricity producers from the scope of that tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">Since Article 107(1) TFEU defines State interventions on the basis of their effects, independently of the techniques used, it cannot, therefore, be excluded a priori that the criterion of imposing the tax on the use of inland waters for the production of hydroelectricity enables an advantage to be given, in practice, to ‘certain undertakings or the production of certain goods’ within the meaning of Article 107(1) TFEU by mitigating their tax burden in relation to those subject to that tax (see, to that effect, judgment of 26 April 2018, ANGED, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑233/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:280</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point47" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point48" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">It must, therefore, be determined whether the hydroelectricity producers subject to the tax at issue in the main proceedings and electricity producers whose source of electricity production is other than water are in a comparable situation in the light of the objective pursued by the tax at issue in the cases in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is apparent from the presentation of national law in the orders for reference, and, in particular, from Article 112 bis(1) of the Water Law and from Articles 12 to 14 of Royal Decree 198/2015, that the tax on the use of inland waters for the production of electricity is aimed at the protection and improvement of public water resources. It is not in dispute that only hydroelectricity producers use public water resources as a source of electricity production, which is likely to have an environmental impact on those water resources.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">It must, therefore, be found that electricity producers other than those using water as a source, which are not subject to the tax on the use of inland waters for the production of electricity, are not, in the light of the objective pursued by that tax, in a comparable factual and legal situation to that of electricity producers using water.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="normal">While the referring court, which has sole jurisdiction to interpret national law, indicates that that tax — notwithstanding the wording of Article 112 bis of the Water Law and the provisions of Royal Decree 198/2015 implementing the tax — pursues, in the light of its essential characteristics and its structure, a purely economic objective, it should be observed that, in the absence of EU rules governing the matter, it falls within the tax competence of the Member States to designate bases of assessment and to spread the tax burden across the various factors of production and economic sectors (see, to that effect, judgment of 26 April 2018, ANGED, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑233/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:280</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, a criterion for taxation connected with the source of production of electricity enables, as a rule, a Member State to apply a tax, such as that at issue in the cases in the main proceedings, only to electricity producers using water as the source of electricity production.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the second place, the examination of the selective nature of the measure at issue in the cases in the main proceedings, which might arise from the fact that the tax on the use of inland waters for the production of electricity is not payable by hydroelectricity producers operating within river basins encompassing a single autonomous community, it should be observed that, in accordance with the case-law of the Court, the legal reference framework for the purposes of assessing the selectivity of a measure must not necessarily be determined within the territory of the Member State concerned, but may be that of the territory within which a regional or local authority exercises the powers conferred on it by the constitution or by law. Such is the case when that entity enjoys a legal and factual status which makes it sufficiently autonomous in relation to the central government of a Member State, with the result that, by the measures it adopts, it is that body and not the central government which plays a fundamental role in the definition of the political and economic environment in which undertakings operate (see, to that effect, judgment of 26 April 2018, ANGED, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑233/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:280</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A280&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point41" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from that case-law that the reference framework depends on the extent of the competence of the public authority which adopted the measure at issue.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="normal">Similarly, it is apparent from the judgment of 21 December 2016, Commission v Hansestadt Lübeck (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A971&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑524/14 P</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A971&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:971</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A971&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point61" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">61</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A971&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point62" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">62</a>), that the relevant reference framework for examining the selective nature of a measure may be restricted to the legal regime adopted by an entity within the limits of its own powers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="normal">The selective nature of a measure cannot be examined without taking account of the legal limits on the powers of the public authority which adopted that measure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, the Spanish Government stated, both in its written observations and at the hearing before the Court, that the fact that the tax on the use of inland waters for the production of electricity is payable only by hydroelectricity producers using river basins extending over the territory of more than one autonomous community was justified by the territorial structure of the Spanish State, the powers of each administration, and the respective powers of the Central Government and the autonomous communities, which, as regards public water resources, develop their own legal regimes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="normal">The national legislature therefore adopted the national legislation establishing that tax, which applies only to the holders of administrative concessions in respect of river basins extending over the territory of more than one autonomous community, by exercising a power which is limited to those river basins alone.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, and subject to verification of the division of powers which it is for the referring court to carry out, it is apparent that the relevant reference framework for examining the selective nature of any aid measure is the taxation of hydroelectricity production within river basins encompassing more than one autonomous community.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the reference framework thus delimited, it must be found that hydroelectricity producers operating within a river basin encompassing a single autonomous community are not in a comparable situation to that of energy producers operating within river basins encompassing more than one autonomous community.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the condition relating to the selectivity of the measure at issue is not met and that, consequently, there is no need to examine the other conditions referred to in paragraph 58 above.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point79">79</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the foregoing considerations that Article 107(1) TFEU must be interpreted as meaning that the fact that the tax on the use of inland waters for the production of electricity, at issue in the cases in the main proceedings, is not payable, first, by hydroelectricity producers operating within river basins encompassing a single autonomous community and, secondly, by producers of electricity from sources other than water, does not constitute State aid, within the meaning of that provision, in favour of those producers, provided that the latter are not, in the light of the relevant reference framework and the objective pursued by that tax, in a comparable situation to that of hydroelectricity producers operating within river basins encompassing more than one autonomous community subject to that tax, which it is for the national court to determine.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point80">80</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 191(2) TFEU and Article 9(1) of Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy must be interpreted as not precluding a tax on the use of inland waters for the production of electricity, such as the tax at issue in the cases in the main proceedings, which does not incentivise the efficient use of water, nor establish mechanisms for the preservation and protection of public water resources, the quantification of that tax being unconnected to the capacity to cause damage to those public water resources, as it is focused solely and exclusively on the income-generating capacity of hydroelectricity producers.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">The principle of non-discrimination, as provided for in Article 3(1) of Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC, must be interpreted as not precluding a tax, such as the tax on the use of inland waters for the production of electricity at issue in the cases in the main proceedings, which exclusively affects hydroelectricity generators operating in river basins encompassing more than one autonomous community.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">3.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 107(1) TFEU must be interpreted as meaning that the fact that the tax on the use of inland waters for the production of electricity, at issue in the cases in the main proceedings, is not payable, first, by hydroelectricity producers operating within river basins encompassing a single autonomous community and, secondly, by producers of electricity from sources other than water, does not constitute State aid, within the meaning of that provision, in favour of those producers provided that the latter are not, in the light of the relevant reference framework and the objective pursued by that tax, in a comparable situation to that of hydroelectricity producers operating within river basins encompassing more than one autonomous community subject to that tax, which it is for the national court to determine.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0105_EN_01-E0001" id="t-ECR_62018CJ0105_EN_01-E0001">*1</a>
+</span>)	Language of the case: Spanish.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

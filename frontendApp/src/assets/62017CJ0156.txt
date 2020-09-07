@@ -1,0 +1,1304 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Seventh Chamber)</p>
+<p class="sum-title-1">30 January 2020 (<span class="note">
+<a href="#t-ECR_62017CJ0156_EN_01-E0001" id="c-ECR_62017CJ0156_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Free movement of capital and liberalisation of payments — Restrictions — Taxation of dividends received by undertakings for collective investment in transferable securities (UCITS) — Refund of tax withheld on dividends — Conditions — Objective differentiation criteria — Criteria which are by nature or in fact favourable to resident taxpayers)</p>
+<p class="normal">In Case C‑156/17,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Hoge Raad der Nederlanden (Supreme Court of the Netherlands), made by decision of 3 March 2017, received at the Court on 27 March 2017, in the proceedings</p>
+<p class="normal">
+<span class="bold">Köln-Aktienfonds Deka</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Staatssecretaris van Financiën,</span>
+</p>
+<p class="normal">interveners:</p>
+<p class="normal">
+<span class="bold">Nederlandse Orde van Belastingadviseurs,</span>
+</p>
+<p class="normal">
+<span class="bold">Loyens en Loeff NV,</span>
+</p>
+<p class="normal">THE COURT (Seventh Chamber),</p>
+<p class="normal">composed of P.G. Xuereb (Rapporteur), President of the Chamber, T. von Danwitz and C. Vajda, Judges,</p>
+<p class="normal">Advocate General: G. Pitruzzella,</p>
+<p class="normal">Registrar: M. Ferreira, Principal Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 22 May 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Köln-Aktienfonds Deka, by R. van der Jagt, acting as Partner,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Nederlandse Orde van Belastingadviseurs, by F.R. Herreveld and J.J.A.M. Korving, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Loyens en Loeff NV, by A.C. Breuer, advocaat, and S. Daniëls, tax advisor,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Netherlands Government, by M.K. Bulterman and J. Langer, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the German Government, initially by T. Henze, J. Möller and R. Kanitz, and subsequently by J. Möller and R. Kanitz, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by W. Roels and N. Gossement, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 5 September 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 63 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Köln-Aktienfonds Deka (‘KA Deka’) and the Staatssecretaris van Financiën (State Secretary for Finance, Netherlands) concerning the refund of dividend tax withheld from KA Deka in respect of share dividends from Netherlands companies received in the financial years 2002/2003 to 2007/2008.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">The purpose of Council Directive 85/611/EEC of 20 December 1985 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1985:375:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1985 L 375, p. 3</a>) was, according to its fourth recital, to establish common basic rules for the authorisation, supervision, structure and activities of undertakings for collective investment in transferable securities (UCITS) situated in the Member States and the information they must publish. Directive 85/611 was amended on a number of occasions before being repealed, with effect from 1 July 2011, by Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:302:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2009 L 302, p. 32</a>), which recast the former directive.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Netherlands law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">The Netherlands regime relating to fiscal investment enterprises (‘FIEs’) is intended to enable natural persons and, in particular, small investors to make collective investments in certain types of assets. The aim of that regime is to bring the tax treatment applicable to private individuals who invest through an FIE in line with the tax treatment of private individuals who make investments on an individual basis.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">For that purpose, FIEs are subject to a zero corporation tax rate. They also benefit from the refund of dividend tax withheld on dividends received in the Netherlands. Thus, Article 10(2) of the Wet op de dividendbelasting 1965 (Law on the Taxation of Dividends of 1965), in its version applicable to the dispute in the main proceedings, states:</p>
+<p class="normal">‘A company classified as an investment enterprise for the purposes of corporation tax may request the inspector to adopt a decision, open to appeal, granting it a refund of the dividend tax withheld from it during a calendar year …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">FIEs are also entitled to a concession in respect of tax deducted at source on their investment products abroad.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">When they distribute dividends, FIEs are required to withhold Netherlands tax on the recipient’s dividends.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">The FIE regime is mainly regulated by Article 28 of the Wet op de vennootschapsbelasting 1969 (Law on Corporation Tax of 1969), which lays down the conditions which must be met by an investment undertaking in order to qualify as an FIE.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">One of those conditions is the obligation on the investment undertaking to distribute income to its shareholders or participants within a certain period of time. Thus, Article 28(2)(b) of the Law on Corporation Tax of 1969 provides that the part of the profit defined by an order of general application is to be paid to shareholders and holders of certificates of participation within 8 months of the end of the financial year and that the amount to be paid is to be divided equally between the shares and the certificates of participation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is apparent from the file before the Court that, in accordance with the Besluit beleggingsinstellingen (Order on Collective Investment Enterprises) (Stb. 1970, No 190), as amended by the Order of 20 December 2007 (Stbl. 2007, No 573) (‘the Order on Collective Investment Enterprises’), non-deductible amounts are taken into account to determine the investment undertaking’s distributable proceeds. Furthermore, an FIE may establish a reinvestment reserve and a cash reserve to round off the sums it distributes. In addition, an FIE may establish a reinvestment reserve and a cash reserve to round off the sums it distributes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">The nature of the investment undertaking’s shareholders is also one of the conditions in order to qualify as an FIE, as the FIE regime is only to be used by the investors for whom it is intended.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">In the years 2002 to 2006, the conditions relating to the shareholders were regulated by Article 28(2)(c) to (g) of the Law on Corporation Tax of 1969. Those provisions distinguished between investment undertakings whose shares or participations were held by the general public and others subject to stricter conditions. The distinction between those undertakings was based on whether or not their shares or certificates of participation were officially listed on the Amsterdam Stock Exchange.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">An investment undertaking whose shares or participations were listed on the Amsterdam Stock Exchange was, in essence, excluded from the FIE regime if 45% or more of its shares or participations were held by an entity subject to a profit tax, with the exception of an FIE whose shares or participations are listed on the Amsterdam Stock Exchange, or were held by an entity subject to a profit tax in respect of its shareholders or participants. Moreover, an investment undertaking in which at least 25% of the shares or participations were held by a natural person alone could not qualify for the FIE regime.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">An investment undertaking whose shares or participations were not listed on the Amsterdam Stock Exchange was subject to stricter conditions and had to, in order to qualify for the FIE regime, essentially have at least 75% of its shares or participations held by natural persons, by entities not subject to profit tax, such as pension funds and charitable organisations, or by other FIEs. An investment undertaking could not benefit from the FIE regime if one or more natural persons held a participation of at least 5% of the shares or participations in that undertaking. If the investment fund held an authorisation under the Wet houdende bepalingen inzake het toezicht op beleggingsinstellingen (Law on the supervision of investment funds) of 27 June 1990 (Stb. 1990, No 380), that prohibition was replaced by the rule that no natural person is entitled to hold 25% or more of the shares in the undertaking.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Following legislative amendments, since 1 January 2007, in order to benefit from the FIE regime, the shares or participations of an investment undertaking must be admitted to trading on a market in financial instruments, such as that referred to in Article 1:1 of the Wet houdende regels met betrekking tot de financiële markten en het toezicht daarop (Law on financial markets and their supervision) of 28 September 2006 (Stb. 2006, No 475), or the fund or the fund manager must hold an authorisation under Article 2:65 of that law or be exempt from holding it under Article 2:66(3) of that law.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">KA Deka is an investment fund constituted under German law (<span class="italic">Publikums</span>- <span class="italic">Sondervermögen</span>) established in Germany. It is a UCITS within the meaning of Directives 85/611 and 2009/65, open-ended, listed on the stock exchange, without legal personality and exempt from tax on profits in Germany. It makes investments on behalf of individuals. Its share price is listed on the German Stock Exchange, but the shares are traded via the ‘<span class="italic">global stream system</span>’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">During the financial years 2002/2003 to 2007/2008, KA Deka received dividends distributed by companies established in the Netherlands, in which it held shares. Those dividends were subject, in accordance with the Convention for the avoidance of double taxation in the area of income, capital, and various other taxes and for regulating other tax matters, concluded on 16 June 1959 between the Kingdom of the Netherlands and the Federal Republic of Germany (Trb. 1959, 85), as amended by the third additional protocol of 4 June 2004 (Trb. 2004, 185) (‘the tax convention between the Kingdom of the Netherlands and the Federal Republic of Germany), to a tax of 15% which was withheld at source. KA Deka, unlike an investment fund established in the Netherlands meeting the conditions enabling it to qualify as an FIE, was not able to benefit from the repayment of that tax on the basis of Article 10(2) of the Law on the Taxation of Dividends of 1965.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">KA Deka is not subject in the Netherlands to the obligation to withhold tax on dividends that it has itself distributed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court states that, according to German tax law rules, individuals who have invested in an investment fund are deemed to receive a theoretical minimum amount of dividends. Sums which are therefore taxed above the sum actually distributed are referred to as ‘additional notional amounts’ (<span class="italic">ausschüttungsgleiche Erträge</span>). In the years at issue in the main proceedings, German private individuals who invested in such funds received a tax exemption applicable to half of their taxable amount, which corresponded to the profits actually distributed plus any ‘additional notional amounts’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Until 2004, German legislation permitted those individuals to offset in full the dividend tax withheld in the Netherlands payable by the investment fund against the German tax levied on half of the taxable amount. Following a change to German legislation, that possibility of offsetting was limited from 2004 to 2008 to half the Netherlands tax withheld at source and the offsetting was no longer possible if the investment fund had chosen to deduct from the dividend the foreign tax levied at source.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">KA Deka applied to the Netherlands tax authorities for a refund of the dividend tax deducted from its dividends distributed by Netherlands companies for the financial years 2002/2003 to 2007/2008.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">After the inspecteur van de Belastingdienst (Inspector of Taxes) rejected those applications, KA Deka brought an action before the rechtbank Zeeland-West-Brabant (District Court of Zeeland-West-Brabant, Netherlands) for a ruling on the legality of the decision of the Inspector of Taxes. KA Deka argued before that court that its situation could be compared to that of an investment fund established in the Netherlands which has the status of an FIE, as referred to in Article 28 of the Law on Corporation Tax of 1969 and that it was therefore entitled to a refund of the dividend tax under Article 56 EC (now Article 63 TFEU).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">The rechtbank Zeeland-West-Brabant (District Court of Zeeland-West-Brabant) was uncertain as to whether KA Deka was objectively comparable to an FIE, in the light of the criteria laid down by the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) for the comparison of those funds, and on account of the large number of cases likely to raise questions similar to those at issue in the main proceedings, decided to refer five questions to that court for a preliminary decision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">The Hoge Raad der Nederlanden (Supreme Court of the Netherlands) notes, as a preliminary point, that, in its legal form, KA Deka could be classified as an FIE and is, in that regard, objectively comparable to an FIE established in the Netherlands. That court states that, whereas an FIE established in the Netherlands would have been entitled to the refund of the dividend tax requested by KA Deka, the latter cannot derive any right to a refund of dividend tax either from Netherlands legislation or from the tax convention between the Kingdom of the Netherlands and the Federal Republic of Germany.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Taking the view that there are reasonable doubts as to the answers to the questions referred by the rechtbank Zeeland-West-Brabant (District Court of Zeeland-West-Brabant), the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Does Article 56 EC (now Article 63 TFEU) mean that an investment fund established outside the Netherlands cannot be refused, on the ground that it is not subject to an obligation to withhold Netherlands dividend tax, a refund of Netherlands dividend tax which was withheld on dividends which that investment fund received from corporate bodies established in the Netherlands, when such a refund is granted to a fiscal investment enterprise established in the Netherlands, which, subject to the withholding of Netherlands dividend tax, distributes the proceeds of its investments to its shareholders or participants on an annual basis?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Does Article 56 EC (now Article 63 TFEU) mean that an investment fund established outside the Netherlands cannot be refused a refund of Netherlands dividend tax which was withheld on dividends which it received from corporate bodies established in the Netherlands on the ground that it has not proved satisfactorily that its shareholders or participants satisfy the conditions laid down in Netherlands legislation?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">Does Article 56 EC (now Article 63 TFEU) mean that an investment fund established outside the Netherlands cannot be refused a refund of Netherlands dividend tax which was withheld on dividends which it received from corporate bodies established in the Netherlands, on the ground that it does not distribute the proceeds of its investments in full to its shareholders or participants on an annual basis at the latest in the eighth month following the end of the financial year, even if, in the country in which that investment fund is established, under the legislation there applicable, the proceeds of its investments, to the extent to which they are not distributed, (a) are deemed to have been distributed, and/or (b) are taken into account in the tax levied in that country on the shareholders or participants as though those profits had been distributed, whereas such a refund is granted to a fiscal investment enterprise established in the Netherlands, which, subject to the withholding of Netherlands dividend tax, distributes the proceeds of its investments in full to its shareholders or participants on an annual basis?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Procedure before the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">By decision of the President of the Court of Justice of 5 April 2017, the present case and Case C‑157/17 were joined for the purposes of the written and oral part of the procedure, and the judgment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Following the delivery of the judgment of 21 June 2018, Fidelity Funds and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A480&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑480/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A480&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:480</a>), the referring court informed the Court of Justice by letter of 3 December 2018 that it wished to withdraw the request for a preliminary ruling in Case C‑157/17, and the first question in Case C‑156/17, but that it wished to maintain the second and third questions referred in Case C‑156/17.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">By decision of the President of the Court of Justice of 4 December 2018, Case C‑156/17 was disjoined from Case C‑157/17 and the latter was removed from the register of the Court of Justice on 12 December 2018.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The request to have the oral part of the procedure reopened</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Following the delivery of the Opinion of the Advocate General, KA Deka, by document lodged at the Court Registry on 18 September 2019, requested the Court to order the reopening of the oral part of the procedure, pursuant to Article 83 of the Rules of Procedure of the Court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">In support of its request, KA Deka submits that the Opinion of the Advocate General contains an inaccuracy regarding the interpretation of Article 7(e) of Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1995:281:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1995 L 281, p. 31</a>). KA Deka argues that, contrary to what the Advocate General states in points 79 to 81 of his Opinion, Article 7(e) of Directive 95/46 does not have horizontal direct effect authorising a non-public body to request or provide personal data to another non-public body. That inaccuracy has a decisive influence on the Court’s decision and thus justifies the reopening of the oral part of the procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be noted that, under the second paragraph of Article 252 TFEU, it is the duty of the Advocate General, acting with complete impartiality and independence, to make, in open court, reasoned submissions on cases which, in accordance with the Statute of the Court of Justice, require his involvement. The Court is not bound either by the Advocate General’s Opinion or by the reasoning on which it is based (judgment of 22 June 2017, Federatie Nederlandse Vakvereniging and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A489&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑126/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A489&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:489</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A489&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">It should also be noted, in that context, that the Statute of the Court of Justice of the European Union and the Rules of Procedure of the Court make no provision for the parties in question or interested parties referred to in Article 23 of the Statute of the Court of Justice of the European Union to submit observations in response to the Advocate General’s Opinion (judgment of 25 October 2017, Polbud — Wykonawstwo, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A804&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑106/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A804&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:804</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A804&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a> and the case-law cited). As a consequence, the fact that a party or interested party disagrees with the Advocate General’s Opinion, irrespective of the questions examined in the Opinion, cannot in itself constitute grounds justifying the reopening of the oral procedure (judgments of 25 October 2017, Polbud — Wykonawstwo, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A804&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑106/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A804&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:804</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A804&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point24" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>, and of 29 November 2017, King, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A914&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑214/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A914&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:914</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A914&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that, since the purpose of KA Deka’s request for a reopening of the oral procedure is to enable it to respond to the Advocate General’s findings in his Opinion relating to the interpretation of Directive 95/46, that request cannot be granted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 83 of its Rules of Procedure, the Court may at any time, after hearing the Advocate General, order the opening or reopening of the oral part of the procedure, in particular if it considers that it lacks sufficient information or where a party has, after the close of that part of the procedure, submitted a new fact which is of such a nature as to be a decisive factor for the decision of the Court, or where the case must be decided on the basis of an argument which has not been debated between the parties or the interested persons referred to in Article 23 of the Statute of the Court of Justice of the European Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">However, in the present case, the Court, after hearing the Advocate General, considers that it has all the information necessary to answer the questions referred by the referring court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, there is no need to order the reopening of the oral part of the procedure.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Preliminary observations</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">It is important to note that, as is apparent from the order for reference, dividends paid by companies established in the Netherlands to recipients established in that Member State are subject to a dividend tax. Where, as in the case in the main proceedings, the recipient of the dividends is established in another Member State, in the present case Germany, those dividends may be taxed in the Netherlands at a rate of 15%, under the tax convention between the Kingdom of the Netherlands and the Federal Republic of Germany.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">It is also apparent from the information in that decision that only investment funds which meet the conditions laid down in Article 28 of the Law on Corporation Tax of 1969 in order to qualify as FIEs may request and receive a refund of the dividend tax which they have paid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Such a refund is not made to investment funds which do not demonstrate that they have met those conditions, including non-resident funds.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, whereas dividends received by funds which qualify as FIEs are not taxed in their hands, dividends received by other bodies, including investment funds established in other Member States, are taxed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">As a result, an investment fund which meets the conditions relating to FIEs benefits from, as regards dividends received, a tax treatment which is more favourable than that of investment funds which do not meet those conditions, including non-resident investment funds.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">It is important to note, in that regard, that it is for each Member State to organise, in compliance with EU law, its system for taxing distributed profits and to define, in that context, the tax base and the tax rate which apply to the shareholder receiving them (see, inter alia, judgments of 20 May 2008, Orange European Smallcap Fund, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A289&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑194/06</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A289&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:289</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A289&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point30" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a>; of 20 October 2011, Commission v Germany, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A670&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑284/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A670&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:670</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A670&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point45" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a>, and of 30 June 2016, Riskin and Timmermans, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A488&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑176/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A488&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:488</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A488&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that Member States are free to provide for, for the purposes of encouraging the use of collective investment undertakings, a specific tax regime applicable to those undertakings and to the dividends received by them, and to define the material and formal conditions which must be respected to benefit from such a regime (see, to that effect, judgments of 9 October 2014, van Caster, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2269&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑326/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2269&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2269</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2269&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point47" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a>, and of 24 October 2018, Sauvage and Lejeune, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A856&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑602/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A856&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:856</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A856&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, it is inherent in the principle of the fiscal autonomy of Member States that they determine the evidence that must be provided to establish that the conditions in order to benefit from such a regime have been respected (see, to that effect, judgments of 30 June 2011, Meilicke and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A438&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑262/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A438&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:438</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A438&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>; of 9 October 2014, van Caster, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2269&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑326/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2269&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2269</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2269&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point47" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a>; and of 24 October 2018, Sauvage and Lejeune, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A856&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑602/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A856&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:856</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A856&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Member States must nevertheless exercise their fiscal autonomy in accordance with the requirements of EU law, in particular those imposed by the Treaty provisions on the free movement of capital (judgment of 30 June 2011, Meilicke and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A438&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑262/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A438&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:438</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A438&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the establishment of a regime specific to collective investment undertakings, in particular the nature of the conditions in order to benefit from it and the evidence to be provided for that purpose, must not constitute a restriction on the free movement of capital.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">The second and third questions referred must be answered in the light of those considerations.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">By its second question, the referring court asks, in essence, whether Article 63 TFEU must be interpreted as precluding legislation of a Member State which provides that a non-resident investment fund cannot be granted, on the ground that it has not provided proof that its shareholders or participants meet the conditions laid down by that legislation, a refund of dividend tax withheld on dividends which it has received from corporate bodies established in that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it follows from the Court’s case-law that the measures prohibited by Article 63(1) TFEU, as restrictions on the movement of capital, include those which are such as to discourage non-residents from making investments in a Member State or to discourage that Member State’s residents from doing so in other States (see judgments of 10 April 2014, Emerging Markets Series of DFA Investment Trust Company, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑190/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:249</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>, and of 22 November 2018, Sofina and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑575/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:943</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">It is therefore necessary to verify, in the first place, whether the requirements laid down by a Member State relating to the shareholders or participants of an investment fund, which are a condition for that fund to be able to claim a refund of dividend tax which it has paid, are likely to discourage a non-resident investment fund from making investments in that Member State. In the second place, it will be necessary to consider whether the evidence which must be provided for that purpose by non-resident investment funds discourages them from making investments in that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the first place, those conditions, it is apparent from the order for reference that, during the years 2002 to 2006, the conditions relating to the shareholders stipulated participation thresholds which were not to be exceeded by holders of shares or certificates of participation in a fund, in order for the latter to qualify as an FIE. Those thresholds differed depending on whether or not the fund’s shares or certificates of participation were officially listed on the Amsterdam Stock Exchange.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Where the fund’s shares or certificates of participation were officially listed on the Amsterdam Stock Exchange, funds in which 45% or more of the shares or participations were held by an entity subject to a profit tax or by an entity whose profit was subject to profit tax in respect of its shareholders or participants, as well as funds in which a natural person alone held a participation of 25% or more, could not be covered by the FIE regime. By contrast, where the fund’s shares or certificates of participation were not officially listed on the Amsterdam Stock Exchange, at least 75% of the shares or certificates of participation had to be held by natural persons, by entities not subject to profit tax, such as pension funds and charitable organisations, or by other FIEs, without a natural person alone holding a participation of 5% or more, or, where an undertaking was authorised under the Law on the supervision of investment funds, 25% or more.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">It is also apparent from the order for reference that, according to the national law applicable since 1 January 2007, in order to benefit from the FIE regime, the shares or participations of an investment undertaking must be admitted to trading on a market in financial instruments, as referred to in the Law on financial markets and their supervision, or the fund or its manager must be authorised or exempt from authorisation under that law. The referring court states that it is now irrelevant whether the shares or participations in an investment fund are listed on the Amsterdam Stock Exchange.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">It should be noted that the national legislation at issue in the main proceedings, applicable during the period 2002-2006, as with the legislation applicable from 1 January 2007, did not distinguish between resident investment funds and non-resident investment funds, in that the conditions for the refund of dividend tax applied without distinction to those two types of fund.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">However, national legislation which applies without distinction to resident and non-resident operators may constitute a restriction on the free movement of capital. It follows from the Court’s case-law that even a differentiation based on objective criteria may de facto disadvantage cross-border situations (see, to that effect, judgment of 5 February 2014, Hervis Sport- és Divatkereskedelmi, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑385/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:47</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A47&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">That is the case where national legislation which applies without distinction to resident and non-resident operators reserves a tax advantage in situations in which an operator complies with conditions or obligations which are, by their nature or in fact, specific to the national market, in such a way that only operators present on the national market are capable of complying with those conditions or obligations, and non-resident operators which are comparable do not generally comply with those conditions or obligations (see, to that effect, judgments of 9 October 2014, van Caster, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2269&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑326/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2269&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2269</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2269&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2269&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>, and of 8 June 2017, Van der Weegen and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A429&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑580/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A429&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:429</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A429&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">In that respect, as regards the national legislation at issue in the main proceedings, applicable during the period 2002-2006, it is apparent from the information in the order for reference, as summarised in paragraph 52 of this judgment, that investment funds whose shares or participations were not listed on the Amsterdam Stock Exchange had to meet conditions which were stricter than those for investment funds whose shares or shareholdings had been listed on that stock exchange.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">It is therefore for the referring court to ascertain whether the condition relating to shareholders which was based on the listing of the shares or participations of the investment fund on the Amsterdam Stock Exchange could, by its nature or de facto, be met only by resident investment funds, whereas non-resident investment funds, whose shares and participations were listed not on the Amsterdam Stock Exchange but on another stock exchange, did not generally meet that condition.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the national legislation applicable from 1 January 2007, it is apparent from the information in the order for reference as summarised in paragraph 53 of this judgment that, in order to benefit from the FIE regime, the shares or holdings of an investment undertaking must be admitted to trading on a market in financial instruments, as referred to in the Law on financial markets and their supervision. Under that legislation, the regime also applies to a fund or its manager which is authorised or exempt from authorisation under that law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is for the referring court to verify whether the conditions laid down by that legislation are not, by their nature or de facto, likely to be met only by resident investment funds and do not, de facto, exclude non-resident investment funds which meet similar conditions in their Member State of establishment from benefitting from that regime.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the second place, the proof to be provided by non-resident investment funds in order to demonstrate that they meet the conditions allowing them to benefit from the FIE regime and, therefore, to obtain a refund of the dividend tax they have paid, it should be borne in mind that the tax authorities of a Member State are entitled to require the taxpayer to provide such proof as they may consider necessary in order to determine whether the conditions for a tax advantage provided for in the legislation at issue have been met and, consequently, whether to grant that advantage (judgment of 10 February 2011, Haribo Lakritzen Hans Riegel and Österreichische Salinen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A61&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑436/08 and C‑437/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A61&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:61</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A61&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point95" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">95</a> and the case-law cited). The content, the form and the degree of detail which the information submitted by the taxpayer must satisfy in order to benefit from a tax advantage are determined by the Member State conferring such an advantage in order to enable it to apply the tax properly (see, to that effect, judgment of 9 October 2014, van Caster, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2269&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑326/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2269&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2269</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2269&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point52" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">52</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">However, in order not to make it impossible or excessively difficult for a non-resident taxpayer to obtain a tax advantage, it cannot be required to produce documents which comply in all respects with the form and degree of detail of the documentary evidence laid down in the national legislation of the Member State conferring that advantage if the documents provided by that taxpayer do enable that Member State to ascertain, clearly and precisely, that the conditions for obtaining the tax advantage in question have been met (see, to that effect, judgment of 30 June 2011, Meilicke and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A438&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑262/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A438&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:438</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A438&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point46" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a>). As the Advocate General states in point 72 of his Opinion, non-resident taxpayers may not be subject to excessive administrative burdens that make it impossible for them to benefit from a tax advantage.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">In the main proceedings, the referring court states that KA Deka is unable to meet the conditions relating to the shareholders because of the share trading system chosen, which does not enable it to know who its shareholders are.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">The fact of not being able to provide proof that the conditions relating to the shareholders have been met does not appear to lie either in the intrinsic complexity of the necessary information, or in the means of proof required, or in the legal impossibility of collecting that data because of the application of the legislation on data protection, implementing Directive 95/46, but is as a result of the choice of model for the trading of the shares by the fund in question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the inadequate flow of information to the investor is not a problem for which the Member State concerned should have to answer (judgments of 10 February 2011, Haribo Lakritzen Hans Riegel and Österreichische Salinen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A61&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑436/08 and C‑437/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A61&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:61</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A61&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point98" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">98</a>, and of 30 June 2011, Meilicke and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A438&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑262/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A438&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:438</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A438&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point48" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">In so far as the evidential requirements at issue in the main proceedings also appear to be imposed on resident investment funds which have chosen a share trading system similar to that adopted by KA Deka in the main proceedings, which it is for the national court to verify, the refusal to grant a non-resident investment fund a refund of the dividend tax which it has paid, on the ground that that investment fund has failed to establish sufficiently that it has met those conditions, does not constitute unfavourable treatment of a non-resident investment fund.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, in the light of all of the foregoing, the answer to the second question is that Article 63 TFEU must be interpreted as not precluding legislation of a Member State which provides that a non-resident investment fund cannot be granted, on the ground that it has not provided proof that its shareholders or participants meet the conditions laid down by that legislation, a refund of dividend tax withheld on dividends which it has received from corporate bodies established in that Member State, provided that those conditions do not de facto disadvantage non-resident investment funds and provided that the tax authorities require proof of compliance with those conditions to be provided also by resident investment funds, which it is for the referring court to verify.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The third question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="normal">By its third question, the national court asks, in essence, whether Article 63 TFEU must be interpreted as precluding legislation of a Member State which provides that a non-resident investment fund cannot be granted a refund of the dividend tax which it has had to pay in that Member State, on the ground that it has not met the conditions for that refund, namely that it does not distribute the proceeds of its investments in full to its shareholders or participants on an annual basis within 8 months of the end of its financial year, even though in its Member State of establishment, under the legal provisions in force, the proceeds of its investments which have not been distributed are deemed to have been distributed or are taken into account in the tax which that Member State levies on shareholders or participants as though that profit had been distributed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="normal">As is apparent from the order for reference, the condition for the refund of dividend tax relating to the redistribution of a fund’s profits is worded in general terms and does not distinguish between resident and non-resident investment funds. Both resident and non-resident investment funds must meet that condition in order to receive the refund of dividend tax paid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="normal">However, in view of the case-law referred to in paragraphs 55 and 56 of this judgment, it must be ascertained whether, while being applicable without distinction, such a condition is likely to place non-resident investment funds at a de facto disadvantage.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="normal">As noted in paragraph 43 of this judgment, in the absence of harmonisation at European Union level, each Member State is free to determine whether, in order to encourage the use of collective investment undertakings, to provide for a specific tax regime applicable to those undertakings and to the dividends received by them, and to define the material and formal conditions which must be complied with to benefit from such a regime. The conditions of such regimes are therefore necessarily specific to each Member State and differ between Member States.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, the free movement of capital cannot be understood as meaning that a Member State is required to adjust its tax rules on the basis of those of another Member State in order to ensure, in all circumstances, taxation which removes any disparities arising from national tax rules, given that the decisions made by a taxpayer as to investment in another Member State may be to the taxpayer’s advantage or not, according to circumstances (judgment of 7 November 2013, K, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A716&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑322/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A716&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:716</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A716&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point80" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">80</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="normal">However, making the possibility of obtaining a refund of withholding tax subject to strict compliance with the conditions laid down by national legislation, irrespective of the legal conditions to which non-resident investment funds are subject in their State of establishment, would amount to reserving the possibility of benefiting from an advantageous treatment of dividends only to resident investment funds. Subject to verification by the referring court, resident investment funds would generally be likely to meet all the conditions laid down by the legislation of their State of establishment, whereas non-resident investment funds would generally be likely to meet only the conditions laid down by their Member State of establishment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, it cannot be excluded that a non-resident investment fund which, because of the regulatory framework in force in its State of establishment, does not meet all the conditions laid down by the Member State conferring the tax advantage in question, is nevertheless in a situation which is essentially comparable to that of a resident investment fund meeting such conditions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, in order to ensure that the conditions laid down by the legislation of a Member State, while applying without distinction to resident and non-resident investment funds, do not de facto disadvantage non-resident investment funds, the latter must be able to prove that they are, in particular because of the regulatory framework in force in their State of establishment, in a situation that is comparable to that of resident investment funds meeting those conditions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the Court’s case-law that the comparability of a cross-border situation with an internal situation must be examined having regard to the aim pursued by the national provisions at issue, as well as the purpose and content of the latter (see, inter alia, judgment of 2 June 2016, Pensioenfonds Metaal en Techniek, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A402&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑252/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A402&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:402</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A402&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point48" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is apparent from the file before the Court that the condition relating to the redistribution of profits is linked to the objective of the FIE regime, which is that the return on investments made by a private individual through an investment undertaking must be the same as the return on investments made individually through a direct investment. To that end, it also follows from the file that the national legislature considered it essential for investment undertakings to pass on the profits of investments as quickly as possible to the savers whose funds they have invested.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the link between the obligation to redistribute profits and the taxation of investors, it also follows from the file before the Court that the obligation to redistribute profits triggered the application of profit tax. However, because of the introduction, in 2001, of taxation of the flat-rate annual return, calculated for individuals irrespective of the actual return which they earned on their shares and other investments, the applicant in the main proceedings, the interveners in the main proceedings and the European Commission question whether the redistribution of the profits of a fund is essential in order to achieve the objective of neutrality of taxation between direct investments and those made through an investment fund.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point79">79</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it is for the referring court, which has sole jurisdiction to interpret national law, taking account of all the elements of the tax legislation at issue in the main proceedings and the national tax system as a whole, to determine the main objective underlying the condition for redistribution of profits.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point80">80</p>
+</td>
+<td valign="top">
+<p class="normal">Although it appears that the objective pursued is to ensure that the profits made by investors who have used the services of an investment fund reach those investors as soon as possible, a non-resident investment fund which does not distribute income from its investments, even though that income is deemed to have been distributed, is not in a situation that is objectively comparable to that of a resident investment fund which distributes its income in accordance with the conditions laid down by national law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point81">81</p>
+</td>
+<td valign="top">
+<p class="normal">By contrast, if the objective pursued lies principally in the taxation of profits made by a shareholder in an investment fund, a resident investment fund which makes an actual distribution of its profits, and a non-resident investment fund whose profits are not distributed but are deemed to have been distributed and are taxed as such in respect of the shareholder in that fund, must be regarded as being in an objectively comparable situation. In both cases, the level of taxation is transferred from the investment fund to the shareholder.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point82">82</p>
+</td>
+<td valign="top">
+<p class="normal">In the latter situation, the refusal by a Member State to grant a non-resident investment fund, on the ground that it does not distribute the proceeds of its investments in full to its shareholders or participants on an annual basis within 8 months of the end of its financial year, a refund of the dividend tax that it has paid in that Member State, whereas in the Member State in which that fund is established, under the legal provisions in force, the proceeds of its investments which have not been distributed are deemed to have been distributed or are taken into account in the tax which that Member State levies on the shareholders or participants in that fund as though that profit had been distributed, would constitute a restriction on the free movement of capital.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point83">83</p>
+</td>
+<td valign="top">
+<p class="normal">Such a restriction is permissible if it is justified only by overriding reasons in the public interest, if it is appropriate for ensuring the attainment of the objective that it pursues and does not go beyond what is necessary to attain it (judgment of 24 November 2016, SECIL, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A896&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑464/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A896&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:896</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A896&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point56" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point84">84</p>
+</td>
+<td valign="top">
+<p class="normal">However, it should be noted that, in the main proceedings, the Netherlands Government did not rely on such reasons as regards the condition relating to the redistribution of the profits of the investment fund concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point85">85</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the answer to the third question is that Article 63 TFEU must be interpreted as precluding legislation of a Member State which provides that a non-resident investment fund cannot be granted a refund of dividend tax that it has had to pay in that Member State, on the ground that it has not met the legal conditions for that refund, namely that it does not distribute the proceeds of its investments in full to its shareholders or participants on an annual basis within 8 months of the end of its financial year, where, in its Member State of establishment, the proceeds of its investments which have not been distributed are deemed to have been distributed or are taken into account in the tax which that Member State levies on shareholders or participants as though that profit had been distributed and where, having regard to the objective underlying those conditions, such a fund is in a situation that is comparable to that of a resident fund which benefits from the refund of that tax, which it is for the referring court to verify.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point86">86</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Seventh Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 63 TFEU must be interpreted as not precluding legislation of a Member State which provides that a non-resident investment fund cannot be granted, on the ground that it has not provided proof that its shareholders or participants meet the conditions laid down by that legislation, a refund of dividend tax withheld on dividends that it has received from corporate bodies established in that Member State, provided that those conditions do not de facto disadvantage non-resident investment funds and provided that the tax authorities require proof of compliance with those conditions to be provided also by resident investment funds, which it is for the referring court to verify.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 63 TFEU must be interpreted as precluding legislation of a Member State which provides that a non-resident investment fund cannot be granted a refund of dividend tax which it has had to pay in that Member State, on the ground that it has not met the legal conditions for that refund, namely that it does not distribute the proceeds of its investments in full to its shareholders or participants on an annual basis within 8 months of the end of its financial year, where, in its Member State of establishment, the proceeds of its investments which have not been distributed are deemed to have been distributed or are taken into account in the tax which that Member State levies on shareholders or participants as though that profit had been distributed and where, having regard to the objective underlying those conditions, such a fund is in a situation that is comparable to that of a resident fund which benefits from the refund of that tax, which it is for the referring court to verify.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62017CJ0156_EN_01-E0001" id="t-ECR_62017CJ0156_EN_01-E0001">*1</a>
+</span>)	Language of the case: Dutch.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

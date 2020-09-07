@@ -1,0 +1,670 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="coj-sum-title-1">2 July 2020 (<span class="coj-note">
+<a href="#t-ECR_62018CJ0835_EN_01-E0001" id="c-ECR_62018CJ0835_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Taxation — Common system of value added tax (VAT) — Directive 2006/112/EC — Invoice correction — Tax invoiced incorrectly — Refund of tax paid but not due — Reverse charge mechanism for VAT — Transactions relating to a tax period that has already been the subject of a tax inspection — Fiscal neutrality — Principle of effectiveness — Proportionality)</p>
+<p class="coj-normal">In Case C‑835/18,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Curtea de Apel Timişoara (Court of Appeal, Timişoara, Romania), made by decision of 21 November 2018, received at the Court on 24 December 2018, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">SC Terracult SRL</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Direcţia Generală Regională a Finanţelor Publice Timişoara — Administraţia Judeţeană a Finanţelor Publice Arad — Serviciul Inspecţie Fiscală Persoane Juridice 5,</span>
+</p>
+<p class="coj-normal">
+<span class="coj-bold">ANAF Direcţia Generală Regională a Finanţelor Publice Timişoara Serviciul de Soluţionare a Contestaţiilor,</span>
+</p>
+<p class="coj-normal">THE COURT (Fifth Chamber),</p>
+<p class="coj-normal">composed of E. Regan, President of the Chamber, I. Jarukaitis, E. Juhász (Rapporteur), M. Ilešič and C. Lycourgos, Judges,</p>
+<p class="coj-normal">Advocate General: M. Bobek,</p>
+<p class="coj-normal">Registrar: R. Schiano, Administrator,</p>
+<p class="coj-normal">having regard to the written procedure and further to the hearing on 5 February 2020,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">SC Terracult SRL, by I. Kocsis-Josan, avocată,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Romanian Government, initially by E. Gane, R.I. Haţieganu, A. Wellman, O.‑C. Ichim, and C.-R. Canţăr, then by E. Gane, R.I. Haţieganu, A. Wellman and O.‑C. Ichim, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by A. Armenia and N. Gossement, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">after hearing the Opinion of the Advocate General at the sitting on 26 March 2020,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 347, p. 1</a>), as amended by Council Directive 2013/43/EU of 22 July 2013 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2013:201:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2013 L 201, p. 4</a>; ‘the VAT Directive’), and of the principles of fiscal neutrality, effectiveness and proportionality.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between SC Terracult SRL, a commercial company established under Romanian law (‘Terracult’), on the one side, and Direcţia Generală Regională a Finanţelor Publice Timişoara — Administraţia Judeţeană a Finanţelor Publice Arad — Serviciul Inspecţie Fiscală Persoane Juridice 5 (Regional Directorate-General for Public Finance, Timişoara — District Public Finance Administration, Arad — Tax Inspection Department for Legal Persons No 5, Romania) and ANAF Direcţia Generală Regională a Finanţelor Publice Timişoara Serviciul de Soluţionare a Contestaţiilor (National Agency for Tax Administration — Regional Directorate-General for Public Finance, Timişoara — Department for the Settlement of Complaints, Romania), on the other side, concerning an application for annulment of a tax assessment denying that company the right to a refund of value added tax (VAT) and requiring payment of additional tax.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 193 of the VAT Directive:</p>
+<p class="coj-normal">‘VAT shall be payable by any taxable person carrying out a taxable supply of goods or services, except where it is payable by another person in the cases referred to in Articles 194 to 199<span class="coj-italic">b</span> and Article 202.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 199<span class="coj-italic">a</span> of the directive, stemming from Directive 2013/43 which came into force on 15 August 2013, provided:</p>
+<p class="coj-normal">‘1.   Member States may, until 31 December 2018 and for a minimum period of two years, provide that the person liable for payment of VAT is the taxable person to whom any of the following supplies are made:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(i)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">supplies of cereals and industrial crops including oil seeds and sugar beet, that are not normally used in the unaltered state for final consumption;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<p class="coj-normal">1<span class="coj-italic">a</span>.   Member States may lay down the conditions for the application of the mechanism provided for in paragraph 1.</p>
+<p class="coj-normal">1<span class="coj-italic">b</span>.   The application of the mechanism provided for in paragraph 1 to the supply of any of the goods or services listed in points (c) to (j) of that paragraph is subject to the introduction of appropriate and effective reporting obligations on taxable persons who supply the goods or services to which the mechanism provided for in paragraph 1 applies.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Council Implementing Decision of 20 June 2011 authorising Romania to introduce a special measure derogating from Article 193 of Directive 2006/112 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:163:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2011 L 163, p. 26</a>), applicable until 31 May 2013, then under Article 199<span class="coj-italic">a</span> of the VAT Directive, stemming from Directive 2013/43, that Member State applied the reverse charge mechanism in respect of certain cereals, including rapeseed.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Romanian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 7(2) of the Ordonanţa Guvernului nr. 92 privind Codul de procedură fiscală (Government Order No 92 on the Code of Tax Procedure) of 24 December 2003 (<span class="coj-italic">Monitorul Oficial al României</span>, Part I, No 941 of 29 December 2003):</p>
+<p class="coj-normal">‘The tax authority is empowered, of its own motion, to examine the factual situation, and to obtain and use all the information and documents required to establish correctly the tax position of the taxpayer. In the context of its analysis, the tax authority shall identify and take into account all the circumstances relevant to each case.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 205(1) of that code, that article being entitled ‘Possibility of lodging a complaint’, provides:</p>
+<p class="coj-normal">‘A complaint may be lodged, in accordance with the law, against a debt instrument or any administrative act relating to taxation. Such a complaint being a means of informal administrative appeal, it does not deprive those who consider they have been harmed by an administrative act relating to taxation, or the absence thereof, of the right to a judicial remedy under the conditions laid down by law.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 207(1) of the code provides:</p>
+<p class="coj-normal">‘The complaint shall be lodged within 30 days from notification of the administrative act relating to taxation, if it is not to be out of time.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 213(1) and (4) of the code, that article being entitled ‘Processing the complaint’:</p>
+<p class="coj-normal">‘(1)   The competent authority, ruling on the complaint, shall review the factual and legal grounds on which the administrative act relating to taxation is based. The analysis of the complaint shall take into account the arguments of the parties, the legal provisions invoked by them and the documents in the case file. The complaint shall be dealt with within the limits of the referral.</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">(4)   The complainant, the intervening parties or their agents may adduce new evidence in support of their action. In that case, the tax authority that issued the contested administrative act relating to taxation or the body that carried out the inspection, as the case may be, shall have the possibility of taking a decision on that new evidence.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Legea nr. 571 privind Codul fiscal (Law No 571 on the Tax Code) of 22 December 2003 (<span class="coj-italic">Monitorul Oficial al României</span>, Part I, No 927 of 23 December 2003), as amended and completed by Legea nr. 343 (Law No 343) of 17 July 2006 (<span class="coj-italic">Monitorul Oficial al României</span>, Part I, No 662 of 1 August 2006), which transposed, inter alia, the VAT Directive into Romanian law provides in Article 159 thereof:</p>
+<p class="coj-normal">‘(1)   Correction of the information entered in the invoice or in other documents used in its place shall be carried out as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">where the document has not been sent to the recipient, it shall be annulled and a new document shall be issued;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">where the document has been sent to the recipient, either a new document, which must contain, first, the information from the initial document, the number and date of the corrected document, and the values with a minus sign (“–”) and, secondly, the correct information and values, shall be issued, or a new document containing the correct information and values shall be issued at the same time as a document with the values with a minus sign in which the number and date of the corrected document are entered.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<p class="coj-normal">(3)   Taxable persons who have been subject to a tax inspection and in respect of whom errors have been established as regards the correct determination of the tax levied, and who are required to pay those amounts on the basis of the administrative act issued by the competent tax authority, may issue to the recipients corrected invoices within the meaning of paragraph (1)(b). The invoices issued shall state that they were issued following an inspection and be entered under a separate heading in the VAT return. The recipients have the right to deduct the tax entered in those invoices within the limits and under the conditions laid down in Articles 145 to 147<span class="coj-italic">b</span>.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Between 10 and 14 October 2013, Donauland SRL, a commercial company established under Romanian law, supplied rapeseed to Almos Alfons Mosel Handels GmbH (‘Almos’), a commercial company established under German law. It considered the corresponding transactions to be intra-Community supplies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since Donauland was unable to produce, during the tax inspection to which it was subject, the documents attesting that the rapeseed thus supplied had left Romanian territory, the competent tax authority took the view that the exemption from VAT provided for in respect of intra-Community supplies of goods was not applicable to those transactions. That authority therefore required Donauland, by a tax assessment of 4 March 2014 (‘the tax assessment of 4 March 2014’), to pay the sum of 440241 Romanian lei (RON) (approximately EUR 100000) in respect of VAT relating to the supplies of rapeseed to Almos of October 2013, classified as national supplies subject to the standard rate of 24%. Donauland did not challenge that tax assessment, which, consequently, became final.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 27 March 2014, Donauland, in accordance with the tax assessment of 4 March 2014, reclassified the intra-Community supplies concerned as national supplies subject to the standard rate of VAT and issued corrected invoices for that purpose. Those invoices stated that the intra-Community supplies had been cancelled and reclassified. They mentioned that they were corrected invoices and that they had been issued based on the tax assessment of 4 March 2014.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 28 March 2014, Almos informed Donauland that it had established that the corrected invoices included its German tax identification number and requested that they be corrected by showing its Romanian identification data. Almos also indicated to Donauland that the rapeseed in question had not left Romanian territory and that the supplies concerned should be subject to the reverse charge mechanism for VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, on 31 March 2014, Donauland issued new corrected invoices, reclassifying the national supplies at issue, subject to the ordinary rate of VAT, as supplies of goods subject to the reverse charge mechanism for VAT, on account of the purchaser’s identification being incorrect, which was noticed following Almos’s communication of 28 March 2014. Since those new corrected invoices were taken into account in the VAT return for March 2014, Donauland deducted the VAT relating to those invoices from the VAT due for the current period. A negative amount of VAT having been calculated, Donauland applied for a refund of VAT, covering the sum of RON 440241 (approximately EUR 100000), corresponding to the additional VAT mentioned in the tax assessment of 4 March 2014.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">After verifying, between 28 November 2016 and 10 February 2017, the said application for a refund of VAT, the competent tax authority, by a tax assessment of 10 February 2017 (‘the tax assessment of 10 February 2017’), definitively required Terracult, which had acquired Donauland by absorption on 1 August 2016, to pay that sum of RON 440241 (approximately EUR 100000) in respect of the additional VAT relating to the supplies of rapeseed of October 2013. That tax authority took the view, inter alia, that the reclassification of those supplies of rapeseed as supplies of goods subject to the reverse charge mechanism for VAT unlawfully cancelled the effects of the tax assessment of 4 March 2014, although the latter had become final.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The notice of assessment of 10 February 2017 was the subject of an administrative complaint by Terracult, which was rejected on 14 July 2017.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 2 February 2018, Terracult brought an action before the Tribunalul Arad (Regional Court, Arad, Romania) seeking, inter alia, annulment of the decision of 14 July 2017 rejecting its complaint, partial annulment of the tax assessment of 10 February 2017 and a refund of the amount paid under the tax assessment notice of 4 March 2014. Terracult stated that the refund was necessary because Donauland had simply complied, first of all, with the information provided by Almos that the rapeseed supplied would leave Romanian territory; next, with the tax assessment of 4 March 2014 establishing that the rapeseed had not left Romanian territory and requiring payment of additional VAT in respect of national supplies; and, finally, with the actual facts that entailed the application to those supplies of the reverse charge mechanism for VAT. Terracult argued that the rules relating to that mechanism and the principle of neutrality of VAT required that the correction of the invoices in question, carried out on 31 March 2014 according to the actual facts, and the refund of the additional VAT paid but not due, be allowed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 18 May 2018, that court dismissed Terracult’s action on the ground that Donauland had not lodged the administrative complaint that would have enabled it to alter the fiscal factual situation set out in the tax assessment of 4 March 2014. On 29 June 2018 Terracult brought an appeal before the Curtea de Apel Timişoara (Court of Appeal, Timişoara, Romania) against the decision dismissing its action.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Harbouring doubts as to the compatibility with EU law of the relevant national legislation and its application by the national authorities, the Curtea de Apel Timișoara (Court of Appeal, Timișoara) has decided to stay proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="coj-normal">‘Do the VAT Directive and the principles of fiscal neutrality, effectiveness and proportionality preclude, in circumstances such as those in the main proceedings, an administrative practice and/or an interpretation of provisions of national legislation which prevent the correction of certain invoices and, consequently, the entry of the corrected invoices in the VAT return for the period in which the correction was made, in respect of transactions carried out during a period which was the subject of a tax inspection, following which the tax authorities issued a tax assessment which has become final, when, after the issue of the tax assessment, additional data and information have been discovered which would entail the application of a different tax regime?’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its question, the referring court asks, in essence, whether the provisions of the VAT Directive and the principles of fiscal neutrality, effectiveness and proportionality must be interpreted as precluding national legislation or a national administrative practice preventing a taxable person that has carried out transactions which subsequently proved to be covered by the reverse charge mechanism for VAT from correcting the invoices relating to those transactions and relying on them by correcting an earlier tax return or submitting a new tax return taking account of the correction thus made, with a view to obtaining a refund of the VAT improperly invoiced and paid by that taxable person, on the ground that the period in respect of which those transactions were carried out had already been the subject of a tax inspection at the end of which the competent tax authority had issued a tax assessment which, not having been contested by that taxable person, had become final.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is common ground between the interested parties which submitted written observations in the present case that any supply of rapeseed made in October 2013 in Romania by a taxable supplier to another taxable person, each with a Romanian tax identification number, had to be subject to the reverse charge mechanism for VAT. Under that mechanism, no VAT payment takes place between the supplier and the taxable person that is the recipient of the supplies, the latter being liable, in respect of the transactions carried out, for the input VAT (see, to that effect, judgment of 26 April 2017, Farkas, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A302&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑564/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A302" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:302</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A302" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since VAT is not payable by such a supplier, in accordance with Articles 193, 199 and 199<span class="coj-italic">a</span> of the VAT Directive, the supplier cannot be regarded as liable for the payment of VAT and the fact that that supplier has paid the VAT on the mistaken assumption that the supply concerned was not subject to the reverse charge mechanism for VAT does not permit derogation from that rule (see, to that effect, judgment of 23 April 2015, GST — Sarviz Germania, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A267&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑111/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A267" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:267</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A267" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A267" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>), with the result that that VAT incorrectly invoiced and paid must, in principle, be refunded to the supplier.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is settled case-law of the Court that the right to a refund of charges levied in a Member State in breach of rules of EU law is the consequence and complement of the rights conferred on individuals by provisions of EU law as interpreted by the Court. The Member State concerned is therefore in principle required to repay charges levied in breach of EU law. The claim for repayment of overpaid VAT concerns the right to recovery of sums paid but not due which, according to settled case-law, helps to offset the consequences of the tax’s incompatibility with EU law by neutralising the economic burden which that tax has wrongly imposed on the trader who, in fact, has ultimately borne it (judgment of 14 June 2017, Compass Contract Services, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A454&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑38/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A454" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:454</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A454" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A454" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it must be borne in mind that the principle of neutrality of VAT, which is a fundamental principle of the common system for VAT, is meant to relieve the taxable person entirely of the burden of the VAT in the course of its economic activities. That system therefore ensures that all economic activities, whatever their purpose or results, provided that they are, in principle, themselves subject to VAT, are taxed in a wholly neutral way (see, to that effect, judgment of 13 March 2014, Malburg, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A147&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑204/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A147" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:147</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A147" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the refund of VAT invoiced in error, the Court has already held that the VAT Directive does not contain any provisions relating to the adjustment, by the issuer of the invoice, of VAT that has been invoiced improperly and that, in those circumstances, it is in principle for the Member States to lay down the conditions in which improperly invoiced VAT may be adjusted (judgment of 11 April 2013, Rusedespred, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A233&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑138/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A233" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:233</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A233" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In order to ensure neutrality of VAT, it is for the Member States to provide, in their domestic legal systems, for the possibility of adjusting any tax improperly invoiced where the person who issued the invoice shows that he acted in good faith (judgment of 11 April 2013, Rusedespred, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A233&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑138/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A233" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:233</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A233" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, where the issuer of the invoice has, in sufficient time, wholly eliminated the risk of any loss of tax revenue, the principle of neutrality of VAT requires that VAT which has been improperly invoiced can be corrected without such adjustment being made conditional by the Member States upon the good faith of the issuer of the relevant invoice. The adjustment cannot be dependent upon the discretion of the tax authority (judgment of 11 April 2013, Rusedespred, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A233&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑138/12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A233" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:233</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A233" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, in the case of supplies of goods covered by the reverse charge mechanism for VAT, the risk of loss of tax revenue linked to the exercise of the right to a refund is eliminated. If the taxable person to which those supplies are made is liable for the input VAT, the former may, in principle, deduct that tax so that no amount is owed to the tax authority (see, to that effect, judgment of 11 April 2019, PORR Építési Kft., <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A327&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑691/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A327" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:327</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A327" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, in the absence of a risk of loss of tax revenue, the refusal to allow a supplier to receive a refund of the VAT paid but not due — that VAT having been invoiced despite the fact that, instead of the rules relating to the ordinary VAT system, it was those relating to the reverse charge mechanism for VAT which applied to supplies made by that supplier in the course of its economic activities subject to VAT — would amount to imposing on that supplier a tax burden in breach of the principle of neutrality of VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, the principles of fiscal neutrality and proportionality also preclude legislation or administrative practice such as those at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the principle of effectiveness, which requires that a national procedural provision must not make the exercise of the rights conferred on individuals by EU law practically impossible or excessively difficult, it is clear from the Court’s case-law that the possibility of exercising the right to a refund of VAT, without any temporal limit, would be contrary to the principle of legal certainty, which requires the tax position of the taxable person, having regard to his rights and obligations vis-à-vis the tax authorities, not to be open to challenge indefinitely. The Court has also stated that it is compatible with EU law to lay down reasonable time limits for bringing proceedings, if they are not to be out of time, in the interests of legal certainty, which protects both the taxpayer and the authorities concerned. Such periods are not by their nature liable to make it virtually impossible or excessively difficult to exercise the rights conferred by EU law, even if the expiry of those periods necessarily entails the dismissal, in whole or in part, of the action brought (see, to that effect, judgment of 14 February 2019, Nestrade, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A115&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑562/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A115" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:115</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A115" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A115" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">42</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is apparent from the order for reference that, in the main proceedings, the tax authorities and the court ruling at first instance denied the supplier the right to rely on the provisions of national tax legislation governing the possibility of obtaining a refund of the VAT incorrectly invoiced and paid, within a period of five years, by correcting the invoices which the supplier had issued on the ground that the latter, in accordance with the national legislation at issue in the main proceedings, should have made use of the possibility, for the purposes of that refund, of challenging the first tax assessment before it became final.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, as noted by the Advocate General in point 47 of his Opinion, although the national legislation provides that a taxable person has 30 days from the date of communication of the tax assessment to lodge a complaint, that taxable person may have very little time to lodge such a complaint, or may even be time-barred, where the elements on the basis of which that tax assessment may be challenged are discovered after that tax assessment has been issued, so that the exercise of the right to deduct VAT by the taxable person becomes impossible in practice or, at the very least, excessively difficult. In the present case, according to the information before the Court, Terracult’s predecessor had only a few days to challenge properly the first tax assessment through the complaints procedure open to it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the principle of effectiveness precludes such national legislation or administrative practices in so far as they are liable to deny a taxable person the opportunity to correct its invoices concerning certain operations and to rely on them with a view to obtaining a refund of VAT improperly invoiced and paid by that taxable person, even though the five-year limitation period laid down by that legislation has not yet elapsed (see, by analogy, judgment of 26 April 2018, Zabrus Siret, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑81/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:283</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">With regard to the referring court’s doubts concerning the principle of proportionality, it must be borne in mind that the national legislature is able to attach penalties to the formal obligations of taxable persons to encourage them to comply with those obligations, in order to ensure the proper working of the VAT system and that, accordingly, an administrative fine can be imposed on a taxable person whose application for a refund of the VAT paid but not due is the result of its own negligence (see, to that effect, judgment of 26 April 2018, Zabrus Siret, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑81/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:283</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">49</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is important to note that, assuming that the taxable person’s negligence is established, which is a matter for the referring court to determine, the Member State concerned must employ means which, whilst enabling it effectively to attain the objective pursued by national legislation, are the least detrimental to the principles laid down by EU legislation, such as the principle of neutrality of VAT. Therefore, in view of the position which that principle has in the common system of VAT, a penalty consisting of an absolute denial of the right to a refund of VAT incorrectly invoiced and paid but not due, appears disproportionate (see, to that effect, judgment of 26 April 2018, Zabrus Siret, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑81/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:283</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A283" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">51</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It must also be added that, as observed by the Romanian Government, the right to a refund of VAT must be denied if that right is being relied on fraudulently or abusively. The prevention of fraud and potential abuse is an objective recognised and promoted by the VAT Directive and EU law cannot be relied on by individuals for abusive or fraudulent ends (see, to that effect, judgment of 3 October 2019, Altic, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A831&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑329/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A831" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:831</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A831" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> and the case-law cited). However, in the present case, the referring court makes no mention, in its request for a preliminary ruling, of the existence of fraud or abuse.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of all of the foregoing considerations, the answer to the question referred is that the provisions of the VAT Directive and the principles of fiscal neutrality, effectiveness and proportionality must be interpreted as precluding national legislation or a national administrative practice preventing a taxable person that has carried out transactions which subsequently proved to be covered by the reverse charge mechanism for VAT from correcting the invoices relating to those transactions and relying on them by correcting an earlier tax return or submitting a new tax return taking account of the correction thus made, with a view to obtaining a refund of the VAT improperly invoiced and paid by that taxable person, on the ground that the period in respect of which those transactions were carried out had already been the subject of a tax inspection at the end of which the competent tax authority had issued a tax assessment which, not having been contested by that taxable person, had become final.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="coj-normal">
+<span class="coj-bold">The provisions of Council Directive 2006/112/EC of 28 November 2006 on the common system for value added tax, as amended by Council Directive 2013/43/EU of 22 July 2013, and the principles of fiscal neutrality, effectiveness and proportionality must be interpreted as precluding national legislation or a national administrative practice preventing a taxable person that has carried out transactions which subsequently proved to be covered by the reverse charge mechanism for value added tax (VAT) from correcting the invoices relating to those transactions and relying on them by correcting an earlier tax return or submitting a new tax return taking account of the correction thus made, with a view to obtaining a refund of the VAT improperly invoiced and paid by that taxable person, on the ground that the period in respect of which those transactions were carried out had already been the subject of a tax inspection at the end of which the competent tax authority had issued a tax assessment which, not having been contested by that taxable person, had become final.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62018CJ0835_EN_01-E0001" id="t-ECR_62018CJ0835_EN_01-E0001">*1</a>
+</span>)	Language of the case: Romanian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

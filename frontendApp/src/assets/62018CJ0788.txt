@@ -1,0 +1,635 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (First Chamber)</p>
+<p class="sum-title-1">26 February 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0788_EN_01-E0001" id="c-ECR_62018CJ0788_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Freedom to provide services — Article 56 TFEU — Games of chance — Taxation — Principle of non-discrimination — Single tax on betting)</p>
+<p class="normal">In Case C‑788/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Commissione tributaria provinciale di Parma (Provincial Tax Court, Parma, Italy), made by decision of 15 October 2018, received at the Court on 14 December 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Stanleyparma Sas di Cantarelli Pietro &amp; C.,</span>
+</p>
+<p class="normal">
+<span class="bold">Stanleybet Malta Ltd</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Agenzia delle Dogane e dei Monopoli UM Emilia Romagna — SOT Parma</span>
+</p>
+<p class="normal">THE COURT (First Chamber),</p>
+<p class="normal">composed of J.-C. Bonichot, President of the Chamber, M. Safjan, L. Bay Larsen, C. Toader (Rapporteur) and N. Jääskinen, Judges,</p>
+<p class="normal">Advocate General: E. Tanchev,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Stanleyparma Sas di Cantarelli Pietro &amp; C., by D. Agnello, V. Varzi and M. Mura, avvocati,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Stanleybet Malta Ltd, by R.A. Jacchia, F. Ferraro, A. Terranova and D. Agnello, avvocati,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Italian Government, by G. Palmieri, acting as Agent, and by P.G. Marrone and S. Fiorentino, avvocati dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Belgian Government, by L. Van den Broeck and M. Jacobs, acting as Agents, assisted by P. Vlaemminck and R. Verbeke, advocaten,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Czech Government, by M. Smolek, O. Serdula and J. Vláčil, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by P. Rossi and N. Gossement, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Articles 52, 56 and 57 TFEU and the principles of non-discrimination and equal treatment in matters of taxation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Stanleyparma Sas di Cantarelli Pietro &amp; C. and Stanleybet Malta Ltd, and the Agenzia delle Dogane e dei Monopoli UM Emilia Romagna — SOT Parma (Customs and Monopolies Agency, Monopolies office, Emilia-Romagna, Parma operational centre, Italy) (‘the ADM’), concerning the legality of the CMA’s decision relating to the obligation to pay, in Italy, a single tax on betting (‘the single tax’) imposed, principally, on Centri Trasmissione Dati (Data transmission centres) (‘DTCs’), such as Stanleyparma, and also, secondly, on Stanleybet Malta, as jointly and severally liable.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Pursuant to Article 1 decreto legislativo n. 504 — Riordino dell’imposta unica sui concorsi pronostici e sulle scommesse, a norma dell’articolo 1, comma 2, della legge 3 agosto 1998, n. 288 (Legislative Decree No 504 — on the reorganisation of the single tax on betting and pools pursuant to Article 1(2) of the Law of 3 August 1998 No 288), of 23 December 1998, (GURI n<span class="super">o</span> 27, of 3 February 1999) (‘the Legislative Decree No 504/1998’), the single tax is payable on pools and betting, in relation to any kind of event, including when taking place abroad.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3 of that legislative decree, entitled ‘Taxable persons’, is worded as follows:</p>
+<p class="normal">‘Anyone managing betting and pools, including under licence, is a taxable person for the purposes of the single tax.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1, paragraph 66, of legge n. 220 — Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilità 2011) (Law No 220 on provisions for the formation of the annual and multiannual State budget (Stability Law 2011), of 13 December 2010, (GURI No 297 of 21 December 2010) (‘the Stability Law 2011’) provides:</p>
+<p class="normal">‘[…]</p>
+<p class="normal">(a) […] the single tax … is still due even if the collection of bets, including online bets, takes place in the absence of a valid licence granted by the Ministry of the Economy and Finance — Autonomous Administration of State Monopolies, or where the licence is irregular;</p>
+<p class="normal">(b) Article 3 of the legislative decree [No 504/1998] shall be understood to mean that the taxable person is anyone who, even without a valid licence granted by the Ministry of the Economy and Finance — Autonomous Administration of State Monopolies, or where the licence is irregular, manages, by any means, including electronically, on his or her own account or on behalf of third parties, even if established abroad, pools or betting of any kind. If the activity is carried out on behalf of third parties, the person on whose behalf the activity is carried out shall be jointly liable for payment of the tax and any related penalties.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">The decreto del Ministero dell’Economia e delle Finanze n. 111 — Norme concernenti la disciplina delle scommesse a quota fissa su eventi sportivi diversi dalle corse dei cavalli e su eventi non sportivi da adottare ai sensi dell’articolo 1, comma 286, della legge 30 dicembre 2004, n. 311 (Decree of the Ministry for the Economy and Finance No 111 — Regime for fixed-odds betting on sporting and non-sporting events (other than horse racing), within the meaning of Article 1, Paragraph 286, of the Law of 30 December 2004 No 311), of 1 March 2006, (GURI No 67, of 21 March 2006), provides in Article 16 that the licensee is to make the required payment for the single tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Pursuant to Article 1, paragraph 644(g) of the legge n<span class="super">o</span> 190 — Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilità 2015) (Law No 190 laying down the rules for establishing the annual and multiannual State budget (Stability Law 2015)), of 23 December 2014, (Ordinary Supplement to the GURI No 300 of 29 December 2014), the single tax applies ‘to a flat-rate taxable amount corresponding to three times the average amount collected in the province where the business or collection point is located, as inferred from the data recorded in the national totaliser for the tax period preceding the reference period’.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Stanleybet Malta operates in Italy in the collection of bets, through ‘DTCs’ such as Stanleyparma, on the contractual basis of a mandate. DTCs, which are situated in locations open to the public, place a computer link at the disposal of gamblers and transmit the data relating to each bet to their client. Stanleybet Malta, which has been active in Italy for about twenty years, does not hold a licence or police authorisation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">By a tax adjustment decision of 21 September 2016, the ADM sent to Stanleyparma and, secondly, to Stanleybet Malta, as jointly and severally liable, a tax recovery notice, pursuant to Article 3 of Legislative Decree No 504/1998, as interpreted in Article 1, paragraph 66, of the Stability Law 2011, for the payment of the single tax on bets collected in Italy during the 2011 tax year, in the sum of 8 422.60 EUR. The ADM considered that that tax was due because Stanleyparma operated, ‘on behalf of third parties’, an activity managing bets.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Stanleyparma and Stanleybet Malta brought an application before the referring court, la Commissione tributaria provinciale di Parma (Provincial tax court, Parma, Italy), seeking the annulment of that decision, in which they submitted that the national legislation at issue in the main proceedings established, in their regard, a restriction on the freedom to provide services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court, which entertains the same doubts as the applicants, wonders in particular whether the national legislation is compatible with EU law, including Articles 52, 56 and 57 TFEU and the principles of equal treatment and non-discrimination.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">That court considers that the fact that DTCs are liable for the single tax is an unlawful restriction on the freedom to provide services, within the meaning of Article 56 TFEU, from two perspectives. First, it is not laid down that DTCs that operate on behalf of national licence-holders are liable for that tax, even though their activity is comparable to that of Stanleyparma. Second, Stanleyparma, which is required to pay that tax, would be treated in the same way as those licence holders, whose activity is however different.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">According to the referring court, there is no justification for the possible restriction on the freedom to provide services, since the national legislation at issue in the main proceedings pursues a purely economic objective. In support of its point of view, that court refers to a judgment of the Corte costituzionale (Constitutional Court, Italy) of 23 January 2018, in which the latter declared that national law to be contrary to the Constitution for the financial years before 2011, in that it provided that DTCs operating on behalf of third parties, which, like Stanleybet Malta, were not licence holders, were taxable persons for the purposes of the single tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Commissione tributaria provinciale di Parma (Provincial Tax Court, Parma) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Are Articles 56, 57 and 52 [TFEU], the case-law of the [Court] on gambling and betting services, particularly the judgments [of 6 November 2003, Gambelli and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A597&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑243/01</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A597&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:597</a>), of 6 March 2007, Placanica and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A133&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑338/04, C‑359/04 and C‑360/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A133&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2007:133</a>), of 16 February 2012, Costa and Cifone (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A80&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑72/10 and C‑77/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A80&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:80</a>), and of 28 January 2016, Laezza (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A60&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑375/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A60&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:60</a>)], and on tax discrimination, particularly the judgments [of 13 November 2003, Lindman (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A613&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑42/02</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A613&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:613</a>), of 6 October 2009, Commission v Spain (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A618&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑153/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A618&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:618</a>), and of 22 October 2014, Blanco and Fabretti (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2311&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑344/13 and C‑367/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2311&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2311</a>)], and the principles of equal treatment and non-discrimination under EU law, having regard also to the judgment of the Corte costituzionale (Constitutional Court) of 23 January 2018, to be interpreted as precluding national legislation, such as the Italian legislation at issue, which makes national intermediaries transmitting gambling data on behalf of bookmakers established in a different EU Member State, in particular those sharing the characteristics of [Stanleybet Malta] and, secondly, those bookmakers jointly and severally with their national intermediaries, liable to the single tax […]?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Are Articles 56, 57 and 52 [TFEU], the case-law of the [Court] on gambling and betting services, particularly the judgments [of 6 November 2003, Gambelli and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A597&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑243/01</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A597&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:597</a>), of 6 March 2007, Placanica and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A133&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑338/04, C‑359/04 and C‑360/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A133&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2007:133</a>), of 16 February 2012, Costa and Cifone (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A80&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑72/10 and C‑77/10</a>
+<a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A80&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:80</a>), and of 28 January 2016, Laezza (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A60&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑375/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A60&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:60</a>)], and on tax discrimination, particularly the judgments [of 13 November 2003, Lindman (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A613&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑42/02</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A613&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:613</a>), of 6 October 2009, Commission v Spain (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A618&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑153/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A618&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:618</a>), and of 22 October 2014, Blanco and Fabretti (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2311&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑344/13 and C‑367/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2311&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2311</a>)], and the principles of equal treatment and non-discrimination under EU law, having regard also to the judgment of the Corte costituzionale (Constitutional Court) of 23 January 2018, to be interpreted as precluding national legislation, such as the Italian legislation at issue, which makes only national intermediaries transmitting gambling data on behalf of bookmakers established in a different EU Member State, in particular those sharing the characteristics of [Stanleybet Malta], and not the national intermediaries transmitting gambling data on behalf of State-licensed bookmakers who however exercise the same activity, liable to the single tax […]?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">Do Articles 52 and 56 et seq. [TFEU], the case-law of the [Court] on gambling and betting services, and the principles of equal treatment and non-discrimination, having regard also to the judgment of the Corte costituzionale (Constitutional Court) of 23 January 2018, preclude national legislation such as the Italian legislation at issue, with Article 1, paragraph 644, (g) of the Law No 190/2014, which requires national intermediaries transmitting gambling data on behalf of bookmakers established in a different EU Member State, in particular those sharing the characteristics of [Stanleybet Malta] and, secondly, those bookmakers jointly and severally with their national intermediaries, to pay the single tax […] on a flat-rate taxable amount corresponding to three times the average amount collected in the province where the business or collection point is located, as inferred from the data recorded in the national totaliser for the tax period preceding the reference period?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first and second questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">By its first and second questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 56 TFEU precludes legislation of a Member State that makes DTCs established in that Member State liable to a tax on betting jointly and severally with the betting operators, their clients, which are established in another Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">In the first place it should be recalled that, according to the settled case-law of the Court, games of chance are subject to the rules on the provision of services and, consequently, fall within the scope of Article 56 TFEU, provided that at least one of the providers is established in a Member State other than that in which the service is offered (see, to that effect, the judgments of 13 November 2003, Lindman, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A613&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑42/02</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A613&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:613</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A613&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point19" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">19</a>, and of 22 October 2014, Blanco and Fabretti, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2311&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑344/13 and C‑367/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2311&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2311</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2311&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>). It is therefore necessary to examine the case from the viewpoint of the freedom to provide services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">It must be borne in mind that the freedom to provide services under Article 56 TFEU requires not only the elimination of all discrimination on grounds of nationality against providers of services established in other Member States, but also the abolition of any restriction — even if it applies without distinction to national providers of services and to those from other Member States — which is liable to prohibit, impede or render less attractive the activities of a provider of services established in another Member State where he lawfully provides similar services (see judgment of 22 October 2014, Blanco and Fabretti, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2311&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑344/13 and C‑367/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2311&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2311</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2311&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, it should be noted that the Court has validated the use of the system of concessions in the sector of games of chance, considering that it may constitute an efficient mechanism enabling operators active in the sector of games of chance to be controlled with a view to preventing the exploitation of those activities for criminal or fraudulent purposes (judgment of 19 December 2018, Stanley International Betting and Stanleybet Malta, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A1026&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑375/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A1026&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:1026</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A1026&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point66" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">66</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">In order to determine whether there is discrimination, it is necessary to verify that comparable situations are not treated differently and that different situations are not treated in the same way unless such treatment is objectively justified (judgment of 6 June 2019, P.M. and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A472&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑264/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A472&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:472</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A472&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, as is clear from documents in the case file available to the Court, the single tax is imposed on the activity of collecting bets in Italy. Pursuant to Article 1, paragraph 66 (a) and (b) of the Stability Law 2011, persons liable for that tax are all operators who manage pools or bets, irrespective of whether they operate on their own behalf or on behalf of a third party, whether they hold a licence, and where they are established, even if it is abroad.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Having regard to the information provided by the referring court, it appears that the single tax applies to all operators who manage bets collected on Italian territory, without making a distinction on the basis of the place of establishment of those operators, such that the imposition of that tax on Stanleybet Malta cannot be regarded as discriminatory.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">It must be observed that the national legislation at issue in the main proceedings does not lay down a tax regime that differs according to whether the provision of services is executed in Italy or in other Member States.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, as regards Stanleybet Malta’s allegation that, under the Italian legislation at issue in the main proceedings, it is subject to a double taxation, in Malta and in Italy, it must be recalled that, in the current stage of the development of EU law, the Member States enjoy a certain autonomy in the area of taxation provided they comply with EU law, and are not obliged therefore to adapt their own tax systems to the different systems of tax of the other Member States in order, inter alia, to eliminate the double taxation resulting from the parallel exercise by those States of their competences in respect of taxation (see, by analogy, the judgment of 1 December 2011, Commission v Hungary, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A795&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑253/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A795&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:795</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A795&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point83" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">83</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that Stanleybet Malta does not suffer, in comparison with a national operator carrying out its activities under the same conditions as that company, any discriminatory restriction owing to the application to it of national legislation, such as that at issue in the main proceedings. Similarly, that legislation does not appear liable to prohibit, impede or render less advantageous the activities of a company such as Stanleybet Malta in the Member State concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">As regards Stanleyparma, that company exercises, as the intermediary of Stanleybet Malta and against remuneration, an activity offering and collecting bets.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">That company exercises inter alia, on the same basis as national betting operators, an activity of managing bets, which is a condition for being subject to the single tax. On that basis, pursuant to Article 1, paragraph 66 (b) of the Stability Law 2011, Stanleyparma is liable, jointly and severally with Stanleybet Malta, for the payment of that tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, it is clear from Article 16 of the Decree of the Ministry of the Economy and Finance No 111 of 1 March 2006 that operators who have a licence to organise betting in Italy pay the single tax. According to the referring court, their DTCs are not however jointly and severally liable for that tax, unlike Stanleyparma.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must nevertheless be observed that, unlike DTCs which transmit betting data on behalf of national betting operators, Stanleyparma collects bets on behalf of Stanleybet Malta, which is established in another Member State. It is not therefore in the same position as national operators with regard to the objectives of the Stability Law 2011.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the national legislation at issue in the main proceedings does not give rise to any discriminatory restriction as regards Stanleybet Malta and Stanleyparma and does not interfere, in their regard, with the freedom to provide services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Having regard to all the foregoing considerations, the answer to the first and second questions is that Article 56 TFEU must be interpreted as not precluding the legislation of a Member State that makes DTCs established in that Member State liable to a tax on betting jointly and severally with the betting operators, their clients, which are established in another Member State, irrespective of where those operators are established and of the absence of a licence to organise betting.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The third question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">By its third question, the referring court asks, in essence, whether Article 56 TFEU precludes national legislation that provides for an additional tax on betting on the basis of a flat-rate taxable amount corresponding to three times the average amount collected at the collection point in a Member State, for the DTCs acting on behalf of betting operators established in another Member State and which do not hold a licence, as well as for the betting operators themselves.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">The Italian Government and the Commission contest the admissibility of the third question, since, according to them, the answer to it is not necessary for the resolution of the dispute in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, according established case-law, the Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (see, to that effect, the judgments of 9 October 1997, Grado and Bashir, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1997%3A479&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑291/96</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A479&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1997:479</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1997%3A479&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point12" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">12</a>, and of 19 November 2019, A. K. and Others (Independence of the Disciplinary Chamber of the Supreme Court) (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A982&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑585/18, C‑624/18 and C‑625/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A982&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:982</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A982&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point98" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">98</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it must be observed that the national legislation resulting from Law No 190 of 23 December 2014 does not apply to the dispute in the main proceedings, given that the contested decision on the tax adjustment relates to the tax year of 2011. Consequently, the third question, which is irrelevant for the resolution of that dispute before the referring court, is inadmissible.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (First Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 56 TFEU must be interpreted as not precluding the legislation of a Member State that makes DTCs established in that Member State liable to a tax on betting jointly and severally with betting operators, their clients, which are established in another Member State, irrespective of where those operators are established and the absence of a licence to organise betting.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0788_EN_01-E0001" id="t-ECR_62018CJ0788_EN_01-E0001">*1</a>
+</span>)	Language of the case: Italian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

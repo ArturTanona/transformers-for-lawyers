@@ -1,0 +1,1310 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+<p class="sum-title-1">27 February 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0384_EN_01-E0001" id="c-ECR_62018CJ0384_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Failure of a Member State to fulfil obligations — Article 49 TFEU — Services in the internal market — Directive 2006/123/EC — Article 25(1) and (2) — Restrictions on multidisciplinary activities of accountants)</p>
+<p class="normal">In Case C‑384/18,</p>
+<p class="normal">ACTION under Article 258 TFEU for failure to fulfil obligations, brought on 8 June 2018,</p>
+<p class="normal">
+<span class="bold">European Commission</span>, represented by H. Tserepa-Lacombe and L. Malferrari, acting as Agents,</p>
+<p class="pstatus">applicant,</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Kingdom of Belgium</span>, represented by L. Van den Broeck, M. Jacobs and C. Pochet, acting as Agents, and by C. Smits and D. Grisay, lawyers, M. Vossen, G. Lievens and F. Haemers,</p>
+<p class="pstatus">defendant,</p>
+<p class="normal">THE COURT (Fourth Chamber),</p>
+<p class="normal">composed of M. Vilaras, President of the Chamber, S. Rodin (Rapporteur), D. Šváby, K. Jürimäe and N. Piçarra, Judges,</p>
+<p class="normal">Advocate General: M. Szpunar,</p>
+<p class="normal">Registrar: V. Giacobbo-Peyronnel, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 23 May 2019,</p>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 10 October 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">By its application, the European Commission asks the Court to find that, by prohibiting the exercise of accounting activities in conjunction with the activities of an insurance broker or agent, or of an estate agent, or with any banking or financial services activity, and by permitting the chambers of the Institut Professionnel des Comptables et Fiscalistes Agréés (Professional Institute of Approved Accountants and Tax Consultants; the ‘IPCF’) to prohibit the exercise of accounting activities in conjunction with any artisanal, commercial or agricultural activity, the Kingdom of Belgium has failed to fulfil its obligations under Article 25 of Directive 2006/123/EC of the European Parliament and of the Council of 12 December 2006 on services in the internal market (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:376:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 376, p. 36</a>) and Article 49 TFEU.</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="bold">I.</span> <span class="bold">Legal context</span>
+</p>
+<p class="normal">
+<span class="bold">A.</span> <span class="bold">European Union law</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Recitals 97 and 101 of Directive 2006/123 state:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(97)</p>
+</td>
+<td valign="top">
+<p class="normal">It is necessary to provide in this Directive for certain rules on high quality of services, ensuring in particular information and transparency requirements. These rules should apply both in cases of cross border provision of services between Member States and in cases of services provided in a Member State by a provider established there, without imposing unnecessary burdens on SMEs. They should not in any way prevent Member States from applying, in conformity with this Directive and other Community law, additional or different quality requirements.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(101)</p>
+</td>
+<td valign="top">
+<p class="normal">It is necessary and in the interest of recipients, in particular consumers, to ensure that it is possible for providers to offer multidisciplinary services and that restrictions in this regard be limited to what is necessary to ensure the impartiality, independence and integrity of the regulated professions. This does not affect restrictions or prohibitions on carrying out particular activities which aim at ensuring independence in cases in which a Member State entrusts a provider with a particular task, notably in the area of urban development, nor should it affect the application of competition rules.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 25 of that directive, entitled ‘Multidisciplinary activities’, is worded as follows:</p>
+<p class="normal">‘1.   Member States shall ensure that providers are not made subject to requirements which oblige them to exercise a given specific activity exclusively or which restrict the exercise jointly or in partnership of different activities.</p>
+<p class="normal">However, the following providers may be made subject to such requirements:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the regulated professions, in so far as is justified in order to guarantee compliance with the rules governing professional ethics and conduct, which vary according to the specific nature of each profession, and is necessary in order to ensure their independence and impartiality;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">providers of certification, accreditation, technical monitoring, test or trial services in so far as is justified in order to ensure their independence and impartiality.</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   Where multidisciplinary activities between providers referred to in points (a) and (b) of paragraph 1 are authorised, Member States shall ensure the following:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">that conflicts of interest and incompatibilities between certain activities are prevented;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">that the independence and impartiality required for certain activities is secured;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">that the rules governing professional ethics and conduct for different activities are compatible with one another, especially as regards matters of professional secrecy.</p>
+</td>
+</tr>
+</table>
+<p class="normal">3.   In the report referred to in Article 39(1), Member States shall indicate which providers are subject to the requirements laid down in paragraph 1 of this Article, the content of those requirements and the reasons for which they consider them to be justified.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Under recital 10 of Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2015:141:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2015 L 141, p. 73</a>):</p>
+<p class="normal">‘Directly comparable services should be treated in the same manner when provided by any of the professionals covered by this Directive. In order to ensure respect for the rights guaranteed by the Charter of Fundamental Rights of the European Union (the ‘Charter’), in the case of auditors, external accountants and tax advisors, who, in some Member States, are entitled to defend or represent a client in the context of judicial proceedings or to ascertain a client’s legal position, the information they obtain in the performance of those tasks should not be subject to the reporting obligations laid down in this Directive.’</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="bold">B.</span> <span class="bold">Belgian law</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 21 of the IPCF code of ethics, in the version approved by Royal Decree of 22 October 2013 (<span class="italic">Moniteur belge</span> of 21 November 2013, p. 86547; the ‘old IPCF code of ethics’), reads as follows:</p>
+<p class="normal">‘1.   The profession of external IPCF accountant is incompatible with any artisanal, agricultural or commercial activity, whether exercised directly or indirectly, individually or through an association or company, as sole trader or as manager, director, executive officer or active partner.</p>
+<p class="normal">2.   Except for the activities mentioned in paragraph 3, the [professional chambers of the IPCF] may derogate from this rule at the request of an external IPCF accountant, made in advance and in writing, provided that the independence and impartiality of the member are not jeopardised and that the activity in question is ancillary. Such a decision is always capable of being revoked by the chambers.</p>
+<p class="normal">Furthermore, the Council may always make provision concerning derogations by way of a general directive, in relation to specified activities in the artisanal, agricultural or commercial sector, outside the particular areas referred to in paragraph 3. The Council may also adopt directives under which incompatibilities are temporarily disregarded in cases of business transfer. The external IPCF accountant, who will be subject to Council directives, must inform the chamber in writing.</p>
+<p class="normal">3.   The following professional activities are always regarded as jeopardising the independence and impartiality of the external accountant: those of an insurance broker or agent; those of an estate agent (other than that of a managing agent), and any banking and financial services activities requiring registration with the Autorité des Services et Marchés Financiers (Financial Markets and Services Authority (FSMA).’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 21 of the IPCF code of ethics, in the version approved by Royal Decree of 18 July 2017 (<span class="italic">Moniteur belge</span> of 14 August 2017, p. 79692; the ‘new IPCF code of ethics’), provides:</p>
+<p class="normal">‘1.   Except for the activities referred to in paragraph 2, the exercise of multidisciplinary activities, as a natural person or as a legal person, shall be authorised by the chambers at the written request of an external IPCF accountant, provided that the independence and impartiality of the member are not jeopardised.</p>
+<p class="normal">2.   The following professional activities, whether exercised as a natural person or as a legal person, are always regarded as jeopardising the independence and impartiality of the external IPCF accountant: that of an insurance broker or agent; that of an estate agent (other than that of a managing agent), and any banking and financial services activities requiring registration with the Financial Markets and Services Authority.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 458 of the Criminal Code of 8 June 1867 (<span class="italic">Moniteur belge</span> of 9 June 1867, p. 3133), in the version in force at the material time (the ‘Belgian Criminal Code’), provides:</p>
+<p class="normal">‘Medical practitioners, surgeons, health officers, pharmacists, midwives and all other persons who, by virtue of their position or profession, are in receipt of confidential information shall, except where called to give evidence in a court of law or before a Parliamentary commission of enquiry, or where required by law to disclose such information, be punished, in the event of such disclosure, by a term of imprisonment of 8 days to 6 months and a fine of EUR 100 to EUR 500.’</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="bold">II.</span> <span class="bold">Pre-litigation procedure</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">On 17 March 2015, the Commission initiated EU Pilot procedure 7402/15/GROW by asking the Belgian authorities to provide it with information concerning the prohibition on approved accountants combining their activities with certain other activities, and the reasons why activities in the artisanal, agricultural or commercial sector could be regarded as incompatible with the profession of accountant.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">The Kingdom of Belgium responded to the Commission’s questions by letter of 29 May 2015.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Since it found that the justifications given for the restrictions laid down by national law were insufficient, on 11 December 2015 the Commission sent the Kingdom of Belgium a letter of formal notice by which it maintained that Article 21 of the old IPCF code of ethics did not comply with Article 25 of Directive 2006/123 and Article 49 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">By letters of 12 April and 6 July 2016, the Kingdom of Belgium denied the infringement alleged against it and explained why it considered that the national legislation complied with EU law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">On 18 November 2016, the Commission sent a reasoned opinion to the Kingdom of Belgium, which responded on 12 January and 13 February 2017.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Since it was not satisfied with that response, the Commission decided, on 13 July 2017, to bring an action for failure to fulfil obligations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">On 4 August 2017, the Kingdom of Belgium notified the Commission of the new IPCF code of ethics and stated that it complied with EU law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Since it did not share the Kingdom of Belgium’s view, the Commission brought the present action.</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="bold">III.</span> <span class="bold">The action</span>
+</p>
+<p class="normal">
+<span class="bold">A.</span> <span class="bold">Scope of the action</span>
+</p>
+<p class="normal">
+<span class="bold">
+<span class="italic">1.</span>
+</span> <span class="bold">
+<span class="italic">Arguments of the parties</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">The Commission claims that the adoption, after the expiry of the period laid down in the reasoned opinion, of the new IPCF code of ethics did not remove the restriction in Article 21 of the old IPCF code of ethics and, therefore, did not put an end to the alleged infringement. According to the Commission, not only is Article 21(2) of the new IPCF code of ethics identical to Article 21(3) of the old IPCF code of ethics, but also Article 21(1) of the new IPCF code of ethics has exacerbated the alleged failure to fulfil obligations by generalising the obligation to obtain authorisation in order to exercise multidisciplinary activities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">The Kingdom of Belgium does not dispute that Article 21(2) of the new IPCF code of ethics is, in essence, identical to Article 21(3) of the old IPCF code of ethics. However, as regards Article 21(1) of the new IPCF code of ethics, the Kingdom of Belgium submits that that provision has not exacerbated the alleged failure to fulfil obligations, in so far as the system established by that provision is now based on the principle of authorisation and such authorisation is refused only in exceptional cases.</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="bold">
+<span class="italic">2.</span>
+</span> <span class="bold">
+<span class="italic">Findings of the Court</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">In order to establish the scope of the present action for failure to fulfil obligations, the question whether a Member State has failed to fulfil obligations must be determined by reference to the situation prevailing in the Member State at the end of the period laid down in the reasoned opinion and the Court cannot take account of any subsequent changes (judgment of 26 June 2019, Commission v Greece, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A534&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑729/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A534&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:534</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A534&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Where the national legislation at issue in proceedings for failure to fulfil obligations is subsequently amended, the Commission does not alter the subject matter of its action by imputing its complaints against the earlier legislation to the legislation resulting from the amendment adopted, where the two versions of the national legislation are identical in content (judgment of 26 June 2019, Commission v Greece, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A534&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑729/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A534&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:534</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A534&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Conversely, the subject matter of the dispute cannot be extended to obligations arising under new provisions which do not correspond to those arising under the original version of the measure concerned, for otherwise it would constitute a breach of the essential procedural requirements of infringement proceedings (judgment of 26 June 2019, Commission v Greece, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A534&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑729/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A534&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:534</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A534&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">In so far as the Commission imputed, in its application and in its reply, the complaints which it initially made in its reasoned opinion also to the new IPCF code of ethics, it is necessary to determine whether, in doing so, it altered the subject matter of the action.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, in the first place, it should be noted, and it is not disputed by the parties, that the scope of Article 21(2) of the new IPCF code of ethics is identical to that of Article 21(3) of the old IPCF code of ethics. Those two provisions provide, in essence, that the activities of an insurance broker or agent, or of an estate agent, except for the activity of a managing agent, and any banking and financial services activities requiring registration with the Financial Markets and Services Authority are always regarded as jeopardising the independence and impartiality of an external IPCF accountant.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, while Article 21(2) of the old IPCF code of ethics provided that the executive chambers of the IPCF (the ‘professional chambers’) could derogate from the prohibition on exercising the profession of IPCF accountant in conjunction with artisanal, agricultural and commercial activities, by means of an authorisation, on condition that such derogation did not jeopardise the IPCF accountant’s independence and impartiality and that the latter activity was ancillary, Article 21(1) of the new IPCF code of ethics provides, in general terms, that the exercise of multidisciplinary activities by an external IPCF accountant is to be authorised by the professional chambers, provided that the accountant’s independence and impartiality are not jeopardised.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">It is clear from the wording of the latter provision that, in comparison with Article 21(2) of the old IPCF code of ethics, it no longer lists the professional activities in respect of which an IPCF accountant must seek authorisation in order to be able to exercise them jointly with the profession of IPCF accountant, thus broadening the scope of the activities referred to, and that it no longer contains any condition that the exercise of such activity must be ancillary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, in so far as Article 21(1) of the new IPCF code of ethics significantly altered the system of authorisations for exercising the profession of IPCF accountant in conjunction with other professional activities, the content of that provision cannot be regarded as identical to that of Article 21(1) and (2) of the old IPCF code of ethics.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, in so far as the Commission’s complaints also relate to Article 21(1) of the new IPCF code of ethics, this alters the subject matter of the dispute in such a way that it is necessary to examine those complaints without taking account of the fact that they were extended in the application and in the reply as regards Article 21(1) of the new IPCF code of ethics.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, it is necessary to dismiss as inadmissible the complaints relating to the infringement of the provisions of Article 49 TFEU and Article 25 of Directive 2006/123, in so far as those complaints relate to Article 21(1) of the new IPCF code of ethics, and to examine only the compatibility of Article 21(1) to (3) of the old IPCF code of ethics and Article 21(2) of the new IPCF code of ethics with Article 25 of Directive 2006/123 and Article 49 TFEU.</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="bold">B.</span> <span class="bold">Substance</span>
+</p>
+<p class="normal">
+<span class="bold">
+<span class="italic">1.</span>
+</span> <span class="bold">
+<span class="italic">The first complaint, alleging infringement of Article 25 of Directive 2006/123</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">The complaint alleging infringement of Article 25 of Directive 2006/123 is in two parts, the first relating to Article 21(3) of the old IPCF code of ethics and Article 21(2) of the new IPCF code of ethics, and the second relating to Article 21(1) and (2) of the old IPCF code of ethics.</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="bold">
+<span class="italic">(a)</span>
+</span> <span class="bold">
+<span class="italic">The first part of the first complaint, alleging infringement of Article 25 of Directive 2006/123 by Article 21(3) of the old IPCF code of ethics and Article 21(2) of the new IPCF code of ethics</span>
+</span>
+</p>
+<p class="normal">
+<span class="italic">(1)</span> <span class="italic">Arguments of the parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">The Commission submits that the objective of Article 25 of Directive 2006/123 is to ensure that the Member States do not prevent the exercise of multidisciplinary services. According to the Commission, Article 21(2) of the new IPCF code of ethics, which reproduced without substantial amendment the content of Article 21(3) of the old IPCF code of ethics, prohibits the exercise of the activities of an IPCF accountant in conjunction with the activities of an insurance broker or agent, or of an estate agent, or with any banking activity or financial services activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">The Commission observes that, under point (a) of the second subparagraph of Article 25(1) of Directive 2006/123, the requirements to which the regulated professions are subject must be evaluated, those requirements being permitted only in so far as is justified in order to guarantee compliance with the rules governing professional ethics and conduct, which vary according to the specific nature of each profession, and is necessary in order to ensure the independence and impartiality of those professions. The Commission considers that there are less restrictive measures than the total prohibition of multidisciplinary activities, with the result that that prohibition infringes Article 25 of Directive 2006/123.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the Commission submits that the total prohibition on exercising the activity of IPCF accountant jointly with the activity of an insurance broker or agent, or of an estate agent, or with any banking and financial services activity goes, by its very nature, beyond what is necessary to ensure compliance with the rules governing professional ethics and conduct in the profession of accountant.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">According to the Commission, measures such as internal procedures to prevent conflicts of interest in the field of transfers of information and the correct application of rules on professional secrecy constitute less restrictive measures that make it possible to attain the objectives of ensuring the independence and impartiality of the profession of IPCF accountant. The Commission adds that the prohibition is also not necessary for the purposes of avoiding the risk of money laundering and conflicts of interest, or to ensure that the prices and the quality of the services provided are properly evaluated.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">The Commission submits that Member States may oblige companies that carry on multidisciplinary activities to put in place internal quality control mechanisms and effective risk assessment measures in order to ensure that, within the same undertaking, general activities do not interfere with activities to which anti-money laundering rules apply or in respect of which rules on professional secrecy must be observed. Furthermore, it points out that the obligation on accountants to comply with the requirement to report to national authorities in the event of suspected money laundering or terrorist financing applies only where the accountant is personally involved in such activities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the need to ensure transparency in the prices of services, the Commission submits that an accountant is in a position to separate his activities and to set out separately the calculations which establish the actual cost of each service and those which determine the total cost.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, as regards the need to ensure the quality of accounting services, the Commission finds that it is not possible to apply any argument concerning the profession of lawyer to the profession of IPCF accountant, since the two professions are not comparable. It submits that the Court’s reasoning in the judgment of 19 February 2002, Wouters and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A98&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑309/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A98&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2002:98</a>), cannot be applied to the present case in so far as the grounds of that judgment, which concern, first, the independence of lawyers and, secondly, observance of professional secrecy and the need to avoid conflicts of interest, are based on the particular nature of the profession of lawyer which distinguishes it from other professions. The Commission thus considers that the conflict of interest between, on the one hand, the activity of IPCF accountant and, on the other, the activities of an insurance broker or agent, or of an estate agent, or banking or financial services activities is not demonstrated and, in any event, cannot be more serious than that taken into consideration in that judgment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">The Commission concludes that a total prohibition, however effective it may be, is openly at odds with the principle of proportionality enshrined in Article 25 of Directive 2006/123 and that the Belgian Government has not shown that alternative measures, such as the establishment of internal measures and procedures and ex post review, would be ineffective.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">In its defence, the Kingdom of Belgium denies the alleged failure to fulfil obligations, maintaining, first, that restrictions relating to multidisciplinary activities must be limited to what is necessary to ensure the impartiality, independence and integrity of the regulated professions and, secondly, that Article 25 of Directive 2006/123 does not prevent Member States from prohibiting, under certain conditions, the joint exercise of regulated professions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">The Kingdom of Belgium submits that the prohibition at issue is necessary to guarantee the independence and impartiality of IPCF accountants and to ensure compliance with the obligation to maintain strict professional secrecy, breach of which is punishable under Article 458 of the Belgian Criminal Code. In so far as independence entails an obligation to act exclusively on behalf of the client, the Kingdom of Belgium considers that an IPCF accountant’s exercise of other activities could lead him to take account of considerations unrelated to the interests of his client. In that regard, the Kingdom of Belgium states that estate agents, insurance brokers and stock exchange agents are remunerated on the basis of a commission, the amount of which may prove to be higher than the fees derived from accounting activities, so that a conflict of interest could arise if the accountant took account of considerations other than those exclusively related to the interests of his client.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">The Kingdom of Belgium considers that the reasoning in the judgment of 19 February 2002, Wouters and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A98&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑309/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A98&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2002:98</a>), according to which the existence of a ‘degree of incompatibility’ between the obligations arising from the profession of lawyer and those arising from the profession of accountant is sufficient to justify the prohibition on the joint exercise of those two professions, can be applied to the present case.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">The Kingdom of Belgium contends that IPCF accountants perform a role that is in the public interest, in particular as regards the drawing up of reliable accounts for small and medium-sized undertakings, which constitute 99.3% of undertakings in Belgium, and the drawing up of financial plans when certain types of companies are set up. In addition, the Kingdom of Belgium submits that IPCF accountants, who are subject to the obligation to maintain professional secrecy, which exempts them from the reporting obligations in the field of money laundering, in accordance with recital 10 of Directive 2015/849, are involved in the administrative phase of tax disputes and, in practice, continue to advise their clients as experts in the judicial phase even though legal representation is ensured by a lawyer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the proportionality of the prohibition at issue, the Kingdom of Belgium considers that point (a) of the second subparagraph of Article 25(1) of Directive 2006/123 does not provide that a prohibition may be regarded, by its very nature, as unjustified. In the present case, the prohibition is proportionate in so far as it does not constitute a general and absolute prohibition of all multidisciplinary activities and concerns only certain strictly defined activities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, the Kingdom of Belgium considers that alternative measures, such as internal measures, would not be as effective in safeguarding the independence of the profession of IPCF accountant and ensuring fulfilment of the obligation within that profession to maintain professional secrecy. Irrespective of the fact that most accountants’ offices in Belgium are made up of no more than four people, such internal measures are difficult to implement and do not allow the national authorities to ensure effective supervision of that implementation.</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="italic">(2)</span> <span class="italic">Findings of the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with the first subparagraph of Article 25(1) of Directive 2006/123, the Member States are to ensure that providers are not made subject to requirements which oblige them to exercise a given specific activity exclusively or which restrict the exercise jointly or in partnership of different activities. However, the second subparagraph of Article 25(1) of that directive states that the providers referred to in points (a) and (b) thereof may be made subject to such requirements, in accordance with the conditions laid down therein.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, like Article 21(3) of the old IPCF code of ethics, Article 21(2) of the new IPCF code of ethics prohibits the exercise of the profession of IPCF accountant in conjunction with a number of activities regarded in themselves as jeopardising the independence and impartiality of an IPCF accountant, namely the activities of an insurance broker or agent, or of an estate agent, except for the activity of a managing agent, and any banking and financial services activities requiring registration with the Financial Markets and Services Authority.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that those provisions subject IPCF accountants to requirements such as those referred to in Article 25(1) of Directive 2006/123. It is therefore necessary to examine whether those requirements may be accepted on the basis of point (a) of the second subparagraph of Article 25(1) of Directive 2006/123.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, point (a) of the second subparagraph of Article 25(1) of Directive 2006/123 provides that requirements relating to the regulated professions are permitted only in so far as is justified in order to guarantee compliance with the rules governing professional ethics and conduct, which vary according to the specific nature of each profession, and is necessary in order to ensure their independence and impartiality.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, the Kingdom of Belgium relies on the need to guarantee the independence and impartiality of IPCF accountants and, in particular, to ensure that they comply with their obligation to maintain strict professional secrecy, an obligation which forms part of the more general objective of ensuring compliance with the rules of professional ethics and conduct in the profession of IPCF accountant.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be borne in mind that a Member State which relies on an overriding reason relating to the public interest or, as in the present case, the exception laid down in point (a) of the second subparagraph of Article 25(1) of Directive 2006/123, in order to establish that the prohibition on multidisciplinary activities that it has introduced is necessary for the purposes of ensuring the independence and impartiality of IPCF accountants, must submit specific evidence substantiating its arguments (see, to that effect, judgment of 4 July 2019, Commission v Germany, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A562&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑377/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A562&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:562</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A562&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point74" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">74</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, in the first place, as regards the relevance of the judgment of 19 February 2002, Wouters and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A98&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑309/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A98&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2002:98</a>), it must be noted that the reasoning set out in that judgment cannot be applied to the present case. As the Advocate General observed in points 56 to 58 of his Opinion, in that judgment the Court ruled on the accounting profession in the context of a comparison between the profession of lawyer and that of accountant, distinguishing between those two professions, and circumscribed its examination to the specific situation of lawyers and accountants in the Netherlands.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, and as the Advocate General also observed in points 60 to 62 of his Opinion, the profession of IPCF accountant cannot be equated with that of lawyer. Unlike the latter profession, the profession of IPCF accountant does not include legal representation before the courts, since, as the Kingdom of Belgium acknowledged at the hearing, IPCF accountants may potentially act as experts in the field of their profession but do not have a legal mandate to represent their clients before the courts.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, it has not been shown that the prohibition on multidisciplinary activities laid down in the Belgian legislation could be compared with the prohibition that formed the subject of the judgment of 19 February 2002, Wouters and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A98&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑309/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A98&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2002:98</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, the Kingdom of Belgium’s argument that, first, the prohibition at issue is proportionate in so far as it relates only to strictly defined activities in respect of which it is presumed that a conflict of interest may occur and, secondly, alternative measures are not as effective for attaining the objectives pursued, in view of the structure of the Belgian market, must be rejected.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">First of all, while it is true that the prohibition at issue concerns only activities which are strictly defined, the fact remains that the Kingdom of Belgium has not sufficiently substantiated its argument that the existence of a conflict of interests is presumed where an IPCF accountant jointly exercises the activity of an estate agent or an insurance broker, or a banking or financial activity. In particular, although the latter activities are remunerated on the basis of a commission the amount of which may be higher than the fees derived from the profession of accountant, such a possibility also exists in the case of other professions which are not subject to a similar prohibition and which may be exercised, subject to authorisation to that effect, jointly with the profession of IPCF accountant.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">Next, it should be noted that the Kingdom of Belgium has failed to demonstrate, supporting its argument with precise evidence, why the prohibition at issue is the only measure capable of attaining the desired objectives, so that none of the measures less restrictive of the freedom to provide services suggested by the Commission would be sufficiently effective to attain those objectives.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">While it is settled case-law that the burden of proof on a Member State cannot extend to requiring the Member State to prove, positively, that no other conceivable measure could enable that objective to be attained under the same conditions (see, to that effect, judgment of 4 July 2019, Commission v Germany, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A562&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑377/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A562&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:562</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A562&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point64" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">64</a>), the fact remains that that Member State must challenge in substance and in detail the information produced by the Commission and the inferences drawn (see, to that effect, judgments of 28 January 2016, Commission v Portugal, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A61&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑398/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A61&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:61</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A61&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point48" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a>, and of 24 January 2018, Commission v Italy, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A31&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑433/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A31&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:31</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A31&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point44" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it may, admittedly, be accepted that, as the Kingdom of Belgium contends, measures for the internal organisation of undertakings employing IPCF accountants would be particularly difficult to implement because of the small size of those undertakings, thus rendering the protection of the guarantee of independence and impartiality which that profession must exhibit illusory.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">Nonetheless, the Kingdom of Belgium has not convincingly called into question the arguments put forward by the Commission that an ex post review by the professional chambers would constitute a less restrictive measure for attaining the objective of guaranteeing the independence and impartiality of IPCF accountants, since the arguments put forward by the Kingdom of Belgium to the effect that such a measure would be less effective do not, in themselves, show that such review would not be appropriate for attaining that objective.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, in so far as the Kingdom of Belgium relies on the practical difficulties of implementing alternative measures of the kind suggested by the Commission, it is common ground that a Member State cannot plead practical, administrative or financial difficulties in order to justify failure to observe obligations arising under EU law (see, to that effect, judgment of 17 July 2014, Commission v Greece, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2086&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑600/12</a>, not published, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2086&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2086</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2086&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point41" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the first part of the first complaint, concerning the infringement of Article 25 of Directive 2006/123 by Article 21(3) of the old IPCF code of ethics and Article 21(2) of the new IPCF code of ethics, must be upheld.</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="bold">
+<span class="italic">(b)</span>
+</span> <span class="bold">
+<span class="italic">The second part of the first complaint, concerning the infringement of Article 25 of Directive 2006/123 by Article 21(1) and (2) of the old IPCF code of ethics</span>
+</span>
+</p>
+<p class="normal">
+<span class="italic">(1)</span> <span class="italic">Arguments of the parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">The Commission claims that Article 21(1) and (2) of the old IPCF code of ethics, in so far as it established a rule that the profession of accountant was incompatible with any artisanal, agricultural or commercial activity, infringed Article 25 of Directive 2006/123, even though it was possible, at the request of the IPCF accountant concerned, to derogate from that rule by decision of the professional chambers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the necessity and proportionality of such a general prohibition, the Commission submits that it cannot be argued that an IPCF accountant’s joint exercise of any artisanal, agricultural or commercial activity leads to conflicts of interest and is always to the disadvantage of customers, other service providers and society as a whole. Even if that were the case, the Commission considers, for the same reasons as those put forward in the first part of the first complaint, that such a restriction cannot be accepted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">In its defence, the Kingdom of Belgium contends that the general prohibition in Article 21(1) of the old IPCF code of ethics covered a limited, exhaustively listed number of activities which present a risk of undermining the independence and impartiality of IPCF accountants, so that it did not go beyond what was necessary to attain the objectives pursued.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">The Kingdom of Belgium adds that, under Article 21(2) of the old IPCF code of ethics, it was possible to derogate from that prohibition by way of an authorisation granted by the professional chambers, provided that the independence and impartiality of the accountant concerned were not jeopardised and that the activity exercised jointly with the profession of accountant was ancillary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">The Kingdom of Belgium maintains that, in practice, authorisation was always granted and that the purpose of such a procedure was to verify whether the independence and impartiality of accountants would be safeguarded and to protect consumers.</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="italic">(2)</span> <span class="italic">Findings of the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary point, it should be noted that Article 21(1) and (2) of the old IPCF code of ethics made the providers to which it referred subject to requirements such as those referred to in Article 25(1) of Directive 2006/123, in so far as it prohibited the exercise of the profession of IPCF accountant in conjunction with any artisanal, agricultural and commercial activities, except where the professional chambers granted a derogation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">It is therefore necessary to examine whether those requirements may be justified on the basis of point (a) of the second subparagraph of Article 25(1) of Directive 2006/123.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, Article 21(2) of the old IPCF code of ethics provided that the professional chambers could grant authorisation to exercise an activity referred to in Article 21(1) of that code jointly with the profession of IPCF accountant, on the twofold condition that the independence and impartiality of the IPCF accountant were not jeopardised and that that activity was ancillary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="normal">First, it should be noted that point (a) of the second subparagraph of Article 25(1) of Directive 2006/123 does not provide for the possibility of making the exercise of a regulated profession in conjunction with another activity subject to the condition that the latter be ancillary. Secondly, although the Kingdom of Belgium maintains that the authorisations sought for joint exercise were, in practice, always granted, it is clear from the very wording of Article 21(2) of the old IPCF code of ethics that the professional chambers had discretion in that regard that was not subject to any criteria, which gave them considerable latitude in refusing a request for authorisation or revoking an authorisation previously granted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="normal">It is therefore clear that Article 21(2) of the old IPCF code of ethics disregards the limits imposed by point (a) of the second subparagraph of Article 25(1) of Directive 2006/123 on Member States when they intend to make service providers subject to requirements relating to multidisciplinary activities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the second part of the first complaint, relating to Article 21(1) and (2) of the old IPCF code of ethics, must be upheld and, consequently, the first complaint must be upheld in its entirety.</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="bold">
+<span class="italic">2.</span>
+</span> <span class="bold">
+<span class="italic">The second complaint, alleging infringement of Article 49 TFEU</span>
+</span>
+</p>
+<p class="normal">
+<span class="bold">
+<span class="italic">(1)</span>
+</span> <span class="bold">
+<span class="italic">Arguments of the parties</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="normal">The Commission submits that all the arguments put forward in relation to Article 25 of Directive 2006/123 show that the restrictions on the possibility of exercising multidisciplinary activities prevent service providers established in Member States other than the Kingdom of Belgium from establishing themselves for the first time in that Member State. It considers, moreover, that those restrictions hinder those providers from setting up a secondary establishment in the form of a branch, subsidiary or agency. Therefore, the Commission maintains that it should also be held that Article 49 TFEU has been infringed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="normal">The Kingdom of Belgium contends that Article 49 TFEU does not apply to the situation in the present case since the Commission has not established that there is a cross-border element. In any event, even if that article were applicable, the infringement alleged by the Commission is not established, on the same grounds as those set out in the first complaint.</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="bold">
+<span class="italic">(2)</span>
+</span> <span class="bold">
+<span class="italic">Findings of the Court</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary point, the Kingdom of Belgium’s argument that Article 49 TFEU does not apply in the present case since the Commission has not established that there is a cross-border element must be rejected.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="normal">In an action for failure to fulfil obligations, the Court is called upon to ascertain whether the national measure challenged by the Commission is, in general, capable of deterring operators from other Member States from making use of the fundamental freedom in question, irrespective, in that regard, of whether or not it is established that there is a cross-border element (see, to that effect, judgment of 15 November 2016, Ullens de Schooten, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A874&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑268/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A874&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:874</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A874&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point49" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">49</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="normal">As regards whether that complaint is well founded, it must be recalled that Article 49 TFEU precludes any national measure which, even though applicable without discrimination on grounds of nationality, is liable to hinder or render less attractive the exercise by EU citizens of the freedom of establishment guaranteed by the FEU Treaty (judgment of 11 December 2014, Commission v Spain, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2430&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑576/13</a>, not published, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2430&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2430</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2430&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, even though the requirements imposed by the Belgian legislation at issue apply in the same way both to accountants established in Belgium and to those from other Member States, they may prevent that latter category from establishing themselves in Belgium. In particular, the absolute prohibition on exercising the activity of IPCF accountant in conjunction with certain activities and the system of prior authorisation to exercise that profession in conjunction with any artisanal, agricultural or commercial activity are liable to put constraints on accountants established in other Member States that may entail financial consequences and disruptions to their operations of such a kind as to discourage them from establishing themselves in Belgium.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the requirements laid down by the Belgian legislation at issue constitute a restriction on the freedom of establishment within the meaning of Article 49 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="normal">According to well-established case-law of the Court, national measures which are liable to restrict or to make less attractive the exercise of the fundamental freedoms guaranteed by the FEU Treaty may nonetheless be permitted where they serve overriding reasons in the public interest, are appropriate for attaining their objective, and do not go beyond what is necessary to attain that objective (judgment of 18 May 2017, Lahorgue, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A391&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑99/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A391&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:391</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A391&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point79">79</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the justification for those restrictions, the Kingdom of Belgium refers to the arguments it put forward in the examination of the first complaint.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point80">80</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, for the same reasons as those set out, respectively, in paragraphs 49 to 58 and 67 and 68 of the present judgment, the Kingdom of Belgium’s justifications for the restrictions on the freedom of establishment must be rejected and, consequently, it must be held that the complaint relating to Article 49 TFEU is well founded.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point81">81</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from all the foregoing considerations that, by prohibiting the exercise of accounting activities in conjunction with the activities of an insurance broker or agent, or of an estate agent, or with any banking or financial services activity, and by permitting the chambers of the Professional Institute of Approved Accountants and Tax Consultants to prohibit the exercise of accounting activities in conjunction with any artisanal, commercial or agricultural activity, the Kingdom of Belgium has failed to fulfil its obligations under Article 25 of Directive 2006/123 and Article 49 TFEU.</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="bold">IV.</span> <span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point82">82</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 138(1) of the Rules of Procedure of the Court of Justice, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings. Since the Commission has applied for costs to be awarded against the Kingdom of Belgium and the Kingdom of Belgium has essentially been unsuccessful, it must be ordered to bear its own costs and to pay those incurred by the Commission.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fourth Chamber) hereby:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Declares that, by prohibiting the exercise of accounting activities in conjunction with the activities of an insurance broker or agent, or of an estate agent, or with any banking or financial services activity, and by permitting the chambers of the Professional Institute of Approved Accountants and Tax Consultants to prohibit the exercise of accounting activities in conjunction with any artisanal, commercial or agricultural activity, the Kingdom of Belgium has failed to fulfil its obligations under Article 25 of Directive 2006/123/EC of the European Parliament and of the Council of 12 December 2006 on services in the internal market and Article 49 TFEU;</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Dismisses the action as to the remainder;</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">3.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Orders the Kingdom of Belgium to bear its own costs and to pay those incurred by the European Commission.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0384_EN_01-E0001" id="t-ECR_62018CJ0384_EN_01-E0001">*1</a>
+</span>)	Language of the case: French.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

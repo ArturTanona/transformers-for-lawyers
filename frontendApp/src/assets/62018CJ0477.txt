@@ -1,0 +1,2728 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+<p class="sum-title-1">19 December 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0477_EN_01-E0001" id="c-ECR_62018CJ0477_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Regulation (EC) No 882/2004 — Article 27(1) and (4) — Points 1 and 2 of Annex VI — Official controls on feed and food — Financing — Fees payable in relation to official controls — Calculation — Definition of ‘staff involved in the official controls’ — Inclusion of administrative and support staff — Possibility of charging for quarter-hour periods requested by the slaughterhouse for the purposes of official controls but not worked — Conditions)</p>
+<p class="normal">In Joined Cases C‑477/18 and C‑478/18,</p>
+<p class="normal">TWO REQUESTS for a preliminary ruling under Article 267 TFEU from the College van Beroep voor het bedrijfsleven (Administrative Court of Appeal for Trade and Industry, Netherlands), made by decisions of 17 July 2018, received at the Court on 23 July 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Exportslachterij J. Gosschalk en Zn. BV</span> (C‑477/18),</p>
+<p class="normal">
+<span class="bold">Compaxo Vlees Zevenaar BV,</span>
+</p>
+<p class="normal">
+<span class="bold">Ekro BV,</span>
+</p>
+<p class="normal">
+<span class="bold">Vion Apeldoorn BV,</span>
+</p>
+<p class="normal">
+<span class="bold">Vitelco BV</span> (C‑478/18)</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Minister van Landbouw, Natuur en Voedselkwaliteit,</span>
+</p>
+<p class="normal">THE COURT (Fourth Chamber),</p>
+<p class="normal">composed of M. Vilaras, President of the Chamber, S. Rodin, D. Šváby (Rapporteur), K. Jürimäe and N. Piçarra, Judges,</p>
+<p class="normal">Advocate General: P. Pikamäe,</p>
+<p class="normal">Registrar: M. Ferreira, Principal Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 4 July 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Exportslachterij J. Gosschalk en Zn. BV, by L.J. Steenbergen and K. Horstman, advocaten,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Compaxo Vlees Zevenaar BV, Ekro BV, Vion Apeldoorn BV and Vitelco BV, by K. Defares and J. Jansen, advocaten,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Netherlands Government, by M.K. Bulterman and M.L. Noort, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Danish Government, by J. Nymann-Lindegren, acting as Agent, and by R. Holdgaard and P. Biering, advokater,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Hungarian Government, by M.Z. Fehér and M.M. Tátrai, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Swedish Government, by A. Falk, C. Meyer-Seitz, H. Shev, J. Lundberg and H. Eklinder, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the United Kingdom Government, by S. Brandon and D. Guðmundsdóttir, acting as Agents, and by B. McGurk, Barrister,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by W. Roels and B. Hofstötter, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 18 September 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">These requests for a preliminary ruling concern the interpretation of Article 26 and Article 27(4) of, and Annex VI to, Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29 April 2004 on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:165:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 L 165, p. 1</a>, and corrigendum <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:191:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 L 191, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The requests have been made in proceedings between Exportslachterij J. Gosschalk en Zn. BV (‘Gosschalk’), on the one hand, and Compaxo Vlees Zevenaar BV, Ekro BV, Vion Apeldoorn BV and Vitelco BV (‘Compaxo and Others’), on the other hand, and the Minister van Landbouw, Natuur en Voedselkwaliteit (Minister for Agriculture, Nature and Food Quality, Netherlands) (‘the Minister’) concerning the rules for calculating fees payable in relation to the official controls carried out in the slaughterhouses of Gosschalk and Compaxo and Others.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Regulation No 882/2004</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Recitals 11, 13, 14 and 32 of Regulation No 882/2004 state:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(11)</p>
+</td>
+<td valign="top">
+<p class="normal">The competent authorities for performing official controls should meet a number of operational criteria so as to ensure their impartiality and effectiveness. They should have a sufficient number of suitably qualified and experienced staff and possess adequate facilities and equipment to carry out their duties properly.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(13)</p>
+</td>
+<td valign="top">
+<p class="normal">The frequency of official controls should be regular and proportionate to the risk …</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(14)</p>
+</td>
+<td valign="top">
+<p class="normal">Official controls should take place on the basis of documented procedures so as to ensure that these controls are carried out uniformly and are of a consistently high quality.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(32)</p>
+</td>
+<td valign="top">
+<p class="normal">Adequate financial resources should be available for organising official controls. Hence, the competent authorities of the Member States should be able to levy the fees or charges to cover the costs incurred through official controls. In the process, the competent authorities of the Member States will be at liberty to establish the fees and charges as flat-rate amounts based on the costs incurred and taking the specific situation of the establishments into account. Where fees are imposed on operators, common principles should apply. It is appropriate therefore to lay down the criteria for setting the level of inspection fees. With regard to fees applicable for import controls, it is appropriate to establish directly the rates for main import items with a view to ensuring their uniform application and to avoiding trade distortions.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1 of that regulation, headed ‘Subject matter and scope’, provides, in paragraph 1:</p>
+<p class="normal">‘This Regulation lays down general rules for the performance of official controls to verify compliance with rules aiming, in particular, at:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">preventing, eliminating or reducing to acceptable levels risks to humans and animals, either directly or through the environment; and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">guaranteeing fair practices in feed and food trade and protecting consumer interests, including feed and food labelling and other forms of consumer information.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 2 of the regulation includes inter alia the following definitions:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘1.</p>
+</td>
+<td valign="top">
+<p class="normal">“official control” means any form of control that the competent authority or the [European Union] performs for the verification of compliance with feed and food law, animal health and animal welfare rules;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4.</p>
+</td>
+<td valign="top">
+<p class="normal">“competent authority” means the central authority of a Member State competent for the organisation of official controls or any other authority to which that competence has been conferred; it shall also include, where appropriate, the corresponding authority of a third country;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">7.</p>
+</td>
+<td valign="top">
+<p class="normal">“inspection” means the examination of any aspect of feed, food, animal health and animal welfare in order to verify that such aspect(s) comply with the legal requirements of feed and food law and animal health and animal welfare rules;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">8.</p>
+</td>
+<td valign="top">
+<p class="normal">“monitoring” means conducting a planned sequence of observations or measurements with a view to obtaining an overview of the state of compliance with feed or food law, animal health and animal welfare rules;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3 of Regulation No 882/2004, entitled ‘General obligations with regard to the organisation of official controls’, provides in paragraph 1:</p>
+<p class="normal">‘Member States shall ensure that official controls are carried out regularly, on a risk basis and with appropriate frequency, so as to achieve the objectives of this Regulation …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Under the heading ‘Designation of competent authorities and operational criteria’, Article 4 of that regulation provides in paragraph 2:</p>
+<p class="normal">‘The competent authorities shall ensure:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the effectiveness and appropriateness of official controls on live animals, feed and food at all stages of production, processing and distribution, and on the use of feed;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">that they have, or have access to, an adequate laboratory capacity for testing and a sufficient number of suitably qualified and experienced staff so that official controls and control duties can be carried out efficiently and effectively;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">that they have appropriate and properly maintained facilities and equipment to ensure that staff can perform official controls efficiently and effectively;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 6 of that regulation, concerning ‘Staff performing official controls’, provides:</p>
+<p class="normal">‘The competent authority shall ensure that all of its staff performing official controls:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">receive, for their area of competence, appropriate training enabling them to undertake their duties competently and to carry out official controls in a consistent manner. This training shall cover as appropriate the areas referred to in Annex II, Chapter I;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">keep up to date in their area of competence and receive regular additional training as necessary,</p>
+<p class="normal">and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">have aptitude for multidisciplinary cooperation.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Under the heading ‘Control and verification procedures’, Article 8 of Regulation No 882/2004 lays down in paragraph 3:</p>
+<p class="normal">‘Competent authorities shall have procedures in place:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">to verify the effectiveness of official controls that they carry out;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Title II of Regulation No 882/2004, which sets out the rules concerning ‘Official controls by Member States’, includes, inter alia, Chapter VI on ‘Financing of official controls’, containing Articles 26 to 29.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 26 of that regulation, entitled ‘General principle’:</p>
+<p class="normal">‘Member States shall ensure that adequate financial resources are available to provide the necessary staff and other resources for official controls by whatever means considered appropriate, including through general taxation or by establishing fees or charges.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Entitled ‘Fees or charges’, Article 27 of that regulation provides:</p>
+<p class="normal">‘1.   Member States may collect fees or charges to cover the costs occasioned by official controls.</p>
+<p class="normal">…</p>
+<p class="normal">4.   Fees collected for the purposes of official controls in accordance with paragraph 1 or 2:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">shall not be higher than the costs borne by the responsible competent authorities in relation to the items listed in ; and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">may be fixed at a flat-rate on the basis of the costs borne by the competent authorities over a given period of time or, where applicable, at the amounts fixed in Annex IV, section B or in Annex V, section B.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">10.   Without prejudice to the costs deriving from the expenses referred to in Article 28, Member States shall not collect any fees other than those referred to in this Article for the implementation of this Regulation.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Headed ‘Criteria to be taken into consideration for the calculation of fees’, Annex VI to Regulation No 882/2004 refers to:</p>
+<p class="normal">‘1. The salaries of the staff involved in the official controls;</p>
+<p class="normal">2. The costs for the staff involved in the official controls, including facilities, tools, equipment, training, travel and associated costs;</p>
+<p class="normal">3. The laboratory analysis and sampling costs.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Regulation (EC) No 854/2004</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Entitled ‘Definitions’, Article 2 of Regulation (EC) No 854/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:139:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 L 139, p. 206</a>, and corrigendum <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:226:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 L 226, p. 83</a>) provides:</p>
+<p class="normal">‘1.   For the purposes of this Regulation, the following definitions shall apply:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(f)</p>
+</td>
+<td valign="top">
+<p class="normal">“official veterinarian” means a veterinarian qualified, in accordance with this Regulation, to act in such a capacity and appointed by the competent authority;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(h)</p>
+</td>
+<td valign="top">
+<p class="normal">“official auxiliary” means a person qualified, in accordance with this Regulation, to act in such a capacity, appointed by the competent authority and working under the authority and responsibility of an official veterinarian;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Article 4 of that regulation, which concerns the ‘General principles for official controls in respect of all products of animal origin falling within the scope of this Regulation’, provides in paragraph 1 thereof:</p>
+<p class="normal">‘Member States shall ensure that food business operators offer all assistance needed to ensure that official controls carried out by the competent authority can be performed effectively.</p>
+<p class="normal">They shall in particular:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">give access to all buildings, premises, installations or other infrastructures;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">make available any documentation and record required under the present regulation or considered necessary by the competent authority for judging the situation.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Entitled ‘Fresh meat’, Article 5 of the regulation provides:</p>
+<p class="normal">‘Member States shall ensure that official controls with respect to fresh meat take place in accordance with Annex I.</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">The official veterinarian shall carry out inspection tasks in slaughterhouses, game handling establishments and cutting plants placing fresh meat on the market in accordance with the general requirements of Section I, Chapter II, of Annex I, and with the specific requirements of Section IV, in particular as regards:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">ante-mortem inspection;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">post-mortem inspection;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4.</p>
+</td>
+<td valign="top">
+<p class="normal">Official auxiliaries may assist the official veterinarian with official controls carried out in accordance with Sections I and II of Annex I as specified in Section III, Chapter I. In that case, they shall work as part of an independent team.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">5.</p>
+</td>
+<td valign="top">
+<p class="normal">(a) Member States shall ensure that they have sufficient official staff to carry out the official controls required under Annex I with the frequency specified in Section III, Chapter II.</p>
+<p class="normal">…</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">7.</p>
+</td>
+<td valign="top">
+<p class="normal">Member States shall ensure that official veterinarians and official auxiliaries are qualified and undergo training in accordance with Annex I, Section III, Chapter IV.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Netherlands law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">The Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit nr. 2164, houdende retributies betreffende werkzaamheden van de [Nederlandse Voedsel- en Warenautoriteit (‘NVWA’)] en [Algemene Inspectiedienst (AID)] (Regeling retributies veterinanire en hygiënische aangelegenheden I) (Decree No 2164 of the Minister for Agriculture, Nature and Food Quality fixing the payments for work carried out by the [Netherlands Authority for Food and Products (‘NVWA’)] and the [General Inspection Service (AID)] (‘Decree on payments in the veterinary and hygiene field I’)) of 4 May 2009, in the version in force from 3 April 2013 to 28 February 2014, includes Chapter 5 on slaughter, states inter alia:</p>
+<p class="normal">‘§ 1. Official controls for the slaughter of domestic ungulates</p>
+<p class="ti-art">Article 15</p>
+<p class="normal">For controls under Article 4(2), in conjunction with Article 5(1), of Regulation [No 854/2004], occurring during the opening hours planned for the slaughter of domestic ungulates carried out by an official veterinarian or official auxiliary employed by NVWA, the service provider shall be liable for a payment consisting of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a.</p>
+</td>
+<td valign="top">
+<p class="normal">a basic amount of EUR 76.29, and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b.</p>
+</td>
+<td valign="top">
+<p class="normal">an amount of EUR 29.06 per quarter-hour devoted to ante-mortem inspection work by an official veterinarian or official auxiliary employed by NVWA;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c.</p>
+</td>
+<td valign="top">
+<p class="normal">an amount of EUR 20.54 per quarter-hour devoted to post-mortem inspection work by or on behalf of an official veterinarian.</p>
+</td>
+</tr>
+</table>
+<p class="ti-art">Article 16</p>
+<p class="normal">The post-mortem inspection work referred to in Section IV, Chapter I, Chapter II, Chapter III and Chapter IV, point B, of Annex I to Regulation [No 854/2004], concerning domestic ungulates carried out by an official auxiliary in connection with the implementation of the agreement on inspection of red meat, shall confer entitlement to a payment from the service provider consisting of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a.</p>
+</td>
+<td valign="top">
+<p class="normal">a basic flat-rate amount of EUR 77.43 and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b.</p>
+</td>
+<td valign="top">
+<p class="normal">an amount of EUR 13 per quarter-hour devoted to the inspection by that official auxiliary.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Chapter 10 of that decree, entitled ‘Other additional payments’, provides in particular:</p>
+<p class="ti-art">‘Article 50</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">Where, in the opinion of the NVWA agent attending, the work referred to in Article 3(2) [or Articles] 5, 8, 9, 10, 10a, 10b, 11, 13, 15, 19, 20, 21 or 22 takes longer than the time declared under Article 58(1)(c) and (d), the service provider shall be liable, in addition to the payments due under the article in question, for a payment consisting of an amount per quarter-hour of additional work carried out over and above the time declared.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">The amount per quarter-hour referred to in paragraph 1 shall be:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 27.52 for the work referred to [in Articles 3(2) and 8];</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 27.52 for the work referred to in Article 5;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 36.79 for the work referred to in Articles 9, 10 and 10a;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">d.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 34.75 for the work referred to in Articles 10b, 11 and 13;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">e.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 29.06 for the work referred to in [Article 15(b) and Articles] 21 and 22;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">f.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 20.54 for the work referred to in Article 15(c);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">g.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 28.66 for the work referred to in Articles 19 and 20.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3.</p>
+</td>
+<td valign="top">
+<p class="normal">Where, in the opinion of the NVWA agent attending, the work referred to in Article 17 takes longer than the time declared under Article 58(1)(c) and (d), the service provider shall be liable, in addition to the payments due under the article in question, for a payment of EUR 19.05.</p>
+</td>
+</tr>
+</table>
+<p class="ti-art">Article 51</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">Where the work referred to in [Article 3(2) or Articles] 5, 8, 9, 10, 10a, 10b, 11, 13, 15, 19, 20, 21 or 22 is carried out outside opening hours, the service provider shall be liable, in addition to the payments due under the article in question, for a payment consisting of an amount per quarter-hour of work carried out outside opening hours.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">The amount per quarter-hour referred to in paragraph 1 shall be:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 8.26 for the work referred to [in Articles 3(2) and 8];</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 8.26 for the work referred to in Article 5;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 11.04 for the work referred to in Articles 9, 10 and 10a;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">d.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 10.43 for the work referred to in Articles 10b, 11 and 13;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">e.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 8.72 for the work referred to [in Article 15(b) and Articles] 21 and 22;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">f.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 6.16 for the work referred to in Article 15(c);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">g.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 8.60 for the work referred to in Articles 19 and 20.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3.</p>
+</td>
+<td valign="top">
+<p class="normal">Where the work referred to in Article 17 is carried out outside opening hours, the service provider shall be liable, in addition to the payments due under that provision, for a payment of EUR 37.78 per quarter-hour of work carried out outside opening hours.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">Where, in the opinion of NVWA, it is necessary for the proper performance of the additional official control referred to in Article 47a to be carried out outside opening hours, the operator shall be liable to pay the undertaking which carries out the additional control, in addition to the amount referred to in Article 47a(1), (2) or (3), an amount consisting of 30% of the amount referred to in Article 47a(1), (2) or (3) per quarter-hour of inspection work carried out outside opening hours.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">Where, in the opinion of NVWA, it is necessary for the proper performance of the additional official control referred to in Article 48 to be carried out outside opening hours, the operator shall be liable to pay the undertaking which carries out the additional control, in addition to the amount referred to in Article 48, an amount consisting of 30% of the amount referred to in Article 48(1) per additional official control.</p>
+</td>
+</tr>
+</table>
+<p class="ti-art">Article 52</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">Where the work referred to in [Article 3(2) or Articles] 5, 8, 9, 10, 10a, 10b, 11, 13, 15, 19, 20, 21 or 22 is suspended or postponed, or is not carried out in full or in part, for reasons beyond the control of the person or persons responsible for the work, the service provider shall be liable for a payment consisting of an amount per quarter-hour:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a.</p>
+</td>
+<td valign="top">
+<p class="normal">for each quarter-hour of the duration of the suspension or postponement for the person responsible for the work or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b.</p>
+</td>
+<td valign="top">
+<p class="normal">for each quarter-hour of the duration of the work had it been carried out by the person who would have been responsible for the work in the opinion of the [Minister] according to the notification referred to in Article 57.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">The amount per quarter-hour referred to in paragraph 1 shall be:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 27.52 for the work referred to [in Articles 3(2) and 8];</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 27.52 for the work referred to in Article 5;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 36.79 for the work referred to in Articles 9, 10 and 10a;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">d.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 34.75 for the work referred to in Articles 10b, 11 and 13;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">e.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 29.06 for the work referred to [in Article 15(b) and Articles] 21 and 22;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">f.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 20.54 for the work referred to in Article 15(c);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">g.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 28.66 for the work referred to in Articles 19 and 20.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3.</p>
+</td>
+<td valign="top">
+<p class="normal">Where the work referred to in Article 17 is suspended or postponed, or is not carried out in full or in part, for reasons beyond the control of the person or persons responsible for the work, the service provider shall be liable for a payment of EUR 19.05.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4</p>
+</td>
+<td valign="top">
+<p class="normal">Where the request for the provision of a certificate, transit note, a certified copy of a certificate, transit note or declaration referred to in Article 14 is withdrawn, for reasons beyond the control of the person or persons responsible for the work, the service provider shall be liable for a payment equivalent to the payment which would have been due under Article 14 had the document been provided.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">5.</p>
+</td>
+<td valign="top">
+<p class="normal">The payments referred to in paragraphs (1), (2) and (3) shall be invoiced in addition to the payments due under the articles in question to the extent that the work concerned is postponed or has begun but has subsequently been suspended or has not been carried out in full.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">6.</p>
+</td>
+<td valign="top">
+<p class="normal">That article shall not apply if the notification referred to in Article 58(3) has been provided within the prescribed period.</p>
+</td>
+</tr>
+</table>
+<p class="ti-art">Article 53</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">To the extent that, for reasons beyond the control of the person or persons responsible for the work, the work referred to in this Article is suspended or postponed, or is not carried out in full or in part, the service provider shall be liable, in addition the payment due under Article 16, for a payment consisting of an amount equivalent to the applicable amount per quarter-hour referred to in Article 16,</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a.</p>
+</td>
+<td valign="top">
+<p class="normal">per quarter-hour of the duration of the suspension or postponement for the person responsible for the work, or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b.</p>
+</td>
+<td valign="top">
+<p class="normal">per quarter-hour of the duration of the work had it been carried out by the person who would have been responsible for the work.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">In addition to the payment referred to in Article 16, the service provider shall be liable for a payment, for the work referred to in that article, of EUR 13 per quarter-hour devoted to that work by the official auxiliary referred to in that article where the period for which that work was requested in accordance with Article 57 was exceeded by more than a quarter-hour.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3.</p>
+</td>
+<td valign="top">
+<p class="normal">In addition to the payment referred to in Article 16, the service provider shall be liable for a payment for the work referred to in that article which is carried out outside opening hours consisting of an amount of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 1.50 per quarter-hour devoted to that work by the official auxiliary referred to in Article 16 on working days between 18.00 and 22.00;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 3.01 per quarter-hour devoted to that work by the official auxiliary referred to in Article 16 on working days between 22.00 and 0.00;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c.</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 3.01 per quarter-hour devoted to that work by the official auxiliary referred to in Article 16 on working days between 0.00 and 6.00.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">8.</p>
+</td>
+<td valign="top">
+<p class="normal">For the purposes of paragraph 3, “opening hours” shall mean the period from 6.00 to 18.00 hours from Monday to Friday inclusive, excluding official public holidays.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Chapter 11 of that decree, entitled ‘Payment of a basic flat-rate amount’, provides:</p>
+<p class="ti-art">‘Article 54</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">Where a basic flat-rate is payable under this decree, it shall be charged for work carried out by each NVWA agent attending a site for a continuous period of one day, statutory rest breaks included, for a service provider.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">By way of derogation from paragraph 1, where a basic flat-rate is payable under Article 16, that basic flat-rate shall be charged for work carried out on a site for a continuous period of one day, statutory rest breaks included, for a service provider.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">The Regeling van de Staatssecretaris van Economische Zaken nr. WJZ/14033284, houdende vaststelling van tarieven voor werkzaamheden van de NVWA (Regeling NVWA-tarieven) (Decree No WJZ/14033284 of the Secretary of State for Economic Affairs fixing rates for work performed by NVWA (‘Decree on NVWA rates’)) of 20 February 2014, which entered into force on 1 March 2014, seeks to establish a new simplified system of rates for the inspection and control work that NVWA officials carry out under, inter alia, legislation in the veterinary and hygiene field. That decree sets out in a similar form the provisions of the Decree on payments in the veterinary and hygiene field I, mentioned in paragraphs 17 to 19 above.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The disputes in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Case C‑477/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Gosschalk operates a slaughterhouse where pork meat is processed and placed on the market. Accordingly, it was subject to official controls intended to ensure that it was complying with Regulation No 882/2004 and the Decree on NVWA rates.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Those controls are carried out, inter alia, in the course of ante-mortem and post-mortem inspections, first, by official veterinarians and auxiliaries working at NVWA, which is the designated competent authority, as provided for in Article 2(4) of Regulation No 882/2004, and, second, by contracted official auxiliaries from Kwaliteitskeuring Dierlijke Sector (‘KDS’), which is, according to the Netherlands Government, a non-profit private company.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In order to cover the costs arising from that inspection work, the Minister collects fees from slaughterhouses pursuant to Article 27(1) and (4)(a) of Regulation No 882/2004, points 1 and 2 of Annex VI thereto, and the Decree on NVWA rates.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">In practice, a slaughterhouse makes a request to NVWA specifying the inspection work to be performed, the number of official veterinarians and official auxiliaries required, and the time needed, expressed in quarter-hour periods, to carry out that work.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Once the inspection work has been carried out, the Minister invoices the slaughterhouse the amounts owed in this respect. For each official veterinarian and official auxiliary who carried out inspection work, the slaughterhouse is required to pay a basic flat-rate plus an amount for each quarter-hour devoted to that work. Where the inspection work takes longer than planned, the slaughterhouse must pay an additional amount for each extra quarter-hour. By contrast, if the inspection work takes less time than planned, the slaughterhouse is still required to pay the quarter-hour periods requested but not worked.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">In the case in the main proceedings, Gosschalk received various invoices charging it fees to cover inspection work carried out at its premises by NVWA and KDS between 2013 and 2016. Taking the view that rules on the levying of those fees were contrary to the judgment of 17 March 2016, Kødbranchens Fællesråd (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑112/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:185</a>), Gosschalk submitted complaints to the Minister and, following the rejection of those complaints, brought the matter before the College van Beroep voor het bedrijfsleven (Administrative Court of Appeal for Trade and Industry, Netherlands).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Referring, inter alia, to difficulties in interpreting Regulation No 882/2004, in particular points 1 and 2 of Annex VI thereto, and to the disagreement between the parties to the main proceedings in that regard, the referring court considers that it is in the interests of the proper administration of justice to request the Court of Justice to give a preliminary ruling.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Their disagreement relates, in the first place, to the definition of the term ‘staff involved in the official controls’. The referring court observes, first, that Regulation No 882/2004 does not specify the meaning of that term, which is contained in points 1 and 2 of Annex VI to that regulation and, second, that, contrary to Gosschalk’s claim, it cannot be inferred from the judgment of 17 March 2016, Kødbranchens Fællesråd (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑112/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:185</a>), that that term covers only the official veterinarian and official auxiliary who actually perform the official controls. That being so, the referring court also questions the broader interpretation given to that term by the Minister, according to which the salaries and the costs of administrative staff and other staff may be charged to slaughterhouses.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court notes that both Article 5(1) of Council Directive 85/73/EEC of 29 January 1985 on the financing of health inspections and controls of fresh meat and poultrymeat (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1985:032:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1985 L 32, p. 14</a>) and Article 81(a) of Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2017:095:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2017 L 95, p. 1</a>) authorise the payment of administrative costs and the costs and salaries of support and administrative staff. By comparison, since Annex VI to Regulation No 882/2004 does not mention the costs of staff involved in official controls, it can be inferred that the costs of administrative and support staff cannot be recovered.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Nevertheless, the expression ‘staff involved in the official controls’ seems to leave sufficient discretion to include persons other than the official veterinarian and the official auxiliary, as long as they also contribute to the performance of official controls in slaughterhouses. Indeed, there is no evidence to suggest that the EU legislature intended to make the system established by Regulation No 882/2004 stricter than the earlier system established by Directive 85/73 or that it intended to relax, by means of Regulation 2017/625, the allegedly stricter system under Regulation No 882/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">The disagreement between the parties to the main proceedings concerns, in the second place, how the quarter-hour periods requested for the purposes of official controls but not worked should be treated. Whilst Gosschalk takes the view that they should not be charged, the Minister contends that the slaughterhouse is responsible for the accuracy of the number of quarter-hour periods deemed necessary for the inspection work and that the planning of the work to be carried out by NVWA agents is strict.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">In the third place, the parties to the main proceedings do not agree on the interpretation of the rates applicable to contracted veterinarians. First, Gosschalk claims that the Minister has made a profit of almost EUR 8500000 because NWVA sometimes recruits official veterinarians through temporary employment agencies to carry out inspection work and pays them fees which are significantly lower than those charged to the slaughterhouses. Second, the contracted official auxiliaries from KDS or temporary employment agencies are paid only for the number of quarter-hour periods actually worked, even though the slaughterhouse is charged the quarter-hour periods requested but not worked. According to the Minister, that practice is intended to keep the rates the same for all parties, the surplus generated being used to cover NVWA’s overhead costs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court has doubts as to the compatibility of that practice with EU law in that, in this case, none of the staff employed by NVMA has to be paid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">In the fourth place, Gosschalk complains that the rates applicable to contracted veterinarians enable KDS to build up buffer reserves to meet possible costs which may stem from a crisis. There is therefore no direct link between the inspection work actually performed and the buffer reserves and, accordingly, the costs applied for that purpose cannot be considered to be connected with staff actually responsible for carrying out inspection work. According to the Minister, this is to guarantee that, in the event of unforeseen circumstances, such as an epidemic which would suspend the slaughter of animals for a lengthy period, staff and training costs will continue to be paid without having to dismiss staff, even if KDS no longer receives any income. The existence of those buffer reserves thus makes it possible to resume inspections as soon as such a crisis has ended. It follows that the buffer reserves relate to amounts necessary to cover costs actually incurred. The amount of those buffer reserves deemed necessary corresponds to half of KDS’ average turnover achieved over the two years preceding the building up of those reserves, plus an amount of EUR 500000.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Although, in a decision of 14 October 2010, the referring court declared those buffer reserves to be compatible with Article 27 of Regulation No 882/2004, it now has doubts as to whether that finding is correct. It questions the criteria used to determine the maximum amount of the buffer reserves and the impact of the fact that those reserves are built up for a private company, in the present case KDS, used by NVWA to source official auxiliaries, even though that loss of income is meant to be in itself part of the normal risks faced by an undertaking. In addition, it is not clear who, in the event of the liquidation or insolvency of KDS, is the beneficiary of the buffer reserves already built up.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">It is in those circumstances that the College van Beroep voor het bedrijfsleven (Administrative Court of Appeal for Trade and Industry) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Should the phrases “the staff involved in the official controls” in point 1 of Annex VI to Regulation [No 882/2004] and “the staff involved in [the performance of] the official controls” in point 2 of [that annex] be interpreted as meaning that the (salary) costs that may be taken into account when calculating the fees for official controls may only be the (salary) costs of official veterinarians and official auxiliaries who perform the official inspections, or can they also include the (salary) costs of other staff employed by [NVWA] or by [KDS]?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">If the answer to Question 1 is that the phrases “the staff involved in the official controls” in point 1 of Annex VI to Regulation No 882/2004 and “the staff involved in [the performance of] the official controls” in point 2 of [that annex] may also include the (salary) costs of other staff employed by [NVWA] or KDS, under what circumstances and within which limits is there then still such a relationship between the costs incurred for those other staff and the official controls, that the reimbursement of those (salary) costs can be based on Article 27(4) of Regulation No 882/2004, and points 1 and 2 of Annex VI thereto?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">Should the provisions of Article 27(4)(a) of Regulation No 882/2004, and of points 1 and 2 of Annex VI thereto, be interpreted as precluding slaughterhouses from being charged fees in relation to official controls for quarter-hour periods requested by such slaughterhouses from the competent authorities but not actually worked?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">Does the answer to Question 3(a) also apply in the case of official veterinarians contracted by the competent authority who do not receive any salary for quarter-hour periods which the slaughterhouse has in fact requested from the competent authority where no work related to official controls was in fact carried out during those quarter hours, and the amount which the slaughterhouse is charged for the number of quarter-hours applied for but not worked is for the benefit of the general overhead cost structure of the competent authority?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">Should the provisions of Article 27(4)(a) of Regulation No 882/2004, and of points 1 and 2 of Annex VI thereto be interpreted as Article 27(4) precludes the slaughterhouses from being charged an average rate for the work performed for the purposes of official inspections carried out by veterinarians employed by NVWA and by (lower-salaried) contracted veterinary surgeons, so that slaughterhouses are charged a higher rate than is paid to the contracted veterinarians?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(5)</p>
+</td>
+<td valign="top">
+<p class="normal">Should the provisions of Article 26 and Article 27(4)(a) of Regulation No 882/2004, and of points 1 and 2 of Annex VI thereto be interpreted as meaning that, when calculating the fees for official controls, costs may be taken into account for the purposes of building up the buffer reserves of a private company (KDS) which the competent authority uses to source official auxiliaries, reserves which, in the event of a crisis, can be used to pay the salary and training costs of staff who actually perform the official controls as well as of staff who make it possible to carry out the official controls?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">6.</p>
+</td>
+<td valign="top">
+<p class="normal">If the answer to the [previous question] is in the affirmative: what is the maximum amount that can be accumulated in such buffer reserves and what is the length of the period which may be covered by such reserves?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Case C‑478/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">By four invoices issued between October 2016 and February 2017, the Minister charged Compaxo and Others an amount of between EUR 15 422.35 and EUR 49 628.22, intended to cover the inspection work carried out in each of their slaughterhouses.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">After unsuccesfully lodging a complaint against those invoices, Compaxo and Others brought an action before the College van Beroep voor het bedrijfsleven (Administrative Court of Appeal for Trade and Industry), which is the referring court in the present case.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Taking the view that it follows from the judgment of 17 March 2016, Kødbranchens Fællesråd (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑112/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:185</a>), that only the salaries and costs of those who actually carry out controls can be taken into account, Compaxo and Others maintain, before the referring court, that a range of costs, such as, inter alia, costs relating to premises, material overhead costs, depreciation costs, office expenses, specific costs (work clothes), home-to-work travel costs and the labour or costs of subcontracted staff cannot be regarded as costs for the purposes of points 1 and 2 of Annex VI to Regulation No 882/2004. Furthermore, it is not clear from those invoices what the item ‘inspection work’ covers. The Minister states in that regard that the calculation of the hourly rate taken into account in that item includes technical administration and planning costs of inspection work, which must be regarded as ‘salaries and other costs of the staff involved in the control’, since the inspection work cannot take place without a certain amount of support, such as the organisation of that planning.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">It is in those circumstances that the College van Beroep voor het bedrijfsleven (Administrative Court of Appeal for Trade and Industry) decided to stay the proceedings and to refer three questions to the Court of Justice for a preliminary ruling; those questions are identical to Question 1, 2 and 3(a) referred by that court to the Court of Justice in Case C‑477/18.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The request to have the oral procedure reopened</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Following the delivery of the Advocate General’s Opinion, Gosschalk, by a document lodged at the Court Registry on 10 October 2019, applied for the oral part of the procedure to be reopened, pursuant to Article 83 of the Rules of Procedure of the Court of Justice.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">In support of its application, Gosschalk claims, in essence, that the Advocate General carried out an examination of the origin of Regulation No 882/2004, even though that aspect had not been raised during the oral procedure before the Court. It takes the view, consequently, that it must be allowed to submit observations in that regard, in particular because, when conducting that examination, the Advocate General relied on incomplete information, since he did not mention or take into account an amendment by the European Parliament contained in the report on the proposal for a European Parliament and Council Regulation on official feed and food controls (2003/0030(COD)), which should lead to a strict interpretation of Annex VI to Regulation No 882/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be noted that, under the second paragraph of Article 252 TFEU, it is the duty of the Advocate General, acting with complete impartiality and independence, to make, in open court, reasoned submissions on cases which, in accordance with the Statute of the Court of Justice, require his involvement. The Court is not bound either by the Advocate General’s Opinion or by the reasoning on which it is based (judgment of 22 November 2018, MEO — Serviços de Comunicações e Multimédia, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑295/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:942</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">It should also be recalled that neither the Statute of the Court of Justice of the European Union nor the Rules of Procedure make provision for the interested parties to respond to an Advocate General’s Opinion. As a consequence, the fact that a party disagrees with the Advocate General’s Opinion, irrespective of the questions examined in the Opinion, cannot in itself constitute grounds justifying the reopening of the oral procedure (see, to that effect, judgment of 22 November 2018, MEO — Serviços de Comunicações e Multimédia, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑295/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:942</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">In its request to have the oral procedure reopened, Gosschalk challenges the examination carried out by the Advocate General in his Opinion concerning the origin of Regulation No 882/2004, which was not debated during the oral procedure and, in addition, is based on incomplete information.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">It is true that, pursuant to Article 83 of its Rules of Procedure, the Court may, at any time, after hearing the Advocate General, order that the oral part of the procedure be reopened, in particular if it considers that it lacks sufficient information or where a party has, after the close of that part of the procedure, submitted a new fact which is of such a nature as to be a decisive factor for the decision of the Court, or where the case must be decided on the basis of an argument which has not been debated between the parties or the interested persons referred to in Article 23 of the Statute of the Court of Justice of the European Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">This is not the case in this instance. The parties which have participated in the present procedure, in particular Gosschalk, have been able to set out, both during the written and oral parts thereof, the matters of law which they considered relevant to enable the Court to answer the questions raised by the referring court, in particular those concerning the interpretation of Annex VI to Regulation No 882/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, the Court considers that it has all the information necessary to rule on the requests for a preliminary ruling and that none of the matters relied on by Gosschalk in support of its request to reopen the oral part of the procedure justifies such a reopening, on the basis of Article 83 of the Rules of Procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Court, after hearing the Advocate General, considers that there is no need to order that the oral part of the procedure be reopened.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Question 1 and 2 in Cases C‑477/18 and C‑478/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">By Question 1 and 2 in Cases C‑477/18 and C‑478/18, which it is appropriate to examine together, the referring court asks, in essence, whether Article 27(1) and (4)(a) of Regulation No 882/2004, read in conjunction with point 1 and 2 of Annex VI thereto, must be interpreted as meaning that Member States may consider the salaries and costs of administrative and support staff as being costs occasioned by official controls, for the purposes of those provisions, and as not exceeding the costs borne by the competent authorities, within the meaning of Article 2(4) of that regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary point, it should be recalled that, although the referring court refers specifically to certain associated costs, such as those mentioned in paragraph 39 above, the procedure provided for by Article 267 TFEU is, as is apparent from settled case-law, an instrument of cooperation between the Court of Justice and national courts and tribunals, by means of which the former provides the latter with interpretation of such EU law as is necessary for them to give judgment in cases upon which they are called to adjudicate. The Court’s task is to provide the national court with guidance on the scope of the rules of Union law so as to enable that court to apply the rules correctly to the facts in the case before it and it is not for the Court of Justice to apply those rules itself (see, to that effect, judgments of 21 June 2007, Omni Metal Service, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A363&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑259/05</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A363&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2007:363</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A363&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point15" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">15</a>, and of 5 July 2016, Ognyanov, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A514&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑614/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A514&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:514</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A514&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point16" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">16</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, it must be pointed out, as the Advocate General notes in point 40 of his Opinion, that Regulation No 882/2004 provides only for a limited harmonisation of the rules applicable to official controls. It follows that Member States have a certain discretion in organising, through the ‘competent authority’, within the meaning of Article 2(4) of that regulation, official controls intended to ensure compliance with the rules seeking, as stated in Article 1(1) of that regulation, first, to prevent, eliminate or reduce to acceptable levels risks to humans and animals, either directly or through the environment, and, second, guarantee fair practices in feed and food trade and protect consumer interests, including feed and food labelling and other forms of consumer information.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">Against that background, and as long as the effectiveness of official controls is guaranteed, the choice of the competent Netherlands authority to use a non-profit private company, in this instance KDS, in order for that company to make available to it inspection assistants to act as official auxiliaries, cannot be challenged since such a choice does not seem to be such as to create distortions of competition between private operators.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">That said, it should be recalled, as the Court noted in the judgment of 17 March 2016, Kødbranchens Fællesråd (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑112/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:185</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>) that the language versions of Regulation No 882/2004 differ as to the terms used in Annex VI to that regulation to define the categories of persons whose costs may be covered by fees. Thus, that regulation in the German language version (‘<span class="italic">des für die amtlichen Kontrollen eingesetzten Personals</span>’) and the French version (‘<span class="italic">personnel chargé des contrôles officiels</span>’) refers to the staff who carry out the controls, whereas the English language version (‘<span class="italic">staff involved in the official controls</span>’) and the Italian version (‘<span class="italic">personale partecipante ai controlli ufficiali</span>’) use terms that could relate to a wider group of persons. As for the Danish language version of that regulation, point 1 of Annex VI states that the salaries of the staff who carry out official controls may be financed by fees (‘<span class="italic">lønninger til personale, der udfører offentlig kontrol</span>’), whereas it is stated, in terms with a broader meaning, in point 2 of that annex, that staff costs concerning official controls may be financed (‘<span class="italic">personaleudgifter i forbindelse med offentlig kontrol</span>’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">For its part, the Dutch version of Annex VI to Regulation No 882/2004 makes a distinction between the staff involved in official controls (‘<span class="italic">het personeel dat betrokken is bij de officiële controles</span>’), which is mentioned in point 1 of that annex, and the staff responsible for carrying out official controls (‘<span class="italic">het personeel dat betrokken is bij de uitvoering van de officiële controles</span>’), which is mentioned in point 2 of that annex.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">According to the Court’s settled case-law, where there is divergence between the various language versions of an EU legislative text, the provision in question must be interpreted by reference to its context, the purpose and general scheme of the rules of which it forms part. The origins of a provision of EU law may also be relevant to its interpretation (see, to that effect, judgments of 3 October 2013, Inuit Tapiriit Kanatami and Others v Parliament and Council, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A625&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑583/11 P</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A625&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:625</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A625&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>, and of 17 March 2016, Kødbranchens Fællesråd, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑112/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:185</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">It must be noted at the outset that the requirement that official controls be effective, which is repeatedly mentioned in Regulation No 882/2004, is a key concern for the EU legislature. Therefore, the competent authorities must ensure, in accordance with Article 4(2)(a) of that regulation, the effectiveness and appropriateness of official controls on live animals, feed and food at all stages of food production, processing and distribution, as well as during the use of feed. Article 8(3)(a) of the regulation also provides that the competent authorities must have procedures in place to verify the effectiveness of the official controls that they carry out. Furthermore, recital 11 of Regulation No 882/2004 states that the authorities which are competent for performing official controls should meet a number of operational criteria so as to ensure their impartiality and effectiveness. Those authorities should have a sufficient number of suitably qualified and experienced staff and possess adequate facilities and equipment to carry out their duties properly. Article 4(1) of Regulation No 854/2004 also provides that food business operators must offer all the assistance needed to ensure that official controls carried out by the competent authority, within the meaning of Article 2(4) of Regulation 882/2004, can be performed effectively.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">From that point of view, in accordance with Article 26 of Regulation No 882/2004, read in conjunction with recital 32 of that regulation, Member States must ensure that adequate financial resources are available, inter alia, to provide the staff necessary for the organisation of official controls.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">To that end, Article 27(1) and (4)(a) of that regulation provides that Member States may collect fees or charges to cover the costs occasioned by official controls, provided that the fees collected for the purposes of official controls are not higher than the costs borne by the responsible competent authorities in relation to the items listed in Annex VI to that regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">Whereas it is clear that the effectiveness of official controls depends primarily on the quality of the inspection work carried out by official veterinarians and official auxiliaries, administrative and support staff also contribute to it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">As the Advocate General noted in point 49 of his Opinion, administrative and support staff are responsible for relieving official veterinarians and official auxiliaries of the logistical organisation of inspection work and for contributing to the monitoring of those controls, which is defined in Article 2(8) of Regulation No 882/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, monitoring fully contributes to ensuring the effectiveness of official controls, inter alia, by contributing to the identification of slaughterhouses where a risk exists and, accordingly, to determining the frequency of official controls, which should, according to Article 3(1) of Regulation No 882/2004, read in conjunction with recital 13 thereof, be regular and proportionate to the risk.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, administrative support staff makes it possible for official veterinarians to focus on their inspection role in the strict sense.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">As the Advocate General noted, in essence, in point 51 of his Opinion, the EU legislature, by stating that the system of financing must be established by the Member States to ensure ‘the organisation’ — and not just the ‘performance’ — of the official controls, intended the objective of such financing to be to enable the Member States to establish a comprehensive system of official controls which is not limited just to the actual performance of control tasks.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, such financing can also cover the salaries and costs of administrative and support staff.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">However, in order not to exceed the costs borne by the responsible competent authorities in relation to the items listed in Annex VI to Regulation No 882/2004 or to infringe Article 27(4)(a) of that regulation or the principle of proportionality, only the time required by administrative and support staff for activities inextricably linked to the performance of official controls may be taken into consideration in the calculation of the fees.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that Article 27(1) and (4)(a) of Regulation No 882/2004, read in conjunction with points 1 and 2 of Annex VI thereto, must be interpreted as meaning that Member States may consider the salaries and costs of administrative and support staff as being costs occasioned by official controls and as not exceeding the costs borne by the competent authorities, in proportion to the time objectively required of that staff for activities inextricably linked to the performance of official controls.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it must be noted that the term ‘associated costs’ in point 2 of Annex VI to Regulation No 882/2004, must be interpreted strictly, if the list in that annex is not to be rendered redundant. It is apparent from the wording of Article 27(4)(a) of Regulation No 882/2004 that that annex lists exhaustively the criteria that may be taken into consideration in the setting of the fees connected to the official controls carried out in slaughterhouses (judgment of 17 March 2016, Kødbranchens Fællesråd, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑112/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:185</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="normal">The interpretation adopted in paragraph 67 above is supported by the historical context of EU legislation on official controls. As noted by the referring court and pointed out in paragraph 30 above, neither the wording nor the preparatory work of Regulation 2017/625 make it possible to discern any intention on the part of the EU legislature to depart from the system in force under Regulation No 882/2004. Similarly, neither the wording nor the preparatory work of Regulation No 882/2004 show any intention on the part of that legislature to depart from the interpretation of recoverable costs as referred to in Directive 85/73.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="normal">In light of the foregoing, the answer to Question 1 and 2 in Cases C‑477/18 and C‑478/18 is that Article 27(1) and (4)(a) of Regulation No 882/2004, read in conjunction with point 1 and 2 of Annex VI thereto, must be interpreted as meaning that Member States may consider the salaries and costs of administrative and support staff as being costs occasioned by official controls, for the purposes of those provisions, and as not exceeding the costs borne by the competent authorities, within the meaning of Article 2(4) of that regulation, in proportion to the time objectively required of that staff for activities inextricably linked to the performance of official controls.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Question 3(a) in Case C‑477/18 and Question 3 in Case C‑478/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="normal">By those questions, the referring court asks, in essence, whether Article 27(4)(a) of Regulation No 882/2004, read in conjunction with Annex VI thereto, must be interpreted as precluding slaughterhouses from being charged fees in relation to official controls for quarter-hour periods requested by such slaughterhouses from the competent authority, within the meaning of Article 2(4) of Regulation No 882/2004, but not actually worked.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary point, it must be noted that it follows from the order for reference that, in the event that an official control is completed earlier than planned, the Netherlands legislation at issue in the main proceedings provides that the official veterinarians and official auxiliaries of NVWA are to be paid for the quarter-hour periods requested by the slaughterhouse subject to control but not worked.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="normal">That said, it is apparent from Article 27(4)(a) of Regulation No 882/2004 that the fees collected for the purposes of official controls must not be higher than the costs borne by the responsible competent authorities in relation to the items listed in Annex VI to that regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="normal">That provision, which embodies the principle of proportionality, confirms the rule set out in Article 27(1) of that regulation, according to which Member States are only authorised to collect fees or charges in order to cover the costs occasioned by official controls.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="normal">It is true that, as the European Commission argued in its written observations, fees corresponding to working time that was requested by the slaughterhouse subject to control but which ultimately was not completed seems, prima facie, to exceed the costs borne by the competent authority, within the meaning of Article 2(4) of Regulation No 882/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="normal">Nonetheless, as stated in paragraph 57 above, the requirement that official controls be effective was a key concern for the EU legislature during the development of Regulation No 882/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, that regulation does not preclude fees from being levied in relation to the control time requested by a slaughterhouse but not worked where failure to levy such fees could affect the effectiveness of the official controls system.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="normal">In a system under which certain inspection work is carried out at the request of the slaughterhouses themselves, the requirement that official controls be effective may lead to making slaughterhouses liable for the payment of fees relating to control time which has not been worked where the competent authority, within the meaning of Article 2(4) of Regulation No 882/2004, was unable to reassign the official veterinarians and official auxiliaries to the official control of another slaughterhouse.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point79">79</p>
+</td>
+<td valign="top">
+<p class="normal">As is apparent from paragraph 62 above, the monitoring, as defined in Article 2(8) of that regulation, contributes to the effectiveness of official controls, in that it makes it possible to plan those controls in a coherent manner and, therefore, to ensure that controls are carried out regularly and on a risk basis, in accordance with Article 3(1) of Regulation No 882/2004, read in conjunction with recital 13 of that regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point80">80</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, that planning of controls allows the competent authority, within the meaning of Article 2(4) of Regulation No 882/2004, to make sure that it has the staff necessary to carry out official controls, as required under Article 26 of Regulation No 882/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point81">81</p>
+</td>
+<td valign="top">
+<p class="normal">However, it is appropriate, in keeping with the principle of proportionality and without prejudice to compliance with the requirement that official controls be effective, to allow slaughterhouses the possibility of informing the competent authority, sufficiently in advance of the performance of an official control, of their intention to shorten the duration of such a control vis-à-vis the period originally planned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point82">82</p>
+</td>
+<td valign="top">
+<p class="normal">To that end, that competent authority must provide for a reasonable period during which slaughterhouses may exercise their option to shorten the duration of an official control, on expiry of which the control time originally planned will be invoiced definitively, whether or not the control has been fully carried out, and inform the slaughterhouses accordingly.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point83">83</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the answer to Question 3(a) in Case C‑477/18 and Question 3 in Case C‑478/18 is that Article 27(4)(a) of Regulation No 882/2004, read in conjunction with Annex VI thereto, must be interpreted as not precluding slaughterhouses from being charged fees in relation to official controls for quarter-hour periods requested by such slaughterhouses from the competent authority, within the meaning of Article 2(4) of Regulation No 882/2004, but not actually worked, where the slaughterhouse subject to the control did not inform that authority sufficiently in advance of its intention to shorten the duration of that control vis-à-vis the period originally planned.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Question 3(b) in Case C‑477/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point84">84</p>
+</td>
+<td valign="top">
+<p class="normal">By Question 3(b) in Case C‑477/18, the referring court asks, in essence, whether the answer to Question 3(a) in that case also applies in the case where, first, official controls have been carried out by contracted official veterinarians who are not paid for quarter-hour periods requested by slaughterhouses but not worked and, second, the share of the fee corresponding to those quarter-hour periods requested but not worked is allocated to covering the general overhead costs of the competent authority, within the meaning of Article 2(4) of Regulation No 882/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point85">85</p>
+</td>
+<td valign="top">
+<p class="normal">As noted in paragraph 59 above, it follows from Article 27(1)(a) and (4)(a) of Regulation No 882/2004 that fees may be levied only to finance costs actually occasioned by official controls and borne by the competent authority, within the meaning of Article 2(4) of Regulation No 882/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point86">86</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that, as contracted official veterinarians are not paid for quarter-hour periods requested but not worked, the competent authority cannot, without infringing Article 27(1) and (4)(a) of the regulation, levy in connection with the fee provided for in that article, sums corresponding to the remuneration that those veterinarians would have received had the quarter-hour periods requested been worked; such sums do not correspond to costs occasioned by official controls and actually borne by the competent authority.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point87">87</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, for each quarter-hour period requested but not worked, the competent authority, within the meaning of Article 2(4) of Regulation No 882/2004, may, at most, charge the slaughterhouse subject to control a sum corresponding to the amount of the fee less the salary costs of contracted official veterinarians, if it is established that the balance thus obtained genuinely corresponds to general costs falling within one or more categories of costs referred to in Annex VI to Regulation No 882/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point88">88</p>
+</td>
+<td valign="top">
+<p class="normal">Having regard to the foregoing considerations, the answer to Question 3(b) in Case C‑477/18 is that the answer to Question 3(a) in that case may also apply where, first, official controls have been carried out by contracted official veterinarians who are not paid for quarter-hour periods requested by slaughterhouses but not worked and, second, the share of the fee corresponding to those quarter-hour periods requested but not worked is allocated to covering the general overhead costs of the competent authority, within the meaning of Article 2(4) of Regulation No 882/2004, if it is established that the share of the fee relating to those quarter-hour periods does not include the unpaid salary costs of contracted official veterinarians and genuinely corresponds to general overhead costs falling within one or more cost categories referred to in Annex VI to that regulation.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Question 4 in Case-477/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point89">89</p>
+</td>
+<td valign="top">
+<p class="normal">By Question 4 in Case C‑477/18, the referring court asks, in essence, whether Article 27(4)(a) and (b) of Regulation No 882/2004 must be interpreted as precluding slaughterhouses being charged an average rate for official controls performed not only by veterinarians employed by the competent authority, within the meaning of Article 2(4) of that regulation, but also for controls carried out by contracted veterinarians, who are paid less.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point90">90</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from Article 27(4)(b) of Regulation No 882/2004 that the fees collected for the purposes of official controls may be fixed at a flat-rate calculated on the basis of the costs borne by the competent authorities over a given period of time.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point91">91</p>
+</td>
+<td valign="top">
+<p class="normal">The option thus afforded to the competent authority, within the meaning of Article 2(4) of Regulation No 882/2004, to fix fees calculated on a flat-rate basis presupposes that the amount of the fee charged to a slaughterhouse may, where appropriate, be at times lesser, or at times greater, than the costs actually borne by that authority during an official control taken in isolation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point92">92</p>
+</td>
+<td valign="top">
+<p class="normal">As the Danish Government stated in its written observations, use of an average rate contributes to guaranteeing the equal treatment of slaughterhouses and the absence of any discrimination between them, by avoiding variations in the cost of an official control according to, inter alia, the grade or years of service of the official veterinarian or whether the veterinarian is employed by that competent authority itself or as a contracted veterinarian.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point93">93</p>
+</td>
+<td valign="top">
+<p class="normal">The fact remains that, in the light of Article 27(4)(a) of Regulation No 882/2004, the fees levied for the purposes of official controls must not, in general, be higher than the costs borne by the responsible competent authorities in relation to the items listed in Annex VI to that regulation. Therefore, if the competent authority, within the meaning of Article 2(4) of Regulation No 882/2004, finds that it has made a profit over a given period, it must reduce the amount of the fees for the following period because it will otherwise infringe Article 27(4)(a) and (b) of Regulation No 882/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point94">94</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the answer to Question 4 in Case C‑477/18 is that Article 27(4)(a) and (b) of Regulation No 882/2004 must be interpreted as not precluding slaughterhouses being charged an average rate not only when the official controls are performed by veterinarians employed by the competent authority, within the meaning of Article 2(4) of that regulation, but also where those controls are carried out by contracted veterinarians, who are paid less, provided that the fees collected for the purposes of official controls are not, in general, higher than the costs borne by the responsible competent authorities in relation to the items listed in Annex VI to that regulation.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Question 5 in Case C‑477/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point95">95</p>
+</td>
+<td valign="top">
+<p class="normal">By Question 5 in Case C‑477/18, the referring court asks, in essence, whether Article 27(4)(a) of Regulation No 882/2004 must be interpreted as precluding account being taken, when calculating fees for official controls, of the costs for building up buffer reserves for a private company which the competent authority, within the meaning of Article 2(4) of that regulation, uses to source official auxiliaries, where those reserves are intended to be used to pay the salaries and training costs of staff who actually perform official controls as well as of staff who make it possible for official controls to be carried out, in the event of a health crisis.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point96">96</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court states that KDS built up buffer reserves totalling half its average turnover during the two years preceding the setting up of those reserves, plus an amount of EUR 500000, intended to be allocated to the payment of salaries in the event of a sudden lack of work following a crisis resulting from, inter alia, an epidemic. If such a crisis were to occur, the animals would have to be destroyed and slaughterhouses would cease to slaughter animals for human consumption. Thus, should veterinarians then be assigned to the destruction of animals, inspection assistants would no longer have any work and would not generate any income. Nevertheless, once the crisis was overcome, inspection assistants would again work in slaughterhouses, without slaughterhouses having to wait for a sufficient number of trained inspection assistants to be available.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point97">97</p>
+</td>
+<td valign="top">
+<p class="normal">The setting up of such buffer reserves is therefore intended to protect the company concerned from a possible crisis.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point98">98</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the wording of Article 27(4)(a) of Regulation No 882/2004 that the fees collected for the purposes of official controls can only compensate for the costs actually borne by the responsible competent authorities in relation to the items listed in Annex VI to that regulation. Moreover, Article 27(10) of that regulation provides that the Member States must not collect any fees other than those referred to in that article for the implementation of the regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point99">99</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the foregoing that the fees for official controls may be used to cover only the costs which Member States actually incur in performing controls in food establishments (judgment of 17 March 2016, Kødbranchens Fællesråd, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑112/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:185</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A185&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>). Furthermore, as noted in paragraph 68 above, Annex VI to Regulation No 882/2004 lists exhaustively the criteria that may be taken into consideration in setting fees connected to official controls carried out in slaughterhouses.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point100">100</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the financing of a provision such as that at issue in the main proceedings cannot be envisaged by means of fees collected pursuant to Article 27 of Regulation No 882/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point101">101</p>
+</td>
+<td valign="top">
+<p class="normal">The answer to Question 5 in Case C‑477/18 is that Article 27(4)(a) of Regulation No 882/2004 must be interpreted as precluding account being taken, when calculating fees for official controls, of the costs for building up buffer reserves for a private company which the competent authority, within the meaning of Article 2(4) of that regulation, uses to source official auxiliaries where those reserves are intended to be used to pay the salaries and training costs of staff who actually perform official controls as well as of staff who make it possible for official controls to be carried out, in the event of a health crisis.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Question 6 in Case-477/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point102">102</p>
+</td>
+<td valign="top">
+<p class="normal">In view of the answer to Question 5 in Case C‑477/18, it is not necessary to answer Question 6 in that case.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point103">103</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fourth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 27(1) and (4)(a) of Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29 April 2004 on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules, read in conjunction with point 1 and 2 of Annex VI thereto, must be interpreted as meaning that Member States may consider the salaries and costs of administrative and support staff as being costs occasioned by official controls, for the purposes of those provisions, and as not exceeding the costs borne by the competent authorities, within the meaning of Article 2(4) of that regulation, in proportion to the time objectively required of that staff for activities inextricably linked to the performance of official controls.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 27(4)(a) of Regulation No 882/2004, read in conjunction with Annex VI thereto, must be interpreted as not precluding slaughterhouses from being charged fees in relation to official controls for quarter-hour periods requested by such slaughterhouses from the competent authority, within the meaning of Article 2(4) of Regulation No 882/2004, but not actually worked, where the slaughterhouse subject to the control did not inform that authority sufficiently in advance of its intention to shorten the duration of that control vis-à-vis the period originally planned.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">3.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Point 2 of the operative part of the present judgment may also apply in the case where, first, official controls have been carried out by contracted official veterinarians who are not paid for quarter-hour periods requested by slaughterhouses but not worked and, second, the share of the fee corresponding to those quarter-hour periods requested but not worked is allocated to covering the general overhead costs of the competent authority, within the meaning of Article 2(4) of Regulation No 882/2004, if it is established that the share of the fee relating to those quarter-hour periods does not include the unpaid salary costs of contracted official veterinarians and genuinely corresponds to general overhead costs falling within one or more cost categories referred to in Annex VI to that regulation.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">4.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 27(4)(a) and (b) of Regulation No 882/2004 must be interpreted as not precluding slaughterhouses being charged an average rate not only when the official controls are performed by veterinarians employed by the competent authority, within the meaning of Article 2(4) of that regulation, but also where those controls are carried out by contracted veterinarians, who are paid less, provided that the fees collected for the purposes of official controls are not, in general, higher than the costs borne by the responsible competent authorities in relation to the items listed in Annex VI to that regulation.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">5.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 27(4)(a) of Regulation No 882/2004 must be interpreted as precluding account being taken, when calculating fees for official controls, of the costs for building up buffer reserves for a private company which the competent authority, within the meaning of Article 2(4) of that regulation, uses to source official auxiliaries where those reserves are intended to be used to pay the salaries and training costs of staff who actually perform official controls as well as of staff who make it possible for official controls to be carried out, in the event of a health crisis.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0477_EN_01-E0001" id="t-ECR_62018CJ0477_EN_01-E0001">*1</a>
+</span>)	Language of the case: Dutch.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

@@ -1,0 +1,45 @@
+.containerTab {
+  background-color: gainsboro;
+}
+
+::ng-deep .mat-grid-figure {
+  height: 50%;
+}
+
+.custombar1 .p-scrollpanel-wrapper {
+  border-right: 9px solid #f4f4f4;
+}
+.custombar1 {
+  width: '100%';
+  height: 'calc(50 - 10px)'}
+
+.custombar1 .p-scrollpanel-bar {
+  background-color: #1976d2;
+  opacity: 1;
+  transition: background-color .3s;
+}
+
+.custombar1 .p-scrollpanel-bar:hover {
+  background-color: #135ba1;
+}
+
+.custombar2 .p-scrollpanel-wrapper {
+  border-right: 9px solid #757575;
+  border-bottom: 9px solid #757575;
+}
+
+.custombar2 .p-scrollpanel-bar {
+  background-color: #68C77D;
+  border-radius: 0;
+  opacity: 1;
+  transition: background-color .3s;
+}
+
+.custombar2:hover .p-scrollpanel-bar {
+  background-color: #46A55A;
+}
+
+.highlightme {
+  background-color: yellow;
+}
+

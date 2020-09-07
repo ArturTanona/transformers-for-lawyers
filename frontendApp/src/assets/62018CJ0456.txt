@@ -1,0 +1,1280 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (First Chamber)</p>
+<p class="coj-sum-title-1">4 June 2020 (<span class="coj-note">
+<a href="#t-ECR_62018CJ0456_EN_01-E0001" id="c-ECR_62018CJ0456_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Appeal — State aid — Alleged aid — Decision to initiate the procedure provided for in Article 108(2) TFEU — Suspension injunction in respect of the measures at issue — Conditions governing the legality of the injunction)</p>
+<p class="coj-normal">In Case C‑456/18 P,</p>
+<p class="coj-normal">APPEAL under Article 56 of the Statute of the Court of Justice of the European Union, brought on 12 July 2018,</p>
+<p class="coj-normal">
+<span class="coj-bold">Hungary</span>, represented by M.Z. Fehér and G. Koós, acting as Agents,</p>
+<p class="coj-pstatus">appellant,</p>
+<p class="coj-normal">supported by:</p>
+<p class="coj-normal">
+<span class="coj-bold">Republic of Poland</span>, represented by B. Majczyna, M. Rzotkiewicz and A. Kramarczyk, acting as Agents,</p>
+<p class="coj-pstatus">intervener in the appeal,</p>
+<p class="coj-pnormal">the other party to the proceedings being:</p>
+<p class="coj-normal">
+<span class="coj-bold">European Commission</span>, represented by L. Flynn, P.-J. Loewenthal, V. Bottka and K. Talabér-Ritz, acting as Agents,</p>
+<p class="coj-pstatus">defendant at first instance,</p>
+<p class="coj-normal">THE COURT (First Chamber),</p>
+<p class="coj-normal">composed of J.-C. Bonichot, President of the Chamber (Rapporteur), R. Silva de Lapuerta, Vice-President of the Court, acting as Judge of the First Chamber, M. Safjan, L.S. Rossi and C. Toader, Judges,</p>
+<p class="coj-normal">Advocate General: J. Kokott,</p>
+<p class="coj-normal">Registrar: R. Şereş, Administrator,</p>
+<p class="coj-normal">having regard to the written procedure and further to the hearing on 26 September 2019,</p>
+<p class="coj-normal">after hearing the Opinion of the Advocate General at the sitting on 16 January 2020,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its appeal, Hungary asks the Court to set aside the judgment of the General Court of the European Union of 25 April 2018, Hungary v Commission (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AT%3A2018%3A220&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">T‑554/15 and T‑555/15</a>, the judgment under appeal, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AT%3A2018%3A220" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:T:2018:220</a>), by which the General Court dismissed its actions for annulment of, first, Commission Decision C(2015) 4805 final of 15 July 2015 on State aid SA. 41187 (2015/NN) — Hungary — Health contribution of tobacco industry businesses (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:C:2015:277:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2015 C 277, p. 24</a>) and, second, Commission Decision C(2015) 4808 final of 15 July 2015 on State aid SA. 40018 (2015/C) (ex 2014/NN) — 2014 Amendment of the Hungarian food chain inspection fee (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:C:2015:277:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2015 C 277, p. 12</a>) (‘the decisions at issue’) in so far as they order suspension of the application of the progressive tax rate of, respectively, the health contribution of tobacco industry businesses and the food chain inspection fee, in their form resulting from Law No XCIV of 2014 on the health contribution of tobacco industry businesses and from the amendment in 2014 of Law No XLVI of 2008 on the food chain and the official supervision thereof.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Recital 12 of Council Regulation (EC) No 659/1999 of 22 March 1999 laying down detailed rules for the application of Article [108 TFEU] (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1999:083:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1999 L 83, p. 1</a>), as amended by Council Regulation (EU) No 734/2013 of 22 July 2013 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2013:204:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2013 L 204, p. 15</a>) (‘Regulation No 659/1999’), is worded as follows:</p>
+<p class="coj-normal">‘… in cases of unlawful aid, the Commission should have the right to obtain all necessary information enabling it to take a decision and to restore immediately, where appropriate, undistorted competition; … it is therefore appropriate to enable the Commission to adopt interim measures addressed to the Member State concerned; … the interim measures may take the form of information injunctions, suspension injunctions and recovery injunctions; … the Commission should be enabled in the event of non-compliance with an information injunction, to decide on the basis of the information available and, in the event of non-compliance with suspension and recovery injunctions, to refer the matter to the Court of Justice direct, in accordance with the second subparagraph of Article [108(2) TFEU]’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 3 of Regulation No 659/1999, headed ‘Standstill clause’, states:</p>
+<p class="coj-normal">‘Aid notifiable pursuant to Article 2(1) shall not be put into effect before the Commission has taken, or is deemed to have taken, a decision authorising such aid.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As set out in Article 4 of Regulation No 659/1999, headed ‘Preliminary examination of the notification and decisions of the Commission’:</p>
+<p class="coj-normal">‘1.   The Commission shall examine the notification as soon as it is received. Without prejudice to Article 8, the Commission shall take a decision pursuant to paragraphs 2, 3 or 4.</p>
+<p class="coj-normal">2.   Where the Commission, after a preliminary examination, finds that the notified measure does not constitute aid, it shall record that finding by way of a decision.</p>
+<p class="coj-normal">3.   Where the Commission, after a preliminary examination, finds that no doubts are raised as to the compatibility with the [internal] market of a notified measure, in so far as it falls within the scope of Article [107(1) TFEU], it shall decide that the measure is compatible with the [internal] market (hereinafter referred to as a “decision not to raise objections”). The decision shall specify which exception under the Treaty has been applied.</p>
+<p class="coj-normal">4.   Where the Commission, after a preliminary examination, finds that doubts are raised as to the compatibility with the [internal] market of a notified measure, it shall decide to initiate proceedings pursuant to Article [108(1) TFEU] (hereinafter referred to as a “decision to initiate the formal investigation procedure”).</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Chapter III of Regulation No 659/1999, headed ‘Procedure regarding unlawful aid’, includes Articles 10 to 14 of the regulation. Article 10 provides:</p>
+<p class="coj-normal">‘1.   Without prejudice to Article 20, the Commission may on its own initiative examine information regarding alleged unlawful aid from whatever source.</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">2.   If necessary, the Commission shall request information from the Member State concerned. ...’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 11 of Regulation No 659/1999, headed ‘Injunction to suspend or provisionally recover aid’, states:</p>
+<p class="coj-normal">‘1.   The Commission may, after giving the Member State concerned the opportunity to submit its comments, adopt a decision requiring the Member State to suspend any unlawful aid until the Commission has taken a decision on the compatibility of the aid with the [internal] market (hereinafter referred to as a “suspension injunction”).</p>
+<p class="coj-normal">2.   The Commission may, after giving the Member State concerned the opportunity to submit its comments, adopt a decision requiring the Member State provisionally to recover any unlawful aid until the Commission has taken a decision on the compatibility of the aid with the [internal] market (hereinafter referred to as a “recovery injunction”), if the following criteria are fulfilled:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">according to an established practice there are no doubts about the aid character of the measure concerned and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">there is an urgency to act and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">there is a serious risk of substantial and irreparable damage to a competitor.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">Recovery shall be effected in accordance with the procedure set out in Article 14(2) and (3). After the aid has been effectively recovered, the Commission shall take a decision within the time limits applicable to notified aid.</p>
+<p class="coj-normal">The Commission may authorise the Member State to couple the refunding of the aid with the payment of rescue aid to the firm concerned.</p>
+<p class="coj-normal">The provisions of this paragraph shall be applicable only to unlawful aid implemented after the entry into force of this Regulation.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As set out in Article 12 of Regulation No 659/1999, headed ‘Non-compliance with an injunction decision’:</p>
+<p class="coj-normal">‘If the Member State fails to comply with a suspension injunction or a recovery injunction, the Commission shall be entitled, while carrying out the examination on the substance of the matter on the basis of the information available, to refer the matter to the Court of Justice of the European Communities direct and apply for a declaration that the failure to comply constitutes an infringement of the Treaty.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 13(1) of Regulation No 659/1999 provides:</p>
+<p class="coj-normal">‘The examination of possible unlawful aid shall result in a decision pursuant to Article 4(2), (3) or (4). In the case of decisions to initiate the formal investigation procedure, proceedings shall be closed by means of a decision pursuant to Article 7. If a Member State fails to comply with an information injunction, that decision shall be taken on the basis of the information available.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Background to the dispute</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By Law No XCIV of 2014 on the health contribution of tobacco industry businesses, the Hungarian Parliament imposed a new tax levied, at a progressive rate, on the annual turnover of undertakings deriving at least 50% of their turnover from the production or trading of tobacco products. A food chain inspection fee levied on the turnover of shops selling everyday consumer goods was also made progressive, by the Hungarian Parliament’s amendment in 2014 of Law No XLVI of 2008 on the food chain and the official supervision thereof.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By letters dated 17 March and 13 April 2015 respectively, the Commission informed the Hungarian authorities that, in its view, first, the progressive rate of the food chain inspection fee and, second, the progressive rate of the health contribution and the reduction of the health contribution in the event of investment resulted in undertakings in comparable situations being treated differently and could therefore be regarded as establishing State aid incompatible with the internal market. The Commission referred, in both letters, to the possibility of issuing a suspension injunction against Hungary, on the basis of Article 11(1) of Regulation No 659/1999, and asked it to submit its comments on the possible imposition of such an injunction. By letters of 16 April and 12 May 2015, the Hungarian authorities replied that, in their view, the measures concerned did not amount to State aid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By the decisions at issue, the Commission, in each of the cases, (i) initiated a formal investigation procedure under Article 108(2) TFEU and (ii), pursuant to Article 11(1) of Regulation No 659/1999, required Hungary to suspend implementation of the tax measures at issue.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 4 July 2016, the Commission adopted two decisions closing the formal investigation procedures, by which it found that the contested measures were unlawful and incompatible with the internal market.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The procedure before the General Court and the judgment under appeal</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By applications lodged at the Registry of the General Court on 25 September 2015, Hungary brought an action against each of the decisions at issue in so far as they order suspension of the application of the progressive tax rate of, respectively, the health contribution and the food chain inspection fee and suspension of the reduction of the health contribution in the event of investment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By the judgment under appeal, the General Court dismissed those actions.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The procedure before the Court of Justice and the forms of order sought</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its appeal, Hungary asks the Court to set aside the judgment under appeal, to grant the form of order sought by it at first instance and to order the Commission to pay the costs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By decision of the President of the Court of Justice of 15 October 2018, the Republic of Poland was granted leave to intervene in support of Hungary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission contends that the appeal should be dismissed, that Hungary should be ordered to pay the costs and that the Republic of Poland should be ordered to pay the costs of the intervention.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The appeal</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Admissibility of the appeal</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission raises against the Hungarian Government a plea of inadmissibility alleging that it does not set out clearly and unequivocally the pleas on which it relies, does not specify all the paragraphs of the judgment under appeal that it contests, confines itself to a large extent to repeating the pleas and arguments already presented at first instance and rejected by the General Court, criticises, in particular, the reasons stated for the decisions at issue rather than the grounds of the judgment under appeal and seeks, in fact, a re-examination of the application dismissed by the General Court. The appeal is said therefore not to meet the requirements of Article 256 TFEU in conjunction with the first paragraph of Article 58 of the Statute of the Court of Justice of the European Union and Article 169(2) of the Rules of Procedure of the Court of Justice.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it must be held that the Commission does not accompany its contentions with the details necessary to assess their merits. Furthermore, contrary to the Commission’s assertions, Hungary puts forward in its appeal, in particular, pleas alleging errors of law committed by the General Court regarding, first, the discretion available to the Commission when it adopts suspension injunctions and, second, its obligation to state reasons for those injunctions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, the Commission’s plea that the appeal is inadmissible must be rejected.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Admissibility of the pleas in the intervention</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Arguments of the parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission contends that the Republic of Poland’s second plea, which is linked to Hungary’s second ground of appeal but criticises other passages of the judgment under appeal, and its third plea, which does not take up any ground of appeal, alter the subject matter of the proceedings and are consequently inadmissible.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Findings of the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under the fourth paragraph of Article 40 of the Statute of the Court of Justice of the European Union, an application to intervene is to be limited to supporting the form of order sought by one of the parties. Article 132 of the Rules of Procedure, which, pursuant to Article 190 thereof, is applicable to appeal proceedings before the Court of Justice, provides that the statement in intervention is to contain the pleas in law and arguments relied on by the intervener.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Those provisions therefore do not prevent an intervener from using arguments other than those used by the party which he or she supports, provided that the intervener seeks to support solely the form of order sought by that party or seeks the rejection of the form of order sought by the opposing party (judgments of 23 February 1961, De Gezamenlijke Steenkolenmijnen in Limburg v High Authority, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1961%3A2&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">30/59</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1961%3A2" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1961:2</a>, pp. 17 and 18, and of 19 November 1998, United Kingdom v Council, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1998%3A547&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑150/94</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1998%3A547" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1998:547</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1998%3A547" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, the Republic of Poland’s pleas put forward in support of the form of order sought by Hungary cannot be regarded as inadmissible on the grounds that they supplement the second ground of appeal by criticising other passages of the judgment under appeal and include an argument which does not appear in the appeal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission’s plea that the Republic of Poland’s intervention is in part inadmissible must therefore be rejected.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Substance</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Hungary puts forward three grounds of appeal, alleging that the General Court, first, misinterpreted the conditions for adopting suspension injunctions under Article 11(1) of Regulation No 659/1999, second, distorted some of its arguments and, third, failed to comply with the obligation to state reasons and misapplied Article 296 TFEU and Article 41(1) of the Charter of Fundamental Rights of the European Union.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Fourth part of the first ground of appeal</span>
+</p>
+<p class="coj-normal">– <span class="coj-italic">Arguments of the parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to the Hungarian Government, the General Court failed to have regard to the fact that a suspension injunction must be consistent with the FEU Treaty and the general principles of EU law. It is true that the General Court stated in paragraph 86 of the judgment under appeal that ‘the review by the EU judicature is not limited only to the conditions provided for in Article 11(1) of Regulation No 659/1999 and may extend, inter alia, to the compatibility of the suspension [injunction] with the [FEU Treaty] and the general principles of law’. Nevertheless, in paragraphs 70 and 71 of that judgment, the General Court restricted the conditions for adopting a suspension injunction to the two conditions imposed in Article 11(1) of Regulation No 659/1999. Likewise, in paragraph 87 of the judgment it limited its examination to that article alone. The General Court committed the same error of law in paragraphs 95 and 134 of the judgment under appeal, in holding that, when the Commission orders a measure to be suspended pursuant to Article 11(1) of Regulation No 659/1999, it is not required to satisfy itself that the injunction is necessary and proportionate.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission submits that there is no inconsistency between, on the one hand, paragraphs 71 and 95 of the judgment under appeal and, on the other, paragraphs 86 and 98 of that judgment. Paragraphs 86 and 98 must be interpreted in the light of paragraphs 130 and 134 of the judgment, according to which the appropriateness of adopting a suspension injunction is sufficiently justified by the existence of a proven infringement of Article 108(3) TFEU and therefore further reasons do not need to be stated. The prohibition laid down in Article 108(3) TFEU applies even before the Commission adopts a decision to initiate a formal investigation procedure. Once a Member State puts an aid measure into effect without having notified the Commission of it, there is an infringement of Article 108(3) TFEU. Classification of the national measure at issue as unlawful State aid is the substantive condition laid down in Article 11(1) of Regulation No 659/1999. That is why the Commission takes the view that it was inconsistent for the General Court to hold in paragraphs 135 to 137 of the judgment under appeal that the Commission has to set out in the decision imposing the suspension injunction the grounds for its view that the Member State is unlikely to observe that prohibition.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the abovementioned contradiction, the Commission requests the Court to replace the grounds in paragraphs 135 to 137 of the judgment under appeal, so as to render them consistent with the grounds set out in paragraphs 70, 71, 130 and 134 of that judgment.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">– <span class="coj-italic">Findings of the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 108(3) TFEU obliges the Member States to notify the Commission of any plans to grant or alter State aid. Article 109 TFEU empowers the Council of the European Union to determine in particular the conditions in which Article 108(3) TFEU is to apply. The Council adopted Regulation No 659/1999 on that basis.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Where the Member State concerned does not suspend the implementation of the measure at issue in order to comply with the duty under the last sentence of Article 108(3) TFEU and Article 3 of Regulation No 659/1999 not to put new aid or the alteration of existing aid into effect before authorisation is obtained from the Commission or, as the case may be, from the Council, the Commission has the power under Article 11(1) of that regulation, having given the Member State the opportunity to submit its comments, to adopt a decision requiring it to suspend such implementation until the final decision as to the compatibility of the aid (judgment of 9 October 2001, Italy v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑400/99</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2001:528</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Regulation No 659/1999 provides, in Article 4(4), that where the Commission, after a preliminary examination, finds that doubts are raised as to the compatibility of a notified measure with the internal market, it is to initiate the formal investigation procedure. Where the Commission is aware of a non-notified measure which could, in its view, involve new aid or the alteration of existing aid, it may also, on the basis of Article 10(2) of that regulation, request information from the Member State concerned and, where appropriate, decide pursuant to the second sentence of Article 13(1) thereof to initiate the formal investigation procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In every situation, initiation of the formal investigation procedure in respect of a measure which the Commission presumes to be new aid obliges the Member State concerned to suspend implementation of the measure (see, to that effect, judgments of 30 June 1992, Spain v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1992%3A282&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑312/90</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1992%3A282" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1992:282</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1992%3A282" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">17</a>; of 9 October 2001, Italy v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑400/99</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2001:528</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">59</a>; of 10 May 2005, Italy v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A275&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑400/99</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A275" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:275</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A275" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>; and of 9 June 2011, Diputación Foral de Vizcaya and Others v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A372&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑465/09 P to C‑470/09 P</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A372" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:372</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A372" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">92</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, initiation of the formal investigation procedure in respect of a measure that has not been notified does not entail the same consequences for the Member State concerned as the adoption of a suspension injunction pursuant to Article 11(1) of Regulation No 659/1999. It is true that it is required in both situations to suspend implementation of the measure at issue. Nevertheless, only non-compliance with a suspension injunction enables the Commission, pursuant to Article 12 of Regulation No 659/1999, to bring an action for a declaration of failure to fulfil obligations directly before the Court (see, to that effect, judgment of 9 October 2001, Italy v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑400/99</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2001:528</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">60</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Court has held that the suspension injunction may be adopted at the same time as the decision to initiate the formal investigation procedure or may be subsequent thereto (judgment of 9 October 2001, Italy v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑400/99</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2001:528</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a>). A suspension injunction may in particular be adopted after the initiation of the formal investigation procedure where the Member State concerned did not, when that procedure was initiated, suspend implementation of the measure under investigation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the two cases which gave rise to the judgment under appeal, Hungary brought actions before the General Court challenging suspension injunctions adopted at the same time and by the same decision as the initiation of the formal investigation procedure in respect of the two criticised tax measures.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By the first plea in its application before the General Court, Hungary contended in particular that the adoption of a suspension injunction requires, in addition to fulfilment of the two conditions imposed in Article 11(1) of Regulation No 659/1999, namely provisional classification by the Commission of the national measure at issue as unlawful State aid and consultation of the Member State concerned regarding the contemplated injunction, that the injunction observe the principle of proportionality. In the light of the suspensive effect of the concomitant initiation of the formal investigation procedure, the suspension injunction would, in Hungary’s submission, have been justified only if the Commission could reasonably have thought that it would not comply with those obligations — a proposition lacking any basis.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By the fourth part of the first ground of appeal, Hungary contends that the General Court erred in law when responding in the judgment under appeal to the argument recalled in the preceding paragraph. Repeatedly, in paragraphs 70, 71, 95 and 134 of the judgment under appeal, the General Court wrongly held that the adoption of a suspension injunction is dependent only on the two conditions imposed in Article 11(1) of Regulation No 659/1999, while omitting the obligation on the Commission to verify that the suspension injunction is proportionate.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First of all, it should be recalled that, as provided in Article 11(1) of Regulation No 659/1999, ‘the Commission may, after giving the Member State concerned the opportunity to submit its comments, adopt a decision requiring the Member State to suspend any unlawful aid until the Commission has taken a decision on the compatibility of the aid with the [internal] market (hereinafter referred to as a “suspension injunction”)’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is apparent from the very wording of that provision that the Commission has a power and not an obligation to adopt a decision imposing a suspension injunction (see, to that effect, judgment of 9 October 2001, Italy v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑400/99</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2001:528</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A528" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a>). Consequently, as it is not in a situation where its powers are circumscribed, it has a discretion in deciding whether to adopt such a measure. Where the Commission has a discretion, it must, when exercising it, observe the general principles of EU law (see, to that effect, judgment of 18 July 2013, Schindler Holding and Others v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A522&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑501/11 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A522" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:522</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A522" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">59</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to settled case-law, the principle of proportionality, which is one of the general principles of EU law, requires that acts adopted by EU institutions do not exceed the limits of what is appropriate and necessary in order to attain the legitimate objectives pursued by the legislation in question; where there is a choice between several appropriate measures, recourse must be had to the least onerous, and the disadvantages caused must not be disproportionate to the aims pursued (judgments of 17 May 1984, Denkavit Nederland, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1984%3A183&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">15/83</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1984%3A183" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1984:183</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1984%3A183" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a>, and of 30 April 2019, Italy v Council (Fishing quota for Mediterranean swordfish), <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A332&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C-611/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A332" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:332</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A332" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">55</a>). That principle is recalled in Article 5(4) TEU and in Article 1 of the Protocol (No 2) on the application of the principles of subsidiarity and proportionality, annexed to the EU Treaty and the [FEU Treaty].</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows from the foregoing that a suspension injunction adopted pursuant to Article 11(1) of Regulation No 659/1999 must observe the principle of proportionality, that is to say, not exceed the limits of what is appropriate and necessary in order to attain the objective pursued by that provision. As has been noted in paragraph 33 of the present judgment, the power conferred on the Commission to issue such injunctions to the Member States has the objective of ensuring compliance with the prohibition on putting aid plans into effect until the final decision on their compatibility. It is supplemented by the Commission’s power to refer the matter directly to the Court, within a shorter timescale, in order for it to find a failure to fulfil obligations consisting in the putting into effect by a Member State of a measure suspected of constituting unlawful aid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of that objective, adoption of a suspension injunction is justified where, after initiation of the formal investigation procedure, the Member State concerned has failed to suspend implementation of the measure under investigation, as has been stated in paragraph 35 of the present judgment. However, it may also be appropriate to adopt a suspension injunction at the same time as the decision to initiate the formal investigation procedure, in a situation where there is sufficient evidence for the Commission to presume that the Member State concerned does not have the intention of suspending implementation of the measure under investigation — as it is obliged to do by the initiation of the formal investigation procedure — and to anticipate that an action for a declaration of failure to fulfil obligations will consequently have to be brought before the Court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In response to the first plea in the application initiating proceedings, a plea which is recalled in paragraph 37 of the present judgment, the General Court set out in paragraphs 70 and 71 of the judgment under appeal the conditions governing the legality of a suspension injunction, in the following terms:</p>
+<p class="coj-normal">‘70 The conditions for the adoption of such an [injunction], laid down in Article 11(1) of Regulation No 659/1999, are restricted to a substantive condition, namely the classification by the Commission, at that stage of the procedure, of the national measure concerned as unlawful State aid, and a procedural condition, namely giving the Member State concerned the possibility to submit its comments.</p>
+<p class="coj-normal">71 No other condition needs to be satisfied in order for the Commission to be authorised to adopt an [injunction] under Article 11(1) of Regulation No 659/1999, and it should be pointed out that this is as a result of the legislature’s intention, and not, as submitted by Hungary, its oversight. The wording of that article, which reflects the legal arrangements covered by the settled case-law cited in paragraph 30 above, was not altered by the amendments introduced in Regulation No 659/1999 and was reproduced, in its original form, in the new Regulation 2015/1589.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is true that those paragraphs, taken in isolation, could be read as requiring the Commission, when it adopts a suspension injunction, to comply only with the conditions expressly imposed in Article 11(1) of Regulation No 659/1999 and as accordingly relieving it of the obligation to assess whether the suspension injunction is necessary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Nevertheless, they must be placed in the General Court’s reasoning as a whole. In paragraph 86 of the judgment under appeal, it noted that ‘the review by the EU judicature is not limited only to the conditions provided for in Article 11(1) of Regulation No 659/1999 and may extend, inter alia, to the compatibility of the suspension [injunction] with the [FEU Treaty] and the general principles of law’. Furthermore, in paragraph 94 et seq. of that judgment, the General Court examined whether the Commission had complied with the principle of proportionality in adopting the suspension injunctions at issue. In particular, the General Court analysed in paragraphs 98 and 99 of the judgment under appeal whether those injunctions were appropriate and necessary for attainment of the legitimate objectives pursued by Articles 107 and 108 TFEU, including whether the disadvantages caused by the injunctions were proportionate to the aims pursued by those provisions. Finally, in paragraph 102 of the judgment under appeal, the General Court concluded that the Commission did not infringe the principle of proportionality in adopting the injunctions at issue.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows from the foregoing that the Commission did not fail to have regard to the obligation on the institutions to observe the principle of proportionality in all their acts. Therefore, the fourth part of the first ground of appeal must be dismissed.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">First part of the third ground of appeal</span>
+</p>
+<p class="coj-normal">– <span class="coj-italic">Arguments of the parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By the third ground of appeal, the Hungarian Government complains that the General Court erred in law in its assessment of the requirements regarding the statement of reasons for suspension injunctions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By the first part of this plea, the Hungarian Government contends, essentially, that the General Court erred in the legal classification of the facts in holding that the reasons stated for the suspension injunction were sufficient.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Hungarian Government concedes that the General Court correctly stated in paragraph 135 of the judgment under appeal that, where the suspension injunction is inserted into the decision to initiate the formal investigation procedure, the reasons stated for the injunction must make it clear why the Member State concerned is not going to comply with the obligation to suspend the implementation of the measures under investigation. On the other hand, the General Court erred in taking the view that the information provided by the decisions at issue made it clear that, according to the Commission, Hungary had the intention not to suspend the measures at issue during the investigation procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First, the reference in those decisions to the fact that the provisional classification of the measures as State aid was contested by the Hungarian authorities was wrongly interpreted by the General Court, in paragraph 136 of the judgment under appeal, as being an indication of such an intention. If that were so, a Member State would be unable to contest the Commission’s analysis without being suspected of seeking to implement the national measures despite initiation of an investigation procedure in their regard.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Second, contrary to what the General Court held, the reference in the decisions at issue to the fact that the national authorities did not react to the Commission’s request to submit comments on the possible adoption of suspension injunctions likewise cannot be regarded as an element of the reasoning. That would be a wrongful interpretation of a silence which the Commission itself, moreover, did not interpret to that effect.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Third, in paragraph 137 of the judgment under appeal the General Court wrongly regarded the conduct of the Hungarian authorities in another investigation procedure as reasoning for the decisions at issue, although that conduct was not mentioned in those decisions and there was nothing to indicate that it had been taken into account by the Commission. The General Court erred in holding that that formed part of the statement of reasons.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Fourth, the decisions at issue preclude the General Court’s interpretation of them all the more in that they did not indicate in the slightest a risk of the measures under investigation being implemented by the national authorities during the investigation procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Fifth, the General Court’s assessment of the reasons stated for the decisions at issue is indeed contradicted by the Commission itself, which constantly asserted, throughout the proceedings and in particular at the hearing, that it was required to comply only with the substantive and procedural conditions referred to in Article 11(1) of Regulation No 659/1999.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission submits that, in the light of the circumstances in which the suspension injunctions were adopted, the General Court was correct in finding that the Hungarian authorities were able to understand why the Commission had decided upon them.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">– <span class="coj-italic">Findings of the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to settled case-law, the statement of reasons required under Article 296 TFEU for measures adopted by EU institutions must be appropriate to the measure at issue and must disclose clearly and unequivocally the reasoning followed by the institution which adopted that measure in such a way as to enable the persons concerned to ascertain the reasons for it and to enable the competent court to review its legality. The requirements to be satisfied by the statement of reasons depend on all the circumstances of each case, in particular, the content of the measure in question, the nature of the reasons given and the interest which the addressees of the measure, or other parties to whom it is of direct and individual concern, may have in obtaining explanations. It is not necessary for the reasoning to go into all the relevant facts and points of law, since the question whether the statement of reasons meets the requirements of Article 296 TFEU must be assessed with regard not only to its wording but also to its context and to all the legal rules governing the matter in question (judgment of 10 March 2016, HeidelbergCement v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A149&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑247/14 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A149" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:149</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A149" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">16</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As has been stated in paragraph 40 of the present judgment, the Commission has merely a power to adopt suspension injunctions, even if the two conditions imposed in Article 11(1) of Regulation No 659/1999 are met. Particular grounds must therefore lead the institution to adopt such a decision. As has been recalled in the preceding paragraph, by virtue of the obligation to state reasons for acts of the institutions, the grounds of any decision must be made known to its addressee in order to enable him or her to assess their merits and to exercise, where appropriate, the right to bring proceedings in an informed manner. Communication of the grounds is also required in order to enable the EU judicature to review, as it does for any act, the legality of the suspension injunction in the light of the principle of proportionality and to verify that the Commission has not made unjustified use of the power conferred on it by Article 11(1) of Regulation No 659/1999.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Where, as in this instance, the suspension injunction is adopted at the same time as the decision to initiate the formal investigation procedure, the grounds that prompt the Commission to issue it necessarily relate to foreseeing that the Member State concerned will not suspend implementation of the measure at issue despite initiation of the investigation procedure. As has been stated in paragraph 34 of the present judgment, the only additional effect of the suspension injunction compared with the effects of initiation of the formal investigation procedure is to enable the Commission, if the Member State concerned does not comply with its obligation to suspend implementation of the measure under investigation, to bring an action for failure to fulfil obligations directly before the Court, pursuant to Article 12 of Regulation No 659/1999. Consequently, if the Commission were not required, where the suspension injunction is adopted at the same time as the decision to initiate the formal investigation procedure, to indicate the reasons for which it considers that the Member State will not comply with the suspension obligation and is consequently already envisaging bringing an action before the Court, it would be spared the need to state reasons for that suspension injunction, in breach of the obligation to state reasons.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Thus, the General Court correctly pointed out, in paragraph 135 of the judgment under appeal, that, ‘in a situation such as that in the present case, in which the suspension [injunction] is inserted into a decision to initiate the formal investigation procedure, having regard to the Commission’s wide discretion under Article 11(1) of Regulation No 659/1999 and the specific legal effect produced by a suspension [injunction] under Article 12 of that regulation, the decision adopting such an [injunction] must make it clear why, according to the Commission, the Member State concerned was not going to comply with the obligation arising from Article 108(3) TFEU and suspend the implementation of the measures examined following initiation of the formal investigation procedure’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By the third plea in its application before the General Court, Hungary contended that the reasons stated for the suspension injunctions at issue were insufficient, since the Commission had not set out the grounds justifying adoption of the injunctions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The General Court rejected that plea on the basis of three factors.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First, it observed, in paragraph 136 of the judgment under appeal, that it was clear from the decisions at issue that, in response to the Commission’s letters of 17 March and 13 April 2015 requesting information, the Hungarian authorities had argued that the national measures at issue did not constitute State aid. However, as the Advocate General has noted in point 93 of her Opinion, a Member State is perfectly entitled to defend itself by asserting that the measure in question does not constitute aid. Consequently, it cannot be deduced therefrom that there is an increased risk that the Member State will not respect the legal effects of Article 108(3) TFEU, in particular where, as here, the question of law concerned is a contentious one.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Second, the General Court, again in paragraph 136 of the judgment under appeal, relied on the reference in the decisions at issue to the fact that the Hungarian authorities did not respond to the Commission’s request to submit comments on the planned suspension injunctions. In the view of the General Court, that factor enabled it to be understood, in the light of the circumstances, that there was a risk that the national measures at issue would be implemented despite initiation of the formal investigation procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, whilst Article 11(1) of Regulation No 659/1999 provides that, before adopting a suspension injunction, the Commission must permit the Member State concerned to submit its comments on that measure, on the other hand, as the Advocate General has correctly observed in point 94 of her Opinion, that provision does not in any way oblige the Member State to submit its comments. Consequently, the fact that Hungary did not make any comments concerning the possible adoption of a suspension injunction was not sufficient to justify the Commission’s fear that it would implement the measures at issue.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Third and last, the General Court mentioned in paragraph 137 of the judgment under appeal the fact that, a few months before the adoption of the injunctions at issue, despite initiation by the Commission of a formal investigation procedure in respect of Hungarian tax measures based on the same system as the national measures at issue in the present case, those measures had not been suspended by the Hungarian authorities. However, as the Advocate General has observed in point 99 of her Opinion, that fact is not part of the context in which the injunctions at issue were adopted, contrary to what the General Court stated in paragraph 137 of the judgment under appeal. Furthermore, if that previous conduct on Hungary’s part was a decisive indication for the Commission, it should have mentioned it in the decisions at issue, which was not the case.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing, the General Court was wrong in holding, in paragraph 138 of the judgment under appeal, that ‘the Hungarian authorities were able to understand why the Commission decided, in the [decisions at issue], to have recourse to the suspension [injunctions]’. Therefore, the third ground of appeal must be upheld.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Third plea in the Republic of Poland’s intervention</span>
+</p>
+<p class="coj-normal">– <span class="coj-italic">Arguments of the parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By the third plea in its intervention, the Republic of Poland submits that the General Court infringed Article 264(1) TFEU by adding, in order to reject Hungary’s line of argument, its own assessment to that set out in the decisions at issue. The General Court thus took the view, in paragraphs 135 and 136 of the judgment under appeal, for the purpose of finding that the adoption of the decisions imposing a suspension injunction was justified, that the Commission had taken account of a risk that the national measures at issue would be implemented by Hungary despite initiation of the formal investigation procedure. That assessment results from the General Court’s own reasoning, which has no basis in the grounds of the decisions at issue. The General Court cannot in any event substitute its own reasoning for that of the author of the act.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission acknowledges that the decisions at issue do not include the reasons why it took the view that Hungary was not planning to suspend grant of the aid at issue. It submits, however, that it provided a sufficient statement of reasons for those decisions by indicating that the aid measures entered into force before their notification.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">– <span class="coj-italic">Findings of the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In reviewing the legality of acts under Article 263 TFEU, the Court of Justice and the General Court have jurisdiction in actions brought on grounds of lack of competence, infringement of an essential procedural requirement, infringement of the Treaty or of any rule of law relating to its application, or misuse of powers. Article 264 TFEU provides that, if the action is well founded, the act concerned must be declared void. The Court of Justice and the General Court cannot therefore, under any circumstances, substitute their own reasoning for that of the author of the contested act (judgment of 28 February 2013, Portugal v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A118&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑246/11 P</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A118" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:118</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A118" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">85</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In this instance, as has been noted in paragraphs 63 and 64 of the present judgment, the General Court held that the suspension injunctions at issue satisfied the requirement that reasons be stated for acts of the institutions on the basis of the fact that it was apparent from the decisions at issue, first, that the Hungarian authorities had argued that the national measures at issue did not constitute State aid and, second, that they had not responded to the Commission’s request to submit comments to it on the planned suspension injunctions. The General Court held that those grounds enabled it to be understood that the Commission considered there to be a risk that the measures at issue would be implemented. Furthermore, the General Court considered that the fact that the Hungarian authorities had not suspended the tax measures concerned by a previous formal investigation procedure, initiated a few months earlier, had to be taken into account as part of the context, even though the decisions at issue did not refer to it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Irrespective of the fact that, as has already been found, those factors could not amount to a sufficient statement of reasons for the decisions at issue, it must be stated that they are not included in those decisions, which the Commission itself indeed acknowledges. In its defence, the Commission contends, on the contrary, that it did not have to set out the grounds for its view that Hungary probably would not comply with the decisions requiring it to suspend implementation of the measures at issue. It further submits that the grounds in paragraphs 135 to 137 of the judgment under appeal are contrary to those set out in paragraphs 70, 71, 130 and 134 of that judgment. The Commission also acknowledged, in its observations on the Republic of Poland’s statement in intervention, that the decisions at issue did not provide specific explanations of the reasons why it had taken the view that Hungary was not planning to suspend grant of the aid at issue. That line of argument is, moreover, consistent with the extent of the discretion which the Commission asserted that it has, under Article 11(1) of Regulation No 659/1999, to adopt a decision imposing a suspension injunction, as is apparent from its written pleadings before both the General Court and the Court of Justice.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is apparent from the foregoing that the General Court added grounds to those set out by the Commission and thus exceeded the limits of its powers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, the third plea in the Republic of Poland’s intervention must also be upheld.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows from all the foregoing that the judgment under appeal must be set aside.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The action before the General Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In accordance with the first paragraph of Article 61 of the Statute of the Court of Justice of the European Union, if the Court quashes the decision of the General Court, it may refer the case back to the General Court for judgment or, where the state of the proceedings so permits, itself give final judgment in the matter.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, the Court should give final judgment in the matter, as the state of the proceedings so permits.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As noted in paragraph 69 of the present judgment, the Commission has itself acknowledged that the decisions at issue did not provide explanations of the reasons why it took the view that Hungary would not suspend the measures at issue despite initiation of the formal investigation procedure. However, the suspension injunctions should have stated reasons in that regard, as has been set out in paragraph 58 of the present judgment and as the General Court also held in paragraph 135 of the judgment under appeal. Therefore, the suspension injunctions at issue are vitiated by an insufficient statement of reasons and infringe Article 296 TFEU. The third plea in Hungary’s application at first instance must, accordingly, also be upheld.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point79">79</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows from the foregoing that the suspension injunctions adopted by the decisions at issue must be annulled, and there is no need to examine the other pleas in that application.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point80">80</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 184(2) of the Rules of Procedure, where the appeal is well founded and the Court itself gives final judgment in the case, the Court is to make a decision as to the costs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point81">81</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 138(1) of the Rules of Procedure, which is applicable to appeal proceedings by virtue of Article 184(1) thereof, provides that the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings. Since Hungary has applied for costs and the Commission has been unsuccessful, the Commission must be ordered to bear its own costs and to pay those incurred by Hungary, both at first instance and on appeal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point82">82</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 140(1) of the Rules of Procedure, which is also applicable to appeal proceedings by virtue of Article 184(1) thereof, provides that the Member States and institutions which have intervened in the proceedings are to bear their own costs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point83">83</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Republic of Poland, the intervener in the appeal, must bear its own costs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (First Chamber) hereby:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Sets aside the judgment of the General Court of the European Union of 25 April 2018, Hungary v Commission (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AT%3A2018%3A220&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">T‑554/15 and T‑555/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AT%3A2018%3A220" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:T:2018:220</a>);</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Annuls Commission Decision C(2015) 4805 final of 15 July 2015 on State aid SA. 41187 (2015/NN) — Hungary — Health contribution of tobacco industry businesses and Commission Decision C(2015) 4808 final of 15 July 2015 on State aid SA. 40018 (2015/C) (ex 2014/NN) — 2014 Amendment of the Hungarian food chain inspection fee in so far as they order suspension of the application of the progressive tax rate of, respectively, the health contribution and the food chain inspection fee, in their form resulting from Law No XCIV of 2014 on the health contribution of tobacco industry businesses and from the amendment in 2014 of Law No XLVI of 2008 on the food chain and the official supervision thereof;</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">3.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Orders the European Commission to bear its own costs and to pay those incurred by Hungary, both at first instance and on appeal;</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">4.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Orders the Republic of Poland to bear its own costs.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62018CJ0456_EN_01-E0001" id="t-ECR_62018CJ0456_EN_01-E0001">*1</a>
+</span>)	Language of the case: Hungarian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

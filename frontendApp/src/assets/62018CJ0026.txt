@@ -1,0 +1,946 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>ARRÊT DE LA COUR (première chambre)</p>
+<p class="sum-title-1">10 juillet 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0026_FR_01-E0001" id="c-ECR_62018CJ0026_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Union douanière – Règlement (CEE) n<span class="super">o</span> 2913/92 – Articles 202 et 203 – Droits de douane à l’importation – Naissance d’une dette douanière en raison de manquements à la réglementation douanière – Fiscalité – Taxe sur la valeur ajoutée (TVA) – Directive 2006/112/CE – Article 2, paragraphe 1, sous d), et article 30 – TVA à l’importation – Fait générateur de la taxe – Notion d’“importation” d’un bien – Exigence de l’entrée du bien dans le circuit économique de l’Union européenne – Acheminement de ce bien dans un État membre autre que celui dans lequel la dette douanière a pris naissance »</p>
+<p class="normal">Dans l’affaire C‑26/18,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par le Hessisches Finanzgericht (tribunal des finances de Hesse, Allemagne), par décision du 2 novembre 2017, parvenue à la Cour le 16 janvier 2018, dans la procédure</p>
+<p class="normal">
+<span class="bold">Federal Express Corporation Deutsche Niederlassung</span>
+</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">Hauptzollamt Frankfurt am Main,</span>
+</p>
+<p class="normal">LA COUR (première chambre),</p>
+<p class="normal">composée de M. J.‑C. Bonichot, président de chambre, M<span class="super">me</span> C. Toader, MM. A. Rosas, L. Bay Larsen et M. Safjan (rapporteur), juges,</p>
+<p class="normal">avocat général : M. M. Campos Sánchez-Bordona,</p>
+<p class="normal">greffier : M. D. Dittert, chef d’unité,</p>
+<p class="normal">vu la procédure écrite et à la suite de l’audience du 5 décembre 2018,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour Federal Express Corporation Deutsche Niederlassung, par MM. R. Welzel et U. Reimer, Steuerberater,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le Hauptzollamt Frankfurt am Main, par M. U. Beck, en qualité d’agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement hellénique, par M. K. Georgiadis et M<span class="super">me</span> M. Tassopoulou, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M<span class="super">me</span> F. Clotuche-Duvieusart et M. B.-R. Killmann, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">ayant entendu l’avocat général en ses conclusions à l’audience du 27 février 2019,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation de l’article 2, paragraphe 1, sous d), et de l’article 30 de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="fr" target="CourtTab">JO 2006, L 347, p. 1</a>, ci-après la « directive TVA »).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant Federal Express Corporation Deutsche Niederlassung (ci-après « FedEx ») au Hauptzollamt Frankfurt am Main (bureau principal des douanes de Francfort-sur-le-Main, Allemagne, ci-après le « bureau principal des douanes allemand ») au sujet de l’obligation d’acquitter la taxe sur la valeur ajoutée (TVA) en Allemagne à la suite de la naissance d’une dette douanière à l’importation en raison de manquements à la réglementation douanière commis sur le territoire de cet État membre.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit de l’Union</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Le règlement (CEE) n<span class="super">o</span> 2913/92</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Le règlement (UE) n<span class="super">o</span> 952/2013 du Parlement européen et du Conseil, du 9 octobre 2013, établissant le code des douanes de l’Union (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2013:269:TOC" hreflang="fr" target="CourtTab">JO 2013, L 269, p. 1</a>, et rectificatif <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2013:287:TOC" hreflang="fr" target="CourtTab">JO 2013, L 287, p. 90</a>), a abrogé et remplacé le règlement (CEE) n<span class="super">o</span> 2913/92 du Conseil, du 12 octobre 1992, établissant le code des douanes communautaire (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1992:302:TOC" hreflang="fr" target="CourtTab">JO 1992, L 302, p. 1</a>), à compter du 1<span class="super">er</span> mai 2016. Néanmoins, compte tenu de la date des faits au principal, le règlement n<span class="super">o</span> 2913/92, tel que modifié par le règlement (CE) n<span class="super">o</span> 1791/2006 du Conseil, du 20 novembre 2006 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:363:TOC" hreflang="fr" target="CourtTab">JO 2006, L 363, p. 1</a>, ci-après le « code des douanes »), demeure applicable à la présente affaire.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 40 du code des douanes énonçait :</p>
+<p class="normal">« Les marchandises qui entrent sur le territoire douanier de la Communauté sont présentées en douane par la personne qui les a introduites sur ce territoire ou, le cas échéant, par la personne qui prend en charge le transport des marchandises après que cette introduction a eu lieu, sauf dans le cas de marchandises acheminées par des moyens de transport qui ne font que transiter, sans interruption, par les eaux territoriales ou l’espace aérien du territoire douanier de la Communauté. La personne qui présente les marchandises fait mention de la déclaration sommaire ou de la déclaration en douane déposée au préalable pour ces marchandises. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 50 du code des douanes prévoyait :</p>
+<p class="normal">« En attendant de recevoir une destination douanière, les marchandises présentées en douane ont, dès que cette présentation a eu lieu, le statut de marchandises en dépôt temporaire. Ces marchandises sont ci-après dénommées “marchandises en dépôt temporaire”. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 91, paragraphe 1, sous a), du code des douanes disposait :</p>
+<p class="normal">« Le régime du transit externe permet la circulation d’un point à un autre du territoire douanier de la Communauté :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">de marchandises non communautaires sans que ces marchandises soient soumises aux droits à l’importation et aux autres impositions ni aux mesures de politique commerciale ».</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 202, paragraphes 1 et 2, du code des douanes était libellé comme suit :</p>
+<p class="normal">« 1.   Fait naître une dette douanière à l’importation :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">l’introduction irrégulière dans le territoire douanier de la Communauté d’une marchandise passible de droits à l’importation</p>
+<p class="normal">ou</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">s’agissant d’une telle marchandise se trouvant dans une zone franche ou en entrepôt franc, son introduction irrégulière dans une autre partie de ce territoire.</p>
+</td>
+</tr>
+</table>
+<p class="normal">Au sens du présent article, on entend par introduction irrégulière, toute introduction en violation des article 38 à 41 et article 177 deuxième tiret.</p>
+<p class="normal">2.   La dette douanière naît au moment de l’introduction irrégulière. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 203, paragraphes 1 et 2, du code des douanes énonçait :</p>
+<p class="normal">« 1.   Fait naître une dette douanière à l’importation :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">la soustraction d’une marchandise passible de droits à l’importation à la surveillance douanière.</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   La dette douanière naît au moment de la soustraction de la marchandise à la surveillance douanière. »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">La directive TVA</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 2, paragraphe 1, sous d), de la directive TVA :</p>
+<p class="normal">« Sont soumises à la TVA les opérations suivantes :</p>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">d)</p>
+</td>
+<td valign="top">
+<p class="normal">les importations de biens. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 30 de cette directive énonce :</p>
+<p class="normal">« Est considérée comme “importation de biens” l’introduction dans la Communauté d’un bien qui n’est pas en libre pratique au sens de l’article 24 du traité.</p>
+<p class="normal">Outre l’opération visée au premier alinéa, est considérée comme importation de biens l’introduction dans la Communauté d’un bien en libre pratique en provenance d’un territoire tiers faisant partie du territoire douanier de la Communauté. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 60 de ladite directive dispose :</p>
+<p class="normal">« L’importation de biens est effectuée dans l’État membre sur le territoire duquel le bien se trouve au moment où il est introduit dans la Communauté. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 61 de la même directive prévoit :</p>
+<p class="normal">« Par dérogation à l’article 60, lorsqu’un bien qui n’est pas en libre pratique relève depuis son introduction dans la Communauté de l’un des régimes ou de l’une des situations visés à l’article 156 ou d’un régime d’admission temporaire en exonération totale de droits à l’importation ou de transit externe, l’importation de ce bien est effectuée dans l’État membre sur le territoire duquel le bien sort de ces régimes ou situations.</p>
+<p class="normal">De même, lorsqu’un bien qui est en libre pratique relève depuis son introduction dans la Communauté de l’un des régimes ou de l’une des situations visés aux articles 276 et 277, l’importation de ce bien est effectuée dans l’État membre sur le territoire duquel le bien sort de ces régimes ou situations. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 70 de la directive TVA est libellé comme suit :</p>
+<p class="normal">« Le fait générateur intervient et la taxe devient exigible au moment où l’importation de biens est effectuée. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 71 de cette directive énonce :</p>
+<p class="normal">« 1.   Lorsque des biens relèvent depuis leur introduction dans la Communauté de l’un des régimes ou de l’une des situations visés aux articles 156, 276 et 277, ou d’un régime d’admission temporaire en exonération totale de droits à l’importation ou de transit externe, le fait générateur et l’exigibilité de la taxe n’interviennent qu’au moment où les biens sortent de ces régimes ou situations.</p>
+<p class="normal">Toutefois, lorsque les biens importés sont soumis à des droits de douane, à des prélèvements agricoles ou à des taxes d’effet équivalent établies dans le cadre d’une politique commune, le fait générateur intervient et la taxe devient exigible au moment où interviennent le fait générateur et l’exigibilité de ces droits.</p>
+<p class="normal">2.   Dans les cas où les biens importés ne sont soumis à aucun des droits visés au paragraphe 1, deuxième alinéa, les États membres appliquent les dispositions en vigueur en matière de droits de douane pour ce qui concerne le fait générateur et l’exigibilité de la taxe. »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit allemand</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 1<span class="super">er</span> de l’Umsatzsteuergesetz (loi relative à la taxe sur le chiffre d’affaires), du 21 février 2005 (BGBl. 2005 I, p. 386), dans sa version applicable aux faits au principal (ci-après l’« UStG »), intitulé « Opérations imposables », dispose, à son paragraphe 1, point 4 :</p>
+<p class="normal">« Sont soumises à la taxe sur le chiffre d’affaires les opérations suivantes :</p>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4.</p>
+</td>
+<td valign="top">
+<p class="normal">les importations de biens sur le territoire national [...] (taxe sur le chiffre d’affaires à l’importation) ;</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 13 de l’UStG, intitulé « Naissance de la taxe », énonce, à son paragraphe 2 :</p>
+<p class="normal">« L’article 21, paragraphe 2, s’applique à la taxe sur le chiffre d’affaires à l’importation. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 21 de l’UStG, intitulé « Règles particulières pour la taxe sur le chiffre d’affaires à l’importation », prévoit, à son paragraphe 2 :</p>
+<p class="normal">« Les règles applicables aux droits de douane s’appliquent par analogie à la taxe sur le chiffre d’affaires à l’importation ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 14 de l’Einfuhrumsatzsteuer-Befreiungsverordnung (règlement fédéral relatif à l’exonération de la taxe sur le chiffre d’affaires à l’importation), du 11 août 1992 (BGBl. 1992 I, p. 1526), dans sa version applicable aux faits au principal, intitulé « Remboursement ou remise », prévoit, à son paragraphe 1 :</p>
+<p class="normal">« La taxe sur le chiffre d’affaires à l’importation est remboursée ou remise dans les cas prévus aux articles 235 à 242 du code des douanes, lesdites dispositions ainsi que leurs dispositions d’application étant applicables par analogie. »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Au cours du mois de janvier 2008, FedEx a fait parvenir des biens en provenance d’Israël, du Mexique et des États-Unis (ci-après les « biens en cause »), passibles de droits à l’importation, à différents destinataires situés en Grèce, leur destination finale. Ces biens ont été transportés en 18 lots distincts (ci-après les « 18 lots »), par avion, jusqu’à Francfort-sur-le-Main (Allemagne), où ils ont été placés dans un autre avion pour être acheminés en Grèce.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Par lettre du 23 octobre 2008, le bureau des douanes de l’aéroport d’Athènes (Grèce) a informé le bureau principal des douanes allemand que les 18 lots avaient été acheminés en Grèce en méconnaissance de la réglementation douanière.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Compte tenu de ces informations, le bureau principal des douanes allemand a relevé que 14 des 18 lots n’avaient pas fait l’objet, en Allemagne, de la présentation en douane prévue à l’article 40 du code des douanes et en a déduit que ces lots avaient été introduits sur le territoire douanier de l’Union européenne de manière irrégulière. Il a ainsi estimé que, en application de l’article 202 du code des douanes, l’introduction irrégulière de ces lots avait fait naître une dette douanière à l’importation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Pour 3 des 18 lots, le bureau principal des douanes allemand a considéré que les biens concernés se trouvaient en dépôt temporaire à leur arrivée à l’aéroport de Francfort-sur-le-Main, qu’ils avaient été acheminés à Athènes sans avoir été placés sous le régime de transit communautaire externe et qu’ils avaient, de ce fait, été enlevés du lieu de dépôt sans autorisation. Pour le dernier lot, il a été constaté que l’acheminement des biens à Athènes avait été précédé d’un régime de transit externe dûment apuré de Paris (France) à Francfort-sur-le-Main, mais que ces biens avaient également été enlevés du lieu de dépôt sans autorisation. Pour ces quatre lots, le bureau principal des douanes allemand a estimé que les manquements à la réglementation douanière ont fait naître une dette douanière à l’importation, sur le fondement de l’article 203 du code des douanes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">En conséquence, pour les 18 lots, le bureau principal des douanes allemand a adopté, les 30 novembre et 1<span class="super">er</span> décembre 2010, à l’égard de FedEx, cinq avis relatifs à la perception de droits de douane à l’importation. Le même bureau a considéré que, pour ces lots, la TVA à l’importation, qualifiée en Allemagne de taxe sur le chiffre d’affaires à l’importation, était due au motif que, conformément à l’article 21, paragraphe 2, de l’UStG, les règles applicables aux droits de douane s’appliquent par analogie à cette taxe.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">FedEx s’est acquittée des droits de douane à l’importation et de la taxe sur le chiffre d’affaires à l’importation résultant de ces cinq avis. Cependant, au mois de novembre 2011, cette société a demandé le remboursement de ces droits et de cette taxe, au motif, notamment, qu’ils avaient fait l’objet d’une double perception, contraire au droit de l’Union. À cet égard, FedEx a allégué que les biens en cause, après être arrivés à Athènes, ont été mis en libre pratique et que les droits à l’importation, y compris la taxe grecque sur le chiffre d’affaires à l’importation, ont été perçus. Par des avis des 9 et 10 avril 2013, le bureau principal des douanes allemand a rejeté ces demandes de remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">À la suite des procédures de réclamation introduites par FedEx contre ces avis, l’administration fiscale a modifié les taux d’imposition qui ont été appliqués dans deux des cinq avis des 30 novembre et 1<span class="super">er</span> décembre 2010 et a procédé au remboursement partiel de la taxe sur le chiffre d’affaires à l’importation afférente à ces deux avis.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Le 13 juin 2014, FedEx a introduit devant le Hessisches Finanzgericht (tribunal des finances de Hesse, Allemagne) un recours dirigé contre ces cinq avis. Lors de l’audience, FedEx s’est désistée de son recours pour ce qui concerne les droits de douane à l’importation, mais a maintenu sa demande s’agissant de la taxe sur le chiffre d’affaires à l’importation. À cet égard, elle a fait valoir que cette taxe est une taxe sur la consommation qui ne pèse que sur les biens qui sont effectivement consommés sur le territoire national. Les biens en cause ayant été acheminés en Grèce sans avoir été introduits dans le circuit économique allemand, ils ne pourraient être regardés comme ayant été importés sur le territoire allemand et comme pouvant faire l’objet d’une opération imposable à ce titre.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi nourrit par conséquent des doutes quant au point de savoir si, à la suite des manquements à la réglementation douanière mentionnés aux points 21 et 22 du présent arrêt, qui ont engendré une dette douanière à l’importation, la TVA à l’importation a pris naissance en Allemagne pour ce qui concerne les biens en cause.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, la juridiction de renvoi mentionne le point 65 de l’arrêt du 2 juin 2016, Eurogate Distribution et DHL Hub Leipzig (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A405&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑226/14 et C‑228/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A405&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2016:405</a>), qui se réfère à la notion de « risque » d’entrée dans le circuit économique de l’Union européenne. Ladite juridiction relève que, si cette notion doit être appliquée, dans les hypothèses dans lesquelles des biens introduits sur le territoire de l’Union n’ont pas été placés sous un régime douanier ou sont sortis du régime sous lequel ils avaient été placés, il conviendrait uniquement d’examiner s’il existe un risque que ces biens entrent dans le circuit économique de l’Union sur le territoire fiscal de l’État membre considéré. En l’occurrence, il devrait être considéré qu’un tel risque existait, car les biens en cause, en raison de leur introduction irrégulière ou de leur soustraction à la surveillance douanière, n’étaient précisément pas ou plus soumis à ladite surveillance. Notamment, les biens introduits irrégulièrement sur le territoire douanier de l’Union auraient pu être enlevés de manière inaperçue et faire l’objet d’une consommation non taxée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Toutefois, eu égard aux arrêts de la Cour du 1er juin 2017, Wallenborn Transports (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A417&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑571/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A417&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:417</a>), et du 18 mai 2017, Latvijas Dzelzceļš (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A392&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑154/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A392&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:392</a>), la juridiction de renvoi se demande si la TVA à l’importation, s’agissant de l’État membre sur le territoire fiscal duquel des biens ont été introduits dans l’Union, ne prend naissance que lorsque lesdits biens entrent dans le circuit économique de l’Union également sur le territoire fiscal dudit État membre. Dans cette hypothèse, il n’existerait une entrée dans ledit circuit économique que lorsque les biens ont été mis en libre pratique en application de la législation douanière ou lorsqu’un manquement à la législation douanière conduit à présumer que les biens sont entrés dans ledit circuit économique et qu’ils ont pu faire l’objet d’une consommation ou d’une utilisation. Seules ces deux situations seraient constitutives d’une « importation », au sens de la directive TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, le Hessisches Finanzgericht (tribunal des finances de Hesse) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« 1)</p>
+</td>
+<td valign="top">
+<p class="normal">Une importation au sens de l’article 2, paragraphe 1, sous d), et de l’article 30 de la directive [TVA] présuppose-t-elle que le bien introduit sur le territoire de l’Union entre dans le circuit économique de l’Union ou suffit-il qu’il existe un simple risque que ledit bien parvienne dans ledit circuit ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2)</p>
+</td>
+<td valign="top">
+<p class="normal">Dans le cas où une importation présuppose l’entrée du bien dans le circuit économique de l’Union :</p>
+<p class="normal">Pour qu’un bien introduit sur le territoire de l’Union soit entré dans le circuit économique de l’Union, suffit-il que, en méconnaissance de la législation douanière, il ne soit placé sous aucun régime au sens de l’article 61, premier alinéa, de la directive [TVA] ou qu’il soit certes initialement placé sous un tel régime, mais que, en raison d’un manquement à la législation douanière, il en soit sorti ultérieurement, ou, dans le cas d’un manquement à la législation douanière, l’entrée dans le circuit économique de l’Union présuppose-t-elle qu’il puisse être présumé que le bien, en raison dudit manquement, est parvenu dans ledit circuit sur le territoire fiscal de l’État membre dans lequel le manquement a été commis et qu’il a pu faire l’objet d’une consommation ou d’une utilisation ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les questions préjudicielles</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la première question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa première question, la juridiction de renvoi demande, en substance, si l’article 2, paragraphe 1, sous d), et l’article 30 de la directive TVA doivent être interprétés en ce sens que, lorsqu’un bien est introduit sur le territoire de l’Union, la notion d’« importation d’un bien », au sens de ces dispositions, désigne uniquement l’entrée dans le circuit économique de l’Union de ce bien ou si cette notion recouvre également le risque d’entrée d’un tel bien dans ce circuit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">À titre liminaire, il convient de rappeler que, selon une jurisprudence constante de la Cour, les questions relatives à l’interprétation du droit de l’Union posées par le juge national dans le cadre réglementaire et factuel qu’il définit sous sa responsabilité, et dont il n’appartient pas à la Cour de vérifier l’exactitude, bénéficient d’une présomption de pertinence. Le refus de la Cour de statuer sur une demande de décision préjudicielle formée par une juridiction nationale n’est possible que s’il apparaît de manière manifeste que l’interprétation sollicitée du droit de l’Union n’a aucun rapport avec la réalité ou l’objet du litige au principal, lorsque le problème est de nature hypothétique ou encore lorsque la Cour ne dispose pas des éléments de fait et de droit nécessaires pour répondre de façon utile aux questions qui lui sont posées (arrêt du 28 mars 2019, Cogeco Communications, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A263&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑637/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A263&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2019:263</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A263&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point57" hreflang="fr" target="CourtTab" type="application/xhtml+xml">57</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 2, paragraphe 1, sous d), de la directive TVA, les importations de biens sont soumises à la TVA. L’article 30, premier alinéa, de cette directive énonce qu’est considérée comme « importation de biens » l’introduction dans la Communauté d’un bien qui n’est pas en libre pratique au sens de l’article 24 CE.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Selon la jurisprudence de la Cour, la TVA étant par nature une taxe sur la consommation, elle s’applique aux biens et aux services qui entrent dans le circuit économique de l’Union et qui peuvent faire l’objet d’une consommation (arrêt du 18 mai 2017, Latvijas Dzelzceļš, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A392&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑154/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A392&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:392</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A392&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point69" hreflang="fr" target="CourtTab" type="application/xhtml+xml">69</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, il ressort des termes même de la décision de renvoi que les biens en cause ont été acheminés en Grèce, leur destination finale, où ils ont été consommés. Par conséquent, il est constant que ces biens sont entrés dans le circuit économique de l’Union, au sens de la directive TVA.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Dès lors, ainsi que l’a relevé M. l’avocat général au point 43 de ses conclusions, dans une affaire telle que celle au principal, la question de savoir si l’existence d’un « risque » qu’un bien entre dans le circuit économique de l’Union suffit pour considérer que ce bien a fait l’objet d’une « importation », au sens de l’article 2, paragraphe 1, sous d), et de l’article 30 de la directive TVA, apparaît comme étant de nature hypothétique.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Par conséquent, eu égard à la jurisprudence citée au point 32 du présent arrêt, la première question est irrecevable.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la seconde question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa seconde question, la juridiction de renvoi demande, en substance, si l’article 2, paragraphe 1, sous d), et l’article 30 de la directive TVA doivent être interprétés en ce sens que, lorsqu’un bien est introduit sur le territoire de l’Union, il suffit que ce bien ait fait l’objet de manquements à la réglementation douanière dans un État membre donné, qui ont engendré une dette douanière à l’importation, pour considérer que ledit bien est entré dans le circuit économique de l’Union dans cet État membre.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il convient de relever que, aux termes de l’article 60 de la directive TVA, l’importation de biens est effectuée dans l’État membre sur le territoire duquel le bien se trouve au moment où il est introduit dans la Communauté. L’article 61, premier alinéa, de cette directive prévoit que, par dérogation à cet article 60, lorsqu’un bien qui n’est pas en libre pratique relève depuis son introduction dans la Communauté de l’un des régimes ou de l’une des situations visés à l’article 156 de ladite directive ou d’un régime d’admission temporaire en exonération totale de droits à l’importation ou de transit externe, l’importation de ce bien est effectuée dans l’État membre sur le territoire duquel le bien sort de ces régimes ou de ces situations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 70 de la directive TVA dispose que le fait générateur intervient et la taxe devient exigible au moment où l’importation de biens est effectuée. L’article 71, paragraphe 1, de la directive TVA prévoit notamment, à son premier alinéa, que, lorsque des biens relèvent, depuis leur introduction dans l’Union, du régime de l’entrepôt douanier, le fait générateur et l’exigibilité de la taxe n’interviennent qu’au moment où les biens sortent de ce régime. Toutefois, le second alinéa de cet article vise la situation particulière dans laquelle, pour les biens importés soumis à des droits de douane, à des prélèvements agricoles ou à des taxes d’effet équivalent établies dans le cadre d’une politique commune, le fait générateur intervient et la taxe devient exigible au moment où interviennent le fait générateur et l’exigibilité de ces droits.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Selon une jurisprudence constante de la Cour, la TVA à l’importation et les droits de douane présentent des traits essentiels comparables en ce qu’ils prennent naissance du fait de l’importation dans l’Union et de l’introduction consécutive des marchandises dans le circuit économique des États membres. Ce parallélisme est, par ailleurs, confirmé par le fait que l’article 71, paragraphe 1, second alinéa, de la directive TVA autorise les États membres à lier le fait générateur et l’exigibilité de la TVA à l’importation à ceux des droits de douane (arrêts du 28 février 1984, Einberger, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1984%3A81&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">294/82</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1984%3A81&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:1984:81</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1984%3A81&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point18" hreflang="fr" target="CourtTab" type="application/xhtml+xml">18</a>, et du 11 juillet 2013, Harry Winston, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A466&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑273/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A466&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2013:466</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A466&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point41" hreflang="fr" target="CourtTab" type="application/xhtml+xml">41</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, il ressort de la décision de renvoi que, au cours de l’année 2008, différents biens en provenance d’États tiers, passibles de droits à l’importation, ont été transportés jusqu’en Allemagne, pour être ensuite acheminés en Grèce, leur destination finale. Certains de ces biens n’ont pas été présentés aux autorités douanières allemandes et ont, par conséquent, été introduits de manière irrégulière sur le territoire douanier de l’Union. Les autres biens ont été introduits de manière régulière sur ledit territoire, en Allemagne, mais ont ensuite été acheminés en Grèce en ayant été soustraits à la surveillance douanière, en violation de la réglementation douanière.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Il n’est pas contesté que, dans l’affaire au principal, ces manquements à la réglementation douanière ont fait naître en Allemagne une dette douanière à l’importation à l’égard de la société qui a introduit les biens en cause sur le territoire de l’Union, sur le fondement, respectivement, de l’article 202, paragraphe 1, sous a), et de l’article 203, paragraphe 1, du code des douanes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Selon la jurisprudence de la Cour, une dette de TVA pourrait s’ajouter à la dette douanière si le comportement illicite qui a engendré cette dernière dette permettait de présumer que les marchandises concernées sont entrées dans le circuit économique de l’Union et ont pu faire l’objet de consommation, déclenchant le fait générateur de la TVA (arrêts du 2 juin 2016, Eurogate Distribution et DHL Hub Leipzig, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A405&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑226/14 et C‑228/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A405&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2016:405</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A405&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point65" hreflang="fr" target="CourtTab" type="application/xhtml+xml">65</a>, ainsi que du 1er juin 2017, Wallenborn Transports, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A417&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑571/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A417&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:417</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A417&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point54" hreflang="fr" target="CourtTab" type="application/xhtml+xml">54</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">En particulier, la Cour a jugé que, dans le cas où les biens passibles de droits à l’importation sont soustraits à la surveillance douanière à l’intérieur d’une zone franche et ne se trouvent plus dans cette zone, il y a en principe lieu de présumer que ceux-ci sont entrés dans le circuit économique de l’Union (arrêt du 1er juin 2017, Wallenborn Transports, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A417&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑571/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A417&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:417</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A417&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point55" hreflang="fr" target="CourtTab" type="application/xhtml+xml">55</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, d’une part, s’agissant des biens en cause qui n’ont pas été introduits de manière régulière sur le territoire douanier de l’Union, eu égard à la jurisprudence citée aux points 44 et 45 du présent arrêt, il y a lieu, en principe, de présumer qu’ils sont entrés dans le circuit économique de l’Union sur le territoire de l’État membre dans lequel ils ont été introduits dans l’Union, à savoir en Allemagne.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">D’autre part, quant aux biens en cause soustraits à la surveillance douanière, ceux-ci sont sortis, en Allemagne, du régime douanier sous lequel ils étaient placés. Partant, compte tenu de la jurisprudence citée aux points 44 et 45 du présent arrêt, il y a également lieu de présumer que ceux-ci sont entrés dans le circuit économique de l’Union dans cet État membre.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Cependant, ainsi que l’a relevé M. l’avocat général aux points 56 et 68 de ses conclusions, une telle présomption peut être renversée s’il est établi que, en dépit des manquements à la réglementation douanière, qui entraînent la naissance d’une dette douanière à l’importation dans l’État membre où ces manquements ont été commis, un bien a été introduit dans le circuit économique de l’Union sur le territoire d’un autre État membre, dans lequel ce bien était destiné à la consommation. Dans ce cas, le fait générateur de la TVA à l’importation survient dans cet autre État membre.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Or, il ressort de la décision de renvoi que, si les biens en cause ont fait l’objet de manquements à la réglementation douanière sur le territoire allemand, ils ont uniquement été transbordés d’un avion à l’autre sur ce territoire.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Certes, en raison de ces manquements à la réglementation douanière, les biens en cause, qui se trouvaient matériellement sur le territoire de l’Union, n’étaient plus sous la surveillance des autorités douanières allemandes, lesquelles étaient privées de la possibilité de contrôler la circulation de ces biens.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Cependant, en l’occurrence, il ressort de la décision de renvoi qu’il est établi que les biens en cause ont été acheminés en Grèce, leur destination finale, où ils ont été consommés.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Dès lors, dans une affaire telle que celle au principal, les manquements à la réglementation douanière intervenus sur le territoire allemand ne constituent pas, en eux-mêmes, un élément suffisant pour considérer que les biens en cause sont entrés dans le circuit économique de l’Union en Allemagne.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il y a lieu de constater que, dans une telle affaire, les biens sont entrés dans le circuit économique de l’Union dans l’État membre de leur destination finale et que, en conséquence, la TVA à l’importation afférente à ces biens a pris naissance dans cet État membre.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard aux considérations qui précèdent, il convient de répondre à la seconde question posée que l’article 2, paragraphe 1, sous d), et l’article 30 de la directive TVA doivent être interprétés en ce sens que, lorsqu’un bien est introduit sur le territoire de l’Union, il ne suffit pas que ce bien ait fait l’objet de manquements à la réglementation douanière dans un État membre donné, qui ont engendré dans cet État une dette douanière à l’importation, pour considérer que ledit bien est entré dans le circuit économique de l’Union dans cet État membre, lorsqu’il est établi que le même bien a été acheminé dans un autre État membre, sa destination finale, où il a été consommé, la TVA à l’importation afférente audit bien ne prenant alors naissance que dans cet autre État membre.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (première chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">L’article 2, paragraphe 1, sous d), et l’article 30 de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée, doivent être interprétés en ce sens que, lorsqu’un bien est introduit sur le territoire de l’Union européenne, il ne suffit pas que ce bien ait fait l’objet de manquements à la réglementation douanière dans un État membre donné, qui ont engendré dans cet État une dette douanière à l’importation, pour considérer que ledit bien est entré dans le circuit économique de l’Union dans cet État membre, lorsqu’il est établi que le même bien a été acheminé dans un autre État membre, sa destination finale, où il a été consommé, la taxe sur la valeur ajoutée à l’importation afférente audit bien ne prenant alors naissance que dans cet autre État membre.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0026_FR_01-E0001" id="t-ECR_62018CJ0026_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : l’allemand.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

@@ -1,0 +1,1215 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="sum-title-1">7 November 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0080_EN_01-E0001" id="c-ECR_62018CJ0080_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Polluter-pays principle — Common rules for the internal market in electricity — Directive 2009/72/EC — Article 3(1) and (2) — Principle of non-discrimination — Financing the tariff deficit — Taxes applying only to undertakings which use nuclear energy to produce electricity)</p>
+<p class="normal">In Joined Cases C‑80/18 to C‑83/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal Supremo (Supreme Court, Spain), made by decisions of 27 June 2017 and 10 and 18 July 2017, received at the Court on 6 February 2018 and 7 February 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Asociación Española de la Industria Eléctrica (UNESA)</span> (C‑80/18),</p>
+<p class="normal">
+<span class="bold">Endesa Generación</span>
+<span class="bold">SA</span> (C‑82/18)</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Administración General del Estado,</span>
+</p>
+<p class="normal">
+<span class="bold">Iberdrola Generación Nuclear SAU</span> (C‑80/18 and C‑82/18),</p>
+<p class="normal">and</p>
+<p class="normal">
+<span class="bold">Endesa Generación</span>
+<span class="bold">SA</span> (C‑81/18),</p>
+<p class="normal">
+<span class="bold">Iberdrola Generación Nuclear SAU</span> (C‑83/18)</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Administración General del Estado</span> (C‑81/18 and C‑83/18),</p>
+<p class="normal">THE COURT (Fifth Chamber),</p>
+<p class="normal">composed of E. Regan, President of the Chamber, I. Jarukaitis, E. Juhász, M. Ilešič and C. Lycourgos (Rapporteur), Judges,</p>
+<p class="normal">Advocate General: G. Hogan,</p>
+<p class="normal">Registrar: L. Carrasco Marco, administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 28 February 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Asociación Española de la Industria Eléctrica (UNESA), by J.C. García Muñoz and J.M. Mohedano Fuertes, abogados, and M.C. Villaescusa Sanz, procuradora,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Endesa Generación SA, by J.L. Buendía Sierra, F.J. López Villalta y Peinado, E. Gardeta González, J.M. Cobos Gómez and A. Lamadrid de Pablo, abogados,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Iberdrola Generación Nuclear SAU, by J. Ruiz Calzado, J. Domínguez Pérez and M.L. Cazorla Prieto, abogados, and J.L. Martín Jaureguibeitia, procurador,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Spanish Government, by A. Rubio González and V. Ester Casas, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by O. Beynet, S. Pardo Quintillán, and C. Hermes, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 8 May 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">These requests for a preliminary ruling concern the interpretation of Article 191(2) TFEU, Article 3(1) and (2) of Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:211:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2009 L 211, p. 55</a>), Articles 3 and 5 of Directive 2005/89/EC of the European Parliament and of the Council of 18 January 2006 concerning measures to safeguard security of electricity supply and infrastructure investment (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:033:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 33, p. 22</a>), and Articles 20 and 21 of the Charter of Fundamental Rights of the European Union (‘the Charter’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The requests have been made in proceedings between (i) Asociación Española de la Industria Eléctrica (UNESA) and Endesa Generación SA, of the one part and Iberdrola Generación Nuclear SA and the Administración General del Estado (General administration of the State, Spain), of the other, and (ii) Endesa Generación SA and Iberdrola Generación Nuclear, of the one part and the Administración General del Estado, of the other, concerning the lawfulness of the taxes on the production of spent nuclear fuel and radioactive waste from nuclear power generation and on the storage of such nuclear fuel and waste in centralised facilities (‘the taxes on nuclear energy’).</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">EU law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Directive 2005/89</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3(1) and (4) of Directive 2005/89 provided:</p>
+<p class="normal">‘1.   Member States shall ensure a high level of security of electricity supply by taking the necessary measures to facilitate a stable investment climate and by defining the roles and responsibilities of competent authorities, including regulatory authorities where relevant, and all relevant market actors and publishing information thereon …</p>
+<p class="normal">…</p>
+<p class="normal">4.   Member States shall ensure that any measures adopted in accordance with this Directive are non-discriminatory and do not place an unreasonable burden on the market actors, including market entrants and companies with small market shares …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 5(1) of that directive provided:</p>
+<p class="normal">‘Member States shall take appropriate measures to maintain a balance between the demand for electricity and the availability of generation capacity.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Directive 2005/89 was repealed by Regulation (EU) 2019/941 of the European Parliament and of the Council of 5 June 2019 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2019:158:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2019 L 158, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Directive 2009/72</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1 of Directive 2009/72 provides:</p>
+<p class="normal">‘This Directive establishes common rules for the generation, transmission, distribution and supply of electricity, together with consumer protection provisions, with a view to improving and integrating competitive electricity markets in the Community. It lays down the rules relating to the organisation and functioning of the electricity sector, open access to the market, the criteria and procedures applicable to calls for tenders and the granting of authorisations and the operation of systems. It also lays down universal service obligations and the rights of electricity consumers and clarifies competition requirements.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3 of that directive, entitled ‘Public service obligations and customer protection’, provides in paragraphs 1 and 2:</p>
+<p class="normal">‘1.   Member States shall ensure, on the basis of their institutional organisation and with due regard to the principle of subsidiarity, that, without prejudice to paragraph 2, electricity undertakings are operated in accordance with the principles of this Directive with a view to achieving a competitive, secure and environmentally sustainable market in electricity, and shall not discriminate between those undertakings as regards either rights or obligations.</p>
+<p class="normal">2.   Having full regard to the relevant provisions of the Treaty, in particular Article 86 thereof, Member States may impose on undertakings operating in the electricity sector, in the general economic interest, public service obligations which may relate to security, including security of supply, regularity, quality and price of supplies and environmental protection, including energy efficiency, energy from renewable sources and climate protection. Such obligations shall be clearly defined, transparent, non-discriminatory, verifiable and shall guarantee equality of access for electricity undertakings of the Community to national consumers. …’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Spanish law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">The preamble to Ley 15/2012 de medidas fiscales para la sostenibilidad energética (Law 15/2012 on fiscal measures for sustainable energy), of 27 December 2012 (BOE No 312, of 28 December 2012, p. 88081, ‘the Energy Tax Law’), states:</p>
+<p class="normal">‘The objective of [this Law] is to adapt our tax system to more efficient and environmentally friendly use and sustainable development …</p>
+<p class="normal">…</p>
+<p class="normal">The basic foundation of this Law is Article 45 of the Constitution …</p>
+<p class="normal">Thus, one of the axes of this tax reform is to internalise the environmental costs resulting from electricity production …</p>
+<p class="normal">The Law must serve as a stimulus to improve our levels of energy efficiency while at the same time ensuring better management of natural resources and continuing to enhance the new model of sustainable development, both from an economic and social point of view, as well as from an environmental point of view.</p>
+<p class="normal">…</p>
+<p class="normal">To this end, this Law regulates three new taxes: … the tax on the production of spent nuclear fuel and radioactive waste resulting from the generation of nuclear power, and the tax on the storage of spent nuclear fuel and radioactive waste in centralised facilities …</p>
+<p class="normal">…</p>
+<p class="normal">The production of electricity using nuclear energy implies the acceptance by society of a number of burdens and obligations, due to the particular characteristics of this type of energy, whose economic impact is difficult to determine. Society must assume a wide range of responsibilities resulting from this production, such as the management of the radioactive waste generated and the possible use of materials for non-peaceful purposes.</p>
+<p class="normal">… The assessment of the total cost of decommissioning nuclear power plants and the final management of radioactive waste still present significant uncertainties that will ultimately affect society after the cessation of operation of nuclear power plants, in particular with regard to the final management of spent nuclear fuel and high-level waste.</p>
+<p class="normal">Thus, given the long life span of some radioactive waste, which extends over generations, it is essential to establish, after its final management, the necessary measures to prevent an external agent from causing its release into the environment or any other adverse effects, which will require long-term institutional monitoring, that will be the responsibility of the State.</p>
+<p class="normal">Another distinctive feature of the nuclear power industry is the use and production of materials that must be strictly controlled in order to prevent them from being used for non-peaceful purposes or any other type of malicious act affecting them, which requires Spain … to assume the attendant responsibilities and, therefore, provide resources to deal with this.</p>
+<p class="normal">Thus, the State must provide the necessary resources to keep existing nuclear emergency plans operational.</p>
+<p class="normal">In the light of the above, it is appropriate to establish a levy on the production of spent nuclear fuel and radioactive waste in nuclear installations and on their storage in centralised facilities in order to offset the costs which society has to bear as a result of that production.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Article 12 of the Energy Tax Law, entitled ‘Nature’, provides:</p>
+<p class="normal">‘The tax on the production of spent nuclear fuel and radioactive waste from nuclear power generation and the tax on the storage of spent nuclear fuel and radioactive waste in centralised facilities are direct taxes of a real nature, which are levied on activities which, including the respective events giving rise to liability, are defined in Articles 15 and 19 of this Law.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 15 of that Law provides:</p>
+<p class="normal">‘The production of spent nuclear fuel and radioactive waste resulting from nuclear power generation constitutes the event giving rise to liability for the tax.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Article 16 of the Energy Tax Law provides:</p>
+<p class="normal">‘1.   The natural and legal persons and the entities referred to in Article 35(4) of Ley 58/2003, de 17 de diciembre, General Tributaria (Law 58 of 17 December 2003, establishing the General Tax Code), which carry out the activity referred to in Article 15 shall be liable.</p>
+<p class="normal">2.   The owners of the nuclear installations which generate the event giving rise to liability which are not the operators of those installations shall be jointly and severally liable for the tax debt.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Article 17 of the Energy Tax Law states:</p>
+<p class="normal">‘1.   The taxable amount for the tax on the production of spent nuclear fuel and radioactive waste from the generation of nuclear power shall be:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the number of kilograms of heavy metal contained in the nuclear fuel produced during the taxable period, it being understood that the heavy metal is the uranium and plutonium contained, and that the spent nuclear fuel is the nuclear fuel irradiated in the reactor which has definitively been extracted therefrom during the taxable period;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the number of cubic metres of intermediate-, low- and very low-level radioactive waste produced, which have been conditioned during the taxable period with a view to their temporary storage on the installation site.</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   The taxable amount defined in this article shall be determined for each installation carrying out the activities constituting the event giving rise to liability for the purposes of that tax.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Article 18 of that Law provides:</p>
+<p class="normal">‘The amount of the tax shall be calculated by applying the following rates to the taxable amount:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">for the production of spent fuel from the generation of nuclear power, referred to in Article 17(1)(a), the rate is EUR 2190 per kg of heavy metal;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">for the production of radioactive waste referred to in Article 17(1)(b):</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">for low- and intermediate-level radioactive waste, the rate is EUR 6000 per cubic metre;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">for very low-level radioactive waste, the rate is EUR 1000 per cubic metre.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Article 19 of the Energy Tax Law provides:</p>
+<p class="normal">‘The event giving rise to liability for the tax is the activity of storing spent nuclear fuel and radioactive waste in a centralised facility.</p>
+<p class="normal">For the purposes of this tax, storage of spent nuclear fuel and radioactive waste means any activity consisting in temporarily or permanently immobilising them, in any manner whatsoever, and centralised facility means a facility that can store such materials from different facilities or origins.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Article 21 of the Energy Tax Law defines taxpayers as being ‘the natural and legal persons and the entities referred to in Article 35(4) of [Law 58/2003], which own the installations in which the activities referred to in Article 19 are carried out’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 22 of that Law:</p>
+<p class="normal">‘1.   The taxable amount for the tax on the storage of spent nuclear fuel and radioactive waste in centralised facilities shall be:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the difference in weight of heavy metal contained in the spent nuclear fuel stored between the end and the beginning of the taxable period, expressed in kilograms;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the difference in volume of high-level radioactive waste other than spent fuel, or such intermediate-level long-life waste, stored between the end and the beginning of the taxable period, expressed in cubic metres;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">the volume of intermediate-level radioactive waste not included in subparagraph (b) and low- or very low-level waste placed in the installation with a view to being stored during the taxable period, expressed in cubic metres.</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   The taxable amount defined in this article shall be determined for each installation carrying out the activities constituting the event giving rise to liability for the purposes of that tax.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Article 24 of the Energy Tax Law provides:</p>
+<p class="normal">‘1.   The amount of the tax results from the application to the taxable amount, or net taxable amount in accordance with Article 23, of the following rates:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">for the storage of spent fuel referred to in Article 22(1)(a), the rate is EUR 70 per kg of heavy metal;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">for the storage of radioactive waste referred to in Article 22(1)(b), the rate is EUR 30000 per cubic metre of radioactive waste;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">for the storage of radioactive waste mentioned in Article 22(1)(c):</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">for low- and intermediate-level radioactive waste, the rate is EUR 10000 per cubic metre;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">for very-low level radioactive waste, the rate is EUR 2000 per cubic metre.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Article 26 of the Energy Tax Law provides:</p>
+<p class="normal">‘1.   Taxpayers are required to carry out self-assessment of the tax and pay the amount of tax in the first 20 calendar days after the tax has become due, in accordance with the rules and models set by the Minister for Finance and Public Administration.</p>
+<p class="normal">During the first 20 days of April, July and October, taxpayers who carry out the event giving rise to liability referred to in Articles 15 and 19 shall be required to make payment in instalments as part of the settlement corresponding to the taxable period underway, in accordance with the rules and models set by the Minister for Finance and Public Administration.</p>
+<p class="normal">The amount of the instalments shall be calculated on the basis of the criteria determining the taxable amount of the calendar quarter preceding the date on which the period for paying each of the instalments starts to run, and by applying the rate of taxation, as appropriate, referred to in Articles 18 and 24 of the Law.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">The second additional provision of the Energy Tax Law, relating to the costs of the electricity system, provides:</p>
+<p class="normal">‘Each year, the State’s general finance laws allocate to the financing of the costs of the electricity system provided for in Article 16 of Ley 54/1997, de 27 de noviembre, del Sector Eléctrico (Law 54/1997 of 27 November 1997 on the electricity sector) an amount equivalent to the sum of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">an estimate of the annual amounts collected by the State in respect of the levies and charges included in this Law;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">the estimated revenue generated by the auctioning of greenhouse gas emission allowances, with a maximum of EUR 500 million.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Ley 16/2013, por la que se establecen determinadas medidas en materia de fiscalidad medioambiental y se adoptan otras medidas tributarias y financieras (Law 16/2013 establishing certain environmental taxation measures and adopting other taxation and financial measures, of 29 October 2013) (BOE No 260 of 30 October 2013, p. 87528), provided for certain environmental taxation measures which amend the Energy Tax Law in part, and has now introduced three types of tax instead of the two previous taxes, namely a tax on the production of nuclear fuel, a tax on the production of radioactive waste from nuclear power generation and a tax on storage.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The disputes in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">The applicants in the main proceedings are companies producing nuclear power. They brought actions before the Audiencia Nacional (National High Court, Spain) for the annulment of Orden HAP/538/2013, de 5 de abril, por la que se aprueban los modelos 584 ‘Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica. Autoliquidación y pagos fraccionados’ y 585 ‘Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas. Autoliquidación y pagos fraccionados’, y se establece la forma y procedimiento para su presentación (Order HAP/538/2013 of 5 April 2013, approving model 584, ‘Tax on the production of spent nuclear fuel and radioactive waste from nuclear power generation. Self-assessment and part payments’, and model 585 ‘Tax on the storage of spent nuclear fuel and radioactive waste in centralised facilities. Self-assessment and part payments’ and establishing the manner and procedure for submitting the forms), approving the forms relating to the taxes on nuclear energy.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Following the dismissal of their actions, those companies appealed to the referring court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court states that the order the annulment of which is sought was adopted on the basis of the Energy Tax Law which provides for those taxes on nuclear energy. That court states that, in order to adjudicate on whether that order is lawful, it must determine whether the obligations provided for by that Law are contrary to EU law, and more specifically to the rules and principles governing the electricity market. It considers that the taxes on nuclear energy form part of energy taxation, although they do not tax the production of energy itself, but rather the fuel used in its production and the waste generated. Since the levies from those taxes relate to the production and storage of that fuel and the derived nuclear waste, it considers that they relate to the production of electricity itself and, therefore, affect electricity-generating undertakings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">According to the referring court, those taxes seek to increase the amount of revenue in the electricity financial system so that nuclear power producers assume a larger share of the financing of the ‘tariff deficit’ than other electricity producers, that tariff deficit being the difference between the revenues that Spanish electricity companies receive from consumers and the costs of electricity supply recognised by national regulations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">In the referring court’s view, free competition in the electricity market is distorted if certain undertakings are taxed because of their form of production, even if the levy does not directly affect electricity production itself or the electricity produced, but rather fuel and waste and the storage of the means used for that end, without objective justification. Moreover, such a difference in treatment could be contrary to EU law if it were established that such taxation is not based on environmental protection and was introduced for reasons relating solely to the tariff deficit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances the Tribunal Supremo (Supreme Court, Spain) decided to stay the proceedings and to refer the following questions, formulated in identical terms in the four Joined Cases C‑80/18 to C‑83/18, to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Does the “polluter pays” principle, affirmed in Article 191(2) [TFEU], together with Articles 20 and 21 of [the Charter], which establish the basic principles of equality and non-discrimination, when applied to the provisions in Article 3(1) and (2) of Directive [2009/72], in so far as it is intended, among other aims, to achieve a competitive and non-discriminatory market in electricity that may be altered only on grounds of general economic interest, including the protection of the environment, preclude the introduction of taxes that apply solely to electricity generation companies that use nuclear energy, when the main purpose of those taxes is not environmental but to increase the volume of the electric power financial system in such a way that these companies contribute more to funding the tariff deficit than other companies that carry on the same activity?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">In a competitive and non-discriminatory electricity market, does EU legislation permit the levying of environmental taxes on grounds of the pollution caused by nuclear activities, although this is not specified in the legislation (the grounds are referred to in the Preamble to the [Energy Tax Law]), with the result that, as regards the tax on the production of spent nuclear fuel and radioactive waste, the statutory provisions having legislative force fail to reflect the internalisation of the costs to be covered, and there is also a lack of specificity as regards the storage of radioactive waste, given that the management and storage costs are already covered by other levies, and there is also a failure to establish clearly what the revenue raised is to be used for, and the companies in question are required to assume civil liabilities of up to [EUR] 1200 million in this regard?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">Is Article 3(2) of [Directive 2009/72], which requires any obligations imposed on grounds of general economic interest, including environmental protection, to be clearly defined, transparent, non-discriminatory and verifiable, satisfied if the environmental objective and the essential characteristics that define environmental taxes are not specified in the statutory provision having legislative force?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">Do the “polluter pays” principle in Article 191(2) [TFEU], the principles of equality and non-discrimination in Articles 20 and 21 of the [Charter], and Articles 3 and 5 of Directive [2005/89], in so far as they seek to ensure “the proper functioning of the internal market for electricity” and call on Member States to ensure “that any measures adopted in accordance with this Directive are non-discriminatory and do not place an unreasonable burden on the market actors”, preclude a provision in national legislation that requires all electricity companies (other than generators of hydroelectricity, which is classified as renewable energy) to fund the tariff deficit, but which imposes a particularly heavy tax burden on nuclear generators, which are required to contribute more than other actors in the energy market, some of which are more polluting, but that do not have to pay these charges, the reasons given being grounds of environmental protection in view of the risks and uncertainties inherent in nuclear activities, without specifying the costs involved or stipulating that the revenue raised is to be used for environmental protection purposes (and given that waste management and storage are already covered by other levies, and nuclear generation companies assume civil liability), and that distorts the free competition required by the liberalised internal market by favouring other electricity generators that do not have to pay environmental taxes even when their sources of production are more highly polluting?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(5)</p>
+</td>
+<td valign="top">
+<p class="normal">Is a tax on the production of spent nuclear fuel and radioactive waste from nuclear power generation imposed on the nuclear generation industry alone and not applicable to any other sector that may generate such waste, which means that other firms that could use nuclear material or nuclear sources in their activities are not taxed, even though they affect the environment that is to be protected, contrary to the “polluter pays” principle in Article 191(2) [TFEU]?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Admissibility</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In the first place, since the first, fourth and fifth questions concern the interpretation of the polluter-pays principle, as referred to in Article 191(2) TFEU, it should be observed that Article 191(2) TFEU provides that EU policy on the environment is to aim at a high level of protection and is to be based, inter alia, on the polluter pays principle. That provision thus does no more than define the general environmental objectives of the European Union, since Article 192 TFEU confers on the European Parliament and the Council of the European Union, acting in accordance with the ordinary legislative procedure, responsibility for deciding what action is to be taken in order to attain those objectives (judgment of 4 March 2015, Fipa Group and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A140&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑534/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A140&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:140</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A140&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, since Article 191(2) TFEU is directed at action at EU level, that provision cannot be relied on as such by individuals in order to exclude the application of national legislation likely to be in an area covered by environmental policy for which there is no EU legislation adopted on the basis of Article 192 TFEU that specifically covers the situation in question (judgment of 4 March 2015, Fipa Group and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A140&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑534/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A140&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:140</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A140&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point40" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">It must be noted that neither Directive 2009/72 nor Directive 2005/89, cited by the referring court in its questions, were adopted on the basis of Article 175 EC (now Article 192 TFEU).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, since Article 191(2) TFEU cannot apply to the cases in the main proceedings since that article is applied neither by Directive 2009/72 nor Directive 2005/89, the fifth question and the first and fourth questions referred for a preliminary ruling must be held to be inadmissible, on the ground that they are manifestly irrelevant to determining the main proceedings in so far as they relate to Article 191(2) TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, it must be found that, as the European Commission stated in its written observations, the referring court does not set out the reasons for which Articles 3 and 5 of Directive 2005/89 — referred to in the fourth question referred for a preliminary ruling — which set out measures seeking to ensure the security of electricity supply and a balance between demand for electricity and the availability of generation capacity, are relevant for the purposes of the cases in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with settled case-law, the procedure provided for by Article 267 TFEU is an instrument of cooperation between the Court of Justice and national courts and tribunals, by means of which the former provides the latter with interpretation of such EU law as is necessary for them to give judgment in cases upon which they are called to adjudicate (judgment of 5 July 2016, Ognyanov, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A514&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑614/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A514&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:514</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A514&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point16" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">16</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">The requirements concerning the content of a request for a preliminary ruling are expressly set out in Article 94 of the Rules of Procedure of the Court, of which the national court should, in the context of the cooperation instituted by Article 267 TFEU, be aware and which it is bound to observe scrupulously (judgment of 5 July 2016, Ognyanov, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A514&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑614/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A514&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:514</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A514&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point19" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">19</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, under Article 94(c) of the Rules of Procedure, a request for a preliminary ruling must contain a statement of the reasons which prompted the referring court or tribunal to inquire about the interpretation or validity of certain provisions of EU law, and the relationship between those provisions and the national legislation applicable to the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it must be found that the orders for reference contain neither the required statement nor an explanation as to the relationship which may exist between the provisions of Directive 2005/89 and the national legislation at issue in the main proceedings, which precludes the Court from ascertaining whether that directive applies to the main proceedings and providing the referring court with a useful answer to the fourth question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In addition, that lack of information does not enable the Court to adjudicate, in the context of the fourth question, on whether Articles 20 and 21 of the Charter apply.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">It should be borne in mind, in that regard, that Article 51(1) of the Charter provides that the provisions of the Charter are addressed to the Member States only when they are implementing EU law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Article 51(1) of the Charter confirms the Court’s settled case-law, which states that the fundamental rights guaranteed in the legal order of the European Union are applicable in all situations governed by EU law, but not outside such situations (see, in particular, judgment of 6 October 2015, Delvigne, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A648&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑650/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A648&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:648</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A648&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, where a legal situation does not come within the scope of EU law, the Court does not have jurisdiction to rule on it and any provisions of the Charter relied upon cannot, of themselves, form the basis for such jurisdiction (judgment of 6 October 2015, Delvigne, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A648&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑650/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A648&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:648</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A648&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, in the context of the fourth question, Articles 20 and 21 of the Charter could only have been found to have applied if the other provisions of EU law referred to in that question were applicable in the case in the main proceedings. For the reasons stated in paragraphs 27 to 35 above, the fourth question is inadmissible in so far as it refers to those other provisions, since it is not apparent that they may apply in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the fourth question referred for a preliminary ruling is inadmissible in its entirety.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">It is clear from the foregoing that, first, the fourth and fifth questions referred for a preliminary ruling must be held to be inadmissible, as must secondly, the first question referred for a preliminary ruling in so far as it concerns Article 191(2) TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">The Court must, therefore, only answer the first question in so far as it relates to the interpretation of Article 3(1) of Directive 2009/72 and the second and third questions.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first and second questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">By its first and second questions, which must be examined together, the referring court asks, in essence, whether Articles 20 and 21 of the Charter and Article 3(1) of Directive 2009/72 must be interpreted as precluding national legislation, such as that at issue in the cases in the main proceedings, establishing taxes on the production and storage of nuclear fuel and waste, which are applied only to electricity-generating undertakings using nuclear energy, and the main objective of which is not to protect the environment but to increase the amount of revenue for the electricity financial system.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">In order to answer the questions raised, the Court must examine, first, the scope of Article 3(1) of Directive 2009/72.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Under that provision, Member States must ensure, on the basis of their institutional organisation and with due regard to the principle of subsidiarity, that, without prejudice to Article 3(2) of Directive 2009/72, electricity undertakings are operated in accordance with the principles of that directive with a view to achieving a competitive, secure and environmentally sustainable market in electricity, and must not discriminate between those undertakings as regards either rights or obligations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">The Court points out that Article 3(1) enshrines, in the field of the internal market in electricity, the general principle of non-discrimination, which forms an integral part of the general principles of EU law. The Court has held that that principle is binding on Member States where the national situation at issue in the main proceedings falls within the scope of EU law (see, to that effect, judgments of 11 July 2006, Chacón Navas, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A456&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑13/05</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A456&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:456</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A456&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point56" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>, and of 19 January 2010, Kücükdeveci, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A21&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑555/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A21&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:21</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A21&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point21" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">21</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A21&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>)</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it must be pointed out that since it is apparent from the information before the Court that the situations at issue in the main proceedings are purely internal, in the sense that they are devoid of any cross-border element and that the taxes on nuclear energy at issue constitute tax measures, the principle of non-discrimination, as provided for in Article 3(1) of Directive 2009/72, applies to those taxes only if it may be considered that that directive seeks to harmonise the Member States’ fiscal provisions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">In that respect, as the Advocate General observed in point 35 of his Opinion, it must be noted that as regards the objective of Directive 2009/72 which consists in completing an internal market in electricity, the EU legislature used the ordinary legislature procedure provided for in Article 95(1) EC (now Article 114(1) TFEU), for the adoption of measures for the approximation of the provisions laid down by law, regulation or administrative action in Member States in the establishment and functioning of the internal market.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">However, in accordance with the wording of Article 95(2) EC (now Article 114(2) TFEU), Article 95(1) (now Article 114(1) TFEU), is not to apply to fiscal provisions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Since Directive 2009/72 is not a measure for the approximation of the Member States’ fiscal provisions, it must be found that the principle of non-discrimination provided for in Article 3(1) thereof does not apply to national legislation establishing taxes on the production and storage of nuclear fuel and waste, such as the taxes on nuclear energy at issue in the cases in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the foregoing considerations that the principle of non-discrimination, as provided for in Article 3(1) of Directive 2009/72, must be interpreted as not precluding national legislation establishing taxes on the production and storage of nuclear fuel and waste, such as the taxes on nuclear energy at issue in the cases in the main proceedings, which apply only to electricity-generating undertakings using nuclear energy and the main objective of which is not to protect the environment but to increase the amount of revenue for the electricity financial system.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the second place, Articles 20 and 21 of the Charter, it is apparent from paragraphs 37 to 39 above, that, since Article 3 of Directive 2009/72 does not apply to national legislation establishing taxes on the production and storage of nuclear fuel and waste, such as the taxes on nuclear energy at issue in the cases in the main proceedings, and since there are no other details in the order for reference of another instrument of EU law implemented by that legislation, it cannot be found that, by adopting that legislation, the Kingdom of Spain implemented EU law, within the meaning of Article 51(1) of the Charter. It follows that, in accordance with the case-law cited in paragraph 38 above, the Court does not have jurisdiction to answer the first and second questions as regards the interpretation of Articles 20 and 21 of the Charter.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the foregoing considerations that the answer to the first and second questions is that the principle of non-discrimination, as provided for in Article 3(1) of Directive 2009/72, must be interpreted as not precluding national legislation establishing taxes on the production and storage of nuclear fuel and waste, such as those taxes at issue in the cases in the main proceedings, which apply only to electricity-generating undertakings using nuclear energy and the main objective of which is not to protect the environment but to increase the amount of revenue for the electricity financial system.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The third question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">By its third question, the referring court asks, in essence, whether Article 3(2) of Directive 2009/72 must be interpreted as precluding national legislation, such as that at issue in the cases in the main proceedings, when the environmental objective and the characteristics that define environmental taxes provided for in that legislation are not specified in the statutory provision having legislative force in that legislation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">It is, however, apparent from the answer to the first question, and in particular from paragraphs 46 to 51 above, that Directive 2009/72 is not a measure for the approximation of the Member States’ fiscal provisions. It follows that Article 3(2) of Directive 2009/72 does not apply to national legislation such as that at issue in the main proceedings, establishing taxes on the production and storage of nuclear fuel and waste.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">The answer to the third question is, therefore, that Article 3(2) of Directive 2009/72 must be interpreted as not precluding national legislation, such as that at issue in the cases in the main proceedings, when the environmental objective and the characteristics that define environmental taxes provided for in that legislation are not specified in the statutory provision having legislative force in that legislation.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">The principle of non-discrimination, as provided for in Article 3(1) of Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC must be interpreted as not precluding national legislation establishing taxes on the production and storage of nuclear fuel and waste, such as those taxes at issue in the cases in the main proceedings, which apply only to electricity-generating undertakings using nuclear energy and the main objective of which is not to protect the environment but to increase the amount of revenue for the electricity financial system.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 3(2) of Directive 2009/72 must be interpreted as not precluding national legislation, such as that at issue in the cases in the main proceedings, when the environmental objective and the characteristics that define environmental taxes provided for in that legislation are not specified in the statutory provision having legislative force in that legislation.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0080_EN_01-E0001" id="t-ECR_62018CJ0080_EN_01-E0001">*1</a>
+</span>)	Language of the case: Spanish.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

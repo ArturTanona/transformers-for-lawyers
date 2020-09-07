@@ -1,0 +1,1277 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>ARRÊT DE LA COUR (cinquième chambre)</p>
+<p class="sum-title-1">27 novembre 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0402_FR_01-E0001" id="c-ECR_62018CJ0402_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Articles 49 et 56 TFUE – Passation des marchés publics – Directive 2004/18/CE – Article 25 – Sous-traitance – Réglementation nationale limitant la possibilité de sous-traiter à 30 % du montant total du marché public et interdisant que les prix applicables aux prestations sous-traitées soient réduits de plus de 20 % par rapport aux prix résultant de l’adjudication »</p>
+<p class="normal">Dans l’affaire C‑402/18,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par le Consiglio di Stato (Conseil d’État, Italie), par décision du 10 mai 2018, parvenue à la Cour le 15 juin 2018, dans la procédure</p>
+<p class="normal">
+<span class="bold">Tedeschi Srl,</span> agissant pour son propre compte et en qualité de mandataire d’un groupement temporaire d’entreprises,</p>
+<p class="normal">
+<span class="bold">Consorzio Stabile Istant Service,</span> agissant pour son propre compte et en qualité de mandant d’un groupement temporaire d’entreprises,</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">C. M. Service Srl,</span>
+</p>
+<p class="normal">
+<span class="bold">Università degli Studi di Roma La Sapienza,</span>
+</p>
+<p class="normal">LA COUR (cinquième chambre),</p>
+<p class="normal">composée de M. E. Regan (rapporteur), président de chambre, MM. I. Jarukaitis, E. Juhász, M. Ilešič et C. Lycourgos, juges,</p>
+<p class="normal">avocat général : M. M. Campos Sánchez-Bordona,</p>
+<p class="normal">greffier : M. R. Schiano, administrateur,</p>
+<p class="normal">vu la procédure écrite et à la suite de l’audience du 15 mai 2019,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour Tedeschi Srl, agissant pour son propre compte et en qualité de mandataire d’un groupement temporaire d’entreprises, ainsi que pour Consorzio Stabile Istant Service, agissant pour son propre compte et en qualité de mandant d’un groupement temporaire d’entreprises, par M<span class="super">es</span> A. Clarizia, P. Ziotti, E. Perrettini, L. Albanese et G. Zurlo, avvocati,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour C. M. Service Srl, par M<span class="super">e</span> F. Cardarelli, avvocato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour l’Università degli Studi di Roma La Sapienza, par M<span class="super">e</span> G. Bernardi, avvocato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement italien, par M<span class="super">me</span> G. Palmieri, en qualité d’agent, assistée de M<span class="super">me</span> C. Colelli et de M. V. Nunziata, avvocati dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement autrichien, par M. G. Hesse, en qualité d’agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par MM. G. Gattinara et P. Ondrůšek ainsi que par M<span class="super">me</span> L. Haasbeek, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement norvégien, par M<span class="super">me</span> K. H. Aarvik ainsi que par MM. C. Anker et H. Røstum, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">vu la décision prise, l’avocat général entendu, de juger l’affaire sans conclusions,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation des articles 49 et 56 TFUE, de l’article 25 de la directive 2004/18/CE du Parlement européen et du Conseil, du 31 mars 2004, relative à la coordination des procédures de passation des marchés publics de travaux, de fournitures et de services (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:134:TOC" hreflang="fr" target="CourtTab">JO 2004, L 134, p. 114</a>, et rectificatif <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:351:TOC" hreflang="fr" target="CourtTab">JO 2004, L 351, p. 44</a>), de l’article 71 de la directive 2014/24/UE du Parlement européen et du Conseil, du 26 février 2014, sur la passation des marchés publics et abrogeant la directive 2004/18 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2014:094:TOC" hreflang="fr" target="CourtTab">JO 2014, L 94, p. 65</a>), ainsi que du principe de proportionnalité.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant Tedeschi Srl, agissant pour son propre compte et en qualité de mandataire d’un groupement temporaire d’entreprises, et Consorzio Stabile Istant Service, agissant pour son propre compte et en qualité de mandant d’un groupement temporaire d’entreprises (ci-après, ensemble, le « GTE Tedeschi »), à C. M. Service Srl et à l’Università degli Studi di Roma La Sapienza (Université de Rome La Sapienza, Italie) au sujet de l’attribution d’un marché public de services de nettoyage.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit de l’Union</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">La directive 2004/18</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Les considérants 2, 6, 32 et 43 de la directive 2004/18 prévoient :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« (2)</p>
+</td>
+<td valign="top">
+<p class="normal">La passation de marchés conclus dans les États membres pour le compte de l’État, des collectivités territoriales et d’autres organismes de droit public doit respecter les principes du traité, notamment les principes de la libre circulation des marchandises, de la liberté d’établissement et de la libre prestation de services, ainsi que les principes qui en découlent, comme l’égalité de traitement, la non-discrimination, la reconnaissance mutuelle, la proportionnalité et la transparence. Toutefois, en ce qui concerne les marchés publics dépassant un certain montant, il est recommandé d’élaborer des dispositions en matière de coordination communautaire des procédures nationales de passation de ces marchés qui soient fondées sur ces principes de manière à garantir leurs effets ainsi qu’une mise en concurrence effective des marchés publics. Par conséquent, ces dispositions de coordination devraient être interprétées conformément aux règles et principes précités ainsi qu’aux autres règles du traité.</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(6)</p>
+</td>
+<td valign="top">
+<p class="normal">Aucune disposition de la présente directive ne devrait interdire d’imposer ou d’appliquer des mesures nécessaires à la protection de l’ordre, de la moralité et de la sécurité publics [...], à condition que ces mesures soient conformes au traité.</p>
+<p class="normal">[...]</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(32)</p>
+</td>
+<td valign="top">
+<p class="normal">Afin de favoriser l’accès des petites et moyennes entreprises aux marchés publics, il convient de prévoir des dispositions en matière de sous-traitance.</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(43)</p>
+</td>
+<td valign="top">
+<p class="normal">Il convient d’éviter l’attribution de marchés publics à des opérateurs économiques qui ont participé à une organisation criminelle ou qui se sont rendus coupables de corruption ou de fraude au détriment des intérêts financiers des Communautés européennes ou de blanchiment de capitaux. [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 7 de cette directive, intitulé « Montant des seuils des marchés publics », prévoit :</p>
+<p class="normal">« La présente directive s’applique aux marchés publics qui ne sont pas exclus en vertu des exceptions prévues aux articles 10 et 11 et des articles 12 à 18 et dont la valeur estimée hors taxe sur la valeur ajoutée (TVA) est égale ou supérieure aux seuils suivants :</p>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">207000 EUR [...] »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 25 de ladite directive, intitulé « Sous-traitance », dispose :</p>
+<p class="normal">« Dans le cahier des charges, le pouvoir adjudicateur peut demander ou peut être obligé par un État membre de demander au soumissionnaire d’indiquer, dans son offre, la part du marché qu’il a l’intention de sous–traiter à des tiers ainsi que les sous-traitants proposés.</p>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 26 de la même directive, intitulé « Conditions d’exécution du marché », est libellé comme suit :</p>
+<p class="normal">« Les pouvoirs adjudicateurs peuvent exiger des conditions particulières concernant l’exécution du marché pour autant qu’elles soient compatibles avec le droit communautaire et qu’elles soient indiquées dans l’avis de marché ou dans le cahier des charges. Les conditions dans lesquelles un marché est exécuté peuvent notamment viser des considérations sociales et environnementales. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 45 de la directive 2004/18, intitulé « Situation personnelle du candidat ou du soumissionnaire » :</p>
+<p class="normal">« 1.   Est exclu de la participation à un marché public tout candidat ou soumissionnaire ayant fait l’objet d’une condamnation prononcée par un jugement définitif, dont le pouvoir adjudicateur a connaissance, pour une ou plusieurs des raisons énumérées ci-dessous :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">participation à une organisation criminelle telle que définie à l’article 2, paragraphe 1, de l’[action commune 98/773/JAI, du 21 décembre 1998, adoptée par le Conseil sur la base de l’article K.3 du traité sur l’Union européenne, relative à l’incrimination de la participation à une organisation criminelle dans les États membres de l’Union européenne (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1998:351:TOC" hreflang="fr" target="CourtTab">JO 1998, L 351, p. 1</a>) ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">corruption, telle que définie respectivement à l’article 3 de l’[acte du Conseil, du 26 mai 1997, établissant la convention établie sur la base de l’article K.3, paragraphe 2, point c), du traité sur l’Union européenne, relative à la lutte contre la corruption impliquant des fonctionnaires des Communautés européennes ou des fonctionnaires des États membres de l’Union européenne (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:C:1997:195:TOC" hreflang="fr" target="CourtTab">JO 1997, C 195, p. 1</a>)] et à l’article 3, paragraphe 1, de l’[action commune 98/742/JAI, du 22 décembre 1998, adoptée par le Conseil sur la base de l’article K.3 du traité sur l’union européenne, relative à la corruption dans le secteur privé (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1998:358:TOC" hreflang="fr" target="CourtTab">JO 1998, L 358, p. 2</a>)] ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c)</p>
+</td>
+<td valign="top">
+<p class="normal">fraude au sens de l’article 1<span class="super">er</span> de la [convention établie sur la base de l’article K.3 du traité sur l’Union européenne, relative à la protection des intérêts financiers des Communautés européennes, annexée à l’acte du Conseil, du 26 juillet 1995 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:C:1995:316:TOC" hreflang="fr" target="CourtTab">JO 1995, C 316, p. 48</a>)] ;</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 47 de cette directive, intitulé « Capacité économique et financière », dispose, à ses paragraphes 2 et 3 :</p>
+<p class="normal">« 2.   Un opérateur économique peut, le cas échéant et pour un marché déterminé, faire valoir les capacités d’autres entités, quelle que soit la nature juridique des liens existant entre lui-même et ces entités. Il doit, dans ce cas, prouver au pouvoir adjudicateur qu’il disposera des moyens nécessaires, par exemple, par la production de l’engagement de ces entités à cet effet.</p>
+<p class="normal">3.   Dans les mêmes conditions un groupement d’opérateurs économiques visé à l’article 4 peut faire valoir les capacités des participants au groupement ou d’autres entités. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 48 de ladite directive, intitulé « Capacités techniques et/ou professionnelles », prévoit, à ses paragraphes 3 et 4 :</p>
+<p class="normal">« 3.   Un opérateur économique peut, le cas échéant et pour un marché déterminé, faire valoir les capacités d’autres entités, quelle que soit la nature juridique des liens existant entre lui-même et ces entités. Il doit, dans ce cas, prouver au pouvoir adjudicateur que, pour l’exécution du marché, il disposera des moyens nécessaires, par exemple, par la production de l’engagement de ces entités de mettre à la disposition de l’opérateur économique les moyens nécessaires.</p>
+<p class="normal">4.   Dans les mêmes conditions, un groupement d’opérateurs économiques visé à l’article 4 peut faire valoir les capacités des participants au groupement ou d’autres entités. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 55 de cette même directive, intitulé « Offres anormalement basses », dispose, à son paragraphe 1 :</p>
+<p class="normal">« Si, pour un marché donné, des offres apparaissent anormalement basses par rapport à la prestation, le pouvoir adjudicateur, avant de pouvoir rejeter ces offres, demande, par écrit, les précisions sur la composition de l’offre qu’il juge opportunes.</p>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">La directive 2014/24</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 90, paragraphe 1, de la directive 2014/24 prévoit :</p>
+<p class="normal">« Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 18 avril 2016. [...] »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit italien</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 118 du decreto legislativo n. 163 – Codice dei contratti pubblici relativi a lavori, servizi e forniture in attuazione delle direttive 2004/17/CE e 2004/18/CE (décret législatif n<span class="super">o</span> 163 portant code des marchés publics de travaux, de services et de fournitures en application des directives 2004/17/CE et 2004/18/CE), du 12 avril 2006 (supplément ordinaire à la GURI n<span class="super">o</span> 100, du 2 mai 2006, ci-après le « décret législatif n<span class="super">o</span> 163/2006 »), prévoit :</p>
+<p class="normal">« [...]</p>
+<p class="normal">2.   Le pouvoir adjudicateur est tenu d’indiquer dans le projet et dans l’avis de marché chacune des prestations et, pour les travaux, la catégorie dominante avec le montant s’y rapportant ainsi que les autres catégories, relatives à toutes les autres opérations prévues dans le projet, également accompagnées de leur montant. Toutes les prestations ainsi que les opérations, quelle que soit la catégorie à laquelle elles appartiennent, peuvent être sous-traitées et confiées à la pièce. S’agissant des travaux, en ce qui concerne la catégorie dominante, la part pouvant être sous-traitée est définie par un règlement, le cas échéant dans une mesure différente, en fonction des catégories, mais dans tous les cas, dans une proportion qui ne peut pas dépasser [30 %]. S’agissant des services et des fournitures, cette proportion se rapporte au montant total du marché. […] »</p>
+<p class="normal">[...]</p>
+<p class="normal">4.   L’attributaire doit pratiquer, pour les prestations sous-traitées, les prix unitaires résultant de l’adjudication, sans pouvoir appliquer une réduction de plus de [20 %] [...] ».</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et la question préjudicielle</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Par un avis de marché public publié au <span class="italic">Journal officiel de l’Union européenne</span> au mois de décembre 2015, l’Université de Rome La Sapienza a lancé une procédure d’appel d’offres ouverte pour l’attribution d’un marché public de services de nettoyage. Ce marché public, d’une durée de cinq ans, devait être attribué selon le critère de l’offre économiquement la plus avantageuse. La valeur de base dudit marché public était estimée à 46300968,40 euros, hors taxe sur la valeur ajoutée (TVA).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">C. M. Service, qui a été classée deuxième à l’issue de la procédure d’appel d’offres, a formé un recours devant le Tribunale amministrativo regionale per il Lazio (tribunal administratif régional du Latium, Italie) tendant à l’annulation de la décision de l’Université de Rome La Sapienza, du 12 avril 2017, d’attribuer le marché public en cause au principal au GTE Tedeschi pour un montant total de 31744359,67 euros, hors TVA et frais de sécurité. À l’appui de son recours, C. M. Service a soulevé un moyen, tiré de la violation des limitations générales prévues par le droit italien, en ce que la part de marché que l’adjudicataire envisageait de sous–traiter représentait plus de 30 % du montant total de ce marché public. Elle a également soutenu que l’offre présentée par l’adjudicataire n’avait pas fait l’objet d’un examen in concreto fiable par le pouvoir adjudicateur, au motif que ce dernier avait accepté, en violation des dispositions pertinentes du droit italien, que la rémunération des entreprises sous-traitantes soit inférieure de plus de 20 % par rapport aux prix unitaires résultant de l’adjudication.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Le Tribunale amministrativo regionale per il Lazio (tribunal administratif régional du Latium) a fait droit à ce recours. En premier lieu, cette juridiction a constaté l’absence d’un examen fiable des caractéristiques qu’aurait eu le recours important, dans le cadre d’une sous–traitance, à des coopératives sociales, ce qui constituerait un élément incontournable de l’offre retenue ayant permis de justifier la réduction élevée offerte. En second lieu, ladite juridiction a constaté que les rémunérations correspondant aux tâches confiées en sous–traitance seraient inférieures de plus de 20 % par rapport à celles pratiquées par le GTE Tedeschi à l’égard des personnes qu’il emploie directement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Le GTE Tedeschi a, devant la juridiction de renvoi, interjeté appel du jugement du Tribunale amministrativo regionale per il Lazio (tribunal administratif régional du Latium). C. M. Service a également formé un appel incident, dans le cadre duquel elle a soulevé à nouveau les griefs qui n’avaient pas été accueillis en première instance, ainsi que celui pris de la violation des dispositions de droit italien portant sur l’interdiction de sous–traiter des prestations correspondant à plus de 30 % du montant total du marché public concerné.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi doute de la compatibilité de la réglementation italienne portant sur les marchés publics avec le droit de l’Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">En particulier, cette juridiction fait observer que les limitations prévues par le droit interne en matière de sous-traitance peuvent rendre l’accès aux marchés publics plus difficile pour les entreprises, en particulier pour les petites et moyennes entreprises, faisant ainsi obstacle à l’exercice de la liberté d’établissement et de la libre prestation des services. Elle expose que ces limitations peuvent également priver les acheteurs publics de la possibilité de recevoir des offres plus nombreuses et plus diversifiées. En effet, le fait de ne permettre de recourir à la sous-traitance que pour une partie du marché, fixée de manière abstraite à un pourcentage déterminé du montant de ce dernier, indépendamment de la possibilité de vérifier la capacité des éventuels sous-traitants et sans mention du caractère essentiel des missions en cause, ne serait pas prévu par la directive 2004/18 et serait en contradiction avec l’objectif d’ouverture à la concurrence ainsi qu’avec celui consistant à faciliter l’accès des petites et moyennes entreprises aux marchés publics.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Toutefois, la juridiction de renvoi fait également observer que, dans le cadre des avis consultatifs qu’elle a rendus sur la législation nationale en matière de sous-traitance, elle a déjà considéré que l’objectif consistant à garantir l’intégrité des marchés publics et à empêcher leur infiltration par des organisations criminelles pouvait justifier d’instaurer une restriction à la liberté d’établissement et à la libre prestation des services. En outre, elle expose d’autres motifs qui, selon elle, justifient les seuils en cause au principal. Ainsi, elle fait valoir, d’une part, que, si la limite de 20 % prévue à l’article 118, paragraphe 4, du décret législatif n<span class="super">o</span> 163/2006 venait à être supprimée, des formes dissimulées de dumping salarial, susceptibles d’avoir un effet anticoncurrentiel, pourraient être pratiquées. D’autre part, elle expose que, si la limite de 30 % prévue à l’article 118, paragraphe 2, du décret législatif n<span class="super">o</span> 163/2006 venait également à être supprimée, la mise en œuvre de certaines adjudications pourrait être mise en péril en raison de la difficulté qui pourrait s’ensuivre d’évaluer la viabilité – et donc l’absence d’anomalies – des offres, comme dans l’affaire au principal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, le Consiglio di Stato (Conseil d’État, Italie) a décidé de surseoir à statuer et de poser à la Cour la question préjudicielle suivante :</p>
+<p class="normal">« Les principes de liberté d’établissement et de libre prestation des services, énoncés aux articles 49 et 56 [TFUE], l’article 25 de la directive [2004/18] et l’article 71 de la directive [2014/24] qui ne prévoient pas de limitation quantitative à la sous-traitance et à la réduction à appliquer aux sous-traitants, ainsi que le principe de proportionnalité consacré par le droit de l’Union font-ils obstacle à l’application d’une réglementation nationale en matière de marchés publics telle que la réglementation italienne figurant à l’article 118, paragraphes 2 et 4, du décret législatif n<span class="super">o</span> [163/2006], en vertu de laquelle la sous-traitance ne peut pas excéder la proportion de 30 % du montant total du marché et l’attributaire doit pratiquer, pour les prestations sous-traitées, les prix unitaires résultant de l’adjudication, sans pouvoir appliquer une réduction de plus de 20 % ? »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de la juridiction de renvoi tendant au traitement accéléré de sa demande de décision préjudicielle, conformément à l’article 105, paragraphe 1, du règlement de procédure de la Cour, a été rejetée par ordonnance du président de la Cour du 18 septembre 2018, Tedeschi et Consorzio Stabile Istant Service (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A762&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑402/18</a>, non publiée, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A762&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2018:762</a>).</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur la question préjudicielle</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la recevabilité</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Le gouvernement italien exprime des doutes concernant le point de savoir si la juridiction de renvoi a suffisamment décrit le contexte juridique dans lequel la question posée s’inscrit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">En outre, C. M. Service soutient que la question posée est irrecevable, dès lors qu’elle n’est pas pertinente aux fins de la résolution du litige au principal. En particulier, quelle que soit la réponse que la Cour fournirait à cette question, la juridiction de renvoi devrait, en tout état de cause, constater une violation par le soumissionnaire de l’offre qui a été retenue dans le cadre de la procédure en cause dans ce litige étant donné que, lorsqu’il a présenté celle–ci, ledit soumissionnaire s’était engagé à respecter les limites de 30 % et de 20 % auxquelles fait référence la juridiction de renvoi dans sa question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">En premier lieu, il convient de rappeler que, en vertu d’une jurisprudence constante, les questions relatives à l’interprétation du droit de l’Union posées par le juge national dans le cadre réglementaire et factuel qu’il définit sous sa responsabilité, et dont il n’appartient pas à la Cour de vérifier l’exactitude, bénéficient d’une présomption de pertinence. Le refus de la Cour de statuer sur une demande de décision préjudicielle formée par une juridiction nationale n’est possible que s’il apparaît de manière manifeste que l’interprétation sollicitée du droit de l’Union n’a aucun rapport avec la réalité ou l’objet du litige au principal, lorsque le problème est de nature hypothétique ou encore lorsque la Cour ne dispose pas des éléments de fait et de droit nécessaires pour répondre de façon utile aux questions qui lui sont posées, ce qui implique que le juge national définisse le cadre factuel et réglementaire dans lequel s’insèrent les questions qu’il pose, ou que, à tout le moins, il explique les hypothèses factuelles sur lesquelles ces questions sont fondées (arrêt du 28 mars 2019, Idi, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A267&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑101/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A267&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2019:267</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A267&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point28" hreflang="fr" target="CourtTab" type="application/xhtml+xml">28</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, les éléments tant de fait que de droit mentionnés dans la décision de renvoi permettent de comprendre les motifs pour lesquels la juridiction de renvoi a introduit la présente demande de décision préjudicielle.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">En second lieu, s’agissant du caractère prétendument non pertinent de la question posée, il convient de rappeler que le litige au principal porte sur la légalité de l’offre retenue par le pouvoir adjudicateur dans le cadre de la procédure de passation de marché public en cause au principal. Or, ainsi qu’il ressort de la décision de renvoi, par le prix proposé dans cette offre – lequel a permis à celle–ci d’être retenue – les limites de 30 % et de 20 % prévues par la réglementation nationale en cause au principal, et dont la compatibilité au regard du droit de l’Union fait l’objet de la question posée par la juridiction de renvoi, ont été dépassées. Il s’ensuit que, ainsi que l’indique d’ailleurs la juridiction de renvoi, la résolution du litige dont elle est saisie dépend nécessairement de la réponse que fournira la Cour à cette question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Par conséquent, la question préjudicielle est recevable.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la première partie de la question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Par la première partie de sa question, la juridiction de renvoi demande, en substance, si les articles 49 et 56 TFUE, la directive 2004/18 ainsi que la directive 2014/24 doivent être interprétés en ce sens qu’ils s’opposent à une réglementation nationale, telle que celle en cause au principal, qui limite à 30 % la part du marché que le soumissionnaire est autorisé à sous-traiter à des tiers (ci–après la « limitation des 30 % »).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">À titre liminaire, il convient de rappeler que la directive applicable est, en principe, celle en vigueur au moment où le pouvoir adjudicateur choisit le type de procédure qu’il va suivre et tranche définitivement la question de savoir s’il y a ou non obligation de procéder à une mise en concurrence préalable pour l’adjudication d’un marché public. Sont, en revanche, inapplicables les dispositions d’une directive dont le délai de transposition a expiré après ce moment (arrêt du 10 juillet 2014, Impresa Pizzarotti, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2067&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑213/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2067&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2014:2067</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2067&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="fr" target="CourtTab" type="application/xhtml+xml">31</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il y a lieu de faire observer que la directive 2004/18 a été abrogée par la directive 2014/24, avec effet au 18 avril 2016. L’article 90 de la directive 2014/24 dispose que les États membres doivent mettre en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à cette dernière directive au plus tard le 18 avril 2016, sous réserve de certaines exceptions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">En conséquence, à la date de l’avis du marché en cause au principal, à savoir le 24 décembre 2015, la directive 2004/18 était encore applicable, de sorte qu’il convient d’interpréter la première partie de la question posée comme visant, notamment, à l’interprétation de celle-ci et non à celle de la directive 2014/24.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Il convient de relever, en outre, que la valeur hors TVA du marché en cause au principal étant supérieure au seuil pertinent prévu à l’article 7, sous b), de la directive 2004/18, c’est au regard de cette dernière qu’il y a lieu de répondre à la première partie de la question posée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Cette directive a pour objectif, ainsi qu’il ressort en substance de son considérant 2, d’assurer le respect, lors de la passation des marchés publics, notamment, de la libre circulation des marchandises, de la liberté d’établissement et de la libre prestation des services ainsi que des principes qui en découlent, en particulier l’égalité de traitement, la non-discrimination, la proportionnalité et la transparence, et de garantir que la passation des marchés publics soit ouverte à la concurrence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">En particulier, à cette fin, ladite directive envisage expressément, à son article 47, paragraphes 2 et 3, et à son article 48, paragraphes 3 et 4, la possibilité, pour les soumissionnaires, d’avoir recours, sous certaines conditions, aux capacités d’autres entités pour satisfaire à certains critères de sélection des opérateurs économiques.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Par ailleurs, aux termes de l’article 25, premier alinéa, de la directive 2004/18, le pouvoir adjudicateur peut demander ou peut être obligé par un État membre de demander au soumissionnaire d’indiquer, dans son offre, la part du marché qu’il a l’intention de sous-traiter à des tiers ainsi que les sous-traitants proposés.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Il en découle que la directive 2004/18 consacre la possibilité, pour les soumissionnaires, de recourir à la sous-traitance en vue de l’exécution d’un marché (voir, en ce sens, arrêt du 14 juillet 2016, Wrocław – Miasto na prawach powiatu, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A562&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑406/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A562&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2016:562</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A562&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="fr" target="CourtTab" type="application/xhtml+xml">31</a> à <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A562&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point33" hreflang="fr" target="CourtTab" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Néanmoins, lorsque les documents du marché imposent aux soumissionnaires d’indiquer, dans leurs offres, la part du marché qu’ils ont éventuellement l’intention de sous-traiter ainsi que les sous-traitants proposés, conformément à l’article 25, premier alinéa, de la directive 2004/18, le pouvoir adjudicateur est en droit d’interdire le recours à des sous-traitants dont il n’a pas pu vérifier les capacités au stade de l’examen des offres et de la sélection de l’adjudicataire, pour l’exécution de parties essentielles du marché (arrêt du 14 juillet 2016, Wrocław – Miasto na prawach powiatu, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A562&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑406/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A562&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2016:562</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A562&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point34" hreflang="fr" target="CourtTab" type="application/xhtml+xml">34</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Telle n’est toutefois pas la portée d’une réglementation nationale, telle que celle en cause au principal, qui impose une limitation au recours à des sous–traitants pour une part du montant du marché fixée de manière abstraite à un certain pourcentage de celui-ci, et ce indépendamment de la possibilité de vérifier les capacités des éventuels sous-traitants et le caractère essentiel des tâches qui seraient concernées. À tous ces égards, une réglementation prévoyant une limitation, telle que la limitation des 30 %, se révèle incompatible avec la directive 2004/18 (voir, par analogie, arrêt du 14 juillet 2016, Wrocław – Miasto na prawach powiatu, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A562&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑406/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A562&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2016:562</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A562&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point35" hreflang="fr" target="CourtTab" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Cette interprétation est conforme à l’objectif d’ouverture des marchés publics à la concurrence la plus large possible que poursuivent les directives en la matière au bénéfice non seulement des opérateurs économiques, mais également des pouvoirs adjudicateurs. Elle est, en outre, de nature à faciliter l’accès des petites et moyennes entreprises aux marchés publics, ce à quoi tend également la directive 2004/18, ainsi que le mentionne son considérant 32 (voir, en ce sens, arrêt du 10 octobre 2013, Swm Costruzioni 2 et Mannocchi Luigino, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A646&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑94/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A646&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2013:646</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A646&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point34" hreflang="fr" target="CourtTab" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">L’interprétation exposée au point 38 du présent arrêt n’est pas remise en cause par l’argumentation avancée par le gouvernement italien, selon laquelle la limitation des 30 % est justifiée eu égard aux circonstances particulières prévalant en Italie, où la sous–traitance a toujours constitué l’un des instruments utilisés pour la mise en œuvre d’intentions criminelles. En limitant la part du marché susceptible d’être sous-traitée, la réglementation nationale rendrait la participation aux commandes publiques moins attrayante pour les organisations criminelles, ce qui serait de nature à prévenir le phénomène d’infiltration mafieuse dans la commande publique et à protéger ainsi l’ordre public.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Il est vrai, ainsi qu’il découle, notamment, des critères de sélection qualitatifs prévus par la directive 2004/18, en particulier des motifs d’exclusion édictés à son article 45, paragraphe 1, que le législateur de l’Union a souhaité éviter, par l’adoption d’une telle disposition, que les opérateurs économiques ayant fait l’objet d’une condamnation, prononcée par un jugement définitif, pour une ou plusieurs des raisons énumérées à cette disposition, participent à une procédure de passation de marché.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">De même, le considérant 6 de la directive 2004/18 prévoit qu’aucune disposition de celle-ci ne devrait interdire d’imposer ou d’appliquer des mesures nécessaires, notamment, à la protection de l’ordre, de la moralité et de la sécurité publics, à condition que ces mesures soient conformes au traité CE, tandis que le considérant 43 de cette directive précise que les marchés publics ne devraient pas être attribués, notamment, à des opérateurs économiques qui ont participé à une organisation criminelle.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">De surcroît, selon une jurisprudence constante, il convient de reconnaître aux États membres une certaine marge d’appréciation aux fins de l’adoption de mesures destinées à garantir le respect de l’obligation de transparence, laquelle s’impose aux pouvoirs adjudicateurs dans toute procédure de passation d’un marché public. En effet, chaque État membre est le mieux à même d’identifier, à la lumière de considérations historiques, juridiques, économiques ou sociales qui lui sont propres, les situations propices à l’apparition de comportements susceptibles d’entraîner des entorses au respect de cette obligation (voir, en ce sens, arrêt du 22 octobre 2015, Impresa Edilux et SICEF, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A721&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑425/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A721&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2015:721</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A721&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point26" hreflang="fr" target="CourtTab" type="application/xhtml+xml">26</a> ainsi que jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Plus spécifiquement, la Cour a déjà jugé que la lutte contre le phénomène d’infiltration du secteur des marchés publics par la criminalité organisée constitue un objectif légitime susceptible de justifier une restriction aux règles fondamentales et aux principes généraux du traité FUE qui s’appliquent dans le cadre des procédures de passation des marchés publics (voir, en ce sens, arrêt du 22 octobre 2015, Impresa Edilux et SICEF, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A721&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑425/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A721&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2015:721</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A721&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point27" hreflang="fr" target="CourtTab" type="application/xhtml+xml">27</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A721&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point28" hreflang="fr" target="CourtTab" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Toutefois, à supposer même qu’une restriction quantitative au recours à la sous-traitance puisse être considérée comme étant de nature à lutter contre un tel phénomène, une restriction telle que celle en cause au principal va au-delà de ce qui est nécessaire afin d’atteindre cet objectif.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Il convient de rappeler, à cet égard, que les pouvoirs adjudicateurs doivent, tout au long de la procédure, respecter les principes de passation des marchés énoncés au considérant 2 de la directive 2004/18, au nombre desquels figurent, notamment, les principes d’égalité de traitement, de transparence et de proportionnalité (voir, en ce sens, arrêt du 23 décembre 2009, Serrantoni et Consorzio stabile edili, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A808&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑376/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A808&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2009:808</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A808&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point23" hreflang="fr" target="CourtTab" type="application/xhtml+xml">23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">Or, en particulier, ainsi qu’il a été rappelé au point 38 du présent arrêt, la réglementation nationale en cause au principal proscrit de manière générale et abstraite le recours à la sous-traitance pour une part qui excède un pourcentage fixe du montant du marché public concerné, de sorte que cette interdiction s’applique quels que soient le secteur économique concerné par le marché en cause, la nature des travaux ou l’identité des sous–traitants. Par ailleurs, une telle interdiction générale ne laisse pas de place à une appréciation au cas par cas par l’entité adjudicatrice (voir, par analogie, arrêt du 26 septembre 2019, Vitali, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A787&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑63/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A787&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2019:787</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A787&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point40" hreflang="fr" target="CourtTab" type="application/xhtml+xml">40</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit que, dans le cadre d’une réglementation nationale telle que celle en cause au principal, pour tous les marchés, une partie importante des travaux, des fournitures ou des services concernés doit être réalisée par le soumissionnaire lui-même, sous peine d’être automatiquement exclu de la procédure de passation de marché, y compris dans le cas où l’entité adjudicatrice serait en mesure de vérifier les identités des sous–traitants concernés et estimerait, après vérification, que cette limitation du recours à la sous–traitance n’est pas nécessaire afin de lutter contre la criminalité organisée dans le cadre du marché en question (voir, par analogie, arrêt du 26 septembre 2019, Vitali, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A787&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑63/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A787&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2019:787</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A787&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point41" hreflang="fr" target="CourtTab" type="application/xhtml+xml">41</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Or, des mesures moins restrictives seraient susceptibles d’atteindre l’objectif poursuivi par le législateur italien, telle qu’une approche consistant à obliger le soumissionnaire à fournir les identités des éventuels sous-traitants au stade de l’offre afin de permettre au pouvoir adjudicateur d’effectuer des vérifications à l’égard des sous-traitants proposés, à tout le moins dans le cas de marchés considérés comme représentant un risque accru d’infiltration de la criminalité organisée. Du reste, il ressort des éléments soumis à la Cour que le droit italien prévoit déjà de nombreuses mesures visant expressément à interdire aux entreprises soupçonnées d’appartenance mafieuse ou, en tout cas, de liens avec les intérêts des principales organisations criminelles opérant dans le pays d’accéder aux appels d’offres publics.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">L’interprétation exposée au point 38 du présent arrêt n’est pas davantage remise en cause par l’argument avancé par le gouvernement italien, selon lequel les contrôles de vérification que doit effectuer le pouvoir adjudicateur en vertu du droit national seraient inefficaces. En effet, une telle circonstance, qui, ainsi qu’il semble ressortir des observations mêmes de ce gouvernement, résulte des modalités spécifiques de ces contrôles, n’enlève rien au caractère restrictif de la mesure nationale en cause au principal. Au demeurant, le gouvernement italien n’a aucunement démontré, dans le cadre de la présente affaire, que des règles telles que celles qu’impliqueraient les vérifications envisagées au point précédent, combinées avec l’application des motifs d’exclusion des sous-traitants rendus possibles en vertu de l’article 45 de la directive 2004/18, ne peuvent être mises en œuvre d’une manière qui permettrait d’atteindre l’objectif poursuivi par la réglementation nationale en cause au principal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard aux considérations qui précèdent, il convient de répondre à la première partie de la question posée que la directive 2004/18 doit être interprétée en ce sens qu’elle s’oppose à une réglementation nationale, telle que celle en cause au principal, qui limite à 30 % la part du marché que le soumissionnaire est autorisé à sous-traiter à des tiers.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la seconde partie de la question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Par la seconde partie de sa question, la juridiction de renvoi demande, en substance, si les articles 49 et 56 TFUE, la directive 2004/18 ainsi que la directive 2014/24 doivent être interprétés en ce sens qu’ils s’opposent à une réglementation nationale, telle que celle en cause au principal, qui limite la possibilité de réduire les prix applicables aux prestations sous-traitées de plus de 20 % par rapport aux prix résultant de l’adjudication.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">Pour les raisons exposées aux points 29 à 32 du présent arrêt, c’est également au regard de la seule directive 2004/18 qu’il y a lieu de répondre à la seconde partie de la question posée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il convient de rappeler, ainsi qu’il ressort du point 36 du présent arrêt, que la directive 2004/18 consacre la possibilité, pour les soumissionnaires, de recourir à la sous-traitance en vue de l’exécution d’un marché public.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, la réglementation nationale en cause au principal impose une limitation, pour tous les marchés, aux prix qui peuvent être payés lorsque des sous-traitants sont engagés afin d’effectuer des prestations faisant l’objet d’un marché public, une réduction de plus de 20 % par rapport aux prix résultant de l’adjudication n’étant pas admise à l’égard de ces prestations (ci–après la « limitation des 20 % »).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">Lors de l’audience, la Commission européenne a expliqué que la position qu’elle avait défendue dans ses observations écrites devant la Cour, selon laquelle la limitation des 20 % pourrait être considérée comme compatible avec la libre prestation des services et la liberté d’établissement, se fondait sur la lecture des constatations effectuées par la juridiction de renvoi d’après lesquelles cette limitation permet une appréciation au cas par cas du point de savoir si son application est effectivement nécessaire afin d’éviter le dumping social.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il convient de rappeler la jurisprudence constante selon laquelle il incombe à la Cour de prendre en compte, dans le cadre de la répartition des compétences entre les juridictions de l’Union et nationales, le contexte factuel et réglementaire dans lequel s’insèrent les questions préjudicielles, tel que défini par la décision de renvoi. Dès lors, quelle que soit la façon dont la Commission aurait compris le droit national, l’examen du présent renvoi préjudiciel doit être effectué au regard de l’interprétation de ce droit donnée par la juridiction de renvoi (voir, par analogie, arrêt du 29 octobre 2009, Pontin, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A666&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑63/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A666&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2009:666</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A666&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="fr" target="CourtTab" type="application/xhtml+xml">38</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">Or, il ressort de la demande de décision préjudicielle que la limitation des 20 % s’impose de manière impérative, sous peine pour le soumissionnaire d’être exclu de la procédure de passation de marché. Il découle, en outre, de cette demande que ladite limitation est définie de manière générale et abstraite, indépendamment de tout examen du point de savoir si elle est effectivement nécessaire, dans le cas d’un marché donné, afin d’assurer aux travailleurs sous–traitants concernés une protection salariale minimale. Cette même limitation s’applique ainsi quel que soit le secteur économique ou l’activité concerné et indépendamment de toute prise en compte des lois, réglementations ou conventions collectives, tant nationales que de l’Union, en vigueur en matière de conditions de travail, qui seraient normalement applicables à de tels travailleurs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit que la limitation des 20 % est susceptible de rendre moins attrayante la possibilité offerte par la directive 2004/18 d’avoir recours à la sous–traitance pour l’exécution d’un marché, dès lors que cette réglementation limite l’éventuel avantage concurrentiel en termes de coûts que présentent les travailleurs sous–traitants pour les entreprises souhaitant se prévaloir de cette possibilité. Or, un tel effet de dissuasion va à l’encontre de l’objectif, rappelé au point 39 du présent arrêt, d’ouverture des marchés publics à la concurrence la plus large possible et, en particulier, de l’accès des petites et moyennes entreprises aux marchés publics que poursuivent les directives en la matière.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">Aucun des objectifs invoqués devant la Cour dans le cadre de la présente affaire ne permet de justifier une limitation du recours à la sous–traitance telle que la limitation des 20 %.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">En premier lieu, il est vrai que l’objectif de la protection des travailleurs sous–traitants peut, en principe, justifier certaines limitations du recours à la sous–traitance (voir, en ce sens, arrêt du 18 septembre 2014, Bundesdruckerei, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2235&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑549/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2235&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2014:2235</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2235&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="fr" target="CourtTab" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">Il est également vrai que la directive 2004/18 envisage expressément, à son article 26, la possibilité pour les pouvoirs adjudicateurs d’exiger des conditions particulières pour l’exécution d’un marché, lesquelles peuvent notamment viser des considérations sociales.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">Toutefois, à supposer même que les exigences en matière de prix prescrites par la réglementation nationale en cause puissent être qualifiées de « conditions particulières concernant l’exécution du marché », en particulier de « considérations sociales », qui sont « indiquées dans l’avis de marché ou dans le cahier des charges », au sens de l’article 26 de la directive 2004/18, il n’en demeure pas moins que, conformément à cette dernière disposition, de telles exigences ne peuvent être imposées que pour autant qu’elles sont compatibles avec le droit de l’Union (voir, par analogie, arrêt du 18 septembre 2014, Bundesdruckerei, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2235&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑549/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2235&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2014:2235</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2235&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point28" hreflang="fr" target="CourtTab" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">Or, une réglementation nationale, telle que celle décrite aux points 55, 58 et 59 du présent arrêt, ne saurait être considérée comme conférant une protection à des travailleurs de nature à justifier une restriction du recours à la sous-traitance, telle que la limitation des 20 %.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">En effet, une telle limitation va au–delà de ce qui est nécessaire afin d’assurer une protection pour les travailleurs sous–traitants en matière de salaire. En effet, ainsi qu’il a été rappelé aux points 55 et 58 du présent arrêt, la limitation des 20 % ne laisse pas de place à une appréciation au cas par cas par le pouvoir adjudicateur, s’appliquant indépendamment de toute prise en compte de la protection sociale qui est garantie par les lois, les règlements et les conventions collectives applicables aux travailleurs concernés.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il ressort des éléments dont dispose la Cour que le droit italien prévoit que le sous–traitant est tenu, tout comme l’adjudicataire, de respecter pleinement, à l’égard de ses salariés, pour les prestations effectuées dans le cadre de la sous–traitance, le traitement économique et réglementaire établi par les conventions collectives nationales et territoriales en vigueur pour le secteur et pour la zone dans laquelle les prestations sont effectuées. Selon ces mêmes éléments, l’adjudicataire est d’ailleurs solidairement responsable du respect, par le sous–traitant, de ladite réglementation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">Il ressort également des éléments soumis à la Cour que, en l’espèce, la sous–traitance en cause implique le recours à des coopératives sociales qui bénéficient, en vertu de la réglementation italienne applicable à de telles coopératives, d’un régime préférentiel en matière de fiscalité, de contributions, de rémunération et de prévoyance et que cette réglementation vise précisément à faciliter l’intégration sur le marché du travail de certaines personnes défavorisées en rendant possible le versement auprès d’elles d’une rémunération moins élevée que celle qui s’impose dans le cas d’autres personnes effectuant des prestations analogues. Il incombe toutefois à la juridiction de renvoi d’effectuer les vérifications nécessaires à cet égard.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="normal">En deuxième lieu, une limitation du recours à la sous–traitance telle que la limitation des 20 % ne saurait pas non plus être justifiée par l’objectif consistant à vouloir assurer la viabilité de l’offre et la bonne exécution du marché.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="normal">Certes, il n’est pas exclu qu’un tel objectif puisse justifier certaines limitations du recours à la sous–traitance (voir, en ce sens, arrêt du 5 avril 2017, Borta, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A266&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑298/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A266&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:266</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A266&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point54" hreflang="fr" target="CourtTab" type="application/xhtml+xml">54</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="normal">Toutefois, à supposer même que la limitation des 20 % soit apte à atteindre cet objectif, une telle limitation générale et abstraite est, en tout état de cause, disproportionnée par rapport à l’objectif poursuivi, étant donné qu’il existe d’autres mesures moins restrictives qui faciliteraient la réalisation de celui–ci. Pourrait être envisagée, notamment, une mesure consistant, d’une part, à exiger des soumissionnaires qu’ils indiquent, dans leur offre, la part du marché et les travaux qu’ils ont l’intention de sous–traiter ainsi que l’identité des sous–traitants proposés et, d’autre part, à prévoir la possibilité pour l’entité adjudicatrice d’interdire aux soumissionnaires de changer de sous–traitants si cette entité n’a pas pu, au préalable, vérifier l’identité, la capacité et la fiabilité des nouveaux sous–traitants proposés (voir, par analogie, arrêt du 5 avril 2017, Borta, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A266&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑298/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A266&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:266</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A266&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point57" hreflang="fr" target="CourtTab" type="application/xhtml+xml">57</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="normal">Il convient, d’ailleurs, de faire observer que, en l’occurrence, il découle des éléments soumis à la Cour qu’il existe déjà en droit italien, ce qu’il incombe à la juridiction de renvoi de vérifier, des mesures, dont certaines se recoupent à tout le moins en partie avec celle décrite au point précédent, qui visent à permettre au pouvoir adjudicateur de vérifier la capacité et la fiabilité du sous–traitant avant qu’il n’effectue les prestations sous–traitées.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="normal">Pourrait également contribuer à atteindre l’objectif exposé au point 68 du présent arrêt l’application des dispositions de l’article 55 de la directive 2004/18 relatives à la vérification des offres anormalement basses par rapport à la prestation, lesquelles dispositions rendent possible, pour un marché donné et selon les conditions prévues à cet égard, le rejet par le pouvoir adjudicateur des offres ainsi qualifiées.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="normal">En troisième lieu, ne saurait davantage être considérée comme fondant la compatibilité de la limitation des 20 % avec le droit de l’Union l’argumentation avancée par la Commission visant à démontrer que cette limitation se justifie au regard du principe d’égalité de traitement des opérateurs économiques. Selon cette institution, le fait de payer des prix réduits aux sous–traitants sans que la rémunération du contractant principal indiquée dans l’offre soit modifiée entraînerait une réduction substantielle des coûts pour le soumissionnaire et augmenterait ainsi le bénéfice qu’il tire du marché.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il suffit de constater que la seule circonstance qu’un soumissionnaire est en mesure de limiter ses coûts en raison des prix qu’il négocie avec des sous–traitants n’est pas en soi susceptible de violer le principe d’égalité de traitement, mais contribue plutôt à une concurrence renforcée et donc à l’objectif poursuivi par les directives adoptées en matière de marchés publics, tel que rappelé au point 39 du présent arrêt.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard aux considérations qui précèdent, il convient de répondre à la seconde partie de la question posée que la directive 2004/18 doit être interprétée en ce sens qu’elle s’oppose à une réglementation nationale, telle que celle en cause au principal, qui limite la possibilité de réduire les prix applicables aux prestations sous-traitées de plus de 20 % par rapport aux prix résultant de l’adjudication.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (cinquième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">La directive 2004/18/CE du Parlement européen et du Conseil, du 31 mars 2004, relative à la coordination des procédures de passation des marchés publics de travaux, de fournitures et de services, doit être interprétée en ce sens que :</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">elle s’oppose à une réglementation nationale, telle que celle en cause au principal, qui limite à 30 % la part du marché que le soumissionnaire est autorisé à sous-traiter à des tiers ;</span>
+</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">elle s’oppose à une réglementation nationale, telle que celle en cause au principal, qui limite la possibilité de réduire les prix applicables aux prestations sous-traitées de plus de 20 % par rapport aux prix résultant de l’adjudication.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0402_FR_01-E0001" id="t-ECR_62018CJ0402_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : l’italien.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

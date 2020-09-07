@@ -1,0 +1,1307 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Third Chamber)</p>
+<p class="sum-title-1">18 December 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0447_EN_01-E0001" id="c-ECR_62018CJ0447_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Social security — Coordination of social security systems — Regulation (EC) No 883/2004 — Article 3 — Matters covered — Old-age benefit — Freedom of movement for workers within the European Union — Regulation (EU) No 492/2011 — Article 7 — Equal treatment of national workers and migrant workers — Social advantages — Legislation of a Member State restricting the grant of an ‘additional benefit for sportspersons who have represented the State’ to the citizens of that State)</p>
+<p class="normal">In Case C‑447/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic), made by decision of 29 May 2018, received at the Court on 9 July 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">UB</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Generálny riaditeľ Sociálnej poisťovne Bratislava,</span>
+</p>
+<p class="normal">THE COURT (Third Chamber),</p>
+<p class="normal">composed of A. Prechal, President of the Chamber, K. Lenaerts, President of the Court, R. Silva de Lapuerta, Vice-President of the Court, acting as Judges of the Third Chamber, L.S. Rossi (Rapporteur) and F. Biltgen, Judges,</p>
+<p class="normal">Advocate General: E. Tanchev,</p>
+<p class="normal">Registrar: M. Aleksejev, Head of Unit,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 7 May 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Slovak Government, by B. Ricziová and M. Kianička, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Czech Government, by M. Smolek, J. Pavliš, J. Vláčil and L. Dvořáková, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by D. Martin, A. Tokár and B.-R. Killmann, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 11 July 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 1(w) and Articles 4 and 5 of Regulation (EC) No 883/2004 of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:166:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 L 166, p. 1</a>, corrigendum <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:200:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 L 200, p. 1</a>), and of Article 34(1) and (2) of the Charter of Fundamental Rights of the European Union (‘the Charter’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between UB and the Generálny riaditel’ Sociálnej poist’ovne Bratislava (Director-General of the Social Insurance Agency, Bratislava, Slovakia) concerning the legality of the decision refusing to grant UB an additional benefit paid to certain high-level sportspersons.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1 of Regulation No 883/2004, entitled ‘Definitions’, provides:</p>
+<p class="normal">‘For the purposes of this Regulation:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(w)</p>
+</td>
+<td valign="top">
+<p class="normal">“pension” covers not only pensions but also lump-sum benefits which can be substituted for them and payments in the form of reimbursement of contributions and, subject to the provisions of Title III, revaluation increases or supplementary allowances;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3 of that regulation, entitled ‘Matters covered’, provides:</p>
+<p class="normal">‘1.   This Regulation shall apply to all legislation concerning the following branches of social security:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">sickness benefits;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">maternity and equivalent paternity benefits;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">invalidity benefits;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">old-age benefits;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(e)</p>
+</td>
+<td valign="top">
+<p class="normal">survivors benefits;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(f)</p>
+</td>
+<td valign="top">
+<p class="normal">benefits in respect of accidents at work and occupational diseases;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(g)</p>
+</td>
+<td valign="top">
+<p class="normal">death grants;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(h)</p>
+</td>
+<td valign="top">
+<p class="normal">unemployment benefits;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(i)</p>
+</td>
+<td valign="top">
+<p class="normal">pre-retirement benefits;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(j)</p>
+</td>
+<td valign="top">
+<p class="normal">family benefits.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">3.   This Regulation shall also apply to the special non-contributory cash benefits covered by Article 70.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 4 of that regulation, entitled ‘Equality of treatment’, is worded as follows:</p>
+<p class="normal">‘Unless otherwise provided for by this Regulation, persons to whom this Regulation applies shall enjoy the same benefits and be subject to the same obligations under the legislation of any Member State as the nationals thereof.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 5 of that same regulation, entitled ‘Equal treatment of benefits, income, facts or events’, states:</p>
+<p class="normal">‘Unless otherwise provided for by this Regulation and in the light of the special implementing provisions laid down, the following shall apply:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">where, under the legislation of the competent Member State, the receipt of social security benefits and other income has certain legal effects, the relevant provisions of that legislation shall also apply to the receipt of equivalent benefits acquired under the legislation of another Member State or to income acquired in another Member State;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">where, under the legislation of the competent Member State, legal effects are attributed to the occurrence of certain facts or events, that Member State shall take account of like facts or events occurring in any Member State as though they had taken place in its own territory.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Title III of Regulation No 883/2004 contains Chapter 9 thereof, which is entitled ‘Special non-contributory cash benefits’. That chapter contains a single article, namely Article 70 of that regulation, itself entitled ‘General provision’, which provides, in paragraphs 1 and 2 thereof:</p>
+<p class="normal">‘1.   This Article shall apply to special non-contributory cash benefits which are provided under legislation which, because of its personal scope, objectives and/or conditions for entitlement, has characteristics both of the social security legislation referred to in Article 3(1) and of social assistance.</p>
+<p class="normal">2.   For the purposes of this Chapter, “special non-contributory cash benefits” means those which:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">are intended to provide either:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(i)</p>
+</td>
+<td valign="top">
+<p class="normal">supplementary, substitute or ancillary cover against the risks covered by the branches of social security referred to in Article 3(1), and which guarantee the persons concerned a minimum subsistence income having regard to the economic and social situation in the Member State concerned; or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(ii)</p>
+</td>
+<td valign="top">
+<p class="normal">solely specific protection for the disabled, closely linked to the said person’s social environment in the Member State concerned,</p>
+</td>
+</tr>
+</table>
+<p class="normal">and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">where the financing exclusively derives from compulsory taxation intended to cover general public expenditure and the conditions for providing and for calculating the benefits are not dependent on any contribution in respect of the beneficiary. However, benefits provided to supplement a contributory benefit shall not be considered to be contributory benefits for this reason alone,</p>
+<p class="normal">and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">are listed in Annex X.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 7 of Regulation (EU) No 492/2011 of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:141:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2011 L 141, p. 1</a>) provides, in paragraphs 1 and 2 thereof:</p>
+<p class="normal">‘1.   A worker who is a national of a Member State may not, in the territory of another Member State, be treated differently from national workers by reason of his nationality in respect of any conditions of employment and work, in particular as regards remuneration, dismissal, and, should he become unemployed, reinstatement or re-employment.</p>
+<p class="normal">2.   He shall enjoy the same social and tax advantages as national workers.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Slovak law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 1 of the zákon č. 112/2015 Z.z. o príspevku športovému reprezentantovi a o zmene a doplnení zákona č. 461/2003 Z.z. o sociálnom poistení v znení neskorších predpisov (Law No 112/2015 on an additional benefit for sportspersons who have represented the State, amending Law No 461/2003 on social insurance), in the version applicable to the dispute in the main proceedings (‘Law No 112/2015’), provides:</p>
+<p class="normal">‘This law governs the granting of an additional benefit to sportspersons who have represented the State (“the additional benefit”) as a State social benefit, the purpose of which is to provide a financial guarantee to sportspersons who — as representatives of the Czechoslovak Republic, the Czechoslovak Socialist Republic, the Czechoslovak Federative Republic, the Czech and Slovak Federative Republic or the Slovak Republic — have obtained medals in the Olympic Games, the Paralympic Games, the Deaflympics, the World Championships or the European Championships.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 2(1) of that law provides:</p>
+<p class="normal">‘A natural person who:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">as a sporting representative of the Czechoslovak Republic, the Czechoslovak Socialist Republic, the Czechoslovak Federative Republic, the Czech and Slovak Federative Republic or the Slovak Republic has obtained</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">a gold medal (first place), a silver medal (second place) or a bronze medal (third place) in the Olympic Games, the Paralympic Games or the Deaflympics;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">a gold medal (first place), a silver medal (second place) or a bronze medal (third place) in the World Championships or a gold medal (first place) in the European Championships in a sporting discipline included by the International Olympic Committee in the Olympic Games, by the International Paralympic Committee in the Paralympic Games, or by the International Committee of Sports for the Deaf in the Deaflympics immediately prior to the World Championships or the European Championships, or which were held in the year in which the World Championships or the European Championships were held;</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">is a citizen of the Slovak Republic;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">is permanently resident in the Slovak Republic or is a person to whom a special provision applies;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">does not receive a similar benefit from abroad;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(e)</p>
+</td>
+<td valign="top">
+<p class="normal">has reached pensionable age; and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(f)</p>
+</td>
+<td valign="top">
+<p class="normal">has applied to exercise his right to a pension benefit in accordance with the special rules,</p>
+</td>
+</tr>
+</table>
+<p class="normal">shall be entitled to the additional benefit.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 3 of that law states:</p>
+<p class="normal">‘The amount of the benefit shall consist of the difference between</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 750 and the sum of the amounts of pension benefits granted under the special rules and similar pension benefits paid abroad, provided that the natural person has obtained</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">a gold medal as referred to in Paragraph 2(1)(a)(1);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">a gold medal as referred to in Paragraph 2(1)(a)(2) in the World Championships; or</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 600 and the sum of the amounts of pension benefits granted under the special rules and similar pension benefits paid abroad, provided that the natural person has obtained</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">a silver medal as referred to in Paragraph 2(1)(a)(1);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">a silver medal as referred to in Paragraph 2(1)(a)(2) in the World Championships; or</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">EUR 500 and the sum of the amounts of pension benefits granted under the special rules and similar pension benefits paid abroad, provided that the natural person has obtained</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">a bronze medal as referred to in Paragraph 2(1)(a)(1);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">a bronze medal as referred to in Paragraph 2(1)(a)(2) in the World Championships; or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3.</p>
+</td>
+<td valign="top">
+<p class="normal">a gold medal as referred to in Paragraph 2(1)(a)(2) in the European Championships.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">In 1971, UB, a Czech national who has been resident for 52 years in the territory which is now Slovakia, obtained a gold medal in the Ice Hockey European Championships and a silver medal in the Ice Hockey World Championships as a member of the national team of the Czechoslovak Socialist Republic.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Following the dissolution of the Czech and Slovak Federative Republic at midnight on 31 December 1992, UB chose Czech nationality. However, he continued to be resident in Slovakia. At the hearing, the Slovak Government also explained, without being contradicted on that point by the other persons concerned, that, at the time of the accession of the Slovak Republic and the Czech Republic to the European Union on 1 May 2004, UB was employed in a primary school and continued in that post until at least 2006.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">On 17 December 2015, UB applied to receive the additional benefit for sportspersons who have represented the State provided for by Law No 112/2015 (‘the additional benefit for sportspersons who have represented the State’). After finding that the person concerned did not satisfy the condition relating to possession of Slovak citizenship referred to in Paragraph 2(1)(b) of that law, the Bratislava Social Insurance Agency rejected that application.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">UB brought an action against that decision before the Krajský súd v Košiciach (Regional Court, Košice, Slovakia), arguing that, in the light of EU law, the Slovak legislation was discriminatory on the basis of nationality and that it failed to take account of the fact that he had been resident in Slovakia for 52 years.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Since that action was dismissed, UB lodged an appeal on a point of law before the referring court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">That court finds, on reading the preparatory work for Law No 112/2015, that the Slovak legislature based its decision to make receipt of the additional benefit at issue in the main proceedings conditional upon possession of Slovak citizenship on the fact that that additional benefit is a State social benefit and not a pension benefit and that its purpose is to contribute to the financial security of high-level sportspersons who, as Slovak nationals, have represented the Slovak Republic or its legal predecessors in important international sporting competitions. Furthermore, that law was not intended to be applied to sportspersons who had represented the State but were nationals of other States.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">However, according to the referring court, first, the additional benefit for sportspersons who have represented the State is not only a State social benefit, given that it is paid on a regular basis and in parallel with the pension benefit in order to bring the amount of the pension benefit into line with the amounts set out in Paragraph 3(a) to (c) of that law. Second, UB, as a person who has represented the State in a team sport, has been treated differently from his team mates solely because of the fact that, unlike them, he is not a Slovak national, although he too contributed, through his sporting efforts and skills, to the collective results of the national team.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="normal">‘In the circumstances of the main proceedings, is it possible to interpret Article 1(w), Article 4 and Article 5 of Regulation [No 883/2004], considered in conjunction with the right to social security benefits and social advantages, as enshrined in Article 34(1) and (2) of the [Charter], as precluding the application of a provision of national legislation pursuant to which the Slovak social security body is to take into consideration an applicant’s citizenship as a fundamental condition for the purposes of determining the right of national sports representatives to a benefit in addition to the old-age pension, even if another statutory requirement, namely the fact of having represented the legal predecessors of the State, including the Czechoslovak Socialist Republic, is also part of that provision of national legislation?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">By its question, the referring court seeks to ascertain, in essence, whether Article 1(w) and Articles 4 and 5 of Regulation No 883/2004, read in conjunction with Article 34(1) and (2) of the Charter, are to be interpreted as precluding legislation of a Member State which makes receipt of an additional benefit introduced for certain high-level sportspersons who have represented that Member State or its legal predecessors in international sporting competitions conditional upon, in particular, the person applying for the benefit having the nationality of that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">In order to answer that question, it must first be verified whether an additional benefit such as that at issue in the main proceedings falls within the material scope of Regulation No 883/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be borne in mind that, according to the settled case-law of the Court, the distinction between benefits falling within the scope of Regulation No 883/2004 and those which are outside it is based essentially on the constituent elements of each benefit, in particular its purpose and the conditions for its grant, and not on whether it is classified as a social security benefit by national legislation (judgment of 25 July 2018, A (Assistance for a disabled person), <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A601&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑679/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A601&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:601</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A601&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, a benefit may be regarded as a social security benefit in so far as it is granted, without any individual and discretionary assessment of personal needs, to recipients on the basis of a legally defined position and provided that it relates to one of the risks expressly listed in Article 3(1) of Regulation No 883/2004 (judgment of 25 July 2018, A (Assistance for a disabled person), <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A601&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑679/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A601&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:601</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A601&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point32" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Given that the two conditions mentioned in the preceding paragraph are cumulative, the fact that one of them is not satisfied will mean that the benefit in question does not fall within the scope of Regulation No 883/2004 (judgment of 25 July 2018, A (Assistance for a disabled person), <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A601&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑679/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A601&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:601</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A601&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Concerning, in particular, the second condition, it is necessary to examine whether a benefit such as that at issue in the main proceedings relates to one of the risks expressly listed in Article 3(1) of Regulation No 883/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in particular, the classification of a social benefit as an old-age benefit as referred to in Article 3(1)(d) of that regulation, the Court has specified that a supplementary allowance paid exclusively to persons entitled to a retirement and/or survivor’s pension and financed by the same resources that are used to finance the retirement and survivor’s pensions which is linked to the retirement pension, providing the recipients with means of subsistence by ensuring that they receive a financial supplement, may be classified as such a benefit (see, to that effect, judgments of 20 January 2005, Noteboom, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A51&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑101/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A51&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:51</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A51&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A51&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>, and of 16 September 2015, Commission v Slovakia, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A601&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑361/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A601&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:601</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A601&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point56" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it should first of all be noted that, although one of the purposes of the additional benefit for sportspersons who have represented the State is ‘to provide a financial guarantee to sportspersons’ as is expressly stated in Paragraph 1 of Law No 112/2015, it is apparent from the case file submitted to the Court that the main reason for that additional benefit is to recognise the exceptional efforts made and remarkable results obtained by a very limited number of high-level sportspersons in certain international sporting competitions. The essential purpose of that additional benefit is, therefore, to compensate its recipients for the feats they have accomplished while representing their country in the field of sport.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Next, that essential purpose accounts for the fact that, first, the additional benefit is financed directly by the State, not using the national social security sources of financing and regardless of the contributions paid by its recipients, and, second, it is not paid to all sportspersons who have taken part in such competitions, but only to a very limited number of such sportspersons who have, in that context, obtained certain medals.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, although the maximum amount of the additional benefit at issue in the main proceedings is capped by reference to a retirement pension which the recipient might also receive, the payment of that additional benefit is not conditional upon the right of the recipient to receive such a pension but only upon an application to that effect being made by that recipient.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, an additional benefit such as that at issue in the main proceedings cannot be regarded as being an old-age benefit and, consequently, does not relate to any of the risks expressly listed in Article 3(1) of Regulation No 883/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the second condition referred to in paragraph 23 above is not satisfied.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, given that that additional benefit does not cover any of the risks covered by the branches of social security referred to in Article 3(1) of Regulation No 883/2004, that it is not intended to provide solely specific protection for the disabled and that, in any event, it is not listed in Annex X to that regulation, it cannot be regarded as a special non-contributory cash benefit within the meaning of Article 70 of that regulation either.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Having regard to the foregoing, an additional benefit such as that at issue in the main proceedings does not fall within the scope of Regulation No 883/2004.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, there is no need to examine the question referred in the light of Article 34(1) and (2) of the Charter.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">That being said, it should be borne in mind that, in the context of the procedure established by Article 267 TFEU providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the national court with an answer which will be of use to it and enable it to determine the case before it. To that end, the Court may have to reformulate the questions referred to it. Moreover, the Court has a duty to interpret all provisions of EU law which national courts require in order to decide the actions pending before them, even if those provisions are not expressly indicated in the questions referred to the Court of Justice by those courts. To that end, the Court may extract from all the information provided by the national court, in particular from the grounds of the decision to make the reference, the legislation and the principles of EU law that require interpretation in view of the subject matter of the dispute in the main proceedings (judgment of 16 July 2015, Abcur, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A481&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑544/13 and C‑545/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A481&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:481</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A481&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A481&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, although the referring court has formally questioned the Court only as to the interpretation of Regulation No 883/2004, it is appropriate, as has been suggested by the Commission, to examine whether Regulation No 492/2011, in particular Article 7(2) thereof, is to be interpreted as precluding legislation of a Member State such as that at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">As has been noted in paragraph 13 above, in response to a question put by the Court at the hearing, the Slovak Government explained that, at the time of the accession of the Slovak Republic and the Czech Republic to the European Union, UB was employed in a primary school and continued in that post until at least 2006.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Article 45(2) TFEU provides that freedom of movement for workers is to entail the abolition of any discrimination based on nationality as regards employment, remuneration and other conditions of work and employment (judgment of 15 December 2016, Depesme and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A955&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑401/15 to C‑403/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A955&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:955</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A955&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">In addition, Article 7(2) of Regulation No 492/2011 is the particular expression, in the specific area of the grant of social advantages, of the principle of equal treatment enshrined in Article 45(2) TFEU, and must be accorded the same interpretation as that provision (judgment of 15 December 2016, Depesme and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A955&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑401/15 to C‑403/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A955&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:955</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A955&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point35" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">According to Article 7(2) of Regulation No 492/2011, a worker who is a national of one Member State is to enjoy, in the territory of another Member State, the same social and tax advantages as national workers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has held that that provision equally benefits both migrant workers resident in a host Member State and frontier workers employed in that Member State while residing in another Member State (judgments of 15 December 2016, Depesme and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A955&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑401/15 to C‑403/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A955&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:955</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A955&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>, and of 10 July 2019, Aubriet, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A582&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑410/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A582&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:582</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A582&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point24" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Similarly, the Court has held that a worker who was carrying on an activity as an employed person in his or her host Member State at the time of the accession of his or her Member State of origin to the European Union and has continued to carry on such activity after that accession may, from the date of accession, rely on Article 7(2) of Regulation (EEC) No 1612/68 of the Council of 15 October 1968 on freedom of movement for workers within the Community (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1968:257:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1968 L 257, p. 2</a>), the wording of which has been reproduced in Article 7(2) of Regulation No 492/2011, unless the transitional arrangements provided for in the Act of Accession provide otherwise (see, to that effect, judgment of 27 September 1989, Lopes da Veiga, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1989%3A346&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">9/88</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1989%3A346&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1989:346</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1989%3A346&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point9" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">9</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1989%3A346&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point10" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">10</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1989%3A346&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point19" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">19</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, since the accession of the Slovak Republic and the Czech Republic to the European Union on 1 May 2004, freedom of movement for workers fully applies, in principle, to Czech nationals working in Slovakia, pursuant to Article 24 of the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2003:236:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2003 L 236, p. 33</a>), and point 1.1 of Annex V thereto, subject only to the transitional provisions laid down in points 1.2 to 1.14 of that annex. As Article 7(2) of Regulation No 1612/68 is not covered by such transitional provisions, that provision applies with regard to those Czech nationals as from 1 May 2004 (see, by analogy, judgment of 27 September 1989, Lopes da Veiga, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1989%3A346&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">9/88</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1989%3A346&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1989:346</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1989%3A346&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point9" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">9</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, Article 7(2) of Regulation No 492/2011 also benefits a worker, such as UB, who, without having moved from his or her place of residence, is, because of the accession to the European Union of the State of which he or she is a national and the State in whose territory he or she is resident, in the same situation as a migrant worker.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">It is therefore necessary to verify whether an additional benefit for sportspersons who have represented the State, such as that at issue in the main proceedings, is covered by the concept of a ‘social advantage’ for the purposes of Article 7(2) of Regulation No 492/2011.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the reference made by that provision to ‘social … advantages’ cannot be interpreted restrictively (see, to that effect, judgments of 30 September 1975, Cristini, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1975%3A120&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">32/75</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1975%3A120&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1975:120</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1975%3A120&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point12" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">12</a>, and of 17 April 1986, Reed, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1986%3A157&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">59/85</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1986%3A157&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1986:157</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1986%3A157&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">Indeed, the purpose of Article 7(2) of Regulation No 492/2011 is to achieve equal treatment, and therefore the concept of a ‘social advantage’, extended by that provision to workers who are nationals of other Member States, must include all advantages which, whether or not linked to a contract of employment, are generally granted to national workers primarily because of their objective status as workers or by virtue of the mere fact of their residence on the national territory and the extension of which to workers who are nationals of other Member States therefore seems suitable to facilitate their mobility within the Union (see, to that effect, judgments of 17 April 1986, Reed, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1986%3A157&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">59/85</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1986%3A157&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1986:157</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1986%3A157&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>; of 12 May 1998, Martínez Sala, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1998%3A217&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑85/96</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1998%3A217&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1998:217</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1998%3A217&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a>; and of 15 September 2005, Ioannidis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A559&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑258/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A559&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:559</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A559&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point35" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>) and, consequently, their integration into the host Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">As the Court has already held, such advantages include, inter alia, an unemployment benefit aimed at young people who have just completed their studies and are seeking their first employment (see, to that effect, judgment of 15 September 2005, Ioannidis, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A559&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑258/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A559&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:559</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A559&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>), a child-raising allowance for a worker’s child (see, to that effect, judgment of 12 May 1998, Martínez Sala, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1998%3A217&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑85/96</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1998%3A217&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1998:217</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1998%3A217&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>), the possibility, for the widow and infant children of a migrant worker, of benefiting from the reductions in rail fares applicable to large families (see, to that effect, judgment of 30 September 1975, Cristini, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1975%3A120&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">32/75</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1975%3A120&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1975:120</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1975%3A120&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point13" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">13</a>), the possibility, for an accused person who has worker status, of using one of the languages available to the residents of a municipality of the host Member State (see, to that effect, judgment of 11 July 1985, Mutsch,<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1985%3A335&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">137/84</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1985%3A335&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1985:335</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1985%3A335&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point16" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">16</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1985%3A335&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point17" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">17</a>), or the possibility of obtaining permission for a worker’s unmarried partner, who is not a national of the host Member State, to reside in that State with that worker (see, to that effect, judgment of 17 April 1986, Reed, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1986%3A157&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">59/85</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1986%3A157&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1986:157</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1986%3A157&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>), because all those measures may contribute to the integration of the migrant worker into the host country and thus to achieving the objective of freedom of movement for workers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">In the same vein, it must be accepted that the possibility of a migrant worker being compensated in the same way as workers who are nationals of the host Member State for exceptional sporting results which he or she has obtained while representing that Member State or its legal predecessors may contribute to the integration of that worker into that Member State and thus to achieving the objective of freedom of movement for workers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">That interpretation cannot, contrary to the observations made by the Slovak Government at the hearing, be called in question by the judgments of 31 May 1979, Even and ONPTS (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1979%3A144&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">207/78</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1979%3A144&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1979:144</a>) and of 16 September 2004, Baldinger (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A535&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑386/02</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A535&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2004:535</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">It is true that, in those judgments, the Court held that benefits granted to veterans who are incapable of working due to an act of war or to former prisoners of war who can prove that they underwent a long period of captivity, in testimony of national gratitude for the hardships they endured, were not, inasmuch as they were paid as a quid pro quo for the service they rendered to their country, covered by the concept of a ‘social advantage’ for the purposes of Article 7(2) of Regulation No 1612/68, even though the persons requesting such benefits were migrant workers. Thus, those benefits did not contribute to the integration of those workers into the host Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">However, the purpose of the additional benefit at issue in the main proceedings is to compensate high-level sportspersons who have represented the host Member State or its legal predecessors in international sporting competitions and have obtained remarkable results. In particular, that additional benefit has the effect not only of providing its recipients with financial security intended, inter alia, to compensate for the fact that they were unable to fully integrate into the labour market during the years dedicated to practising a sport at a high level, but also, chiefly, of conferring on those recipients a particular level of social prestige because of the sporting results which they obtained in the context of that representation. The fact, for migrant workers, of benefiting from that level of prestige, which is also available to nationals of the host Member State who are in the same situation, or have even obtained medals as part of the same team in team sports competitions, is capable of facilitating the integration of those migrant workers into the society of that Member State. Moreover, the Court has previously recognised the considerable social importance of sport in the European Union, in particular amateur sport, as reflected in Article 165 TFEU, and the role of that sport as a factor for integration into the society of the host Member State (see, to that effect, judgment of 13 June 2019, TopFit and Biffi, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A497&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑22/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A497&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:497</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A497&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that an additional benefit such as that at issue in the main proceedings is covered by the concept of a ‘social advantage’ for the purposes of Article 7(2) of Regulation No 492/2011, so that a Member State which grants such a benefit to its national workers cannot refuse to grant it to workers who are nationals of other Member States without discriminating on the basis of nationality, which is forbidden by that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">Having regard to all of the foregoing, the answer to the question referred is that:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3(1)(d) of Regulation No 883/2004 must be interpreted as meaning that an additional benefit paid to certain high-level sportspersons who have represented a Member State or its legal predecessors in international sporting competitions is not covered by the ‘old-age benefit’ referred to in that provision and, consequently, falls outside the scope of that regulation;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Article 7(2) of Regulation No 492/2011 must be interpreted as precluding legislation of a Member State which makes receipt of an additional benefit introduced for certain high-level sportspersons who have represented that Member State or its legal predecessors in international sporting competitions conditional upon, in particular, the person applying for the benefit having the nationality of that Member State.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Third Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 3(1)(d) of Regulation (EC) No 883/2004 of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems must be interpreted as meaning that an additional benefit paid to certain high-level sportspersons who have represented a Member State or its legal predecessors in international sporting competitions is not covered by the ‘old-age benefit’ referred to in that provision and, consequently, falls outside the scope of that regulation.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 7(2) of Regulation (EU) No 492/2011 of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union must be interpreted as precluding legislation of a Member State which makes receipt of an additional benefit introduced for certain high-level sportspersons who have represented that Member State or its legal predecessors in international sporting competitions conditional upon, in particular, the person applying for the benefit having the nationality of that Member State.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0447_EN_01-E0001" id="t-ECR_62018CJ0447_EN_01-E0001">*1</a>
+</span>)	Language of the case: Slovak.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

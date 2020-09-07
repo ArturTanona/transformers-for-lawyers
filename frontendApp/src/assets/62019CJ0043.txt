@@ -1,0 +1,1043 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Ninth Chamber)</p>
+<p class="coj-sum-title-1">11 June 2020 (<span class="coj-note">
+<a href="#t-ECR_62019CJ0043_EN_01-E0001" id="c-ECR_62019CJ0043_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Value added tax (VAT) — Directive 2006/112/EC — Article 2(1)(c) — Scope — Taxable transactions — Services supplied for consideration — Monies paid where customers fail to comply with the contractual tie-in period — Characterisation)</p>
+<p class="coj-normal">In Case C‑43/19,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa) (Tax Arbitration Tribunal (Centre for Administrative Arbitration), Portugal), made by decision of 2 January 2019, received at the Court on 24 January 2019, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">Vodafone Portugal</span> — C<span class="coj-bold">omunicações Pessoais SA</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Autoridade Tributária e Aduaneira,</span>
+</p>
+<p class="coj-normal">THE COURT (Ninth Chamber),</p>
+<p class="coj-normal">composed of S. Rodin, President of the Chamber, D. Šváby and K. Jürimäe (Rapporteur), Judges,</p>
+<p class="coj-normal">Advocate General: G. Pitruzzella,</p>
+<p class="coj-normal">Registrar: M. Ferreira, Principal Administrator,</p>
+<p class="coj-normal">having regard to the written procedure and further to the hearing on 30 January 2020,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Vodafone Portugal — Comunicações Pessoais SA, by S. Fernandes de Almeida, J. Lobato Heitor and A. Costa, advogados,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Portuguese Government, by L. Inez Fernandes, T. Larsen, R. Campos Laires and P. Barros da Costa, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Ireland, by J. Quaney and M. Browne, acting as Agents, and by N. Travers, Senior Counsel,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the United Kingdom Government, by Z. Lavery, acting as Agent, and by E. Mitrophanous, Barrister,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, initially by L. Lozano Palacios and A. Caeiros, and subsequently by L. Lozano Palacios and I. Melo Sampaio, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Articles 2(1)(c), 9, 24, 72 and 73 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 347, p. 1</a>; ‘the VAT Directive’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between Vodafone Portugal — Comunicações Pessoais SA (‘Vodafone’) and the Autoridade Tributária e Aduaneira (Tax and Customs Authority, Portugal), concerning the self-assessment of value added tax (VAT) relating to November 2016.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">EU law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 2(1)(c) of the VAT Directive, ‘the supply of services for consideration within the territory of a Member State by a taxable person acting as such’ is to be subject to VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 9(1) of that directive provides:</p>
+<p class="coj-normal">‘1.   “Taxable person” shall mean any person who, independently, carries out in any place any economic activity, whatever the purpose or results of that activity.</p>
+<p class="coj-normal">Any activity of producers, traders or persons supplying services, including mining and agricultural activities and activities of the professions, shall be regarded as “economic activity”. The exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis shall in particular be regarded as an economic activity.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 24 of the VAT Directive provides:</p>
+<p class="coj-normal">‘1.   “Supply of services” shall mean any transaction which does not constitute a supply of goods.</p>
+<p class="coj-normal">2.   “Telecommunications services” shall mean services relating to the transmission, emission or reception of signals, words, images and sounds or information of any nature by wire, radio, optical or other electromagnetic systems, including the related transfer or assignment of the right to use capacity for such transmission, emission or reception, with the inclusion of the provision of access to global information networks.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 64(1) of that directive provides:</p>
+<p class="coj-normal">‘Where it gives rise to successive statements of account or successive payments, the supply of goods … or the supply of services shall be regarded as being completed on expiry of the periods to which such statements of account or payments relate.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 72 of the VAT Directive is worded is follows:</p>
+<p class="coj-normal">‘For the purposes of this Directive, “open market value” shall mean the full amount that, in order to obtain the goods or services in question at that time, a customer at the same marketing stage at which the supply of goods or services takes place, would have to pay, under conditions of fair competition, to a supplier at arm’s length within the territory of the Member State in which the supply is subject to tax.</p>
+<p class="coj-normal">Where no comparable supply of goods or services can be ascertained, “open market value” shall mean the following:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">in respect of goods, an amount that is not less than the purchase price of the goods or of similar goods or, in the absence of a purchase price, the cost price, determined at the time of supply;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">in respect of services, an amount that is not less than the full cost to the taxable person of providing the service.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 73 of that directive provides:</p>
+<p class="coj-normal">‘In respect of the supply of goods or services, other than as referred to in Articles 74 to 77, the taxable amount shall include everything which constitutes consideration obtained or to be obtained by the supplier, in return for the supply, from the customer or a third party, including subsidies directly linked to the price of the supply.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Portuguese law</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">VAT Code</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 1(1)(a) of the Código do Imposto sobre o Valor Acrescentado (Value Added Tax Code; ‘the VAT Code’), the supply of goods and the supply of services for consideration within the national territory by a taxable person acting as such are to be subject to value added tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 4(1) of the VAT Code provides that transactions effected for consideration which do not qualify as a supply, intra-Community purchase or importation of goods must be treated as a supply of services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 16(6)(a) of the VAT Code provides:</p>
+<p class="coj-normal">‘The following shall be excluded from the basis of assessment referred to in the previous paragraph:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">interest due on the deferred payment of consideration and amounts received, pursuant to a judicial decision, as damages for the total or partial failure to discharge obligations’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">The Law on electronic communications</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Lei n.<span class="coj-super">o</span> 5/2004, das comunicações electrónicas (Law No 5/2004 on electronic communications), of 10 February 2004 (<span class="coj-italic">Diário da República I</span>, Series I‑A, No 34, of 10 February 2004), as amended by Lei n.<span class="coj-super">o</span> 15/2016 (Law No 15/2016), of 17 June 2016 (<span class="coj-italic">Diário da República</span>, 1st Series, No 115, of 17 June 2016) (‘the Law on electronic communications’), provides in Article 47(1) and (2)(c):</p>
+<p class="coj-normal">‘1.   Undertakings which supply public communications networks, or publicly accessible electronic communications services, shall be required to make available to the public, and to any person who expresses the intention to enter into a contract for services provided by them, adequate, transparent, comparable and updated information on standard terms and conditions, in respect of access to, and use of, the services which the undertakings provide to end-users and consumers, setting out in detail their prices and other charges, including those, if any, relating to contract termination.</p>
+<p class="coj-normal">2.   For the purposes of the application of the previous paragraph, those undertakings must publish … the following information, which must also be provided in advance to any person who intends to enter into a contract for services with them:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">normal prices, specifying the amounts payable for each of the services provided and the content of each price component, including in particular:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(i)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">activation charges and charges for access, use and maintenance;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(ii)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">detailed information on the normal discounts applied and the special or specific tariff regimes, and any additional charges;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(iii)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">costs of terminal equipment hired or purchased by the customer;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(iv)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">contract termination charges, including the return of equipment or penalties for early termination at the subscriber’s request’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 48 of the Law on electronic communications provides:</p>
+<p class="coj-normal">‘1.   Without prejudice to the legislation applicable to consumer protection, the supply of public communications networks and the supply of publicly accessible electronic communications services must be covered by a contract in which the following information must be set out clearly, exhaustively and in an easily accessible manner:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(g)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the term of the contract and the conditions governing renewal, suspension and termination of the services and of the contract;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<p class="coj-normal">2.   Information relating to the term of the contract, including conditions governing its renewal and termination, must be clear, intelligible, appear on a durable medium and include the following particulars:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">any tie-in period which depends on the provision to the consumer of any kind of identified and quantified benefit related to terminal-equipment subsidies, installation and activation of the service or other promotions;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">any charges incurred as a result of the portability of numbers and other identifiers;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">any charges incurred as a result of the early termination of the contract during the tie-in period at the subscriber’s request, particularly for the purpose of recovering costs associated with terminal-equipment subsidies, installation and activation of the service or other promotions.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<p class="coj-normal">4.   Undertakings supplying electronic communications networks and/or electronic communications services may not oppose the termination of a contract at the subscriber’s request, on the ground that there is a tie-in period, nor may they require the payment of any charges on account of a breach of a tie-in period if they do not have proof of the expression of the consumer’s intention, referred to in the previous paragraph.</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">11.   During the tie-in period, charges which the subscriber will be required to bear in the event of termination of the contract at the subscriber’s own request shall not exceed the costs which the supplier has incurred as a result of installation of the service; the levying of payments by way of damages or compensation shall be prohibited.</p>
+<p class="coj-normal">12.   Charges resulting from early termination of a contract subject to a tie-in period at the subscriber’s request must be proportionate to the benefit granted to the subscriber, which is identified and quantified in the contract, and may not automatically reflect the total value of the instalments outstanding on the date of termination.</p>
+<p class="coj-normal">13.   For the purposes of the previous paragraph, where terminal equipment has been subsidised, the charges must be calculated in accordance with the applicable legislation and, in other cases, those charges may not exceed the value of the benefit granted which, in proportion to the agreed term of the contract, the undertaking providing the service still has to recover on the date on which the early termination takes effect.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 52‑A of the Law on electronic communications, entitled ‘Suspension and termination of the service provided to subscribers who are deemed to be consumers’, provides:</p>
+<p class="coj-normal">‘1.   Where services are provided to subscribers who are deemed to be consumers, in the event of non-payment of the amounts indicated on the invoice, undertakings supplying public communications networks or publicly accessible electronic communications services must send a formal demand to the consumer allowing him or her an additional period of 30 days to make payment, failing which the service will be suspended and the contract will possibly be terminated automatically, in accordance with paragraphs 3 and 7, respectively.</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">3.   Within 10 days of the expiry of the additional period provided for in paragraph 1, undertakings supplying public communications networks or publicly accessible electronic communications services must suspend the service for a period of 30 days where, upon expiry of the abovementioned time limit, the consumer has not made payment or has not concluded in writing with the undertaking a payment agreement for settlement of the amounts due.</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">7.   The contract shall be terminated automatically upon conclusion of the 30-day suspension period if the consumer has not settled in full the amounts due or concluded a written payment agreement.</p>
+<p class="coj-normal">8.   Termination of the contract as referred to in the previous paragraph shall be deemed to be without prejudice to the collection of a payment by way of damages or compensation for the termination of the contract during the tie-in period, in accordance with and subject to the limits set out in Decreto-Lei n.<span class="coj-super">o</span> 56/2010 [(Decree-Law No 56/2010), of 1 June 2010 (<span class="coj-italic">Diário da República</span>, 1st Series, No 106, of 1 June 2010)].</p>
+<p class="coj-normal">9.   Where the consumer has received advance written notice within the period stipulated in Article 52(5), non-payment of any sum agreed in a payment agreement must result in the termination of the contract and the stipulations of the previous paragraph shall apply.</p>
+<p class="coj-normal">10.   Failure by an undertaking supplying public communications networks or publicly accessible electronic communications services to comply with this article, in particular by continuing to provide the service contrary to paragraph 3 or by issuing an invoice after the time when it should have suspended the service, shall result in the non-liability of the consumer to pay the consideration due for the service provided and the obligation [of the undertaking] to defray the procedural costs incurred in collecting the debt.</p>
+<p class="coj-normal">11.   The previous paragraph shall not apply to invoices issued after suspension of the service which relate to services actually provided before the suspension or to statutory payments provided for in the event of early termination of the contract.</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Decree-Law No 56/2010</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 1 of Decree-Law No 56/2010:</p>
+<p class="coj-normal">‘The present Decree-Law establishes the limits for the amounts that may be received for the unblocking of equipment for accessing electronic communications services and for the termination of a contract during the tie-in period, guaranteeing the rights of users to electronic communications and promoting increased competition in that sector.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 2(2) and (3) of that Decree-Law provides as follows:</p>
+<p class="coj-normal">‘2.   As regards the termination of the contract or the unblocking of equipment, no amount shall be received, during the tie-in period, which exceeds the following:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">100% of the value of the equipment as at the date of its acquisition or possession, without any discount, reduction or subsidy, during the first six months of the tie-in period, with deduction in respect of the amount already paid by the subscriber and any claim of the consumer against the mobile communications operator;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">80% of the value of the equipment as at the date of its acquisition or possession, without any discount, reduction or subsidy, after the first six months of the tie-in period, with deduction in respect of the amount already paid by the subscriber and any claim of the consumer against the mobile communications operator;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">50% of the value of the equipment as at the date of its acquisition or possession, without any discount, reduction or subsidy, during the final year of the tie-in period, with deduction in respect of the amount already paid by the subscriber and any claim of the consumer against the mobile communications operator.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">3.   No amounts in excess of those referred to in the preceding paragraph may be received, by way of damages or compensation, for the termination of the contract during the tie-in period.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The object of Vodafone, a company established in Lisbon (Portugal), is the supply of electronic communications services, fixed telephony and wireless internet access.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the context of its business activities, Vodafone concludes with its customers services contracts, some of which include special promotions subject to conditions which tie those customers in for a predetermined minimum period (‘the tie-in period’). Under those terms and conditions, customers commit to maintaining a contractual relationship with Vodafone and to using the goods and services supplied by that company for the tie-in period, in exchange for benefiting from advantageous commercial conditions, usually related to the price payable for the contracted services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The tie-in period may vary according to those services, and its purpose is to enable Vodafone to recover some of its investment on equipment and infrastructure, and on other costs, such as the costs related to service activation and the award of special benefits to customers. Failure by customers to comply with the tie-in period for reasons attributable to themselves results in them paying the amounts provided for in the contracts. Those amounts seek to deter such customers from failing to comply with the tie-in period.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Following the amendment introduced by Law No 15/2016, Vodafone has, since August 2016, in accordance with Article 48 of the Law on electronic communications, calculated the amount payable by customers in the event of their non-compliance with the tie-in period, on the basis of the calculation of the benefits granted to those customers under the contracts concluded with them and for which, on the date of termination of those contracts, Vodafone had still not been compensated. Under national law, the amount to be paid in cases of non-compliance with the tie-in period is to be calculated, in proportion to the completed part of the tie-in period, on the basis of the benefits granted to the customer under the contract, which are identified and quantified therein. That amount may not exceed the costs incurred by Vodafone for the purposes of installing the service.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards November 2016, Vodafone self-assessed VAT on the basis of the amounts received in respect of non-compliance with the tie-in period (‘the amounts at issue in the main proceedings’). On 13 October 2017, it then filed an administrative appeal challenging that VAT self-assessment, because it considered that the amounts at issue in the main proceedings were not subject to VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since that administrative appeal was dismissed by the tax and customs authority by a decision of 8 January 2018, Vodafone then brought an action before the referring court, the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa) (Tax Arbitration Tribunal (Centre for Administrative Arbitration), Portugal), requesting that the VAT self-assessment in respect of the amounts at issue in the main proceedings for the month of November 2016 be declared unlawful.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The proceedings before that court were stayed pending the conclusion of the case giving rise to the judgment of 22 November 2018, MEO — Serviços de Comunicações e Multimédia (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑295/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:942</a>), and were resumed on 28 November 2018.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa) (Tax Arbitration Tribunal (Centre for Administrative Arbitration)) states, first of all, that the early termination of contracts represents financial damage for Vodafone, which is clearly apparent where the contract is terminated at the beginning of the performance of that contract and where Vodafone has granted its customer promotional benefits. According to the referring court, the existence of damage to that operator must be presumed. It follows also from Article 48(2)(c) and Article 52‑A(8) of the Law on electronic communications that the termination of the contract during the tie-in period justifies an amount by way of compensation, in order to ‘recover the costs associated with the terminal subsidies, the installation and activation of the service or other promotional conditions’. The referring court presumes, therefore, that Vodafone incurs those costs and that the amounts at issue in the main proceedings are intended to recover them.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Next, the referring court considers that it is established that the tie-in period, as a prerequisite for a customer to access advantageous commercial conditions, is essential in order to enable Vodafone to recover part of its investment linked to its global infrastructure (networks, equipment and installations), the acquisition of customers (commercial and marketing campaigns and the payment of commission to associated undertakings), the activation of the contracted service, the award of benefits by way of discounts or free services and costs necessary to the installation and purchase of equipment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Lastly, as regards the need to make the reference for a preliminary ruling, having regard to the judgment of 22 November 2018, MEO — Serviços de Comunicações e Multimédia (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑295/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:942</a>), the referring court states, first, that the amounts at issue in the main proceedings and those at issue in the case giving rise to that judgment are calculated differently.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Secondly, in the judgment of 22 November 2018, MEO — Serviços de Comunicações e Multimédia (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑295/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:942</a>), the Court seems to have attached importance to the fact that, in that case, the amount paid in respect of the failure to comply with the tie-in period corresponded to the amount which the operator concerned would have received during the remainder of that period had the contract not been terminated. Consequently, the referring court considered it necessary to make a request for a preliminary ruling to the Court in order to determine whether the fact that the amounts at issue in the main proceedings do not correspond to the amounts which would have been paid during the remainder of the tie-in period had the contract not been terminated is relevant to determining whether the amounts at issue in the main proceedings constitute the remuneration for a supply of services for consideration subject to VAT, within the meaning of Article 2(1)(c) of the VAT Directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa) (Tax Arbitration Tribunal (Centre for Administrative Arbitration)) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Must Articles 2(1)(c), 9, 24, 72 and 73 of [the VAT Directive] be construed as meaning that the levying by an electronic communications operator on its former customers (to whom it granted promotional benefits in the form of free-of-charge installation, service activation, portability or equipment, or the application of special rates, in exchange for a commitment by customers to observe a tie-in period, which those customers have not fulfilled for reasons attributable to themselves) of an amount which, as required by law, must not exceed the costs incurred by the supplier undertaking for the installation of the service and must be proportionate to the benefit granted to the customer, that benefit being identified and quantified as such in the contract concluded, and therefore may not automatically reflect the total value of the instalments outstanding on the date of termination, constitutes a supply of services liable to VAT?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the provisions cited above, does the fact that the amounts concerned are payable following termination of the contract, when the operator no longer supplies services to the customer, and the fact that no specific act of consumption has occurred since the contract was terminated, preclude the classification of such amounts as consideration for the supply of services?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(3)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the provisions cited above, is it impossible for the amount concerned to be treated as consideration for the supply of services because the operator and its former customers specified in advance, as required by law, in a standard-form contract, the formula for calculating the amount which former customers must pay if they fail to comply with the tie-in period provided for in the services contract?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(4)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the provisions cited above, is it impossible for the amount concerned to be treated as consideration for the supply of services when the amount at issue does not reflect the amount which the operator would have received during the remainder of the tie-in period if the contract had not been terminated?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its questions, which must be examined together, the referring court asks, in essence, whether Article 2(1)(c) of the VAT Directive must be interpreted as meaning that amounts received by an economic operator in the event of early termination, for reasons specific to the customer, of a services contract requiring compliance with a tie-in period in exchange for granting that customer advantageous commercial conditions, must be considered to constitute the remuneration for a supply of services for consideration, within the meaning of that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it must be borne in mind that, in accordance with Article 2(1)(c) of the VAT Directive, which defines the scope of VAT, the supply of services for consideration within the territory of a Member State by a taxable person acting as such are to be subject to VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">A supply of services is carried out ‘for consideration’, within the meaning of that provision, only if there is a legal relationship between the provider of the service and the recipient pursuant to which there is reciprocal performance, the remuneration received by the provider of the service constituting the actual consideration for an identifiable service supplied to the recipient. That is the case if there is a direct link between the service supplied and the consideration received (judgment of 22 November 2018, MEO — Serviços de Comunicações e Multimédia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑295/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:942</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the direct link between the service supplied to the recipient and the consideration actually received, the Court has held that the consideration for the price paid at the time of the signing of a contract for the supply of a service is formed by the right derived by the customer to benefit from the fulfilment of the obligations arising from that contract, irrespective of whether the customer uses that right. Thus, that supply is made by the supplier of services when it places the customer in a position to benefit from the supply, so that the existence of the abovementioned direct link is not affected by the fact that the customer does not avail himself or herself of that right (see, to that effect, judgment of 22 November 2018, MEO — Serviços de Comunicações e Multimédia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑295/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:942</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, the Court has held that a predetermined amount received by an economic operator where a contract for the supply of services with a minimum commitment period is terminated early by its customer, or for a reason attributable to the customer, which corresponds to the sum that the operator would have received for the remainder of that period in the absence of such termination, must be regarded as the remuneration for a supply of services for consideration and subject, as such, to VAT, even though that termination entails the deactivation of the goods and services referred to in that contract before the expiry of the agreed minimum commitment period (see, to that effect, judgments of 22 November 2018, MEO — Serviços de Comunicações e Multimédia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑295/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:942</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">12</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">57</a>, and of 3 July 2019, UniCredit Leasing, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A558&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑242/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A558" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:558</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A558" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">70</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, it must be pointed out that, according to the information provided by the referring court, the amounts at issue in the main proceedings are calculated according to a contractually defined formula, in compliance with the conditions laid down under national law. It is apparent from that information that those amounts cannot exceed the costs incurred by the service provider in the context of the operation of those services and must be proportionate to the benefit granted to the customer, that benefit having been identified and quantified as such in the contract concluded with that provider. Accordingly, those amounts do not automatically reflect either the total value of the instalments outstanding on the date of termination of the contract or the amounts which the service provider would have received during the remainder of the tie-in period in the absence of such termination.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First, it must be found that, in the circumstances set out in the preceding paragraph, the consideration for the amount paid by the customer to Vodafone is constituted by the customer’s right to benefit from the fulfilment, by Vodafone, of the obligations under the services contract, even if the customer does not wish to avail himself or herself or cannot avail himself or herself of that right for a reason attributable to him or her (see, by analogy, judgment of 22 November 2018, MEO — Serviços de Comunicações e Multimédia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑295/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:942</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, Vodafone places the customer in a position to benefit from the supply of services, within the meaning of the case-law cited in paragraph 32 above, and the cessation of that supply is not attributable to it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On the one hand, Vodafone commits to providing to its customers the supplies of services agreed in the contracts concluded with them and under the conditions stipulated in those contracts. On the other hand, its customers commit to paying the monthly instalments provided for under those contracts and also, if necessary, the amounts due where those contracts were terminated before the end of the tie-in period for reasons specific to those customers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that context, as the referring court makes clear, those amounts reflect the recovery of some of the costs associated with the supply of the services which that operator has provided to those customers and which the latter committed to reimbursing in the event of such a termination.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, those amounts must be considered to represent part of the cost of the service which the provider committed to supplying to its customers, that part having being reabsorbed within the monthly instalments, where the tie-in period is not complied with by those customers. In those circumstances, the purpose of those amounts is analogous to that of the monthly instalments which would, in principle, have been payable if the customers had not benefited from the commercial benefits conditional upon compliance with the tie-in period.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It must, therefore, be held that, from the perspective of economic reality, which constitutes a fundamental criterion for the application of the common system of VAT, the amount due upon the early termination of the contract seeks to guarantee the operator a minimum contractual remuneration for the service provided (see, to that effect, judgment of 22 November 2018, MEO — Serviços de Comunicações e Multimédia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑295/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:942</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">61</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, as the Portuguese Government, Ireland and the European Commission contend in their observations, where those customers do not comply with that tie-in period, the supply of services must be regarded as having been made, since those customers are placed in a position to benefit from those services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the amounts at issue in the main proceedings must be considered to form part of the remuneration received by the operator for those services. In that respect, it is irrelevant that, unlike the amounts that were at issue in the case giving rise to the judgment of 22 November 2018, MEO — Serviços de Comunicações e Multimédia (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑295/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A942" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:942</a>), the amounts at issue in the main proceedings do not enable Vodafone to obtain the same income as that which would have been received if the customer had not terminated the contract early.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Secondly, as regards the condition laid down in the case-law considered in paragraph 31 above, according to which sums paid must constitute the actual consideration for an identifiable service, it must be found that both the service to be provided and the consideration for the right to benefit from that service are determined when the contract is concluded between Vodafone and its customers. In particular, it is apparent from the information provided by the referring court that the consideration for the service is determined according to well-established criteria, which define both the monthly instalments and the way in which the amount for early termination must be calculated.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The consideration paid by the customer is, therefore, neither voluntary and uncertain (see, to that effect, judgment of 3 March 1994, Tolsma, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1994%3A80&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑16/93</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1994%3A80" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1994:80</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A1994%3A80" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">19</a>), nor difficult to quantify and uncertain (see, to that effect, judgment of 10 November 2016, Baštová, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A855&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑432/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A855" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:855</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A855" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Contrary to Vodafone’s claims, nor is that amount comparable to a statutory payment, within the meaning of the judgment of 8 March 1988, Apple and Pear Development Council (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1988%3A120&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">102/86</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A1988%3A120" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1988:120</a>), or intended to compensate the operator following the termination of the contract by the client, within the meaning of the judgment of 18 July 2007, Société thermale d’Eugénie-Les-Bains (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A440&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑277/05</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A440" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2007:440</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the first place, although the calculation of that amount is encompassed by a legislative and regulatory framework, it is, however, not in dispute that the payment of the amount in question is made in the context of a legal relationship characterised by reciprocal performance between the services provider and its customer and that, in that framework, that payment constitutes a contractual obligation for the customer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the second place, as regards Vodafone’s argument that the amount payable by virtue of the non-compliance with the tie-in period is similar to a payment intended to compensate for the damage sustained by it, first, it must be found that that argument runs counter to the actual position of the national law at issue in the main proceedings, in so far as, under that law, subject to verification by the referring court in that regard, an operator is not able to charge to its customer sums by way of compensation or indemnification, in the event that the contract is terminated early.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Secondly, nor can that argument succeed in the light of the economic reality of the transactions at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the context of an economic approach, an operator determines the price for its service and monthly instalments, having regard to the costs of that service and the minimum contractual commitment period. As found in paragraph 39 above, the amount payable in the event of early termination must be considered an integral part of the price which the customer committed to paying for the provider to fulfil its contractual obligations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of all the foregoing considerations, the answer to the questions referred for a preliminary ruling is that Article 2(1)(c) of the VAT Directive must be interpreted as meaning that amounts received by an economic operator in the event of early termination, for reasons specific to the customer, of a services contract requiring compliance with a tie-in period in exchange for granting that customer advantageous commercial conditions, must be considered to constitute the remuneration for a supply of services for consideration, within the meaning of that provision.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Ninth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="coj-normal">
+<span class="coj-bold">Article 2(1)(c) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that amounts received by an economic operator in the event of early termination, for reasons specific to the customer, of a services contract requiring compliance with a tie-in period in exchange for granting that customer advantageous commercial conditions, must be considered to constitute the remuneration for a supply of services for consideration, within the meaning of that provision.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62019CJ0043_EN_01-E0001" id="t-ECR_62019CJ0043_EN_01-E0001">*1</a>
+</span>)	Language of the case: Portuguese.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

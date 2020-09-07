@@ -1,0 +1,1334 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="sum-title-1">16 October 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0004_EN_01-E0001" id="c-ECR_62018CJ0004_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Taxation — Common system of value added tax (VAT) — Directive 2006/112/EC — Article 132(1)(a) — Exemptions for certain activities in the public interest — Public postal services — Directive 97/67/EC — Universal postal service provider — Private operator providing the service of formally serving court or administrative authority documents)</p>
+<p class="normal">In Joined Cases C‑4/18 and C‑5/18,</p>
+<p class="normal">REQUESTS for a preliminary ruling under Article 267 TFEU from the Bundesfinanzhof (Federal Finance Court, Germany), made by decisions of 31 May 2017, received at the Court on 3 January 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Michael Winterhoff</span>, acting as liquidator of DIREKTexpress Holding AG,</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Finanzamt Ulm</span> (C‑4/18),</p>
+<p class="normal">and</p>
+<p class="normal">
+<span class="bold">Jochen Eisenbeis</span>, acting as liquidator of JUREX GmbH,</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Bundeszentralamt für Steuern</span> (C‑5/18),</p>
+<p class="normal">THE COURT (Fifth Chamber),</p>
+<p class="normal">composed of E. Regan (Rapporteur), President of the Chamber, I Jarukaitis, E. Juhász, M. Ilešič and C. Lycourgos, Judges,</p>
+<p class="normal">Advocate General: H. Saugmandsgaard Øe,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Mr Winterhoff, acting as liquidator of DIREKTexpress Holding AG, and Mr Eisenbeis, acting as liquidator of JUREX GmbH, by Mr C. Hahn, Steuerberater,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the German Government, T. Henze and R. Kanitz, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Finnish Government, by H. Leppo, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by W. Mölls and by L. Lozano Palacios and L. Nicolae, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">These requests for a preliminary ruling concern the interpretation of Article 2(13) and Article 3(4) of Directive 97/67/EC of the European Parliament and of the Council of 15 December 1997 on common rules for the development of the internal market of Community postal services and the improvement of quality of service (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1998:015:TOC" hreflang="en" target="CourtTab">OJ 1998 L 15, p. 14</a>), as amended by Directive 2008/6/EC of the European Parliament and of the Council of 20 February 2008 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:052:TOC" hreflang="en" target="CourtTab">OJ 2008 L 52, p. 3</a>, and corrigendum <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2015:225:TOC" hreflang="en" target="CourtTab">OJ 2015 L 225, p. 49</a>) (‘Directive 97/67’), and Article 132(1)(a) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" target="CourtTab">OJ 2006 L 347, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The requests have been made in two sets of proceedings, the first between Mr Michael Winterhoff, in his capacity as liquidator of DIREKTexpress Holding AG, and the Finanzamt Ulm (Ulm Tax Office, Germany) (Case C‑4/18) and the second between Mr Jochen Eisenbeis, in his capacity as liquidator of JUREX GmbH, and the Bundeszentralamt für Steuern (Federal Tax Office, Germany) (Case C‑5/18), concerning the refusal to exempt from value added tax (VAT) the formal service of documents effected by these companies for courts and administrative authorities.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">EU law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Directive 97/67</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 2 of Directive 97/67, which falls under Chapter 1 of that directive, entitled ‘Objective and scope’, sets out the following definitions:</p>
+<p class="normal">‘For the purpose of this Directive, the following definitions shall apply:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1.</p>
+</td>
+<td valign="top">
+<p class="normal">postal services: services involving the clearance, sorting, transport and distribution of postal items;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1a.</p>
+</td>
+<td valign="top">
+<p class="normal">postal service provider: undertaking that provides one or more postal services;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4.</p>
+</td>
+<td valign="top">
+<p class="normal">clearance: the operation of collecting postal items by a postal service provider;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">5.</p>
+</td>
+<td valign="top">
+<p class="normal">distribution: the process from sorting at the distribution centre to delivery of postal items to their addressees;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">6.</p>
+</td>
+<td valign="top">
+<p class="normal">postal item: an item addressed in the final form in which it is to be carried by a postal service provider. In addition to items of correspondence, such items also include for instance books, catalogues, newspapers, periodicals and postal parcels containing merchandise with or without commercial value;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">9.</p>
+</td>
+<td valign="top">
+<p class="normal">registered item: a service providing a flat-rate guarantee against risks of loss, theft or damage and supplying the sender, where appropriate upon request, with proof of the handing in of the postal item and/or of its delivery to the addressee;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">13.</p>
+</td>
+<td valign="top">
+<p class="normal">universal service provider: the public or private postal service provider providing a universal postal service or parts thereof within a Member State, the identity of which has been notified to the Commission in accordance with Article 4;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">17.</p>
+</td>
+<td valign="top">
+<p class="normal">user: any natural or legal person benefiting from postal service provision as a sender or an addressee;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Chapter 2 of this Directive, entitled ‘Universal service’, contains Articles 3 to 6 of that directive. Article 3 is worded as follows:</p>
+<p class="normal">‘1.   Member States shall ensure that users enjoy the right to a universal service involving the permanent provision of a postal service of specified quality at all points in their territory at affordable prices for all users.</p>
+<p class="normal">…</p>
+<p class="normal">4.   Each Member State shall adopt the measures necessary to ensure that the universal service includes the following minimum facilities:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the clearance, sorting, transport and distribution of postal items up to two kilograms;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the clearance, sorting, transport and distribution of postal packages up to 10 kilograms;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">services for registered items and insured items.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">7.   The universal service as defined in this Article shall cover both national and cross-border services.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">As provided for in Article 4 of that directive:</p>
+<p class="normal">‘1.   Each Member State shall ensure that the provision of the universal service is guaranteed and shall notify the Commission of the steps it has taken to fulfil this obligation. The Committee referred to in Article 21 shall be informed of the measures established by Member States to ensure the provision of the universal service.</p>
+<p class="normal">2.   Member States may designate one or more undertakings as universal service providers in order that the whole of the national territory can be covered. Member States may designate different undertakings to provide different elements of universal service and/or to cover different parts of the national territory. …</p>
+<p class="normal">Member States shall notify the Commission of the identity of the universal service provider(s) they designate. …’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Directive 2006/112</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 131 of Directive 2006/112, which is contained in Chapter 1, entitled ‘General provisions’, of Title IX of Directive 2006/112, itself entitled ‘Exemptions’, provides as follows:</p>
+<p class="normal">‘The exemptions provided for in Chapters 2 to 9 shall apply without prejudice to other [provisions of EU law] and in accordance with conditions which the Member States shall lay down for the purposes of ensuring the correct and straightforward application of those exemptions and of preventing any possible evasion, avoidance or abuse.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Chapter 2, entitled ‘Exemptions for certain activities in the public interest’, of the same Title IX includes Article 132 of that directive, which provides in paragraph 1:</p>
+<p class="normal">‘Member States shall exempt the following transactions:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the supply by the public postal services of services other than passenger transport and telecommunications services, and the supply of goods incidental thereto;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">German law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">The UStG</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Among the transactions falling within the scope of Paragraph 1(1)(1) of the Umsatzsteuergesetz (Law on Turnover Tax, the ‘UStG’), in the version applicable to the main proceedings in Case C‑4/18, under Paragraph 4(11b) of that law, ‘transactions performed by Deutsche Post AG in direct connection with the postal service’ were exempt.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">In the version of the UStG applicable in the main proceedings in Case C‑5/18, namely that in force from 1 July 2010, the following transactions were exempt under Paragraph 4(11b) of that law:</p>
+<p class="normal">‘Universal services as provided for in Article 3(4) of [Directive 97/67]. Exemption presupposes that the undertaking has made to the [Federal Central Tax Office] a commitment, attested by a certificate issued by that authority, to offer a full universal postal service or parts thereof, within the meaning of the first sentence, at all points throughout the territory of the Federal Republic of Germany.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">The law on postal services</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 11 of the Postgesetz (Law on Postal Services of 22 December 1997, BGB1. 1997 I, p. 3294), in the version applicable to the main proceedings, entitled ‘Concept and scope of the universal service’, provides:</p>
+<p class="normal">‘1.   Universal services are a minimum range of postal services within the meaning of Paragraph 4(1) which are provided to a specified level of quality at all points within the national territory at an affordable price. The universal service shall be restricted to postal services which are subject to licence and postal services at least parts of which are capable, from the point of view of conveyance, of being provided by way of postal services subject to licence. It shall include only those services that are generally regarded as essential.</p>
+<p class="normal">2.   The Federal Government is empowered, by regulation requiring the consent of the [Bundestag (the Federal Parliament)] and the [Bundesrat (the Federal Council)], to determine the content and scope of the universal service, in accordance with the provisions of subparagraph 1 …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 33(1) of that law, entitled ‘Obligation to effect a formal service of documents’, is worded as follows:</p>
+<p class="normal">‘A licensee providing services consisting in the service of items of correspondence shall be obliged to effect the formal service of documents, irrespective of their weight, in accordance with the provisions of the rules of court procedure and of the laws governing service in administrative procedures. Within the limits of that obligation, the licensee exercises powers of public authority (undertaking entrusted with tasks of public authority).’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">As provided in paragraph 34 of that law, entitled ‘Fee for the formal service of documents’:</p>
+<p class="normal">‘Licensees subject to the aforementioned obligation shall be entitled to charge a fee. This shall cover all the services provided by the licensee, including official recording and the return of the recording documentation to the commissioning authority. The fee shall comply with the criteria laid down in Paragraph 20(1) and (2) [hereof]. Authorisation by the regulatory authority shall be required. …’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">The Universal Postal Service Regulation</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 1 of the Post-Universaldienstleistungsverordnung (Universal Postal Service Regulation) of 15 December 1999 (BGB1. 1999 I, p. 2418), in the version applicable in the main proceedings, provides:</p>
+<p class="normal">‘1.   The following postal services shall be classified as “universal services”:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(1)</p>
+</td>
+<td valign="top">
+<p class="normal">the conveyance of items of correspondence within the meaning of Paragraph 4(2) of the Law on Postal Services, provided that they do not weigh more than 2000 grams and their dimensions do not exceed those specified in the Universal Postal Convention and the regulations implementing it;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">the conveyance of addressed parcels the individual weight of which does not exceed 20 kilograms and the dimensions of which do not exceed those specified in the Universal Postal Convention and the regulations implementing it;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">the conveyance of newspapers and periodicals within the meaning of Paragraph 4, point 1(c), of the Law on Postal Services. …</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   Mail conveyance shall also include delivery of the following items:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(1)</p>
+</td>
+<td valign="top">
+<p class="normal">registered items (items of correspondence for which a flat-rate guarantee against risks of loss, theft or damage is provided and for which proof of delivery to the addressee is supplied);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">insured items (items of correspondence the contents of which are insured up to the value declared by the sender in the event of loss, theft or damage);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">cash-on-delivery items (items of correspondence which are delivered to the addressee only on collection of a certain sum of money);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">urgent delivery items (items of correspondence which are delivered by special courier as soon as possible following arrival at a delivery facility).’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">The Code of Civil Procedure</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraph 176(1) of the Zivilprozessordnung (Code of Civil Procedure), concerning the formal service of documents, provides:</p>
+<p class="normal">‘If the postal service, a member of the judicial service or a court-appointed enforcement officer is commissioned to serve documents, or should another authority be requested to effect service, the court registry shall hand over the document to be served in a sealed envelope along with a pre-completed notice of delivery. …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">As set out in paragraph 182 of that code, which also concerns formal service of documents:</p>
+<p class="normal">‘1.   As proof of service […] a notice shall be drawn up on the form made available for that purpose. …</p>
+<p class="normal">3.   The notice of delivery shall be returned to the court registry, without undue delay, in original hard copy or electronically.’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The disputes in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Case C‑4/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Mr Winterhoff is the liquidator of DIREKTexpress Holding, against which insolvency proceedings were opened by judgment of the Amtsgericht Ulm (District Court of Ulm, Germany) of 6 July 2011, which also appointed Mr Winterhoff to that position. That company is the ultimate parent company of a group that provided postal services through subsidiaries located throughout Germany. In 2008 and 2009, the group’s business consisted mainly of carrying out commissions for the formal service of documents, pursuant to the provisions of German public law, which were treated as transactions exempt from VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Following a tax audit covering the period from August 2008 to May 2009, the Ulm Tax Office took the view that such transactions for the formal service of documents should be subject to VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">DIREKTexpress Holding initially lodged a complaint against that decision and secondly, after rejection of that complaint, an action before the Finanzgericht Baden-Württemberg (Finance Court, Baden-Württemberg, Germany). During the procedure, the Ulm Tax Office, the defendant before that court, issued turnover tax notices for the years 2008 and 2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Also in the course of that procedure, insolvency proceedings were opened against DIREKTexpress Holding and Mr Winterhoff was appointed as its liquidator. On that basis, he took over the on-going procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">The Finanzgericht Baden-Württemberg (Finance Court, Baden-Württemberg) dismissed the action brought before it by DIREKTexpress Holding on the ground that the formal service of documents could not qualify for the exemption requested. In particular, that court held that, first, the conditions laid down in Article 4(11b) of the UStG were not satisfied, since only transactions performed by Deutsche Post in direct connection with the postal service were exempt from VAT and secondly, Article 132(1)(a) of Directive 2006/112 could not be directly relied on since transactions for the formal service of documents do not fall within the scope of the universal service within the meaning of that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Mr Winterhoff brought an appeal on a point of law against that decision before the referring court, the Bundesfinanzhof (Federal Finance Court, Germany).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court raises the question, in the first place, of whether an undertaking whose business consists essentially in the formal service of court or administrative authority documents, may be considered to be a universal service provider within the meaning of Article 2(13) of Directive 97/67. In particular, that court raises the issue of whether it is possible to place these activities on the same footing as the specific case of postal items or postal packages provided for in Article 3(4) of Directive 97/67 or on the same footing as a registered item, also referred to in that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, the referring court has doubts whether a company such as DIREKTexpress Holding can be considered to be providing services effected by the ‘public postal services’ within the meaning of Article 132(1)(a) of Directive 2006/112, such that the service of formally serving documents provided by it should have been exempt from VAT in accordance with that provision. In its view, the fact that, inter alia, such formal service of documents contributes to the proper administration of justice and, on that basis, is in the public interest, favours that interpretation. Conversely, it continues that since an individual cannot request formal service of a document, so a transaction cannot, in its view, be regarded as part of a service available to ‘all users’, within the meaning of Article 3(1) of Directive 97/67.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Bundesfinanzhof (Federal Finance Court) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="normal">‘Is an undertaking which effects the formal service of documents pursuant to provisions of public law a ‘universal service provider’, within the meaning of Article 2(13) of Directive 97/67 […] providing a universal postal service in whole or in part, and is such service exempt from tax under Article 132(1)(a) of Directive [2006/112]?’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Case C‑5/18</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Mr Eisenbeis is the liquidator of JUREX, against which insolvency proceedings were opened by decision of 1 July 2011, which also appointed Mr Eisenbeis to that position. That company carried out, inter alia, commissions for the formal service of documents in the territory of Germany.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">During 2010, JUREX requested the Federal Tax Office to issue a VAT exemption certificate in relation to the service of formally serving documents. That company made a commitment to that authority to offer such formal service of documents throughout Germany, in accordance with the procedural rules and applicable laws, in accordance with the licences granted for that purpose by the Bundesnetzagentur (Federal Network Agency, Germany).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">By decision of 4 August 2010, the Federal Tax Office refused that request on the ground that the service covered by the request did not fall within the scope of the universal postal service.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Following an action by Mr Eisenbeis, the Finanzgericht Köln (Finance Court, Cologne, Germany) confirmed the refusal to exempt the services at issue from VAT on the same ground as that stated by the Federal Tax Office.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Mr Eisenbeis lodged an appeal on a point of law against that decision before the referring court, the Bundesfinanzhof (Federal Finance Court).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">On the same grounds as those stated in Case C‑4/18, the Bundesfinanzhof (Federal Finance Court) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Is the formal service of documents pursuant to provisions of public law [rules of court procedure and laws governing service in administrative procedures — Paragraph 33(1) of the Law on postal services] a universal postal service under Article 3(4) of Directive 97/67/…?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">If Question 1 is to be answered in the affirmative:</p>
+<p class="normal">Is an undertaking which effects the formal service of documents pursuant to provisions of public law a ‘universal service provider’, within the meaning of Article 2(13) of Directive 97/67/…, providing a universal postal service in whole or in part, and is such service exempt from tax under Article 132(1)(a) of Directive [2006/112]?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">By decision of the President of the Court of Justice of 1 February 2018, Cases C‑4/18 and C‑5/18 were joined for the purposes of the written and oral procedure and the judgment.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Admissibility of the references for a preliminary ruling</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">The appellants in the main proceedings dispute the admissibility of the requests for a preliminary ruling.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">In particular, they claim, first, that, in so far as the questions submitted seek to establish whether the exemption laid down in Article 132(1)(a) of Directive 2006/112 applies to transactions such as those at issue in the main proceedings, those questions are of no use in resolving the disputes in the main proceedings. They continue that since the answer is that the services in question in the main proceedings must be regarded as part of the universal service and that postal service providers such as those in the main proceedings must be regarded as universal service providers, those services should necessarily be exempt pursuant to that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Secondly, in the context of the main proceedings in Case C‑5/18, it is argued by the appellants in those proceedings that the referring court has already ruled, by an order of 15 December 2016, that the carrying out of commissions for the formal service of documents is part of the universal service which is exempt from VAT. They also claim that it follows from that order that the referring court had no doubts regarding the interpretation of those provisions of EU law which are covered by the present references for a preliminary ruling, so that it is not necessary for it to make a request to the Court for a preliminary reference under Article 267 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be recalled that, in accordance with the Court’s settled case-law, in the context of the cooperation between the Court and the national courts provided for in Article 267 TFEU, it is for solely the national court before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine in the light of the particular circumstances of the case both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions referred concern the interpretation of EU law, the Court is in principle required to give a ruling (judgment of 5 March 2019, Eesti Pagar, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑349/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:172</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point47" hreflang="en" target="CourtTab" type="application/xhtml+xml">47</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that questions relating to EU law enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of 5 March 2019, Eesti Pagar, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑349/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:172</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A172&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point48" hreflang="en" target="CourtTab" type="application/xhtml+xml">48</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, as regards the argument set out in paragraph 33 of the present judgment, it must be stated that it is apparent from the evidence before the Court that the referring court does indeed have before it disputes in which it is called upon to decide whether the activities of the formal service of documents carried out by DIREKTexpress Holding and JUREX should have benefited from a VAT exemption pursuant to Article 132(1)(a) of Directive 2006/112. In that respect, it follows from the order for reference that the referring court considers that the Court’s answer to the questions submitted is essential to resolving those disputes. In those circumstances, it appears that the Court’s answer to the questions submitted is necessary to enable the referring court to give its judgment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">So far as concerns the argument raised by the appellants in the main proceedings which is recalled in paragraph 34 of the present judgment, it is sufficient to note that the referring court states in its requests for a preliminary ruling that it has doubts regarding the answer to be given by the Court to the questions submitted. Moreover, those parties have not put forward any evidence capable of calling into question the findings made in the previous paragraph that the referring court has before it disputes the resolution of which depends on the answers which the Court will provide to the questions submitted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the references for preliminary rulings are admissible in their entirety.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Substance</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">By its questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 2(13) and Article 3 of Directive 97/67 must be interpreted as meaning that providers of services consisting in the service of items of correspondence, such as those at issue in the main proceedings, who, in their capacity as holders of a national licence permitting them to offer that service, are required to effect, in accordance with the provisions of national law, formal service of court or administrative authority documents, must be regarded as ‘universal service providers’ within the meaning of those provisions, so that such services must be exempt from VAT as services effected by the ‘public postal services’, under Article 132(1)(a) of Directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">It should be recalled, at the outset, that, in accordance with Article 132(1)(a) of Directive 2006/112, the supply by the public postal services of services and the supply of goods incidental thereto are to be exempt from VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">As the Court has previously held, although, under Article 131 of Directive 2006/112 the exemptions set out in chapters 2 to 9 of that directive apply, inter alia, in accordance with the conditions which the Member States are to lay down for the purposes of ensuring the correct and straightforward application of those exemptions and of preventing any possible evasion, avoidance or abuse, those conditions cannot affect the definition of the subject matter of the exemptions envisaged (see, to that effect, judgments of 11 January 2001, Commission v France, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2001%3A12&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑76/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2001%3A12&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2001:12</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2001%3A12&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point26" hreflang="en" target="CourtTab" type="application/xhtml+xml">26</a>, and of 26 May 2005, Kingscrest Associates and Montecello, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A322&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑498/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A322&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2005:322</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A322&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point24" hreflang="en" target="CourtTab" type="application/xhtml+xml">24</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">The exemptions laid down in Article 132 of Directive 2006/112 have their own independent meaning in EU law and must therefore be given a uniform EU law definition (see, to that effect, judgments of 26 May 2005, Kingscrest Associates and Montecello, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A322&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑498/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A322&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2005:322</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A322&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point22" hreflang="en" target="CourtTab" type="application/xhtml+xml">22</a>, and of 21 January 2016, Les Jardins de Jouvence, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A36&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑335/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A36&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:36</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A36&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point47" hreflang="en" target="CourtTab" type="application/xhtml+xml">47</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">From that point of view, whether a specific transaction is subject to or exempt from VAT cannot depend on its classification in national law (judgments of 26 May 2005, Kingscrest Associates and Montecello, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A322&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑498/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A322&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2005:322</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A322&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point25" hreflang="en" target="CourtTab" type="application/xhtml+xml">25</a>, and of 14 June 2007, Haderer, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A344&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑445/05</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A344&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2007:344</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A344&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point25" hreflang="en" target="CourtTab" type="application/xhtml+xml">25</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, according to settled case-law of the Court, the terms used to specify an exemption, such as those provided for in Article 132 of Directive 2006/112, are to be interpreted strictly, since an exemption constitutes an exception to the general principle that VAT is to be levied on all services supplied for consideration by a taxable person. Nevertheless, the interpretation of those terms must be consistent with the objectives pursued by those exemptions and comply with the requirements of the principle of fiscal neutrality inherent in the common system of VAT. Therefore, that rule of strict interpretation does not mean that the terms used to specify those exemptions referred to in Article 132 should be construed in such a way as to deprive them of their intended effects (see, to that effect, judgments of 21 September 2017, Aviva, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A718&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑605/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A718&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:718</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A718&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="en" target="CourtTab" type="application/xhtml+xml">30</a>, and of 26 October 2017, The English Bridge Union, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A814&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑90/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A814&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2017:814</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A814&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point20" hreflang="en" target="CourtTab" type="application/xhtml+xml">20</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">In that respect, it must be noted that Article 132 of Directive 2006/112 is contained in Chapter 2, entitled ‘Exemptions for certain activities in the public interest’, of Title IX of that directive. It follows that the objective of the exemptions laid down in that article is to encourage certain activities in the public interest, such as the provision of services by the public postal services referred to in Article 132(1)(a).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent, in particular, from the nature of that objective that the exemption is not to apply to specific services dissociable from the service of public interest, including services which meet special needs of economic operators (see, to that effect, judgment of 23 April 2009, TNT Post UK, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑357/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2009:248</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point46" hreflang="en" target="CourtTab" type="application/xhtml+xml">46</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, the supply of services provided by public postal services, the terms of which have been individually negotiated cannot be regarded as exempt under Article 132(1)(a) of Directive 2006/112. By their very nature, those services meet the special needs of the users concerned (see, to that effect, judgment of 23 April 2009, TNT Post UK, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑357/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2009:248</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point47" hreflang="en" target="CourtTab" type="application/xhtml+xml">47</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Indeed, it should be stated that the general objective set out in paragraph 46 of the present judgment takes the form, in the postal sector, of the more specific objective of offering postal services which meet the essential needs of the population at a reduced cost. As EU law now stands, such an objective is the same, in essence, as that of Directive 97/67 to offer a universal postal service (see, to that effect, judgment of 23 April 2009, TNT Post UK, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑357/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2009:248</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point33" hreflang="en" target="CourtTab" type="application/xhtml+xml">33</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point34" hreflang="en" target="CourtTab" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the Court has already held that ‘public postal services’, within the meaning of Article 132(1)(a) of Directive 2006/112 must be regarded as being operators, whether they are public or private, who undertake to supply postal services which meet the essential needs of the population and therefore, in practice, undertake to provide all or part of the universal postal service in a Member State, as defined in Article 3 of Directive 97/67 (see, to that effect, judgments of 23 April 2009, TNT Post UK, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑357/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2009:248</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A248&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point36" hreflang="en" target="CourtTab" type="application/xhtml+xml">36</a>, and of 21 April 2015, Commission v Sweden, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A249&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑114/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A249&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:249</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A249&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point28" hreflang="en" target="CourtTab" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">While the outline of the concept of ‘universal postal service’ is defined in Article 3(1) of Directive 97/67, in accordance with which such a service involves the permanent provision of a postal service of specified quality at all points in their territory at affordable prices for all users, Article 3(4) provides that each Member State is to adopt the measures necessary to ensure that the universal service includes, as a minimum, facilities consisting of the clearance, sorting, transport and distribution of postal items and parcels whose weights do not exceed those stated in that provision, as well as services for registered items and insured items. Article 2(4) to (6) and (9) of Directive 97/67 provides, by means of various definitions, further details regarding the content of such minimum service.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the requests for a preliminary ruling that the services at issue in the main proceedings comprise the formal service of documents in judicial or administrative proceedings. According to the rules applicable to the formal service of documents, the postal service or a similar service provider is commissioned in relation to the document to be served. That document is to be placed in a sealed envelope, accompanied by a pre-completed notice of delivery which, once that first document has been served, is to be returned to the commissioning authority. It is also apparent from these requests that the service provider effecting the formal service of documents does not provide any flat-rate guarantee.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">Indeed, it follows from the actual wording of Article 3(4) of Directive 97/67 and, in particular, of the term ‘minimum’ used in it, that while a Member State must at least ensure that the services set out in the directive are provided, the fact remains that other postal services can also be regarded as falling, where applicable, within the universal service guaranteed by that Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, without it being necessary to examine whether services such as those which were provided by DIREKTexpress Holding and JUREX fall within one of the specific categories of postal services referred to in Article 3(4) of Directive 97/67, it should be noted that, in the present case, because of their specific characteristics and the context in which they are provided, those services can in any event be considered as forming part of the universal service, as defined in that article.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">In that respect, it must be recalled, first of all, that the Court has previously held that operators providing all or part of the universal postal service are subject to a special legal regime with specific obligations. Indeed, the difference between ‘public postal services’ and other operators depends not on the nature of the services provided, but on the fact that they are subject to such a regime (see, to that effect, judgment of 21 April 2015, Commission v Sweden, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A249&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑114/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A249&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:249</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A249&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point33" hreflang="en" target="CourtTab" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it is apparent from the information before the Court that, during the relevant period, DIREKTexpress Holding and JUREX were in fact subject to rules which were not the result of individual negotiations but rather resulted from specific obligations under German legislation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">In particular, under that legislation, the holder of a licence authorising the provision of services consisting in the service of items of correspondence is required to effect the formal service of documents regardless of their weight, in accordance with procedural rules and laws governing service in administrative procedures. Moreover, the remuneration of such a licensee is to comply with the requirements laid down in that legislation and must be authorised by the competent national authority. Furthermore, it is apparent from the information before the Court that the formal service of judicial decisions triggers the time limits for lodging an appeal and involves an assignment of public service tasks in so far as, under the German legislation, when it is required to carry out a commission for the formal service of a document, the provider of services consisting in the service of items of correspondence exercises powers of a public authority to enable it to comply with its obligations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that those services are not intended to meet the particular needs of economic operators or certain other individual users, but to ensure the proper administration of justice, in so far as they enable the formal service of documents in judicial or administrative proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">Secondly, as regards the condition laid down in Article 3(1) of Directive 97/67 that the universal service is provided ‘for all users’, as the referring court points out, the entities commissioning formal service of documents referred to in the German legislation at issue in the main proceedings are mainly courts and administrative authorities. It follows that this formal service of documents cannot be requested by any private person, but is for the most part available to public bodies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">However, that fact in no way precludes the condition referred to in the preceding paragraph from being found to be satisfied in the present case. In particular, in the first place, as the Commission correctly points out in its written observations, the ‘users’ of postal services, within the meaning of Article 2(17) of Directive 97/67, comprise not only natural or legal persons benefiting from postal service provision as a sender, but also the addressees of those services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, while formal service of documents is effected pursuant to commissions issued by public bodies, the fact remains that the activities of those public bodies are not intended to satisfy their own needs, but to ensure the proper functioning of the judicial or administrative system of which they form part. That activity is therefore effected on behalf of all those who may wish to serve a document in accordance with the procedure referred to in paragraph 52 of the present judgment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">In the third place, as the Commission also correctly highlights, the service of formally serving documents is only one element of the universal service which must be provided by a Member State, which is also free to designate, in accordance with Article 4(2) of Directive 97/67, a number of providers to provide different elements of the universal service or to cover different parts of the national territory.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">Finally, it is apparent from the information submitted to the Court that the formal service of documents, which must be provided by the holder of a licence permitting it to supply services consisting in the service of items of correspondence, appears to have to be provided, in accordance with the national legislation governing it, at affordable prices and at all points in the territory of Germany, although this is for the referring court to determine.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, services such as those at issue in the main proceedings must be considered as meeting the essential needs of the German population, in accordance with the specific objective of the postal sector considered in paragraph 49 of the present judgment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">Having regard to the foregoing, it must be observed that economic operators such as DIREKTexpress Holding and JUREX, which, as it appears from the information before the Court but which is for the referring court to determine, each hold a licence permitting them to supply services consisting in the service of items of correspondence and which were therefore required to ensure at all points in the territory of Germany the formal service of documents in accordance with the specific conditions set out in paragraph 57 of the present judgment, provide part of the ‘universal postal service’ as provided for in Article 3 of Directive 97/67. As is apparent from paragraph 50 of the present judgment and from the fact that these services form part of that universal postal service, such economic operators must be regarded as ‘public postal services’ within the meaning of Article 132(1)(a) of Directive 2006/112 when they provide those services, so that they must be exempt from VAT under the latter provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">These considerations cannot be called into question by the fact that, under the national legislation at issue in the main proceedings, the services concerned are not considered to form part of the universal service. Indeed, as demonstrated in paragraphs 42 to 44 of the present judgment, the classification under national law of a specific transaction cannot have the effect of making it subject to VAT, when a VAT exemption applies to it under EU law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">The same applies as regards the fact, highlighted by the Finnish Government in its written observations, that the identities of DIREKTexpress Holding and JUREX had not been communicated to the Commission as providers of part of the universal postal service, contrary to the obligation found in Article 4(2) of Directive 97/67.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="normal">In particular, the breach of this notification requirement, if proven, cannot, in itself, have the effect of allowing Member States to prevent, of their own volition, the exemption provided for in Article 132(1)(a) of Directive 2006/112 from applying, even where services falling within the scope of the universal postal service are involved. Indeed, to recognise that this would be a possibility for Member States would risk failing to have regard not only to the case-law set out in paragraphs 42 to 44 of this judgment, but also to the principle of fiscal neutrality, which precludes economic operators carrying out the same transactions from being treated differently in relation to the levying of VAT (on the latter point, see judgment of 28 June 2007, JP Morgan Fleming Claverhouse Investment Trust and The Association of Investment Trust Companies, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2007%3A391&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑363/05</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A391&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2007:391</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2007%3A391&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point46" hreflang="en" target="CourtTab" type="application/xhtml+xml">46</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="normal">Nor are the findings set out in paragraph 65 of the present judgment invalidated by Article 3(7) of Directive 97/67, according to which the universal service covers both national services and cross-border services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="normal">For all that that provision has the effect of including cross-border postal services in the concept of ‘universal service’, as defined in Article 3 of Directive 97/67, it cannot, for that reason alone, be interpreted as excluding national services, such as those at issue in the main proceedings, from the scope of that concept on the ground that the supply of those services by the provider concerned does not include cross-border services. Indeed, it is sufficient to note that, as is apparent from paragraph 62 of the present judgment, the fact that a Member State is free to designate a number of service providers to provide different elements of the universal service or to cover different parts of the national territory implies that that Member State can decide to entrust to a particular operator only the service of formally serving documents at issue in the main proceedings, which covers only the territory of the Member State concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="normal">Having regard to all of the above considerations, the answer to the questions referred is that Article 2(13) and Article 3 of Directive 97/67 must be interpreted as meaning that providers of services consisting in the service of items of correspondence, such as those at issue in the main proceedings, who, in their capacity as holders of a national licence permitting them to supply that service are required to effect, in accordance with the provisions of national law, the formal service of court or administrative authority documents, must be regarded as ‘universal service providers’ in accordance with those provisions, so that those services must be exempt from VAT as services effected by the ‘public postal services’ under Article 132(1)(a) of Directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 2(13) and Article 3 of Directive 97/67/EC of the European Parliament and of the Council of 15 December 1997 on common rules for the development of the internal market of Community postal services and the improvement of quality of service, as amended by Directive 2008/6/EC of the European Parliament and of the Council of 20 February 2008 must be interpreted as meaning that providers of services consisting in the service of items of correspondence, such as those at issue in the main proceedings, who, in their capacity as holders of a national licence permitting them to supply that service are required to effect, in accordance with provisions of national law, the formal service of court or administrative authority documents, must be regarded as ‘universal service providers’, in accordance with those provisions, so that those services must be exempt from value added tax as services effected by the ‘public postal services’ under Article 132(1)(a) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0004_EN_01-E0001" id="t-ECR_62018CJ0004_EN_01-E0001">*1</a>
+</span>)	Language of the case: German.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

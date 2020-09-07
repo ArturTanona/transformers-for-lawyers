@@ -1,0 +1,132 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p>Provisional text</p>
+<p class="C19Centre">JUDGMENT OF THE COURT (Third Chamber)</p>
+<p class="C19Centre">3 October 2019(<a href="#Footnote*" name="Footref*">*</a>)</p>
+<p class="C71Indicateur">(Reference for a preliminary ruling — Taxation — Value added tax (VAT) — Sixth Council Directive 77/388/EEC — Exemptions — Article 13B(d)(3) — Transactions concerning payments — Services supplied by a company to a bank relating to the operation of cash points)</p>
+<p class="C02AlineaAltA">In Case C‑42/18,</p>
+<p class="C02AlineaAltA">REQUEST for a preliminary ruling under Article 267 TFEU from the Bundesfinanzhof (Federal Finance Court, Germany), made by decision of 28 September 2017, received at the Court on 24 January 2018, in the proceedings</p>
+<p class="C02AlineaAltA">
+<b>Finanzamt Trier</b>
+</p>
+<p class="C19Centre">v</p>
+<p class="C02AlineaAltA">
+<b>Cardpoint GmbH, </b> successor in law to Moneybox Deutschland GmbH,</p>
+<p class="C19Centre">THE COURT (Third Chamber),</p>
+<p class="C02AlineaAltA">composed of A. Prechal (Rapporteur), President of the Chamber, F. Biltgen, J. Malenovský, C.G. Fernlund and L.S. Rossi, Judges,</p>
+<p class="C02AlineaAltA">Advocate General:  Y. Bot,</p>
+<p class="C02AlineaAltA">Registrar: A. Calot Escobar,</p>
+<p class="C02AlineaAltA">having regard to the written procedure,</p>
+<p class="C02AlineaAltA">after considering the observations submitted on behalf of:</p>
+<p class="C03Tiretlong">–        Cardpoint GmbH, by M. Robisch, Steuerberater, and J. Habla, Rechtsanwältin,</p>
+<p class="C03Tiretlong">–        the German Government, initially by T. Henze and R. Kanitz, and subsequently by R. Kanitz, acting as Agents,</p>
+<p class="C03Tiretlong">–        the European Commission, by J. Jokubauskaitė and B.-R. Killmann, acting as Agents,</p>
+<p class="C02AlineaAltA">after hearing the Opinion of the Advocate General at the sitting on 2 May 2019,</p>
+<p class="C02AlineaAltA">gives the following</p>
+<p class="C75Debutdesmotifs">
+<b>Judgment</b>
+</p>
+<p class="C01PointnumeroteAltN">
+<a name="point1">1</a>        This request for a preliminary ruling concerns the interpretation of Article 13B(d)(3)  of Sixth Council Directive 77/388/EEC  of 17 May 1977  on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ 1977 L 145, p. 1, ‘the Sixth Directive’). </p>
+<p class="C01PointnumeroteAltN">
+<a name="point2">2</a>        The request has been made in proceedings between  the Finanzamt Trier (Tax Office, Trier, Germany) and Cardpoint GmbH, successor in law to Moneybox Deutschland GmbH concerning that tax office’s refusal to exempt from value added tax (VAT) services supplied to a bank in connection with the operation of cashpoints.</p>
+<p class="C04Titre1"> <b>Legal context</b>
+</p>
+<p class="C05Titre2"> <i><b>European Union law</b></i>
+</p>
+<p class="C06Titre3"> <i>The Sixth Directive</i>
+</p>
+<p class="C01PointnumeroteAltN">
+<a name="point3">3</a>        Article 13B(d)  of the Sixth Directive  reads as follows:  </p>
+<p class="C02AlineaAltA">‘Without prejudice to other Community provisions, Member States shall exempt the following under conditions which they shall lay down for the purpose of ensuring the correct and straightforward application of the exemptions and of preventing any possible evasion, avoidance or abuse:</p>
+<p class="C02AlineaAltA">…</p>
+<p class="C02AlineaAltA">(d)      the following transactions:</p>
+<p class="C02AlineaAltA">…</p>
+<p class="C11Marge1avecretrait">3.      transactions, including negotiation, concerning deposit and current accounts, payments, transfers, debts, cheques and other negotiable instruments, but excluding debt collection and factoring;</p>
+<p class="C02AlineaAltA">…’</p>
+<p class="C06Titre3"> <i>The VAT Directive</i>
+</p>
+<p class="C01PointnumeroteAltN">
+<a name="point4">4</a>        As of 1 January 2007, the Sixth Directive  was repealed and replaced by Council Directive 2006/112/EC  of 28 November 2006  on the common system of value added tax (OJ 2006 L 347, p. 1, ‘the VAT Directive’).</p>
+<p class="C01PointnumeroteAltN">
+<a name="point5">5</a>        Article 135(1)(d)  of the VAT Directive  provides:</p>
+<p class="C02AlineaAltA">‘The Member States  shall exempt the following transactions:</p>
+<p class="C02AlineaAltA">…</p>
+<p class="C09Marge0avecretrait">(d)      transactions, including negotiation, concerning deposit and current accounts, payments, transfers, debts, cheques and other negotiable instruments, but excluding debt collection.’</p>
+<p class="C05Titre2"> <i><b>German</b><b> </b><b>l</b><b>aw</b></i>
+</p>
+<p class="C01PointnumeroteAltN">
+<a name="point6">6</a>        Under Paragraph 4(8)(d) of the Umsatzsteuergesetz (Law on turnover tax), the following are exempt from VAT:</p>
+<p class="C02AlineaAltA">‘Transactions and the negotiation of transactions concerning deposit and current accounts, payments, transfers and the collection of negotiable instruments.’</p>
+<p class="C04Titre1"> <b>The dispute in the main proceedings and the question referred for a preliminary ruling</b>
+</p>
+<p class="C01PointnumeroteAltN">
+<a name="point7">7</a>        Cardpoint supplied services in connection with the operation of cash points for its client, a bank. Cardpoint was responsible for the operation and maintenance of those cash points. For those purposes, it installed computer hardware in those  cash points, together with any particular software necessary to keep the hardware running smoothly. In addition, it was tasked with transporting bank notes, made available by the bank, and replenishing the cash points. Lastly, it provided advice on the day-to-day running of those cash points.  </p>
+<p class="C01PointnumeroteAltN">
+<a name="point8">8</a>        According to the referring court, cash withdrawal transactions took place follows. As soon as a bank account holder inserted his bank card into a cash point, special software would read the data from that card. Cardpoint would verify those data and request authorisation  of the withdrawal transaction in question from Bank-Verlag GmbH. Bank-Verlag GmbH would forward the request to the interbank network, which would in turn pass it on to the bank that issued the bank card concerned. That bank would verify whether the bank account holder had sufficient funds in his account and transmit, back through the same channels, an approval or refusal of the withdrawal requested. If authorised, Cardpoint would execute the withdrawal at the cash point and generate a data file on that withdrawal. It sent that data file as a payment order to its client, the bank operating the cash point in question. That bank transmitted the data files unchanged into the records system of the Deutsche Bundesbank (the German Federal Bank). Cardpoint would also generate a daily, non-editable list of all the day’s transactions, which would also be sent to the German Federal Bank. That data transfer evidenced the right of the bank operating the cash point in question to obtain reimbursement from the bank of the account holder who withdrew the money and payment of any charges thereby incurred. </p>
+<p class="C01PointnumeroteAltN">
+<a name="point9">9</a>        On 7 February 2007, Cardpoint submitted an amended VAT return for 2005 and requested that the existing tax assessment be amended  on the ground that  its services in connection with the operation of cash points were exempt from VAT.</p>
+<p class="C01PointnumeroteAltN">
+<a name="point10">10</a>      After its request was rejected by the Tax Office, Trier, the Finanzgericht Rheinland-Pfalz (Finance Court,  Rhineland-Palatinate, Germany) upheld the action brought by Cardpoint  on the ground that the services supplied by that company should be regarded as ‘payments concerning transactions’,  within the meaning of  the Sixth Directive,  and therefore exempt from VAT. </p>
+<p class="C01PointnumeroteAltN">
+<a name="point11">11</a>      The Tax Office, Trier, brought an appeal on a point of law (<i>Revision</i>) before the referring court. That court  stayed the proceedings until the delivery of the judgment  of 26 May 2016, <i>Bookit </i> (C‑607/14, ‘the <i>Bookit</i> judgment’, EU:C:2016:355). </p>
+<p class="C01PointnumeroteAltN">
+<a name="point12">12</a>      The referring court  asks whether  the services supplied by Cardpoint  must be regarded as ‘technical and administrative assistance’,  in accordance with  the <i>Bookit</i> judgment, supplies which do not fall within the scope of ‘payments concerning transactions’,  within the meaning of  Article 13B(d)(3)  of the Sixth Directive. According to the referring court, they are support services of the same nature as those at issue in the case  which gave rise to the <i>Bookit</i> judgment since the services supplied by  Cardpoint merely  give effect in a technical form to instructions given by the bank.</p>
+<p class="C01PointnumeroteAltN">
+<a name="point13">13</a>      The referring court takes the view that the  facts at issue in the main proceedings  present other similarities to the facts of the <i>Bookit</i> judgment. Thus, Cardpoint obtains the data from the account holder’s bank card and transmits those data to the bank that issued that card. Cardpoint effects the requested withdrawal transaction only after it has been authorised to do so by that bank. Cardpoint is therefore not responsible for verifying and authorising individual payments orders.</p>
+<p class="C01PointnumeroteAltN">
+<a name="point14">14</a>      Whereas,  contrary to the facts which gave rise to the <i>Bookit</i> judgment, the case in the main proceedings  does not concern  transactions in connection with the sale and purchase of cinema tickets, but cash point cash withdrawal services, that difference may not, however, justify the services being treated differently for the purposes of VAT  given that,  in both cases, the service consists, in essence, in an exchange of information  in the form of  technical and administrative assistance.</p>
+<p class="C01PointnumeroteAltN">
+<a name="point15">15</a>      However, that court  asks whether account should be taken of the fact that,  in the case in the main proceedings, contrary to the facts of the case which gave rise to the <i>Bookit</i> judgment, there is no separate sales contract in addition to the transaction concerning payments. Nevertheless, it considers  that it does not follow from the <i>Bookit</i> judgment  that technical support services  must be treated differently according to the transaction in question.</p>
+<p class="C01PointnumeroteAltN">
+<a name="point16">16</a>      In addition, in both cases, the consideration for the service is readily determinable, whereas the financial transactions exemption is intended, inter alia, to alleviate the difficulties connected with determining the tax base and the amount of VAT deductible.</p>
+<p class="C01PointnumeroteAltN">
+<a name="point17">17</a>      Accordingly, the Bundesfinanzhof (Federal Finance Court, Germany) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="C02AlineaAltA">‘Is technical and administrative assistance provided by a supplier of services to a bank operating a cash point for cash withdrawals from the bank exempt from tax under Article 13B(d)(3) of [the Sixth Directive] in the case where technical and administrative assistance of the same nature provided by a supplier of services for payments by card in connection with the sale of cinema tickets is, in accordance with the [<i>Bookit</i> judgment], not exempt from tax under that provision?’</p>
+<p class="C04Titre1"> <b>Consideration of the question referred</b>
+</p>
+<p class="C01PointnumeroteAltN">
+<a name="point18">18</a>      By its question, the referring court asks, in essence, whether  Article 13B(d)(3)  of the Sixth Directive  must be interpreted as meaning that  services supplied to a bank operating cash points, consisting in operating and maintaining  those cash points, replenishing them, installing computer hardware and software necessary to read the data from bank cards, sending a cash withdrawal authorisation request to the bank which issued the bank card used, providing the cash requested and registering withdrawal transactions,  constitute a VAT-exempt transaction concerning payments for the purposes of that provision.</p>
+<p class="C01PointnumeroteAltN">
+<a name="point19">19</a>      As a preliminary matter, it should be made clear that the exemptions that were previously provided for Article 13B(d)(3)  of the Sixth Directive, applicable <i>ratione temporis </i> in the present case, are reproduced using the same wording in  Article 135(1)(d)  of the VAT Directive.  The Court’s case-law  on the latter provision is therefore relevant in interpreting the corresponding provisions  of the Sixth Directive.</p>
+<p class="C01PointnumeroteAltN">
+<a name="point20">20</a>      It should also be noted that,  as the Advocate General stated in point 24 of his Opinion, a withdrawal from a cash point  is a  ‘service payment’  within the meaning  of EU law. In addition, the Court  has previously held  that the considerations relating to transactions concerning transfers covered by the Sixth Directive are also applicable to ‘transactions concerning payments’ within the meaning of that directive (see, to that effect, judgment  of 5 June 1997, <i>SDC</i>, C‑2/95, EU:C:1997:278, paragraph 50).  </p>
+<p class="C01PointnumeroteAltN">
+<a name="point21">21</a>      In the light of those considerations, it may be inferred from settled  case-law  that,  in order to be characterised as a ‘transaction concerning payments’ within the meaning of Article 13B(d)(3) of the Sixth Directive, the services at issue must, viewed broadly, form a distinct whole, fulfilling in effect the specific, essential functions of a payment and, therefore, having the effect of transferring funds and entailing changes in the legal and financial situation. In that regard, a service exempted under the Sixth Directive must be distinguished from the supply of a mere physical or technical service  (see, to that effect, the <i>Bookit</i> judgment, paragraph 40  and the case-law cited). </p>
+<p class="C01PointnumeroteAltN">
+<a name="point22">22</a>      Therefore, the functional aspects are decisive for the purpose of determining whether a transaction concerns payments  within the meaning of  Article 13B(d)(3)  of the Sixth Directive. The test that makes it possible to distinguish a transaction that has the effect of transferring funds and bringing about changes in the legal and financial situation, which falls within the scope of the exemption in that provision, from a transaction that does not have such effects and is therefore outside its scope, is whether the transaction under consideration causes the actual or potential transfer of ownership of the funds concerned, or fulfils in effect the specific, essential functions of such a transfer (see, to that effect, the <i>Bookit </i> judgment, paragraph 41, and  judgment of 25 July 2018, <i>DPAS</i>, C‑5/17, EU:C:2018:592, paragraph 38  and the case-law cited). </p>
+<p class="C01PointnumeroteAltN">
+<a name="point23">23</a>      While the fact that the service provider concerned may itself directly debit and/or credit an account, or act by means of accounting entries in accounts belonging to an account holder, allows, in principle, the conclusion that that condition is met and that the service in question is exempted, the mere fact that that service does not directly involve such a task does not, however, mean that the possibility of its being within the scope of the exemption should be immediately ruled out, given that the interpretation described in paragraph 21 of this judgment does not presuppose any particular method for effecting payments  (see,  by analogy, the <i>Bookit</i> judgment, paragraph 42  and the case-law cited).</p>
+<p class="C01PointnumeroteAltN">
+<a name="point24">24</a>      The question referred must be considered in the light of  those considerations. </p>
+<p class="C01PointnumeroteAltN">
+<a name="point25">25</a>      In the present case, according to the order for reference Cardpoint did not directly debit the bank accounts in question but effected the physical delivery of the sums of money withdrawn from the cash points  which it operated and maintained. In addition, it did not itself authorise those transactions. Cardpoint had no decision-making power as regards  the transactions in question, but transmitted data, through intermediaries,  to the bank which had issued the bank card used,  and executed the instructions from that bank by supplying the cash requested. It then recorded the cash withdrawal in question which, as an accounting instruction, it sent to its client, the bank operating the cash point  in question.</p>
+<p class="C01PointnumeroteAltN">
+<a name="point26">26</a>      It follows that the services supplied by Cardpoint do not appear to be capable of effecting the transfer of funds or bringing about changes in the legal and financial situation which characterise a ‘transaction concerning payments’ within the meaning of  Article 13B(d)(3)  of the Sixth Directive. Indeed, contrary to the facts at issue in the case  which gave rise to the <i>Bookit</i> judgment, the services supplied by Cardpoint were not confined to the exchange of data between the issuing bank and the bank operating the relevant cash point, but also concerned the physical delivery of cash. However, the supply of cash during a withdrawal from a cash point  did not effect a transfer of title from Cardpoint to the cash point user. It was the issuing bank which authorised the cash withdrawal,  which debited the appropriate amount from that cash point user’s bank account and which transferred title in the money directly to that cash point user.  </p>
+<p class="C01PointnumeroteAltN">
+<a name="point27">27</a>      Furthermore, as the Advocate General stated in point 40 of his Opinion, only the bank that operates the relevant cash point  transmitted the data files to the German Federal Bank’s records system. The daily non-editable data file containing all of the day’s transactions which is generated by Cardpoint and sent to the German Federal Bank was intended to notify the latter of the authorised transactions carried out and cannot therefore be regarded as fulfilling the specific and essential functions of a payment.</p>
+<p class="C01PointnumeroteAltN">
+<a name="point28">28</a>      The interpretation that the services supplied by Cardpoint do not appear capable of effecting the transfer of funds and bringing about the legal and financial changes which characterise a transaction concerning payments  is not undermined  by the fact that  the services supplied by Cardpoint, inter alia  as regards  the entry of data, its transmission and the delivery of cash,  were essential for effecting an exempt transaction concerning payments. In that regard, it follows from settled case-law  that,  since exemptions from VAT must be interpreted strictly,  that fact alone  does not warrant the conclusion that those services are to be exempted if the other criteria set out in paragraphs 21 and 22  above  are not satisfied  (see, to that effect, judgment  of 25 July 2018, <i>DPAS</i>, C‑5/17, EU:C:2018:592, paragraph 43).</p>
+<p class="C01PointnumeroteAltN">
+<a name="point29">29</a>      Such  an interpretation of ‘transactions concerning payments’,  as referred to in  Article 13B(d)(3)  of the Sixth Directive,  is  indeed  borne out by  the purpose of that provision, which, as is  clear from  the case-law  of  the Court, is  inter alia  to alleviate the difficulties connected with determining the consideration for the service  and thus the tax base (see, to that effect, the <i>Bookit</i> judgment, paragraph 55  and the case-law cited). It is clear  from the file before the Court  that there are no particular difficulties in identifying the consideration received by Cardpoint for the supply of its services. </p>
+<p class="C01PointnumeroteAltN">
+<a name="point30">30</a>      In the light of the foregoing considerations, the answer to the question referred is that Article 13B(d)(3)  of the Sixth Directive  must be interpreted as meaning that services supplied to a bank operating cash points, consisting in operating and maintaining those cash points, replenishing them, installing computer hardware and software necessary to read the data from bank cards, sending a cash withdrawal authorisation request to the bank which issued the bank card used, providing the cash requested and registering withdrawal transactions,  do not constitute a VAT-exempt transaction concerning payments for the purposes of that provision.</p>
+<p class="C04Titre1"> <b>Costs</b>
+</p>
+<p class="C01PointnumeroteAltN">
+<a name="point31">31</a>      Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+<p class="C41DispositifIntroduction">On those grounds, the Court (Third Chamber) hereby rules:</p>
+<p class="C30Dispositifalinea">
+<b>Article 13B(d)(3) of Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment must be interpreted as meaning that services supplied to a bank operating cashpoints, consisting in operating and maintaining those cashpoints, replenishing them, installing computer hardware and software necessary to read the data from bank cards, sending a cash withdrawal authorisation request to the bank which issued the bank card used, providing the cash requested and registering withdrawal transactions, do not constitute a transaction concerning payments which is exempt from value added tax for the purposes of that provision.</b>
+</p>
+<p class="C77Signatures">[Signatures]</p>
+<hr/>
+<p class="C42FootnoteLangue">
+<a href="#Footref*" name="Footnote*">*</a>      Language of the case: German.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

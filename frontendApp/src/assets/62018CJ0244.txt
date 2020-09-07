@@ -1,0 +1,2274 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Second Chamber)</p>
+<p class="coj-sum-title-1">26 March 2020 (<span class="coj-note">
+<a href="#t-ECR_62018CJ0244_EN_01-E0001" id="c-ECR_62018CJ0244_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Appeal — State aid — Capital injections and State guarantees — Concept of State aid — Concept of ‘advantage’ — Private operator principle — Private investor test — European Commission’s obligation to undertake a diligent and impartial examination — Judicial review — Burden of proof — Concept of ‘firm in difficulty’ — Guidelines on State aid for rescuing and restructuring — Guarantee Notice — 2011 temporary framework — Amount of aid to be recovered — Duty of the Commission and the General Court of the European Union to state reasons)</p>
+<p class="coj-normal">In Case C‑244/18 P,</p>
+<p class="coj-normal">APPEAL under Article 56 of the Statute of the Court of Justice of the European Union, brought on 4 April 2018,</p>
+<p class="coj-normal">
+<span class="coj-bold">Larko Geniki Metalleftiki kai Metallourgiki AE</span>, established in Athens (Greece), represented by I. Drillerakis, E. Rantos, N. Korogiannakis, I. Soufleros, E. Triantafyllou, and G. Psaroudakis, dikigoroi,</p>
+<p class="coj-pstatus">appellant,</p>
+<p class="coj-pnormal">the other party to the proceedings being:</p>
+<p class="coj-normal">
+<span class="coj-bold">European Commission</span>, represented by É. Gippini Fournier and A. Bouchagiar, acting as Agents,</p>
+<p class="coj-pstatus">defendant at first instance,</p>
+<p class="coj-normal">THE COURT (Second Chamber),</p>
+<p class="coj-normal">composed of A. Arabadjiev (Rapporteur), President of the Chamber, P.G. Xuereb and T. von Danwitz, Judges,</p>
+<p class="coj-normal">Advocate General: H. Saugmandsgaard Øe,</p>
+<p class="coj-normal">Registrar: A. Calot Escobar,</p>
+<p class="coj-normal">having regard to the written procedure,</p>
+<p class="coj-normal">after hearing the Opinion of the Advocate General at the sitting on 24 October 2019,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its appeal, Larko Geniki Metalleftiki kai Metallourgiki AE (‘Larko’) asks the Court of Justice to set aside the judgment of the General Court of the European Union of 1 February 2018, Larko v Commission (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AT%3A2018%3A57&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">T‑423/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AT%3A2018%3A57" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:T:2018:57</a>; ‘the judgment under appeal’), by which the General Court dismissed Larko’s action for annulment of Commission Decision 2014/539/EU of 27 March 2014 on the State aid SA.34572 (13/C) (ex 13/NN) implemented by Greece for Larco General Mining &amp; Metallurgical Company SA (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2014:254:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2014 L 254, p. 24</a>; ‘the decision at issue’).</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The Guidelines on State aid for rescuing and restructuring</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Points 9 to 11 of the Community guidelines on State aid for rescuing and restructuring firms in difficulty (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:C:2004:244:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 C 244, p. 2</a>; ‘the Guidelines on State aid for rescuing and restructuring’) provide:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘9.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">There is no Community definition of what constitutes “a firm in difficulty”. However, for the purposes of these Guidelines, the Commission regards a firm as being in difficulty where it is unable, whether through its own resources or with the funds it is able to obtain from its owner/shareholders or creditors, to stem losses which, without outside intervention by the public authorities, will almost certainly condemn it to going out of business in the short or medium term.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">10.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In particular, a firm is, in principle and irrespective of its size, regarded as being in difficulty for the purposes of these Guidelines in the following circumstances:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">in the case of a limited liability company …, where more than half of its registered capital has disappeared … and more than one quarter of that capital has been lost over the preceding 12 months;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">in the case of a company where at least some members have unlimited liability for the debt of the company …, where more than half of its capital as shown in the company accounts has disappeared and more than one quarter of that capital has been lost over the preceding 12 months;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">whatever the type of company concerned, where it fulfils the criteria under its domestic law for being the subject of collective insolvency proceedings.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">11.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Even when none of the circumstances set out in point 10 are present, a firm may still be considered to be in difficulties, in particular where the usual signs of a firm being in difficulty are present, such as increasing losses, diminishing turnover, growing stock inventories, excess capacity, declining cash flow, mounting debt, rising interest charges and falling or nil net asset value. In acute cases the firm may already have become insolvent or may be the subject of collective insolvency proceedings brought under domestic law. In the latter case, these Guidelines apply to any aid granted in the context of such proceedings which leads to the firm’s continuing in business. In any event, a firm in difficulty is eligible only where, demonstrably, it cannot recover through its own resources or with the funds it obtains from its owners/shareholders or from market sources.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The Guarantee Notice</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission Notice on the application of Articles [107] and [108 TFEU] to State aid in the form of guarantees (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:C:2008:155:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2008 C 155, p. 10</a>; ‘the Guarantee Notice’) states, in the third paragraph of point 2.1 thereof:</p>
+<p class="coj-normal">‘In order to avoid any doubts, the notion of State resources should thus be clarified as regards State guarantees. The benefit of a State guarantee is that the risk associated with the guarantee is carried by the State. Such risk-carrying by the State should normally be remunerated by an appropriate premium. Where the State forgoes all or part of such a premium, there is both a benefit for the undertaking and a drain on the resources of the State. Thus, even if it turns out that no payments are ever made by the State under a guarantee, there may nevertheless be State aid under Article [107(1) TFEU]. The aid is granted at the moment when the guarantee is given, not when the guarantee is invoked nor when payments are made under the terms of the guarantee. Whether or not a guarantee constitutes State aid, and, if so, what the amount of that State aid may be, must be assessed at the moment when the guarantee is given.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Point 3.2(a) and (d) of that notice states:</p>
+<p class="coj-normal">‘Regarding an individual State guarantee, the Commission considers that the fulfilment of all the following conditions will be sufficient to rule out the presence of State aid.</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The borrower is not in financial difficulty.</p>
+<p class="coj-normal">In order to decide whether the borrower is to be seen as being in financial difficulty, reference should be made to the definition set out in the [Guidelines on State aid for rescuing and restructuring]. SMEs which have been incorporated for less than three years shall not be considered as being in difficulty for that period for the purposes of this Notice.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(d)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">A market-oriented price is paid for the guarantee.</p>
+<p class="coj-normal">As indicated under point 2.1, risk-carrying should normally be remunerated by an appropriate premium on the guaranteed or counter-guaranteed amount. When the price paid for the guarantee is at least as high as the corresponding guarantee premium benchmark that can be found on the financial markets, the guarantee does not contain aid.</p>
+<p class="coj-normal">If no corresponding guarantee premium benchmark can be found on the financial markets, the total financial cost of the guaranteed loan, including the interest rate of the loan and the guarantee premium, has to be compared to the market price of a similar non-guaranteed loan.</p>
+<p class="coj-normal">In both cases, in order to determine the corresponding market price, the characteristics of the guarantee and of the underlying loan should be taken into consideration. This includes: the amount and duration of the transaction; the security given by the borrower and other experience affecting the recovery rate evaluation; the probability of default of the borrower due to its financial position, its sector of activity and prospects; as well as other economic conditions. This analysis should notably allow the borrower to be classified by means of a risk rating. This classification may be provided by an internationally recognised rating agency or, where available, by the internal rating used by the bank providing the underlying loan. The Commission points to the link between rating and default rate made by international financial institutions, whose work is also publicly available … To assess whether the premium is in line with the market prices the Member State can carry out a comparison of prices paid by similarly rated undertakings on the market.</p>
+<p class="coj-normal">The Commission will therefore not accept that the guarantee premium is set at a single rate deemed to correspond to an overall industry standard.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Point 3.6 of that notice states:</p>
+<p class="coj-normal">‘Failure to comply with any one of the conditions set out in points 3.2 to 3.5 does not mean that the guarantee or guarantee scheme is automatically regarded as State aid. If there is any doubt as to whether a planned guarantee or guarantee scheme constitutes State aid, it should be notified to the Commission.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The first and second paragraphs of point 4.1 of the Guarantee Notice and part (a) of the third paragraph of that point state:</p>
+<p class="coj-normal">‘Where an individual guarantee or a guarantee scheme does not comply with the market economy investor principle, it is deemed to entail State aid. The State aid element therefore needs to be quantified in order to check whether the aid may be found compatible under a specific State aid exemption. As a matter of principle, the State aid element will be deemed to be the difference between the appropriate market price of the guarantee provided individually or through a scheme and the actual price paid for that measure.</p>
+<p class="coj-normal">The resulting yearly cash grant equivalents should be discounted to their present value using the reference rate, then added up to obtain the total grant equivalent.</p>
+<p class="coj-normal">When calculating the aid element in a guarantee, the Commission will devote special attention to the following elements:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">whether in the case of individual guarantees the borrower is in financial difficulty. Whether in the case of guarantee schemes, the eligibility criteria of the scheme provide for exclusion of such undertakings (see details in point 3.2(a)).</p>
+<p class="coj-normal">The Commission notes that for companies in difficulty, a market guarantor, if any, would, at the time the guarantee is granted charge a high premium given the expected rate of default. If the likelihood that the borrower will not be able to repay the loan becomes particularly high, this market rate may not exist and in exceptional circumstances the aid element of the guarantee may turn out to be as high as the amount effectively covered by that guarantee’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The 2011 temporary framework</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Communication of the Commission on the temporary Union framework for State aid measures to support access to finance in the current financial and economic crisis (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:C:2011:006:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2011 C 6, p. 5</a>; ‘the 2011 temporary framework’) states, in the first paragraph of point 2.3 thereof and parts (f) and (i) of the second paragraph of that point:</p>
+<p class="coj-normal">‘In order further to encourage access to finance and to reduce the current high risk aversion on the part of banks, subsidised loan guarantees for a limited period can be an appropriate and well targeted solution to give firms easier access to finance.</p>
+<p class="coj-normal">The Commission will consider such State aid compatible with the internal market on the basis of Article 107(3)(b) TFEU, provided that all the following conditions are met:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(f)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the guarantee does not exceed 80% of the loan for the duration of the loan;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(i)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">firms in difficulty [as defined in the Guidelines on State aid for rescuing and restructuring] are excluded from the scope of application of the measure.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The 2011 temporary framework includes, in the annex thereto, a table relating to the temporary framework of ‘safe-harbour’ premiums in basis points according to the rating category of the rating agency Standard &amp; Poor’s.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Background to the dispute</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The background to the dispute is summarised as follows in paragraphs 1 to 14 of the judgment under appeal:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘1.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">[Larko] is a large company specialising in the extraction and processing of laterite ore, the extraction of lignite and the production of ferronickel and its by-products.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It was established in 1989 as a new corporate entity following the liquidation of Hellenic Mining and Metallurgical SA. At the time of the relevant facts, it had three shareholders: the Greek State, which held 55.2% of its shares through the intermediary of Hellenic Republic Asset Development Fund, the National Bank of Greece SA (“NBG”), a private financial institution, which held 33.4% of its shares, and Public Power Corporation (the main electricity producer in Greece, of which the State is the majority shareholder), which held 11.4% of its shares.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">3.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In March 2012, Hellenic Republic Asset Development Fund informed the … Commission about a programme for the privatisation of Larko.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">4.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In April 2012, the Commission initiated an <span class="coj-italic">ex-officio</span> preliminary investigation into that privatisation, in accordance with the rules on State aid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">5.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The investigation examined six measures:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the first measure concerned, first, a 1998 debt settlement agreement between Larko and its major creditors, in accordance with which the company’s liabilities to creditors were to be serviced with an interest rate of 6% per annum and, secondly, the non-collection of the debt owed to the Greek State (“measure No 1”);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the second concerned a guarantee for a loan of EUR 30 million made by ATE Bank to Larko; the guarantee was provided by the Greek State in 2008 (“measure No 2” …), covered 100% of the loan for up to three years and stipulated a guarantee premium of 1% per annum;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the third concerned a EUR 134 million increase in the share capital, proposed in 2009 by Larko’s Board of Directors and approved by the three shareholders; the Greek State participated fully and NBG participated partially (“measure No 3” …);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the fourth concerned a guarantee of indefinite duration provided by the State in 2010 to cover fully a letter of guarantee that NBG was to provide to Larko for the sum of approximately EUR 10.8 million; a guarantee premium of 2% per annum was stipulated (“measure No 4” …); the letter of guarantee guaranteed the stay of execution by the Areios Pagos (Court of Cassation, Greece) of a judgment by which the Efeteio Athinon (Court of Appeal, Athens, Greece) had recognised the existence of a debt of EUR 10.8 million owed by Larko to one of its creditors;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the fifth concerned letters of guarantee which, in accordance with a Greek administrative court decision, were to replace a compulsory pre-payment of 25% of a tax fine (“measure No 5”);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the sixth concerned two guarantees provided by the State in 2011 for two loans of EUR 30 million and EUR 20 million respectively granted by ATE Bank; the guarantees covered 100% of the loans and stipulated a premium of 1% per annum (“measure No 6” …).</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">6.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the course of the preliminary investigation, the Commission requested additional information from the Greek authorities, which they provided in 2012 and 2013. Meetings were also held between Commission staff and representatives of the Greek authorities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">7.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By decision of 6 March 2013 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:C:2013:136:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2013 C 136, p. 27</a> …), the Commission initiated the formal investigation procedure provided for by Article 108(2) TFEU in relation to State aid SA.34572 (13/C) (ex 13/NN).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">8.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the course of the procedure provided for by Article 108(2) TFEU, the Commission invited the Greek authorities and interested third parties to submit their comments on the measures mentioned in paragraph 5 above. The Commission received comments from the Greek authorities on 30 April 2013. It received no comments from interested third parties.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">9.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 27 March 2014, the Commission adopted [the decision at issue].</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">10.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In [the decision at issue], the Commission formed the view, as a preliminary matter, that, at the time when the six measures in question were granted, Larko had been a firm in difficulty within the meaning of the [Guidelines on State aid for rescuing and restructuring].</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">11.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards its assessment of the measures mentioned in paragraph 5 above, the Commission took the view, first of all, that measures Nos 2, 3, 4 and 6 constituted State aid within the meaning of Article 107(1) TFEU, next, that those measures had been granted in breach of the notification and standstill obligations laid down in Article 108(3) TFEU and, lastly, that the measures in question were aid incompatible with the internal market and must be recovered in accordance with Article 14(1) of Council Regulation (EC) No 659/1999 of 22 March 1999 laying down detailed rules for the application of Article [108 TFEU] (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1999:083:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1999 L 83, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">12.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission also took the view that [measures Nos 1 and 5] did not constitute State aid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">13.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The operative part of [the decision at issue] reads as follows:</p>
+<p class="coj-normal">“…</p>
+<p class="coj-ti-art">
+<span class="coj-italic">Article 2</span>
+</p>
+<p class="coj-normal">The State aid amounting to EUR 135820 824.35 in the form of State guarantees to [Larko] in 2008, 2010 and 2011 and the State’s participation to the company’s capital increase in 2009, unlawfully granted by Greece in breach of Article 108(3) [TFEU] is incompatible with the internal market.</p>
+<p class="coj-ti-art">
+<span class="coj-italic">Article 3</span>
+</p>
+<p class="coj-normal">1.   Greece shall recover the incompatible aid referred to in Article 2 from the beneficiary.</p>
+<p class="coj-normal">2.   The sums to be recovered shall bear interest from the date on which they were put at the disposal of the beneficiaries until their actual recovery.</p>
+<p class="coj-normal">…</p>
+<p class="coj-ti-art">
+<span class="coj-italic">Article 6</span>
+</p>
+<p class="coj-normal">This Decision is addressed to the Hellenic Republic.”</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">14.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The annex to [the decision at issue] provides “information about the amounts of aid received, to be recovered and already recovered”, as set out below:</p>
+<table border="0" cellpadding="0" cellspacing="0" class="coj-table" width="100%">
+<col width="24%"/>
+<col width="22%"/>
+<col width="22%"/>
+<col width="17%"/>
+<col width="15%"/>
+<tbody>
+<tr class="coj-table">
+<td class="coj-table" rowspan="2" valign="top">
+<p class="coj-tbl-txt">Identity of the beneficiary — measure</p>
+</td>
+<td class="coj-table" rowspan="2" valign="top">
+<p class="coj-tbl-txt">Total amount of aid received</p>
+</td>
+<td class="coj-table" rowspan="2" valign="top">
+<p class="coj-tbl-txt">Total amount of aid to be recovered (Principal)</p>
+</td>
+<td class="coj-table" colspan="2" valign="top">
+<p class="coj-tbl-txt">Total amount already reimbursed</p>
+</td>
+</tr>
+<tr class="coj-table">
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">Principal</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">Recovery interest</p>
+</td>
+</tr>
+<tr class="coj-table">
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">Larko — measure [No] 2</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-num">30 000 000</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-num">30 000 000</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">0</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">0</p>
+</td>
+</tr>
+<tr class="coj-table">
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">Larko — measure [No] 3</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-num">44 999 999.40</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-num">44 999 999.40</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">0</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">0</p>
+</td>
+</tr>
+<tr class="coj-table">
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">Larko — measure [No] 4</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-num">10 820 824.95</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-num">10 820 824.95</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">0</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">0</p>
+</td>
+</tr>
+<tr class="coj-table">
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">Larko — measure [No] 6</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-num">50 000 000</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-num">50 000 000</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">0</p>
+</td>
+<td class="coj-table" valign="top">
+<p class="coj-tbl-txt">0</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-normal">’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The procedure before the General Court and the judgment under appeal</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By application lodged at the Registry of the General Court on 6 June 2014, Larko brought an action seeking annulment of the decision at issue and repayment, together with interest, of any sum recovered, directly or indirectly, from Larko in implementation of that decision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In support of its action, Larko relied on three pleas in law, alleging, first, that the Commission was wrong to consider that measures Nos 2, 3, 4 and 6 constituted State aid incompatible with the internal market, second, that the Commission failed to provide a statement of reasons for the decision at issue and, third, raised in the alternative, that the Commission incorrectly determined the amount of aid to be recovered in respect of those measures and ordered the recovery of the aid in breach of fundamental principles of the European Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By the judgment under appeal, the General Court dismissed the action in its entirety and ordered Larko to pay the costs.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Forms of order sought</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Larko claims that the Court of Justice should set aside the judgment under appeal, refer the case back to the General Court and reserve the costs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission contends that the Court should dismiss the appeal and order Larko to pay the costs.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The appeal</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In support of its appeal, Larko puts forward four grounds of appeal alleging, first, misapplication of the private investor test and failure to state reasons in the judgment under appeal; second, misinterpretation of the concept of economic advantage and failures to state reasons in that judgment; third, errors of law in the assessment of the compatibility of measure No 6 with the internal market and failures to state reasons in that judgment; and, fourth, errors of law in the General Court’s appraisal of the Commission’s assessment of the amount of the aid to be recovered in respect of measures Nos 2, 4 and 6 and failures to state reasons in that judgment.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The first ground of appeal, alleging misapplication of the private investor test and failure to state reasons in the judgment under appeal</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Arguments of the parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the first place, Larko submits that the General Court misapplied the private investor test in finding, in paragraphs 117 and 118 of the judgment under appeal, that Larko had not adduced any evidence prior to measure No 3 demonstrating that the Greek State was seeking, by that measure, to acquire a majority shareholding in Larko with a view to launching its sale or that such an acquisition would have furthered that sale. By ensuring the survival of its firm in difficulty and, therefore, the possibility of selling it, a prudent private investor limits the damage resulting from that firm’s insolvency.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the second place, according to Larko, it is incorrect to take the view that the launch of Larko’s privatisation immediately after measure No 3 cannot be taken into account because it occurred after that measure. Since the sale of that company could not precede that measure, the fact that the Greek State had not made clear its intention to proceed with the sale is irrelevant. The inextricable economic link between measure No 3 and the launch of that privatisation is apparent from their chronological proximity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the third place, the absence of a business plan and any evidence demonstrating that the Greek State had considered Larko’s long-term profitability is also insufficient to justify the General Court’s assessment with regard to the application of the private investor test, since such an investor could reasonably invest without a business plan in order not to seek long-term profit but to make the sale of the firm possible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the fourth place, Larko submits that the General Court reversed the burden of proof by verifying whether the Commission’s assessment was manifestly incorrect, even though it is for the Commission to prove that the conditions for applying the private investor test were manifestly not satisfied. According to case-law, that requirement applies to all emanations of the private operator principle and is in no way limited to the quantitative aspect of the private creditor test.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In any event, the General Court should have established not only whether the evidence relied on was factually accurate, reliable and consistent but also whether that evidence contained all the relevant information which must be taken into account in order to assess a complex situation and whether it was capable of substantiating the conclusions drawn from it. By disregarding the economic significance of the capital increase, the General Court refused to take into account essential factors for assessing the conditions for the application of the private investor test and, therefore, erred in law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the fifth place, the considerations set out in paragraph 120 of the judgment under appeal, according to which NBG participated in the capital increase to a lesser extent than the State and wrote off entirely the book value of its holding in the capital, in no way detract from the fact that a private investor had decided to invest, at the same time as the State, a significant sum in order to maintain a significant minority shareholding in Larko, with a view to its privatisation. In those circumstances, it cannot be considered that Larko would manifestly not have obtained comparable facilities from a private investor.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the sixth place, Larko submits that the General Court did not respond to its alternative argument that the State’s participation in the capital increase did not confer an advantage on Larko, at least in the amount necessary for the State to maintain the same level of shareholding in that firm.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission challenges Larko’s line of argument.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Findings of the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its first argument, Larko disputes, in essence, and without claiming that there has been a distortion of the evidence, the General Court’s sovereign appraisal of the facts in paragraphs 117 and 118 of the judgment under appeal, according to which Larko failed to establish that the Greek State acquired a majority shareholding in Larko with a view to the sale of that company, and also failed to demonstrate that that acquisition would have furthered that sale.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, according to the settled case-law of the Court of Justice, the appraisal of the facts by the General Court does not, save where the clear sense of the evidence produced before it is distorted, constitute a question of law which is subject, as such, to review by the Court of Justice (judgment of 30 September 2003, Freistaat Sachsen and Others v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A510&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑57/00 P and C‑61/00 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A510" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:510</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A510" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">102</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that the first argument must be rejected as inadmissible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its second argument, Larko submits that the Greek State’s objective of facilitating Larko’s privatisation must be inferred from the steps taken by the Greek authorities after measure No 3, in particular because of their chronological proximity, and that the absence of a business plan and any evidence demonstrating that the Greek State had considered Larko’s long-term profitability is not sufficient to justify the General Court’s assessment with regard to the application of the private investor test.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be borne in mind that, in order to assess whether the same measure would have been adopted in normal market conditions by a private operator, reference should be made to such an operator in a situation as close as possible to that of the State (see, to that effect, judgment of 6 March 2018, Commission v FIH Holding and FIH Erhvervsbank, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A159&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑579/16 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A159" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:159</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A159" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">55</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is in that context that it is for the Commission to carry out an overall assessment, taking into account all relevant evidence in the case enabling it to determine whether the recipient company would manifestly not have obtained comparable facilities from such a private operator (see, to that effect, judgment of 24 January 2013, Frucona Košice v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A32&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑73/11 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A32" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:32</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A32" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">73</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, all information liable to have a significant influence on the decision-making process of a normally prudent and diligent private operator, in a situation as close as possible to that of the State, must be regarded as being relevant (see, to that effect, judgments of 24 January 2013, Frucona Košice v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A32&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑73/11 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A32" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:32</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A32" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">78</a>, and of 21 March 2013, Commission v Buczek Automotive, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A186&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑405/11 P</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A186" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:186</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A186" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">54</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, for the purpose of applying the private operator principle, the only relevant evidence is the information which was available, and the developments which were foreseeable, at the time when the decision to proceed with the measure at issue was taken (see, to that effect, judgment of 5 June 2012, Commission v EDF, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A318&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑124/10 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A318" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:318</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A318" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">105</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Accordingly, factors arising after the measure at issue has been adopted cannot be taken into account for the purpose of applying the private operator principle (see, to that effect, judgment of 30 November 2016, Commission v France and Orange, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A912&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑486/15 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A912" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:912</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A912" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">139</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is true that the Court has held that, as State interventions take various forms and have to be assessed in relation to their effects, it cannot be excluded that several consecutive measures of State intervention must, for the purposes of Article 107(1) TFEU, be regarded as a single intervention. That could be the case in particular where consecutive interventions, especially having regard to their chronology, their purpose and the circumstances of the undertaking at the time of those interventions, are so closely linked to each other that they are inseparable from one another (judgment of 19 March 2013, Bouygues and Bouygues Télécom v Commission and Others and Commission v France and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A175&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑399/10 P and C‑401/10 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A175" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:175</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A175" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">103</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A175" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">104</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, since the General Court specifically found, in the present case, that it has not been established that, by adopting measure No 3, the Greek State was seeking to sell Larko, the purported chronological proximity of the subsequent steps taken by the Greek authorities is not sufficient, in itself, to establish that the General Court erred in law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In so far as Larko disputes, by its third argument, the General Court’s appraisal with regard to the application of the private investor test, claiming that such an investor could reasonably invest without a business plan in order not to seek a long-term profit but to make it possible to sell the firm concerned, it is sufficient to note that Larko is thus asking the Court of Justice to carry out a new appraisal of the facts, which, in the light of the case-law referred to in paragraph 25 above, is not within its jurisdiction.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The third argument must therefore be rejected as inadmissible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its fourth argument, Larko complains that the General Court disregarded the limits of its power of judicial review in relation to the Commission’s assessments concerning the application of the private investor test.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is true that, as Larko correctly submits and as has been noted in paragraph 29 above, it is for the Commission, when applying the private operator principle, to carry out an overall assessment, taking into account all relevant evidence in the case enabling it to determine whether the recipient undertaking would manifestly not have obtained comparable facilities from such an operator.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, it is also settled case-law that such an examination requires a complex economic assessment and that, in the context of a review by the Courts of the European Union of complex economic assessments made by the Commission in the field of State aid, it is not for those Courts to substitute their own economic assessment for that of the Commission (judgment of 20 September 2017, Commission v Frucona Košice, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A706&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑300/16 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A706" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:706</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A706" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">62</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A706" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">63</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, the General Court did not vitiate the judgment under appeal by an error of law when it restricted its review of the Commission’s assessments concerning the application of the private investor test to a review of whether there was a manifest error of assessment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In so far as Larko is fully entitled to state that it was nevertheless for the General Court to establish not only whether the evidence relied on was factually accurate, reliable and consistent, but also whether that evidence contained all the relevant information which must be taken into account in order to assess a complex situation and whether it was capable of substantiating the conclusions drawn from it (judgment of 20 September 2017, Commission v Frucona Košice, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A706&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑300/16 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A706" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:706</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A706" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">64</a>), Larko merely claims that the General Court disregarded the economic significance of the capital increase and thus calls into question, in an inadmissible manner, the General Court’s sovereign appraisal of the facts.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The same is true of Larko’s fifth argument, by which Larko disputes the General Court’s appraisal of the facts in paragraph 120 of the judgment under appeal, relating to the economic significance of NBG’s participation in the capital increase.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Lastly, as regards Larko’s sixth argument, it is sufficient to recall that it is settled case-law that the obligation to state reasons does not require the General Court to provide an account which follows exhaustively and one-by-one all the arguments put forward by the parties to the case, the General Court’s reasoning may therefore be implicit on condition that it enables the persons concerned to know why it has not upheld their arguments and provides the Court of Justice with sufficient material for it to exercise its power of review (judgment of 9 March 2017, Ellinikos Chrysos v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A194&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑100/16 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A194" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:194</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A194" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As the Commission correctly contends, paragraphs 112 to 120 of the judgment under appeal enable the Court of Justice to exercise its power of review and enable Larko to know why the General Court implicitly rejected its alternative argument that the State’s participation in measure No 3 did not confer an advantage on Larko to the extent necessary for the State to maintain the same level of participation in that firm.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing considerations, the first ground of appeal must be rejected as being, in part, inadmissible and, in part, unfounded.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The second ground of appeal, alleging misinterpretation of the concept of economic advantage and failures to state reasons in the judgment under appeal</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The second ground of appeal comprises two parts, the first relating to measure No 2, and the second relating to measure No 4.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">The first part of the second ground of appeal, relating to measure No 2</span>
+</p>
+<p class="coj-normal">– <span class="coj-italic">Arguments of the parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Larko submits that the General Court made two errors of law when it held that measure No 2 conferred an advantage on Larko.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First, the General Court incorrectly classified Larko as a firm in difficulty, since the facts on which that assessment was based occurred after that measure was granted. First of all, the financial results referred to included those up until 2012 and, in particular, the negative results for 2009. Next, the financial results for 2008 were also subsequent to the grant of that measure and the Greek State was not aware of them when that measure was granted because the accounting year had not yet been completed. Lastly, even assuming that the information for 2008 was not future information, it was, at that stage, short-term information.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Larko therefore submits that the General Court failed to consider the context of that period, as required by the case-law of the Court of Justice. In addition, it follows from points 9 to 11 of the Guidelines on State aid for rescuing and restructuring that the analysis of the firm’s financial situation must be based on information relating to a sufficiently long period and not on a snapshot.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Second, according to Larko, the General Court misinterpreted the remuneration criterion as regards measure No 2. In that respect, Larko remarks that the General Court itself noted, in paragraph 95 of the judgment under appeal, that the Commission had not established any of the elements of the criterion under point 3.2(d) of the Guarantee Notice. By that notice, which does not provide for any exception for cases in which it is ‘obvious’, according to the Commission, that the conditions for the application of that provision have not been satisfied, that institution imposed a limit on itself and created a legitimate expectation of equal treatment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, when it nevertheless held that the decision at issue was not vitiated by a manifest error of assessment, on account of Larko’s economic difficulties and because, during the administrative procedure, no evidence was adduced to demonstrate that the guarantee premium provided for in measure No 2 was appropriate, the General Court both replaced the criteria system established in point 3.2(d) of the Guarantee Notice and shifted onto Larko and the Greek State the burden of proving that that premium was an appropriate amount, thereby relieving the Commission of its obligation to establish that amount.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission contends that the General Court found, on the basis of events that occurred up to 22 December 2008, that Larko was a firm in difficulty, since it was in 2008 that Larko had negative equity, a reduction in its turnover by almost half compared to the previous year, and considerable losses. The fact that that information was subsequently authenticated through Larko’s financial statements cannot call that finding into question. Furthermore, according to the case-law of the General Court, events which took place during a given period may also be proved by subsequent documents based on those earlier events. In any case, a private investor in the place of the Greek State on 22 December 2008 would have made every effort to inquire into Larko’s existing economic situation before providing it with a guarantee such as that resulting from measure No 2.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">– <span class="coj-italic">Findings of the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As Larko correctly states in its arguments as summarised in paragraphs 48 and 49 above, the General Court began by basing its analysis, in paragraphs 78 to 82 of the judgment under appeal, on factors subsequent to the adoption of measure No 2, namely Larko’s financial results for 2008, in order to establish facts prior to the adoption of that measure, namely that Larko was a firm in difficulty within the meaning of points 9 to 11 of the Guidelines on State aid for rescuing and restructuring when measure No 2 was granted to it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As a second step, the General Court examined, in paragraphs 83 and 84 of that judgment, whether the Greek authorities were aware of those difficulties when measure No 2 was adopted and held, in paragraph 85 of that judgment, that no evidence showed ‘with certainty’ that those authorities were aware of those difficulties at that time.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As a third step, the General Court applied, from paragraph 85 of the judgment under appeal, a presumption that the Greek State should have been aware of Larko’s difficulties when measure No 2 was adopted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that context, first of all, reference is made, in paragraph 86 of that judgment, to paragraphs 82 to 84 of the judgment of 5 June 2012, Commission v EDF (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A318&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑124/10 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A318" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:318</a>), from which it is apparent, in particular, that, if a Member State relies on the private investor test during the administrative procedure, it must, where there is doubt, establish unequivocally and on the basis of objective and verifiable evidence that the measure implemented falls to be ascribed to the State acting as shareholder.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Next, in paragraph 87 of the judgment under appeal, the General Court stated that, as the Commission had found in the decision of 6 March 2013 initiating the formal investigation procedure, it was apparent from Larko’s financial results for 2008 and from its written pleadings that Larko had been a firm in difficulty since 2008.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Lastly, in paragraph 88 of that judgment, the General Court found, inter alia, that the Greek authorities had not demonstrated, during the administrative procedure, that they had informed themselves about Larko’s economic and financial situation when measure No 2 was granted or that they had not been in a position to apprehend that situation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On that basis, the General Court considered, in paragraphs 89 and 90 of the judgment under appeal, that a prudent shareholder would at least have informed itself about the company’s current economic and financial situation before providing it with a guarantee such as measure No 2 and that the Commission did not make a manifest error of assessment in regarding Larko as a firm in difficulty when that measure was granted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By finding, in essence, that there was no evidence referring to the situation prior to or on the date that measure No 2 was granted that showed that the Greek authorities were aware of Larko’s difficulties when that measure was granted, the General Court therefore presumed that a private operator in the Greek authorities’ situation should have been aware of those difficulties at that time.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By reasoning in that way, the General Court erred in law, as Larko correctly submits.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In so far as Larko complains that the General Court failed to consider the context in which measure No 2 was adopted and that that Court of Justice applied the presumption that the Greek State should have been aware of that firm’s difficult situation when that measure was adopted, it should be recalled at the outset that the examination of the applicability of the private operator principle must be distinguished from the examination of the application of that principle (see, to that effect, judgments of 24 October 2013, Land Burgenland and Others v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A682&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑214/12 P, C‑215/12 P and C‑223/12 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A682" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:682</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A682" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">51</a>, and of 6 March 2018, Commission v FIH Holding and FIH Erhvervsbank, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A159&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑579/16 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A159" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:159</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A159" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">65</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A159" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">72</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Where there are doubts as to the applicability of that principle, in particular because of the use by the Member State concerned, at the time the measure at issue was adopted, of its powers of public authority, the Member State must establish unequivocally and on the basis of objective and verifiable evidence that the measure implemented falls to be ascribed to the State acting as a private operator (judgments of 5 June 2012, Commission v EDF, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A318&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑124/10 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A318" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:318</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A318" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">82</a>, and of 24 October 2013, Land Burgenland and Others v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A682&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑214/12 P, C‑215/12 P and C‑223/12 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A682" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:682</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A682" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">57</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By contrast, when the private operator principle is applicable, it is one of the factors that the Commission is required to take into account for the purposes of establishing the existence of aid and is not, therefore, an exception that applies only if a Member State so requests, when it has been found that the constituent elements of ‘State aid’, as laid down in Article 107(1) TFEU, exist (see, to that effect, judgment of 6 March 2018, Commission v FIH Holding and FIH Erhvervsbank, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A159&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑579/16 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A159" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:159</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A159" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission therefore has the burden of proving whether or not the conditions for the application of the private operator principle have been satisfied (see, to that effect, judgment of 21 March 2013, Commission v Buczek Automotive, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A186&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑405/11 P</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A186" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:186</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A186" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it has already been recalled, in paragraphs 29 and 31 above, that it is therefore for the Commission to carry out an overall assessment, taking into account all relevant evidence in the case enabling it to determine whether the recipient company would manifestly not have obtained comparable facilities from such a private operator and that, in that context, the only relevant evidence is the information which was available, and the developments which were foreseeable, at the time when the decision to implement the measure at issue was taken.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission is required, in the interests of sound administration of the fundamental rules of the FEU Treaty relating to State aid, to conduct a diligent and impartial examination of the contested measures, so that it has at its disposal, when adopting the final decision, the most complete and reliable information possible for that purpose (judgment of 2 September 2010, Commission v Scott, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A480&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑290/07 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A480" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:480</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A480" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">90</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As a result, where it appears that the private creditor test might be applicable, it is for the Commission to ask the Member State concerned to provide it with all the relevant information enabling it to determine whether the conditions for applying that test are satisfied (judgment of 20 September 2017, Commission v Frucona Košice, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A706&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑300/16 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A706" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:706</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A706" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Even where that institution is faced with a Member State which does not fulfil its duty to cooperate and has not provided the Commission with the information requested, it must base its decisions on reliable and coherent evidence which provide a sufficient basis for concluding that an undertaking has benefited from an advantage amounting to State aid and which, therefore, support the conclusions which it arrives at (judgment of 17 September 2009, Commission v MTU Friedrichshafen, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A557&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑520/07 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A557" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:557</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A557" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">54</a> to <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A557" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Given that the aim of the recovery of the aid at issue from the beneficiary is to eliminate the distortion of competition brought about by a certain competitive advantage and, thus, to re-establish the status quo before the aid was granted, the Commission cannot assume that an undertaking has benefited from an advantage constituting State aid solely on the basis of a negative presumption, based on a lack of information enabling the contrary to be found, if there is no other evidence capable of positively establishing the actual existence of such an advantage (judgment of 17 September 2009, Commission v MTU Friedrichshafen, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A557&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑520/07 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A557" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:557</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A557" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">57</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A557" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">58</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By assuming, when it had concluded, in essence, that there was no evidence referring to the situation prior to or on the date that measure No 2 was granted which showed that the Greek authorities were aware of Larko’s difficulties when that measure was granted, that a private operator in the Greek authorities’ situation should have been aware of those difficulties at that time, the General Court disregarded the case-law referred to in the preceding paragraph and failed to consider the context in which that measure was adopted, as Larko submits.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, without there being any need to examine Larko’s arguments as summarised in paragraphs 50 and 51 above, the first part of the second ground of appeal must be upheld.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">The second part of the second ground of appeal, relating to measure No 4</span>
+</p>
+<p class="coj-normal">– <span class="coj-italic">Arguments of the parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Larko submits that the judgment under appeal is vitiated by four failures to state reasons as regards measure No 4. First, the General Court failed to respond, in paragraph 127 of the judgment under appeal, to the argument that the provision of a guarantee by one of the main shareholders in order to satisfy a condition laid down by a court in the context of an interim order is common practice; second, in paragraph 128 of that judgment, that Court failed to respond to the argument that, if measure No 4 had not been granted, Larko would have suffered irreparable damage as a result of the seizure of its assets, which would have compromised its privatisation; third, in paragraph 130 of that judgment, that Court failed to respond to the argument that the cover, duration and premium of the guarantee provided by measure No 4 were in line with conditions prevailing on the market; and, fourth, in paragraph 131 of that judgment, that Court failed to respond to the argument that that measure was in line with the private investor test on account of NBG’s particular position.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission challenges Larko’s line of argument.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">– <span class="coj-italic">Findings of the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the case-law referred to in paragraph 43 above, it must be held that paragraphs 125 to 132 of the judgment under appeal enable Larko to ascertain the reasons which led to the explicit and implicit rejection of the arguments summarised in paragraph 73 above and provide the Court with sufficient material for it to exercise its power of judicial review in that regard.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In so far as Larko’s arguments also seek to challenge the General Court’s assessment that a 2% guarantee premium did not reflect the risk of Larko’s default, Larko calls into question, in an inadmissible manner, a sovereign appraisal of the facts by the General Court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, contrary to Larko’s assertions, the judgment under appeal is not vitiated by failures to state reasons or by the alleged error of law argued by Larko.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that the second part of the second ground of appeal must be rejected as unfounded.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The third ground of appeal, alleging errors of law in the assessment of the compatibility of measure No 6 with the internal market and failures to state reasons in the judgment under appeal</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point79">79</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The third ground of appeal comprises two parts, alleging, first, infringement of the 2011 temporary framework and failures to state reasons in the judgment under appeal and, second, infringement of the Guidelines on State aid for rescuing and restructuring and failures to state reasons in that judgment.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">The first part of the third ground of appeal, alleging infringement of the 2011 temporary framework and failures to state reasons in the judgment under appeal</span>
+</p>
+<p class="coj-normal">– <span class="coj-italic">Arguments of the parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point80">80</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Larko notes that, in paragraphs 170 and 171 of the judgment under appeal, the General Court considered that measure No 6 was not in line with the 2011 temporary framework because the guarantee premium provided for by that measure was insufficient, the amount of the loans covered by that guarantee exceeded Larko’s wage costs for 2010, the guarantee covered 100% of those loans, firms in difficulty when the guarantee provided for under the 2011 temporary framework was granted were excluded from the scope of that framework, and the Greek authorities had not proved that measure No 6 was a necessary, appropriate and proportionate means of remedying a serious disturbance in the economy of the Member State concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point81">81</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, since the decision at issue does not mention the premiums referred to in the annex to the 2011 temporary framework and the General Court did not explain how the Commission nevertheless fulfilled its obligation to assess such a premium, the General Court vitiated the judgment under appeal by a failure to state reasons. Furthermore, since the total amount of guaranteed loans in 2011 did not exceed Larko’s wage costs for 2010, the General Court failed to fulfil its obligation to carry out an effective review of the decision at issue. Moreover, by taking the view that the date on which the aid was granted, and not 1 July 2008, was crucial for determining whether a firm was in difficulty, the General Court disregarded part (i) of the second paragraph of point 2.3 of the 2011 temporary framework.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point82">82</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Lastly, the General Court vitiated the judgment under appeal by a failure to state reasons by merely noting the lack of relevant evidence adduced by the Greek authorities relating to whether measure No 6 was necessary to remedy a serious disturbance in the economy of the Member State concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point83">83</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission challenges Larko’s line of argument.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">– <span class="coj-italic">Findings of the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point84">84</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As the Commission is fully entitled to contend, the conditions set out in point 2.3 of the 2011 temporary framework are cumulative and Larko does not dispute that measure No 6 covered 100% of the loans at issue. Accordingly, since Larko does not dispute the General Court’s assessment that the condition laid down in part (f) of the second paragraph of that provision is not satisfied, its arguments as regards the substance are ineffective.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point85">85</p>
+</td>
+<td valign="top">
+<p class="coj-normal">With regard to the alleged failure to state reasons in the judgment under appeal, it must be pointed out that, in the light of the case-law referred to in paragraph 43 above, paragraphs 168 to 171 of the judgment under appeal enable Larko to ascertain the reasons which led to the explicit and implicit rejection of the arguments summarised in paragraphs 81 and 82 above and provide the Court with sufficient material for it to exercise its power of judicial review in that regard.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point86">86</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that the first part of the third ground of appeal must be rejected as unfounded.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">The second part of the third ground of appeal, alleging infringement of the Guidelines on State aid for rescuing and restructuring and failure to state reasons in the judgment under appeal</span>
+</p>
+<p class="coj-normal">– <span class="coj-italic">Arguments of the parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point87">87</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Larko claims that, by failing to take into account its arguments that measure No 6 had been notified to the Commission, which was working with the Greek authorities to draw up a plan for restructuring that company, the General Court misinterpreted the Guidelines on State aid for rescuing and restructuring, failed to take account of the Commission’s obligations under the principle of sincere cooperation and did not provide any reasoning in the judgment under appeal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point88">88</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission challenges Larko’s line of argument.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">– <span class="coj-italic">Findings of the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point89">89</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As the Commission is fully entitled to contend, Larko challenges, in an inadmissible manner, the facts established by the General Court in its absolute discretion to the effect that, during the administrative procedure, the Greek authorities did not rely on the Guidelines on State aid for rescuing and restructuring, failed to notify a restructuring or liquidation plan within six months and did not provide evidence that measure No 6 was limited to the minimum necessary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point90">90</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the alleged failure to state reasons in the judgment under appeal, it must be pointed out that, in the light of the case-law referred to in paragraph 43 above, paragraphs 172 to 174 of the judgment under appeal enable Larko to ascertain the reasons which led to the explicit and implicit rejection of the arguments summarised in paragraph 87 above and provide the Court with sufficient material for it to exercise its power of judicial review in that regard.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point91">91</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that the second part of the third ground of appeal must be rejected and, consequently, the third ground of appeal must be rejected in its entirety as being, in part, inadmissible and, in part, unfounded.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The fourth ground of appeal, alleging errors of law in the General Court’s appraisal of the Commission’s assessment of the amount of aid to be recovered in respect of measures Nos 2, 4 and 6 and failures to state reasons in the judgment under appeal</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Arguments of the parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point92">92</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Larko submits that, in finding, in paragraphs 180 to 194 of the judgment under appeal, that the assessment in the decision at issue of the amount of aid to be recovered in respect of measures Nos 2, 4 and 6 was in line with Article 14(1) of Regulation No 659/1999 and with part (a) of the third paragraph of point 4.1 of the Guarantee Notice, the General Court erred in law and vitiated that judgment by failures to state reasons.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point93">93</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First, in paragraph 193 of the judgment under appeal, the General Court, according to Larko, itself provided a statement of reasons, thus making up for a non-existent statement of reasons in the decision at issue, and imposed on Larko the burden of proof relating to the exceptional circumstances referred to in part (a) of the third paragraph of point 4.1 of the Guarantee Notice.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point94">94</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Second, although it was clear when the decision at issue was adopted that none of the guarantees in question had been invoked, the General Court endorsed the approach of the Commission, which, without contacting the Greek authorities, merely stated that it did not have any evidence indicating that those guarantees had been invoked. It thus disregarded the Commission’s obligations relating to a diligent and impartial examination.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point95">95</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First of all, it is clear from the 2008 loan agreement available to the Commission that repayment of the loans provided for in that agreement was to be completed on 31 March 2012, well before the adoption of the decision at issue on 27 March 2014. The Commission therefore had at its disposal all the information enabling it to conclude that those loans were to be repaid by then. Next, repayment of the loan granted in 2010 was to be completed 45 days after the adoption of the decision at issue. Lastly, on that date, it was possible for the Commission to note that the loan concerned by measure No 6 had already been partially repaid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point96">96</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Third, the obligation to repay both the lender and the State guaranteeing the entire loan granted leads to the paradoxical result that a company repaying its loan finds itself in a more difficult situation than a company which has had the State guarantee invoked. Since the General Court did not respond in the judgment under appeal to the arguments put forward in that regard, it vitiated that judgment by a failure to state reasons.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point97">97</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Fourth, Larko notes that, when the decision at issue was adopted, there was no precedent, either in case-law or in the Commission’s practice, for recovering, under a guarantee, the full value of a guaranteed loan when the guarantee has not been called on. The cases to which the Commission refers concern other factual circumstances where the guarantees were called on. By contrast, in a similar case, where the loans were subsequently repaid, the Commission took that fact into account and did not require the amount of the loans to be recovered, but applied an increased reference rate. It should have done the same in the present case.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point98">98</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Fifth, the consequences of the obligation to recover the amount of the loans at issue are at odds with the settled case-law according to which Commission decisions ordering recovery of State aid are intended to restore the status quo and cannot constitute a penalty going beyond the advantage actually received.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point99">99</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Sixth, the decision at issue constitutes an unlawful penalty as a result of the misapplication of part (a) of the third paragraph of point 4.1 of the Guarantee Notice, which allows such a step to be taken only if there are exceptional circumstances. Such an assessment must have precise reasoning and cannot be based either on the Commission’s ‘doubts’ relating to Larko’s ability to obtain a loan, such as those expressed in recitals 77 and 104 of the decision at issue, or on the lack of evidence indicating that the guarantee was invoked, as referred to in recitals 78, 95 and 105 of that decision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point100">100</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, by finding that the decision at issue contained an adequate statement of reasons in that regard, first of all, the General Court erred in law as regards the required standard of proof. Next, it made such an error as regards the assessment that there were exceptional circumstances. Lastly, the General Court vitiated the judgment under appeal by contradictions and, therefore, by insufficient reasoning.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point101">101</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Commission challenges Larko’s line of argument. In particular, the Commission contends that Larko is not challenging the legal test applied by the General Court, but, in an inadmissible manner, is challenging the establishment of the facts to which the General Court applied that test. The General Court found that there were exceptional circumstances because, when measures Nos 2, 4 and 6 were granted, Larko was in an ‘extremely delicate situation’ which made it ‘impossible for Larko to repay the entirety of the loan from its own resources’.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Findings of the Court</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point102">102</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It should be recalled at the outset that the interpretation of a decision on State aid adopted by the Commission in the exercise of its powers is within the scope of a legal assessment and that any grounds directed against such an interpretation by the General Court are therefore admissible in an appeal (see, to that effect, judgment of 6 October 2015, Commission v Andersen, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A647&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑303/13 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A647" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:647</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A647" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">74</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point103">103</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In so far as the Commission’s arguments challenging the admissibility of Larko’s arguments were intended to target those relating to the interpretation of the decision at issue, they must therefore be rejected.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point104">104</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the first place, in so far as Larko complains that the General Court went beyond the limits of its power of review, it should be borne in mind that, in reviewing the legality of acts under Article 263 TFEU, the Court of Justice and the General Court have jurisdiction in actions brought on grounds of lack of competence, infringement of an essential procedural requirement, infringement of the FEU Treaty or of any rule of law relating to its application, or of misuse of powers. Article 264 TFEU provides that, if the action is well founded, the act concerned must be declared void. The Court of Justice and the General Court cannot, therefore, under any circumstances substitute their own reasoning for that of the author of the contested act (judgments of 24 January 2013, Frucona Košice v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A32&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑73/11 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A32" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:32</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A32" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">89</a> and the case-law cited, and of 28 February 2013, Portugal v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A118&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑246/11 P</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A118" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:118</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A118" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">85</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point105">105</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, as follows from the case-law referred to in paragraph 102 above, the interpretation of the contested measure falls within the scope of that review.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point106">106</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, it is clear from paragraphs 184 to 194 of the judgment under appeal that the General Court merely carried out such an interpretation and in no way substituted the reasoning.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point107">107</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that Larko’s first argument must be rejected as unfounded.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point108">108</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the second place, contrary to Larko’s assertions, the General Court did not, in those paragraphs of the judgment under appeal, reverse the burden of proof relating to the existence of the exceptional circumstances referred to in part (a) of the third paragraph of point 4.1 of the Guarantee Notice, but examined whether the Commission’s assessment was vitiated by errors of law or manifest errors of assessment, in accordance with the case-law referred to in paragraphs 39 and 41 above.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point109">109</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the third place, in so far as Larko complains that the General Court misinterpreted part (a) of the third paragraph of point 4.1 [of that notice] and that concept, it should be noted that, in paragraphs 189 to 191 of the judgment under appeal, the General Court found that there are exceptional circumstances only in the event that the borrower cannot repay the loan covered by the guarantee at issue from its own resources.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point110">110</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Contrary to Larko’s assertions, such a situation can establish that there are exceptional circumstances for the purposes of that provision, and requires no proof other than the existence of such circumstances.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point111">111</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, first, the General Court was fully entitled to hold, in paragraphs 186 to 188 of the judgment under appeal, that it follows from a combined reading of recitals 55 to 66, 77, 94 and 104 of the decision at issue that, by using the inappropriate term ‘doubtful’, the Commission in fact expressed its assessment that, without measures Nos 2 and 6, Larko would not have been able to obtain the respective funding.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point112">112</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Second, in paragraphs 181, 182, 192 and 193 of the judgment under appeal, the General Court stated to the requisite legal standard, in the light of the case-law referred to in paragraph 43 above, the reasons for rejecting Larko’s arguments relating to the absence of exceptional circumstances for the purposes of part (a) of the third paragraph of point 4.1 of the Guarantee Notice, since the considerations set out in those paragraphs of the judgment under appeal enable Larko to ascertain the reasons which led to the rejection of those arguments and provide the Court of Justice with sufficient material to exercise its power of judicial review in that regard.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point113">113</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the fourth place, as regards the line of argument summarised in paragraphs 94 to 96 above, by which Larko disputes the merits of the General Court’s appraisal relating to the Commission’s assessment of the aid to be recovered, it is sufficient to note that that line of argument is based on the taking into account of events subsequent to the grant of measures Nos 4 and 6, so that, even if it were admissible, it would in any event have to be rejected as ineffective, in the light of the case-law referred to in paragraphs 28 to 32 above.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point114">114</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the fifth place, in so far as Larko relies on an alleged earlier decision-making practice of the Commission, it is sufficient to observe that, according to the case-law of the Court, the question whether a measure constitutes State aid must be assessed solely in the context of Article 107(1) TFEU and not in the light of an alleged earlier decision-making practice of the Commission (judgment of 15 November 2011, Commission and Spain v Government of Gibraltar and United Kingdom, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A732&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑106/09 P and C‑107/09 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A732" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:732</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A732" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">136</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point115">115</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the sixth place, as regards the alleged lack of case-law imposing the recovery of the full value of the guaranteed loan, the Commission is fully entitled to point out that the Court has already considered the case of State guarantees given to firms in difficulty and has held that these must be regarded as aid equal to the amount of the loan guaranteed (judgments of 5 October 2000, Germany v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2000%3A537&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑288/96</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2000%3A537" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2000:537</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2000%3A537" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>, and of 28 January 2003, Germany v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A55&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑334/99</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A55" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:55</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A55" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">138</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point116">116</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the seventh place, it follows that, in such a situation, the recovery from the firm in receipt of aid of an amount equal to the guaranteed loan is intended precisely to restore the status quo and not to impose a penalty on that firm, contrary to Larko’s assertions. In particular, as the Commission rightly points out, repayment of the loan to the bank does not constitute repayment of the amount of aid to the State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point117">117</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the eighth place, as regards the alleged failures to state reasons in the judgment under appeal, it is sufficient to note that, in the light of the case-law referred to in paragraph 43 above, paragraphs 180 to 194 of the judgment under appeal enable Larko to ascertain the reasons which led to the explicit and implicit rejection of its arguments and provide the Court with sufficient material for it to exercise its power of judicial review in that regard.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point118">118</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that the fourth ground of appeal must be rejected.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point119">119</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of all the foregoing considerations, first, the judgment under appeal must be set aside in so far as, by that judgment, the General Court rejected the first part of the first plea in law to the extent that it relates to measure No 2 and, second, the appeal must be dismissed as to the remainder.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute at first instance</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point120">120</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In accordance with the first paragraph of Article 61 of the Statute of the Court of Justice of the European Union, if the Court of Justice quashes the decision of the General Court, it may itself give final judgment in the matter, where the state of the proceedings so permits.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point121">121</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, the Court does not have the necessary information to give final judgment on the first part of the first plea in law to the extent that it relates to measure No 2, alleging infringement of Article 107(1) TFEU, on the ground of the misapplication of the private operator principle.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point122">122</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As is apparent from, in particular, paragraphs 53 to 71 above, first, in the decision at issue, the Commission bases its finding that Larko was a firm in difficulty when measure No 2 was granted on Larko’s financial results, which, it is common ground, were not available at that time. Second, the General Court merely found that there was no evidence demonstrating ‘with certainty’ that the Greek authorities were aware of such difficulties at that time.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point123">123</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the case-law referred to in paragraph 69 above, it is for the General Court to ascertain whether the administrative file contains reliable and coherent evidence which provides a sufficient basis for concluding, first, that the Greek authorities were or should have been aware of Larko’s alleged difficulties at the time when measure No 2 was granted and, second, that that point was not disputed between the Commission and the Greek authorities during the administrative procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point124">124</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to settled case-law, where a Commission decision is adopted in a context well known to the persons concerned, it may be reasoned in a summary manner (see, to that effect, judgments of 19 September 2000, Germany v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2000%3A467&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑156/98</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2000%3A467" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2000:467</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2000%3A467" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">105</a>, and of 26 June 2012, Poland v Commission, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A385&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑335/09 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A385" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:385</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A385" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">152</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point125">125</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, the case must be referred back to the General Court.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point126">126</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since the case is being referred back to the General Court, it is appropriate to reserve the costs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Second Chamber) hereby:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Sets aside the judgment of the General Court of the European Union of 1 February 2018, Larko v Commission (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AT%3A2018%3A57&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">T‑423/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AT%3A2018%3A57" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:T:2018:57</a>), in so far as, by that judgment, the General Court rejected the first part of the first plea in law to the extent that it relates to a guarantee granted in 2008 by the Greek State to Larko Geniki Metalleftiki kai Metallourgiki AE concerning a loan of EUR 30 million granted by ATE Bank to Larko Geniki Metalleftiki kai Metallourgiki AE;</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Dismisses the appeal as to the remainder;</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">3.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Refers the case back to the General Court of the European Union;</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">4.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Reserves the costs.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62018CJ0244_EN_01-E0001" id="t-ECR_62018CJ0244_EN_01-E0001">*1</a>
+</span>)	Language of the case: Greek.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

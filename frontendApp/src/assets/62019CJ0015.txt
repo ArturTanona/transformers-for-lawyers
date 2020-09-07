@@ -1,0 +1,1090 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Second Chamber)</p>
+<p class="coj-sum-title-1">14 May 2020 (<span class="coj-note">
+<a href="#t-ECR_62019CJ0015_EN_01-E0001" id="c-ECR_62019CJ0015_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Environment — Waste — Directive 1999/31/EC — Existing landfill sites — Period of responsibility for after-care of the landfill following closure — Extension — Costs of the landfill of waste — Polluter pays principle — Temporal scope of the directive)</p>
+<p class="coj-normal">In Case C‑15/19,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Corte suprema di cassazione (Supreme Court of Cassation, Italy), made by decision of 18 December 2018, received at the Court on 10 January 2019, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">AMA — Azienda Municipale Ambiente SpA</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Consorzio Laziale Rifiuti — Co.La.Ri.,</span>
+</p>
+<p class="coj-normal">THE COURT (Second Chamber),</p>
+<p class="coj-normal">composed of A. Arabadjiev (Rapporteur), President of the Chamber, P.G. Xuereb and T. von Danwitz, Judges,</p>
+<p class="coj-normal">Advocate General: J. Kokott,</p>
+<p class="coj-normal">Registrar: R. Schiano, Administrator,</p>
+<p class="coj-normal">having regard to the written procedure and further to the hearing on 27 November 2019,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">AMA — Azienda Municipale Ambiente SpA, by L. Opilio, G. Pellegrino and P. Cavasola, avvocati,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consorzio Laziale Rifiuti — Co.La.Ri., by F. Tedeschini, avvocato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by G. Gattinara and F. Thiran, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">after hearing the Opinion of the Advocate General at the sitting on 16 January 2020,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This reference for a preliminary ruling concerns the interpretation of Articles 10 and 14 of Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1999:182:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1999 L 182, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The reference was made in proceedings between AMA — Azienda Municipale Ambiente SpA (‘AMA’), the company responsible for the collection and landfill of solid urban waste service for the municipality of Rome (Italy), and Consorzio Laziale Rifiuti — Co.La.Ri., the operator of the Malagrotta landfill site (Lazio Region, Italy), regarding the increase in costs connected with the obligation on Co.La.Ri. to provide after-care for that landfill site for at least 30 years following its closure, rather than 10 years as originally planned.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Recitals 25 and 29 of Directive 1999/31 state:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(25)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Whereas landfill sites that have been closed prior to the date of transposition of this Directive should not be subject to its provisions on closure procedure;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(29)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Whereas measures should be taken to ensure that the price charged for waste disposal in a landfill cover all the costs involved in the setting up and operation of the facility, including as far as possible the financial security or its equivalent which the site operator must provide, and the estimated cost of closing the site including the necessary after-care’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 1 of that directive, headed ‘Overall objective’, provides in paragraph 1 thereof:</p>
+<p class="coj-normal">‘With a view to meeting the requirements of [Council Directive 75/442/EEC of 15 July 1975 on waste (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1975:194:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1975 L 194, p. 39</a>)], and in particular Articles 3 and 4 thereof, the aim of this Directive is, by way of stringent operational and technical requirements on the waste and landfills, to provide for measures, procedures and guidance to prevent or reduce as far as possible negative effects on the environment, in particular the pollution of surface water, groundwater, soil and air, and on the global environment, including the greenhouse effect, as well as any resulting risk to human health, from landfilling of waste, during the whole life-cycle of the landfill.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 2 of the directive, headed ‘Definitions’, provides:</p>
+<p class="coj-normal">‘For the purpose of this Directive:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(g)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“<span class="coj-italic">landfill</span>” means a waste disposal site for the deposit of the waste onto or into land (i.e. underground), …</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(l)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“<span class="coj-italic">operator</span>” means the natural or legal person responsible for a landfill in accordance with the internal legislation of the Member State where the landfill is located; this person may change from the preparation to the after-care phase;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(n)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“<span class="coj-italic">holder</span>” means the producer of the waste or the natural or legal person who is in possession of it;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 3(1) of Directive 1999/31, Member States are to apply that directive to any landfill as defined in Article 2(g) thereof.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 10 of the directive, headed ‘Cost of the landfill of waste’:</p>
+<p class="coj-normal">‘Member States shall take measures to ensure that all of the costs involved in the setting up and operation of a landfill site, including as far as possible the cost of the financial security or its equivalent referred to in Article 8(a)(iv), and the estimated costs of the closure and after-care of the site for a period of at least 30 years shall be covered by the price to be charged by the operator for the disposal of any type of waste in that site. Subject to the requirements of Council Directive 90/313/EEC of 7 June 1990 on the freedom of access to information on the environment [(<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1990:158:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1990 L 158, p. 56</a>)], Member States shall ensure transparency in the collection and use of any necessary cost information.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 13 of Directive 1999/31, headed ‘Closure and after-care procedures’, provides in paragraph 1 thereof:</p>
+<p class="coj-normal">‘Member States shall take measures in order that, in accordance, where appropriate, with the permit:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">after a landfill has been definitely closed, the operator shall be responsible for its maintenance, monitoring and control in the after-care phase for as long as may be required by the competent authority, taking into account the time during which the landfill could present hazards.</p>
+<p class="coj-normal">The operator shall notify the competent authority of any significant adverse environmental effects revealed by the control procedures and shall follow the decision of the competent authority on the nature and timing of the corrective measures to be taken;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(d)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">for as long as the competent authority considers that a landfill is likely to cause a hazard to the environment and without prejudice to any Community or national legislation as regards liability of the waste holder, the operator of the site shall be responsible for monitoring and analysing landfill gas and leachate from the site and the groundwater regime in the vicinity of the site in accordance with Annex III.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 14 of the directive, headed ‘Existing landfill sites’:</p>
+<p class="coj-normal">‘Member States shall take measures in order that landfills which have been granted a permit, or which are already in operation at the time of transposition of this Directive, may not continue to operate unless the steps outlined below are accomplished as soon as possible and within eight years after the date laid down in Article 18(1) at the latest:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">with[in] a period of one year after the date laid down in Article 18(1), the operator of a landfill shall prepare and present to the competent authorities, for their approval, a conditioning plan for the site including the particulars listed in Article 8 and any corrective measures which the operator considers will be needed in order to comply with the requirements of this directive with the exception of the requirements in Annex I, point 1;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">following the presentation of the conditioning plan, the competent authorities shall take a definite decision on whether operations may continue on the basis of the said conditioning plan and this Directive. Member States shall take the necessary measures to close down as soon as possible, in accordance with Article 7(g) and 13, sites which have not been granted, in accordance with Article 8, a permit to continue to operate;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">on the basis of the approved site-conditioning plan, the competent authority shall authorise the necessary work and shall lay down a transitional period for the completion of the plan. Any existing landfill shall comply with the requirements of this Directive with the exception of the requirements in Annex I, point 1, within eight years after the date laid down in Article 18(1);</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 18 of that directive provides that Member States are to bring into force the provisions necessary to comply with the directive not later than two years after its entry into force and to inform the European Commission thereof immediately. In accordance with Article 19, the directive came into force on 16 July 1999.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Italian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Directive 1999/31 was transposed into Italian law by decreto legislativo n. 36 — Attuazione della direttiva 1999/31/CE relativa alle discariche di rifiuti (Legislative Decree No 36 — Transposition of Directive 1999/31/EC on the landfill of waste) of 13 January 2003 (ordinary supplement to GURI No 59 of 12 March 2003). Articles 15 and 17 of that decree, in the version applicable to the dispute in the main proceedings (‘Legislative Decree No 36/2003’), transpose Articles 10 and 14 of Directive 1999/31, respectively.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 15 of Legislative Decree No 36/2003 provides as follows:</p>
+<p class="coj-normal">‘The amount to be charged for landfill disposal shall cover the costs of the setting up and operation of the site, the costs of the provision of the financial security and the estimated costs of the closure and after-care of the site for a period equivalent to that set out in Article 10(1)(i).’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 10(1) of that decree was repealed by decreto legislativo n. 59 — Attuazione integrale della direttiva 96/61/CE relativa alla prevenzione e riduzione integrate dell’inquinamento (Legislative Decree No 59 implementing in full Directive 96/61/EC concerning integrated pollution prevention and control), of 18 February 2005 (ordinary supplement of GURI No 93 of 22 April 2005).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 17(1) of Legislative Decree No 36/2003 provides:</p>
+<p class="coj-normal">‘Landfills for which a permit has already been granted on the date of entry into force of this decree may continue to accept, until 31 December 2006, the waste for which they have been authorised’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 17(3) of that legislative decree lays down a time limit for adapting existing landfill sites to the new requirements as follows:</p>
+<p class="coj-normal">‘Within a period of six months from the date of entry into force of this decree, the holder of the permit referred to in paragraph 1 or the operator of the landfill instructed by him or her shall present to the competent authority a site-conditioning plan on the basis of the criteria referred to in this decree, including the financial guarantees referred to in Article 14.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">AMA, a company owned by the municipality of Rome (Italy), is the concessionaire for the collection, transport, treatment, recycling and disposal of urban waste in that municipality.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By contract of 26 January 1996, it entrusted, until 31 December 2005, the disposal of solid urban waste in the Malagrotta landfill to Co.La.Ri. Under that contract, AMA is the ‘holder’ within the meaning of Article 2(n) of Directive 1999/31, while Co.La.Ri is the ‘operator’, within the meaning of Article 2(l) of that directive. All the waste from the municipality of Rome was disposed of in the Malagrotta landfill until its closure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is apparent from the documents before the Court that, in accordance with Article 10 of Directive 1999/31, the period of after-care for the Malagrotta site was increased to 30 years from the 10 years originally provided for in the contract.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">AMA was ordered by an arbitration decision to pay EUR 76391 533.29 to Co.La.Ri. on the basis of the costs associated with the obligation on the latter to provide after-care for the landfill for a period of at least 30 years. AMA contested that decision before the Corte d’appello di Roma (Court of Appeal, Rome, Italy). That court upheld the arbitration decision, considering that the provisions of Directive 1999/31 were applicable to all landfill sites in operation when Legislative Decree No 36/2003 came into force. AMA appealed against the decision of the Corte d’appello di Roma (Court of Appeal, Rome) before the Corte suprema di cassazione (Supreme Court of Cassation, Italy).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court expresses doubts as to whether the findings of the Corte d’appello di Roma (Court of Appeal, Rome) regarding the application of the provisions of Directive 1999/31, such as those relating to after-care costs, to an existing landfill site such as Malagrotta are compliant with EU law. According to AMA, for existing landfills, Legislative Decree No 36/2003 merely provides for a transitional period, in all likelihood to allow those landfills to become compliant, but it does not mention the financial costs associated with their after-care once they have closed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, the referring court questions the compatibility of the obligation on the holder to bear the costs associated with after-care once the landfill site has closed, in contravention of the contractual agreements made between the holder and the operator, which limited the period of after-care to 10 years and not 30 years, while including the costs relating to waste stored before the entry into force of Legislative Decree No 36/2003.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the Corte suprema di cassazione (Supreme Court of Cassation) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘1.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Do Articles 10 and 14 of Directive 1999/31 preclude the interpretation upheld by the appeal court according to which Articles 15 and 17 of Legislative Decree [No 36/2003] transposing those provisions of [EU law] into national law apply retroactively, with the result that pre-existing landfill sites which already have permission to operate are subject, unconditionally, to the obligations laid down by those provisions of national legislation, in particular in so far as they extend the period of responsibility for after-care from 10 to 30 years?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">2.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In particular, do Articles 10 and 14 of [Directive 1999/31], which provide that Member States must take “measures to ensure that all of the costs involved in the setting up and operation of a landfill site, including as far as possible the cost of the financial security or its equivalent referred to in Article 8(a)(iv), and the estimated costs of the closure and after-care of the site for a period of at least 30 years shall be covered by the price to be charged by the operator for the disposal of any type of waste in that site” and “measures in order that landfills which have been granted a permit, or which are already in operation at the time of transposition of [that directive], may … continue to operate” respectively, preclude the interpretation upheld by the appeal court according to which Articles 15 and 17 of Legislative Decree [No 36/2003] apply to pre-existing landfill sites which already have permission to operate, where the measures implementing those obligations, in particular in relation to those landfill sites, are limited in Article 17 of that legislative decree to the provision of a transitional period and do not include any measure seeking to limit the financial impact of the extension on the “holder”?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">3.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Do Articles 10 and 14 of Directive 1999/31 preclude the interpretation upheld by the appeal court according to which Articles 15 and 17 of Legislative Decree [No 36/2003] also apply to pre-existing landfill sites which already have permission to operate as regards the financial burden resulting from the obligations laid down by those provisions of national legislation and, in particular, from the extension of the period of responsibility for after-care from 10 to 30 years, by imposing that burden on the “holder” and thereby legitimising the adjustment — to the detriment of that holder — of the costs set out in the commercial agreements regulating [waste] disposal activities?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">4.</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Do Articles 10 and 14 of Directive 1999/31 preclude the interpretation upheld by the appeal court according to which Articles 15 and 17 of Legislative Decree [No 36/2003] also apply to pre-existing landfill sites which already have permission to operate as regards the financial burden resulting from the obligations laid down by those provisions of national legislation and, in particular, from the extension of the period of responsibility for after-care from 10 to 30 years, given that — in order to determine that financial burden — account must be taken not only of waste to be deposited as from the entry into force of the provisions transposing those provisions of EU law into national law but also of waste already deposited prior to that entry into force?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Admissibility of the request for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Co.La.Ri. contends that the request for a preliminary ruling is inadmissible.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It maintains that the questions asked by the referring court are irrelevant to the resolution of the dispute in the main proceedings and have been settled by the finding that the grounds of appeal are inadmissible. According to Co.La.Ri., its obligation to bear the costs of the after-care of the Malagrotta landfill following its closure was not challenged on its merits before the Corte d’appello di Roma (Court of Appeal, Rome) and therefore has the force of <span class="coj-italic">res judicata</span>.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Co.La.Ri. also maintains that the referring court does not set out the grounds in law justifying the reference to the Court and contends that there is no genuine divergence of interpretation as regards the provisions at issue in the main proceedings for the purpose of resolving the dispute in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be observed that, according to settled case-law, Article 267 TFEU establishes a procedure for direct cooperation between the Court and the courts of the Member States. In that procedure, which is based on a clear separation of functions between the national courts and the Court, any assessment of the facts of the case is a matter for the national court, which must determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court, whilst the Court is empowered to give rulings on the interpretation or the validity of an EU provision only on the basis of the facts which the national court puts before it (judgment of 16 June 2015, Gauweiler and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A400&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑62/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A400" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:400</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A400" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">15</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that questions referred by national courts enjoy a presumption of relevance and that the Court may refuse to rule on those questions only where it is apparent that the interpretation sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (see, to that effect, judgment of 10 December 2018, Wightman and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A999&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑621/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A999" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:999</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A999" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, the Corte suprema di cassazione (Supreme Court of Cassation) sets out, in its order for reference, the reasons which led it to ask the Court for an interpretation of Articles 10 and 14 of Directive 1999/31 as well as a determination as to the rules laid down in that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In particular, it asks the Court, in the context of a dispute concerning the costs of closure of a landfill site and of its after-care, about the content and extent of the obligations that may arise under those provisions for the Member State concerned, the operator of the landfill site and the holder of the waste, and about the conformity of the transposition measures with those provisions of Directive 1999/31, which means that the present judgment will have definitive consequences as regards the resolution of the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that the request for a preliminary ruling is admissible and, accordingly, it is necessary to answer the questions put by the referring court.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its questions, which it is appropriate to examine together, the referring court asks, in essence, whether Articles 10 and 14 of Directive 1999/31 must be interpreted as precluding the interpretation of a provision of national law to the effect that a landfill site in operation at the date of transposition of that directive must be subject to the obligations arising under that directive, in particular the obligation to extend the after-care period following the closure of the landfill, without it being necessary to make a distinction according to the date of storage of the waste or to provide for measures to limit the financial impact of that extension in respect of the holder of the waste.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It should be borne in mind, as a preliminary point, that the overall objective of Directive 1999/31, as set out in Article 1 thereof, is, by way of stringent operational and technical requirements on waste and landfills, to provide for measures, procedures and guidance to prevent or reduce as far as possible negative effects on the environment, in particular the pollution of surface water, groundwater, soil and air, and on the global environment, including the greenhouse effect, as well as any resulting risk to human health, from landfilling of waste, during the whole life-cycle of the landfill.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 3(1) of that directive provides that it applies to any landfill, defined, in Article 2(g) of the directive, as a waste disposal site for the deposit of the waste onto or into land.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is also apparent from recital 25 of Directive 1999/31 that landfill sites that were closed prior to the date of transposition of that directive are not subject to its provisions on closure procedure. Furthermore, according to a combined reading of Articles 18(1) and 19 of that directive, the Member States were to bring into force the national provisions necessary to comply with the directive no later than two years from 16 July 1999.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Accordingly, only landfills that were already closed before the date of transposition of Directive 1999/31 and by 16 July 2001 at the latest are exempted from the obligations arising under that directive as regards closure. The Malagrotta landfill site is not such a landfill, since, as is common ground between the parties to the dispute in the main proceedings, that site was still operating at that date.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It must be noted in that regard that, under Article 14 of that directive, Member States were required to take measures in order that landfills which had been granted a permit, or which were already in operation at that time, could not continue to operate unless the steps outlined in that article were accomplished as soon as possible and no later than 16 July 2009 (judgment of 25 February 2016, Commission v Spain, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A117&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑454/14</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A117" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:117</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A117" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows from the Court’s case-law that that article introduces a transitional derogating system in order to bring those landfills into line with new environmental requirements (see, to that effect, judgments of 9 April 2014, Ville d’Ottignies-Louvain-la-Neuve and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A245&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑225/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A245" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:245</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A245" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A245" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>, and of 25 February 2016, Commission v Spain, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A117&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑454/14</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A117" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:117</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A117" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In addition, Article 14(b) of Directive 1999/31 requires, first, that the competent national authority take a definite decision on whether operations may continue on the basis of a conditioning plan and that directive and, second, that the Member States take the necessary measures to close down as soon as possible sites which were not granted a permit to continue to operate (judgment of 25 February 2016, Commission v Spain, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A117&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑454/14</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A117" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:117</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A117" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 14(c) of that directive provides, in essence, that, on the basis of the approved site-conditioning plan, the competent authority is to authorise the necessary work and lay down a transitional period for the completion of the plan, the requirement being that any existing landfill must comply with the requirements of that directive, with the exception of those set out in point 1 of Annex I to that directive, before 16 July 2009 (judgment of 25 February 2016, Commission v Spain, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A117&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑454/14</a>, not published, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A117" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:117</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A117" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is clear that Article 14 of Directive 1999/31 cannot be interpreted as excluding existing landfill sites from the application of other provisions of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In particular, landfills which already had a permit or were already in operation at the time of transposition of Directive 1999/31 and which were subsequently subject to a closure procedure, such as the Malagrotta landfill, must comply with the requirements set out in Article 13 of that directive concerning closure and after-care procedures.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The after-care obligations following the closure of a landfill site prescribed by Article 13(c) of Directive 1999/31 were applicable at the latest upon the expiry of the transition period. The operator is therefore responsible for the maintenance, monitoring and control of the landfill after its closure for as long as may be required by the competent authority, taking into account the time during which the landfill could present hazards.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That provision must be read in the light of Article 10 of that directive, which provides, inter alia, that Member States must take measures to ensure that the estimated costs of the closure and after-care of the site for a period of at least 30 years will be covered by the price to be charged by the operator for the disposal of any type of waste in that site.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Court has previously held that that article, which imposes on Member States, in unequivocal terms, a precise obligation as to the result to be achieved that is not coupled with any condition regarding application of the rule laid down by it, has direct effect. That provision requires the Member States to take measures to ensure that the price charged for waste disposal in a landfill covers all the costs involved in the setting up and operation of the facility. The Court has stated that that provision does not impose on the Member States any specific method of financing the cost of a landfill (judgment of 24 May 2012, Amia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A306&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑97/11</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A306" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:306</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A306" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A306" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows from this, in the first place, that, in accordance with Articles 10, 13 and 14 of Directive 1999/31, the operator of a landfill operating at the date of transposition of that directive is subject to the obligation to ensure the after-care of that landfill for at least 30 years following its closure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, it is apparent from the documents submitted to the Court that the obligation on Co.La.Ri. to manage the Malagrotta landfill is a consequence, most recently, of the reconditioning plan adopted in accordance with Article 14 of Directive 1999/31 and Article 17 of Legislative Decree No 36/2003, and approved by the competent authority. Under that plan, Co.La.Ri. was subject to all the after-care obligations in relation to the Malagrotta site for the minimum period imposed by the directive, namely 30 years, instead of 10 years as originally planned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the second place, as regards whether, concerning the application of those obligations, it is necessary to make a distinction according to the date of arrival of the waste, it must be noted that Directive 1999/31 does not provide that those obligations are to be applied differently according to whether that waste was received and stored before or after the expiry of the period for transposition of that directive, or according to the storage location of that waste within the landfill. As is apparent from the wording of Article 10 of that directive, the obligation to maintain a landfill for at least 30 years after its closure concerns, in general terms, the disposal of any type of waste in that site.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Accordingly, it cannot be accepted, in the light of the objective of Directive 1999/31, that the after-care obligation applies, on the one hand, to waste stored before the expiry of the transition period for a period of 10 years and, on the other hand, to waste stored after the expiry of that period for a period of 30 years.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, it must be found that, as provided for in Article 10 of Directive 1999/31, the obligation to ensure the after-care of a landfill for a period of at least 30 years following its closure applies irrespective of the date on which the waste was placed in the landfill. That obligation therefore concerns, in principle, the whole landfill in question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the third place, as regards the financial consequences flowing from setting the after-care period following closure of the landfill at a minimum of 30 years, or extending it to such a period, it must be borne in mind that Article 10 of Directive 1999/31 requires, as is also evident from recital 29 thereof, that measures are taken by Member States to ensure that the price charged for waste disposal in a landfill cover all the costs involved in the setting up and operation of the facility (judgments of 25 February 2010, Pontina Ambiente, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A87&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑172/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A87" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:87</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A87" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>, and of 24 May 2012, Amia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A306&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑97/11</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A306" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:306</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A306" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a>). As the Advocate General stated in point 56 of her Opinion, those costs include the estimated cost of closing the site and of the necessary after-care for a period of at least 30 years.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That requirement is an expression of the polluter pays principle, which implies, as the Court has previously held in regard to Directive 75/442 and Directive 2006/12/EC of the European Parliament and of the Council of 5 April 2006 on waste (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:114:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 114, p. 9</a>), that the cost of disposing of the waste must be borne by the waste holders. The application of this principle forms part of the objective of Directive 1999/31 which, according to Article 1(1) thereof, is to meet the requirements of Directive 75/442, and in particular Article 3 thereof, which, inter alia, requires the Member States to take appropriate measures to encourage the prevention or reduction of waste production (judgment of 25 February 2010, Pontina Ambiente, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A87&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑172/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A87" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:87</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A87" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Moreover, the Court has previously found that, since, as EU law currently stands, there is no legislation adopted on the basis of Article 192 TFEU imposing a specific method on the Member States for financing the cost of setting up and operating landfills, that cost may, in accordance with the choice of the Member State concerned, equally well be financed by means of a tax or of a charge or in any other manner (see, by analogy, judgments of 16 July 2009, Futura Immobiliare and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A479&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑254/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A479" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:479</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A479" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a>, and of 25 February 2010, Pontina Ambiente, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A87&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑172/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A87" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:87</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A87" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, whatever the national rules governing landfill sites may be, those rules must ensure that all the operating costs of such sites are actually borne by the holders of the waste deposited in the landfill for disposal. Requiring the operator to bear such costs would amount to making him or her responsible for the costs arising from the disposal of waste which he or she did not produce but which he or she merely disposes of as part of his or her activities as a provider of services (see, to that effect, judgment of 25 February 2010, Pontina Ambiente, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A87&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑172/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A87" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:87</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A87" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A87" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Such an interpretation is consistent with the obligation to prevent or reduce as far as possible any adverse effects on the environment, as stems from the polluter pays principle. As the Advocate General states in point 62 of her Opinion, although Directive 1999/31 does not explicitly mention that principle in connection with Article 10, it is a fundamental principle of EU environmental law pursuant to Article 191(2) TFEU and must therefore be taken into account in its interpretation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows that, although the Member State concerned must, under Article 10 of Directive 1999/31, have adopted measures in order to ensure that the price charged for waste disposal in a landfill covers, inter alia, all the costs of closure of a landfill site and of its after-care, which is a matter for the referring court to ascertain, that article cannot be interpreted as requiring that Member State to adopt measures to limit the financial implications of any extension of the after-care period of the landfill concerned for the holder of the waste.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the argument that the principles of legal certainty and non-retroactivity of the law are breached by the extension of the after-care period of landfills regardless of the date on which the waste was stored and without any limitation as regards the financial implications for the holder of the waste, it is true that it follows from settled case-law that, in order to ensure observance of the principles of legal certainty and the protection of legitimate expectations, the substantive rules of EU law must be interpreted as applying to situations existing before their entry into force only in so far as it clearly follows from their terms, objectives or general scheme that such effect must be given to them (judgment of 14 March 2019, Textilis, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A199&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑21/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A199" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:199</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A199" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, it must be borne in mind that a new legal rule applies from the entry into force of the act introducing it, and that, while it does not apply to legal situations that arose and became definitive before that act entered into force, it does apply immediately to the future effects of a situation which arose under the old law, as well as to new legal situations. It is otherwise, subject to the principle of the non-retroactivity of legal acts, only if the new rule is accompanied by special provisions which specifically lay down the conditions for its temporal application (see, to that effect, judgment of 26 March 2015, Commission v Moravia Gas Storage, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A203&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑596/13 P</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A203" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:203</a> paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A203" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As stated in paragraphs 34 and 35 above, the setting of the after-care period for a landfill at a minimum of 30 years after its closure, as provided for in Article 10 of Directive 1999/31, does not apply to landfills closed before the date of transposition of that directive. It therefore does not apply to legal situations that have arisen and become definitive before that date and, accordingly, does not apply with retroactive effect. By contrast, as regards both the operator of the landfill in question and the holder of the waste stored there, that is an example of the application of a new rule to the future effects of a situation that arose under the old rule.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, the Malagrotta landfill was operating at the date of transposition of that directive and its closure occurred under it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It should be added that the estimated costs of the after-care of a site, for the purposes of Article 10 of Directive 1999/31, must in fact be linked to the consequences that the waste placed in landfill in a particular site may have on the environment. In that regard, an assessment should be made of all the relevant factors relating to the type and quantity of the waste in the landfill that may arise during the after-care period.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In order to determine the after-care costs of a landfill following its closure to a level that effectively and proportionately fulfils the objective referred to in Article 1(1) of Directive 1999/31, namely to limit the danger that a landfill may pose for the environment, that assessment must also take into consideration the costs already borne by the holder and the estimated costs for the services that will be provided by the operator.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, the amount that Co.La.Ri. is entitled to claim from AMA must be determined taking into account the factors set out in paragraphs 60 and 61 above and, in accordance with Article 14(1)(a) of Directive 1999/31, presented in the conditioning plan for the site submitted to the competent authorities. That amount must also be set at a level that covers only the increase in the after-care costs connected to the extension by 20 years of the after-care period for that landfill, which is a matter for the referring court to ascertain.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing considerations, the answer to the questions referred is that Articles 10 and 14 of Directive 1999/31 must be interpreted as not precluding the interpretation of a provision of national law to the effect that a landfill site in operation at the date of transposition of that directive must be subject to the obligations arising under that directive, in particular the obligation to extend the after-care period following the closure of the landfill, without it being necessary to make a distinction according to the date of storage of the waste or to provide for measures to limit the financial impact of that extension in respect of the holder of the waste.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the actions pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Second Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="coj-normal">
+<span class="coj-bold">Articles 10 and 14 of Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste must be interpreted as not precluding the interpretation of a provision of national law to the effect that a landfill site in operation at the date of transposition of that directive must be subject to the obligations arising under that directive, in particular the obligation to extend the after-care period following the closure of the landfill, without it being necessary to make a distinction according to the date of storage of the waste or to provide for measures to limit the financial impact of that extension in respect of the holder of the waste.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62019CJ0015_EN_01-E0001" id="t-ECR_62019CJ0015_EN_01-E0001">*1</a>
+</span>)	Language of the case: Italian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

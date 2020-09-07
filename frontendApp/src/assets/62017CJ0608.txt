@@ -1,0 +1,888 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (First Chamber)</p>
+<p class="sum-title-1">19 June 2019 (<span class="note">
+<a href="#t-ECR_62017CJ0608_EN_01-E0001" id="c-ECR_62017CJ0608_EN_01-E0001">*1</a>
+</span>) (<span class="note">
+<a href="#t-ECR_62017CJ0608_EN_01-E0002" id="c-ECR_62017CJ0608_EN_01-E0002">1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Corporation tax — Group of companies — Freedom of establishment — Deduction of losses of a non-resident subsidiary — Concept of ‘final losses’ — Application to a sub-subsidiary — Legislation of the State of establishment of the parent company requiring direct ownership of the subsidiary — Legislation of the State of establishment of the subsidiary restricting the set-off of losses and prohibiting them from being set off in the year of liquidation)</p>
+<p class="normal">In Case C-608/17,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Högsta förvaltningsdomstolen (Supreme Administrative Court, Sweden), made by decision of 5 October 2017, received at the Court on 24 October 2017, in the proceedings</p>
+<p class="normal">
+<span class="bold">Skatteverket</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Holmen AB</span>
+</p>
+<p class="normal">THE COURT (First Chamber),</p>
+<p class="normal">composed of J.-C. Bonichot (Rapporteur), President of the Chamber, C. Toader, A. Rosas, L. Bay Larsen and M. Safjan, Judges,</p>
+<p class="normal">Advocate General: J. Kokott,</p>
+<p class="normal">Registrar: C. Strömholm, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 24 October 2018,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Skatteverket, by M. Andersson Berg, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Holmen AB, by H. Andersson, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Swedish Government, by A. Falk, A. Alriksson, C. Meyer-Seitz, H. Shev, H. Eklinder, L. Zettergren and J. Lundberg, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the German Government, initially by T. Henze and R. Kanitz, and subsequently by R. Kanitz, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Netherlands Government, by M.K. Bulterman and J.M. Hoogveld, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Finnish Government, by S. Hartikainen, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by K. Simonsson and by N. Gossement, E. Ljung Rasmussen and G. Tolstoy, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 10 January 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 49 TFEU, read in conjunction with Article 54 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between the Skatteverket (Swedish Tax Board) and Holmen AB concerning the possibility of the latter deducting from its corporation tax the losses of a sub-subsidiary established in another Member State.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Swedish law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Intragroup financial transfers are regulated by Chapters 35 and 35a of the inkomstskattelag (1999:1229) (Law (1999:1229) on income tax, the ‘Law on income tax’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Under Chapter 35, losses sustained by a subsidiary are able to be transferred directly or indirectly to its parent company for tax purposes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Pursuant to Chapter 35a, that advantage can be conferred if the loss is final, as described in paragraph 55 of the judgment of 13 December 2005, <span class="italic">Marks &amp; Spencer</span> (C‑446/03, ‘the judgment in Marks &amp; Spencer, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A763&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:763</a>), concerning a wholly-owned subsidiary in a country belonging to the European Economic Area (EEA), provided, inter alia, that the subsidiary is directly owned, that it has been liquidated and that the parent company does not carry out, via an associated company, an activity in the subsidiary’s State after liquidation.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Spanish law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the order for reference that the Spanish tax consolidation system allows profits to be compensated without restriction by the losses of entities belonging to the same group. Unused losses may be carried forward and set off against any future profits without limit of time.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">However, since 2011, only part of the profits made in an accounting period may be set off against previous years’ losses. Losses which may not be deducted as a result of that limitation are carried forward, in the same way as other unused losses, to subsequent periods.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, if a tax grouping is dissolved because one or more of the entities in the grouping are liquidated, any outstanding losses in the grouping are allocated to the companies in which they arose.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Finally, in the year of liquidation, those losses may be used solely by the company in which the losses arose.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Holmen is the parent company in a group established in Sweden. In Spain, it holds, via a subsidiary, several sub-subsidiaries active in the fields of paper and printing with these entities together forming a tax-integrated group. Due to the fact that one of its sub-subsidiaries has accumulated losses of EUR 140 million since 2003, Holmen intends to liquidate its Spanish activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">In that context, Holmen applied for a preliminary decision by the Skatterättsnämnden (Revenue Law Commission, Sweden) in order to determine, when the liquidation is complete, whether it would be entitled based on the reasoning of the judgment in <span class="italic">Marks &amp; Spencer</span> to apply group relief in Sweden to its losses that would otherwise not be deductible in Spain, because of the impossibility in law to transfer the losses of a liquidated company in the year of liquidation, or in Sweden, because of the requirement that the subsidiary sustaining final losses be directly owned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Holmen specifically applied for the decision of the Revenue Law Commission based on two alternatives: under the first alternative, its Spanish subsidiary and its two Spanish sub-subsidiaries are liquidated and, under the second alternative, its subsidiary is absorbed by its loss-making Spanish sub-subsidiary in a reverse merger, after which the new grouping is liquidated. In both alternatives Holmen would not carry out any operations in Spain during the liquidations and would not carry out any activities in Spain after the liquidations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">The decision handed down by the Revenue Law Commission contains a negative response for the first alternative and a favourable response for the second alternative.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">The Revenue Law Commission accepted that its negative response for the first alternative would restrict the freedom of establishment but noted that, according to the reasoning in the judgment in <span class="italic">Marks &amp; Spencer</span>, that restriction may be justified provided that the principle of proportionality has been respected and, therefore, that the losses at issue do not fall within one of the situations covered by paragraph 55 of that judgment, in which the losses are regarded as ‘final’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Both the Swedish Tax Board and Holmen challenged the preliminary decision of the Revenue Law Commission before the Högsta förvaltningsdomstolen (Supreme Administrative Court, Sweden).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">The Högsta förvaltningsdomstolen (Supreme Administrative Court) holds that the case-law of the Court of Justice does not specify, on the one hand, whether the right to deduct final losses requires the subsidiary to be directly owned by the parent company and, on the other hand, whether, in order to assess the finality of a subsidiary’s losses, account should be taken of the possibilities afforded by the legislation of the subsidiary’s State of establishment to other legal entities of taking into account these losses and, if so, how that legislation should be taken into account.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Högsta förvaltningsdomstolen (Supreme Administrative Court), decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">In order for a parent company in one Member State to have the right — which follows from the (judgment in <span class="italic">Marks &amp; Spencer</span>), — on the basis of Article 49 TFEU to deduct final losses in a subsidiary in another Member State, is it necessary that the subsidiary be directly owned by the parent company?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Is that part of a loss which, as a result of the rules in the subsidiary’s State, it has not been possible to set off against profits which were made there in a particular year, but instead could be carried over so that they could potentially be deducted in a future year, also to be regarded as final?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">In the assessment of whether a loss is final, must account be taken of the fact that, under the rules in the subsidiary’s State, the possibility for parties other than the party making the loss itself to deduct the loss is restricted?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">If account is to be taken of a restriction such as that referred to in question 3, must regard be had to the extent to which the restriction has in fact led to it not being possible to set off any part of the losses against profits made by another party?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">It must, as preliminary point, be recalled that, in paragraphs 43 to 51 of the judgment in <span class="italic">Marks &amp; Spencer</span>, the Court has held that a restriction of the freedom of establishment which limits the right of a company to deduct the losses of a foreign subsidiary, whereas the losses of a resident subsidiary may be deducted, is justified by the need to preserve the balanced allocation of the power to impose taxes between the Member States and to prevent the risk of losses being used twice and of tax avoidance.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">In paragraph 55 of that judgment, the Court nonetheless held that, even though that restriction is justified in principle, it is disproportionate for the parent company’s State of establishment to preclude the possibility for the parent company to take into account at its level for tax purposes the losses of a non-resident subsidiary that are classified as final in a situation in which:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the non-resident subsidiary has exhausted the possibilities available in its State of establishment of having the losses taken into account for the accounting period concerned by the claim for relief and also for previous accounting periods, if necessary by transferring those losses to a third party or by offsetting those losses against the profits made by the subsidiary in previous periods, and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">there is no possibility for the foreign subsidiary’s losses to be taken into account in its State of establishment for future periods either by the subsidiary itself or by a third party, in particular where the subsidiary has been sold to that third party.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">By its first question, the referring court asks, in essence, whether the concept of final losses of a non-resident subsidiary, within the meaning of paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span>, may be applied to a sub-subsidiary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">That question arises in the context of the Swedish legislation at issue in the main proceedings, which makes the application of group relief in the event of losses of a non-resident subsidiary conditional on a direct link between the parent company making the application and the non-resident subsidiary sustaining the losses.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">It should be noted that such a condition, which leads to the exclusion of cross-border group relief in certain circumstances, may be justified by overriding reasons of the public interest referred to in paragraph 18 of the present judgment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">As the Court has held in paragraphs 45 to 52 of the judgment in <span class="italic">Marks &amp; Spencer</span>, the preservation of the allocation of the power to impose taxes between Member States might make it necessary to apply to the economic activities of companies established in one of those States only the tax rules of that State in respect of both profits and losses. From that perspective, to give companies the option to have their losses taken into account in the Member State in which they are established or in another Member State would significantly jeopardise a balanced allocation of the power to impose taxes between Member States, as the taxable basis would be increased in the first State and reduced in the second to the extent of the losses transferred. Moreover, in excluding cross-border relief the Member States must be able to prevent both the risk of double use of losses and the risk that within a group of companies losses will be transferred in an organised manner to companies established in the Member States which apply higher rates of taxation and in which the tax value of the losses is therefore the highest.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">It is further necessary that a condition for the application of group relief, such as that at issue in the main proceedings, be apt to ensure the attainment of the objectives pursued and not go beyond what is necessary to attain them.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, there are two alternatives.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Under the first alternative, the intermediate subsidiary or intermediate subsidiaries between the parent company applying for group relief and the sub-subsidiary sustaining losses that could be regarded as final are not established in the same Member State.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In that case, it cannot be excluded that a group may choose in which Member State the final losses are used, opting either for the Member State of the ultimate parent company or for the Member State of any potential intermediate subsidiary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Such an option would permit the adoption of strategies for the optimisation of the group tax rate, which would jeopardise both the preservation of the balanced allocation of the power to impose taxes between the Member States and give rise to a risk that the losses could be used multiple times.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">It is not therefore disproportionate for a Member State to make cross-border tax relief conditional on a direct link, even if the other impossibilities referred to in paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span> have been met, and all the less so since the exception provided for in that paragraph applies, in any event, to the Member State of the subsidiary directly owning the sub-subsidiary which would be the subject of a claim for cross-border relief for the losses of that sub-subsidiary.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Under the second alternative, the intermediate subsidiary or intermediate subsidiaries between the parent company applying for group relief and the sub-subsidiary sustaining losses that could be regarded as final are established in the same Member State. That appears to be the situation in the case in the main proceedings since both Holmen’s intermediate subsidiary and its sub-subsidiary sustaining the losses are established in Spain.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the risks of optimisation of the group tax rate by choosing in which Member State the losses are set off and of the use of losses multiple times correspond to those noted by the Court in paragraphs 45 to 52 of the judgment in <span class="italic">Marks &amp; Spencer</span>.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">It would therefore be disproportionate for a Member State to impose a requirement of direct ownership such as that at issue in the case in the main proceedings where the conditions in paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span> have been met.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the answer to the first question is that the concept of final losses of a non-resident subsidiary, within the meaning of paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span>, does not apply to a sub-subsidiary unless all the intermediate companies between the parent company applying for group relief and the sub-subsidiary sustaining losses that could be regarded as final are established in the same Member State.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The third question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">By its third question the referring court seeks, in essence, to establish the significance which should be accorded, in the assessment of the finality of the losses of a non-resident subsidiary, within the meaning of paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span>, to the fact that the subsidiary’s State of establishment does not permit the losses of one company to be transferred to another company liable for corporation tax in the year of liquidation, but nevertheless authorises those losses to be carried forward to other accounting periods of that same company.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">The Court is therefore called upon to clarify whether a situation such as that envisaged by Holmen in which, in the year of liquidation, the Member State of the non-resident company permits solely the use for tax purposes of losses by the company that sustained those losses, is included in those referred to by the Court in the second indent of paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span>, in which there is no possibility for the losses of the foreign subsidiary to be taken into account in its State of establishment for future periods.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">It should be recalled in that regard that the grounds relied on by the Court in the second indent of paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span> expressly envisaged that the absence of such a possibility on which the finality of the losses depends may be applied to the situation in which they are taken into account by a third party for future periods, in particular where the subsidiary has been sold to that third party.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that, in a situation such as those envisaged by Holmen, and even if all the other impossibilities mentioned in paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span> have been met where applicable, the losses would not be characterised as final if there is a possibility of deducting those losses economically by transferring them to a third party before the completion of the liquidation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">In fact, as the Advocate General stated in points 57 to 63 of her Opinion, it cannot be excluded from the outset that a third party may take into account for tax purposes the losses of the subsidiary in that subsidiary’s State of establishment, for example following a sale of that subsidiary for a price including the tax advantage represented by the deductibility of losses for the future (see, to that effect, judgment of 21 February 2013, A, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A84&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑123/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A84&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:84</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A84&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point52" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">52</a> et seq., and judgment delivered today, <span class="italic">Memira Holding</span>, C‑607/17, paragraph 26).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, in a situation such as those envisaged by Holmen, it is for Holmen to demonstrate that the possibility referred to in the previous paragraph is precluded, as the mere fact that the subsidiary’s State of establishment does not allow the transfer of losses in the year of liquidation cannot, in itself, be sufficient for the losses of the subsidiary or of the sub-subsidiary to be regarded as being final.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the answer to the third question is that, for the purposes of the assessment of the finality of the losses of a non-resident subsidiary, within the meaning of paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span>, the fact that the subsidiary’s Member State of establishment does not allow the losses of one company to be transferred to another company in the year of liquidation is not decisive, unless the parent company demonstrates that it is impossible for it to deduct those losses by ensuring, in particular by means of a sale, that they are taken into account by a third party for future periods.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The second and fourth questions</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">By its second and fourth questions, which should be examined together and lastly, the referring court asks, in essence, whether, if the fact referred to in the third question becomes relevant, account must be taken of the fact that the legislation of the State of establishment of the subsidiary sustaining the losses that could be regarded as final results in part of the losses having to be carried forward because of a restriction on the setting-off of losses on the same entity, or being impossible to set off against the profits made by another company of the same group.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard and as stated in the answer to the third question, the restrictions on the transfer of losses stemming from the legislation of the subsidiary’s State of establishment are not decisive so long as the parent company has not adduced evidence that it is impossible for those losses to be used by a third party, in particular after a sale for a price including the tax value of the losses.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">If such evidence is adduced and the other conditions referred to in paragraph 55 of the judgment in <span class="italic">Marks &amp; Spencer</span> have been met, the fiscal authorities are required to find that the losses of a non-resident subsidiary are final and that it is therefore disproportionate to not allow the parent company to take them into account at its level for tax purposes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">In that perspective, the extent to which the loss-making company was limited in its possibilities of carrying forward its losses or the extent to which other entities of the same group also located in the State of establishment of the loss-making subsidiary may have been limited in their possibility of having the subsidiary’s losses transferred to them is irrelevant for the purposes of assessing the finality of the losses.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the answers to the second and fourth questions should be that, if the fact referred to in the third question becomes relevant, the extent to which the legislation of the State of establishment of the subsidiary sustaining the losses that could be regarded as final results in it not being possible to set off part of them against the current profits of the loss-making subsidiary or against those profits of another company in the same group is irrelevant.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (First Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">The concept of final losses of a non-resident subsidiary, within the meaning of paragraph 55 of the judgment of 13 December 2005, Marks &amp; Spencer (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A763&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑446/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A763&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:763</a>), does not apply to a sub-subsidiary unless all the intermediate companies between the parent company applying for group relief and the sub-subsidiary sustaining losses that could be regarded as final are established in the same Member State.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">For the purposes of the assessment of the finality of a non-resident subsidiary’s losses, within the meaning of paragraph 55 of the judgment of 13 December 2005, Marks &amp; Spencer (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A763&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑446/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A763&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:763</a>), the fact that the subsidiary’s Member State of establishment does not allow the losses of one company to be transferred to another company in the year of liquidation is not decisive, unless the parent company demonstrates that it is impossible for it to deduct those losses by ensuring, in particular by means of a sale, that they are taken into account by a third party for future periods.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">3.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">If the fact referred to in paragraph 2 of the operative part of the present judgment becomes relevant, the extent to which the legislation of the State of establishment of the subsidiary sustaining the losses that could be regarded as final results in it not being possible to set off part of them against the current profits of the loss-making subsidiary or against those profits of another company in the same group is irrelevant.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62017CJ0608_EN_01-E0001" id="t-ECR_62017CJ0608_EN_01-E0001">*1</a>
+</span>)	Language of the case: Swedish.</p>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62017CJ0608_EN_01-E0002" id="t-ECR_62017CJ0608_EN_01-E0002">1</a>
+</span>)	The wording of paragraphs 36 and 39 of this document have been modified after it was first put online.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

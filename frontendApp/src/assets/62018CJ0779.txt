@@ -1,0 +1,1300 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (First Chamber)</p>
+<p class="coj-sum-title-1">26 March 2020 (<span class="coj-note">
+<a href="#t-ECR_62018CJ0779_EN_01-E0001" id="c-ECR_62018CJ0779_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Consumer protection — Credit agreements for consumers — Directive 2008/48/EC — Article 3(g), Article 10(2) and Article 22(1) — Level of harmonisation — Concept of ‘non-interest credit costs’ — Directive 93/13/EEC — Article 1(2) — Unfair terms in consumer contracts — Ceiling value for the total non-interest credit costs — Contractual terms reflecting mandatory statutory or regulatory provisions — Not included)</p>
+<p class="coj-normal">In Case C‑779/18,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Sąd Rejonowy w Siemianowicach Śląskich (District Court, Siemianowice Śląskie, Poland), made by decision of 9 November 2018, received at the Court on 12 December 2018, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">Mikrokasa S.A.,</span>
+</p>
+<p class="coj-normal">
+<span class="coj-bold">Revenue Niestandaryzowany Sekurytyzacyjny Fundusz Inwestycyjny Zamknięty</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">XO,</span>
+</p>
+<p class="coj-normal">THE COURT (First Chamber),</p>
+<p class="coj-normal">composed of J.-C. Bonichot, President of the Chamber, M. Safjan, L. Bay Larsen, C. Toader (Rapporteur) and N. Jääskinen, Judges,</p>
+<p class="coj-normal">Advocate General: G. Hogan,</p>
+<p class="coj-normal">Registrar: M. Aleksejev, Head of Unit,</p>
+<p class="coj-normal">having regard to the written procedure and further to the hearing on 13 November 2019,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Mikrokasa S.A., by M. Kamiński, radca prawny,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Polish Government, by B. Majczyna, M. Kamejsza-Kozłowska and D. Lutostańska, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by G. Goddin, K. Herbout-Borczak, A. Szmytkowska and N. Ruiz García, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">after hearing the Opinion of the Advocate General at the sitting on 19 December 2019,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1993:095:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1993 L 95, p. 29</a>) and Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:133:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2008 L 133, p. 66</a>, and corrigenda <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:207:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2009 L 207, p. 14</a>, <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2010:199:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2010 L 199, p. 40</a>, <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:234:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2011 L 234, p. 46</a>, and <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2015:036:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2015 L 36, p. 15</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in two sets of proceedings, joined by the referring court, between (i) Mikrokasa S.A. and XO and (ii) Revenue Niestandaryzowany Sekurytyzacyjny Fundusz Inwestycyjny Zamknięty (‘Revenue’) and XO concerning requests for payment of sums payable in the context of two consumer credit agreements.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">European Union law</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Directive 93/13</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The 13th and 24th recitals of Directive 93/13 state:</p>
+<p class="coj-normal">‘Whereas the statutory or regulatory provisions of the Member States which directly or indirectly determine the terms of consumer contracts are presumed not to contain unfair terms; whereas, therefore, it does not appear to be necessary to subject the terms which reflect mandatory statutory or regulatory provisions and the principles or provisions of international conventions to which the Member States or the Community are party; whereas in that respect the wording “mandatory statutory or regulatory provisions” in Article 1(2) also covers rules which, according to the law, shall apply between the contracting parties provided that no other arrangements have been established;</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">Whereas the courts or administrative authorities of the Member States must have at their disposal adequate and effective means of preventing the continued application of unfair terms in consumer contracts.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 1 of that directive provides:</p>
+<p class="coj-normal">‘1.   The purpose of this Directive is to approximate the laws, regulations and administrative provisions of the Member States relating to unfair terms in contracts concluded between a seller or supplier and a consumer.</p>
+<p class="coj-normal">2.   The contractual terms which reflect mandatory statutory or regulatory provisions and the provisions or principles of international conventions to which the Member States or the Community are party, particularly in the transport area, shall not be subject to the provisions of this Directive.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 3 of Directive 93/13 defines the conditions under which a term included in a contract concluded between a seller or supplier and a consumer is to be regarded as unfair.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 6(1) of that directive provides:</p>
+<p class="coj-normal">‘Member States shall lay down that unfair terms used in a contract concluded with a consumer by a seller or supplier shall, as provided for under their national law, not be binding on the consumer and that the contract shall continue to bind the parties upon those terms if it is capable of continuing in existence without the unfair terms.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 7(1) of Directive 93/13 is worded as follows:</p>
+<p class="coj-normal">‘Member States shall ensure that, in the interests of consumers and of competitors, adequate and effective means exist to prevent the continued use of unfair terms in contracts concluded with consumers by sellers or suppliers.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Directive 2008/48</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Recitals 7, 9, 19, 20 and 44 of Directive 2008/48 read as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(7)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In order to facilitate the emergence of a well-functioning internal market in consumer credit, it is necessary to make provision for a harmonised Community framework in a number of core areas. In view of the continuously developing market in consumer credit and the increasing mobility of European citizens, forward-looking Community legislation which is able to adapt to future forms of credit and which allows Member States the appropriate degree of flexibility in their implementation should help to establish a modern body of law on consumer credit.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(9)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Full harmonisation is necessary in order to ensure that all consumers in the Community enjoy a high and equivalent level of protection of their interests and to create a genuine internal market. …</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(19)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In order to enable consumers to make their decisions in full knowledge of the facts, they should receive adequate information, which the consumer may take away and consider, prior to the conclusion of the credit agreement, on the conditions and cost of the credit and on their obligations. To ensure the fullest possible transparency and comparability of offers, such information should, in particular, include the annual percentage rate of charge applicable to the credit, determined in the same way throughout the Community. …</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(20)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The total cost of the credit to the consumer should comprise all the costs, including interest, commissions, taxes, fees for credit intermediaries and any other fees which the consumer has to pay in connection with the credit agreement, except for notarial costs. Creditors’ actual knowledge of the costs should be assessed objectively, taking into account the requirements of professional diligence.</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(44)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In order to ensure market transparency and stability, and pending further harmonisation, Member States should ensure that appropriate measures for the regulation or supervision of creditors are in place.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">According to Article 1 thereof, the purpose of Directive 2008/48 is to harmonise certain aspects of the Member States’ rules concerning agreements covering credit for consumers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 3 of that directive states:</p>
+<p class="coj-normal">‘For the purposes of this Directive, the following definitions shall apply:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“consumer” means a natural person who, in transactions covered by this Directive, is acting for purposes which are outside his trade, business or profession;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(g)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“total cost of the credit to the consumer” means all the costs, including interest, commissions, taxes and any other kind of fees which the consumer is required to pay in connection with the credit agreement and which are known to the creditor, except for notarial costs; costs in respect of ancillary services relating to the credit agreement, in particular insurance premiums, are also included if, in addition, the conclusion of a service contract is compulsory in order to obtain the credit or to obtain it on the terms and conditions marketed;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(h)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">“total amount payable by the consumer” means the sum of the total amount of the credit and the total cost of the credit to the consumer;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 5 of that directive, entitled ‘Pre-contractual information’, provides:</p>
+<p class="coj-normal">‘1.   In good time before the consumer is bound by any credit agreement or offer, the creditor and, where applicable, the credit intermediary shall, on the basis of the credit terms and conditions offered by the creditor and, if applicable, the preferences expressed and information supplied by the consumer, provide the consumer with the information needed to compare different offers in order to take an informed decision on whether to conclude a credit agreement. Such information, on paper or on another durable medium, shall be provided by means of the Standard European Consumer Credit Information form set out in Annex II. The creditor shall be deemed to have fulfilled the information requirements in this paragraph and in Article 3, paragraphs (1) and (2) of Directive 2002/65/EC if he has supplied the Standard European Consumer Credit Information.</p>
+<p class="coj-normal">The information in question shall specify:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the total amount of credit and the conditions governing the drawdown;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(g)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the annual percentage rate of charge and the total amount payable by the consumer, illustrated by means of a representative example mentioning all the assumptions used in order to calculate that rate; where the consumer has informed the creditor of one or more components of his preferred credit, such as the duration of the credit agreement and the total amount of credit, the creditor shall take those components into account; if a credit agreement provides different ways of drawdown with different charges or borrowing rates and the creditor uses the assumption set out in point (b) of Part II of Annex I, he shall indicate that other drawdown mechanisms for this type of credit agreement may result in higher annual percentage rates of charge;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 10 of that directive, entitled ‘Information to be included in credit agreements’, provides:</p>
+<p class="coj-normal">‘1.   Credit agreements shall be drawn up on paper or on another durable medium. All the contracting parties shall receive a copy of the credit agreement. This Article shall be without prejudice to any national rules regarding the validity of the conclusion of credit agreements which are in conformity with Community law.</p>
+<p class="coj-normal">2.   The credit agreement shall specify in a clear and concise manner:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(d)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the total amount of credit and the conditions governing the drawdown;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(g)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the annual percentage rate of charge and the total amount payable by the consumer, calculated at the time the credit agreement is concluded; all the assumptions used in order to calculate that rate shall be mentioned;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(u)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">where applicable, other contractual terms and conditions;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 22 of Directive 2008/48, entitled ‘Harmonisation and imperative nature of this Directive’, states:</p>
+<p class="coj-normal">‘1.   Insofar as this Directive contains harmonised provisions, Member States may not maintain or introduce in their national law provisions diverging from those laid down in this Directive.</p>
+<p class="coj-normal">…</p>
+<p class="coj-normal">3.   Member States shall further ensure that the provisions they adopt in implementation of this Directive cannot be circumvented as a result of the way in which agreements are formulated, in particular by integrating drawdowns or credit agreements falling within the scope of this Directive into credit agreements the character or purpose of which would make it possible to avoid its application.</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Polish law</span>
+</span>
+</p>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">The Civil Code</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 359 of the kodeks cywilny (Civil Code):</p>
+<p class="coj-normal">‘§ 1.   Interest on a sum of money shall be payable only if it results from a legal transaction or from a law, court decision or decision of another competent authority.</p>
+<p class="coj-normal">§ 2.   If the interest rate is not otherwise specified, statutory interest shall be payable at a rate corresponding to the sum of the reference rate of the National Bank of Poland plus 3.5 percentage points.</p>
+<p class="coj-normal">§ 2<span class="coj-super">1</span>.   The maximum interest rate resulting from a legal transaction may not exceed twice the statutory interest rate per annum (the maximum interest).</p>
+<p class="coj-normal">§ 2<span class="coj-super">2</span>.   If the interest rate resulting from a legal transaction exceeds the maximum interest rate, the maximum interest shall be payable.</p>
+<p class="coj-normal">§ 2<span class="coj-super">3</span>.   Contractual terms may not exclude or limit provisions relating to the maximum interest, including where foreign law has been selected. In such a case, the provisions of this Law shall apply.</p>
+<p class="coj-normal">§ 4.   The Minister for Justice shall announce, by means of a notice in the Official Journal of the Republic of Poland <span class="coj-italic">Monitor Polski</span>, the statutory interest rate.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 385<span class="coj-super">1</span> of that code provides:</p>
+<p class="coj-normal">‘§ 1.   Terms of a contract concluded with a consumer which have not been agreed individually shall not be binding on the consumer if they define his rights and obligations in a way that is contrary to good practice, grossly infringing his interests (prohibited contractual terms). This shall not apply to terms setting out the principal obligations of the parties, including price or remuneration, if they have been worded unambiguously.</p>
+<p class="coj-normal">§ 2.   If a contractual term is not binding on the consumer pursuant to § 1, the parties shall be bound by the remainder of the contract.</p>
+<p class="coj-normal">§ 3.   Contractual terms which have not been agreed individually are those over the content of which the consumer had no actual influence. This refers in particular to contractual terms taken from a standard contract proposed to a consumer by a contracting party.</p>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-3">
+<span class="coj-italic">Law on Consumer Credit</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The ustawa o kredycie konsumenckim (Law on Consumer Credit) of 12 May 2011 (Dziennik Ustaw No 126, item 715), in the version in force at the time of the events in the main proceedings (‘the Law on Consumer Credit’), transposes Directive 2008/48 into Polish law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Definitions for the following terms are provided under Article 5(6), (6a), (7) and (8) of that law:</p>
+<p class="coj-normal">‘(6) the total cost of the credit — all the costs which the consumer is required to pay in connection with the credit agreement, in particular: (a) interest, charges, fees, taxes and margins, if known to the creditor; and (b) costs of ancillary services, in particular insurance, if these must be paid in order to obtain the credit or to obtain it on the terms and conditions marketed, except for the costs of notarial fees paid by the consumer;</p>
+<p class="coj-normal">(6a) the non-interest credit costs — all the costs borne by the consumer in connection with the consumer credit agreement, excluding interest;</p>
+<p class="coj-normal">(7) the total amount of the credit — the maximum amount of money, not including credit costs, that the creditor makes available to the consumer under the credit agreement or, in the case of agreements in respect of which no provision has been made regarding that maximum amount, the total amount of money, not including credit costs, that the creditor makes available to the consumer under the credit agreement;</p>
+<p class="coj-normal">(8) the total amount payable by the consumer — the sum of the total cost of the credit and the total amount of the credit.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 13 of that law provides:</p>
+<p class="coj-normal">‘1.   Before entering into a consumer credit agreement, the creditor or credit intermediary shall be required to provide the consumer with the following information, on a durable medium, in sufficient time to allow the consumer to familiarise himself with that information:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(5)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the total amount of the credit;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(6)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the dates and methods of drawdown of credit;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(7)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the total amount payable by the consumer;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(10)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">where applicable, information on the other costs which the consumer is required to pay in connection with the consumer credit agreement, in particular regarding interest, fees, margins, charges, including charges for maintaining one or several accounts recording both payment transactions and drawdowns, together with the charges for using payment instruments for both payment transactions and drawdowns, and the costs of ancillary services, in particular insurance, if known to the creditor, and the conditions under which those costs may change;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(11)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">information on the need to pay notarial fees, if any;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 30 of that law provides:</p>
+<p class="coj-normal">‘1.   Subject to Articles 31 to 33, a consumer credit agreement should set out:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the type of credit;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(4)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the total amount of the credit;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(5)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the dates and methods of drawdown of credit;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(6)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the credit interest rate …;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(7)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the annual percentage rate of charge and the total amount payable by the consumer as determined at the date on which the consumer credit agreement is concluded together with all the assumptions used in order to calculate it;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(8)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the rules and deadlines with regard to repayment of the credit …;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(9)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">a statement including the deadlines and rules with regard to the payment of interest and any other credit costs where the creditor or credit intermediary allows a grace period in repaying the credit;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(10)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">information on the other costs which the consumer is required to pay in connection with the consumer credit agreement, in particular charges, including charges for maintaining one or several accounts recording both payment transactions and drawdowns, together with charges for using a means of payment for both payment transactions and drawdowns, fees, margins and the costs of ancillary services, in particular insurance, if known to the creditor, and the conditions under which those costs may change;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 36a of that law:</p>
+<p class="coj-normal">‘1.   The maximum amount of the non-interest credit costs shall be calculated according to the formula:</p>
+<p class="coj-normal">MPKK ≤ (K × 25%) + (K × n/R × 30%)</p>
+<p class="coj-normal">where the meaning of each of the symbols is as follows:</p>
+<p class="coj-normal">MPKK — the maximum amount of the non-interest credit costs;</p>
+<p class="coj-normal">K — the total amount of the credit;</p>
+<p class="coj-normal">n — the repayment period, expressed in days;</p>
+<p class="coj-normal">R — the number of days in a year.</p>
+<p class="coj-normal">2.   Throughout the entire lending period, the non-interest credit costs may not exceed the total amount of the credit.</p>
+<p class="coj-normal">3.   Non-interest credit costs arising from a consumer credit agreement shall not be payable in so far as they exceed the maximum non-interest credit costs calculated in the manner described in paragraph 1 above or the total amount of the credit.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 47 of the Law on Consumer Credit provides:</p>
+<p class="coj-normal">‘Contractual terms may not exclude or limit the consumer’s rights as provided for by law. In such cases, the provisions of this Law shall apply.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The two cases giving rise to this request for a preliminary ruling, which were joined by the referring court by decision of 8 November 2018, were brought by the banks Mikrokasa and Revenue against XO.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the first case, on 21 December 2016 XO concluded a loan agreement with Mikrokasa as a consumer within the meaning of Directive 2008/48 for an amount of 4000 Polish zlotys (PLN) (approximately EUR 940), repayable in 30 monthly instalments until 28 June 2019. Under that agreement, the consumer also undertook to pay PLN 600 (approximately EUR 139) in arrangement fees and PLN 3400 (approximately EUR 790) in administrative fees. Contractual interest was also invoiced at an annual rate of 7% for an amount of PLN 371.87 (approximately EUR 86).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">After XO failed to make any payments, Mikrokasa brought an action against XO before the Sąd Rejonowy w Siemianowicach Śląskich I Wydział Cywilny (First Civil Section of the District Court, Siemianowice Śląskie, Poland), requesting that that court order XO to pay PLN 8 184.53 (approximately EUR 1927).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Regarding the second case, on 21 November 2016 the same consumer concluded a loan agreement online with IPF Polska sp. z. o. o. for an amount of PLN 3000 (approximately EUR 703.18), repayable until 28 May 2018. According to the terms of that agreement, the consumer was required to pay a commission of PLN 2084 (approximately EUR 488.46). Contractual interest was invoiced at an annual rate of 10% for a total amount of PLN 248.41 (approximately EUR 57).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The claim resulting from that agreement was transferred to Revenue by IPF Polska via an assignment agreement on 16 August 2017. Revenue brought an action against XO on 27 October 2017 seeking payment of PLN 5 196.68 (approximately EUR 1 218.09) for failure to pay. The Sąd Rejonowy Lublin Zachód w Lublinie (District Court, Lublin West, Poland) issued an order for payment. The consumer brought an appeal against that decision before the Sąd Rejonowy w Siemianowicach Śląskich (District Court, Siemianowice Śląskie, Poland).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That court indicates that the non-interest credit costs in the two agreements at issue in the main proceedings were calculated on the basis of the formula laid down by national legislation in Article 36a of the Law on Consumer Credit and do not exceed the permitted maximum amount.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, that court expresses doubts as to the compatibility with Directive 2008/48, in particular in view of the total harmonisation achieved by that directive, of a piece of national legislation which introduces a concept of ‘non-interest credit costs’ which is not laid down in that directive. In particular, it is necessary to examine the issue of whether the introduction of such a concept is liable to infringe the objectives set by Directive 2008/48.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In addition, in the case of total non-interest costs calculated in the manner set out by the legislature in Article 36a of the Law on Consumer Credit, those costs are determined on the basis of a formula regardless of the services actually provided and the resources committed by the loan provider. Thus, the consumer is unable to familiarise himself with the real credit costs and to be made duly aware of his legal situation at the time of the conclusion of the agreement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court also has doubts as to whether Directive 93/13 is applicable to terms of an agreement that comply with the provisions of national legislation concerning the permitted maximum costs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That court emphasises that the Polish legislature has sought to guarantee, by adopting Article 36a of the Law on Consumer Credit, that the costs for which consumers are invoiced are limited, indicating that the total cost of the credit, excluding interest, may not exceed 55% of the total amount of the credit within 1 year, 85% within 2 years and 100% regardless of the length of the lending period.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, according to that court, in practice, loan providers often select the maximum amount permitted according to the statutory formula, without necessarily taking account of the costs actually incurred.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, there is a concern that the loan provider is at an excessive and unjustified advantage at the expense of the consumer, leading to a significant imbalance so far as the consumer is concerned, which results from a comparison of the total amount of the credit with the total cost of that credit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court also notes that the current practice of the Polish courts shows different approaches: some courts exclude costs determined on the basis of Article 36a of the Law on Consumer Credit when reviewing whether a term is unfair, while other courts assess those costs according to the criteria laid down by the national legislation implementing Article 3 of Directive 93/13.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the Sąd Rejonowy w Siemianowicach Śląskich (District Court, Siemianowice Śląskie) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Should the provisions of [Directive 2008/48], in particular Articles 3(g), 10(1) and 22(1) thereof, be interpreted as precluding “non-interest credit costs”, determined as a lump sum in accordance with the statutory calculation formula set out in Article 36a of the [Law on Consumer Credit], from being distinguished from the “total cost of the credit to the consumer”, as defined in that directive, in a manner that enables the actual non-interest credit costs borne by the loan provider to be concealed from the consumer?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Should the provisions of [Directive 93/13], in particular Articles 1(2), 6(1) and 7(1) thereof, be interpreted as precluding a review of the terms of consumer credit agreements with respect to the conditions set out in Article 3 of that directive in so far as it includes “non-interest credit costs”, the criteria for determining which are described in Article 36a of the Law on Consumer Credit?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its first question, the referring court asks, in essence, whether Article 3(g), Article 10(1) and Article 22(1) of Directive 2008/48 are to be interpreted as precluding a provision of national legislation which lays down a calculation method regarding the maximum amount of non-interest credit costs that may be imposed on the consumer in the context of consumer credit [agreements].</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It should first of all be borne in mind that, according to Article 1 thereof, the purpose of Directive 2008/48 is to harmonise certain aspects of the Member States’ rules concerning agreements covering credit for consumers.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Next, it follows from Article 22(1) of that directive that, in so far as that directive contains harmonised provisions, Member States may not maintain or introduce in their national law provisions diverging from those laid down in that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Lastly, as can be seen from the case-law of the Court, in order to guarantee extensive consumer protection, in Article 3(g) of that directive the EU legislature broadly defines the ‘total cost of the credit to the consumer’ as covering all the costs, including interest, taxes and any other kind of fees which the consumer is required to pay in connection with the credit agreement and which are known to the creditor, except for notarial costs (see, to that effect, judgments of 26 February 2015, Matei, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A127&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑143/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A127" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:127</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A127" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a>; of 8 December 2016, Verein für Konsumenteninformation, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A934&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑127/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A934" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:934</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A934" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>; and of 11 September 2019, Lexitor, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A702&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑383/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A702" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:702</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A702" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="coj-normal">However, Directive 2008/48 does not contain either the concept of ‘non-interest credit costs’ or provisions governing the issue of limiting credit costs or the sharing of those costs between the seller or supplier and the consumer. It is apparent from the documents before the Court that the ‘non-interest credit costs’ constitute a subcategory of the ‘total cost of the credit’ referred to in Article 3(g) of Directive 2008/48, as that cost encompasses all costs, including, in particular, interest.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Point (g) of Article 5(1) of that directive, which lists the pre-contractual information that must be provided to the consumer prior to the conclusion of the agreement, and point (g) of Article 10(2) thereof, which concerns the information that must be specified in the agreement in a clear and concise manner, lay down an obligation to inform the consumer of the ‘total amount payable by the consumer’, defined in Article 3(h) of Directive 2008/48 as being ‘the sum of the total amount of the credit and the total cost of the credit to the consumer’. Those provisions do not lay down any obligation to provide information concerning either the non-interest credit costs or the method whereby those costs are to be calculated.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, it must be held that Directive 2008/48 does not lay down any harmonised provisions concerning ‘non-interest credit costs’ or the way in which those costs are to be calculated.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Although Directive 2008/48 harmonises only certain aspects of the Member States’ rules concerning agreements covering credit for consumers, it is clear from recital 44 thereof that, in order to ensure market transparency and stability, and pending further harmonisation, Member States should ensure that appropriate measures for the regulation or supervision of creditors are in place (see, to that effect, judgment of 6 June 2019, Schyns, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A467&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑58/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A467" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:467</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A467" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>). However, it is necessary to ensure that those measures do not conflict with the areas harmonised by Directive 2008/48.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be borne in mind that Directive 2008/48 was adopted in order both to ensure that all consumers in the European Union enjoy a high and equivalent level of protection of their interests and to facilitate the emergence of a well-functioning internal market in consumer credit (judgments of 5 September 2019, Pohotovosť, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A665&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑331/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A665" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:665</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A665" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">41</a>, and of 19 December 2019, Home Credit Slovakia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1130&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑290/19</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1130" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:1130</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1130" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 10 of that directive lists the information that must be specified in a clear and concise manner in the agreement. The Court has already held that Article 10(2) of that directive provides for full harmonisation as regards the information which must imperatively be included in a credit agreement (judgment of 5 September 2019, Pohotovosť, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A665&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑331/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A665" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:665</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A665" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In addition, as has been recalled in paragraph 38 above, under Article 22(1) of Directive 2008/48, in so far as that directive contains harmonised provisions, Member States may not maintain or introduce in their national law provisions diverging from those laid down in that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, it is apparent from the documents before the Court that the provisions of national legislation concerning non-interest credit costs confine themselves to establishing a ceiling value for and a method for calculating those costs, together with the consequences of failing to comply with that ceiling value. In any event, as the Advocate General noted in points 59 and 60 of his Opinion, it is for the referring court to verify whether the national legislation imposes additional information obligations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing considerations, Article 3(g), Article 10(2) and Article 22(1) of Directive 2008/48 must be interpreted as not precluding a provision of national legislation which lays down a calculation method regarding the maximum amount of non-interest credit costs that may be imposed on the consumer, provided that that provision does not introduce additional information obligations regarding those non-interest credit costs which go beyond those laid down in Article 10(2) of that directive.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its second question, the referring court asks, in essence, whether Article 1(2) of Directive 93/13 is to be interpreted as meaning that a contractual term which establishes non-interest credit costs in accordance with the ceiling value set by a provision of national legislation, without necessarily taking the costs actually incurred into account, falls outside the scope of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it should be borne in mind that Article 1(2) of Directive 93/13, which refers to terms which reflect mandatory statutory or regulatory provisions, introduces the possibility of exclusion from the scope of that directive, provided that, according to the case-law of the Court, two conditions are satisfied. Firstly, the contractual term must reflect a statutory or regulatory provision and, secondly, that provision must be mandatory (judgments of 7 November 2019, Kanyeba and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A936&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑349/18 to C‑351/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A936" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:936</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A936" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">60</a>, and of 3 March 2020, Gómez del Moral Guasch, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A138&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑125/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A138" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:138</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A138" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In order to establish whether those conditions are satisfied, the Court of Justice has held that it is for the national court to determine whether the contractual term concerned reflects mandatory provisions of national law that apply between the parties to the contract independently of their choice or provisions that are supplementary in nature and therefore apply by default, that is to say, in the absence of other arrangements established by the parties (judgment of 3 March 2020, Gómez del Moral Guasch, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A138&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑125/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A138" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:138</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A138" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Court of Justice has held that a national court must take account of the fact that, having regard to the purpose of that directive, namely the protection of consumers against unfair terms included in contracts concluded with consumers by sellers or suppliers, the exception introduced by Article 1(2) thereof is to be strictly construed, in order to ensure its effectiveness (see, to that effect, judgments of 10 September 2014, Kušionová, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2189&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑34/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2189" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2189</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2189" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">77</a>, and of 20 September 2018, OTP Bank and OTP Faktoring, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A750&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑51/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A750" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:750</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A750" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">54</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In any event, it should be borne in mind that a contractual term included in a contract concluded by a seller or supplier with a consumer falls outside the scope of that directive only if that contractual term reflects the content of a mandatory statutory or regulatory provision for the purposes of Article 1(2) of Directive 93/13, read in the light of the 13th recital thereof (see, to that effect, judgment of 10 September 2014, Kušionová, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2189&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑34/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2189" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2189</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2189" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">80</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Such an exclusion has been justified by the fact that it may legitimately be supposed that the national legislature has struck a balance between all the rights and obligations of the parties to certain contracts, a balance which the EU legislature has expressly intended to preserve (judgments of 21 March 2013, RWE Vertrieb, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A180&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑92/11</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A180" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:180</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A180" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>, and of 3 April 2019, Aqua Med, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A282&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑266/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A282" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:282</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A282" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="coj-normal">While the Court of Justice has, in its case-law, developed the criteria for interpreting Article 1(2) of Directive 93/13, it is for the referring court to draw specific consequences from those criteria.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, it should be noted, subject to the verifications to be carried out in that regard by the referring court, that it does not appear that a contractual term which confines itself to implementing a method for calculating the ceiling value of non-interest credit costs ‘reflects’, strictly speaking, the provision of national legislation under consideration (see, to that effect, judgment of 3 April 2019, Aqua Med, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A282&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑266/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A282" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:282</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A282" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A282" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Indeed, that provision does not appear, in itself, to determine the rights and obligations of the parties to the contract, but confines itself to restricting their freedom to set the non-interest credit costs above a certain level and in no way prevents the national court from reviewing the possible unfairness of the way in which such costs are set, even below the statutory ceiling value.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing considerations, Article 1(2) of Directive 93/13 must be interpreted as meaning that a contractual term which establishes non-interest credit costs in accordance with the ceiling value set by a provision of national legislation, without necessarily taking the costs actually incurred into account, does not fall outside the scope of that directive.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (First Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 3(g), Article 10(2) and Article 22(1) of Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC must be interpreted as not precluding a provision of national legislation which lays down a calculation method regarding the maximum amount of non-interest credit costs that may be imposed on the consumer, provided that that provision does not introduce additional information obligations regarding those non-interest credit costs which go beyond those laid down in Article 10(2) of that directive.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 1(2) of Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts must be interpreted as meaning that a contractual term which establishes non-interest credit costs in accordance with the ceiling value set by a provision of national legislation, without necessarily taking the costs actually incurred into account, does not fall outside the scope of that directive.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62018CJ0779_EN_01-E0001" id="t-ECR_62018CJ0779_EN_01-E0001">*1</a>
+</span>)	Language of the case: Polish.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

@@ -1,0 +1,779 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Third Chamber)</p>
+<p class="sum-title-1">1 March 2018 (<span class="note">
+<a href="#t-ECR_62017CJ0009_EN_01-E0001" id="c-ECR_62017CJ0009_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Public procurement — Directive 2004/18/EC — Tendering procedure for public contracts for farm advisory services — Whether or not there is a public contract — Scheme for obtaining services open to any economic operator who satisfies previously established conditions — Scheme not subsequently open to other economic operators)</p>
+<p class="normal">In Case C-9/17,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Korkein hallinto-oikeus (Supreme Administrative Court, Finland), made by decision of 22 December 2016, received at the Court on 9 January 2017, in the proceedings brought by</p>
+<p class="normal">
+<span class="bold">Maria Tirkkonen,</span>
+</p>
+<p class="normal">intervener:</p>
+<p class="normal">
+<span class="bold">Maaseutuvirasto,</span>
+</p>
+<p class="normal">THE COURT (Third Chamber),</p>
+<p class="normal">composed of L. Bay Larsen, President of the Chamber, J. Malenovský, M. Safjan, D. Šváby (Rapporteur) and M. Vilaras, Judges,</p>
+<p class="normal">Advocate General: M. Campos Sánchez-Bordona,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Ms Tirkkonen, by A. Kuusniemi-Laine, asianajaja,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Finnish Government, by S. Hartikainen, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by A. Tokár and I. Koskinen, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 13 December 2017,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 1(2)(a) of Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:134:TOC" hreflang="en" target="CourtTab">OJ 2004 L 134, p. 114</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings brought by Ms Maria Tirkkonen concerning the rejection by the Maaseutuvirasto (Agency for Rural Affairs, Finland) (‘the Agency’) of the tender which she had presented in order to be selected as an advisor in the field of ‘livestock, health welfare plans’, in the context of the ‘<span class="italic">Neuvo 2020 — Maatilojen neuvontajärjestelmä</span>’ (Neuvo 2020 — Farm Advisory Scheme) (‘the Neuvo 2020 Farm Advisory Scheme’).</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">EU law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Directive 2004/18</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1 of Directive 2004/18, entitled ‘Definitions’, provides, inter alia:</p>
+<p class="normal">‘…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">“Public contracts” are contracts for pecuniary interest concluded in writing between one or more economic operators and one or more contracting authorities and having as their object the execution of works, the supply of products or the provision of services within the meaning of this Directive.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">5.   A “framework agreement” is an agreement between one or more contracting authorities and one or more economic operators, the purpose of which is to establish the terms governing contracts to be awarded during a given period, in particular with regard to price and, where appropriate, the quantity envisaged.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Entitled ‘[f]ramework agreements’ Article 32 of that directive provides, inter alia:</p>
+<p class="normal">‘…</p>
+<p class="normal">2.   For the purpose of concluding a framework agreement, contracting authorities shall follow the rules of procedure referred to in this Directive for all phases up to the award of contracts based on that framework agreement. The parties to the framework agreement shall be chosen by applying the award criteria set in accordance with Article 53.</p>
+<p class="normal">Contracts based on a framework agreement shall be awarded in accordance with the procedures laid down in paragraphs 3 and 4. Those procedures may be applied only between the contracting authorities and the economic operators originally party to the framework agreement.</p>
+<p class="normal">When awarding contracts based on a framework agreement, the parties may under no circumstances make substantial amendments to the terms laid down in that framework agreement, in particular in the case referred to in paragraph 3.</p>
+<p class="normal">…</p>
+<p class="normal">4.   Where a framework agreement is concluded with several economic operators, the latter must be at least three in number, insofar as there is a sufficient number of economic operators that satisfy the selection criteria and/or of admissible tenders that meet the award criteria.</p>
+<p class="normal">Contracts based on framework agreements concluded with several economic operators may be awarded either:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">by application of the terms laid down in the framework agreement without reopening competition, or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">where not all the terms are laid down in the framework agreement, when the parties are again in competition on the basis of the same and, if necessary, more precisely formulated terms, and, where appropriate, other terms referred to in the specifications of the framework agreement, in accordance with the following procedure:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">for every contract to be awarded, contracting authorities shall consult in writing the economic operators capable of performing the contract;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">contracting authorities shall fix a time limit which is sufficiently long to allow tenders for each specific contract to be submitted, taking into account factors such as the complexity of the subject-matter of the contract and the time needed to send in tenders;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">tenders shall be submitted in writing, and their content shall remain confidential until the stipulated time limit for reply has expired;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">contracting authorities shall award each contract to the tenderer who has submitted the best tender on the basis of the award criteria set out in the specifications of the framework agreement.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Regulation (EU) No 1305/2013</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 15 of Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation (EC) No 1698/2005 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2013:347:TOC" hreflang="en" target="CourtTab">OJ 2013 L 347, p. 487</a>), in relation to ‘[a]dvisory services, farm management and farm relief services’, provides, in paragraph 3:</p>
+<p class="normal">‘The authorities or bodies selected to provide advice shall have appropriate resources in the form of regularly trained and qualified staff and advisory experience and reliability with respect to the fields in which they advise. The beneficiaries under this measure shall be chosen through calls for tenders. The selection procedure shall be governed by public procurement law and shall be open to both public and private bodies. It shall be objective and shall exclude candidates with conflicts of interest.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Regulation (EU) No 1306/2013</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 12(1) of Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2013:347:TOC" hreflang="en" target="CourtTab">OJ 2013 L 347, p. 549</a>, and corrigendum <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2016:130:TOC" hreflang="en" target="CourtTab">OJ 2016 L 130, p. 13</a>) provides:</p>
+<p class="normal">‘Member States shall establish a system for advising beneficiaries on land management and farm management (“farm advisory scheme”) …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 13 of that regulation, entitled ‘Specific requirements relating to the farm advisory scheme’, states in paragraph 1:</p>
+<p class="normal">‘Member States shall ensure that advisors working within the farm advisory scheme are suitably qualified and regularly trained.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Implementing Regulation (EU) No 808/2014</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 7 of Commission Implementing Regulation (EU) No 808/2014 of 17 July 2014 laying down rules for the application of Regulation No 1305/2013 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2014:227:TOC" hreflang="en" target="CourtTab">OJ 2014 L 227, p. 18</a>), which relates to the ‘[s]election of authorities or bodies offering advisory services’:</p>
+<p class="normal">‘The calls for tenders referred to in Article 15(3) of Regulation (EU) No 1305/2013 shall follow the applicable Union and national public procurement rules. In that context, due consideration must be given to the degree of attainment by the applicants of the qualifications referred to in that article.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Directive 2014/24/EU</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 91 of Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2014:094:TOC" hreflang="en" target="CourtTab">OJ 2014 L 94, p. 65</a>), Directive 2004/18 was repealed as of 18 April 2016.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Finnish law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Directive 2004/18 was transposed into Finnish law by the Laki julkisista hankinnoista (348/2007) (Law on public procurement (348/2007)) (‘the Law on public procurement’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, Article 45(1) of the Laki maatalouden tukien toimeenpanosta (192/2013) (Law on the implementation of agricultural aid (192/2013)), in the version applicable to the dispute in the main proceedings, provides that advisors are selected in compliance with the provisions of public procurement law and for a period ending on the expiry of the 2014-2020 Rural Development Programme for Mainland Finland. Under Paragraph 45(2) of the law, a condition of selection and admittance is that the advisor possesses adequate expertise in terms of the status and scope of the advisory task and that he must, furthermore, meet the conditions as to suitability referred to in Article 46 of that law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Under Paragraph 45(3) of that law, the advisor must maintain and develop the professional knowledge required for the farm advisory service.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">The order for reference indicates that the Republic of Finland has established a Rural Development Programme for Mainland Finland 2014-2020, for which the Agency, by a contract notice published on 16 September 2014, launched a tender procedure in order to conclude contracts for advisory services, under the Neuvo 2020 Farm Advisory Scheme, for the period from 1 January 2015 to 31 December 2020.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">The provision of advisory services at issue in the main proceedings is subject to the conditions laid down in a draft framework agreement annexed to the invitation to tender.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">The advisory services referred to in that contract notice are offered to farmers and other land managers who have entered into an environmental agreement concerning the payment of environmental compensation payments. Farmers who fulfil that condition and who wish to request advice are free to contact an advisor of their choice, who is a member of the Neuvo 2020 Farm Advisory Scheme. That advisor is then paid according to the work carried out, by way of an hourly rate excluding value added tax (VAT) paid by the Agency, the farmer only bearing the amount of VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">In order to allow the selection of farm advisory service providers and in accordance with the requirements of Article 15(3) of Regulation No 1305/2013 and Article 13(1) of Regulation No 1306/2013, the Agency required applicants wishing to be admitted under this scheme to demonstrate that they were qualified, duly trained and experienced as advisers in the fields in which they intended to provide advice.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">As the referring court notes, the Agency initially adopted, on 18 December 2014, a conditional award decision (‘the contested decision’) admitting all advisors who had applied and had met the aptitude criteria as well as the minimum requirements required in the call for tenders and its annexes. In a second step, the Agency selected, in a final award decision, those candidates who had passed the examination mentioned in the annex to the tender.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Ms Tirkkonen was not among the advisors conditionally admitted by the contested decision, on the ground that she had not completed point 7 of the tender form, entitled ‘Compliance of tender with the formal requirements and with the invitation to tender’, in which the service provider must indicate whether he accepts the terms of the draft framework agreement annexed to the invitation to tender by ticking the ‘yes’ box or the ‘no’ box. Considering that it was imperative to accept the terms of that draft framework agreement, the Agency, by the contested decision, rejected Ms Tirkkonen’s application and did not authorise her to adjust her tender by marking the box ‘yes’ in point 7 of that form.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">The latter then challenged that decision before the Markkinaoikeus (Market Court, Finland) in order to obtain the right to complete her tender documents and to fill out point 7 of that form. To that end, it alleged that the invitation to tender at issue in the main proceedings constituted a licensing scheme and was therefore not covered by the concept of a public contract. Accordingly, she argued that she should have been allowed to complete her bid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">The case having been dismissed by a judgment of 7 September 2015, Ms Tirkkonen lodged an appeal before the Korkein hallinto-oikeus (Supreme Administrative Court, Finland).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court asks about the applicability of public procurement law to the dispute in the main proceedings, in so far as it is apparent from the judgment of 2 June 2016, Falk Pharma (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑410/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:399</a>) that the choice of a tender and, thus, of a successful tenderer, is intrinsically linked to the concept of ‘public contract’ within the meaning of Article 1(2)(a) of Directive 2004/18. Nevertheless, in so far as the tenderers had to pass an examination described in the invitation to tender, before finally being admitted to the framework agreement annexed to the invitation to tender, the referring court notes that those requirements could constitute decisive characteristics within the meaning of the judgment of 26 March 2015, Ambisig (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑601/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:204</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="en" target="CourtTab" type="application/xhtml+xml">31</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point32" hreflang="en" target="CourtTab" type="application/xhtml+xml">32</a>), and, therefore may be characterised as a ‘public contract’ within the meaning of Article 1(2)(a) of Directive 2004/18.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">At the same time, however, the referring court notes, first, that the invitation to tender at issue in the main proceedings lays down no award criteria on the basis of which the tenders submitted would have been compared with each other and, secondly, that the Agency did not award points to the bids or make a comparison of them. Thus, according to the referring court, all the tenderers satisfying the requirements of that invitation to tender and having passed the examination mentioned in the annex to that invitation to tender, were admitted to the framework agreement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court points out, however, that although the number of providers eligible to join the framework agreement is not limited in advance in the tender documents, it is factually limited by means of the obligation to fulfil those requirements.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court points out, moreover, that a specific feature of the contractual scheme that gave rise to the judgment of 2 June 2016, Falk Pharma (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑410/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:399</a>), was that it remained permanently open to interested operators during its whole period of validity, which was sufficient to distinguish that scheme from a framework agreement within the meaning of Directive 2004/18. In the present case, an advisory service provider could no longer join the Neuvo 2020 Farm Advisory Scheme after the adoption, by the Agency, of the final award decision, which, it is claimed, limited the number of economic operators who could provide the advisory service.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">It was in that context that the Korkein hallinto-oikeus (Supreme Administrative Court) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:</p>
+<p class="normal">‘Is Article 1(2)(a) of Directive 2004/18 to be interpreted as meaning that the definition of “public contract” within the meaning of that directive encompasses a scheme</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">by which a public body seeks to obtain services in the market for a contractual period limited in advance by entering into contracts, subject to the conditions of a draft framework agreement annexed to the invitation to tender, with all economic operators who meet the individual requirements laid down in the tender documents in regard to the suitability of the service provider and to the service offered, and pass an exanimation more particularly described in the invitation to tender, and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">which can no longer be joined during the validity period of the contract?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">By its question, the referring court asks essentially whether Article 1(2)(a) of Directive 2004/18 is to be interpreted as meaning that a farm advisory scheme, such as that at issue in the main proceedings, through which a public entity admits all the economic operators, provided that they meet the suitability requirements set out in an invitation to tender and pass the examination referred to in that invitation to tender, and which does not admit any new operator during the limited validity period of that farm advisory scheme, must be classified as a public contract within the meaning of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">As a preliminary point, it must be pointed out that as Directive 2004/18 was repealed after the date of adoption of the contested decision, its interpretation remains relevant to enable the referring court to resolve the dispute in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">As the European Commission has pointed out, the farm advisory scheme leads to the conclusion of contracts for a pecuniary interest between a public entity, which could be a contracting authority within the meaning of Directive 2004/18, and economic operators whose objective is to supply services, which corresponds to the definition of ‘public contracts’ laid down in Article 1(2)(a) of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">It is important to remember, however, that the objective of Directive 2004/18 was to avoid the risk of preference being given to national tenderers or applicants whenever a contract is awarded by the contracting authorities. That risk is closely connected to the exclusivity which will result from the award of the contract concerned to the operator whose tender has been accepted or to the economic operators whose tenders have been accepted, in the case of a framework agreement, constituting the objective of a public procurement procedure (see, to that effect, judgment of 2 June 2016, Falk Pharma, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑410/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:399</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point35" hreflang="en" target="CourtTab" type="application/xhtml+xml">35</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point36" hreflang="en" target="CourtTab" type="application/xhtml+xml">36</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the Court has already pointed out that the choice of a tender and, thus, of a successful tenderer, is intrinsically linked to the regulation of public contracts by that directive and, consequently, to the concept of ‘public contract’ within the meaning of Article 1(2) of that directive (see, to that effect, judgment of 2 June 2016, Falk Pharma, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑410/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:399</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="en" target="CourtTab" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the fact that the contracting authority does not designate an economic operator to whom contractual exclusivity is to be awarded means that there is no need to control, through the detailed rules of Directive 2004/18, the action of that contracting authority so as to prevent it from awarding a contract in favour of national operators (see, to that effect, judgment of 2 June 2016, Falk Pharma, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑410/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:399</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="en" target="CourtTab" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it is therefore necessary to determine whether the Agency has chosen a tender from among all those which satisfied the conditions it had laid down in its invitation to tender.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is apparent from the decision to refer that the Agency intends to set up a large pool of advisers who must fulfil a number of conditions. However, in so far as the Agency admits all the candidates who satisfy those requirements, it is clear, as the Advocate General has pointed out in point 39 of his Opinion, that it makes no selection among the admissible tenders and that it confines itself to ensuring that qualitative criteria are respected.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">The fact that, as is clear from the decision to refer, access to the farm advisory scheme at issue in the main proceedings is limited to a preliminary period, which ends when the examination is organised or, at the latest, when the final award decision is published, and that it is therefore not possible for an adviser, such as Ms Tirkkonen, to join that farm advisory scheme, cannot call that assessment into question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">As the Advocate General has pointed out in points 51 and 52 of his Opinion, the fact that, unlike the context that gave rise to the judgment of 2 June 2016, Falk Pharma (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑410/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:399</a>), a farm advisory scheme, such as that at issue in the main proceedings, is not permanently open to interested economic operators is irrelevant. In the present case, the decisive factor is that the contracting authority has not referred to any award criteria for the purpose of comparing and classifying admissible tenders. In the absence of that factor, which is, as is apparent from paragraph 38 of the judgment of 2 June 2016, Falk Pharma (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑410/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A399&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2016:399</a>), intrinsically linked to the regulation of public contracts, a farm advisory scheme, such as that at issue in the main proceedings, cannot constitute a public contract within the meaning of Article 1(2)(a) of Directive 2004/18.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, it should be recalled that, even if the verification of the tenderers’ suitability and the award of the contract are carried out simultaneously, those two operations must be regarded as two different operations governed by different rules (see, to that effect, judgments of 20 September 1988, Beentjes, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1988%3A422&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">31/87</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1988%3A422&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:1988:422</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1988%3A422&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point15" hreflang="en" target="CourtTab" type="application/xhtml+xml">15</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1988%3A422&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point16" hreflang="en" target="CourtTab" type="application/xhtml+xml">16</a>, and of 24 January 2008, Lianakis and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A40&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑532/06</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A40&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2008:40</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A40&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point26" hreflang="en" target="CourtTab" type="application/xhtml+xml">26</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, criteria that are not aimed at identifying the tender which is economically the most advantageous, but are instead essentially linked to the evaluation of the tenderers’ suitability to perform the contract in question, cannot be regarded as ‘award criteria’. Criteria relating mainly to the experience, qualifications and means to ensure the proper performance of the contract concerned were considered to relate to the suitability of tenderers to perform that contract and not as ‘award criteria’, even though the contracting authority had classified them as such (see, to that effect, judgment of 24 January 2008, Lianakis and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A40&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑532/06</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A40&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2008:40</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A40&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="en" target="CourtTab" type="application/xhtml+xml">30</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A40&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="en" target="CourtTab" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Finally, that conclusion is in no way affected by the solution adopted in the judgment of 26 March 2015, Ambisig (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑601/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:204</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point31" hreflang="en" target="CourtTab" type="application/xhtml+xml">31</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point34" hreflang="en" target="CourtTab" type="application/xhtml+xml">34</a>), in which the Court pointed out, in essence, that the skills and experience of the members of the team assigned to performing the public contract may be included as award criteria in the contract notice or in the tender specifications, in so far as the quality of the performance of a contract may depend decisively on the ‘professional merit’ of the people entrusted with its performance, which is made up of their professional experience and background, particularly where the contract covers the provision of services of an intellectual nature and relates to training and advisory services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">That assessment must, however, be understood in the light of the circumstances of the case which gave rise to that judgment, that is, in the light of the contracting authority’s choice of the tender which it intended to accept from several admissible tenders. In so doing, unlike the case at issue in the main proceedings, the contracting authority, in the case that gave rise to the judgment of 26 March 2015, Ambisig (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑601/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2015:204</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point11" hreflang="en" target="CourtTab" type="application/xhtml+xml">11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point13" hreflang="en" target="CourtTab" type="application/xhtml+xml">13</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point28" hreflang="en" target="CourtTab" type="application/xhtml+xml">28</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A204&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point34" hreflang="en" target="CourtTab" type="application/xhtml+xml">34</a>), made a real comparison of the admissible tenders in order to identify the most economically advantageous tender. In the latter case, the experience of the proposed technical team was an intrinsic feature of the tender and was not merely a criterion for assessing the tenderers’ suitability.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the foregoing considerations that the requirements set out in the invitation to tender published by the Agency cannot constitute award criteria within the meaning of Directive 2004/18.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of all the foregoing considerations, the answer to the question referred is that Article 1(2)(a) of Directive 2004/18 is to be interpreted as meaning that a farm advisory scheme, such as that at issue in the main proceedings, through which a public entity accepts all the economic operators who meet the suitability requirements set out in the invitation to tender and who pass the examination referred to in that invitation to tender, even if no new operator can be admitted during the limited validity period of that scheme, does not constitute a public contract within the meaning of that directive.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Third Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 1(2)(a) of Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts must be interpreted as meaning that a farm advisory scheme, such as that at issue in the main proceedings, through which a public entity admits all the economic operators who meet the suitability requirements set out in the invitation to tender and who pass the examination referred to in that invitation to tender, even if no new operator can be admitted during the limited validity period of that scheme, does not constitute a public contract within the meaning of that directive.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62017CJ0009_EN_01-E0001" id="t-ECR_62017CJ0009_EN_01-E0001">*1</a>
+</span>)	Language of the case: Finnish.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

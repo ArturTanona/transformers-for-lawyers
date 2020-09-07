@@ -1,0 +1,654 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Sixth Chamber)</p>
+<p class="coj-sum-title-1">16 July 2020 (<span class="coj-note">
+<a href="#t-ECR_62019CJ0424_EN_01-E0001" id="c-ECR_62019CJ0424_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Directive 2006/112/EC — Value added tax (VAT) — Article 9(1) — Concept of ‘taxable person’ — Person practising the profession of lawyer — Final judicial decision — Principle of <span class="coj-italic">res judicata</span> — Scope of that principle if that decision is incompatible with EU law)</p>
+<p class="coj-normal">In Case C‑424/19,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Curtea de Apel București (Court of Appeal, Bucharest, Romania), made by decision of 15 February 2019, received at the Court on 29 May 2019, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">Cabinet de avocat UR</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Administraţia Sector 3 a Finanţelor Publice prin Direcţia Generală Regională a Finanţelor Publice Bucureşti,</span>
+</p>
+<p class="coj-normal">
+<span class="coj-bold">Administraţia Sector 3 a Finanţelor Publice,</span>
+</p>
+<p class="coj-normal">
+<span class="coj-bold">MJ,</span>
+</p>
+<p class="coj-normal">
+<span class="coj-bold">NK,</span>
+</p>
+<p class="coj-normal">THE COURT (Sixth Chamber),</p>
+<p class="coj-normal">composed of M. Safjan, President of the Chamber, R. Silva de Lapuerta (Rapporteur), Vice-President of the Court, N. Jääskinen, Judge,</p>
+<p class="coj-normal">Advocate General: J. Kokott,</p>
+<p class="coj-normal">Registrar: A. Calot Escobar,</p>
+<p class="coj-normal">having regard to the written procedure,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Cabinet de avocat UR, by D. Rădescu, avocat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Romanian Government, initially by C.R. Canţăr, R.I. Haţieganu and A. Rotăreanu, and subsequently by E. Gane, R.I. Haţieganu and A. Rotăreanu, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by L. Lozano Palacios and A. Armenia, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">This request for a preliminary ruling concerns the interpretation of Article 9(1) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2006 L 347, p. 1</a>) and the principle of <span class="coj-italic">res judicata</span>.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between Cabinet de avocat UR (‘UR’), on the one hand, and the Administraţia Sector 3 a Finanţelor Publice prin Direcţia Generală Regională a Finanţelor Publice Bucureşti (the Public Finance Authority, Sector 3, represented by the Directorate-General of Public Finances, Bucharest, Romania), the Administraţia Sector 3 a Finanţelor Publice (Public Finance Authority, Sector 3, Romania), MJ and NK, on the other, concerning UR’s liability to value added tax (VAT).</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 2(1) of Directive 2006/112:</p>
+<p class="coj-normal">‘The following transactions shall be subject to VAT:</p>
+<p class="coj-normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the supply of services for consideration within the territory of a Member State by a taxable person acting as such;</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 9(1) of that directive provides:</p>
+<p class="coj-normal">‘“Taxable person” shall mean any person who, independently, carries out in any place any economic activity, whatever the purpose or results of that activity.</p>
+<p class="coj-normal">Any activity of producers, traders or persons supplying services, including mining and agricultural activities and activities of the professions, shall be regarded as “economic activity”. The exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis shall in particular be regarded as an economic activity.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">Romanian law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 431 of the Codul de procedură civilă (Code of Civil Procedure), entitled ‘Effects of <span class="coj-italic">res judicata</span>’, in the version applicable to the dispute in the main proceedings, provides:</p>
+<p class="coj-normal">‘1.   No person may be sued twice in the same capacity, for the same cause of action and with the same subject matter.</p>
+<p class="coj-normal">2.   Any party may invoke the authority of <span class="coj-italic">res judicata</span> in another case, if there is a connection with the settlement of that case.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court states that the ‘negative or extinctive effect’ of the authority of <span class="coj-italic">res judicata</span> precludes a new judgment where the parties, the legal cause of action and the subject matter of the action are the same, whereas the ‘positive effect’ of the authority of <span class="coj-italic">res judicata</span> allows any party to rely on <span class="coj-italic">res judicata</span> in the context of a dispute where there is a connection with the settlement of that dispute, such as the same issues being raised.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 432 of that code, entitled ‘Plea of <span class="coj-italic">res judicata</span>’, provides:</p>
+<p class="coj-normal">‘A plea of <span class="coj-italic">res judicata</span> may be raised by the court or by the parties at any stage of the proceedings, even before the appeal court. If the plea is upheld, that may have the effect of worsening the situation of the party concerned as a result of its own action, as compared with the situation arising from the contested decision.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">On 28 May 2015, UR, a law firm established in Romania, requested the Public Finance Authority of Sector 3 to remove UR, with effect from 2002, from the register of taxable persons for VAT purposes and to reimburse the VAT collected by that authority during the period 1 January 2010 to 31 December 2014, on the ground that UR had been entered in that register in error.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In view of the authority’s failure to reply to that request, UR brought an action against the defendants in the main proceedings before the Tribunalul Bucureşti (Regional Court, Bucharest, Romania) seeking an order that the Public Finance Authority of Sector 3 remove UR from the register of taxable persons for VAT purposes and that the defendants in the main proceedings jointly and severally reimburse UR in respect of the VAT collected.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By decision of 17 February 2017, the Tribunalul Bucureşti (Regional Court, Bucharest) dismissed UR’s action.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In support of its appeal brought against that decision before the Curtea de Apel Bucureşti (Court of Appeal, Bucharest, Romania), UR relies on the authority of <span class="coj-italic">res judicata</span> attaching to a judgment of 30 April 2018 which has become final, by which that court, upholding a judgment of 21 September 2016 of the Tribunalul Bucureşti (Regional Court, Bucharest), held that a taxpayer such as UR which practises the profession of lawyer does not engage in any economic activity and, consequently, cannot be regarded as carrying out transactions for the supply of goods or services, since the contracts concluded with its clients are contracts for legal assistance and not contracts for the provision of services (‘the judgment of 30 April 2018’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In those circumstances, the Curtea de Apel București (Court of Appeal, Bucharest) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the context of the application of Article 9(1) of [Directive 2006/112], does the concept of “taxable person” include persons who practise the profession of lawyer?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(2)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Does the principle of the primacy of EU law permit an exception to be made, in subsequent proceedings, to the authority of <span class="coj-italic">res judicata</span> attaching to a final judicial decision in which it has been established, in essence, that, in accordance with national VAT legislation, as it is interpreted and applied, lawyers do not supply goods, do not carry out an economic activity and do not conclude contracts for the supply of services, but instead conclude contracts for legal assistance?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the questions referred for a preliminary ruling</span>
+</p>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its first question, the referring court asks, in essence, whether Article 9(1) of Directive 2006/112 must be interpreted as meaning that a person practising the profession of lawyer must be regarded as a ‘taxable person’ within the meaning of that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under the first subparagraph of Article 9(1) of that directive, ‘taxable person’ means any person who, independently, carries out in any place any economic activity, whatever the purpose or results of that activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The terms used in that provision, in particular the term ‘any person who’, give the notion of ‘taxable person’ a broad definition focused on independence in the pursuit of an economic activity to the effect that all persons, natural or legal, both public and private, even entities devoid of legal personality, which, in an objective manner, satisfy the criteria set out in that provision, are regarded as being taxable persons for the purposes of VAT (judgments of 29 September 2015, Gmina Wrocław, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A635&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑276/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A635" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:635</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A635" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>, and of 12 October 2016, Nigl and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A764&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑340/15</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A764" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:764</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A764" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">As regards the second subparagraph of Article 9(1) of Directive 2006/112, it defines ‘economic activity’ as any activity of producers, traders or persons supplying services, including, inter alia, activities of the professions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, and since the profession of lawyer is a liberal profession, it follows from Article 9(1) of Directive 2006/112 that a person practising that profession carries out an economic activity and must be regarded as a ‘taxable person’ within the meaning of that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, it should be noted that, under Directive 2006/112, the scope of VAT is very wide, in that Article 2, which concerns taxable transactions, refers not only to the importation of goods but also to the intra-Community acquisition of goods, and the supply of goods or services for consideration within the territory of the country by a taxable person acting as such (judgments of 19 July 2012, Rēdlihs, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A497&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑263/11</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A497" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:497</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A497" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>, and 3 September 2015, Asparuhovo Lake Investment Company, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A542&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑463/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A542" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:542</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A542" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Furthermore, in paragraph 49 of the judgment of 17 June 2010, Commission v France (<a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A348&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑492/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A348" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:348</a>), the Court held that a Member State may not apply a reduced rate of VAT to the supply of services by lawyers for which they are paid in full or in part by the State under the legal aid scheme. That assessment necessarily presupposes that those services were regarded as being subject to VAT and that those lawyers, described as ‘private profit-making entities’ in that judgment, were regarded as acting as taxable persons.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the light of the foregoing, the answer to the first question is that Article 9(1) of Directive 2006/112 must be interpreted as meaning that a person practising the profession of lawyer must be regarded as a ‘taxable person’ within the meaning of that provision.</p>
+</td>
+</tr>
+</table>
+<p class="coj-title-grseq-2">
+<span class="coj-bold">
+<span class="coj-italic">The second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its second question, the referring court asks, in essence, whether EU law must be interpreted as meaning that a national court, in a dispute relating to VAT, may not apply the principle of the authority of <span class="coj-italic">res judicata</span> where the application of that principle would prevent that court from taking into account EU legislation on VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that connection, attention should be drawn to the importance, both for the EU legal order and for the national legal systems, of the principle of <span class="coj-italic">res judicata</span>. In order to ensure stability of the law and legal relations, as well as the sound administration of justice, it is important that judicial decisions which have become definitive after all rights of appeal have been exhausted or after expiry of the time limits provided for in that regard can no longer be called into question (judgments of 3 September 2009, Fallimento Olimpiclub, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑2/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:506</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">22</a>; of 11 September 2019, Călin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A700&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑676/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A700" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:700</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A700" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>; and of 4 March 2020, Telecom Italia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A148&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑34/19</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A148" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:148</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A148" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">64</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Therefore, EU law does not require a national court to disapply domestic rules of procedure conferring finality on a judgment, even if to do so would make it possible to remedy a domestic situation which is incompatible with EU law (judgment of 11 September 2019, Călin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A700&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑676/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A700" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:700</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A700" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In particular, EU law does not require a national judicial body automatically to go back on a decision having the authority of <span class="coj-italic">res judicata</span> in order to take into account the interpretation of a relevant provision of EU law adopted by the Court (judgments of 11 September 2019, Călin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A700&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑676/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A700" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:700</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A700" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>, and of 4 March 2020, Telecom Italia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A148&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑34/19</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A148" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:148</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A148" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">66</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the absence of EU legislation in this area, the rules implementing the principle of <span class="coj-italic">res judicata</span> are a matter for the national legal order, in accordance with the principle of the procedural autonomy of the Member States. However, those rules must not be less favourable than those governing similar domestic actions (principle of equivalence) nor may they be framed in such a way as to make it in practice impossible or excessively difficult to exercise the rights conferred by EU law (principle of effectiveness) (judgments of 3 September 2009, Fallimento Olimpiclub, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑2/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:506</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>; of 10 July 2014, Impresa Pizzarotti, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2067&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑213/13</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2067" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2067</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2067" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">54</a>; and of 4 March 2020, Telecom Italia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A148&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑34/19</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A148" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:148</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A148" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">58</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, if the applicable domestic rules of procedure provide the possibility, under certain conditions, for a national court to go back on a decision having the authority of <span class="coj-italic">res judicata</span> in order to render the situation compatible with national law, that possibility must prevail if those conditions are met, in accordance with the principles of equivalence and effectiveness, so that the situation at issue is brought back into line with EU law (judgment of 11 September 2019, Călin, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A700&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑676/17</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A700" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:700</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A700" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, the referring court notes that the applicant in the main proceedings relies on the ‘positive effect’ of the authority of <span class="coj-italic">res judicata</span> attached to its judgment of 30 April 2018.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">That court states that, if it were to consider that that judgment has the authority of <span class="coj-italic">res judicata</span>, the considerations in that judgment would likely create a tax precedent favourable to the applicant and would form the basis of the solution of the dispute in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is also apparent from the order for reference that the dispute in the main proceedings relates to the period 1 January 2010 to 31 December 2014, whereas the judgment of 30 April 2018 concerned the period 1 January 2011 to 30 November 2014. Moreover, the subject matter of the present dispute, namely a request for removal, with effect from 2002, from the register of taxable persons for VAT purposes and for a reimbursement of the VAT collected by the Romanian public finance authorities during the period in question, differs from the subject matter of the case which gave rise to the judgment of 30 April 2018.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, in the event that the referring court has the possibility, under the applicable procedural rules of Romanian law, of dismissing the action in the main proceedings, it is for that court to make use of that possibility and to ensure that EU law is given full effect, in the present case Directive 2006/112, and if necessary to disapply, on its own authority, the interpretation which it adopted in its judgment of 30 April 2018, since that interpretation is not compatible with EU law (see, by analogy, judgments of 4 March 2020, Telecom Italia, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A148&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑34/19</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A148" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:148</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A148" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">61</a>, and of 5 March 2020, OPR-Finance, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A167&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑679/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A167" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:167</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A167" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If, on the contrary, that court considers that the application of the principle of <span class="coj-italic">res judicata</span> would prevent a judicial decision such as the judgment of 30 April 2018 from being called into question, even if that decision entails a breach of EU law, the application of that principle cannot also prevent that court from calling into question any finding relating to a common issue decided by such a decision, during the judicial review of another decision taken by the competent tax authority in respect of the same taxpayer or taxable person, but relating to a different tax year (see, to that effect, judgment of 3 September 2009, Fallimento Olimpiclub, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑2/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:506</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="coj-normal">If the principle of <span class="coj-italic">res judicata</span> were to be applied in that manner, the effect would be that, if ever the judicial decision that had become final were based on an incorrect interpretation of EU rules on VAT, those rules would continue to be misapplied for each new tax year, without it being possible to rectify that incorrect interpretation (see, to that effect, judgment of 3 September 2009, Fallimento Olimpiclub, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑2/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:506</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Such extensive obstacles to the effective application of the EU rules on VAT cannot reasonably be regarded as justified in the interests of legal certainty and must therefore be considered to be contrary to the principle of effectiveness (see, to that effect, judgment of 3 September 2009, Fallimento Olimpiclub, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑2/08</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:506</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A506" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In view of the foregoing, the answer to the second question is that EU law must be interpreted as meaning that a national court, in a dispute relating to VAT, may not apply the principle of the authority of <span class="coj-italic">res judicata</span> where that dispute does not relate to a tax period identical to the one which was at issue in the dispute which gave rise to the judicial decision having the authority of <span class="coj-italic">res judicata</span>, does not have the same subject matter as that dispute, and where the application of that principle would prevent that court from taking into account EU legislation on VAT.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Sixth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">Article 9(1) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that a person practising the profession of a lawyer must be regarded as a ‘taxable person’ within the meaning of that provision.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count coj-bold">
+<span class="coj-bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="coj-normal">
+<span class="coj-bold">EU law precludes a national court, in a dispute relating to value added tax (VAT), from applying the principle of <span class="coj-italic">res judicata</span> where that dispute does not relate to a tax period identical to the one which was at issue in the dispute which gave rise to the judicial decision having the authority of <span class="coj-italic">res judicata</span>, does not have the same subject matter as that dispute, and where the application of that principle would prevent that court from taking into account EU legislation on VAT.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62019CJ0424_EN_01-E0001" id="t-ECR_62019CJ0424_EN_01-E0001">*1</a>
+</span>)	Language of the case: Romanian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

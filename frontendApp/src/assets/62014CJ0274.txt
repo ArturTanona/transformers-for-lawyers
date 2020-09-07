@@ -1,0 +1,1302 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Grand Chamber)</p>
+<p class="sum-title-1">21 January 2020 (<span class="note">
+<a href="#t-ECR_62014CJ0274_EN_01-E0001" id="c-ECR_62014CJ0274_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Article 267 TFEU — Definition of ‘court or tribunal of a Member State’ — Criteria — Independence of the national body concerned — Irremovability of the members — Inadmissibility of the request for a preliminary ruling)</p>
+<p class="normal">In Case C‑274/14,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal Económico-Administrativo Central (Central Tax Tribunal, Spain), made by decision of 2 April 2014, received at the Court on 5 June 2014, in the proceedings</p>
+<p class="normal">
+<span class="bold">Banco de Santander SA</span>
+</p>
+<p class="normal">THE COURT (Grand Chamber),</p>
+<p class="normal">composed of K. Lenaerts, President, R. Silva de Lapuerta, Vice-President, A. Arabadjiev, A. Prechal (Rapporteur), M. Vilaras, P.G. Xuereb, L.S. Rossi and I. Jarukaitis, Presidents of Chambers, E. Juhász, M. Ilešič, J. Malenovský, L. Bay Larsen, T. von Danwitz, C. Lycourgos and N. Piçarra, Judges,</p>
+<p class="normal">Advocate General: G. Hogan,</p>
+<p class="normal">Registrar: L. Carrasco Marco, Administrator,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 2 July 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Banco de Santander SA, by J.L. Buendía Sierra, E. Abad Valdenebro, R. Calvo Salinero and J.M. Panero Rivas, abogados,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Spanish Government, initially by M.A. Sampol Pucurull and A. Rubio González, subsequently by S. Centeno Huerta and A. Rubio González, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by R. Lyal, B. Stromsky, C. Urraca Caviedes and P. Němečková, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 1 October 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 1(2) of Commission Decision 2011/5/EC of 28 October 2009 on the tax amortisation of financial goodwill for foreign shareholding acquisitions C 45/07 (ex NN 51/07, ex CP 9/07) implemented by Spain (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:007:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2011 L 7, p. 48</a>); the validity of the Commission’s decision of 17 July 2013 to initiate the procedure laid down in Article 108(2) TFEU in relation to State aid SA.35550 (13/C) (ex 13/NN) (ex 12/CP) — Tax amortisation of financial goodwill for foreign shareholding acquisitions (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:C:2013:258:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2013 C 258, p. 8</a>); and the validity of Commission Decision (EU) 2015/314 of 15 October 2014 on the State aid SA.35550 (13/C) (ex 13/NN) (ex 12/CP) implemented by Spain — Scheme for the tax amortisation of financial goodwill for foreign shareholding acquisitions (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2015:056:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2015 L 56, p. 38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings brought by Banco de Santander SA against a recovery notice issued by the Inspección Financiera (Tax Inspectorate, Spain) concerning the deduction of goodwill resulting from the acquisition by that bank of all the shares in a holding company governed by German law, holding shares in companies established in the European Union.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Decision 2011/5</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">As is apparent, in essence, from recitals 4 to 6 of Decision 2011/5, by decision of 10 October 2007, published in the <span class="italic">Official Journal of the European Union</span> on 21 December 2007, the European Commission, following a number of written questions which had been sent to it in 2005 and 2006 by Members of the European Parliament and a complaint from a private operator which had been referred to it in 2007, initiated the investigation procedure, then referred to in Article 88(2) EC, in respect of the Spanish tax amortisation scheme for Spanish companies acquiring significant shareholdings in foreign companies, provided for in Article 12(5) of Ley 43/1995, reguladora del Impuesto de Sociedades (Law 43/1995 on corporation tax) of 27 December 1995 (BOE No 310 of 28 December 1995, p. 37072), and included in Real Decreto Legislativo 4/2004, por el que se aprueba el texto refundido de la Ley del Impuesto sobre Sociedades (Royal Legislative Decree 4/2004 approving the revised text of the Law on corporation tax) of 5 March 2004 (BOE No 61 of 11 March 2004, p. 10951; ‘the TRLIS’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">The measure provided for in Article 12(5) of the TRLIS, which entered into force on 1 January 2002, provides that, in the event that an undertaking which is taxable in Spain acquires a shareholding in a ‘foreign company’ equal to at least 5% of that company’s capital and retains that shareholding for an uninterrupted period of at least one year, the goodwill resulting from that shareholding, as recorded in the resident undertaking’s accounts as a separate intangible asset, may be deducted, in the form of an amortisation, from the basis of assessment for the corporation tax for which that undertaking is liable. That amortisation is applied, in equal instalments, for up to 20 years following the acquisition.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">In Article 1(1) of Decision 2011/5, the Commission declared the scheme at issue to be incompatible with the common market.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">According to Article 1(2) and (3) of that decision:</p>
+<p class="normal">‘2.   Nonetheless, tax reductions enjoyed by the beneficiaries in respect of intra-Community acquisitions, by virtue of Article 12(5) TRLIS, which are related to rights held directly or indirectly in foreign companies fulfilling the relevant conditions of the aid scheme by 21 December 2007, apart from the condition that they hold their shareholdings for an uninterrupted period of at least 1 year, can continue to apply for the entire amortisation period established by the aid scheme.</p>
+<p class="normal">3.   Tax reductions enjoyed by beneficiaries in respect of intra-Community acquisitions, by virtue of Article 12(5) TRLIS which are related to an irrevocable obligation entered into before 21 December 2007 to hold such rights where the contract contains a suspensive condition linked to the fact that the operation at issue is subject to the mandatory approval of a regulatory authority and where the decision and the operation has been notified before 21 December 2007, can continue to apply for the entire amortisation period established by the aid scheme for the part of the rights held as of the date when the suspensive condition is lifted.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 4 of Decision 2011/5 requires the Kingdom of Spain to recover the aid granted under the tax scheme at issue, except for that fulfilling the conditions described in Article 1(2) of that decision.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Decision 2011/282/EU</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">By Decision 2011/5, the Commission concluded the procedure with respect to acquisitions by Spanish undertakings of shareholdings in undertakings established in the European Union. However, the Commission kept the procedure open as regards such acquisitions of shareholdings in undertakings established outside the European Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">In Article 1(1) of Commission Decision 2011/282/EU of 12 January 2011 on the tax amortisation of financial goodwill for foreign shareholding acquisitions No C 45/07 (ex NN 51/07, ex CP 9/07) implemented by Spain (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:135:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2011 L 135, p. 1</a>), the Commission declared incompatible with the internal market the scheme at issue, whereby a tax advantage was granted to undertakings taxable in Spain in order to enable them to amortise the goodwill resulting from acquisitions of shareholdings in undertakings established outside the European Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1(2) to (5) of that decision provides for certain situations in which beneficiaries of tax reductions under the tax scheme at issue in respect of extra-EU acquisitions can continue to apply those reductions over the entire amortisation period established by that scheme.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Article 4 of that decision requires the Kingdom of Spain to recover the aid granted under the tax scheme at issue.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Decision 2015/314</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">By decision of the Commission of 17 July 2013 to initiate the procedure laid down in Article 108(2) TFEU in relation to State aid SA.35550 (13/C) (ex 13/NN) (ex 12/CP) — Tax amortisation of financial goodwill for foreign shareholding acquisitions, the Commission decided to examine whether the new administrative interpretation of Article 12(5) of the TRLIS, adopted by the Dirección General de Tributos (Directorate-General for Taxation, Spain) (‘the DGT’) and by the Tribunal Económico-Administrativo Central (Central Tax Tribunal) (‘the TEAC’), extending the scope of application of the tax scheme at issue to indirect shareholding acquisitions, was compatible with EU law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">That procedure culminated in the adoption, on 14 October 2014, of a third decision on the tax scheme at issue, Decision 2015/314.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">By that decision, the Commission concluded that, in so far as the tax scheme at issue now applies also to indirect shareholding acquisitions of non-resident companies through the acquisition of shareholdings in non-resident holding companies, that tax scheme also constitutes State aid that is incompatible with the internal market and which, moreover, was granted contrary to Article 108(3) TFEU. The Commission consequently ordered the Spanish authorities to recover the aid granted.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Spanish law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">The TEAC, which has its seat in Madrid (Spain), hears and determines at first and last instance complaints against decisions taken by certain central tax authorities. It is also the appeal body in respect of decisions taken by the other Tribunales Económico-Administrativos (Tax Tribunals; ‘TEAs’), that is to say, the regional TEAs, and the local TEAs, which have their seats in Ceuta (Spain) and in Melilla (Spain).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">The Spanish legislation establishing the legal status of TEAs is contained in Ley 58/2003, General Tributaria (Law 58/2003 establishing the General Tax Code) of 17 December 2003 (BOE No 302 of 18 December 2003, p. 44987), as amended by Ley 34/2015 of 21 September 2015 (BOE No 227 of 22 September 2015, p. 83633) (‘the LGT’), in particular in Chapter IV of that law, entitled ‘Economic-administrative complaints’, in Title V thereof, entitled ‘Administrative review’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Article 228 of the LGT provides:</p>
+<p class="normal">‘1.   Competence to decide economic-administrative complaints shall lie exclusively with the economic-administrative bodies, which shall act with functional independence in the exercise of their duties.</p>
+<p class="normal">2.   In the field of State competence, the economic-administrative bodies shall be:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">[The TEAC].</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">The regional and local [TEAs].</p>
+</td>
+</tr>
+</table>
+<p class="normal">3.   The Special Chamber for the Unification of Precedent shall also be considered to be an economic-administrative body.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Article 237(3) of the LGT lays down rules in relation to requests for a preliminary ruling that may be made to the Court of Justice by the TEAs, notably a stay of proceedings pending the Court’s answer to a question referred for a preliminary ruling.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Article 243 of the LGT, entitled ‘Extraordinary appeal for the unification of precedent’, provides:</p>
+<p class="normal">‘1.   An extraordinary appeal for the unification of precedent may be filed by the Director-General for Taxation of the Ministry of the Economy and Finance against the tax decisions issued by [the TEAC], when that Director-General disagrees with the content of such decisions.</p>
+<p class="normal">…</p>
+<p class="normal">2.   The Special Chamber for the Unification of Precedent shall be competent to resolve such an appeal. The Special Chamber shall be composed of the President of [the TEAC], who shall preside, three members of that Tribunal, the Director-General for Taxation of the Ministry of the Economy and Finance, the Director-General of the State Tax Administration Agency, the Director-General or the Director of the Department of the State Tax Administration Agency to which the body that issued the act which is referred to in the decision that is the object of the appeal is functionally attached, and the President of the Council for the Defence of Taxpayers.</p>
+<p class="normal">…</p>
+<p class="normal">3.   The decision on appeal shall be adopted by a majority of the members of the Special Chamber. In the event of a tie, the President shall always have the casting vote.</p>
+<p class="normal">4.   The decision on appeal shall be issued within six months and shall respect the particular legal situation relating to the appealed decision, establishing the applicable precedent.</p>
+<p class="normal">5.   The precedent established by such appeal decisions shall be binding on the [TEAs], on the tax bodies of the autonomous communities and of the cities with autonomous status and on the remainder of the State Tax Administration and of the autonomous communities and cities with autonomous status.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Other rules applying to the TEAs are contained in Real Decreto 520/2005, por el que se aprueba el Reglamento general de desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de revisión en vía administrativa (Royal Decree 520/2005 approving the general regulation for the implementation of Law 58/2003 of 17 December on the General Tax Code in relation to administrative review) of 13 May 2015 (BOE No 126 of 27 May 2005, p. 17835) (‘Royal Decree 520/2005’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Article 29(2) and (9) of Royal Decree 520/2005 provides:</p>
+<p class="normal">‘2.   The President [of the TEAC] shall be appointed and removed by Royal Decree adopted by the Council of Ministers on the proposal of the Minister for the Economy and Finance from among the civil servants who are noted to have the requisite professional experience and reputation in the field of taxation, and shall have the grade of Director-General of the Ministry of the Economy and Finance.</p>
+<p class="normal">The members [of the TEAC] shall be appointed and removed by Royal Decree adopted by the Council of Ministers on the proposal of the Minister for the Economy and Finance from among the civil servants of the bodies indicated in the list of posts and shall have the grade of Deputy Director-General of the Ministry of the Economy and Finance.</p>
+<p class="normal">…</p>
+<p class="normal">9.   All the members of the plenum or of the Chambers and the single-member bodies [of the TEAC] shall exercise wholly independently and under their own responsibility the functions which are legally assigned to them and any other functions which may be assigned to them by the President.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">According to Article 30(2) and (12) of Royal Decree 520/2005:</p>
+<p class="normal">‘2.   The President, the Presidents of the decentralised chamber, the Presidents of Chambers and the members [of the regional and local TEAs] shall be appointed and removed by decree of the Minister for the Economy and Finance from among the civil servants of the bodies indicated in the list of posts. …</p>
+<p class="normal">…</p>
+<p class="normal">12.   All the members of the plenum or of the Chambers and the single-member bodies [of the regional and local TEAs] shall exercise wholly independently and under their own responsibility the functions which are legally assigned to them and any other functions which may be assigned to them by the President of the Tribunal or the President of the decentralised chamber.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In May 2002, Banco de Santander Central Hispano SA (‘BSCH’), the ultimate parent company of the tax consolidated group 17/89, acquired 100% of the shares in AKB Holding GmbH (‘AKB’), a company governed by German law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">That acquisition, the price of which was EUR 1099999999, while AKB’s book value was estimated at EUR 183909000, generated financial goodwill of EUR 916091000 (‘the relevant goodwill’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">As a holding company, AKB owned shares in the following companies, all established in the European Union: AKB Datensysteme GmbH, AKB Autobörse AG, AKB Leasing GmbH, AKB Versicherungsdienst GmbH, AKB Privat und Handelsbank Aktien AG, AKB Vermögensverwaltung GmbH and AKB Marketing Services sp. z o.o.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">In December 2002, BSCH transferred the shares in AKB whose acquisition price had generated the relevant goodwill to Holneth BV, a company governed by Netherlands law, and Santander Consumer Finance SA (‘SCF’), a company governed by Spanish law; both companies also belonged to the tax consolidated group 17/89.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In view of the relevant goodwill, the tax consolidated group 17/89 made deductions, pursuant to Article 12(5) of the TRLIS, in its corporate tax returns for the tax years 2002 and 2003.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, for the 2002 tax year, BSCH and SCF applied deductions of EUR 27482730 and EUR 1631395, respectively. For the 2003 tax year, SCF applied a deduction of EUR 45804550.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">In the case of the 2002 tax year, following a tax inspection which culminated in a report dated 21 December 2006, the tax inspectorate, by recovery notice of 7 March 2007, accepted the deduction made by BSCH in respect of EUR 20262374, but regularised it in respect of EUR 7215356. In the case of SCF, the deduction of EUR 1631395 was accepted in full.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">By recovery notice of 22 July 2010, the tax inspectorate rejected in full the goodwill deduction claimed by SCF in respect of the 2003 tax year.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">On 16 August 2010, Banco de Santander submitted a complaint against that recovery notice to the TEAC, claiming that, notwithstanding the indirect nature of the relevant goodwill as a result of its having been generated by the acquisition of a holding company, that goodwill is deductible from corporation tax under the terms of Article 12(5) of the TRLIS.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">It argued that, in the light of the new interpretation of Article 12(5) of the TRLIS, adopted both by the DGT and by the TEAC and referred to in paragraph 12 of the present judgment, the question arose in this case whether, pursuant to Decision 2011/5, the Commission’s first decision on the tax scheme at issue, the tax deduction corresponding to the amortisation of the relevant goodwill before 21 December 2007, following the acquisition of a non-resident holding company, must be recovered as aid that is illegal and incompatible with the internal market.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Given that the combined provisions of Article 1(2) and Article 4(1) of Decision 2011/5 are such that acquisitions made before 21 December 2007 are excluded from the obligation of recovery, on account of a pre-existing legitimate expectation, and the fact that the acquisition at issue in the main proceedings took place before that date, it was argued that it is essential, for the purposes of determining the dispute in the main proceedings, for an answer to be given to the question as to whether those provisions of Decision 2011/5 must be interpreted as applying also to indirect acquisitions, in particular to the acquisition of a non-resident holding company, such as the one at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the TEAC took the view that the administrative interpretation which previously precluded the application of the tax deduction to indirect acquisitions does not constitute a source of law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">According to the TEAC, neither the DGT nor the TEAC is part of the legislature or the judiciary. Interpretations given by those bodies are not definitive, since they are subject to review by the courts. Furthermore, the Tribunal Supremo (Supreme Court, Spain) has not yet ruled on the applicability of Article 12(5) of the TRLIS to indirect shareholding acquisitions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the TEAC decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Must Article 1(2) of [Decision 2011/5] be interpreted as meaning that the legitimate expectations recognised and defined in that paragraph are to be considered applicable to the deduction of the tax amortisation of financial goodwill under Article 12(5) of the TRLIS in relation to indirect foreign shareholding acquisitions made through the direct acquisition of a non-resident holding company?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">If the answer to the first question is affirmative, is [the decision initiating the procedure that led to the adoption of Decision 2015/314], which decides to initiate the procedure provided for under Article 108(2) TFEU for infringement of Article 108 TFEU and of Council Regulation (EC) No 659/1999 of 22 March 1999 laying down detailed rules for the application of Article [108 TFEU (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1999:083:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1999 L 83, p. 1</a>)], invalid?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">By decision of 8 January 2015, received at the Court on 27 January 2015, the TEAC considered it necessary to reformulate the questions referred for a preliminary ruling as a result of new developments.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">These were, on the one hand, the adoption on 15 October 2014 of Decision 2015/314 and, on the other, the judgments of the General Court of the European Union of 7 November 2014, Autogrill España v Commission (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AT%3A2014%3A939&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">T‑219/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AT%3A2014%3A939&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:T:2014:939</a>), and of 7 November 2014, Banco Santander and Santusa v Commission (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AT%3A2014%3A938&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">T‑399/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AT%3A2014%3A938&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:T:2014:938</a>), by which the General Court annulled Article 1(1) and Article 4 of both Decision 2011/5 and Decision 2011/282.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">The TEAC considered that, following those new developments, it was no longer necessary to ask the Court about the interpretation of Decision 2011/5, since the essential question for the outcome of the dispute in the main proceedings was now whether the annulment of that decision by the General Court renders invalid Decision 2015/314, which extends the ban on the deduction provided for in Article 12(5) of the TRLIS as already laid down by Decisions 2011/5 and 2011/282 to indirect acquisitions of shareholdings in non-resident companies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the TEAC decided to reformulate the questions referred for a preliminary ruling as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Is [Decision 2015/314] invalid for lack of any factual and legal basis as a result of the judgments of the General Court of the European Union of 7 November 2014, Autogrill España v Commission (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AT%3A2014%3A939&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">T‑219/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AT%3A2014%3A939&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:T:2014:939</a>), and [of 7 November 2014,] Banco Santander and Santusa v Commission (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AT%3A2014%3A938&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">T‑399/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AT%3A2014%3A938&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:T:2014:938</a>), which respectively annulled Article 1(1) and Article 4 of [Decision 2011/5 and of Decision 2011/282]?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">Is [Decision 2015/314] invalid for lack of reasoning as a result of the judgments of the General Court of the European Union of 7 November 2014, Autogrill España v Commission (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AT%3A2014%3A939&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">T‑219/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AT%3A2014%3A939&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:T:2014:939</a>), and [of 7 November 2014,] Banco Santander and Santusa v Commission (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AT%3A2014%3A938&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">T‑399/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AT%3A2014%3A938&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:T:2014:938</a>), which respectively annulled Article 1(1) and Article 4 of [Decision 2011/5 and of Decision 2011/282]?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">In the alternative, in the event of a negative answer to the preceding questions:</p>
+<p class="normal">Is Decision [2015/314] invalid because the new administrative interpretation of Article 12(5) of the TRLIS falls entirely within the scope [of Decision 2011/5 and Decision 2011/282]?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">By decision of 8 June 2017, received at the Court on 6 July 2017, the TEAC considered it necessary once again to reformulate the questions referred for a preliminary ruling because of a new development, the judgment of 21 December 2016, Commission v World Duty Free Group and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A981&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑20/15 P and C‑21/15 P</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A981&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:981</a>), by which the Court of Justice set aside the judgments of the General Court of 7 November 2014, Autogrill España v Commission (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AT%3A2014%3A939&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">T‑219/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AT%3A2014%3A939&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:T:2014:939</a>), and of 7 November 2014, Banco Santander and Santusa v Commission (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AT%3A2014%3A938&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">T‑399/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AT%3A2014%3A938&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:T:2014:938</a>), and referred Cases T‑219/10 and T‑399/11 back to the General Court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of that new development, the TEAC considered it appropriate to maintain both the questions put forward in the context of the initial request for a preliminary ruling, relating to the interpretation of the scope of application of Article 1(2) of Decision 2011/5, and those put forward in the context of the first reformulation of the questions referred, relating to the validity of Decision 2015/314.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">As a result of that second reformulation, the questions referred now read as follows:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">In the event that the validity of [Decision 2011/5] is confirmed:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">Must Article 1(2) of [Decision 2011/5] be interpreted as meaning that the legitimate expectations recognised and defined in that paragraph are to be considered applicable to the deduction of the tax amortisation of financial goodwill under Article 12(5) of the TRLIS in relation to indirect foreign shareholding acquisitions made through the direct acquisition of a non-resident holding company?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">If the answer to the first question is affirmative, is [the decision initiating the procedure that led to the adoption of Decision 2015/314], invalid?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">In the event that Article 1 of [Decision 2011/5] is annulled in Case T‑219/10:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">Is [Decision 2015/314] invalid, because it has been deprived of its factual and legal basis?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">Is [Decision 2015/314] invalid, because it has been deprived of its reasoning?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">In the alternative, if the answers to the previous questions are negative:</p>
+</td>
+</tr>
+</table>
+<p class="normal">Is [Decision 2015/314] invalid, because the new administrative interpretation of Article 12(5) of the TRLIS falls entirely within the scope of [Decision 2011/5 and Decision 2011/282]?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">By judgment of the General Court of 15 November 2018, World Duty Free Group v Commission (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AT%3A2018%3A784&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">T‑219/10 RENV</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AT%3A2018%3A784&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:T:2018:784</a>), the General Court dismissed the action for annulment brought by World Duty Free Group in respect of Decision 2011/5.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">On 25 January 2019, that company lodged an appeal by which it sought to have that judgment set aside and Decision 2011/5 annulled. That appeal is pending before this Court (Case C‑51/19 P).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Other appeals with the same subject matter or concerning other judgments of the General Court dismissing actions for annulment brought against Decision 2011/282 are also pending before this Court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">There are, moreover, several actions for annulment of Decision 2015/314 currently pending before the General Court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">There have been several successive decisions to stay the proceedings in the present case. These were taken principally on the ground that, following its twofold reformulation of the questions referred, the TEAC seeks to ask the Court either about the possible effect of the invalidity of Decision 2011/5 on the validity of Decision 2015/314, should the EU judicature find Decision 2011/5 to be invalid, or about the interpretation of Decision 2011/5 with a view to determining its scope, should the EU judicature confirm the validity of that decision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">The question of the validity of Decision 2011/5 is currently still pending before the Courts of the European Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Nevertheless, having regard in particular to the case-law of the Court of Justice since the present request for a preliminary ruling was made, and to the doubts expressed by the Commission as to whether the TEAC qualifies as a ‘court or tribunal’ for the purposes of Article 267 TFEU and, therefore, as to whether the request is admissible, it is appropriate that the present proceedings be resumed in order for the Court to examine whether the TEAC falls within that category.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Admissibility of the request for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">According to the Court’s settled case-law, in order to determine whether a body making a reference is a ‘court or tribunal’ for the purposes of Article 267 TFEU, which is a question governed by EU law alone, the Court takes account of a number of factors, such as whether the body is established by law, whether it is permanent, whether its jurisdiction is compulsory, whether its procedure is <span class="italic">inter partes</span>, whether it applies rules of law and whether it is independent (see, to that effect, judgments of 30 June 1966, Vaassen-Göbbels, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1966%3A39&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">61/65</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1966%3A39&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1966:39</a>, p. <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1966%3A39&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point273" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">273</a>; of 31 May 2005, Syfait and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A333&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑53/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A333&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:333</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A333&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>; and of 16 February 2017, Margarit Panicello, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A126&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑503/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A126&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:126</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A126&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">In the case of the TEAC, the body making the reference in the present case, there is no doubt, on the basis of the information in the file submitted to the Court, that it satisfies the criteria that it be established by law, that it be permanent, that its jurisdiction be compulsory, that its procedure be <span class="italic">inter partes</span> and that it apply rules of law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">However, the question arises as to whether the TEAC fulfils the criterion of independence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the Court held, in paragraph 39 of the judgment of 21 March 2000, Gabalfrisa and Others (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2000%3A145&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑110/98 to C‑147/98</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2000%3A145&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2000:145</a>), that the Spanish legislation relating to the TEAs, as applicable in the case that gave rise to that judgment, did ensure a separation of functions between, on the one hand, the departments of the tax authority responsible for management, clearance and recovery of tax and, on the other hand, the TEAs which rule on complaints lodged against the decisions of those departments without receiving any instruction from the tax authority. In paragraph 40 of that judgment, the Court explained that such safeguards gave the TEAs the character of a third party in relation to the departments which adopted the decision forming the subject matter of the complaint and the independence necessary for them to be regarded as courts or tribunals for the purposes of Article 267 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">However, as the Commission also submitted in its written observations, those considerations must be re-examined notably in the light of the most recent case-law of the Court concerning, in particular, the criterion of independence which any national body must meet in order to be categorised as a ‘court or tribunal’ for the purposes of Article 267 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">In that context, it must be pointed out that the independence of national courts and tribunals is essential to the proper working of the judicial cooperation system embodied by the preliminary ruling mechanism established by Article 267 TFEU, in that, in accordance with the settled case-law of the Court referred to in paragraph 51 of the present judgment, that mechanism may be activated only by a body responsible for applying EU law which satisfies, inter alia, that criterion of independence (judgment of 27 February 2018, Associação Sindical dos Juízes Portugueses, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A117&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑64/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A117&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:117</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A117&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point43" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">43</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">According to the case-law of the Court, the concept of ‘independence’ has two aspects. The first aspect, which is external, requires that the body concerned exercise its functions wholly autonomously, without being subject to any hierarchical constraint or subordinated to any other body and without taking orders or instructions from any source whatsoever, being thus protected against external interventions or pressure liable to impair the independent judgment of its members and to influence their decisions (judgment of 27 February 2018, Associação Sindical dos Juízes Portugueses, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A117&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑64/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A117&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:117</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A117&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point44" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">Again as regards the external aspect of the concept of ‘independence’, it should be noted that the irremovability of the members of the body concerned constitutes a guarantee that is essential to judicial independence in that it serves to protect the person of those who have the task of adjudicating in a dispute (see, to that effect, judgments of 19 September 2006, Wilson, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A587&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑506/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A587&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:587</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A587&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point51" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">51</a>, and of 27 February 2018, Associação Sindical dos Juízes Portugueses, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A117&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑64/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A117&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:117</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A117&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point45" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">The principle of irremovability, the cardinal importance of which is to be emphasised, requires, in particular, that judges may remain in post provided that they have not reached the obligatory retirement age or until the expiry of their mandate, where that mandate is for a fixed term. While it is not wholly absolute, there can be no exceptions to that principle unless they are warranted by legitimate and compelling grounds, subject to the principle of proportionality. Thus it is widely accepted that judges may be dismissed if they are deemed unfit for the purposes of carrying out their duties on account of incapacity or a serious breach of their obligations, provided the appropriate procedures are followed (judgment of 24 June 2019, Commission v Poland (Independence of the Supreme Court), <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A531&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑619/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A531&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:531</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A531&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point76" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">76</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">The guarantee of irremovability of the members of a court or tribunal thus requires that dismissals of members of that body should be determined by specific rules, by means of express legislative provisions offering safeguards that go beyond those provided for by the general rules of administrative law and employment law which apply in the event of an unlawful dismissal (see, to that effect, judgment of 9 October 2014, TDC, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2265&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑222/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2265&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2265</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2265&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point32" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2265&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point35" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">The second — internal — aspect of the concept of ‘independence’ is linked to ‘impartiality’ and seeks to ensure a level playing field for the parties to the proceedings and their respective interests with regard to the subject matter of those proceedings. That aspect requires objectivity and the absence of any interest in the outcome of the proceedings apart from the strict application of the rule of law (judgment of 16 February 2017, Margarit Panicello, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A126&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑503/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A126&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:126</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A126&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, according to the settled case-law of the Court, the concept of ‘independence’, which is inherent in the task of adjudication, implies above all that the body in question acts as a third party in relation to the authority which adopted the contested decision (see, to that effect, judgments of 30 March 1993, Corbiau, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1993%3A118&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑24/92</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1993%3A118&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1993:118</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1993%3A118&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point15" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">15</a>, and of 9 October 2014, TDC, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2265&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑222/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2265&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2265</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2265&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">Those guarantees of independence and impartiality require rules, particularly as regards the composition of the body and the appointment, length of service and the grounds for abstention, rejection and dismissal of its members, in order to dismiss any reasonable doubt in the minds of individuals as to the imperviousness of that body to external factors and its neutrality with respect to the interests before it (judgment of 9 October 2014, TDC, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2265&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑222/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2265&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:2265</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2265&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point32" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case it must first be stated that, according to the national legislation applicable, in particular Article 29(2) of Royal Decree 520/2005, the President and members of the TEAC are appointed by Royal Decree adopted by the Council of Ministers, on the proposal of the Minister for the Economy and Finance, for an indefinite period. According to that provision, both the President and the members of the TEAC may be removed from office according to the same procedure, that is to say, by Royal Decree adopted by the Council of Ministers on the proposal of the Minister for the Economy and Finance.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">As to the members of the regional TEAs, it must be noted that, according to Article 30(2) of Royal Decree 520/2005, they are appointed by the Minister for the Economy and Finance from a list of civil servants and may be removed from office by that minister.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">Whilst, it is true, the applicable national legislation lays down rules governing, inter alia, abstention and recusal of the President and other members of the TEAC or, in the case of the President of the TEAC, rules on conflicts of interest, disqualification and duties of transparency, it is common ground that the arrangements for removal of the President and other members of the TEAC are not determined by specific rules, by means of express legislative provisions, such as those applicable to members of the judiciary. The members of the TEAC are covered solely, in that respect, by the general rules of administrative law and, in particular, by the basic regulations relating to civil servants, as the Spanish Government confirmed during the hearing before the Court. That finding also applies in relation to the members of the regional and local TEAs.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the removal of the President and the other members of the TEAC and of the members of the other TEAs is not limited, as required by the principle of irremovability recalled in paragraph 59 of the present judgment, to certain exceptional cases reflecting legitimate and compelling grounds that warrant the adoption of such a measure, subject to the principle of proportionality and to the appropriate procedures being followed, such as cases of incapacity or of a serious breach of obligations rendering the individuals concerned unfit for the purposes of carrying out their duties.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the applicable national legislation does not ensure that the President and the other members of the TEAC are protected against direct or indirect external pressures that are liable to cast doubt on their independence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="normal">Whilst it is true that, according to the wording of Article 228(1) of the LGT, the members of the TEAs are to exercise their powers ‘with functional independence’ and that, in accordance with Article 29(9) and with Article 30(12) of Royal Decree 520/2005, they are to exercise ‘wholly independently and under their own responsibility’ the functions legally assigned to them, the fact remains that there are no particular safeguards in respect of their removal or the termination of their appointment. That system does not constitute an effective safeguard against undue pressure from the executive on the members of the TEAs (see, by analogy, judgment of 31 May 2005, Syfait and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A333&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑53/03</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A333&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:333</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2005%3A333&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="normal">In this, the situation of the members of the TEAs and, in particular, of the TEAC differs, for example, from that of the referring body in the case giving rise to the judgment of 6 October 2015, Consorci Sanitari del Maresme (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A664&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑203/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A664&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:664</a>), in the sense that, as is apparent from paragraphs 11 and 20 of that judgment, the members of that body, unlike the members of the TEAs, have the benefit of a guarantee of irremovability throughout their term of office, exceptions to which are permitted only on the grounds expressly set out by law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="normal">Similarly, the TEAs and, in particular, the TEAC differ from the referring body in the case giving rise to the judgment of 24 May 2016, MT Højgaard and Züblin (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A347&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑396/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A347&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:347</a>). As is apparent from paragraphs 29 to 31 of that judgment, while that body admittedly includes expert members who do not enjoy the particular protection reserved for members of the judiciary by a constitutional provision, it is also composed of members of the judiciary who do enjoy that protection and have in all circumstances the majority of votes and, accordingly, a decisive weight in the decisions adopted by that body, which guarantees its independence.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, secondly, the requirement of independence in its second, internal, aspect, referred to in paragraph 61 of the present judgment, it must be noted that there is indeed a separation of functions within the Ministry of the Economy and Finance between, on the one hand, the departments of the tax authority responsible for management, clearance and recovery of tax and, on the other hand, the TEAs which rule on complaints lodged against the decisions of those departments.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="normal">Nevertheless, as the Advocate General also noted in points 31 and 40 of his Opinion, certain characteristics of the extraordinary appeal procedure before the Sala Especial para la Unificación de Doctrina (Special Chamber for the Unification of Precedent, Spain), a procedure governed by Article 243 of the LGT, are such as to cast doubt on the fact that the TEAC acts as a ‘third party’ with respect to the interests before it.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="normal">Only the Director-General of Taxation of the Ministry of the Economy and Finance may lodge such an extraordinary appeal against decisions of the TEAC with which he or she disagrees. However, that Director-General will automatically be part of the eight-person panel that is to hear that appeal, along with the Director-General or the Director of the department of the State Tax Administration Agency to which the body that issued the act referred to in the decision that is the object of that extraordinary appeal belongs. Thus, both the Director-General of Taxation of the Ministry of the Economy and Finance, who lodged the extraordinary appeal against a decision of the TEAC, and the Director-General or the Director of the department of the State Tax Administration Agency which adopted the act referred to in that decision, will sit as part of the Special Chamber of the TEAC hearing that appeal. The roles of party to the extraordinary appeal procedure and that of member of the body that is to hear such an appeal are thus conflated.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, the prospect of such an extraordinary appeal being brought by the Director-General of Taxation of the Ministry of the Economy and Finance against a decision of the TEAC is likely to exert pressure on the TEAC and thus to cast doubt on its independence as well as its impartiality, notwithstanding the fact, invoked by the Spanish Government at the hearing before the Court, that it is apparent from Article 243(4) of the LGT that that extraordinary appeal has only prospective effect and has no impact on decisions already issued by the TEAC, including the decision that is the object of the appeal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, those characteristics of the extraordinary appeal for the unification of precedent which may be brought against decisions of the TEAC demonstrate the organisational and functional links that exist between that body and the Ministry of the Economy and Finance, in particular the Director-General of Taxation of that ministry and the Director-General of the department which adopts the decisions contested before the TEAC. The existence of such links makes it impossible to regard the TEAC as a third party in relation to that administration (see, by analogy, judgment of 30 May 2002, Schmid, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2002%3A313&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑516/99</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A313&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2002:313</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A313&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2002%3A313&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point40" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the TEAC does not satisfy the internal aspect of the requirement of independence that is characteristic of a court or tribunal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="normal">It must be added that the fact that the TEAs do not constitute ‘courts or tribunals’ for the purposes of Article 267 TFEU does not relieve them of the obligation to ensure that EU law is applied when adopting their decisions and to disapply, if necessary, national provisions which appear to be contrary to provisions of EU law that have direct effect, since these are obligations that fall on all competent national authorities, not only on judicial authorities (see, to that effect, judgments of 22 June 1989, Costanzo, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1989%3A256&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">103/88</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1989%3A256&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:1989:256</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1989%3A256&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point30" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">30</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1989%3A256&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>; of 14 October 2010, Fuß, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A609&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑243/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A609&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:609</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A609&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point61" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">61</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A609&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point63" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">63</a>; and of 4 December 2018, TheMinister for Justice and Equality and Commissioner of An Garda Síochána, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A979&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑378/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A979&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:979</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A979&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A979&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">38</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point79">79</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, the existence of judicial appeals to the Audiencia Nacional (National High Court, Spain) and the Tribunal Supremo (Supreme Court) against decisions of the TEAs following the economic-administrative complaints procedure ensures the effectiveness of the mechanism of the request for a preliminary ruling provided for in Article 267 TFEU and the uniform interpretation of EU law, since those national courts have the option of making or, where appropriate, are required to make a request for a preliminary ruling to the Court of Justice where a decision on the interpretation or the validity of EU law is necessary in order for them to give judgment (see, by analogy, judgment of 31 January 2013, Belov, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A48&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑394/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A48&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:48</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A48&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point52" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">52</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point80">80</p>
+</td>
+<td valign="top">
+<p class="normal">Having regard to all the foregoing considerations, it must be held that the request for a preliminary ruling from the TEAC is inadmissible, since that body cannot be described as a ‘court or tribunal’ for the purposes of Article 267 TFEU.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point81">81</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring body, the decision on costs is a matter for that body. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Grand Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">The request for a preliminary ruling from the Tribunal Económico-Administrativo Central (Central Tax Tribunal, Spain), made by decision of 2 April 2014, is inadmissible.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62014CJ0274_EN_01-E0001" id="t-ECR_62014CJ0274_EN_01-E0001">*1</a>
+</span>)	Language of the case: Spanish.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

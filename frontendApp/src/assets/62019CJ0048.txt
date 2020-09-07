@@ -1,0 +1,811 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>ARRÊT DE LA COUR (sixième chambre)</p>
+<p class="sum-title-1">5 mars 2020 (<span class="note">
+<a href="#t-ECR_62019CJ0048_FR_01-E0001" id="c-ECR_62019CJ0048_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Fiscalité – Système commun de taxe sur la valeur ajoutée – Directive 2006/112/CE – Article 132, paragraphe 1, sous c) – Exonérations – Prestations de soins à la personne effectuées dans le cadre de l’exercice des professions médicales et paramédicales – Prestations par téléphone – Prestations fournies par des infirmiers et des assistants médicaux »</p>
+<p class="normal">Dans l’affaire C‑48/19,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par le Bundesfinanzhof (Cour fédérale des finances, Allemagne), par décision du 18 septembre 2018, parvenue à la Cour le 25 janvier 2019, dans la procédure</p>
+<p class="normal">
+<span class="bold">X-GmbH</span>
+</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">Finanzamt Z,</span>
+</p>
+<p class="normal">LA COUR (sixième chambre),</p>
+<p class="normal">composée de M. M. Safjan, président de chambre, MM. L. Bay Larsen (rapporteur) et N. Jääskinen, juges,</p>
+<p class="normal">avocat général : M. E. Tanchev,</p>
+<p class="normal">greffier : M. A. Calot Escobar,</p>
+<p class="normal">vu la procédure écrite,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour X-GmbH, par M<span class="super">e</span> G. Burwitz, Rechtsanwalt,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement allemand, par M<span class="super">me</span> S. Eisenberg, en qualité d’agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M<span class="super">me</span> L. Lozano Palacios et M. L. Mantl, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">vu la décision prise, l’avocat général entendu, de juger l’affaire sans conclusions,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation de l’article 132, paragraphe 1, sous c), de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2006, L 347, p. 1</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant X‑GmbH au Finanzamt Z (bureau des impôts Z, Allemagne) au sujet du refus de ce dernier d’exonérer de la taxe sur le valeur ajoutée (TVA) des consultations téléphoniques sur différents sujets concernant la santé et des programmes d’accompagnement, par téléphone, de patients souffrant de maladies chroniques ou de longue durée fournies par X, pour le compte des caisses publiques de maladie.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">La directive 2006/112</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 132, paragraphe 1, de la directive 2006/112 est libellé comme suit :</p>
+<p class="normal">« Les États membres exonèrent les opérations suivantes :</p>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">l’hospitalisation et les soins médicaux ainsi que les opérations qui leur sont étroitement liées, assurés par des organismes de droit public ou, dans des conditions sociales comparables à celles qui valent pour ces derniers, par des établissements hospitaliers, des centres de soins médicaux et de diagnostic et d’autres établissements de même nature dûment reconnus ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">c)</p>
+</td>
+<td valign="top">
+<p class="normal">les prestations de soins à la personne effectuées dans le cadre de l’exercice des professions médicales et paramédicales telles qu’elles sont définies par l’État membre concerné ;</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit allemand</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 4 de l’Umsatzsteuergesetz (loi relative à la taxe sur le chiffre d’affaires), du 21 février 2005 (BGBl. 2005 I, p. 386), telle que modifiée par la loi du 19 décembre 2008 (BGBl. 2008 I, p. 2794), dispose :</p>
+<p class="normal">« Parmi les opérations visées à l’article 1<span class="super">er</span>, paragraphe 1, point 1, sont exonérées :</p>
+<p class="normal">[...]</p>
+<p class="normal">14.   a) les prestations de soins à la personne effectuées dans le cadre de l’exercice de la profession de médecin, dentiste, guérisseur, physiothérapeute, sage-femme, ou de toute autre activité professionnelle médicale analogue. [...] »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">X est une société à responsabilité limitée de droit allemand. Au mois de février 2014, elle a effectué, pour le compte des caisses publiques de maladie, des consultations téléphoniques sur différents sujets concernant la santé et a conduit des programmes d’accompagnement, par téléphone, de patients souffrant de maladies chroniques ou de longue durée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Ces prestations étaient assurées par des infirmiers et des assistants médicaux ayant également, pour la plupart, une formation dite de « coach santé ». Dans plus d’un tiers des cas, il était fait appel à un médecin, qui reprenait la consultation en charge ou, en cas de demande de précisions, donnait des instructions ou un second avis.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Les consultations téléphoniques offraient aux assurés la possibilité d’appeler les collaborateurs de X, à tout moment, pour leur demander des renseignements. S’ils souhaitaient des conseils d’ordre médical, lesdits collaborateurs effectuaient une évaluation assistée par ordinateur, à l’aide de questions ciblées leur permettant de déterminer le contexte médical auquel la situation de l’assuré concerné pouvait être rattachée, puis conseillaient ce dernier sur sa situation thérapeutique, en lui donnant des explications relatives aux diagnostics et aux thérapies envisageables ou, encore, en lui proposant des modifications de comportement ou de prise en charge.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Les demandes clôturées étaient soumises de façon aléatoire au responsable médical, qui vérifiait notamment la cohérence, du point de vue médical, des données attestées.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Dans le cadre des programmes d’accompagnement, les participants étaient sélectionnés, par les caisses de maladie, sur la base de données issues de leurs décomptes et de leurs pathologies, puis ils étaient contactés par ces caisses et inscrits dans un programme s’ils le souhaitaient. Ces programmes permettaient aux participants d’être contactés par téléphone, pendant une période de trois à douze mois, par les collaborateurs de X et d’appeler ces derniers, à tout moment, afin d’obtenir des informations en rapport avec leur pathologie.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">La juridiction de renvoi indique que ces programmes avaient principalement pour objet d’améliorer, pour le participant et ses proches, la compréhension de la maladie, le respect du traitement médicamenteux suivi ou le recours à d’autres traitements, d’éviter les erreurs de médication et de contribuer à apporter une réponse adéquate à l’aggravation éventuelle des symptômes et à l’isolement social. L’objectif desdits programmes consistait à améliorer la gestion des coûts de prise en charge des patients, notamment en réduisant sensiblement le nombre de nouvelles hospitalisations, à soutenir les parents des patients susceptibles d’être atteints de troubles déficitaires de l’attention et à réduire les risques d’affections secondaires.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Au titre de ces activités, X a demandé à bénéficier, pour la période en cause au principal, d’une exonération de la taxe sur le chiffre d’affaires. Le bureau des impôts Z a estimé que les opérations concernées étaient imposables.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">X, dont le recours introduit devant la juridiction compétente en première instance a été rejeté, a formé un recours en <span class="italic">Revision</span> devant le Bundesfinanzhof (Cour fédérale des finances, Allemagne).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">En premier lieu, la juridiction de renvoi s’interroge sur la question de savoir si elle peut considérer que des consultations de nature médicale effectuées par téléphone, qui ne sont pas liées à un traitement médical concret ou n’interviennent que comme préalable à un tel traitement doivent être soumises à la TVA ou si elle doit appliquer la jurisprudence de la Cour qui exclut de l’exonération prévue à l’article 132, paragraphe 1, sous c), de la directive 2006/112 les soins dont la finalité est simplement de répondre à des besoins généraux, tels que les loisirs, le bien-être ou les besoins de nature esthétique.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">En second lieu, elle cherche à savoir si les caractéristiques des qualifications des professions médicales et paramédicales, au sens de l’article 132, paragraphe 1, sous c), de cette directive, définies par l’État membre concerné pour les prestations de soins « classiques » sont également valables pour les prestations de soins effectuées sans contact physique ou bien si des exigences supplémentaires sont requises à cet égard.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, le Bundesfinanzhof (Cour fédérale des finances) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« 1)</p>
+</td>
+<td valign="top">
+<p class="normal">Dans des circonstances telles que celles en cause au principal, à savoir lorsqu’un assujetti fournit à des assurés, pour le compte de caisses de maladie, des conseils par téléphone sur différents sujets concernant la santé et les maladies, peut-on considérer qu’une activité relevant de l’article 132, paragraphe 1, sous c), de la [directive 2006/112] est exercée ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2)</p>
+</td>
+<td valign="top">
+<p class="normal">Dans des circonstances telles que celles en cause au principal, s’agissant des prestations mentionnées dans la première question et des opérations effectuées dans le cadre de “programmes d’accompagnement des patients”, suffit-il, aux fins de l’attestation de compétences professionnelles requise, que les consultations téléphoniques soient effectuées par des “coachs santé” (assistants médicaux, infirmiers) et qu’il soit fait appel à un médecin dans un tiers des cas environ ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les questions préjudicielles</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la première question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Par sa première question, la juridiction de renvoi demande, en substance, si des prestations fournies par téléphone, consistant à donner des conseils relatifs à la santé et aux maladies, sont susceptibles de relever de l’exonération de la TVA visée à l’article 132, paragraphe 1, sous c), de la directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Il découle d’une interprétation littérale de l’article 132, paragraphe 1, sous c), de cette directive qu’une prestation doit être exonérée si elle satisfait à deux conditions, à savoir, d’une part, constituer une prestation de soins à la personne et, d’autre part, être effectuée dans le cadre de l’exercice des professions médicales et paramédicales telles qu’elles sont définies par l’État membre concerné (arrêt du 27 juin 2019, Belgisch Syndicaat van Chiropraxie e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑597/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:544</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point19" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">19</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">La première question se rapportant à la nature de la prestation concernée, il convient de préciser la portée de la première de ces conditions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il y a lieu de relever que l’article 132, paragraphe 1, sous c), de la directive 2006/112 se réfère uniquement, dans l’énoncé de la première condition posée, à la notion de « prestations de soins à la personne », sans qu’il soit fait mention des éléments tenant au lieu de la réalisation de la prestation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Il ressort de la jurisprudence de la Cour que, si l’article 132, paragraphe 1, sous b), de cette directive concerne des prestations accomplies dans le milieu hospitalier, l’article 132, paragraphe 1, sous c), de ladite directive vise des prestations fournies en dehors d’un tel cadre, tant au domicile privé du prestataire qu’au domicile du patient ou en tout autre lieu (voir, en ce sens, arrêt du 18 septembre 2019, Peters, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A753&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑700/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A753&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:753</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A753&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point21" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">21</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, il en résulte que, pour l’application de l’article 132, paragraphe 1, sous c), de la même directive, une prestation qui remplit les conditions énoncées à cette disposition est susceptible de relever de l’exonération prévue à ladite disposition, quel que soit le lieu où elle est réalisée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">En outre, la Cour a rappelé, s’agissant d’analyses médicales prescrites par des médecins généralistes, que le principe de neutralité fiscale ne serait pas respecté si de telles prestations étaient soumises à un régime de TVA différent selon le lieu où elles sont effectuées, alors que leur qualité est équivalente compte tenu de la formation des prestataires concernés (arrêt du 18 septembre 2019, Peters, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A753&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑700/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A753&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:753</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A753&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">29</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Au vu de l’ensemble de ces éléments, il convient de constater que des prestations de soins effectuées par téléphone sont susceptibles de relever de l’exonération de la TVA prévue à l’article 132, paragraphe 1, sous c), de la directive 2006/112, si elles répondent à l’ensemble des conditions d’application de cette exonération.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Cette considération est, par ailleurs, conforme à l’objectif consistant à réduire le coût des soins et à rendre ces soins plus accessibles aux particuliers, poursuivis à l’article 132, paragraphe 1, sous c), de cette directive (voir, en ce sens, arrêt du 13 mars 2014, Klinikum Dortmund, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A143&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑366/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A143&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:143</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A143&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">28</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Cependant, il est possible qu’un même assujetti effectue à la fois des prestations exonérées de la TVA, qui répondent à la notion de « prestations de soins à la personne », et d’autres soumises à cette taxe (voir, en ce sens, arrêts du 20 novembre 2003, Unterpertinger, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A625&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑212/01</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A625&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:625</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A625&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point38" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">38</a> ; du 20 novembre 2003, D’Ambrumenil et Dispute Resolution Services, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A627&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑307/01</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A627&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:627</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A627&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point56" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>, ainsi que du 21 mars 2013, PFC Clinic, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A198&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑91/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A198&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:198</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A198&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">31</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A198&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point32" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">32</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Partant, il reviendra à la juridiction de renvoi de déterminer dans quelle mesure les consultations téléphoniques en cause au principal répondent à la notion de « prestations de soins à la personne » figurant à l’article 132, paragraphe 1, sous c), de la directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">À cette fin, il lui appartiendra de vérifier que ces consultations poursuivent une finalité thérapeutique, dès lors que c’est celle-ci qui détermine si une prestation médicale doit être exonérée de la TVA (voir, en ce sens, arrêts du 20 novembre 2003, Unterpertinger, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A625&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑212/01</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A625&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:625</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A625&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point40" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">40</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A625&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point42" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">42</a>, ainsi que du 27 avril 2006, Solleveld et van den Hout-van Eijnsbergen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑443/04 et C‑444/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:257</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point24" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">24</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, selon une jurisprudence constante, la notion de « prestations de soins à la personne » vise des prestations ayant pour but de diagnostiquer, de soigner et, dans la mesure du possible, de guérir des maladies ou des anomalies de santé (arrêts du 14 septembre 2000, D., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2000%3A444&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑384/98</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2000%3A444&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2000:444</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2000%3A444&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point18" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">18</a>, ainsi que du 18 septembre 2019, Peters, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A753&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑700/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A753&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:753</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A753&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point20" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">20</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Néanmoins, il ne s’ensuit pas nécessairement que la finalité thérapeutique d’une prestation doive être comprise dans une acception particulièrement étroite (arrêts du 10 juin 2010, Future Health Technologies, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A334&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑86/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A334&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:334</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A334&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point40" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">40</a> et jurisprudence citée, ainsi que du 21 mars 2013, PFC Clinic, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A198&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑91/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A198&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:198</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A198&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>). Ainsi, les prestations médicales effectuées dans un but de protéger, y compris de maintenir ou de rétablir, la santé des personnes bénéficient de l’exonération prévue à l’article 132, paragraphe 1, sous c), de la directive 2006/112 (arrêts du 10 juin 2010, Future Health Technologies, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A334&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑86/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A334&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:334</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A334&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point41" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">41</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A334&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point42" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">42</a> ainsi que jurisprudence citée, et du 21 mars 2013, PFC Clinic, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2013%3A198&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑91/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A198&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2013:198</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A198&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Dans le cadre de cette analyse, l’absence de prescription médicale antérieure à la consultation téléphonique ou de traitement médical concret consécutivement à celle-ci ne suffit pas, eu égard à la jurisprudence rappelée au point précédent, aux fins de déterminer si une telle consultation relève de la notion de « prestations de soins à la personne », au sens de l’article 132, paragraphe 1, sous c), de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, des consultations qui consistent à expliquer les diagnostics et les thérapies envisageables ainsi qu’à proposer des modifications des traitements suivis, dès lors qu’elles permettent à la personne concernée de comprendre sa situation sur le plan médical et, le cas échéant, d’agir en conséquence, notamment en prenant ou en ne prenant pas tel médicament, sont susceptibles de poursuivre une finalité thérapeutique et de relever, à ce titre, de la notion de « soins à la personne », au sens de l’article 132, paragraphe 1, sous c), de ladite directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">En revanche, des prestations consistant dans la communication de renseignements sur des pathologies ou des thérapies, mais qui ne sont pas susceptibles, en raison de leur caractère général, de contribuer à protéger, à maintenir ou à rétablir la santé des personnes ne sauraient relever de cette notion.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">De même, des prestations qui consistent dans la fourniture de renseignements d’ordre administratif, tels que les coordonnées d’un médecin ou d’un organe de conciliation, ne sauraient être assimilées à des prestations relevant de l’exonération prévue à l’article 132, paragraphe 1, sous c), de la même directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard à l’ensemble des considérations qui précédent, il convient de répondre à la première question que l’article 132, paragraphe 1, sous c), de la directive 2006/112 doit être interprété en ce sens que des prestations fournies par téléphone, consistant à donner des conseils relatifs à la santé et aux maladies, sont susceptibles de relever de l’exonération prévue à cette disposition, à condition qu’elles poursuivent une finalité thérapeutique, ce qu’il appartient à la juridiction de renvoi de vérifier.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur la seconde question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Il y a lieu de relever, à titre liminaire, que, selon une jurisprudence constante de la Cour, il appartient à cette dernière, dans le cadre de la procédure de coopération avec les juridictions nationales instituée à l’article 267 TFUE, de donner au juge de renvoi une réponse utile qui lui permette de trancher le litige dont il est saisi et que, dans cette optique, il incombe, le cas échéant, à la Cour de reformuler la question qui lui est posée (arrêt du 25 juillet 2018, Dyson, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A599&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑632/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A599&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:599</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A599&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point47" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">47</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, la juridiction de renvoi indique qu’aucune réglementation nationale en vigueur ne concerne les exigences professionnelles requises pour la fourniture de consultations médicales par téléphone et que, s’agissant des programmes d’accompagnement des patients, des recommandations, qui n’ont pas d’effet contraignant, mentionnent les praticiens qui peuvent intervenir, sans citer explicitement les infirmiers ou les assistants médicaux. La juridiction de renvoi considère, dans ces conditions, qu’il pourrait être envisagé de faire bénéficier de l’exonération de la TVA uniquement les prestations de soins à la personne effectuées par téléphone, dans lesquelles il est fait appel à un médecin.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, il y a lieu de considérer que, par sa seconde question, la juridiction de renvoi demande, en substance, si, en raison du fait que des prestations de soins à la personne sont effectuées par téléphone, les infirmiers et les assistants médicaux qui fournissent ces prestations doivent être soumis à des exigences de qualification professionnelle supplémentaires, pour que lesdites prestations puissent bénéficier de l’exonération prévue à l’article 132, paragraphe 1, sous c), de la directive 2006/112.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Il y a lieu de relever que cette question vise à préciser la portée de la seconde des deux conditions posées par l’article 132, paragraphe 1, sous c), de cette directive telles que rappelées au point 17 du présent arrêt, qui tient à ce que les prestations de soins soient effectuées « dans le cadre de l’exercice des professions médicales et paramédicales telles qu’elles sont définies par l’État membre concerné ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il y a lieu de rappeler qu’il ressort du libellé même de l’article 132, paragraphe 1, sous c), de ladite directive que celui-ci ne définit pas la notion de « professions médicales et paramédicales », mais qu’il renvoie, sur ce point, à la définition qui est retenue par le droit interne des États membres (arrêts du 27 avril 2006, Solleveld et van den Hout-van Eijnsbergen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑443/04 et C‑444/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:257</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>, ainsi que du 27 juin 2019, Belgisch Syndicaat van Chiropraxie e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑597/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:544</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, les États membres disposent, en vue notamment d’assurer une application correcte et simple de l’exonération prévue à l’article 132, paragraphe 1, sous c), de la même directive, d’un pouvoir d’appréciation pour définir les professions dans le cadre desquelles l’exercice des soins à la personne est exonéré de la TVA et, en particulier, pour déterminer quelles qualifications sont requises pour exercer ces professions (voir, en ce sens, arrêt du 27 avril 2006, Solleveld et van den Hout-van Eijnsbergen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑443/04 et C‑444/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:257</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point30" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">30</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point32" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">32</a>, ainsi que arrêt du 27 juin 2019, Belgisch Syndicaat van Chiropraxie e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑597/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:544</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point24" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Ce pouvoir d’appréciation n’est toutefois pas illimité, en ce que les États membres doivent tenir compte, d’une part, de l’objectif poursuivi par cette disposition, qui est de garantir que l’exonération s’applique uniquement aux prestations de soins à la personne qui sont fournies par des prestataires possédant les qualifications professionnelles requises, et, d’autre part, du principe de neutralité fiscale (voir, en ce sens, arrêt du 27 avril 2006, Solleveld et van den Hout-van Eijnsbergen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑443/04 et C‑444/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:257</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">31</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>, ainsi que arrêt du 27 juin 2019, Belgisch Syndicaat van Chiropraxie e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑597/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:544</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point25" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">25</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Les États membres doivent, en premier lieu, s’assurer que l’exonération prévue à ladite disposition s’applique uniquement à des prestations de soins à la personne présentant un niveau de qualité suffisant (voir, en ce sens, arrêt du 27 avril 2006, Solleveld et van den Hout-van Eijnsbergen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑443/04 et C‑444/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:257</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>, ainsi que arrêt du 27 juin 2019, Belgisch Syndicaat van Chiropraxie e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑597/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:544</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">26</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, l’exigence d’un niveau de qualité suffisant s’applique indépendamment du moyen de communication choisi pour la fourniture de la prestation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Il appartient ainsi aux États membres de déterminer les qualifications professionnelles permettant aux prestataires concernés d’offrir des soins d’un niveau de qualité suffisant, le cas échéant, en exigeant de ces derniers qu’ils acquièrent des qualifications professionnelles supplémentaires par rapport à celles requises pour la fourniture de prestations de soins à la personne autrement que par téléphone.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">En second lieu, les États membres doivent respecter le principe de neutralité fiscale, lequel s’oppose à ce que des prestations semblables, qui se trouvent donc en concurrence les unes avec les autres, soient traitées de manière différente du point de vue de la TVA (arrêts du 27 avril 2006, Solleveld et van den Hout-van Eijnsbergen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑443/04 et C‑444/04</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2006:257</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A257&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">39</a> et jurisprudence citée, ainsi que du 27 juin 2019, Belgisch Syndicaat van Chiropraxie e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑597/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:544</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A544&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, il appartient, notamment, à la juridiction de renvoi de vérifier si l’exclusion des consultations et des programmes d’accompagnement de patients réalisés par des infirmiers et des assistants médicaux de l’exonération prévue à l’article 132, paragraphe 1, sous c), de la directive 2006/112 serait contraire au principe de neutralité fiscale, en tant que ces praticiens sont, en raison de leurs qualifications professionnelles, aptes à assurer que de telles prestations fournies par téléphone présentent un niveau de qualité équivalent à celui des prestations effectuées par d’autres prestataires utilisant le même moyen de communication.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard à l’ensemble des considérations qui précédent, il convient de répondre à la seconde question que l’article 132, paragraphe 1, sous c), de la directive 2006/112 doit être interprété en ce sens qu’il n’impose pas que, en raison du fait que des prestations de soins à la personne sont effectuées par téléphone, les infirmiers et les assistants médicaux qui fournissent ces prestations soient soumis à des exigences de qualification professionnelle supplémentaires, pour que lesdites prestations puissent bénéficier de l’exonération prévue à cette disposition, à condition qu’elles puissent être considérées comme étant d’un niveau de qualité équivalent à celui des prestations effectuées par d’autres prestataires utilisant le même moyen de communication, ce qu’il appartient à la juridiction de renvoi de vérifier.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (sixième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">L’article 132, paragraphe 1, sous c), de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée, doit être interprété en ce sens que des prestations fournies par téléphone, consistant à donner des conseils relatifs à la santé et aux maladies, sont susceptibles de relever de l’exonération prévue à cette disposition, à condition qu’elles poursuivent une finalité thérapeutique, ce qu’il appartient à la juridiction de renvoi de vérifier.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">L’article 132, paragraphe 1, sous c), de la directive 2006/112 doit être interprété en ce sens qu’il n’impose pas que, en raison du fait que des prestations de soins à la personne sont fournies par téléphone, les infirmiers et les assistants médicaux qui fournissent ces prestations soient soumis à des exigences de qualification professionnelle supplémentaires, pour que lesdites prestations puissent bénéficier de l’exonération prévue à cette disposition, à condition qu’elles puissent être considérées comme étant d’un niveau de qualité équivalent à celui des prestations effectuées par d’autres prestataires utilisant le même moyen de communication, ce qu’il appartient à la juridiction de renvoi de vérifier.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62019CJ0048_FR_01-E0001" id="t-ECR_62019CJ0048_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : l’allemand.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

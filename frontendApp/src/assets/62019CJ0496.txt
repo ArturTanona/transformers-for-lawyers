@@ -1,0 +1,532 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="coj-sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Eighth Chamber)</p>
+<p class="coj-sum-title-1">16 July 2020 (<span class="coj-note">
+<a href="#t-ECR_62019CJ0496_EN_01-E0001" id="c-ECR_62019CJ0496_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="coj-index">(Reference for a preliminary ruling — Customs Union — Community Customs Code — Regulation (EEC) No 2913/92 — Examination of goods — Application for revision of a customs declaration — Post-clearance examination)</p>
+<p class="coj-normal">In Case C‑496/19,</p>
+<p class="coj-normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Commissione tributaria regionale della Campania — sezione staccata di Salerno (Regional Tax Court, Campania — Salerno Division, Italy), made by decision of 29 September 2017, received at the Court on 25 June 2019, in the proceedings</p>
+<p class="coj-normal">
+<span class="coj-bold">Antonio Capaldo SpA</span>
+</p>
+<p class="coj-pnormal">v</p>
+<p class="coj-normal">
+<span class="coj-bold">Agenzia delle dogane e dei monopoli — Ufficio delle dogane di Salerno,</span>
+</p>
+<p class="coj-normal">THE COURT (Eighth Chamber),</p>
+<p class="coj-normal">composed of L.S. Rossi, President of the Chamber, J. Malenovský and N. Wahl (Rapporteur), Judges,</p>
+<p class="coj-normal">Advocate General: M. Bobek,</p>
+<p class="coj-normal">Registrar: A. Calot Escobar,</p>
+<p class="coj-normal">having regard to the written procedure,</p>
+<p class="coj-normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Antonio Capaldo SpA, by P. Giordano and R. Salzano, avvocati, and D. De Rosa,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the Italian Government, by G. Palmieri, acting as Agent, and G. Albenzio, avvocato dello Stato,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">–</p>
+</td>
+<td valign="top">
+<p class="coj-normal">the European Commission, by F. Clotuche-Duvieusart, M. Salyková and C. Sjödin, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="coj-normal">having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+<p class="coj-normal">gives the following</p>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The present request for a preliminary ruling concerns the interpretation of Article 78 of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1992:302:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1992 L 302, p. 1</a>; ‘the Customs Code’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The request has been made in proceedings between Antonio Capaldo SpA and the Agenzia delle dogane e dei monopoli — Ufficio delle dogane di Salerno (Customs and Monopolies Agency — Customs Office, Salerno, Italy) (‘the Customs Office’) concerning the revision of its customs declaration.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Legal context</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 62 of the Customs Code states:</p>
+<p class="coj-normal">‘1.   Declarations in writing shall be made on a form corresponding to the official specimen prescribed for that purpose. They shall be signed and contain all the particulars necessary for implementation of the provisions governing the customs procedure for which the goods are declared.</p>
+<p class="coj-normal">2.   The declaration shall be accompanied by all the documents required for implementation of the provisions governing the customs procedure for which the goods are declared.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Article 65 of the Customs Code provides:</p>
+<p class="coj-normal">‘The declara[nt] shall, at his request, be authorised to amend one or more of the particulars of the declaration after it has been accepted by customs. The amendment shall not have the effect of rendering the declaration applicable to goods other than those it originally covered.</p>
+<p class="coj-normal">However, no amendment shall be permitted where authorisation is requested after the customs authorities:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(a)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">have informed the declarant that they intend to examine the goods; or,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(b)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">have established that the particulars in question are incorrect; or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count">(c)</p>
+</td>
+<td valign="top">
+<p class="coj-normal">have released the goods.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Under Article 78 of that code:</p>
+<p class="coj-normal">‘1.   The customs authorities may, on their own initiative or at the request of the declarant, amend the declaration after release of the goods.</p>
+<p class="coj-normal">2.   The customs authorities may, after releasing the goods and in order to satisfy themselves as to the accuracy of the particulars contained in the declaration, inspect the commercial documents and data relating to the import or export operations in respect of the goods concerned or to subsequent commercial operations involving those goods. Such inspections may be carried out at the premises of the declarant, of any other person directly or indirectly involved in the said operations in a business capacity or of any other person in possession of the said documents and data for business purposes. Those authorities may also examine the goods where it is still possible for them to be produced.</p>
+<p class="coj-normal">3.   Where revision of the declaration or post-clearance examination indicates that the provisions governing the customs procedure concerned have been applied on the basis of incorrect or incomplete information, the customs authorities shall, in accordance with any provisions laid down, take the measures necessary to regularise the situation, taking account of the new information available to them.’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="coj-normal">During 2011, the applicant in the main proceedings imported from China gazebos, some with an iron structure and others with an aluminium structure. It declared them under tariff code 6306120000, which provides for a tax rate of 12% for the goods concerned. Subsequent imports were made under the same tariff code.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Following an internal audit carried out by a customs consultancy firm, the applicant in the main proceedings took the view, however, that the tariff code assigned to the gazebos was incorrect. In its view, the gazebos with an iron structure should have been classified under tariff code 7308909900, for which the tax rate is 0%, and those with an aluminium structure under tariff code 7610909900, for which the tax rate is 6%.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The applicant in the main proceedings therefore lodged two applications with the Customs Office seeking, first, revision of its customs declarations and, secondly, reimbursement of the sums which, in its view, it ought not to have paid as customs duties and value added tax if its proposed tariff code had been adopted. The Customs Office dismissed those applications.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The applicant in the main proceedings challenged the decisions dismissing those applications before the Commissione tributaria provinciale di Salerno (Provincial Tax Court, Salerno, Italy). Before that court, the Customs Office justified the decision dismissing those applications by submitting, first, that it was not obliged to accede to the application for revision before it and, secondly, that the tariff heading chosen was correct. With regard to the application for revision, it pointed out that import of the same type had been subject to a physical inspection that had not been challenged by the customs clearance officer representing the applicant in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By decision of 25 February 2015, the Commissione tributaria provinciale di Salerno (Provincial Tax Court, Salerno) dismissed the action before it, adopting, in essence, the arguments put forward by the Customs Office. The applicant in the main proceedings brought an appeal against that decision before the Commissione tributaria regionale della Campania — sezione staccata di Salerno (Regional Tax Court, Campania — Salerno Division, Italy).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Moreover, the applicant in the main proceedings is a party to two other separate disputes, which are also the subject of an appeal before that court. Accordingly, on the one hand, it brought an action against a decision of 26 February 2015 concerning a similar dispute, in which the Commissione tributaria provinciale di Salerno (Provincial Tax Court, Salerno) dismissed its action in similar terms. On the other hand, the Customs Office brought an action, in a similar case, against a decision of 15 June 2015 in which, conversely, that court, sitting in a different formation, upheld the action of the applicant in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The referring court decided to join those three cases for the purposes of a single decision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It is in those circumstances that the Commissione tributaria regionale della Campania — sezione staccata di Salerno (Regional Tax Court, Campania — Salerno Division) decided to stay proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="coj-normal">‘Where goods have been physically inspected upon importation, does this preclude initiating the procedure for the review of assessments referred to in Article 78 of [the Customs Code]?’</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Admissibility of the request for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Italian Government submits that the reference for a preliminary ruling is inadmissible. It submits, in the first place, that the question referred is not relevant to the outcome of the main proceedings. The referring court was wrong to take the view that the Customs Office had not initiated the revision procedure. In fact, the office initiated that procedure and reached a conclusion unfavourable to the applicant in the main proceedings, without considering that the physical examination of the goods in itself precludes the revision of the declarations made.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the second place, that court disregarded its function by failing to comply with its obligation to ascertain, as a preliminary matter, whether the Customs Office correctly exercised its discretion in the context of the revision of customs declarations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The Court has consistently held that it is solely for the national court before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions put by national courts concern the interpretation or the validity of a provision of EU law, the Court is, in principle, bound to give a ruling. It follows that questions referred by national courts enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court for a preliminary ruling only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgments of 16 June 2015, Gauweiler and Others, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A400&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑62/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A400" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:400</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A400" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A400" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">25</a>; of 2 October 2018, Ministerio Fiscal, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A788&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑207/16</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A788" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:788</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A788" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a>; and of 19 December 2019, Dobersberger, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1110&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑16/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1110" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:1110</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1110" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">18</a> and <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1110" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">19</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the present case, the question referred concerns the conformity with Article 78 of the Customs Code of decisions adopted by the competent national customs authorities. In those circumstances, it is not obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose. Therefore, the presumption of relevance enjoyed by the request for a preliminary ruling is not rebutted by the objections raised by the Italian Government, consisting, in essence, in calling into question, first, the factual context which the referring court is responsible for defining and the accuracy of which is not a matter for the Court to determine and, secondly, the lawfulness of the order for reference, which is not for the Court to assess either.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Consequently, the request for a preliminary ruling is admissible.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="coj-normal">By its question, the referring court asks, in essence, whether Article 78 of the Customs Code must be interpreted as precluding any revision of the customs declaration where the goods in question were, on a previous import, subject, without challenge, to a physical inspection confirming their tariff classification.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the first place, it should be noted that the wording of Article 78 of the Customs Code contains no restriction, either as regards the possibility for the customs authorities to repeat a revision or a post-clearance examination, for the purposes of Article 78(1) and (2), or as regards the adoption by the customs authorities of measures necessary to regularise the situation as provided for in Article 78(3).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In the second place, both the very purpose of the Customs Code, which is to ensure the correct application of the duties provided for therein, and the specific logic of Article 78 thereof, which is to bring the customs procedure into line with the actual situation by rectifying technical errors or omissions as well as errors of interpretation of the applicable law, weigh against an interpretation of that article which would preclude generally the customs authorities from amending or conducting other post-clearance examinations of customs declarations in order to regularise the situation (judgment of 10 December 2015, Veloserviss, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A803&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑427/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A803" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:803</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A803" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">26</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Unlike the correction provided for in Article 65 of the Customs Code, which is carried out unilaterally by the declarant before the goods are released, revision occurs after the goods are released, thus justifying the fact that the customs authorities have a certain margin of discretion as to whether or not it is appropriate to carry out the revision requested (see, to that effect, judgment of 20 October 2005, Overland Footwear, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A624&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑468/03</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A624" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:624</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A624" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">66</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The fact remains, however, that that margin of discretion is circumscribed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="coj-normal">First of all, when an application for revision has been made, the customs authorities are required to assess whether or not there is cause to carry out that revision, taking into account, in particular, whether it is materially possible to establish whether or not the application is well founded and, at the conclusion of their assessment, the customs authorities must, subject to the possibility of a subsequent court action, either reject the declarant’s application by reasoned decision or carry out the revision applied for (see, to that effect, judgment of 20 October 2005, Overland Footwear, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A624&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑468/03</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A624" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:624</a>, paragraphs <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A624" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">46</a> to <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A624" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">52</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Next, where the examination which they carry out indicates that the provisions governing the customs procedure in question were applied on the basis of incorrect or incomplete information, the customs authorities must, in accordance with Article 78(3) of the Customs Code, take the measures necessary to regularise the situation, taking account of the new information available to them (judgment of 10 December 2015, Veloserviss, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A803&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑427/14</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A803" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:803</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A803" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="coj-normal">In that regard, it is appropriate to observe that the words ‘incorrect or incomplete information’ in Article 78(3) must be interpreted as covering both technical errors or omissions and errors of interpretation of the applicable law (judgments of 20 October 2005, Overland Footwear, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A624&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑468/03</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A624" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:624</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A624" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">63</a>, and of 10 July 2019, CEVA Freight Holland, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A587&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑249/18</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A587" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:587</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A587" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a>). Consequently, the customs authorities may not reject an application for revision on the sole ground that the importer did not contest a prior check without disregarding the purpose of Article 78 of the Customs Code.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Finally, where it becomes apparent that the import duties paid by the declarant exceed those that were legally owed at the time of their payment, the measure necessary to regularise the situation can consist only in reimbursement of the overpaid amount (judgment of 20 October 2005, Overland Footwear, <a class="coj-CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A624&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑468/03</a>, <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/PDF/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A624" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2005:624</a>, paragraph <a class="coj-CourtLink" href="./../../../legal-content/EN/TXT/HTML/?uri=ecli:ECLI%3AEU%3AC%3A2005%3A624" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">53</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="coj-normal">It follows from the foregoing that a physical inspection of the goods carried upon import cannot, in itself, preclude the initiation of the procedure for revision of the customs declaration provided for in Article 78 of the Customs Code.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="coj-normal">The answer to the question referred is that Article 78 of the Customs Code must be interpreted as not precluding the initiation of the procedure for revision of the customs declaration provided for therein, even though the goods in question were, on a previous import, subject, without challenge, to a physical inspection confirming their tariff classification.</p>
+</td>
+</tr>
+</table>
+<p class="coj-sum-title-1">
+<span class="coj-bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="coj-count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="coj-normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="coj-normal">On those grounds, the Court (Eighth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="coj-normal">
+<span class="coj-bold">Article 78 of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code must be interpreted as not precluding the initiation of the procedure for revision of the customs declaration provided for therein, even though the goods in question were, on a previous import, subject, without challenge, to a physical inspection confirming their tariff classification.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="coj-signaturecase">
+<p class="coj-normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="coj-note"/>
+<p class="coj-note">(<span class="coj-note">
+<a href="#c-ECR_62019CJ0496_EN_01-E0001" id="t-ECR_62019CJ0496_EN_01-E0001">*1</a>
+</span>)	Language of the case: Italian.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

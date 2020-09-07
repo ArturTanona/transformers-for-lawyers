@@ -1,0 +1,1058 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Third Chamber)</p>
+<p class="sum-title-1">2 May 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0133_EN_01-E0001" id="c-ECR_62018CJ0133_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Value added tax (VAT) — Refund of VAT — Directive 2008/9/EC — Article 20 — Request for additional information made by the Member State of refund — Information to be provided within 1 month of the date on which the request reaches the person to whom it is addressed — Legal nature of that time limit and consequences of the failure to comply with it)</p>
+<p class="normal">In Case C‑133/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the tribunal administratif de Montreuil (Administrative Court, Montreuil, France), made by decision of 14 February 2018, received at the Court on 20 February 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Sea Chefs Cruise Services GmbH</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Ministre de l’Action et des Comptes publics,</span>
+</p>
+<p class="normal">THE COURT (Third Chamber),</p>
+<p class="normal">composed of A. Prechal, President of the Chamber, F. Biltgen, J. Malenovský, C.G. Fernlund (Rapporteur) and L.S. Rossi, Judges,</p>
+<p class="normal">Advocate General: G. Hogan,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Sea Chefs Cruise Services GmbH, by D. Martin‑Picod, avocate,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the French Government, by A. Alidière, E. de Moustier and D. Colas, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Spanish Government, by S. Jiménez García, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by N. Gossement and J. Jokubauskaitė, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 17 January 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 20(2) of Council Directive 2008/9/EC of 12 February 2008 laying down detailed rules for the refund of value added tax, provided for in Directive 2006/112/EC, to taxable persons not established in the Member State of refund but established in another Member State (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:044:TOC" hreflang="en" target="CourtTab">OJ 2008 L 44, p. 23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in the course of proceedings between Sea Chefs Cruise Services GmbH (‘Sea Chefs’) — a company established in Germany — and the ministre de l’Action et des Comptes publics (Minister for the Public Sector and Public Accounts, France), concerning the decision of the latter to reject Sea Chefs’ claim for a refund of value added tax (VAT) paid by that company for 2014.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">EU law</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Directive 2008/9</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Recital 2 of Directive 2008/9 is worded as follows:</p>
+<p class="normal">‘The arrangements laid down in [Eighth Council Directive 79/1072/EEC of 6 December 1979 on the harmonisation of the laws of the Member States relating to turnover taxes — Arrangements for the refund of value added tax to taxable persons not established in the territory of the country (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1979:331:TOC" hreflang="en" target="CourtTab">OJ 1979 L 331, p. 11</a>)] should be amended in respect of the period within which decisions concerning applications for refund are notified to businesses. At the same time, it should be laid down that businesses too must provide responses within specified periods. In addition, the procedure should be simplified and modernised by allowing for the use of modern technologies.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Under recital 3 of Directive 2008/9:</p>
+<p class="normal">‘The new procedure should enhance the position of businesses since the Member States shall be liable to pay interest if the refund is made late and the right of appeal of businesses will be strengthened.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1 of that directive provides:</p>
+<p class="normal">‘This Directive lays down the detailed rules for the refund of [VAT], provided for in Article 170 of [Council] Directive 2006/112/EC [of 28 November 2006 on the common system of value added tax (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" target="CourtTab">OJ 2006 L 347, p. 1</a>),] to taxable persons not established in the Member State of refund …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 2 of Directive 2008/9 states:</p>
+<p class="normal">‘For the purposes of this Directive, the following definitions shall apply:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">5.</p>
+</td>
+<td valign="top">
+<p class="normal">“applicant” means the taxable person not established in the Member State of refund making the refund application.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 3 of that directive provides:</p>
+<p class="normal">‘This Directive shall apply to any taxable person not established in the Member State of refund who meets the following conditions:</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 5 of Directive 2008/9 states:</p>
+<p class="normal">‘Each Member State shall refund to any taxable person not established in the Member State of refund any VAT charged in respect of goods or services supplied to him by other taxable persons in that Member State or in respect of the importation of goods into that Member State, in so far as such goods and services are used for the purposes of the following transactions:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">transactions referred to in Article 169(a) and (b) of Directive 2006/112/EC;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 7 of Directive 2008/9:</p>
+<p class="normal">‘To obtain a refund of VAT in the Member State of refund, the taxable person not established in the Member State of refund shall address an electronic refund application to that Member State and submit it to the Member State in which he is established via the electronic portal set up by that Member State.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 8 of that directive provides:</p>
+<p class="normal">‘1.   The refund application shall contain the following information:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">the applicant’s name and full address;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">an address for contact by electronic means;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">a description of the applicant’s business activity for which the goods and services are acquired;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">the refund period covered by the application;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(e)</p>
+</td>
+<td valign="top">
+<p class="normal">a declaration by the applicant that he has supplied no goods and services deemed to have been supplied in the Member State of refund during the refund period …;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(f)</p>
+</td>
+<td valign="top">
+<p class="normal">the applicant’s VAT identification number or tax reference number;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(g)</p>
+</td>
+<td valign="top">
+<p class="normal">bank account details including IBAN and BIC codes.</p>
+</td>
+</tr>
+</table>
+<p class="normal">2.   In addition to the information specified in paragraph 1, the refund application shall set out, for each Member State of refund and for each invoice or importation document, the following details:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">name and full address of the supplier;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">except in the case of importation, the VAT identification number or tax reference number of the supplier, as allocated by the Member State of refund in accordance with the provisions of Articles 239 and 240 of Directive 2006/112/EC;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">except in the vase of importation, the prefix of the Member State of refund in accordance with Article 215 of Directive 2006/112/EC;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">date and number of the invoice or importation document;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(e)</p>
+</td>
+<td valign="top">
+<p class="normal">taxable amount and amount of VAT expressed in the currency of the Member State of refund;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(f)</p>
+</td>
+<td valign="top">
+<p class="normal">the amount of deductible VAT calculated in accordance with Article 5 and the second paragraph of Article 6 [of Directive 2008/9] expressed in the currency of the Member State of refund;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(g)</p>
+</td>
+<td valign="top">
+<p class="normal">where applicable, the deductible proportion calculated in accordance with Article 6 [of that directive] expressed as a percentage;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(h)</p>
+</td>
+<td valign="top">
+<p class="normal">nature of the goods and services acquired, described according to the codes in Article 9 [of that directive].’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Article 9 of Directive 2008/9 provides:</p>
+<p class="normal">‘1.   In the refund application, the nature of the goods and services acquired shall be described by the following codes:</p>
+<p class="normal">…</p>
+<p class="normal">2.   The Member State of refund may require the applicant to provide additional electronic coded information as regards each code set out in paragraph 1 to the extent that such information is necessary because of any restrictions on the right of deduction under Directive 2006/112/EC, as applicable in the Member State of refund or for the implementation of a relevant derogation received by the Member State of refund under Articles 395 or 396 of that Directive.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Article 11 of Directive 2008/9 states:</p>
+<p class="normal">‘The Member State of refund may require the applicant to provide a description of his business activity by using the harmonised codes determined in accordance with the second subparagraph of Article 34a(3) of Council Regulation (EC) No 1798/2003 [of 7 October 2003 on administrative cooperation in the field of value added tax and repealing Regulation (EEC) No 218/92 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2003:264:TOC" hreflang="en" target="CourtTab">OJ 2003 L 264, p. 1</a>)].’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Article 15 of that directive is worded as follows:</p>
+<p class="normal">‘1.   The refund application shall be submitted to the Member State of establishment at the latest on 30 September of the calendar year following the refund period. The application shall be considered submitted only if the applicant has filled in all the information required under Articles 8, 9 and 11.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Article 19 of Directive 2008/9 provides:</p>
+<p class="normal">‘1.   The Member State of refund shall notify the applicant without delay, by electronic means, of the date on which it received the application.</p>
+<p class="normal">2.   The Member State of refund shall notify the applicant of its decision to approve or refuse the refund application within four months of its receipt by that Member State.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Article 20 of Directive 2008/9 provides:</p>
+<p class="normal">‘1.   Where the Member State of refund considers that it does not have all the relevant information on which to make a decision in respect of the whole or part of the refund application, it may request, by electronic means, additional information, in particular from the applicant or from the competent authorities of the Member State of establishment, within the four-month period referred to in Article 19(2). Where the additional information is requested from someone other than the applicant or a competent authority of a Member State, the request shall be made by electronic means only if such means are available to the recipient of the request.</p>
+<p class="normal">If necessary, the Member State of refund may request further additional information.</p>
+<p class="normal">The information requested in accordance with this paragraph may include the submission of the original or a copy of the relevant invoice or import document where the Member State of refund has reasonable doubts regarding the validity or accuracy of a particular claim. In that case, the thresholds mentioned in Article 10 shall not apply.</p>
+<p class="normal">2.   The Member State of refund shall be provided with the information requested under paragraph 1 within one month of the date on which the request reaches the person to whom it is addressed.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Article 21 of Directive 2008/9 provides:</p>
+<p class="normal">‘Where the Member State of refund requests additional information, it shall notify the applicant of its decision to approve or refuse the refund application within two months of receiving the requested information or, if it has not received a reply to its request, within two months of expiry of the time limit laid down in Article 20(2). However, the period available for the decision in respect of the whole or part of the refund application shall always be at least six months from the date of receipt of the application by the Member State of refund.</p>
+<p class="normal">Where the Member State of refund requests further additional information, it shall notify the applicant of its decision in respect of the whole or part of the refund application within eight months of receipt of the application by that Member State.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Article 23 of that directive states:</p>
+<p class="normal">‘1.   Where the refund application is refused in whole or in part, the grounds for refusal shall be notified by the Member State of refund to the applicant together with the decision.</p>
+<p class="normal">2.   Appeals against decisions to refuse a refund application may be made by the applicant to the competent authorities of the Member State of refund in the forms and within the time limits laid down for appeals in the case of refund applications from persons who are established in that Member State.</p>
+<p class="normal">If, under the law of the Member State of refund, failure to take a decision on a refund application within the time limits specified in this Directive is not regarded either as approval or as refusal, any administrative or judicial procedures which are available in that situation to taxable persons established in that Member State shall be equally available to the applicant. If no such procedures are available, failure to take a decision on a refund application within these time limits shall mean that the application is deemed to be rejected.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Article 26 of that directive provides:</p>
+<p class="normal">‘Interest shall be due to the applicant by the Member State of refund on the amount of the refund to be paid if the refund is paid after the last date of payment pursuant to Article 22(1).</p>
+<p class="normal">If the applicant does not submit the additional or further additional information requested to the Member State of refund within the specified time limit, the first paragraph shall not apply. …’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Directive 2006/112/EC</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">The second subparagraph of Article 9(1) of Directive 2006/112, as amended by Council Directive 2008/8/EC of 12 February 2008 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2008:044:TOC" hreflang="en" target="CourtTab">OJ 2008 L 44, p. 11</a>) (‘the VAT Directive’), provides:</p>
+<p class="normal">‘Any activity of producers, traders or persons supplying services, including mining and agricultural activities and activities of the professions, shall be regarded as “economic activity”. The exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis shall in particular be regarded as an economic activity.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Article 167 of the VAT Directive states:</p>
+<p class="normal">‘A right of deduction shall arise at the time the deductible tax becomes chargeable.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Article 169 of that directive provides:</p>
+<p class="normal">‘In addition to the deduction referred to in Article 168, the taxable person shall be entitled to deduct the VAT referred to therein in so far as the goods and services are used for the purposes of the following:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">transactions relating to the activities referred to in the second subparagraph of Article 9(1), carried out outside the Member State in which that tax is due or paid, in respect of which VAT would be deductible if they had been carried out within that Member State;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">transactions which are exempt pursuant to Articles 138, 142 or 144, Articles 146 to 149, Articles 151, 152, 153 or 156, Article 157(1)(b), Articles 158 to 161 or Article 164;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">transactions which are exempt pursuant to points (a) to (f) of Article 135(1), where the customer is established outside the Community or where those transactions relate directly to goods to be exported out of the Community.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 170 of that directive:</p>
+<p class="normal">‘All taxable persons who, within the meaning of Article 1 of [Thirteenth Council] Directive 86/560/EEC [of 17 November 1986 on the harmonisation of the laws of the Member States relating to turnover taxes — Arrangements for the refund of value added tax to taxable persons not established in Community territory (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1986:326:TOC" hreflang="en" target="CourtTab">OJ 1986 L 326, p. 40</a>)], Article 2(1) and Article 3 of Directive 2008/9/EC and Article 171 of this Directive, are not established in the Member State in which they purchase goods and services or import goods subject to VAT shall be entitled to obtain a refund of that VAT in so far as the goods and services are used for the purposes of the following:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">transactions referred to in Article 169;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">transactions for which the tax is solely payable by the customer in accordance with Articles 194 to 197 or Article 199.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Article 171(1) of Directive 2006/112 states:</p>
+<p class="normal">‘VAT shall be refunded to taxable persons who are not established in the Member State in which they purchase goods and services or import goods subject to VAT but who are established in another Member State, in accordance with the detailed rules laid down in Directive 2008/9/EC.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">French law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Article 242‑0 W of Annex II to the code général des impôts (General Tax Code), by which Article 20 of Directive 2008/9 was transposed into French law, provides:</p>
+<p class="normal">‘I. —   The Tax authority may request by electronic means, within the time period referred to in II of Article 242‑0 V, additional information, in particular from the applicant or the competent authorities in the Member State of the European Union in which it is established, where it considers that it does not have all the necessary information for deciding all or part of the refund application submitted by the applicant. Where that additional information is requested from someone other than the applicant or the competent authorities of a Member State, the request shall be made by electronic means only if such means are available to the recipient of the request.</p>
+<p class="normal">If it considers it necessary, the Tax authority may request further additional information.</p>
+<p class="normal">In the context of those applications, the Tax authority may request that the applicant provide the original of any invoice or an importation document where it has reason to doubt the validity or accuracy of a particular claim. The request may cover any of the transactions without regard to their amount.</p>
+<p class="normal">II. —   Any additional information required pursuant to the provisions of I shall be provided within 1 month of the date on which the request for information is received by the addressee.’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the question referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">On 17 September 2015, Sea Chefs, a company established in Germany, applied, via the electronic portal available to it in its Member State of establishment, for the refund of a VAT tax credit which it had for the period from 1 January to 31 December 2014.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">On 14 December 2015, the French tax authority (‘the tax authority’) sent, by email, a request for additional information to Sea Chefs. On 29 January 2016, because of that company’s failure to reply within the specified period of 1 month, that authority rejected its refund application.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Sea Chefs brought an action against that refusal decision before the tribunal administratif de Montreuil (Administrative Court, Montreuil, France). In support of its action, that company produced, before that court, the documents and information sought by the tax authority in its request for additional information.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">The tax authority takes the view that that action must be declared inadmissible on the ground that the failure to respect the 1-month period for submitting a reply had the effect of rendering the refund application time-barred. This, it is argued, makes it impossible to regularise such an application by producing, directly before the national court, additional information intended to establish the right to a refund of VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">Sea Chefs maintains that the fact that it is impossible to regularise its situation in the context of the action provided for in Article 23 of Directive 2008/9 is contrary to the principles of VAT neutrality and proportionality.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court states that Directive 2008/9 does not provide details either on the consequences, for the right to a refund of VAT, of disregarding the period for reply referred to in Article 20(2) of that directive, or on whether it is possible for the taxable person to regularise his request by producing, before the national court, evidence capable of establishing his entitlement to a refund.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the tribunal administratif de Montreuil (Administrative Court, Montreuil) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:</p>
+<p class="normal">‘Must Article 20(2) of [Directive 2008/9] be interpreted as meaning that it creates a limitation rule which has the effect that a taxable person of a Member State which applies for a refund of [VAT] from a Member State in which it is not established is not able to regularise its refund application before a tax court if it has not complied with the time limit for replying to a request for information made by the administration in accordance with the provisions of [Article 20(1) of that directive] or, on the contrary, as meaning that that taxable person may, in the context of the right of appeal laid down in Article 23 of that directive, and having regard to the principles of neutrality and proportionality of VAT, regularise its application before the tax court?’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the question referred</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">By its question, the referring court is asking, in essence, whether Article 20(2) of Directive 2008/9 must be interpreted as meaning that the period of 1 month laid down in that provision for providing the Member State of refund with the additional information requested by that Member State is a limitation period whereby, if that period is exceeded or in the event of a failure to reply, the taxable person loses the possibility of regularising his refund application by producing, directly before the national court, additional information capable of establishing the existence of his right to a refund of VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">It should, first, be recalled that, in accordance with Article 170(a) of the VAT Directive, read in conjunction with Article 169 thereof and Articles 3 and 5 of Directive 2008/9, all taxable persons who are not established in the Member State in which they purchase goods and services or import goods subject to VAT are to be entitled to a refund of that VAT in so far as the goods and services are used either for the purposes of their transactions relating to the activities referred to in the second subparagraph of Article 9(1) of the VAT Directive, conducted outside the Member State in which that VAT is due or already paid and which would be eligible for deduction if those transactions had been conducted in that Member State, or for the purposes of transactions which are exempt, referred to in Article 169(b) and (c). Second, Article 171 of the VAT Directive refers to Directive 2008/9 so far as concerns the procedure for exercising that right.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">With regard to the right to a refund, the Court has already stated that the right of a taxable person established in a Member State to obtain the refund of VAT paid in another Member State, in the manner governed by Directive 2008/9, is the counterpart of such a person’s right established by Directive 2006/112 to deduct input VAT in his own Member State (judgment of 21 March 2018, Volkswagen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑533/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:204</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point36" hreflang="en" target="CourtTab" type="application/xhtml+xml">36</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, the Court has clarified that, like the right to deduct, the right to a refund is a fundamental principle of the common system of VAT established by EU legislation, which is intended to relieve the operator entirely of the burden of the VAT due or paid in the course of all his economic activities. The common system of VAT therefore ensures neutrality of taxation of all economic activities, whatever their purpose or results, provided that they are themselves, in principle, subject to VAT (see, to that effect, judgment of 21 March 2018, Volkswagen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑533/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:204</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="en" target="CourtTab" type="application/xhtml+xml">37</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point38" hreflang="en" target="CourtTab" type="application/xhtml+xml">38</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">The right to deduct and, accordingly, to a refund is an integral part of the VAT scheme and in principle may not be limited. The right to deduct is exercisable immediately in respect of all taxes charged on input transactions (see, to that effect, judgment of 21 March 2018, Volkswagen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑533/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:204</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point39" hreflang="en" target="CourtTab" type="application/xhtml+xml">39</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">So far as concerns the procedure for exercising the right to the refund of VAT, it is important to note, first, that Article 15(1) of Directive 2008/9 lays down a series of requirements which the taxable person who comes within the scope of that directive must satisfy in order to be eligible for a refund, namely, the requirement that he submit his refund application to his Member State of establishment ‘at the latest’ by the deadline laid down in that provision, and that he provide all the information required under Articles 8, 9 and 11 of that directive. Second, Article 20 of that directive offers the Member State of refund, when it considers that it does not have all the relevant information on which to make a decision in respect of the whole or part of the refund application, the possibility of requesting, in particular from the applicant or from the competent authorities of the Member State of establishment, additional information which must be provided within 1 month of the date on which the request reaches the person to whom it is addressed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">As regards that latter provision, it should be observed that its wording, as such, does not make it possible to establish whether or not the period referred to in that provision constitutes a limitation period. However, the non-binding nature of that time limit may be inferred from the context of which that provision forms part in Directive 2008/9.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">So far as concerns the period for submitting a refund application, laid down in Article 7 of Eighth Directive 79/1072 in which the phrase ‘au plus tard’ (at the latest) was already set out, and which was reproduced in Article 15(1) of Directive 2008/9, the Court has held that that term is a clarification which states quite clearly that a refund application cannot validly be submitted after expiry of the period set to that end and that, accordingly, such a period is a limitation period, failure to comply with which brings about the forfeiture of the right to a VAT refund (see, to that effect, judgment of 21 June 2012, Elsacom, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A382&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑294/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A382&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2012:382</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A382&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point26" hreflang="en" target="CourtTab" type="application/xhtml+xml">26</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A382&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point33" hreflang="en" target="CourtTab" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">In the first place, however, unlike Article 15(1) of Directive 2008/9, Article 20(2) of that directive does not reproduce the phrase ‘au plus tard’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">As the Advocate General observes in point 36 of his Opinion, the absence of such a term suggests, in the context of Directive 2008/9, that the European Union legislature did not seek to lay down a limitation period in Article 20(2) of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, whereas the application for a refund of VAT, provided for in Article 15 of Directive 2008/9, must be made by the taxable person, the additional information requested under Article 20 of that directive may be requested from a person other than the taxable person or from the authorities of the Member State in which the taxable person is established. In that case, the failure to respond or the provision of a reply out of time on the part of that other person or those authorities would result, despite the taxable person being unable to influence the sending of a response in any way, in that taxable person losing the right to a refund of VAT, in breach of the fundamental principles governing the common system of VAT, recalled in paragraphs 34 to 36 of the present judgment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, it may also be inferred from Articles 21 and 26 of Directive 2008/9 that the period of 1 month provided for in Article 20(2) is not a limitation period.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the first place, Article 21 of Directive 2008/9, it is clear from its wording that, in the case where the Member State of refund has not received the additional information requested, the period within which that Member State is required to give notification of its decision to uphold or refuse the VAT refund application begins to run from the expiry of the period referred to in Article 20(2) of that directive. As the Advocate General observes in point 40 of his Opinion, Article 21 does not exclude the possibility of a refund application being approved, even where the additional information requested has not been provided.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">So far as concerns, in the second place, Article 26 of Directive 2008/9, which, read in the light of recital 3 thereof, strengthens the position of the taxable person, in particular by granting him default interest when the refund is made late, it follows from the second paragraph of that article that, in the case where the refund is made late on account of the fact that the taxable person failed to provide the additional information requested to the Member State of refund within the period set, that Member State is not liable for payment of default interest to that taxable person. Should the period of 1 month referred to in Article 20(2) of Directive 2008/9 constitute a limitation period, a delayed response to a request for additional information would necessarily result in the rejection of the refund application and not in a refund made late, but without the benefit of default interest. It follows that an interpretation of that Article 20(2) consisting in finding that that period is a limitation period would be tantamount to rendering the second paragraph of Article 26 of Directive 2008/9 meaningless.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, it appears that the period of 1 month laid down in Article 20(2) of Directive 2008/9 for providing the Member State of refund with the additional information requested by that Member State is not a limitation period.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, while it is clear from the case-law of the Court on limitation periods relating to VAT that a limitation period, the expiry of which has the effect of penalising the taxable person who has not been sufficiently diligent and has failed to claim deduction of input VAT within the prescribed time limits, by causing him to forfeit his right to deduct is, subject to compliance with the principles of equivalence and effectiveness, compatible with the VAT Directive (see, to that effect, judgment of 21 March 2018, Volkswagen, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑533/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:204</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A204&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point47" hreflang="en" target="CourtTab" type="application/xhtml+xml">47</a> and the case-law cited), Article 20 of Directive 2008/9 applies when a refund application has already been made within the period laid down in Article 15 of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, since the period of 1 month laid down in Article 20(2) of Directive 2008/9 for providing the Member State of refund with the additional information requested by that Member State is not a limitation period, when the refund application is refused in whole or in part, notwithstanding the failure to provide the additional information requested, appeals against such decisions may, in accordance with the first subparagraph of Article 23(2) of that directive, be made by the taxable person to the competent authorities of the Member State of refund, in the forms and within the periods laid down for appeals in the case of refund applications from persons who are established in that Member State. It follows that the failure to comply with the period laid down in Article 20(2) of Directive 2008/9 does not mean that the taxable person loses the possibility of regularising his refund application by producing, directly before the national court, additional information capable of establishing the existence of his right to the refund of VAT.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing, the answer to the question referred is that Article 20(2) of Directive 2008/9 must be interpreted as meaning that the period of 1 month laid down in that provision for providing the Member State of refund with the additional information requested by that Member State is not a limitation period whereby, if that period is exceeded or in the event of a failure to reply, the taxable person loses the possibility of regularising his refund application by producing, directly before the national court, additional information capable of establishing the existence of his right to the refund of VAT.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Third Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 20(2) of Council Directive 2008/9/EC of 12 February 2008 laying down detailed rules for the refund of value added tax, provided for in Directive 2006/112/EC, to taxable persons not established in the Member State of refund but established in another Member State must be interpreted as meaning that the period of 1 month laid down in that provision for providing the Member State of refund with the additional information requested by that Member State is not a limitation period whereby, if that period is exceeded or in the event of a failure to reply, the taxable person loses the possibility of regularising his refund application by producing, directly before the national court, additional information capable of establishing the existence of his right to the refund of value added tax.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0133_EN_01-E0001" id="t-ECR_62018CJ0133_EN_01-E0001">*1</a>
+</span>)	Language of the case: French.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

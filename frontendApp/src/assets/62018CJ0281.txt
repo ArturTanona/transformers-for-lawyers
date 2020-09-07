@@ -1,0 +1,942 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>ARRÊT DE LA COUR (deuxième chambre)</p>
+<p class="sum-title-1">31 octobre 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0281_FR_01-E0001" id="c-ECR_62018CJ0281_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Pourvoi – Marque de l’Union européenne – Procédure de nullité – Révocation de la décision initiale de la chambre de recours rejetant partiellement la demande en nullité de la marque de l’Union européenne verbale REPOWER »</p>
+<p class="normal">Dans l’affaire C‑281/18 P,</p>
+<p class="normal">ayant pour objet un pourvoi au titre de l’article 56 du statut de la Cour de justice de l’Union européenne, introduit le 20 avril 2018,</p>
+<p class="normal">
+<span class="bold">Repower AG,</span> établie à Brusio (Suisse), représentée par M<span class="super">es</span> R. Kunz-Hallstein, H. P. Kunz-Hallstein et V. Kling, Rechtsanwälte,</p>
+<p class="pstatus">partie requérante,</p>
+<p class="pnormal">les autres parties à la procédure étant :</p>
+<p class="normal">
+<span class="bold">Office de l’Union européenne pour la propriété intellectuelle (EUIPO),</span> représenté par MM. D. Botis et J. F. Crespo Carrillo, en qualité d’agents,</p>
+<p class="pstatus">partie défenderesse en première instance,</p>
+<p class="normal">
+<span class="bold">repowermap.org,</span> établie à Berne (Suisse), représentée par M<span class="super">e</span> P. González-Bueno Catalán de Ocón, abogado,</p>
+<p class="pstatus">partie intervenante en première instance,</p>
+<p class="normal">LA COUR (deuxième chambre),</p>
+<p class="normal">composée de M. K. Lenaerts, président de la Cour, faisant fonction de président de la deuxième chambre, MM. T. von Danwitz et C. Vajda (rapporteur), juges,</p>
+<p class="normal">avocat général : M. M. Campos Sánchez-Bordona,</p>
+<p class="normal">greffier : M<span class="super">me</span> V. Giacobbo-Peyronnel, administratrice,</p>
+<p class="normal">vu la procédure écrite et à la suite de l’audience du 14 mars 2019,</p>
+<p class="normal">ayant entendu l’avocat général en ses conclusions à l’audience du 16 mai 2019,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">Par son pourvoi, Repower AG demande l’annulation de l’arrêt du Tribunal de l’Union européenne du 21 février 2018, Repower/EUIPO – repowermap.org (REPOWER) (T‑727/16, ci-après l’« arrêt attaqué », <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AT%3A2018%3A88&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:T:2018:88</a>), par lequel celui-ci a rejeté son recours tendant à l’annulation de la décision de la cinquième chambre de recours de l’Office de l’Union européenne pour la propriété intellectuelle (EUIPO), du 3 août 2016 [affaire R 2311/2014-5 (REV)], relative à une procédure de nullité entre repowermap.org et Repower (ci-après la « décision litigieuse »).</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Le règlement (CE) n<span class="super">o</span> 207/2009 du Conseil, du 26 février 2009, sur la marque de l’Union européenne (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:078:TOC" hreflang="fr" target="CourtTab">JO 2009, L 78, p. 1</a>), a été modifié par le règlement (UE) 2015/2424 du Parlement européen et du Conseil, du 16 décembre 2015 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2015:341:TOC" hreflang="fr" target="CourtTab">JO 2015, L 341, p. 21</a>), lequel est entré en vigueur le 23 mars 2016. La décision litigieuse ayant été adoptée le 3 août 2016, les dispositions du règlement n<span class="super">o</span> 207/2009, tel que modifié par le règlement 2015/2424, lui sont applicables.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Le règlement n<span class="super">o</span> 207/2009, tel que modifié par le règlement 2015/2424, comporte un titre IX, intitulé « Dispositions de procédure ». Ce titre comprend une section I, intitulée « Dispositions générales », composée des articles 75 à 84 de ce règlement. L’article 4 du règlement 2015/2424 prévoit que certaines dispositions du règlement n<span class="super">o</span> 207/2009 ne seront applicables qu’à compter du 1<span class="super">er</span> octobre 2017. L’article 75, l’article 80, paragraphes 1 et 2, ainsi que l’article 83 du règlement n<span class="super">o</span> 207/2009 figurent au nombre de ces dispositions. En l’espèce, compte tenu de la date d’adoption de la décision litigieuse, l’article 75, l’article 80, paragraphes 1 et 2, ainsi que l’article 83 du règlement n<span class="super">o</span> 207/2009 dans leur version initiale demeurent applicables à cette décision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 75 du règlement n<span class="super">o</span> 207/2009, intitulé « Motivation des décisions » :</p>
+<p class="normal">« Les décisions de l’Office sont motivées. Elles ne peuvent être fondées que sur des motifs sur lesquels les parties ont pu prendre position. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 80 du règlement n<span class="super">o</span> 207/2009, intitulé « Suppression ou révocation », dispose, à ses paragraphes 1 et 2 :</p>
+<p class="normal">« 1.   Lorsque l’Office effectue une inscription dans le registre ou prend une décision entachées d’une erreur de procédure manifeste, qui lui est imputable, il se charge de supprimer une telle inscription ou de révoquer cette décision. Dans le cas où il n’y a qu’une seule partie à la procédure dont les droits sont lésés par l’inscription ou l’acte, la suppression de l’inscription ou la révocation de la décision est ordonnée même si, pour la partie, l’erreur n’était pas manifeste.</p>
+<p class="normal">2.   La suppression de l’inscription ou la révocation de la décision, visées au paragraphe 1, sont ordonnées, d’office ou à la demande de l’une des parties à la procédure, par l’instance ayant procédé à l’inscription ou ayant adopté la décision. La suppression ou la révocation sont ordonnées dans un délai de six mois à partir de la date d’inscription au registre ou de l’adoption de la décision, après avoir entendu les parties à la procédure ainsi que les éventuels titulaires de droits sur la marque communautaire en question qui sont inscrits au registre. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 83 du règlement n<span class="super">o</span> 207/2009, intitulé « Référence aux principes généraux », énonce :</p>
+<p class="normal">« En l’absence d’une disposition de procédure dans le présent règlement, le règlement d’exécution, le règlement relatif aux taxes ou le règlement de procédure des chambres de recours, l’Office prend en considération les principes généralement admis en la matière dans les États membres. »</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Les antécédents du litige</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Le Tribunal a exposé les antécédents du litige comme suit aux points 1 à 12 de l’arrêt attaqué :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« 1</p>
+</td>
+<td valign="top">
+<p class="normal">Le 26 juin 2009, en vertu du règlement [...] n<span class="super">o</span> 207/2009 [...], la requérante, [Repower], a obtenu, auprès de l’[EUIPO], la protection dans l’Union européenne de l’enregistrement international n<span class="super">o</span> 1020351 de la marque verbale REPOWER.</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3</p>
+</td>
+<td valign="top">
+<p class="normal">Le 3 juin 2013, l’intervenante, repowermap.org, a présenté une demande de nullité de la marque contestée [...] Elle soutenait que la marque contestée était descriptive et dépourvue de caractère distinctif pour tous les produits et services visés par cette marque.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4</p>
+</td>
+<td valign="top">
+<p class="normal">Le 9 juillet 2014, la division d’annulation a accueilli [partiellement] la demande en nullité [...]</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">6</p>
+</td>
+<td valign="top">
+<p class="normal">Le 8 septembre 2014, l’intervenante a formé un recours auprès de l’EUIPO, au titre des articles 58 à 64 du règlement n<span class="super">o</span> 207/2009 [...], contre la décision de la division d’annulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">7</p>
+</td>
+<td valign="top">
+<p class="normal">Par décision du 8 février 2016, la cinquième chambre de recours de l’EUIPO a rejeté le recours (ci-après la “décision du 8 février 2016”). [...]</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">8</p>
+</td>
+<td valign="top">
+<p class="normal">Par requête introduite au greffe du Tribunal le 26 avril 2016, l’intervenante a formé un recours [contre] la décision du 8 février 2016. Cette affaire a été enregistrée sous le numéro T‑188/16.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">9</p>
+</td>
+<td valign="top">
+<p class="normal">Par une communication du 22 juin 2016, la cinquième chambre de recours a informé les parties que, à la suite de l’introduction du recours devant le Tribunal dans l’affaire T‑188/16, repowermap/EUIPO – Repower (REPOWER), elle avait constaté que la décision du 8 février 2016 était entachée d’une insuffisance de motivation au sens de l’article 75 du règlement n<span class="super">o</span> 207/2009 [...] Elle a précisé que, en raison de cette insuffisance de motivation et en application de l’article 80 du règlement n<span class="super">o</span> 207/2009 [...], elle estimait pertinent de révoquer la décision du 8 février 2016, afin de procéder à l’analyse détaillée des caractères distinctif et descriptif de la marque contestée au regard des produits et des services visés par ce signe. Elle a invité les parties à présenter leurs observations sur son intention de révoquer la décision du 8 février 2016.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">10</p>
+</td>
+<td valign="top">
+<p class="normal">La requérante a transmis des observations le 5 juillet 2016. Elle soutenait, en substance, que, tant que le dispositif de la décision du 8 février 2016 n’était pas modifié, il était possible d’en étayer les motifs, selon les conditions visées à l’article 83 du règlement n<span class="super">o</span> 207/2009 [...] En revanche, elle considérait qu’une révocation de la décision du 8 février 2016 sur le fondement de l’article 80 du règlement n<span class="super">o</span> 207/2009, qui n’existait pas ou plus dans la version consolidée du règlement n<span class="super">o</span> 207/2009 mise en ligne dans la base de données EUR-Lex, n’était pas possible dans la mesure où cet article ne conférait qu’un pouvoir aux examinateurs de l’EUIPO et où un défaut de motivation ne constituait pas un vice de procédure au sens de l’article 80 du règlement n<span class="super">o</span> 207/2009. Enfin, elle soutenait qu’il ressortait de la décision de la grande chambre de recours de l’EUIPO du 28 avril 2009 (affaire R 323/2008-G) (ci-après la “décision de la grande chambre de recours”) que les décisions de l’EUIPO contre lesquelles un recours devant le Tribunal était pendant ne pouvaient pas être révoquées.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">11</p>
+</td>
+<td valign="top">
+<p class="normal">L’intervenante a transmis des observations le 20 juillet 2016. Elle a souligné que l’article 80 du règlement n<span class="super">o</span> 207/2009, en tant que règle spécifique, était applicable à la place des principes généraux auxquels l’article 83 du règlement n<span class="super">o</span> 207/2009 renvoyait. Elle a également relevé que la réponse à donner à la question de savoir si une insuffisance de motivation constituait une erreur de procédure était incertaine et qu’il existait une probabilité notable qu’une révocation de la décision du 8 février 2016 pour insuffisance de motivation ne fût pas admise. Elle a estimé que, compte tenu de ces circonstances, le mieux était de poursuivre la procédure devant le Tribunal dans l’affaire T‑188/16, repowermap/EUIPO – Repower (REPOWER).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">12</p>
+</td>
+<td valign="top">
+<p class="normal">Par [la] décision [litigieuse], la cinquième chambre de recours de l’EUIPO a révoqué la décision du 8 février 2016 [...] Elle a expliqué que, contrairement aux doutes émis par les parties, l’article 80 du règlement n<span class="super">o</span> 207/2009 était toujours applicable après l’entrée en vigueur du règlement 2015/2424. En outre, elle a relevé que l’EUIPO avait l’obligation de motiver ses décisions et, notamment, d’analyser les motifs de refus au regard des produits et des services concernés, de sorte que l’insuffisance de motivation, telle qu’observée dans la décision du 8 février 2016, était une erreur de procédure manifeste, au sens de l’article 80 du règlement n<span class="super">o</span> 207/2009, qu’il convenait de corriger. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">La procédure devant le Tribunal et l’arrêt attaqué</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Par une requête déposée au greffe du Tribunal le 10 octobre 2016, la requérante a introduit un recours tendant à l’annulation de la décision litigieuse.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">À l’appui de son recours, la requérante invoquait quatre moyens tirés, premièrement, d’un défaut de base juridique, deuxièmement, de l’incompétence des chambres de recours pour révoquer leurs décisions, troisièmement, de la violation de l’article 80 du règlement n<span class="super">o</span> 207/2009, des directives d’examen de l’EUIPO ainsi que des principes de bonne administration, de sécurité juridique et de l’autorité de la chose jugée et, quatrièmement, d’un défaut de motivation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Par l’arrêt attaqué, le Tribunal a rejeté le recours dans son intégralité. Aux points 53 à 59 de l’arrêt attaqué, le Tribunal a tout d’abord considéré que la chambre de recours ne pouvait pas fonder la décision litigieuse sur l’article 80, paragraphe 1, du règlement n<span class="super">o</span> 207/2009, dans la mesure où un défaut de motivation ne constitue pas une erreur de procédure manifeste au sens de cette disposition. Aux points 60 à 88 et 92 à 95 de l’arrêt attaqué, le Tribunal a ensuite estimé que la décision litigieuse pouvait être fondée sur le principe général de droit autorisant le retrait des actes administratifs illégaux, les conditions d’application de ce principe étant réunies. Bien que l’EUIPO ait commis une erreur dans le choix de la base juridique de la décision litigieuse, le Tribunal a rappelé, au point 89 de l’arrêt attaqué, qu’une telle erreur n’emporte l’annulation de l’acte concerné que lorsqu’elle est susceptible d’avoir des conséquences sur le contenu de celui-ci. Ayant constaté, aux points 90 et 91 de l’arrêt attaqué, que l’erreur de la chambre de recours quant au choix de la base juridique ne justifiait pas l’annulation de la décision litigieuse, le Tribunal a rejeté le recours.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Les conclusions des parties devant la Cour</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Par son pourvoi, Repower demande à la Cour :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">d’annuler l’arrêt attaqué ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">d’annuler la décision litigieuse, et</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">de condamner l’EUIPO aux dépens.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">L’EUIPO et repowermap.org demandent à la Cour de rejeter le pourvoi et de condamner Repower aux dépens.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur le pourvoi</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur l’intérêt à agir</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Argumentation des parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Selon repowermap.org, la requérante ne dispose plus d’un intérêt à demander l’annulation de la décision litigieuse. En se référant au point 91 de l’arrêt attaqué, repowermap.org indique que le Tribunal, en raison du fait qu’il a constaté que la décision du 8 février 2016 était entachée d’un défaut de motivation, devrait annuler cette décision dans le cadre de la procédure relative à l’affaire enregistrée sous le numéro T-188/16, actuellement pendante devant lui, dans le cas où la Cour accueillerait le pourvoi et annulerait la décision litigieuse. Une telle situation engendrerait des procédures supplémentaires alors que le résultat ne serait probablement pas différent de la situation actuelle. La requérante ne pouvant ainsi retirer aucun bénéfice du maintien de la décision du 8 février 2016, repowermap.org considère que le pourvoi est irrecevable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Lors de l’audience, la requérante a affirmé qu’elle avait toujours un intérêt à obtenir l’annulation de la décision litigieuse. Elle a notamment soutenu, en référence au quatrième moyen de son pourvoi, que la décision litigieuse a eu pour effet de révoquer la décision du 8 février 2016 dans son ensemble, alors que cette dernière lui était en partie favorable. Elle en conclut que l’annulation de l’arrêt attaqué et de la décision litigieuse et, partant, le maintien de la décision du 8 février 2016 auraient pour conséquence la reprise de la procédure dans l’affaire T-188/16, ce qui lui permettrait de faire valoir ses prétentions, y compris en pourvoi devant la Cour, afin d’empêcher l’annulation de cette décision et de sauvegarder ainsi les droits qu’elle tire de ladite décision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Au cours de l’audience, l’EUIPO a considéré que la requérante n’a plus d’intérêt à agir. Tout en admettant qu’une partie de la décision du 8 février 2016 était favorable à la requérante, l’EUIPO a rappelé avoir lui-même reconnu que cette décision était entachée d’illégalité pour défaut de motivation, si bien que, dans ces conditions, la requérante ne saurait invoquer le bénéfice de ladite décision.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Appréciation de la Cour</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Il est de jurisprudence constante que l’existence d’un intérêt à agir dans le chef de l’auteur d’un pourvoi suppose que le pourvoi soit susceptible, par son résultat, de lui procurer un bénéfice (arrêt du 19 octobre 1995, Rendo e.a./Commission, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A1995%3A339&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑19/93 P</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1995%3A339&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:1995:339</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A1995%3A339&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point13" hreflang="fr" target="CourtTab" type="application/xhtml+xml">13</a> ; ordonnance du 5 juillet 2018, Wenger/EUIPO, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A545&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑162/18 P</a>, non publiée, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A545&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2018:545</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A545&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point13" hreflang="fr" target="CourtTab" type="application/xhtml+xml">13</a> et jurisprudence citée, ainsi que arrêt du 13 juillet 2000, Parlement/Richard, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2000%3A412&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑174/99 P</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2000%3A412&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2000:412</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2000%3A412&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point33" hreflang="fr" target="CourtTab" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, il est constant que la décision du 8 février 2016, révoquée par la décision litigieuse, était favorable à la requérante, dans la mesure où elle rejetait le recours formé par repowermap.org contre la décision de la division d’annulation du 9 juillet 2014, laquelle était elle-même en partie favorable à la requérante.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi, dans le cas où le pourvoi dans la présente affaire serait accueilli puis la décision litigieuse annulée, la décision du 8 février 2016 serait maintenue et le pourvoi procurerait, par son résultat, un bénéfice à la requérante. En effet, le maintien éventuel de cette décision assurerait à la requérante la possibilité de conserver la protection dans l’Union européenne de l’enregistrement international n<span class="super">o</span> 1020351 de la marque verbale REPOWER pour certains produits et services.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Cette constatation n’est pas infirmée par l’argumentation de repowermap.org tirée de ce que, au point 91 de l’arrêt attaqué, le Tribunal a indiqué qu’il conviendrait d’annuler la décision du 8 février 2016, dans le cadre du recours en annulation enregistré sous le numéro d’affaire T-188/16 et que, partant, l’accueil du pourvoi ne procurerait à la requérante qu’un bénéfice temporaire.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">En effet, il n’appartient pas à la Cour, dans le cadre de l’examen de l’intérêt à agir, de réfuter l’existence d’un tel intérêt au motif que, dans l’arrêt attaqué, le Tribunal aurait apprécié de manière incidente la légalité de la décision du 8 février 2016, alors que celle-ci ne faisait pas l’objet du recours introduit devant lui. Pour autant qu’il soit nécessaire de prendre en considération la décision du 8 février 2016, laquelle est intrinsèquement liée à la décision litigieuse, il convient de relever qu’il s’agit d’une question de fond, la Cour ne pouvant pas partir de l’hypothèse que la décision du 8 février 2016 est illégale au stade de l’examen de l’intérêt à agir. Dans ce cadre, il est nécessaire, mais suffisant, que, par son résultat, le pourvoi introduit devant la Cour soit susceptible de procurer un bénéfice à la partie qui l’a intenté, ce qui est le cas en l’espèce, ainsi qu’il résulte des points 17 et 18 du présent arrêt.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il convient de constater que la requérante dispose d’un intérêt à agir aux fins du présent pourvoi.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Sur le fond</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">La requérante soulève cinq moyens au soutien de son pourvoi. Par son premier moyen, la requérante affirme que, en ayant modifié au cours de la procédure devant le Tribunal son argumentation relative à la base juridique de la décision litigieuse, en recourant au principe général de droit autorisant le retrait des actes administratifs illégaux, l’EUIPO a modifié l’objet même du litige. Dans le cadre de son deuxième moyen, la requérante fait valoir que le Tribunal a, à tort, appliqué le principe général de droit autorisant le retrait des actes administratifs illégaux, dans la mesure où les dispositions du règlement n<span class="super">o</span> 207/2009 en vigueur à la date d’adoption de la décision litigieuse constituaient des leges speciales et ne permettaient pas, à ce titre, d’appliquer ce principe. Par son troisième moyen, la requérante reproche au Tribunal d’avoir inversé la charge de la preuve dans le cadre de l’article 83 du règlement n<span class="super">o</span> 207/2009. Par son quatrième moyen, la requérante allègue que, même à supposer que le principe général de droit autorisant le retrait des actes administratifs illégaux soit applicable, la décision du 8 février 2016 n’aurait pas dû, pour des raisons de protection de la confiance légitime, être révoquée dans son intégralité. Enfin, le cinquième moyen est tiré d’un défaut de motivation de la décision litigieuse.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Sur les premier à quatrième moyens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">Par ses premier à quatrième moyens, la requérante soutient, en substance, que le Tribunal, en ayant appliqué le principe général de droit autorisant le retrait des actes administratifs illégaux, le cas échéant en combinaison avec l’article 83 du règlement n<span class="super">o</span> 207/2009, a commis des erreurs de droit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">En particulier, dans le cadre du deuxième moyen, qu’il convient d’examiner en premier lieu, la requérante fait notamment valoir que le Tribunal a méconnu le principe selon lequel les lois spéciales dérogent aux lois générales. Selon la requérante, l’article 80, paragraphe 1, du règlement n<span class="super">o</span> 207/2009 ne permet pas, en tant que règle d’exception et lex specialis, de recourir aux principes de droit généralement admis dans les États membres, visés à l’article 83 de ce règlement, ni au principe général de droit autorisant le retrait des actes administratifs illégaux. En effet, l’EUIPO ne pourrait révoquer ses décisions que dans la situation prévue par cette disposition, faute de quoi cette dernière serait dénuée de sens. La requérante ajoute que, en adoptant l’article 80 du règlement n<span class="super">o</span> 207/2009, le législateur de l’Union a souhaité cantonner le pouvoir de révocation de l’EUIPO au seul cas envisagé à cet article.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Partant, en ayant examiné la possibilité de révoquer la décision du 8 février 2016 par l’adoption de la décision litigieuse sur la base du principe général de droit autorisant le retrait des actes administratifs illégaux et de l’article 83 du règlement n<span class="super">o</span> 207/2009, le Tribunal aurait commis une erreur de droit.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard à ces arguments de la requérante, il convient d’examiner si le Tribunal a violé le principe selon lequel une loi spéciale déroge aux lois générales en fondant la révocation de la décision du 8 février 2016 notamment sur le principe général de droit autorisant le retrait des actes administratifs illégaux.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 80, paragraphe 1, du règlement n<span class="super">o</span> 207/2009, l’EUIPO se charge de révoquer toute décision entachée d’une erreur de procédure manifeste qui lui est imputable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, en premier lieu, il convient de préciser que, pour les motifs indiqués par le Tribunal aux points 29 et 33 à 38 de l’arrêt attaqué et non contestés par la requérante, les chambres de recours de l’EUIPO disposent du pouvoir de révocation prévu à l’article 80, paragraphe 1, du règlement n<span class="super">o</span> 207/2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">En deuxième lieu, il y a lieu de relever qu’il résulte du libellé de cette disposition qu’une erreur de procédure manifeste, au sens de ladite disposition, est une erreur flagrante de nature procédurale commise par l’EUIPO.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Aux fins d’interpréter la notion d’« erreur de procédure manifeste », au sens de cet article 80, paragraphe 1, il y a lieu, selon une jurisprudence constante de la Cour, de tenir compte non seulement des termes de celle-ci, mais également de son contexte et des objectifs poursuivis par la réglementation dont elle fait partie (arrêt du 5 septembre 2019, Verein für Konsumenteninformation, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A673&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑28/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A673&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2019:673</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A673&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point25" hreflang="fr" target="CourtTab" type="application/xhtml+xml">25</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant du contexte de cette disposition, il convient de préciser que tant l’article 80 que l’article 75 du règlement n<span class="super">o</span> 207/2009, relatif à l’obligation de motivation des décisions de l’EUIPO, relèvent du titre IX de ce règlement, intitulé « Dispositions de procédure ». Ainsi, il ressort de l’économie dudit règlement que les erreurs de procédure en raison desquelles l’EUIPO procède, en vertu de cet article 80, paragraphe 1, à la révocation de sa décision, se rapportent notamment aux règles procédurales contenues sous ce titre, telles que l’obligation de motivation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Cette interprétation est également confortée par l’objectif poursuivi par ledit article 80, paragraphe 1. Cette disposition vise en effet à imposer à l’EUIPO l’obligation de révoquer les décisions entachées d’une erreur de procédure manifeste dans le but de garantir une bonne administration ainsi que des économies de procédure. Compte tenu de cet objectif, il n’y a aucune raison d’exclure du champ d’application de l’article 80, paragraphe 1, du règlement n<span class="super">o</span> 207/2009 les erreurs manifestes commises par l’EUIPO relatives à la méconnaissance de l’obligation de motivation qui lui incombe au titre de l’article 75 du règlement n<span class="super">o</span> 207/2009, laquelle relève des dispositions de procédure dudit règlement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Par ailleurs, ladite interprétation reflète également la jurisprudence constante de la Cour selon laquelle l’obligation de motivation constitue une formalité substantielle qui doit être distinguée de la question du bien-fondé de la motivation, celui-ci relevant de la légalité au fond de l’acte litigieux (arrêt du 10 juillet 2008, Bertelsmann et Sony Corporation of America/Impala, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A392&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑413/06 P</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A392&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2008:392</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A392&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point181" hreflang="fr" target="CourtTab" type="application/xhtml+xml">181</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit que toute violation de l’obligation de motivation, telle qu’un défaut ou une insuffisance de motivation, constitue une erreur de procédure au sens de cette disposition et qu’un défaut de motivation, tel que celui identifié par le Tribunal notamment aux points 77 à 82 de l’arrêt attaqué, entachant la décision du 8 février 2016, révoquée par la décision litigieuse, constitue une telle erreur de procédure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">En outre, dès lors qu’il ressort, d’une part, des points 48 et 52 de l’arrêt attaqué que l’EUIPO et repowermap.org avaient connaissance du défaut de motivation partiel entachant la décision du 8 février 2016 et, d’autre part, du point 82 de cet arrêt que le défaut de motivation en cause aurait dû susciter chez la requérante des doutes quant à la légalité de ladite décision, ce que la requérante ne conteste pas au stade du pourvoi, l’ensemble des parties étaient en mesure d’identifier le défaut de motivation concerné si bien qu’il s’agit d’une erreur de procédure manifeste au sens de l’article 80, paragraphe 1, du règlement n<span class="super">o</span> 207/2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit que l’article 80, paragraphe 1, de ce règlement était, en l’occurrence, applicable. Dans ces circonstances, il convient d’accueillir le grief de la requérante, selon lequel, en appliquant le principe général de droit autorisant le retrait des actes administratifs illégaux au lieu de l’article 80, paragraphe 1, dudit règlement, le Tribunal a méconnu le principe selon lequel une loi spéciale déroge aux lois générales.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Toutefois, conformément à une jurisprudence constante, l’erreur de droit ainsi commise par le Tribunal n’est pas de nature à invalider l’arrêt attaqué si le dispositif de celui-ci et, en particulier, la conclusion selon laquelle la décision du 8 février 2016 a été valablement révoquée par la décision litigieuse apparaissent fondés sur d’autres motifs de droit. En effet, si les motifs d’un arrêt du Tribunal révèlent une violation du droit de l’Union, mais que le dispositif apparaît fondé sur d’autres motifs de droit, une telle violation n’est pas de nature à entraîner l’annulation de cet arrêt (arrêts du 30 septembre 2003, Biret International/Conseil, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A517&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑93/02 P</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A517&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2003:517</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A517&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point60" hreflang="fr" target="CourtTab" type="application/xhtml+xml">60</a> et jurisprudence citée, ainsi que du 14 octobre 2014, Buono e.a./Commission, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2284&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑12/13 P et C‑13/13 P</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2284&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2014:2284</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2284&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point62" hreflang="fr" target="CourtTab" type="application/xhtml+xml">62</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Or, il résulte des appréciations qui précèdent que l’EUIPO était tenu de révoquer la décision du 8 février 2016 par la décision litigieuse adoptée sur le fondement de l’article 80, paragraphe 1, du règlement n<span class="super">o</span> 207/2009, de sorte que le Tribunal a considéré à bon droit que la décision du 8 février 2016 avait été valablement révoquée. Le dispositif de l’arrêt attaqué apparaissant ainsi fondé pour les motifs de droit exposés dans les points précédents du présent arrêt, il y a lieu de procéder à une substitution de motifs et de constater que l’erreur de droit commise par le Tribunal n’est pas de nature à entraîner l’annulation de l’arrêt attaqué (voir, en ce sens, arrêt du 28 mars 2019, River Kwai International Food Industry/AETMD, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A266&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑144/18 P</a>, non publié, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A266&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2019:266</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A266&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point22" hreflang="fr" target="CourtTab" type="application/xhtml+xml">22</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il convient de constater que les premier à quatrième moyens, qui se rapportent tous au raisonnement du Tribunal fondé sur le principe général de droit autorisant le retrait des actes administratifs illégaux et sur l’article 83 du règlement n<span class="super">o</span> 207/2009, sont inopérants. Partant, il convient de les rejeter sans qu’il soit nécessaire d’examiner la recevabilité des premier, deuxième et quatrième moyens, contestée par l’EUIPO et repowermap.org, ni de répondre à l’argument tiré de ce que l’article 80, paragraphe 1, du règlement n<span class="super">o</span> 207/2009 régit exhaustivement les possibilités de révocation des décisions de l’EUIPO et s’oppose donc à une telle révocation lorsque les conditions d’application de cette disposition ne sont pas réunies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Dès lors, les premier à quatrième moyens doivent être rejetés.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Sur le cinquième moyen, tiré d’un défaut de motivation de la décision litigieuse</span>
+</p>
+<p class="normal">– <span class="italic">Argumentation des parties</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Par son cinquième moyen, la requérante considère que la référence qu’elle a faite à la décision de la grande chambre de recours a été ignorée. Selon la requérante, le point 24 de cette décision attesterait du fait que les chambres de recours ne peuvent pas révoquer leurs décisions lorsque celles-ci font l’objet d’un recours devant le Tribunal. Ainsi, il ne serait pas possible de considérer que la décision précitée de la grande chambre de recours n’était pas pertinente en l’espèce. La requérante estime au contraire que cette décision est pertinente dans la mesure où elle s’applique aux procédures inter partes en droit des marques.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">En outre, la requérante estime que le Tribunal s’est contredit en affirmant, d’une part, au point 80 de l’arrêt attaqué, que la chambre de recours devait répondre, au moins sommairement, à l’argumentation détaillée de la requérante et, d’autre part, que la chambre de recours n’était pas tenue de répondre à l’argument de la requérante tiré de la décision de la grande chambre de recours.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">L’EUIPO et repowermap.org concluent à l’irrecevabilité du moyen et contestent, sur le fond, les arguments de la requérante.</p>
+</td>
+</tr>
+</table>
+<p class="normal">– <span class="italic">Appréciation de la Cour</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Il convient de relever que, en vertu d’une jurisprudence constante de la Cour, un pourvoi doit indiquer de façon précise les éléments critiqués de l’arrêt dont l’annulation est demandée ainsi que les arguments juridiques qui soutiennent de manière spécifique cette demande et ne doit pas constituer en réalité une demande visant à obtenir un simple réexamen de la requête présentée devant le Tribunal (arrêt du 18 octobre 2018, Gul Ahmed Textile Mills/Conseil, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A842&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑100/17 P</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A842&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2018:842</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A842&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point45" hreflang="fr" target="CourtTab" type="application/xhtml+xml">45</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, il y a lieu de constater que, par son argumentation tirée d’un défaut de motivation de la décision litigieuse, la requérante ne fait que remettre en cause la décision de l’EUIPO sans émettre la moindre critique sur le raisonnement adopté par le Tribunal. Partant, une telle argumentation, qui n’est pas dirigée contre l’arrêt attaqué, est irrecevable dans le cadre d’un pourvoi (voir, par analogie, arrêt du 16 novembre 2017, Ludwig-Bölkow-Systemtechnik/Commission, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A871&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑250/16 P</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A871&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2017:871</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A871&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point28" hreflang="fr" target="CourtTab" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant de l’argument selon lequel le Tribunal se serait contredit en affirmant, d’une part, au point 80 de l’arrêt attaqué, que la chambre de recours devait répondre au moins sommairement à l’argumentation détaillée de la requérante et, d’autre part, que la chambre de recours n’était pas tenue de répondre à l’argument de la requérante tiré de la décision de la grande chambre de recours, il convient de relever que la requérante n’identifie pas le point de cet arrêt qui serait en contradiction avec le point 80 dudit arrêt et que son argumentation n’apparaît pas, dans son ensemble, suffisamment claire pour pouvoir identifier avec la précision requise les éléments critiqués de l’arrêt attaqué ainsi que les arguments juridiques invoqués au soutien de cette critique, empêchant ainsi la Cour de pouvoir effectuer son contrôle de la légalité (voir, s’agissant de l’exigence de clarté de l’argumentation, ordonnance du 30 janvier 2014, Fercal/OHMI, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A60&amp;locale=fr" hreflang="fr" target="CourtTab" type="application/xml;notice=branch">C‑324/13 P</a>, non publiée, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A60&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="fr" target="CourtTab" type="application/pdf">EU:C:2014:60</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A60&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="fr" target="CourtTab" type="application/xhtml+xml">37</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">Partant, le cinquième moyen doit être rejeté comme étant irrecevable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Il résulte de l’ensemble des considérations qui précèdent que le pourvoi doit être rejeté dans son intégralité.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">En vertu de l’article 184, paragraphe 2, du règlement de procédure de la Cour, lorsque le pourvoi n’est pas fondé, la Cour statue sur les dépens. L’article 138, paragraphe 1, du même règlement, rendu applicable à la procédure de pourvoi en vertu de l’article 184, paragraphe 1, de celui-ci, dispose que toute partie qui succombe est condamnée aux dépens, s’il est conclu en ce sens.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">L’EUIPO et repowermap.org ayant conclu à la condamnation de la requérante et celle-ci ayant succombé, il y a lieu de la condamner aux dépens.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (deuxième chambre) déclare et arrête :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Le pourvoi est rejeté.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2)</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Repower AG est condamnée aux dépens.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<div class="signaturecaserow">
+<div class="signatory3left">
+<p class="normal">Lenaerts</p>
+</div>
+<div class="signatorycenter">
+<p class="normal">von Danwitz</p>
+</div>
+<div class="signatory3right">
+<p class="normal">Vajda</p>
+</div>
+</div>
+<p class="normal">Ainsi prononcé en audience publique à Luxembourg, le 31 octobre 2019.</p>
+<div class="signaturecaserow">
+<div class="signatory2left">
+<p class="normal">Le greffier</p>
+<p class="normal">A. Calot Escobar</p>
+</div>
+<div class="signatory2right">
+<p class="normal">Le président</p>
+<p class="normal">K. Lenaerts</p>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0281_FR_01-E0001" id="t-ECR_62018CJ0281_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : le français.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

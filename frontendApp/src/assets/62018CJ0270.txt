@@ -1,0 +1,1016 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="sum-title-1">16 October 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0270_EN_01-E0001" id="c-ECR_62018CJ0270_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Directive 2003/96/EC — Taxation of energy products and electricity — Third subparagraph of Article 21(5) — Exemption of small producers of electricity, subject to the taxation of electricity produced — Lack, during an authorised transitional period, of an internal tax on end consumption of electricity — Article 14(1)(a) — Obligation to exempt energy products and electricity used to produce electricity)</p>
+<p class="normal">In Case C-270/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Conseil d’État (Council of State, France), made by decision of 13 April 2018, received at the Court on 19 April 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">UPM France SAS</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Premier ministre,</span>
+</p>
+<p class="normal">
+<span class="bold">Ministre de l’Action et des Comptes publics,</span>
+</p>
+<p class="normal">THE COURT (Fifth Chamber),</p>
+<p class="normal">composed of E. Regan (Rapporteur), President of the Chamber, C. Lycourgos, E. Juhász, M. Ilešič and I. Jarukaitis, Judges,</p>
+<p class="normal">Advocate General: E. Sharpston,</p>
+<p class="normal">Registrar: D. Dittert, Head of Unit,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 14 March 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">UPM France, by G. de Cordes, avocat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the French Government, by D. Colas and E. de Moustier and A. Alidière, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Spanish Government, by A. Rubio González and V. Ester Casas, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by A. Armenia and C. Perrin, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 23 May 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 14(1)(a) and of the third subparagraph of Article 21(5) of Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2003:283:TOC" hreflang="en" target="CourtTab">OJ 2003 L 283, p. 51</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request was made in the context of a dispute between UPM France SAS (‘UPM’) and the Premier ministre and the ministre de l’Action et des Comptes publics (the Prime Minister and the Minister for Action and Public Accounts; ‘the Ministers’) concerning the taxation of supplies of natural gas for the cogeneration of heat and electricity.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">European Union law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Recitals 2 to 5, 24 and 25 of Directive 2003/96 state:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(2)</p>
+</td>
+<td valign="top">
+<p class="normal">The absence of Community provisions imposing a minimum rate of taxation on electricity and energy products other than mineral oils may adversely affect the proper functioning of the internal market.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(3)</p>
+</td>
+<td valign="top">
+<p class="normal">The proper functioning of the internal market and the achievement of the objectives of other Community policies require minimum levels of taxation to be laid down at Community level for most energy products, including electricity, natural gas and coal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">Appreciable differences in the national levels of energy taxation applied by Member States could prove detrimental to the proper functioning of the internal market.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(5)</p>
+</td>
+<td valign="top">
+<p class="normal">The establishment of appropriate Community minimum levels of taxation may enable existing differences in the national levels of taxation to be reduced.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(24)</p>
+</td>
+<td valign="top">
+<p class="normal">Member States should be permitted to apply certain other exemptions or reduced levels of taxation, where that will not be detrimental to the proper functioning of the internal market and will not result in distortions of competition.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(25)</p>
+</td>
+<td valign="top">
+<p class="normal">In particular, combined heat and power generation and, in order to promote the use of alternative energy sources, renewable forms of energy may qualify for preferential treatment.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1 of Directive 2003/96 provides that the Member States are to impose taxation on energy products and electricity in accordance with that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 14(1)(a) of that directive:</p>
+<p class="normal">‘In addition to the general provisions set out in [Council] Directive 92/12/EEC [of 25 February 1992 on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1992:076:TOC" hreflang="en" target="CourtTab">OJ 1992 L 76, p. 1</a>)] on exempt uses of taxable products, and without prejudice to other Community provisions, Member States shall exempt the following from taxation under conditions which they shall lay down for the purpose of ensuring the correct and straightforward application of such exemptions and of preventing any evasion, avoidance or abuse:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">energy products and electricity used to produce electricity and electricity used to maintain the ability to produce electricity. However, Member States may, for reasons of environmental policy, subject these products to taxation without having to respect the minimum levels of taxation laid down in this Directive. In such case, the taxation of these products shall not be taken into account for the purpose of satisfying the minimum level of taxation on electricity laid down in Article 10.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 15(1)(c) of that directive provides:</p>
+<p class="normal">‘Without prejudice to other Community provisions, Member States may apply under fiscal control total or partial exemptions or reductions in the level of taxation to:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">energy products and electricity used for combined heat and power generation.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Article 18 of Directive 2003/96 establishes specific transitional regimes for certain Member States. As regards the French Republic, Article 18(10) of that directive provides:</p>
+<p class="normal">‘The French Republic may apply total or partial exemptions or reductions for energy products and electricity used by the State, regional and local government authorities or other bodies governed by public law, in respect of the activities or transactions in which they engage as public authorities until 1 January 2009.</p>
+<p class="normal">The French Republic may apply a transitional period until 1 January 2009 to adapt its current electricity taxation system to the provisions set out in this directive. During this period, the global average level of the current local electricity taxation is to be taken into account to assess whether the minimum rates set out in this directive are respected.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 21 of that directive:</p>
+<p class="normal">‘1.   In addition to the general provisions defining the chargeable event and the provisions for payment set out in [Directive 92/12], the amount of taxation on energy products shall also become due on the occurrence of one of the chargeable events mentioned in Article 2(3).</p>
+<p class="normal">…</p>
+<p class="normal">5.   ...</p>
+<p class="normal">An entity producing electricity for its own use is regarded as a distributor. Notwithstanding Article 14(1)(a), Member States may exempt small producers of electricity provided that they tax the energy products used for the production of that electricity.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Article 28 of Directive 2003/96 provides that Member States are to apply its provisions from 1 January 2004, with the exception of the provisions of Article 16 and Article 18(1) of that directive, which Member States may apply from 1 January 2003.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">French law</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 266d(1) of the Code des douanes (Customs Code), in the version applicable from 1 January 2004 to 31 December 2006, provided:</p>
+<p class="normal">‘Natural gas … shall be subject to a domestic tax on consumption on delivery to the end user.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Article 266d(3) of the Customs Code, in its version applicable from 1 January 2006 to 31 December 2006, provided:</p>
+<p class="normal">‘…</p>
+<p class="normal">Supplies of gas shall also be exempt when they are intended for use:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">as fuel for the generation of electricity, from 1 January 2006, unless those supplies are intended for use in the installations referred to in Article 266dA.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Article 266dA of the Customs Code, in the version applicable from 1 January 2006, stated:</p>
+<p class="normal">‘Supplies of natural gas and mineral oils intended for use in cogeneration units for the combined generation of heat and electricity or heat and mechanical power shall be exempt from the domestic taxes on consumption imposed by Articles 265 and 266d for a period of five years from the entry into service of the units. …</p>
+<p class="normal">That exemption shall apply to units put into service no later than 31 December 2007. …</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">UPM operates a heat and power cogeneration facility for its paper manufacturing business, using natural gas as fuel.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">The natural gas delivered to UPM between 1 January 2004 and 1 April 2008 was subject to the domestic natural gas consumption tax (‘the TICGN’) provided for in Article 266d of the Customs Code, through its supplier who paid the amount due.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Being of the view that the fraction of those supplies consumed to produce electricity should have been exempted from that tax by virtue of Article 14(1)(a) of Directive 2003/96, UPM brought an action before the tribunal administratif de Cergy-Pontoise (Administrative Court, Cergy-Pontoise, France) seeking a refund of the tax thus incurred and for compensation for the damage it alleges it has suffered as a result of the French Republic’s delay in transposing that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">By judgment of 17 July 2013, the tribunal administratif de Cergy-Pontoise (Administrative Court, Cergy-Pontoise), after finding that there was, in part, no need to adjudicate concerning the amounts reimbursed for the period from 1 January 2007 to 31 March 2008, rejected UPM’s claims as to the remainder. By judgment of 15 March 2016, the cour administrative d’appel de Versailles (Administrative Court of Appeal, Versailles, France), dismissed UPM’s appeal on the grounds that the natural gas used by UPM fell exclusively under Article 15 of the directive, not under Article 14 thereof, and that the tax regime for that natural gas could not be dissociated according to whether it was intended for heat production or electricity production.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">On 17 May 2016, UPM lodged an appeal against that judgment before the referring court, the Conseil d’État (Council of State, France).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">That court notes that the ground raised by UPM is based on the judgment of 7 March 2018, Cristal Union (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑31/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:168</a>), in which the Court held that Article 14(1)(a) of Directive 2003/96 must be interpreted as meaning that the mandatory exemption provided for in that provision applies to energy products used for the production of electricity when those products are used for the combined production of electricity and heat within the meaning of Article 15(1)(c) of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">However, the national court states that the Minister for Action and Public Accounts, the respondent in the main proceedings, maintains that, even if Article 15 of Directive 2003/96 is not the only provision applicable to UPM’s situation, the taxation to which it has been subject is consistent with the objectives of that directive, since Article 14(1)(a) of that directive must be read in the light of the third subparagraph of Article 21(5) thereof, from which it follows that the exemption in respect of natural gas used to produce electricity is subject to taxation of the electricity produced, which is not the case here.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">The national court states that, pursuant to the second subparagraph of Article 18(10) of Directive 2003/96, the French Republic enjoyed, until 1 January 2009, a transitional period in which to adapt its electricity taxation system before introducing harmonised excise duty. However, it was only from the entry into force of loi No 2010-1488 du 7 décembre 2010 portant nouvelle organisation du marché de l’électricité (Law No 2010-1488 of 7 December 2010 on the new organisation of the electricity market; JORF, 8 December 2010, p. 21467) that an internal tax on final electricity consumption was introduced.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, the French Republic did not provide for any national electricity taxation during the period from 1 January 2004 to 31 December 2006, which is the period at issue in the main proceedings. Only the contribution to the public electricity service and local taxes, based at that time on the amount net of tax invoiced in respect of electricity, were levied on electricity consumption. However, entities producing electricity for their own use were exempt from local electricity taxation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, according to the national court, it must be determined whether the exemption which Member States are authorised to grant to small electricity producers, pursuant to the third subparagraph of Article 21(5) of Directive 2003/96, can result, as the Minister for Action and Public Accounts claims, in a situation, such as that existing for the period prior to 1 January 2011, during which the French Republic had not yet introduced internal taxation on final electricity consumption or, consequently, exemption from this tax in favour of small producers. Where appropriate, it should also be determined how the provisions of Article 14(1)(a) of Directive 2003/96 and the third subparagraph of Article 21(5) of that directive are to be combined, in particular in order to determine whether they involve minimum taxation resulting from the taxation of electricity produced with exemption of the natural gas used or an exemption from tax on electricity production, the Member State then being required to tax the natural gas used.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Conseil d’État (Council of State) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Must [the third subparagraph of Article 21(5) of Directive 2003/96] be interpreted as meaning that the tax exemption which that provision allows Member States to grant to small producers of electricity, provided that they tax the energy products used for the production of that electricity, may result from circumstances such as those [at issue in the main proceedings] for the period prior to 1 January 2011, during which [the French Republic], as was permitted by [that] directive, had not yet introduced the domestic tax on final consumption of electricity or, consequently, the exemption of small producers from that tax?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">If the answer to the first question is in the affirmative, how must [Article 14(1)(a)] and [the third subparagraph of Article 21(5)] of Directive 2003/96 be combined as regards small producers which consume the electricity that they produce for the purposes of their business? Specifically, do those articles require that there be a minimal level of taxation resulting from either (i) the electricity produced being taxed and the natural gas used being exempted from tax, or (ii) the production of electricity being exempt from tax and the State then being required to tax the natural gas used?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Admissibility of the request for a preliminary ruling</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">The French Government disputes the admissibility of the request for a preliminary ruling, since the answer to the questions raised is not necessary for the effective resolution of the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">According to that government, during the transitional period which the French Republic enjoyed in order to adapt its electricity taxation system pursuant to Article 18(10) of Directive 2003/96, that Member State was able to maintain its national electricity taxation system, since it complied with the minimum tax rates set by that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be recalled that it is solely for the national court before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine in the light of the particular circumstances of the case both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of a rule of EU law, the Court is in principle bound to give a ruling (judgment of 10 December 2018, Wightman and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A999&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑621/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A999&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:999</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A999&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point26" hreflang="en" target="CourtTab" type="application/xhtml+xml">26</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that questions relating to EU law enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of 10 December 2018, Wightman and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A999&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑621/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A999&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:999</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A999&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point27" hreflang="en" target="CourtTab" type="application/xhtml+xml">27</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it must be recalled that an appeal was brought before the national court against a decision rejecting UPM’s claim for reimbursement of the TICGN provided for in Article 266d of the Customs Code, since the company considered that the fraction of natural gas used to produce electricity should have been exempt from that tax, in accordance with Article 14(1)(a) of Directive 2003/96.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, it does not appear that the questions referred for a preliminary ruling, where they concern the interpretation of provisions of EU law in the context of a dispute pending before the referring court, are manifestly irrelevant.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">It is irrelevant in that regard that the French Republic has been granted, pursuant to Article 18(10) of Directive 2003/96, a transitional period to adapt its electricity taxation system to the provisions of that directive, those considerations relating to the substance of the answers to be given to the questions asked and not to their admissibility.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, those questions must be deemed admissible.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">By its first question, the national court asks, in essence, whether the second sentence of the third subparagraph of Article 21(5) of Directive 2003/96 must be interpreted as meaning that the exemption provided for in that provision for small electricity producers, provided that, by way of derogation from Article 14(1)(a) of that directive, the energy products used to produce that electricity are taxed, could be applied by the French Republic during the transitional period granted to it, in accordance with the second subparagraph of Article 18(10) of that directive, until 1 January 2009 and during which that Member State did not introduce the electricity taxation system provided for in that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">The file submitted to the Court shows that, between 1 January 2004 and 1 April 2008, UPM was subject to the TICGN in respect of the natural gas it used to generate electricity. It is also common ground that, since the electricity thus produced was used for its own purposes, it was not subject to local electricity taxes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">The French Government claims that, where the electricity produced has in fact been exempted, the energy products intended for the production of that electricity must be taxed. Directive 2003/96 in itself implies a minimum taxation resulting either from the taxation of electricity produced with exemption of the energy products used to produce that electricity or from the minimum taxation of the energy products used to produce electricity when the latter is exempt.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">It is in that context that the referring court seeks to ascertain whether the taxation of the natural gas used by the appellant in the main proceedings to produce electricity, while the French Republic had not introduced either the internal tax on final consumption of electricity, referred to in paragraph 20 of this judgment, or, consequently, an exemption from that tax for small producers, is in accordance with the second sentence of the third subparagraph of Article 21(5) of Directive 2003/96.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">It must be borne in mind that Directive 2003/96 provides for the introduction of harmonised taxation on energy products and electricity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it is apparent from the objectives pursued by that directive that it provides for a harmonised taxation regime for energy products and electricity designed, inter alia, as is apparent from recitals 2 to 5 and 24 thereof, to promote the smooth functioning of the internal market in the energy sector by avoiding, inter alia, distortions of competition (see, to that effect, judgments of 7 March 2018, Cristal Union, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑31/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:168</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point29" hreflang="en" target="CourtTab" type="application/xhtml+xml">29</a>, and of 27 June 2018, Turbogás, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑90/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:498</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point34" hreflang="en" target="CourtTab" type="application/xhtml+xml">34</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">To that end, in particular with regard to electricity, the EU legislature has made the choice, as can be seen, in particular, from page 5 of the explanatory memorandum to the Proposal for a Council Directive restructuring the Community framework for the taxation of energy products (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:C:1997:139:TOC" hreflang="en" target="CourtTab">OJ 1997 C 139, p. 14</a>), to impose on Member States, in accordance with Article 1 of Directive 2003/96, taxation of distributed electricity, with the energy products used for its production being, at the same time, exempted from taxation in order to avoid double taxation of electricity (judgments of 7 March 2018, Cristal Union, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑31/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:168</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point30" hreflang="en" target="CourtTab" type="application/xhtml+xml">30</a>, and of 27 June 2018, Turbogás, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑90/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:498</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point35" hreflang="en" target="CourtTab" type="application/xhtml+xml">35</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, the first sentence of Article 14(1)(a) of Directive 2003/96 provides that Member States are required to exempt energy products and electricity used, in particular, to produce electricity. In accordance with the first subparagraph of Article 21(5) of that directive, the electricity and natural gas used to produce electricity are then to be subject to taxation at the time of their supply by the distributor or redistributor.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">However, the second sentence of the third subparagraph of Article 21(5) of that directive provides for an exception to these provisions in favour of small producers, since Member States may exempt electricity produced by them, provided that they tax the energy products used to produce that electricity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, it is by way of exception to that principle of downstream taxation of electricity that the second sentence of the third subparagraph of Article 21(5) thereof gives Member States the option of exempting electricity produced by small producers and consumed for their own use, provided that they tax the energy products used to produce that electricity (judgment of 27 June 2018, Turbogás, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑90/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:498</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point36" hreflang="en" target="CourtTab" type="application/xhtml+xml">36</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has previously ruled, in paragraph 37 of the judgment of 27 June 2018, Turbogás (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑90/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:498</a>), that the provisions of the second sentence of the third subparagraph of Article 21(5), relating to small producers, concern only the arrangements under which electricity is subject to the harmonised taxation regime introduced by Directive 2003/96 in order to avoid, in particular, administrative costs relating to taxation in that particular situation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">However, the taxation of the natural gas at issue in the main proceedings cannot be regarded as resulting from the derogating taxation scheme provided for in the second sentence of the third subparagraph of Article 21(5) of that directive in respect of small producers. The French Republic had not introduced the electricity taxation scheme from which this provision allows for derogation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with the second subparagraph of Article 18(10) of Directive 2003/96, the French Republic was granted a transitional period until 1 January 2009 to adapt its electricity taxation system to the provisions of that directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, until that date, compliance with the minimum levels of taxation laid down in Directive 2003/96 constituted, among the electricity taxation rules provided for in EU law, the only obligation resting on the French Republic (see, to that effect, judgment of 25 July 2018, Messer France, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A587&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑103/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A587&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:587</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A587&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point23" hreflang="en" target="CourtTab" type="application/xhtml+xml">23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">The French Republic was therefore free to maintain its electricity taxation system in place before the entry into force of Directive 2003/96.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">However, the Court has previously found, in paragraph 31 of the judgment of 25 July 2018, Messer France (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A587&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑103/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A587&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:587</a>), that, for the period in question in the main proceedings, the French Republic had not amended its electricity taxation system to create such an excise duty. It is apparent from the file submitted to the Court that that duty was introduced by Law No 2010-1488 of 7 December 2010 on the new organisation of the electricity market, referred to in paragraph 20 of this judgment, which created the internal tax on final electricity consumption.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">As the Court has pointed out in paragraph 42 of this judgment, the second sentence of the third subparagraph of Article 21(5) of Directive 2003/96 was merely a means of applying the harmonised taxation system (see, to that effect, judgment of 27 June 2018, Turbogás, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑90/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:498</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A498&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" hreflang="en" target="CourtTab" type="application/xhtml+xml">37</a>). Consequently, as regards the main proceedings, the French Republic cannot rely on a method of applying a scheme which had not been put in place at the time of the events relating to those proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">With regard to the argument of the French Government concerning the transitional period provided for in the second subparagraph of Article 18(10) of Directive 2003/96, it must be borne in mind that that transitional period must be interpreted strictly (see, by analogy, judgments of 7 December 2006, Eurodental, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2006%3A763&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑240/05</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A763&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2006:763</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2006%3A763&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point54" hreflang="en" target="CourtTab" type="application/xhtml+xml">54</a>, and of 27 February 2019, Greece v Commission, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A145&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑670/17 P</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A145&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2019:145</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A145&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point52" hreflang="en" target="CourtTab" type="application/xhtml+xml">52</a>). However, it appears from the wording of that provision that the transitional period provided for therein concerns the fact that the French Republic may adapt only its electricity taxation system and not that of taxation of energy products used to produce electricity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Such a reading of the second subparagraph of Article 18(10) of Directive 2003/96 is confirmed by the fact that the EU legislature has explicitly referred to such products under the transitional regime provided for in the first subparagraph of Article 18(10), which specifies that the French Republic may apply total or partial exemptions or reductions in respect of those energy products and electricity used by the State, regional and local authorities or other bodies governed by public law.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, during the transitional period referred to in the second subparagraph of Article 18(10) of Directive 2003/96, the provisions on the exemption of energy products used to produce electricity laid down by that directive were fully applicable to the French Republic.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">However, as the Court has previously held, when the EU legislature intended to allow Member States to derogate from the regime of mandatory exemption introduced by Directive 2003/96, it did so explicitly in, respectively, the second sentence of Article 14(1)(a) of Directive 2003/96, which states that Member States may tax energy products used to produce electricity for reasons relating to the protection of the environment, and in the second sentence of the third subparagraph of Article 21(5) of that directive, under which Member States which exempt electricity generated by small producers of electricity must tax the energy products used for the generation of that electricity (judgment of 7 March 2018, Cristal Union, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑31/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:168</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point27" hreflang="en" target="CourtTab" type="application/xhtml+xml">27</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">It is thus apparent from the general scheme of Directive 2003/96 that, apart from those two specific cases, the mandatory exemption of energy products used to generate electricity referred to in the first sentence of Article 14(1)(a) of that directive is unconditionally binding on the Member States (judgment of 7 March 2018, Cristal Union, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;locale=en" hreflang="en" target="CourtTab" type="application/xml;notice=branch">C‑31/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" hreflang="en" target="CourtTab" type="application/pdf">EU:C:2018:168</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A168&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point28" hreflang="en" target="CourtTab" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of all the foregoing considerations, the answer to the first question is that the second sentence of the third subparagraph of Article 21(5) of Directive 2003/96 must be interpreted as meaning that the exemption provided for in that provision for small electricity producers, provided that, by way of derogation from Article 14(1)(a) of that directive, the energy products used to produce that electricity are taxed, could not be applied by the French Republic during the transitional period granted to it, in accordance with the second subparagraph of Article 18(10) of that directive, until 1 January 2009 and during which that Member State did not introduce the electricity taxation system provided for in that directive.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the answer given to the first question, there is no need to answer the second question.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">The second sentence of the third subparagraph of Article 21(5) of Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity must be interpreted as meaning that the exemption provided for in that provision for small electricity producers, provided that, by way of derogation from Article 14(1)(a) of that directive, the energy products used to produce that electricity are taxed, could not be applied by the French Republic during the transitional period granted to it, in accordance with the second subparagraph of Article 18(10) of that directive, until 1 January 2009 and during which that Member State did not introduce the electricity taxation system provided for in that directive.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<div class="signaturecaserow">
+<div class="signatory3left">
+<p class="normal">Regan</p>
+</div>
+<div class="signatorycenter">
+<p class="normal">Lycourgos</p>
+</div>
+<div class="signatory3right">
+<p class="normal">Juhász</p>
+</div>
+</div>
+<div class="signaturecaserow">
+<div class="signatory2left">
+<p class="normal">Ilešič</p>
+</div>
+<div class="signatory2right">
+<p class="normal">Jarukaitis</p>
+</div>
+</div>
+<p class="normal">Delivered in open court in Luxembourg on 16 October 2019.</p>
+<div class="signaturecaserow">
+<div class="signatory2left">
+<p class="normal">A. Calot Escobar</p>
+<p class="normal">Registrar</p>
+</div>
+<div class="signatory2right">
+<p class="normal">E. Regan</p>
+<p class="normal">President of the Fifth Chamber</p>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0270_EN_01-E0001" id="t-ECR_62018CJ0270_EN_01-E0001">*1</a>
+</span>)	Language of the case: French.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

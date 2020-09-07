@@ -1,0 +1,1566 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (Second Chamber)</p>
+<p class="sum-title-1">13 November 2019 (<span class="note">
+<a href="#t-ECR_62017CJ0641_EN_01-E0001" id="c-ECR_62017CJ0641_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Free movement of capital — Taxation of pension funds — Difference in treatment between resident pension funds and non-resident pension funds — Legislation of a Member State allowing resident pension funds to reduce their taxable profits by deducting the reserves intended to pay for pensions and to set the tax levied on dividends off against corporation tax — Comparability of situations — Justification)</p>
+<p class="normal">In Case C‑641/17,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Finanzgericht München (Finance Court, Munich, Germany), made by decision of 23 October 2017, received at the Court on 17 November 2017, in the proceedings</p>
+<p class="normal">
+<span class="bold">College Pension Plan of British Columbia</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Finanzamt München Abteilung III,</span>
+</p>
+<p class="normal">THE COURT (Second Chamber),</p>
+<p class="normal">composed of A. Arabadzhiyev (Rapporteur), President of the Second Chamber, K. Lenaerts, President of the Court, acting as Judge of the Second Chamber, and T. von Danwitz, Judge,</p>
+<p class="normal">Advocate General: P. Pikamäe,</p>
+<p class="normal">Registrar: D. Dittert, Head of Unit,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 20 March 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">College Pension Plan of British Columbia, by A. Knebel and T. Bracksiek, Rechtsanwälte,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Finanzamt München Abteilung III, by H. Messina, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the German Government, initially by T. Henze and R. Kanitz, and subsequently by J. Möller and R. Kanitz, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by W. Roels and B.-R. Killmann, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 5 June 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Articles 63 to 65 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between College Pension Plan of British Columbia, a group of assets brought together in the legal form of a trust under Canadian law (‘CPP’), and the Finanzamt München Abteilung III (Munich Tax Office, Section III, Germany) concerning the taxation of dividends received by CPP in respect of the years 2007 to 2010.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">In the years 2007 to 2010, pension funds and their activities were governed by the Versicherungsaufsichtsgesetz (Law on the supervision of insurance bodies), in the version published on 17 December 1992 (BGBl. 1993 I, p. 2).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">In accordance with Paragraph 112 of that law, a pension fund is a provident institution with legal capacity, which provides, by capitalisation, occupational pension benefits for one or more employers in favour of their employees. A pension fund cannot, in relation to any of those benefits, guarantee by insurance the amount of the benefits or of the future contributions to be paid in respect of those benefits. It confers on employees a specific right to benefits in relation to it and is required to provide a pension benefit in the form of a lifetime annuity.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The tax system applicable to pension funds with registered offices in Germany</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Under Paragraph 1(1) No 1 of the Körperschaftsteuergesetz (Law on corporation tax), in the version applicable to the facts at issue (‘the KStG’), a German pension fund is fully liable to corporation tax as a capital company with its registered office in Germany. Under Paragraph 7(1) of the KStG, read in conjunction with Paragraph 23(1) of the KStG, corporation tax amounts to 15% of taxable income.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">The first sentence of Paragraph 8(1) of the KStG provides that taxable income is determined in accordance with the provisions of the Einkommensteuergesetz (Law on Income Tax), in the version applicable to the facts at issue (‘the EStG’). The combined effect of Paragraph 8(2) of the KStG and Paragraph 2(1) No 2 of the EStG is that all the income of a fully taxable pension fund is regarded as arising from industrial or commercial activity. Under Paragraph 2(2) No 1 of the EStG, the income arising from industrial or commercial activity is the profit realised during the tax year in question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the first sentence of Paragraph 4(1) of the EStG that the profit is the difference between the assets of the undertaking at the end of the financial year and the assets of the undertaking at the end of the previous financial year, plus the value of withdrawals, less the value of contributions. The referring court states that that comparison between the undertaking’s assets is made on the basis of a tax balance sheet which is derived from the commercial balance sheet.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">That court also states that the income of a pension fund consists of the contributions paid by the insured persons and the profits made from the investment of the share capital.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">The contributions received, which are first reflected in the ‘assets’ column of the accounting balance sheet by an increase in assets, are then converted into investments and form part of the pension fund’s share capital. The counterpart of the share capital is constituted by the mathematical provisions on the other side in the ‘liabilities’ column. A mathematical provision is a specific type of provision against uncertain debts, and it is made in anticipation of the occupational pension benefits which the pension fund will be obliged to provide in the future.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">If the share capital makes it possible to generate profits by means of investments, for example in the form of dividends, the returns on accounting investments are credited directly to the various pension fund agreements in the year in which they are realised, to the extent that those profits correspond to the technical interest rate used to calculate the contributions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">When the pension fund, by investing the cover pool, makes profits that are higher than the technical interest rate (called ‘surpluses’), returns on non‑accounting investments are involved. Those returns must be credited to each pension fund agreement at a rate of least 90% and they increase occupational pension benefits as part of the so-called surplus sharing. Only the remaining part of the surpluses increases the pension fund’s profit and is not included in the benefits paid to employees by the pension fund.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">As a result, returns on accounting investments increase not only the pension fund’s assets, but also the value of the mathematical provisions in the ‘liabilities’ column. The valuation of the ‘liabilities’ column accords, in that respect, with that of the ‘assets’ column, so that the profits derived from the receipt of dividends are completely neutralised.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Returns on non-accounting investments do not affect the profit to the extent that they are credited to the various pension fund agreements and result in a corresponding increase in a liability.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">In terms of the tax balance sheet, the hoarding of profits derived from investments thus results in an increase in the assets recorded in the tax balance sheet. Moreover, the increase in the mathematical provisions and other liabilities results in a corresponding increase in the pension fund’s liabilities, so that the undertaking’s assets, within the meaning of the first sentence of Paragraph 4(1) and Paragraph 5(1) of the EStG, which are relevant for tax purposes, do not increase. It is only to the extent that returns on non-accounting investments do not have to be credited to the various pension fund agreements that they result in a pension fund profit that must also be taken into account for tax purposes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Dividends received by resident pension funds are subject to tax on income from capital, which is levied in accordance with the combined provisions of Paragraph 43(1), first sentence, No 1, and Paragraph 43(4) of the EStG, and of Paragraph 20(1) No 1 and Paragraph 20(8) of the EStG, by a withholding tax of 25% of the gross dividends, in accordance with Article 43a(1), first sentence, No 1 of the EStG.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">By virtue of the combined provisions of Paragraph 31 of the KStG and Paragraph 36(2) No 2 of the EStG, the tax on income from capital which has been deducted from the dividends paid to pension funds can be set off in its entirety against the corporation tax payable in a tax assessment procedure.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Where tax on income from capital withheld exceeds the corporation tax determined, the surplus is reimbursed to the pension fund, as provided for in the second sentence of Paragraph 36(4) of the EStG.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The tax system applicable to non-resident pension funds</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Under Paragraph 2(1) of the KStG, a foreign pension fund, which does not have either its management or its registered office in Germany, is partially liable to corporation tax, so far as concerns its income arising within German territory. In accordance with the combined provisions of Paragraph 8(1) of the KStG, Paragraph 49(1) No 5a and Paragraph 20(1) No 1 of the EStG, dividends received by a foreign pension fund constitute income from capital which is subject to a limited tax obligation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">In the case of a partially taxable pension fund, the tax is recovered as a withholding tax and the entity paying the dividends is obliged to withhold the tax on income from capital, a withholding tax which, under Paragraph 43(1) No 1 and Paragraph 43a(1) No 1 of the EStG, amounts in principle to 25% of the gross dividends.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Under Paragraph 44a(9) of the EStG, two fifths of the tax on income from capital withheld and paid is reimbursed to companies which are partially taxable within the meaning of Paragraph 2(1) of the KStG, so that the effective tax burden in respect of the tax on income from capital is 15%. The taxation of dividends is also limited to 15% under many tax conventions. The reimbursement of the difference between the tax on income from capital withheld and the 15% tax rate is carried out retrospectively, on request, by the Bundeszentralamt für Steuern (Federal Central Tax Office, Germany), in accordance with the provisions of Paragraph 50d of the EStG.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">For non-resident pension funds, the tax on income from capital of 15% is definitive pursuant to Paragraph 32(1) No 2 of the KStG, which reads as follows:</p>
+<p class="normal">‘Corporate income tax paid by withholding tax shall be discharged:</p>
+<p class="normal">…</p>
+<p class="normal">2.   where the beneficiary of the income is partially liable for tax and the income does not arise from an industrial, commercial, agricultural [or] forestry activity carried out on the national territory.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court also states that, pursuant to Article 32(1) No 2, a tax assessment procedure, entailing the possibility for non-resident pension funds to set the tax on income from capital off against the tax due, is precluded, and those funds are therefore likewise unable to deduct any professional expenditure from their taxable income.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The Tax Agreement between Germany and Canada</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">The Agreement between Canada and the Federal Republic of Germany for the Avoidance of Double Taxation with respect to Taxes on Income and certain other Taxes, the prevention of Fiscal Evasion and the Assistance in Tax Matters was concluded in Berlin on 19 April 2001 (BGBl. 2002 II, p. 670, ‘the Tax Agreement between Germany and Canada’). Article 10(1) of that agreement provides that dividends may be taxed in the State of residence of the recipient thereof. However, Article 10(2)(b) of that agreement also allows the State in which the dividends originate to tax 15% of their gross amount.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 23(1)(a) of that agreement, Canada, as the State of residence, prevents the double taxation of dividends by means of deduction from Canadian tax.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">The purpose of CPP is to provide pension benefits to former officials of the Province of British Columbia (Canada). To that end, it constitutes accounting provisions in its balance sheets, corresponding to its pension guarantee commitments (technical provisions). CPP is exempt from any taxation of profits in Canada.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">During the period from 2007 to 2010, CPP indirectly held, by participating in pool investment portfolios, shares in German stock corporations; those shares did not exceed 1% of those companies’ capital. The dividends received in respect of those shareholdings were subject to German tax on income from capital at a rate of 15%, as provided for in Article 10(2)(b) of the Tax Agreement between Germany and Canada.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">On 23 December 2011, the defendant in the main proceedings applied to the Finanzamt München to exempt it from tax on income from capital and for reimbursement of the amount of EUR 156 280.10, plus interest, of the tax it had paid in this respect. Its application was rejected, as was the objection that it subsequently lodged. Consequently, CPP brought an action before the referring court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court states that, in support of its action, CPP claims that, as a non-resident pension fund, it has been subject to less favourable treatment than that to which resident pension funds are subject. CPP has argued that resident pension funds can receive dividends free of tax, as they are able, in the context of the tax assessment procedure, to set the tax on income from capital that has been withheld off against corporation tax or to obtain a refund of almost all of the former tax. Moreover, with regard to resident pension funds, CPP claims that allocations to provisions for pension commitments are taken into account as professional expenses, which makes it possible to reduce the amount of corporation tax when the latter is determined under a tax assessment procedure. According to CPP, non‑resident pension funds cannot effect such set-offs or obtain such refunds, since, for such pension funds, the corporation tax paid by way of withholding tax has a discharging effect, in accordance with Paragraph 32(1) No 2 of the KStG, and constitutes a definitive tax burden in relation to them.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">For its part, the defendant in the main proceedings maintains, first of all, that, while German pension funds could set the tax on income from capital that has been paid off against the corporation tax due, this does not amount to a complete exemption, since the dividends received are subject to corporation tax, at a rate of 15% of taxable income. Next, that defendant maintains that it is not possible to take the view that a non-resident pension fund is treated less favourably than resident pension funds on the ground that the national legislation deprives non‑resident funds of the possibility of deducting professional expenses, since, in the absence of any direct connection between such provisions for pension commitments and the activity generating the income in question, those funds are not in a situation comparable to resident pension funds. Moreover, any restriction is, in any event, justified on grounds of the effectiveness of fiscal supervision. Lastly, the defendant contends that a restriction is permissible under Article 64(1) TFEU, since the discharging effect provided for in Paragraph 32(1) No 2 of the KStG had already been established by Paragraph 50(2) of the KStG of 1977 and the income distributed involved a provision of financial services by the pension fund to its investors.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court states that it is common ground between the parties to the main proceedings that, under German law, CPP can be treated like a pension fund. It wonders whether the national legislation establishes a difference in treatment between those funds, contrary to Articles 63 and 65 TFEU, since under national legislation partially taxable non‑resident pension funds are not able to set the tax on income from capital off against the corporation tax payable by those funds or to obtain reimbursement of the tax on income from capital, whereas resident pension funds are able to do so and whereas, for the latter funds, the receipt of dividends does not lead to an increase in corporation tax due or only a comparatively small one, since they can deduct from the taxable profit allocations to provisions for pension commitments.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">It is true that, as regards the possibility of deducting from the taxable profit allocations to provisions for pension commitments, there is no rule under German law similar to that at issue in the case which gave rise to the judgment of 8 November 2012, Commission v Finland (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑342/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:688</a>), a rule expressly providing that allocations to the mathematical provisions and similar technical provisions may be deducted from taxable income as deductible expenses. However, according to the German legislation, only the increase in the net assets of a company liable to tax is taxed over the course of a tax year. When dividends are paid to a pension fund, the assets of the pension fund increase only if, and to the extent that, the returns on non-accounting investments are not credited to the various pension fund agreements. Since the dividends distributed increase the mathematical provisions and/or other items on the liabilities side, the profits of the pension fund remain unchanged, with the result that there is no taxable increase in assets. Consequently, the provisions for pension commitments, which reduce the taxable profit, are the direct consequence of the receipt of the dividends, so that, according to the national court, resident and non‑resident pension funds are in a comparable situation with regard to the taking into account of allocations to the mathematical and similar technical provisions as professional expenses.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">The referring court wonders however whether Article 64(1) TFEU may be invoked in the present case.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">In the first place, it states that the provisions of Paragraph 32(1) No 2 of the KStG providing for the discharge of the withholding tax, which has given rise to the difference in treatment between resident and non‑resident pension funds, were identical to those of Paragraph 50(1) No 2 of the KStG of 1991 and therefore already existed on 31 December 1993. The fact that, on 31 December 1993, there was a right for fully taxable persons to set the tax on income from capital off against corporation tax and that the system was subsequently amended several times in no way changed the rules governing the tax treatment of dividends paid to partially taxable companies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">In the second place, according to the referring court, it is irrelevant that the current rate of the tax on income from capital of 25%, a rate which already existed on 31 December 1993 under the combined provisions of Paragraph 43(1) No 1 and Paragraph 43a(1) No 1 of the EStG, was reduced to 20% on 1 January 2001, and was then increased to 25% on 1 January 2009, since the principle of the rule governing the withholding of the tax on income from capital has not been amended and since, for partially taxable companies, the effective burden of the tax on income from capital amounts only to 15%.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">In the third place, the referring court wonders whether a causal link, within the meaning of the judgment of 21 May 2015 in Case <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑560/13</a>Wagner-Raith (<a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:347</a>), exists between dividends from a shareholding in a German capital company held by a non-resident pension fund and the financial service that that pension fund provides to its insured persons. It states that some academics consider that capital inflows into the pension fund do not on their own have a sufficiently close connection with the provision of financial services provided by a non‑resident pension fund for the benefit of insured persons. However, it points out that, because of the particularities of pension fund activity, returns on investments made by a pension fund increase, for the most part, in parallel with the pension fund’s pension payment liabilities, so that the taxation of the dividends distributed has a direct impact on the claims of insured persons against the pension fund.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Finanzgericht München (Finance Court, Munich, Germany) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Does the freedom of movement of capital under Article 63(1) TFEU in conjunction with Article 65 TFEU preclude legislation of a Member State under which a non-resident institution operating an occupational pension scheme whose essential structure is similar to a German pension fund does not receive any relief from tax on income from capital in respect of dividends received, whereas such dividend distributions to domestic pension funds do not result in any increase in their corporation tax liability, or only a comparatively small one, because the latter are able to reduce their taxable profit in a tax assessment procedure by deducting the amounts reserved to meet their pension payment obligations and to neutralise the tax on income from capital through a set-off, and also receive a refund in the event that the amount of corporation tax payable is less than the amount set off?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">If the answer to Question 1 is yes: is the restriction of the free movement of capital through Paragraph 32(1) No 2 of the [KStG] permissible with respect to third countries under Article 63 TFEU in conjunction with Article 64(1) TFEU because it relates to the provision of financial services?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The request to have the oral procedure reopened</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Following the delivery of the Advocate General’s Opinion, the German Government, by a document lodged at the Court Registry on 2 July 2019, applied for the oral part of the procedure to be reopened, pursuant to Article 83 of the Rules of Procedure of the Court of Justice.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">In support of its request, the German Government submits, in essence, that the Advocate General’s Opinion is based on findings of fact relating to German law which are incorrect. The German Government states that dividends paid to resident pension funds are subject to corporation tax at a rate of 15% which is applied to gross dividends. The tax on income from capital, levied by a withholding tax of 25% of the gross dividend, is set off against the corporation tax thus established, so that the withholding tax is refunded at a rate of 10% of the gross dividend. In principle, the tax burden remains equal to 15% of the gross dividend. In addition, the German Government puts forward additional explanations relating to the observations that it made at the hearing. It confirms that it disputes the calculations that the Commission presented at that hearing.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, it should be noted that, under the second paragraph of Article 252 TFEU, it is the duty of the Advocate General, acting with complete impartiality and independence, to make, in open court, reasoned submissions on cases which, in accordance with the Statute of the Court of Justice, require his involvement. The Court is not bound either by the Advocate General’s Opinion or by the reasoning on which it is based (judgment of 22 June 2017, Federatie Nederlandse Vakvereniging and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A489&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑126/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A489&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:489</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A489&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">31</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">It should also be noted in that respect that the Statute of the Court of Justice of the European Union and the Rules of Procedure make no provision for the parties or the interested persons referred to in Article 23 of the Statute of the Court of Justice of the European Union to submit observations in response to the Advocate General’s Opinion (judgment of 25 October 2017, Polbud — Wykonawstwo, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A804&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑106/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A804&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:804</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A804&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a> and the case-law cited). The fact that a party or such an interested person disagrees with the Advocate General’s Opinion, irrespective of the questions examined in the Opinion, cannot therefore in itself constitute grounds justifying the reopening of the oral procedure (judgments of 25 October 2017, Polbud — Wykonawstwo, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A804&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑106/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A804&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:804</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A804&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point24" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">24</a>, and of 29 November 2017, King, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A914&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑214/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A914&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:914</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A914&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">27</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that, since the German Government’s request to have the oral part reopened is intended to enable it to respond to the findings made by the Advocate General in his Opinion, it cannot be granted.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">However, pursuant to Article 83 of its Rules of Procedure, the Court may at any time, after hearing the Advocate General, order the oral part of the procedure to be reopened, in particular if it considers that it lacks sufficient information or where a party has, after the close of that part of the procedure, submitted a new fact which is of such a nature as to be a decisive factor for the decision of the Court, or where the case must be decided on the basis of an argument which has not been debated between the parties or the interested persons referred to in Article 23 of the Statute of the Court of Justice of the European Union.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">It should be recalled in that context that, according to settled case-law of the Court, as regards the interpretation of provisions of national law, the Court is in principle required to base its consideration on the description given in the order for reference and does not have jurisdiction to interpret the internal law of a Member State (see, inter alia, judgments of 17 March 2011, Naftiliaki Etaireia Thasou and Amaltheia I Naftiki Etaireia, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A163&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑128/10 and C‑129/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A163&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:163</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A163&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point40" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a>, and of 16 February 2017, Agro Foreign Trade &amp; Agency, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A129&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑507/15</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A129&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:129</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A129&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">However, the order for reference contains the necessary information relating to the provisions of German law and, in particular, to the tax rates applicable under those provisions, on which the Court is required to rely.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the Court, after hearing the views of the Advocate General, considers that it has all the information necessary to enable it to answer the questions raised by the referring court and that the arguments enabling it to rule, in particular, on the question relating to the tax burden on dividends distributed to resident pension funds have been debated before it. In addition, at the hearing, the German Government was given the opportunity to respond to any argument put forward during that hearing and to provide any clarifications which it considered necessary in that regard.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing, there is no need to reopen the oral part of the procedure.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">By its first question, the referring court asks, in essence, whether Articles 63 and 65 TFEU must be interpreted as precluding national legislation, such as that at issue in the main proceedings, under which dividends distributed by a resident company to a resident pension fund (i) are subject to a withholding tax which can be set off in its entirety against the corporation tax payable by that fund and give rise to a refund, when the tax withheld at source exceeds the corporation tax due, and (ii) do not result in any increase in the profit liable to corporation tax or only a comparatively small one, due to the possibility of deducting from that profit provisions for pension commitments, whereas dividends paid to a non-resident pension fund are subject to a withholding tax which constitutes a definitive tax for such a fund.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Whether there is a restriction within the meaning of Article 63 TFEU</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from the Court’s settled case-law that the measures prohibited by Article 63(1) TFEU, as restrictions on the movement of capital, include those that are such as to discourage non-residents from making investments in a Member State or to discourage that Member State’s residents from doing so in other States (see, inter alia, judgments of 10 April 2014, Emerging Markets Series of DFA Investment Trust Company, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑190/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:249</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>, and of 22 November 2018, Sofina and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑575/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:943</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A943&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Specifically, the less favourable treatment by a Member State of dividends paid to non-resident pension funds, compared to the treatment of dividends paid to resident pension funds, is liable to deter companies established in a Member State other than that Member State from pursuing investments in that same Member State and, consequently, amounts to a restriction of the free movement of capital, prohibited, in principle, under Article 63 TFEU (see, to that effect, judgments of 8 November 2012,Commission v Finland, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑342/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:688</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>; of 22 November 2012, Commission v Germany, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A737&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑600/10</a>, not published, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A737&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:737</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A737&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point15" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">15</a>, and of 2 June 2016, Pensioenfonds Metaal en Techniek, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A402&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑252/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A402&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:402</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A402&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">The application to dividends paid to non-resident pension funds of a tax burden heavier than that borne by resident pension funds in respect of the same dividends constitutes such less favourable treatment (see, to that effect, judgment of 17 September 2015, Miljoen and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A608&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑10/14, C‑14/14 and C‑17/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A608&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:608</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A608&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point48" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a>). The same applies to the total or substantial exemption of dividends paid to a resident pension fund, whereas dividends paid to a non-resident pension fund are subject to a definitive withholding tax (see, to that effect, judgment of 8 November 2012, Commission v Finland, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑342/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:688</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point32" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">32</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point33" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">33</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Under the legislation at issue in the main proceedings, as it transpires from the order for reference, pension funds are subject, in relation to the dividends distributed to them, to two different sets of tax rules, the application of which depends on whether they are resident in the territory of the Member State of the company distributing the dividends.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Both dividends distributed to resident pension funds and those distributed to non-resident pension funds are subject to a tax on income from capital that is withheld at source.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">However, in addition, as regards non-resident pension funds, that tax is definitively levied at a rate, which, as is apparent from the documents before the Court, corresponds, in the main proceedings, to 15% of the gross dividends, as provided for in Article 10(2)(b) of the Tax Agreement between Germany and Canada.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">By contrast, as regards resident pension funds, the tax on income from capital is withheld at source at the rate, according to the referring court, of 25% of gross dividends. It can be set off in its entirety against corporation tax, the rate of which, according to the referring court, is 15% of taxable income, and be refunded when the tax withheld at source exceeds the corporation tax for which the fund is liable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, according to the information in the order for reference, the receipt of dividends results in a very small increase in the taxable profit of the resident fund for the calculation of corporation tax, and even, in certain cases, in no increase in that profit. As the referring court observes, the receipt of dividends has the effect of increasing the technical provisions in due proportion and the taxable profit of the resident pension fund increases only where the returns on non‑accounting investments are not credited to the various agreements of that fund. As was stated in paragraph 11 of this judgment, returns on non-accounting investments must be credited to each agreement of the resident pension fund at a rate of at least 90%.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that, as a result of that deduction of the provisions, corresponding to the dividends received, from the taxable amount for the calculation of corporation tax, dividends received by resident pension funds do not increase that taxable amount, or increase it only very slightly.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, even where the withholding tax initially levied on the dividends paid to resident pension funds in respect of tax on income from capital exceeds that levied on dividends paid to non‑resident pension funds, the application of the mechanism, provided for by the German legislation in question in the main proceedings, for setting off the tax on income from capital against the corporation tax due by the resident pension fund, as well as the refund of that tax, in the event that the corporation tax due is less than the tax on income from capital withheld, in combination with the methods for calculating the taxable amount of the pension fund, results in dividends paid to resident pension funds being ultimately exempt, in whole or in part, from tax.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that dividends paid to non-resident pension funds are the subject of less favourable treatment than that applied to dividends paid to resident pension funds, since the former are subject to definitive taxation of 15%, whereas the latter are exempt from tax in whole or in part.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">Contrary to what the defendant in the main proceedings contends, such less favourable treatment is not the result either of the parallel exercise by the two States concerned of their respective powers of taxation or of the disparities between the legislation of the different States. The mere exercise by the Federal Republic of Germany of its powers of taxation results, irrespective of any application of the tax legislation of another State, (i) in the exemption in full or almost in full of dividends paid to resident pension funds and (ii) in the taxation of dividends paid to non‑resident pension funds.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, a difference in the treatment, such as that resulting from the German legislation at issue in the main proceedings, between dividends paid to non‑resident pension funds and those paid to resident pension funds, is liable to deter pension funds established in a State other than that Member State from investing in that same Member State and therefore constitutes a restriction on the free movement of capital prohibited, in principle, by Article 63 TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">It is necessary, however, to examine whether that restriction might be justified in the light of the provisions of the FEU Treaty.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Whether there is justification</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 65(1)(a) TFEU, Article 63 TFEU is without prejudice to the rights of Member States to apply the relevant provisions of their tax law which distinguish between taxpayers who are not in the same situation with regard to their place of residence or with regard to the place where their capital is invested.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">In so far as that provision is a derogation from the fundamental principle of the free movement of capital, it must be interpreted strictly. Accordingly, it cannot be interpreted as meaning that all tax legislation which draws a distinction between taxpayers on the basis of their place of residence or the State in which they invest their capital is automatically compatible with the FEU Treaty. Indeed, the derogation in Article 65(1)(a) TFEU is itself limited by Article 65(3) TFEU, which provides that the national provisions referred to in paragraph 1 of that article ‘shall not constitute a means of arbitrary discrimination or a disguised restriction on the free movement of capital and payments as defined in Article 63 [TFEU]’ (judgment of 10 April 2014, Emerging Markets Series of DFA Investment Trust Company, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑190/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:249</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point55" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">55</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point56" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">A distinction must, therefore, be made between the differences in treatment authorised by Article 65(1)(a) TFEU and discrimination prohibited by Article 65(3) TFEU. In that regard, according to the Court’s case-law, for national tax legislation to be capable of being regarded as compatible with the provisions of the Treaty concerning the free movement of capital, the difference in treatment must concern situations that are not objectively comparable or must be justified by an overriding reason in the public interest (judgment of 10 May 2012, Santander Asset Management SGIIC and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A286&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑338/11 to C‑347/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A286&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:286</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A286&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point23" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">23</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">It is clear from the Court’s case-law that the comparability of a cross‑border situation with an internal one must be examined having regard to the aim pursued by the national provisions at issue as well as their purpose and content (see, inter alia, judgment of 2 June 2016, Pensioenfonds Metaal en Techniek, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A402&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑252/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A402&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:402</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A402&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point48" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, it is settled case-law of the Court that as soon as a Member State, either unilaterally or by way of a convention, imposes a charge to tax on the income not only of resident taxpayers but also of non-resident taxpayers from dividends which they receive from a resident company, the situation of those non-resident taxpayers becomes comparable to that of resident taxpayers (judgments of 20 October 2011, Commission v Germany, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A670&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑284/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A670&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:670</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A670&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point56" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>, and of 17 September 2015, Miljoen and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A608&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑10/14, C‑14/14 and C‑17/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A608&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:608</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A608&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point67" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">67</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">The defendant in the main proceedings and the German Government argue however that resident pension funds and non-resident pension funds are not in objectively comparable situations in the light of the legislation at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="normal">In their contention, like the situation at issue in the case which gave rise to the judgment of 22 December 2008, Truck Center (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A762&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑282/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A762&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:762</a>), the difference in treatment stems from the application of different taxation arrangements to residents and non-residents.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, they maintain that it is justified to treat resident and non-resident pension funds differently, since there is no direct connection between the receipt of dividends in Germany and the expenditure constituted by the allocations to the mathematical and other technical provisions, as required by the case-law of the Court on the comparability of the situation of residents and of non-residents in relation to expenses directly linked to an activity which has generated taxable income in a Member State (see, inter alia, judgments of 31 March 2011, Schröder, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A198&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑450/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A198&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:198</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A198&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point40" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a> and the case-law cited, and of 24 February 2015, Grünewald, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A109&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑559/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A109&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:109</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A109&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the first place, the argument that the difference in treatment stems from the application of different taxation arrangements to residents and non-residents, it should be noted that, although the Court held, in paragraph 41 of the judgment of 22 December 2008, Truck Center (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A762&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑282/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A762&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:762</a>), that a difference in treatment consisting in the application of different taxation arrangements on the basis of the place of residence of the taxable person relates to situations which are not objectively comparable, it nevertheless made clear, in paragraphs 43, 44 and 49 of that judgment, that the income at issue in the case which gave rise to that judgment was, in any event, subject to tax irrespective of whether it was received by a resident or non-resident taxable person, and that, moreover, the difference in taxation arrangements did not necessarily procure an advantage for resident recipients.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="normal">However, as is apparent from paragraphs 57 and 58 of this judgment, the application of the German legislation at issue in the main proceedings results in dividends paid to resident pension funds being ultimately exempt in whole or in part from tax, while dividends paid to non-resident pension funds are subject to a definitive tax of 15%.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="normal">Accordingly, the national legislation at issue in the main proceedings does not simply provide for different procedures for charging tax depending on the place of residence of the recipient of nationally sourced dividends. It is also liable to result in dividends paid to resident pension funds being completely or almost completely exempt from tax and, therefore, to confer an advantage on those funds.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the difference in treatment at issue in the main proceedings cannot be justified by the difference in the situation of resident and non-resident pension funds in the light of the application of the different taxation arrangements.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, in the second place, the argument relating to the difference in the situation of resident and non-resident pension funds in terms of whether it is possible to take into account allocations to provisions for pension commitments as professional expenditure, it should be recalled that the Court has held that, in relation to expenditure, such as professional expenses directly linked to an activity that has generated taxable income in a Member State, residents and non-residents of that State are in a comparable situation (see, inter alia, judgments of 31 March 2011, Schröder, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A198&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑450/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A198&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:198</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A198&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point40" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">40</a>, of 8 November 2012, Commission v Finland, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑342/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:688</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> and of 24 February 2015, Grünewald, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A109&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑559/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A109&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:109</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A109&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="normal">However, the referring court states in its order for reference that the provisions of Paragraph 21a of the KStG concerning mathematical provisions and those of Paragraph 21(2) of the KStG concerning provisions for rebates are not provisions authorising the deduction of professional expenditure and that there is no rule in German law which expressly provides that allocations to mathematical and similar technical provisions may be deducted from taxable income as deductible expenses. As was recalled in paragraph 43 of this judgment, the Court is in principle required to base its consideration on the classifications resulting from the provisions of national law, as specified in the order for reference.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="normal">In that respect, the situation at issue in the main proceedings differs from that at issue in the case that gave rise to the judgment of 8 November 2012, Commission v Finland (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑342/10</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A688&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:688</a>), in which the national legislature explicitly treated the amounts reserved/set aside with a view to meeting obligations in respect of pension liabilities as expenses incurred in order to acquire or maintain the income from economic activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="normal">Consequently, the case-law referred to in paragraph 74 of this judgment is irrelevant for the purposes of examining whether the situation of a non-resident pension fund and that of a resident pension fund are comparable, in the light of the national legislation at issue in the main proceedings. Thus, the fact that the German Government claims that allocations to the mathematical and other technical provisions do not constitute expenses incurred in order to generate income in respect of dividends cannot call into question that comparability of the situations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, it should be noted that, according to the referring court, where the dividends distributed increase the mathematical provisions or other items on the liabilities side, the profits of the pension fund remain unchanged, with the result that there is no taxable increase in assets. It adds that the provisions for pension commitments, which reduce the taxable income, are the direct consequence of the receipt of dividends. Consequently, according to that court, resident and non-resident pension funds are in a comparable situation from the point of view of taking into account allocations to the mathematical provisions and similar technical provisions for the purpose of determining their taxable amount so far as concerns the dividends that they receive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point79">79</p>
+</td>
+<td valign="top">
+<p class="normal">It is thus apparent from the information provided by the referring court that there is a causal link between the receipt of dividends, the increase in the mathematical provisions and other items on the liabilities side and the absence of any increase in the taxable amount of the resident fund, since dividends which are used for the purposes of technical provisions do not increase the taxable profit of the pension fund, which was confirmed by the German Government at the hearing. According to that government, profits obtained through the investment must in large part benefit members, in the sense that those profits cannot remain in the pension fund and that income is the condition for expenditure in respect of the provisions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point80">80</p>
+</td>
+<td valign="top">
+<p class="normal">National legislation allowing complete or almost complete exemption from tax of dividends paid to resident pension funds thus facilitates the accumulation of the capital of such funds, while, as the German Government observed at the hearing, all pension funds are, in principle, required to invest insurance premiums on the capital market in order to generate income in the form of dividends that enable them to meet their future obligations under insurance contracts.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point81">81</p>
+</td>
+<td valign="top">
+<p class="normal">A non-resident pension fund, which allocates the dividends received to provisions for pensions that it will have to pay in the future, intentionally or pursuant to the law in force in its State of residence, is in that regard in a situation comparable to that of a resident pension fund.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point82">82</p>
+</td>
+<td valign="top">
+<p class="normal">It is for the referring court to verify whether that is the case in the situation in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point83">83</p>
+</td>
+<td valign="top">
+<p class="normal">If the referring court finds that a non-resident pension fund is in a situation comparable to that of a resident pension fund in terms of allocating dividends to make provisions for pensions, it would still be necessary to examine whether the difference in treatment at issue in the main proceedings is capable — depending on the circumstances — of being justified by overriding reasons in the public interest (see, to that effect, inter alia, judgment of 24 November 2016, SECIL, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A896&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑464/14</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A896&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2016:896</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A896&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point54" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">54</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A896&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point56" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">56</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point84">84</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, first of all, since the German Government argued at the hearing that the legislation at issue in the main proceedings formed part of a balanced allocation between the Member State of the source of the dividends and the State of residence of the pension funds of the power to impose taxes, it must be recalled that the need to safeguard the balanced allocation between Member States and third countries of the power to impose taxes is a ground capable of justifying a restriction on the free movement of capital, in particular, where the national measures in question are designed to prevent conduct capable of jeopardising the right of a Member State to exercise its powers of taxation in relation to activities carried out in its territory (judgment of 26 February 2019, X (Controlled companies established in third countries), <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑135/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:136</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point72" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">72</a> and case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point85">85</p>
+</td>
+<td valign="top">
+<p class="normal">However, where a Member State has chosen to exempt completely or almost completely dividends paid to resident pension funds, it cannot rely on the argument that there is a need to ensure a balanced allocation between the Member States and third countries of the power to impose taxes in order to justify the taxation of dividends paid to non-resident pension funds (see, to that effect, judgments of 20 October 2011, Commission v Germany, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A670&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑284/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A670&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:670</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A670&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point78" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">78</a>, of 10 May 2012, Santander Asset Management SGIIC and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A286&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑338/11 to C‑347/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A286&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:286</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A286&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point48" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a>, and of 21 June 2018, Fidelity Funds and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A480&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑480/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A480&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:480</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A480&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point71" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">71</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point86">86</p>
+</td>
+<td valign="top">
+<p class="normal">The need to safeguard a balanced allocation between the Member States and third countries of the power to impose taxes cannot therefore be relied on to justify the restriction on the free movement of capital at issue in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point87">87</p>
+</td>
+<td valign="top">
+<p class="normal">Next, with regard to the need to safeguard the coherence of a tax system, mentioned by the referring court, which may also justify rules that are liable to restrict fundamental freedoms, provided that a direct link is established between the tax advantage concerned and the compensating of that advantage by a particular tax levy, with the direct nature of that link falling to be examined in the light of the objective pursued by the rules in question (see, inter alia, judgment of 21 June 2018, Fidelity Funds and Others, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A480&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑480/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A480&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:480</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A480&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point79" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">79</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A480&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point80" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">80</a> and the case-law cited), it is sufficient to state that the German Government has not relied upon the existence of such a direct link, which is necessary in order that such justification can succeed.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point88">88</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, as regards the need to guarantee the effectiveness of fiscal supervision which constitutes an overriding reason in the public interest also capable of justifying a restriction on the free movement of capital (judgment of 26 February 2019, X (Controlled companies established in third countries), <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑135/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:136</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point74" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">74</a>), which has also been raised by the referring court, it should be pointed out that there is nothing in the file before the Court to permit the inference that national legislation such as that at issue in the main proceedings is suitable for attaining that objective.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point89">89</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing, the answer to the first question is that Articles 63 and 65 TFEU must be interpreted as precluding national legislation under which dividends distributed by a resident company to a resident pension fund (i) are subject to a withholding tax which can be set off in its entirety against the corporation tax payable by such a fund, and give rise to a refund when the tax withheld at source exceeds the corporation tax due by the fund, and (ii) do not result in any increase in the profit liable to corporation tax or only a comparatively small one, due to the possibility of deducting from that profit provisions for pension commitments, whereas dividends paid to a non-resident pension fund are subject to a withholding tax which constitutes a definitive tax for such a fund, when the non‑resident pension fund allocates dividends received to make provisions for pensions which it will have to pay in the future, this being a matter for the referring court to ascertain.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point90">90</p>
+</td>
+<td valign="top">
+<p class="normal">By its second question, the referring court asks, in essence, whether Article 64(1) TFEU must be interpreted as meaning that national legislation, such as that at issue in the main proceedings, under which dividends distributed by a resident company to a resident pension fund (i) are subject to a withholding tax which can be set off in its entirety against the corporation tax payable by that fund and give rise to a refund, when the tax withheld at source exceeds the corporation tax due by the fund, and (ii) do not result in any increase in the profit liable to corporation tax or only a comparatively small one, due to the possibility of deducting from that profit provisions for pension commitments, whereas dividends paid to a non-resident pension fund are subject to a withholding tax which constitutes a definitive tax for such a fund, can be considered to be a restriction existing on 31 December 1993 for the purposes of applying that provision.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point91">91</p>
+</td>
+<td valign="top">
+<p class="normal">According to Article 64(1) TFEU, the provisions of Article 63 are without prejudice to the application to third countries of any restrictions which existed on 31 December 1993 under national or EU law adopted in respect of the movement of capital to or from third countries involving direct investment — including in real estate — establishment, the provision of financial services or the admission of securities to capital markets.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point92">92</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the temporal criterion laid down by Article 64(1) TFEU, it is apparent from the Court’s settled case-law that while it is, in principle, for the national court to determine the content of the legislation which existed on a date laid down by an EU measure, it is for the Court of Justice to provide guidance on interpreting the concept of EU law which constitutes the basis of a derogation under EU law for national legislation ‘existing’ on a particular date (judgment of 10 April 2014, Emerging Markets Series of DFA Investment Trust Company, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑190/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:249</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point47" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point93">93</p>
+</td>
+<td valign="top">
+<p class="normal">The words ‘restrictions which exist on 31 December 1993’ in Article 64(1) TFEU presuppose that the legal provisions relating to the restriction in question have formed part of the legal order of the Member State concerned continuously since that date. If that were not the case, a Member State could, at any time, reintroduce restrictions on the movement of capital to or from non-member States which existed as part of the national legal order on 31 December 1993 but had not been maintained (judgments of 5 May 2011, Prunus and Polonium, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2011%3A276&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑384/09</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A276&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2011:276</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A276&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point34" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">34</a> and the case-law cited, and of 20 September 2018, EV, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A743&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑685/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A743&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:743</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A743&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point74" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">74</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point94">94</p>
+</td>
+<td valign="top">
+<p class="normal">However, the Court has already held that any national measure adopted after that date is not, by that fact alone, automatically excluded from the derogation laid down in the EU measure in question. It is settled case‑law of the Court that restrictions laid down in provisions adopted after that date which, in essence, are identical to previous legislation or which are limited to reducing or eliminating an obstacle to the exercise of rights and freedoms of movement in previous legislation can be treated as equivalent to such restrictions ‘which exist’. By contrast, legislation based on an approach which differs from that of the previous law and establishes new procedures cannot be treated as legislation existing on that date (see, to that effect, judgments of 10 April 2014, Emerging Markets Series of DFA Investment Trust Company, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑190/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:249</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point48" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">48</a>, of 20 September 2018, EV, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A743&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑685/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A743&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:743</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A743&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point75" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">75</a>, and of 26 February 2019, X (Controlled companies established in third countries), <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑135/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:136</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point95">95</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the referring court states that the provision of Paragraph 32(1) No 2 of the KStG providing for the discharging nature of the withholding tax, which has given rise to the difference in treatment between resident and non-resident pension funds, already existed on 31 December 1993 in the form of the provision of Paragraph 50(1) No 2 of the KStG of 1991, the wording and functioning of which are identical.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point96">96</p>
+</td>
+<td valign="top">
+<p class="normal">However, CPP argues before the Court that pension funds were not covered by German law on 31 December 1993, since they were introduced into insurance law and into the KStG with effect only from 1 January 2002 and that, before that date, there was no specific tax legislation relating to pension funds either.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point97">97</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has already held that, if, on 31 December 1993, dividends paid by a resident company to non-resident entities were subject either to the same treatment as that applied to those paid to resident entities, or to different treatment more favourable than that applied to those paid to resident entities, but that, after that date, an exemption was introduced for dividends paid to resident companies, the temporal criterion should be considered not to have been satisfied, since what constitutes a restriction on the free movement of capital, namely the tax exemption, was introduced subsequently, and is based on an approach which differs from that of the previous law, and establishes a new procedure (see, to that effect, judgment of 10 April 2014, Emerging Markets Series of DFA Investment Trust Company, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑190/12</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:249</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">50</a> to <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A249&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point52" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">52</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point98">98</p>
+</td>
+<td valign="top">
+<p class="normal">It is therefore for the referring court to determine whether, because special legislation relating to pension funds was introduced after 31 December 1993, the situation of non-resident pension funds has become less advantageous than that of resident pension funds with regard to dividends paid to them by resident companies, so that what constitutes the restriction in question in the present case cannot be considered to have existed on that date. For the purposes of that assessment, the referring court will have to take into account that the conditions that national legislation must fulfil in order to be regarded as ‘existing’ on 31 December 1993, notwithstanding an amendment to national law after that date, must be interpreted strictly (judgments of 20 September 2018, EV, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A743&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑685/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A743&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:743</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A743&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point81" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">81</a>, and of 26 February 2019, X (Controlled companies established in third countries), <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑135/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:136</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point42" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">42</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point99">99</p>
+</td>
+<td valign="top">
+<p class="normal">If that was the case, the temporal criterion cannot be considered to be fulfilled.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point100">100</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the substantive criterion, it should be recalled that Article 64(1) TFEU sets out an exhaustive list of capital movements to which Article 63(1) TFEU is liable not to apply and, as a derogation from the fundamental principle of the free movement of capital, it must be interpreted strictly (judgment of 21 May 2015, Wagner-Raith, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑560/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:347</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point21" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">21</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point101">101</p>
+</td>
+<td valign="top">
+<p class="normal">The Court has already clarified in that respect that restrictions on the movement of capital to or from third countries involving portfolio investments are not included in the movements of capital involving ‘direct investments’, referred to in Article 64(1) TFEU (judgment of 26 February 2019, X (Controlled companies established in third countries), <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑135/17</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:136</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A136&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point28" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">28</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point102">102</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, the referring court observes that CPP’s shareholding in the capital of the companies distributing dividends never exceeded 1%, which corresponds to so-called ‘portfolio investments’, which refer to the acquisition of shares on the capital market solely with the intention of making a financial investment without any intention of influencing the management and control of the undertaking, so that it cannot be considered that a situation such as that at issue in the main proceedings concerns capital movements involving ‘direct investments’, within the meaning of Article 64(1) TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point103">103</p>
+</td>
+<td valign="top">
+<p class="normal">However, since a pension fund may provide financial services to its insured persons, it is still necessary to ascertain whether capital movements, such as those referred to in the legislation at issue in the main proceedings, involve the provision of financial services within the meaning of Article 64(1) TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point104">104</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the Court has held that the decisive criterion for the application of Article 64(1) TFEU is concerned with the causal link between the capital movements and the provision of financial services and not with the personal scope of the contested national measure or its relationship with the provider, rather than the recipient, of such services. The scope of that provision is defined by reference to the categories of capital movements which are capable of being subject to restrictions (judgment of 21 May 2015, Wagner-Raith, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑560/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:347</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point39" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">39</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point105">105</p>
+</td>
+<td valign="top">
+<p class="normal">In order to be capable of being covered by that derogation, the national measure must therefore relate to capital movements that have a sufficiently close link with the provision of financial services, namely a causal link between the movement of capital and the provision of financial services (judgment of 21 May 2015, Wagner-Raith, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑560/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:347</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point43" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">43</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point44" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">44</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point106">106</p>
+</td>
+<td valign="top">
+<p class="normal">National legislation which, in applying to capital movements to or from third countries, restricts the provision of financial services thus falls within Article 64(1) TFEU (judgment of 21 May 2015, Wagner-Raith, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑560/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:347</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point45" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">45</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point107">107</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the acquisition of units in investment funds situated in a British overseas territory and the receipt of the dividends deriving from them, the Court held, in paragraph 46 of the judgment of 21 May 2015, Wagner-Raith (<a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑560/13</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A347&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2015:347</a>), that they involve the existence of financial services provided by those investment funds to the investor concerned. The Court specified that such an investment enables the investor concerned, as a result of those services, to benefit, in particular, from increased asset diversification and better spreading of risk.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point108">108</p>
+</td>
+<td valign="top">
+<p class="normal">As the Advocate General observed in point 100 of his Opinion, the acquisition of shareholdings by a pension fund and the dividends which it receives as a result serve the purpose, first and foremost, of preserving its assets and of guaranteeing the provisions constituted by the fund, through increased diversification and better spreading of risk, in order to ensure that it can meet its pension commitments to its insured persons. Those acquisitions of shareholdings and those dividends thus constitute, in the first place, a means by which a pension fund can honour its pension commitments and not a service that it provides to those insured persons.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point109">109</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, it must be concluded that there is not a sufficiently close link in the form of a causal link, within the meaning of the case-law referred to in paragraphs 104 to 106 of this judgment, between the movement of capital referred to in the legislation at issue in the main proceedings relating to the receipt of dividends by a pension fund, and a provision of financial services, within the meaning of Article 64(1) TFEU.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point110">110</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answer to the second question is that Article 64(1) TFEU must be interpreted as meaning that national legislation, under which dividends distributed by a resident company to a resident pension fund (i) are subject to a withholding tax which can be set off in its entirety against the corporation tax payable by that fund, and give rise to a refund when the tax withheld at source exceeds the corporation tax due by the fund, and (ii) do not result in any increase in the profit liable to the corporation tax payable or only a comparatively small one, due to the possibility of deducting from that profit provisions for pension commitments, whereas dividends paid to a non-resident pension fund are subject to a withholding tax which constitutes a definitive tax for such a fund, cannot be considered to be a restriction existing on 31 December 1993 for the purposes of applying that provision.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point111">111</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Second Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Articles 63 and 65 TFEU must be interpreted as precluding national legislation under which dividends distributed by a resident company to a resident pension fund (i) are subject to a withholding tax which can be set off in its entirety against the corporation tax payable by such a fund, and give rise to a refund when the tax withheld at source exceeds the corporation tax due, and (ii) do not result in any increase in the profit liable to corporation tax or only a comparatively small one, due to the possibility of deducting from that profit provisions for pension commitments, whereas dividends paid to a non-resident pension fund are subject to a withholding tax which constitutes a definitive tax for such a fund, when the non‑resident pension fund allocates dividends received to make provisions for pensions which it will have to pay in the future, this being a matter for the referring court to ascertain.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 64(1) TFEU must be interpreted as meaning that national legislation, under which dividends distributed by a resident company to a resident pension fund (i) are subject to a withholding tax which can be set off in its entirety against the corporation tax payable by that fund, and give rise to a refund when the tax withheld at source exceeds the corporation tax due by the fund, and (ii) do not result in any increase in the profit liable to the corporation tax payable or only a comparatively small one, due to the possibility of deducting from that profit provisions for pension commitments, whereas dividends paid to a non-resident pension fund are subject to a withholding tax which constitutes a definitive tax for such a fund, cannot be considered to be a restriction existing on 31 December 1993 for the purposes of applying that provision.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62017CJ0641_EN_01-E0001" id="t-ECR_62017CJ0641_EN_01-E0001">*1</a>
+</span>)	Language of the case: German.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

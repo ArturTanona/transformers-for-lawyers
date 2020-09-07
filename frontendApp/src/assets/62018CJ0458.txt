@@ -1,0 +1,885 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>ARRÊT DE LA COUR (cinquième chambre)</p>
+<p class="sum-title-1">2 avril 2020 (<span class="note">
+<a href="#t-ECR_62018CJ0458_FR_01-E0001" id="c-ECR_62018CJ0458_FR_01-E0001">*1</a>
+</span>)</p>
+<p class="index">« Renvoi préjudiciel – Régime fiscal commun applicable aux sociétés mères et filiales d’États membres différents – Directive 2011/96/UE – Article 2, sous a), i) et iii), et annexe I, partie A, sous ab), et partie B, dernier tiret – Notions de “sociétés constituées conformément au droit du Royaume-Uni” et de “corporation tax au Royaume-Uni” – Sociétés enregistrées à Gibraltar et qui y sont assujetties à l’impôt sur les sociétés »</p>
+<p class="normal">Dans l’affaire C‑458/18,</p>
+<p class="normal">ayant pour objet une demande de décision préjudicielle au titre de l’article 267 TFUE, introduite par l’Administrativen sad Sofia-grad (tribunal administratif de Sofia, Bulgarie), par décision du 5 juillet 2018, parvenue à la Cour le 12 juillet 2018, dans la procédure</p>
+<p class="normal">
+<span class="bold">« GVC Services (Bulgaria) » EOOD</span>
+</p>
+<p class="pnormal">contre</p>
+<p class="normal">
+<span class="bold">Direktor na Direktsia « Obzhalvane i danachno-osiguritelna praktika »</span> – <span class="bold">Sofia,</span>
+</p>
+<p class="normal">LA COUR (cinquième chambre),</p>
+<p class="normal">composée de M. E. Regan, président de chambre, MM. I. Jarukaitis, E. Juhász, M. Ilešič (rapporteur) et C. Lycourgos, juges,</p>
+<p class="normal">avocat général : M. G. Hogan,</p>
+<p class="normal">greffier : M<span class="super">me</span> C. Strömholm, administratrice,</p>
+<p class="normal">vu la procédure écrite et à la suite de l’audience du 11 septembre 2019,</p>
+<p class="normal">considérant les observations présentées :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour « GVC Services (Bulgaria) » EOOD, par M<span class="super">e</span> D. Yordanov, advokat, ainsi que par MM. D. Tench, V. Nagrani, P. Montegriffo, G. Jackson et M<span class="super">me</span> E. Sheard, solicitors,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le Direktor na Direktsia « Obzhalvane i danachno-osiguritelna praktika » – Sofia, par M. N. Kalistratov et M<span class="super">me</span> S. Atanasova, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement bulgare, par M<span class="super">mes</span> L. Zaharieva et E. Petranova, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement danois, par M. J. Nymann-Lindegren ainsi que par M<span class="super">mes</span> M. S. Wolff et P. Z. L. Ngo, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour le gouvernement du Royaume-Uni, par M. F. Shibli, en qualité d’agent, assisté de M. D. Yates et de M<span class="super">me</span> L. Ruxandu, barristers,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">pour la Commission européenne, par M<span class="super">mes</span> A. Armenia et Y. Marinova, en qualité d’agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">ayant entendu l’avocat général en ses conclusions à l’audience du 24 octobre 2019,</p>
+<p class="normal">rend le présent</p>
+<p class="sum-title-1">
+<span class="bold">Arrêt</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">La demande de décision préjudicielle porte sur l’interprétation de l’article 2, sous a), i) et iii), de la directive 2011/96/UE du Conseil, du 30 novembre 2011, concernant le régime fiscal commun applicable aux sociétés mères et filiales d’États membres différents (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2011:345:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2011, L 345, p. 8</a>), et de son annexe I, partie A, sous ab), et partie B, dernier tiret.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">Cette demande a été présentée dans le cadre d’un litige opposant « GVC Services (Bulgaria) » EOOD, établie en Bulgarie (ci-après « GVC »), au Direktor na Direktsia « Obzhalvane i danachno-osiguritelna praktika » – Sofia (directeur de la direction « Recours et pratique en matière de fiscalité et de sécurité sociale » de Sofia, Bulgarie) (ci-après le « directeur ») au sujet d’un avis de redressement fiscal constatant des dettes d’impôt sur les dividendes distribués et versés par GVC à sa société mère, PGB Limited – Gibraltar, établie à Gibraltar, pour la période allant du 13 juillet 2011 au 21 avril 2016.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le cadre juridique</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit de l’Union</span>
+</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Le statut de Gibraltar</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">À titre liminaire, il y a lieu de relever que, le litige pendant devant la juridiction de renvoi concernant des dettes d’impôt dues pour une période antérieure au 1<span class="super">er</span> février 2020, il n’y a pas lieu de tenir compte, dans le cadre de la présente affaire, de l’accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2020:029:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2020, L 29, p. 7</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Gibraltar est un territoire européen dont un État membre, à savoir le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, assume les relations extérieures au sens de l’article 355, point 3, TFUE et auquel les dispositions des traités s’appliquent.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">L’acte relatif aux conditions d’adhésion du Royaume de Danemark, de l’Irlande et du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord et aux adaptations des traités (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1972:073:TOC" hreflang="fr" onclick="target='CourtTab';">JO 1972, L 73, p. 14</a>, ci-après l’« acte d’adhésion de 1972 ») prévoit toutefois que certaines parties du traité ne s’appliquent pas à Gibraltar.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 28 de l’acte d’adhésion de 1972 dispose :</p>
+<p class="normal">« Les actes des institutions de [l’Union européenne] visant les produits de l’annexe [I] du traité [FUE] et les produits soumis à l’importation dans [l’Union] à une réglementation spécifique comme conséquence de la mise en œuvre de la politique agricole commune, ainsi que les actes en matière d’harmonisation des législations des États membres relatives aux taxes sur le chiffre d’affaires ne sont pas applicables à Gibraltar, à moins que le [Conseil de l’Union européenne] statuant à l’unanimité sur proposition de la [Commission européenne] n’en dispose autrement. »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">En vertu de l’article 29 de l’acte d’adhésion de 1972, combiné avec l’annexe I, partie I, point 4, de celui-ci, Gibraltar est exclu du territoire douanier de l’Union.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">La directive 2011/96</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Les considérants 3 à 6 et 8 de la directive 2011/96 énoncent :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« (3)</p>
+</td>
+<td valign="top">
+<p class="normal">L’objectif de la présente directive est d’exonérer de retenue à la source les dividendes et autres bénéfices distribués par des filiales à leur société mère, et d’éliminer la double imposition de ces revenus au niveau de la société mère.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(4)</p>
+</td>
+<td valign="top">
+<p class="normal">Les regroupements de sociétés d’États membres différents peuvent être nécessaires pour créer dans l’Union des conditions analogues à celles d’un marché intérieur et pour assurer ainsi le bon fonctionnement d’un tel marché intérieur. Ces opérations ne devraient pas être entravées par des restrictions, des désavantages ou des distorsions découlant en particulier des dispositions fiscales des États membres. Il importe, par conséquent, de prévoir pour ces regroupements des règles fiscales neutres au regard de la concurrence afin de permettre aux entreprises de s’adapter aux exigences du marché intérieur, d’accroître leur productivité et de renforcer leur position concurrentielle sur le plan international.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(5)</p>
+</td>
+<td valign="top">
+<p class="normal">Les regroupements en question peuvent aboutir à la création de groupes de sociétés mères et filiales.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(6)</p>
+</td>
+<td valign="top">
+<p class="normal">Avant l’entrée en vigueur de la directive 90/435/CEE [du Conseil, du 23 juillet 1990, concernant le régime fiscal commun applicable aux sociétés mères et filiales d’États membres différents (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1990:225:TOC" hreflang="fr" onclick="target='CourtTab';">JO 1990, L 225, p. 6</a>)], les dispositions fiscales régissant les relations entre sociétés mères et filiales d’États membres différents variaient sensiblement d’un État membre à l’autre et étaient, en général, moins favorables que celles applicables aux relations entre sociétés mères et filiales d’un même État membre. La coopération entre sociétés d’États membres différents était, de ce fait, pénalisée par rapport à la coopération entre sociétés d’un même État membre. Il convenait d’éliminer cette pénalisation par l’instauration d’un régime commun et de faciliter ainsi les regroupements de sociétés à l’échelle de l’Union.</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(8)</p>
+</td>
+<td valign="top">
+<p class="normal">Il convient par ailleurs, pour assurer la neutralité fiscale, d’exempter de retenue à la source les bénéfices qu’une société filiale distribue à sa société mère. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 1<span class="super">er</span>, paragraphe 1, de la directive 2011/96 :</p>
+<p class="normal">« Chaque État membre applique la présente directive :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">aux distributions de bénéfices reçus par des sociétés de cet État membre et provenant de leurs filiales d’autres États membres ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">b)</p>
+</td>
+<td valign="top">
+<p class="normal">aux distributions de bénéfices effectuées par des sociétés de cet État membre à des sociétés d’autres États membres dont elles sont les filiales ;</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...] »</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 2, sous a), de cette directive dispose :</p>
+<p class="normal">« Aux fins de l’application de la présente directive, on entend par :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">a)</p>
+</td>
+<td valign="top">
+<p class="normal">“société d’un État membre” : toute société :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">i)</p>
+</td>
+<td valign="top">
+<p class="normal">qui revêt une des formes énumérées à l’annexe I, partie A ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">ii)</p>
+</td>
+<td valign="top">
+<p class="normal">qui, selon la législation fiscale d’un État membre, est considérée comme ayant dans cet État membre son domicile fiscal et qui, aux termes d’une convention en matière de double imposition conclue avec un État tiers, n’est pas considérée comme ayant son domicile fiscal hors de l’Union ;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">iii)</p>
+</td>
+<td valign="top">
+<p class="normal">qui, en outre, est assujettie, sans possibilité d’option et sans en être exonérée, à l’un des impôts énumérés à l’annexe I, partie B, ou à tout autre impôt qui viendrait se substituer à l’un de ces impôts. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">L’article 5 de ladite directive prévoit que « [l]es bénéfices distribués par une filiale à sa société mère sont exonérés de retenue à la source ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">La partie A de l’annexe I de la directive 2011/96 établit la liste des sociétés visées à l’article 2, sous a), i), de cette directive et mentionne, au point ab), les « sociétés constituées conformément au droit du Royaume-Uni ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Dans la partie B de cette annexe I figure la liste des impôts visés à l’article 2, sous a), iii), de ladite directive, comprenant, à son dernier tiret, la « corporation tax au Royaume-Uni ».</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Le droit bulgare</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Aux termes de l’article 194, paragraphes 1 et 3, du Zakon za korporativnoto podohodno oblagane (loi relative à l’impôt sur les sociétés) (DV n<span class="super">o</span> 105, du 22 décembre 2006) :</p>
+<p class="normal">« 1.   Sont assujettis à un impôt prélevé à la source les dividendes et les boni de liquidation distribués (versés) par des personnes morales résidentes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">1)</p>
+</td>
+<td valign="top">
+<p class="normal">à des personnes morales étrangères [...]</p>
+</td>
+</tr>
+</table>
+<p class="normal">[...]</p>
+<p class="normal">3.   Le paragraphe 1 n’est pas applicable lorsque les dividendes et les boni de liquidation sont distribués :</p>
+<p class="normal">[...]</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3)</p>
+</td>
+<td valign="top">
+<p class="normal">[...] à une personne morale étrangère ayant son domicile fiscal dans un État membre de [l’Union] ou dans un autre État qui est partie à l’accord sur l’Espace économique européen[, du 2 mai 1992 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1994:001:TOC" hreflang="fr" onclick="target='CourtTab';">JO 1994, L 1, p. 3</a>)], sauf lorsqu’il y a distribution cachée de bénéfices. »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Le litige au principal et les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">GVC est une société unipersonnelle à responsabilité limitée de droit bulgare, fournissant des services de technologies de l’information. Jusqu’au 1<span class="super">er</span> février 2016, son capital était intégralement détenu par PGB Limited – Gibraltar, société constituée à Gibraltar.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Durant la période allant du 13 juillet 2011 au 21 avril 2016, GVC a distribué à sa société mère, PGB Limited – Gibraltar, des dividendes et les lui a versés sans retenir ni acquitter d’impôt sur ceux-ci en Bulgarie, estimant que ladite société mère pouvait être considérée comme une personne morale étrangère ayant son domicile fiscal dans un État membre de l’Union, conformément à l’article 194, paragraphe 3, de la loi relative à l’impôt sur les sociétés.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Considérant, au contraire, que, en l’occurrence, la retenue à la source sur les dividendes distribués aurait dû être opérée, l’autorité fiscale bulgare compétente a émis, le 1<span class="super">er</span> décembre 2017, un avis de redressement fiscal, visant au recouvrement d’un montant de 930529,54 leva bulgares (BGN) (environ 476000 euros), dont 669690,32 BGN (environ 342000 euros) au titre du principal et 260839,22 BGN (environ 134000 euros) au titre des intérêts de retard. GVC a contesté cet avis en introduisant un recours administratif devant le directeur, qui a confirmé ledit avis. GVC a saisi la juridiction de renvoi d’un recours en annulation de l’avis confirmé.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">GVC soutient que le droit de l’Union est applicable à Gibraltar qui est un territoire européen dont un État membre assume les relations extérieures au sens de l’article 355, point 3, TFUE et que la distribution des dividendes ne relève pas des exclusions prévues aux articles 28 à 30 de l’acte d’adhésion de 1972. À cet égard, elle estime que sa société mère remplit les conditions de l’article 2 de la directive 2011/96, cette société pouvant être assimilée à une société constituée au Royaume‑Uni et étant assujettie à Gibraltar à l’impôt sur les sociétés qui correspond, selon elle, à la « corporation tax au Royaume-Uni » visée à l’annexe I, partie B, dernier tiret, de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">En revanche, le directeur fait valoir que l’annexe I de la directive 2011/96 établit une liste explicite et exhaustive tant des sociétés (partie A) que des impôts (partie B) qui relèvent de son champ d’application. Il considère que cette directive définit exhaustivement son champ d’application et que celui-ci ne saurait donc être étendu aux sociétés constituées à Gibraltar et qui y sont assujetties à l’impôt sur les sociétés, dans la mesure où les règles fiscales ne sauraient être interprétées extensivement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Éprouvant des doutes sur le point de savoir si GVC, en tant que filiale d’une société mère enregistrée à Gibraltar et qui y est assujettie à l’impôt sur les sociétés, relève du champ d’application de la directive 2011/96 et si, par conséquent, elle doit être exonérée de la retenue à la source en Bulgarie, l’Administrativen sad Sofia-grad (tribunal administratif de Sofia, Bulgarie) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">« 1)</p>
+</td>
+<td valign="top">
+<p class="normal">Les dispositions combinées de l’article 2, sous a), i), de la directive [2011/96] et de son annexe I, partie A, sous ab), doivent‑elles être interprétées en ce sens que l’on entend également par “sociétés constituées conformément au droit du Royaume-Uni” les sociétés constituées à Gibraltar ?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2)</p>
+</td>
+<td valign="top">
+<p class="normal">Les dispositions combinées de l’article 2, sous a), iii), de la directive [2011/96] et de son annexe I, partie B, [dernier tiret,] doivent-elle être interprétées en ce sens que l’on entend également par “corporation tax au Royaume-Uni” l’impôt sur les sociétés dû à Gibraltar ? »</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur la recevabilité de la demande de décision préjudicielle</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Bien que ne soulevant pas formellement une exception d’irrecevabilité, le gouvernement du Royaume-Uni indique, dans ses observations écrites, qu’il n’apparaît pas nécessaire de répondre aux questions préjudicielles pour pouvoir résoudre le litige au principal.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">Au regard du statut de Gibraltar en droit de l’Union, tel qu’il a été confirmé par la Cour, PGB Limited – Gibraltar, en tant que société établie à Gibraltar, remplirait déjà la condition prévue à l’article 194, paragraphe 3, de la loi relative à l’impôt sur les sociétés, à savoir celle d’être une personne morale étrangère ayant son domicile fiscal dans un État membre de l’Union. Par conséquent, selon ce gouvernement, l’interprétation de la directive 2011/96 ne s’imposerait pas.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il convient de rappeler que, selon une jurisprudence constante, les questions relatives à l’interprétation du droit de l’Union posées par le juge national dans le cadre réglementaire et factuel qu’il définit sous sa responsabilité, et dont il n’appartient pas à la Cour de vérifier l’exactitude, bénéficient d’une présomption de pertinence. Le refus de la Cour de statuer sur une demande formée par une juridiction nationale n’est possible que s’il apparaît de manière manifeste que l’interprétation sollicitée du droit de l’Union n’a aucun rapport avec la réalité ou l’objet du litige au principal, lorsque le problème est de nature hypothétique ou encore lorsque la Cour ne dispose pas des éléments de fait et de droit nécessaires pour répondre de façon utile aux questions qui lui sont posées (arrêt du 30 janvier 2020, I.G.I., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2020%3A56&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑394/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2020%3A56&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2020:56</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2020%3A56&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point56" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">56</a> et jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">En l’occurrence, ainsi que le relève expressément le gouvernement du Royaume‑Uni lui‑même, les dispositions du droit national en cause au principal constituent précisément des mesures de transposition de la directive 2011/96.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Par ailleurs, ainsi qu’il ressort de la décision de renvoi, en vue de résoudre le litige au principal, la juridiction de renvoi doit établir si PGB Limited – Gibraltar, en tant que société constituée à Gibraltar, relève du champ d’application de la directive 2011/96, pour justifier l’exonération de GVC, en tant que sa filiale, de l’impôt retenu à la source en Bulgarie, conformément à l’article 5 de cette directive.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Dans ces conditions, il ne saurait aucunement être considéré que l’interprétation de la directive 2011/96 sollicitée par la juridiction de renvoi en l’occurrence soit sans rapport avec la réalité ou l’objet du litige au principal ou soulève un problème de nature hypothétique, cette interprétation étant nécessaire aux fins de la résolution de ce litige.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Par conséquent, la demande de décision préjudicielle est recevable.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les questions préjudicielles</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">Par ses questions, qu’il convient d’examiner ensemble, la juridiction de renvoi demande, en substance, si l’article 2, sous a), i) et iii), de la directive 2011/96, lu en combinaison avec l’annexe I, partie A, sous ab), et partie B, dernier tiret, de cette directive, doit être interprété en ce sens que les notions de « sociétés constituées conformément au droit du Royaume-Uni » et de « corporation tax au Royaume-Uni », figurant à ces dispositions, visent les sociétés constituées à Gibraltar et qui y sont assujetties à l’impôt sur les sociétés.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">À titre liminaire, il convient de faire observer que la période concernée dans le litige au principal est couverte tant par la directive 90/435, telle que modifié par la directive 2006/98/CE du Conseil, du 20 novembre 2006 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2006:363:TOC" hreflang="fr" onclick="target='CourtTab';">JO 2006, L 363, p. 129</a>) (ci-après la « directive 90/435 »), que par la directive 2011/96, laquelle a abrogé et remplacé cette première directive. Les dispositions pertinentes étant toutefois demeurées inchangées, il suffit, en l’espèce, de répondre aux questions posées au regard des seules dispositions pertinentes de la directive 2011/96.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Dans la mesure où, au cours de la période pertinente pour le litige au principal, Gibraltar constituait un territoire européen dont un État membre, à savoir le Royaume-Uni, assume les relations extérieures, le droit de l’Union s’appliquait, en principe, sur ce territoire en vertu de l’article 355, point 3, TFUE, sous réserve des exclusions expressément prévues par l’acte d’adhésion de 1972 (arrêt du 23 septembre 2003, Commission/Royaume-Uni, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A489&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑30/01</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A489&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:489</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A489&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point47" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">47</a> ; ordonnance du 12 octobre 2017, Fisher, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A762&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑192/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A762&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:762</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A762&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point29" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">29</a>, et arrêt du 23 janvier 2018, Buhagiar e.a., <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A26&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑267/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A26&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:26</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A26&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point31" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">31</a> ainsi que jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">S’agissant de la directive 2011/96, il y a lieu de relever qu’elle a été adoptée sur la base de l’article 115 TFUE, qui permet au Conseil d’arrêter des directives pour le rapprochement des dispositions législatives, réglementaires et administratives des États membres ayant une incidence directe sur l’établissement ou le fonctionnement du marché intérieur. Conformément à ses considérants 3 à 6, l’objectif de cette directive est d’exonérer de retenue à la source les dividendes et autres bénéfices distribués par des filiales à leur société mère et d’éliminer la double imposition de ces revenus au niveau de la société mère, afin de faciliter les regroupements de sociétés à l’échelle de l’Union (voir en ce sens, s’agissant de la directive 90/435, arrêt du 19 décembre 2019, Brussels Securities, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2019%3A1132&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑389/18</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A1132&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2019:1132</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A1132&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point35" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">35</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2019%3A1132&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">36</a> ainsi que jurisprudence citée).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Ainsi que M. l’avocat général l’a relevé au point 30 de ses conclusions, il est constant que la directive 2011/96 ne relève d’aucune des exclusions prévues aux articles 28 et 29 de l’acte d’adhésion de 1972.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Cela étant, pour savoir si les sociétés mères constituées à Gibraltar et qui y sont assujetties à l’impôt sur les sociétés peuvent prétendre à l’exonération de retenue à la source des bénéfices distribués par leurs filiales établies dans les États membres, prévue à l’article 5 de la directive 2011/96, il y a lieu de tenir compte des dispositions de cette directive qui circonscrivent son champ d’application matériel, à savoir des conditions cumulatives prévues à l’article 2, sous a), de la directive 2011/96, lu en combinaison avec son annexe I, partie A, sous ab), et partie B, dernier tiret.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">À cet égard, il importe de rappeler, en premier lieu, que, comme cela a déjà été constaté au point 29 du présent arrêt, ces dispositions revêtant une portée en substance identique à celles de la directive 90/435, la jurisprudence de la Cour relative à la seconde de ces directives est également applicable à la première de ces directives (ordonnance du 14 juin 2018, GS, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2018%3A437&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑440/17</a>, non publiée, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A437&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2018:437</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2018%3A437&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point30" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">30</a>). Or, la Cour a jugé que la directive 90/435 n’a pas pour objectif d’instaurer un régime commun pour toutes les sociétés des États membres, ni pour tous les types de participations (arrêts du 22 décembre 2008, Les Vergers du Vieux Tauves, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2008%3A758&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑48/07</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A758&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2008:758</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2008%3A758&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point49" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">49</a>, et du 1er octobre 2009, Gaz de France – Berliner Investissement, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2009%3A600&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑247/08</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A600&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2009:600</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A600&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point36" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">36</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Il en découle, ainsi que M. l’avocat général l’a relevé au point 36 de ses conclusions, que, pour des raisons de sécurité juridique, toute possibilité d’étendre le champ d’application de la directive 2011/96 par analogie à d’autres sociétés que celles énumérées à l’annexe I, partie A, de cette directive est exclue, le champ d’application matériel de ladite directive étant défini au moyen d’une liste exhaustive de sociétés.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Il convient de souligner, en second lieu, qu’il ressort du libellé de l’article 2, sous a), de la directive 2011/96, lu en combinaison avec son annexe I, partie A, sous ab), et partie B, dernier tiret, que, s’agissant du Royaume-Uni, la directive 2011/96 s’applique seulement aux « sociétés constituées conformément au droit du Royaume-Uni » et assujetties à la « corporation tax au Royaume-Uni ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Ces dispositions contiennent un renvoi exprès au droit du Royaume-Uni. Elles doivent donc être interprétées conformément au droit national désigné comme applicable (voir, en ce sens, arrêt du 22 novembre 2012, Bank Handlowy et Adamiak, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A739&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑116/11</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A739&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2012:739</a>, point <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A739&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point50" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">50</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Or, il y a lieu de relever que, dans ses observations écrites, le gouvernement du Royaume-Uni a précisé que, en vertu du droit interne de cet État membre, les sociétés constituées conformément à son droit national ne peuvent inclure que des sociétés qui sont considérées comme étant constituées au Royaume-Uni, celles-ci n’incluant pas, en tout état de cause, les sociétés constituées à Gibraltar, ce qui n’a pas été formellement contesté par les autres parties à la procédure devant la Cour.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">Ce gouvernement a par ailleurs précisé, sans qu’une telle précision soit davantage remise en cause, que, selon le droit interne du Royaume‑Uni, l’impôt prélevé à Gibraltar ne constitue pas une « corporation tax au Royaume‑Uni ».</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">Il s’ensuit, au regard du dossier soumis à la Cour, que les sociétés constituées à Gibraltar ne remplissent pas la condition d’applicabilité prévue à l’article 2, sous a), i), de la directive 2011/96, lu en combinaison avec l’annexe I, partie A, sous ab), de cette directive et que le régime des impôts institué par Gibraltar ne remplit pas la condition d’applicabilité prévue à l’article 2, sous a), iii), de ladite directive, lu en combinaison avec son annexe I, partie B, dernier tiret.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Les considérations précédentes sont sans préjudice de l’obligation de respecter, à la date des faits du litige au principal, les articles 49 et 63 TFUE et de vérifier, éventuellement, si l’imposition des bénéfices distribués par une filiale bulgare à sa société mère établie à Gibraltar constitue, au regard du droit d’établissement ou de la libre circulation des capitaux dont jouissent les sociétés constituées à Gibraltar (ordonnance du 12 octobre 2017, Fisher, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A762&amp;locale=fr" hreflang="fr" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑192/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A762&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="fr" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:762</a>, points <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A762&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point26" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">26</a> et <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A762&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point27" hreflang="fr" onclick="target='CourtTab';" type="application/xhtml+xml">27</a>), une restriction et, dans l’affirmative, si une telle restriction est justifiée.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">Eu égard à tout ce qui précède, il convient de répondre aux questions posées que l’article 2, sous a), i) et iii), de la directive 2011/96, lu en combinaison avec l’annexe I, partie A, sous ab), et partie B, dernier tiret, de cette directive, doit être interprété en ce sens que les notions de « sociétés constituées conformément au droit du Royaume-Uni » et de « corporation tax au Royaume-Uni », figurant à ces dispositions, ne visent pas les sociétés constituées à Gibraltar et qui y sont assujetties à l’impôt sur les sociétés.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Sur les dépens</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">Par ces motifs, la Cour (cinquième chambre) dit pour droit :</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">L’article 2, sous a), i) et iii), de la directive 2011/96/UE du Conseil, du 30 novembre 2011, concernant le régime fiscal commun applicable aux sociétés mères et filiales d’États membres différents, lu en combinaison avec l’annexe I, partie A, sous ab), et partie B, dernier tiret, de cette directive, doit être interprété en ce sens que les notions de « sociétés constituées conformément au droit du Royaume-Uni » et de « corporation tax au Royaume-Uni », figurant à ces dispositions, ne visent pas les sociétés constituées à Gibraltar et qui y sont assujetties à l’impôt sur les sociétés.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">Signatures</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0458_FR_01-E0001" id="t-ECR_62018CJ0458_FR_01-E0001">*1</a>
+</span>)	Langue de procédure : le bulgare.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

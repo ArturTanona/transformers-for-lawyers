@@ -1,0 +1,1851 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"></a>JUDGMENT OF THE COURT (First Chamber)</p>
+<p class="sum-title-1">2 July 2015 (<span class="note">
+<a href="#t-ECR_62013CJ0684_EN_01-E0001" id="c-ECR_62013CJ0684_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">‛References for a preliminary ruling — Agriculture — Common agricultural policy — Single payment scheme — Regulation (EC) No 1782/2003 — Article 44(2) — Regulation (EC) No 73/2009 — Article 34(2)(a) — Concept of ‘eligible hectare’ — Areas surrounding runways, taxiways and stopways — Agricultural use — Lawfulness — Recovery of agricultural aid unduly allocated’</p>
+<p class="normal">In Case C‑684/13,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU, from the Vestre Landsret (Denmark), made by decision of 16 December 2013, received at the Court on 23 December 2013, in the proceedings</p>
+<p class="normal">
+<span class="bold">Johannes Demmer</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Fødevareministeriets Klagecenter,</span>
+</p>
+<p class="normal">THE COURT (First Chamber),</p>
+<p class="normal">composed of A. Tizzano, President of the Chamber, S. Rodin, A. Borg Barthet (Rapporteur), E. Levits and M. Berger, Judges,</p>
+<p class="normal">Advocate General: N. Wahl,</p>
+<p class="normal">Registrar: A. Calot Escobar,</p>
+<p class="normal">having regard to the written procedure,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">Mr Demmer, by G. Lund, advokat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">the Danish Government, by C. Thorning, acting as Agent, assisted by R. Holdgaard, advokat,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">the Greek Government, by I. Chalkias and O. Tsirkinidou, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">the Polish Government, by B. Majczyna, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by H. Kranenborg and L. Grønfeldt, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 26 February 2015,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 44(2) of Council Regulation (EC) No 1782/2003 of 29 September 2003 establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers and amending Regulations (EEC) No 2019/93, (EC) No 1452/2001, (EC) No 1453/2001, (EC) No 1454/2001, (EC) 1868/94, (EC) No 1251/1999, (EC) No 1254/1999, (EC) No 1673/2000, (EEC) No 2358/71 and (EC) No 2529/2001 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2003:270:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2003 L 270, p. 1</a>, corrigendum <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:094:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 L 94, p. 70</a>), Articles 34(2)(a) and 137 of Council Regulation (EC) No 73/2009 of 19 January 2009 establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers, amending Regulations (EC) No 1290/2005, (EC) No 247/2006, (EC) No 378/2007 and repealing Regulation No 1782/2003 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:030:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2009 L 30, p. 16</a>, corrigendum <a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2010:043:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2010, L 43, p. 7</a>), and also Article 73(4) and (5) of Commission Regulation No 796/2004 of 21 April 2004 laying down detailed rules for the implementation of cross-compliance, modulation and the integrated administration and control system provided for in Regulation No 1782/2003 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:141:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 L 141, p. 18</a>), as amended by Commission Regulation (EC) No 2184/2005 of 23 December 2005 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2005:347:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2005 L 347, p. 61</a>) (‘Regulation No 796/2004’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Mr Demmer and the Fødevareministeriets Klagecenter (Complaints Centre of the Ministry of Food, Agriculture and Fisheries) (‘the Klagecenter’), concerning the eligibility for aid, under the single payment scheme, of areas used for the production of feed pellets and situated around the runways, taxiways and stopways of Skrydstrup Air Base (Denmark) and Aalborg Airport (Denmark).</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">Union law</span>
+</p>
+<p class="title-grseq-4">Regulation No 1782/2003</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">Recital 21 in the preamble to Regulation No 1782/2003 stated:</p>
+<p class="normal">‘The support schemes under the common agricultural policy provide for direct income support in particular with a view to ensuring a fair standard of living for the agricultural community. That objective is closely related to the maintenance of rural areas. …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1 of that regulation provides:</p>
+<p class="normal">‘This Regulation establishes:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">an income support for farmers (hereinafter referred to as the “single payment scheme”);</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 2(b) and (c) of that regulation:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(b)</p>
+</td>
+<td valign="top">
+<p class="normal">“holding” means all the production units managed by a farmer situated within the territory of the same Member State;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">“agricultural activity” means the production, rearing or growing of agricultural products including harvesting, milking, breeding animals and keeping animals for farming purposes, or maintaining the land in good agricultural and environmental condition as established under Article 5’.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">The first subparagraph of Article 43(1) of that regulation provided:</p>
+<p class="normal">‘Without prejudice to Article 48, a farmer shall receive a payment entitlement per hectare which is calculated by dividing the reference amount by the three-year average number of all hectares which in the reference period gave right to direct payments listed in Annex VI.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">Paragraphs 44(1) and (2) of Regulation No 1782/2003 provided as follows:</p>
+<p class="normal">‘1.   Any payment entitlement accompanied by an eligible hectare shall give right to the payment of the amount fixed by the payment entitlement.</p>
+<p class="normal">2.   “Eligible hectare” shall mean any agricultural area of the holding taken up by arable land and permanent pasture except areas under permanent crops, forests or used for non-agricultural activities.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-4">Regulation No 73/2009</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Regulation (EU) No 73/2009 repealed and replaced Regulation No 1782/2003 as from 1 January 2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Recital 49 in the preamble to Regulation No 73/2009 stated:</p>
+<p class="normal">‘In the initial allocation of payment entitlements by Member States, some errors led to particularly high payments to farmers. This non-compliance is normally the subject of financial correction until such time as corrective measures are taken. However, taking into account the time that has elapsed since the payment entitlements were first allocated, the necessary correction would lead to disproportionate legal and administrative constraints for Member States. In the interest of legal certainty, the allocation of such payments should therefore be regularised.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 2 of that regulation set out the following definitions:</p>
+<p class="normal">‘…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">“holding” means all the production units managed by a farmer situated within the territory of the same Member State;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">“agricultural activity” means the production, rearing or growing of agricultural products including harvesting, milking, breeding animals and keeping animals for farming purposes, or maintaining the land in good agricultural and environmental condition as established in Article 6;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(h)</p>
+</td>
+<td valign="top">
+<p class="normal">“agricultural area” means any area taken up by arable land, permanent pasture or permanent crops.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Article 34 of that regulation provided:</p>
+<p class="normal">‘1.   Support under the single payment scheme shall be granted to farmers upon activation of a payment entitlement per eligible hectare. Activated payment entitlements shall give a right to the payment of the amounts fixed therein.</p>
+<p class="normal">2.   For the purposes of this Title, “eligible hectare” shall mean:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">any agricultural area of the holding, and any area planted with short rotation coppice (CN code ex 0602 90 41) that is used for an agricultural activity or, where the area is used as well for non-agricultural activities, predominantly used for agricultural activities; …</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">The Commission, in accordance with the procedure referred to in Article 141(2), shall lay down detailed rules on the use of eligible hectares for non-agricultural activities.</p>
+<p class="normal">Except in the case of force majeure or exceptional circumstances, hectares shall comply with the eligibility condition throughout the calendar year.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">Article 137 of Regulation No 73/2009 provides:</p>
+<p class="normal">‘1.   Payment entitlements allocated to farmers before 1 January 2009 shall be deemed legal and regular as from 1 January 2010.</p>
+<p class="normal">2.   Paragraph 1 shall not apply to payment entitlements allocated to farmers on the basis of factually incorrect applications except in cases where the error could not reasonably have been detected by the farmer.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-4">Regulation (EC) No 795/2004</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 2(a) of Commission Regulation (EC) No 795/2004 of 21 April 2004 laying down detailed rules for the implementation of the single payment scheme provided for in Regulation No 1782/2003 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2004:141:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2004 L 141, p. 1</a>), ‘agricultural area’ meant ‘the total area taken up by arable land, permanent pasture and permanent crops’.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-4">Regulation (EC) No 370/2009</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">Recital 3 in the preamble to Commission Regulation (EC) No 370/2009 of 6 May 2009, amending Regulation (EC) No 795/2004 (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:2009:114:TOC" hreflang="en" onclick="target='CourtTab';">OJ 2009 L 114, p. 3</a>), states:</p>
+<p class="normal">‘The provisions on eligibility as set out in Article 3b of Regulation … No 795/2004 are obsolete and should therefore be removed. However, Article 34(2)(a) of Regulation … No 73/2009 includes the use of eligible hectares for non-agricultural activities. A framework of criteria should be set for all Member States.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">Article 1(3) of Regulation No 370/2009 added an Article 3c to Regulation No 795/2004, worded as follows:</p>
+<p class="normal">‘For the purposes of the application of Article 34(2)(a) of Regulation … No 73/2009, where an agricultural area of a holding is used as well for non-agricultural activities that area shall be considered as being used predominantly for agricultural activities, if the agricultural activity can be exercised without being significantly hampered by the intensity, nature, duration and timing of the non-agricultural activity.</p>
+<p class="normal">Member States shall establish criteria for the implementation of the first subparagraph on their territory.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">Regulation No 370/2009 applied as from 1 January 2009, as provided for in Article 2 thereof.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-4">Regulation No 796/2004</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">Under Article 2 of Regulation No 796/2004:</p>
+<p class="normal">‘For the purpose of this Directive:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">“Arable land” shall mean land cultivated for crop production and land under set-aside, or maintained in good agricultural and environmental condition …;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">“Permanent pasture” shall mean land used to grow grasses or other herbaceous forage naturally (self-seeded) or through cultivation (sown) and that is not included in the crop rotation of the holding for five years or longer;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">Article 12 of that regulation provided:</p>
+<p class="normal">‘1.   The single application shall contain all information necessary to establish eligibility for the aid, in particular:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">particulars permitting identification of all agricultural parcels on the holding, their area expressed in hectares to two decimal places, their location and, where applicable, their use and whether the agricultural parcel is irrigated;</p>
+</td>
+</tr>
+</table>
+<p class="normal">...</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(f)</p>
+</td>
+<td valign="top">
+<p class="normal">a statement by the farmer that he is aware of the conditions pertaining to the aid in question</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<p class="normal">4.   When submitting the application form, the farmer shall correct the pre-printed form referred to in paragraphs 2 and 3 if any amendments, in particular transfers of payment entitlements in accordance with Article 46 of Regulation … No 1782/2003, have occurred or if any of the information contained in the pre-printed forms is incorrect.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">Article 24 of Regulation No 796/2004 stated:</p>
+<p class="normal">‘1.   The administrative checks referred to in Article 23 of Regulation … No 1782/2003 shall permit the detection of irregularities, in particular the automated detection using computerised means, including cross-checks:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">between the agricultural parcels as declared in the single application and the reference parcels as contained in the identification system for agricultural parcels to verify the eligibility for aid of the areas as such;</p>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">Article 73 of that regulation stated:</p>
+<p class="normal">‘1.   If undue payment is made, the farmer shall repay the amount in question plus interest calculated in accordance with paragraph 3.</p>
+<p class="normal">…</p>
+<p class="normal">4.   The repayment obligation referred to in paragraph 1 shall not apply if the payment was made by error of the competent authority or of another authority and if the error could not reasonably have been detected by the farmer.</p>
+<p class="normal">However, where the error relates to factual elements relevant for the calculation of the payment concerned, the first subparagraph shall only apply if the decision to recover was not communicated within 12 months of the payment.</p>
+<p class="normal">5.   The repayment obligation referred to in paragraph 1 shall not apply if the period which elapsed between the date of the payment of the aid and that of the first notification to the beneficiary by the competent authority concerning the undue nature of the payment concerned is more than ten years.</p>
+<p class="normal">However, the period referred to in the first subparagraph shall be limited to four years if the beneficiary acted in good faith.</p>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">Article 73a of Regulation No 796/2004 provided:</p>
+<p class="normal">‘1.   Where, after payment entitlements have been allocated to farmers in accordance with Regulation … No 795/2004, it is established that certain payment entitlements have been allocated unduly, the farmer concerned shall give up the unduly allocated entitlements to the national reserve referred to in Article 42 of Regulation … No 1782/2003.</p>
+<p class="normal">…</p>
+<p class="normal">The entitlements allocated unduly shall be deemed not to have been allocated ab initio.</p>
+<p class="normal">…</p>
+<p class="normal">4.   Undue amounts paid shall be recovered in accordance with Article 73.’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">Danish law</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">It is apparent from the order for reference that in Denmark the requirements relating to airfield safety areas are laid down by the Trafikstyrelsen (Danish Transport Authority) through the ‘Civil Aviation Rules’ (Bestemmelser for Civil Luftfart, ‘BL’).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">An airfield safety area (strip) is defined therein as an area where the aim is to reduce the risk of damage to taxiing aircraft should an aircraft veer off the runway, and to protect aircraft flying in that area on take-off and landing.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">According to the referring court, the rules concerning the cultivation of safety areas is governed by the rules on civil aviation found in BL 3-16 of 31 January 2005 on measures to reduce the risk of collision between aircraft and birds or mammals at airfields, which provide inter alia:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘5.2.2.</p>
+</td>
+<td valign="top">
+<p class="normal">Parcels of land without hard surfacing, situated within the territory of the airfield up to the runway(s) and out to a distance of up to 150 m from the airfield boundaries:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">The land shall be laid to grass …</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">5.2.3.</p>
+</td>
+<td valign="top">
+<p class="normal">Parcels of land without hard surfacing, situated within the territory of the airfield at a distance of between 150 m and 300 m from the boundaries of the runway(s):</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">The land shall be laid to grass, except where the natural vegetation, for example in the form of heather, helps sufficiently to render the land unattractive for birds/mammals.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">The land may be used for the cultivation of crops only after consultation with the adviser. The cultivation of all-year seed is not permitted. …</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">5.2.4.</p>
+</td>
+<td valign="top">
+<p class="normal">Parcels of land without hard-surfacing, situated within the territory of the airfield at a distance of over 300 m from the boundaries of the runway(s), may be used for agriculture only after consultation with the adviser.</p>
+</td>
+</tr>
+</table>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">6.4.1.</p>
+</td>
+<td valign="top">
+<p class="normal">In connection with the cultivation of the land, the following rules shall apply:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">The grass must permanently be maintained at a height of at most 20 cm on the runway(s) and taxiway(s) without gravel or hard surfacing …</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">Outside the areas referred to in point (a) but within the areas covered by Paragraph 5.2.2, efforts must permanently be made to keep the grass at a height no lower than 20 cm and no higher than 40 cm …</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="normal">…’</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">On 21 December 1999 and 10 May 2000, Mr Demmer entered into agreements with Aalborg Airport (Aalborg Lufthavn) and Skrydstrup Air Base (Flyvestation Skrydstrup), respectively, for the lease of areas situated within the enclosures of the airport and the air base.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Under those agreements and subject to their terms, Mr Demmer, as lessee, obtained the right to cut and use the grass from the areas in question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">Under the lease agreement between Mr Demmer and Aalborg Airport, Mr Demmer was to inform the lessor when access to the leased land was sought. The same paragraph also granted the Danish Armed Forces unlimited rights to use, or to let others use, the leased land to hold military exercises of any kind.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">That agreement further provided that fertilisation was to commence no earlier than April and that it had to be possible to stop any spreading immediately where continued spreading was considered to pose a risk to flight safety.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">The lessee was further required to mow the grass before it became so high that it would, in the judgment of the local military authority, significantly impede military exercises.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, that agreement stipulated that, as from 1 January 2005, the lessee was required to use the land so as to establish a right to allocation of payment entitlements.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">The agreement concluded with Skrydstrup Air Base stipulated that grass maintenance was to include the spreading of fertiliser and the mowing and rolling of the grass.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">Mr Demmer was required inter alia to mow to a height of 15 centimetres along the runways and taxiways using implements which allow mowing as close as possible to the fittings. Mowing was to be carried out as required, at the request of the Air Traffic Control Service and, at the time of the final mowing in October/November, the grass was to be cut completely.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Regarding areas around the runway land, mowing was to be done as required, the first time in the period from 1 May to 15 July, with possible additional mowing as requested by the Air Traffic Control Service.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">A request from the lessor for mowing of the runway and runway land was to be made with five working days’ notice. The grass mowing was to commence on the requested date and thereafter continue until completion of the work, with the cut grass to be removed immediately after mowing.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, rolling, which was to take place every spring and otherwise at the request of the Air Traffic Control Service, was to be carried out 30 metres each side of the main and parallel runways.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">Mr Demmer was permitted to spread fertiliser as necessary with a view to using the cut grass, but not earlier than the end of March. The use of pesticides on the leased land was not permitted, however.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, Mr Demmer had to carry out the work having regard to flight operations and in accordance with the instructions and prohibitions as issued by the Air Traffic Control Service or the Management of Skrydstrup Air Base.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">On 25 April 2005, Mr Demmer applied for allocation of payment entitlements under the single payment scheme in respect of parcels of land at Skrydstrup Air Base totalling 232.65 hectares, and at Aalborg Airport, totalling 317 hectares.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">By a decision of 29 May 2006, the Direktoratet for FødevareErhverv (the Danish Food Industry Agency) allocated Mr Demmer payment entitlements on the basis of the land declared in that application and the corresponding amount of aid was paid to him in respect of the year 2005.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">In the meantime, Mr Demmer had, on 1 February 2006, transferred the payment entitlements relating to the airport land at Aalborg Airport to the Armed Forces.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">During the period corresponding to the years 2006 to 2009, Mr Demmer continued to receive aid under the single payment scheme for the land at Skrydstrup Air Base.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">By letter of 24 November 2008 Mr Demmer was informed that the audit of the production block register had resulted in some of the production blocks in which he had declared land under the single payment scheme being reduced or removed from the production block register, which would equate to a reduction of 166.48 hectares for Aalborg Airport and 218.03 hectares for Skrydstrup Air Base, on the ground that safety areas at airports could not be regarded as agricultural areas eligible for the aid in question. At the same time Mr Demmer was notified that the applications for previous years would be reconsidered and the allocated payment entitlements would be recalculated.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">By a decision of 2 May 2011, Mr Demmer’s payment entitlements were reduced and he was ordered to reimburse the aid unduly paid to him. In a separate decision of the same date the land declared by Mr Demmer in his application for 2010 was reduced from 319.43 hectares to 96.11 hectares.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">Mr Demmer challenged those two decisions before the Klagecenter, which upheld them by decisions of 15 May and 12 June 2012.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">On 13 November 2012, Mr Demmer brought an action challenging those two decisions.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">Since it considers that the outcome of the main proceedings turns on an interpretation of EU law, the Vestre Landsret (Western Regional Court of Appeal) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘1.</p>
+</td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">Must the requirement that an agricultural area not be used for “non-agricultural activities” within the meaning of Article 44(2) of Regulation No 1782/2003 and the requirement that an agricultural area be used for “an agricultural activity or … predominantly used for agricultural activities” within the meaning of Article 34(2)(a) of Regulation No 73/2009 be interpreted as meaning that it is a condition for aid that the primary purpose of an area’s use be agricultural?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">If so, the Court is requested to specify what parameters must be taken into account in deciding what purpose of use is the “primary” use where an area is used for several different purposes at the same time?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">If so, the Court is further requested to state whether, where applicable, that means that safety areas surrounding runways, taxiways and stopways at airfields, which are part of the airfield and are subject to special rules and restrictions, such as those at issue, relating to the use of the land, but at the same time are also used to harvest grass for the production of feed pellets, are by their nature and use eligible for aid under the above provisions?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">2.</p>
+</td>
+<td valign="top">
+<p class="normal">Must the requirement that the agricultural land form part of the farmer’s “holding” within the meaning of Article 44(2) of Regulation No 1782/2003 and Article 34(2)(a) of Regulation No 73/2009 be interpreted as meaning that safety areas surrounding runways, taxiways and stopways at airports, which are part of the airfield and are subject to special rules and restrictions, such as those at issue, relating to the use of the land, but at the same time are also used to harvest grass for the production of feed pellets, are eligible for aid under the above provisions?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">3.</p>
+</td>
+<td valign="top">
+<p class="normal">If the answer to Question 1(c) and/or Question 2 is in the negative, will there then be, because the parcels of land in addition to being used to cultivate permanent pasture for the production of feed pellets are also safety areas surrounding runways, taxiways and stopways:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">an error which could reasonably have been detected by the farmer for the purposes of Article 137 of Regulation No 73/2009 where payment entitlements for the areas are nevertheless allocated;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">an error which could reasonably have been detected by the farmer for the purposes of Article 73(4) of [Regulation No 796/2004], where aid for the areas is nevertheless paid;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">an undue payment in relation to which the beneficiary cannot be regarded as having acted in good faith for the purposes of Article 73(5) of [Regulation No 796/2004], where aid for the areas is nevertheless paid?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">4.</p>
+</td>
+<td valign="top">
+<p class="normal">What time is material in assessing whether:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">there is an error which could reasonably have been detected by the farmer for the purposes of Article 137 of Regulation No 73/2009;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">there is an error which could reasonably have been detected by the farmer for the purposes of Article 73(4) of [Regulation No 796/2004];</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">the beneficiary can be regarded as having acted in good faith for the purposes of Article 73(5) of [Regulation No 796/2004]?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">5.</p>
+</td>
+<td valign="top">
+<p class="normal">Must the assessment referred to in Question 4(a) to (c) be carried out in respect of each individual aid year or for the payments as a whole?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">The questions referred for a preliminary ruling</span>
+</p>
+<p class="title-grseq-3">
+<span class="italic">The first and second questions</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">By its first and second questions, which should be considered together, the referring court asks, in essence, whether areas surrounding runways, taxiways and stopways at airports may be regarded as ‘eligible hectare[s]’ within the meaning of Article 44(2) of Regulation No 1782/2003 and Article 34(2)(a) of Regulation No 73/2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">It should be borne in mind, as a preliminary point, that under Article 44(2) of Regulation No 1782/2003, ‘eligible hectare’ is to mean any agricultural area of the holding taken up by arable land and permanent pasture except areas under permanent crops, forests or used for non-agricultural activities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">Regulation No 1782/2003 was replaced by Regulation No 73/2009 with effect from 1 January 2009. Under Article 34(2)(a) of Regulation No 73/2009, any agricultural area of the holding that is used for an agricultural activity — or, where the area is used also for non-agricultural activities, predominantly used for agricultural activities — is to be regarded as an eligible hectare.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">Given the period that is relevant for the facts in the main proceedings, namely 2005 to 2009, both regulations are applicable <span class="italic">ratione temporis</span>. It should be remembered, however, that there is a discrepancy between the wording of Article 44(2) of Regulation No 1782/2003 and that of Article 34(2)(a) of Regulation No 73/2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">Whilst it is clear from the wording of Article 34(2)(a) of Regulation No 73/2009 that an agricultural area used for non-agricultural activities comes within the definition of ‘eligible hectare’ if it is predominantly used for agricultural activities, that is not the case under Article 44(2) of Regulation No 1782/2003.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">However, given that it is not unusual for an agricultural area to be used for both agricultural and non-agricultural activities and there is nothing in the <span class="italic">travaux préparatoires</span> for Regulation No 73/2009 to indicate an intention on the part of the legislature to alter the definition of ‘eligible area’ as defined in Regulation No 1782/2003, Article 34(2)(a) of Regulation No 73/2009, read in the light of Article 3c of Regulation No 795/2004, must be read as being the result of the Union legislature’s objective of clarifying the concept.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point53">53</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the first and second questions must be considered in the light of the concept of ‘eligible hectare’ as defined in Article 34(2)(a) of Regulation No 73/2009 for the entire 2005-2009 period.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point54">54</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, in order to be eligible for the aid in question, the area at issue in the main proceedings must be an agricultural area, be part of a farmer’s holding and be used for agricultural activities or, where the area is used as well for non-agricultural activities, predominantly used for agricultural activities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point55">55</p>
+</td>
+<td valign="top">
+<p class="normal">As regards, first of all, the concept of ‘agricultural area’, it is defined in Article 2(h) of Regulation No 73/2009 as ‘any area taken up by arable land, permanent pasture or permanent crops’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point56">56</p>
+</td>
+<td valign="top">
+<p class="normal">In the dispute in the main proceedings, it is common ground that the areas in question were used by Mr Demmer with a view to harvesting grass for the production of feed pellets. It should be clarified in that regard that, as they were being used as ‘permanent pasture’ within the meaning of Article 2(2) of Regulation No 796/2004, which it is for the referring court to ascertain, those areas must be categorised as ‘agricultural’. Classification as ‘permanent pasture’ within the meaning of that provision and, consequently, as an ‘agricultural area’ depends on the actual use of the land in question (see, to that effect, judgment in <span class="italic">Landkreis Bad Dürkheim</span>, C‑61/09, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A606&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:606</a>, paragraph 37).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point57">57</p>
+</td>
+<td valign="top">
+<p class="normal">It follows that the fact that the mowing of grass near runways and stopways also pursues objectives relating to air traffic safety is irrelevant in that regard, as is the fact that, under the applicable rules, the areas in dispute in themselves are intended to ensure aircraft safety during take-off and landing operations.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point58">58</p>
+</td>
+<td valign="top">
+<p class="normal">Secondly, in order to be ‘eligible’ within the meaning of Article 44(2) of Regulation No 1782/2003 and Article 34(2)(a) of Regulation No 73/2009, the agricultural area at issue in the main proceedings must be part of the holding of the farmer concerned. The Court has held in that regard that that is the case where the farmer has the power to manage that holding for the purposes of an agricultural activity, that is to say, where the farmer enjoys a degree of autonomy with regard to that area sufficient for the carrying-out of his or her agricultural activity (judgment in <span class="italic">Landkreis Bad Dürkheim</span>, C‑61/09, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A606&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:606</a>, paragraphs 58 and 62).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point59">59</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, the rules and restrictions applicable to the use of the safety areas surrounding runways, taxiways and stopways arise as much from national and international provisions aimed at ensuring air traffic safety as from contractual clauses under which the areas at issue in the main proceedings were made available to Mr Demmer. Those provisions and clauses, which cover inter alia the manner in which those areas are to be maintained, what may be cultivated on them and the maximum height for grass, undeniably impose considerable restrictions on Mr Demmer in his use of those areas.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point60">60</p>
+</td>
+<td valign="top">
+<p class="normal">Nevertheless, as long as those restrictions do not hamper Mr Demmer from pursuing his agricultural activities on the areas used, which it is for the referring court to assess, there are no grounds for considering that those areas do not form part of his holding.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point61">61</p>
+</td>
+<td valign="top">
+<p class="normal">In the circumstances of the dispute in the main proceedings, it must again be remembered that, although the concept of management does not imply that the farmer has unlimited power over the area in question when using it for agricultural purposes, he is nevertheless not fully subject to the instructions of the lessor (see, to that effect, judgment in <span class="italic">Landkreis Bad Dürkheim</span>, C‑61/09, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A606&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:606</a>, paragraphs 61 and 63).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point62">62</p>
+</td>
+<td valign="top">
+<p class="normal">Thus, the farmer must, inter alia, have a certain amount of discretion in the conduct of his agricultural activities on the areas in question and not only follow the lessor’s instructions in that regard, which it is also for the referring court to assess, having regard to the overall circumstances of the dispute in the main proceedings.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point63">63</p>
+</td>
+<td valign="top">
+<p class="normal">Thirdly, it follows from paragraph 54 of this judgment that, in order to be eligible for aid under Article 44(2) of Regulation No 1782/2003 and Article 34(2)(a) of Regulation No 73/2009, the agricultural areas at issue in the main proceedings must be used for used for agricultural activities or, where they are used as well for non-agricultural activities, predominantly used for agricultural activities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point64">64</p>
+</td>
+<td valign="top">
+<p class="normal">In the main proceedings, it is common ground that Mr Demmer’s activities on the areas in question, namely the harvesting of grass for the production of feed pellets, constitutes an agricultural activity within the meaning of Article 2(c) of Regulation No 1782/2003 and Article 2(c) of Regulation No 73/2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point65">65</p>
+</td>
+<td valign="top">
+<p class="normal">It is, moreover, irrelevant for the purposes of Article 44(2) of Regulation No 1782/2003 and Article 34(2)(a) of Regulation No 73/2009 that the pursuit of such an activity fulfils legal requirements aimed at ensuring air traffic safety in the airport area concerned (see, to that effect, judgment in <span class="italic">Landkreis Bad Dürkheim</span>, C‑61/09, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A606&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2010:606</a>, paragraph 47).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point66">66</p>
+</td>
+<td valign="top">
+<p class="normal">The order for reference states that Mr Demmer accepted to use the areas at issue in the main proceedings, situated within the enclosure of the Skrydstrup Air Base, taking due account of flight operations and that, under the lease agreement concluded with Aalborg Airport, the Danish Armed Forces had the right to use the areas in question, situated within the enclosure of that airport, for military exercises of any kind.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point67">67</p>
+</td>
+<td valign="top">
+<p class="normal">However, as pointed out by the Advocate General in point 41 of his Opinion, neither the fact that those clauses above exist nor the fact that the areas in question surround runways, taxiways and stopways of an airfield can be regarded as evidence of a non-agricultural activity on those areas.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point68">68</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, it is for the referring court to ascertain whether non-agricultural activities, such as military exercises or flight operations, have actually taken place on those areas.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point69">69</p>
+</td>
+<td valign="top">
+<p class="normal">Should the referring court conclude that the areas at issue in the main proceedings have been used both for agricultural activities and non-agricultural activities, it must be borne in mind that, under Article 3c of Regulation No 795/2004, those areas will fall to be considered as having been used predominantly for agricultural activities for the purposes of Article 34(2)(a) of Regulation No 73/2009 if the agricultural activity in question can be exercised without being significantly hampered by the intensity, nature, duration or timing of the non-agricultural activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point70">70</p>
+</td>
+<td valign="top">
+<p class="normal">In that assessment, account must be taken of the overall set of facts linked to the various uses to which the areas at issue in the main proceedings have been put. As observed by the Advocate General in point 52 of his Opinion, the agricultural activity in question can be regarded as having been significantly hampered on the areas in question when the farmer meets with actual — and not inconsequential — difficulties or obstacles due to the simultaneous pursuit of another type of activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point71">71</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, under Article 3c of Regulation No 795/2004, the farmer must be able to carry out his or her agricultural activity on the areas concerned despite restrictions arising from the pursuance of non-agricultural activities on those same areas.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point72">72</p>
+</td>
+<td valign="top">
+<p class="normal">It is, therefore, for the referring court to determine whether the agricultural activity exercised by Mr Demmer can be exercised without being significantly hampered by the intensity, nature, duration or timing of the non-agricultural activity.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point73">73</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answer to the first and second questions is that Article 44(2) of Regulation No 1782/2003 and Article 34(2)(a) of Regulation No 73/2009 must be interpreted as meaning that an agricultural area made up of airfield safety areas surrounding runways, taxiways and stopways which are subject to specific rules and restrictions is an area eligible for the aid concerned, provided that: (i) the farmer using that area enjoys a sufficient degree of autonomy with regard to its use for the purposes of his or her agricultural activity; and (ii) the farmer is able to carry out the agricultural activity on that area despite restrictions arising from the pursuance of a non-agricultural activity on those same areas.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-3">
+<span class="italic">The third, fourth and fifth questions</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point74">74</p>
+</td>
+<td valign="top">
+<p class="normal">By its third, fourth and fifth questions, which should be considered together, the referring court, should it conclude that the areas at issue in the main proceedings are not eligible for aid on the ground that the farmer has no discretion in the use of the areas for the purposes of his or her agricultural activity and/or is unable to carry out his or her agricultural activity on those areas due to the restrictions arising from the pursuance of non-agricultural activity on those same areas, asks, in essence, whether the farmer concerned ought reasonably to have detected the erroneous allocation of payment entitlements and payment of aid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point75">75</p>
+</td>
+<td valign="top">
+<p class="normal">It must be borne in mind as a preliminary observation that, under Article 43 of Regulation No 1782/2003, payment entitlements allocated to farmers have, as a rule, been determined on the basis of the three-year average number of all hectares which in the 2000-2002 period gave right to direct payments listed in Annex VI to that regulation. Therefore, the fact that the areas which gave rise to a right to such direct payments are not eligible hectares under the single payment scheme does not in itself give grounds to call into question the payment entitlements allocated under Article 43.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point76">76</p>
+</td>
+<td valign="top">
+<p class="normal">Should the referring court nevertheless reach the conclusion that the payment entitlements at issue in the main proceedings were allocated unduly to Mr Demmer, it must be remembered that although Article 73a of Regulation No 796/2004 provides that such entitlements must be given up to the national reserve, Article 137(1) of Regulation No 73/2009 nevertheless provides that payment entitlements unduly allocated before 1 January 2009 are to be deemed legal and regular as from 1 January 2010. Article 137(2) of that regulation provides that Article 137(1) is not to apply to payment entitlements allocated on the basis of factually incorrect applications except in cases where the error could not reasonably have been detected by the farmer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point77">77</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it is apparent from the order for reference that, already in November 2008 the competent authority informed Mr Demmer that the areas at issue in the main proceedings could not be considered eligible for aid. On that same occasion, Mr Demmer was also informed of the competent authority’s intention to recalculate the payment entitlements initially allocated to him.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point78">78</p>
+</td>
+<td valign="top">
+<p class="normal">Furthermore, as observed by the Advocate General in point 70 of his Opinion, the rationale for Article 137 of Regulation No 73/2009 is the principle of the protection of legitimate expectations. It follows that Mr Demmer, having been informed before 1 January 2010 that the payment entitlements relating to those areas had been allocated to him unduly, in any event cannot rely on that provision in order to have those entitlements regularised.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point79">79</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, under Article 73a(1) of Regulation No 796/2004, Mr Demmer is required to give up to the national reserve those payment entitlements which were allocated to him unduly, which entitlements must be deemed never to have been allocated to him.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point80">80</p>
+</td>
+<td valign="top">
+<p class="normal">Turning, next, to the amounts of aid unduly paid, they must be repaid in accordance with Article 73(1) of Regulation No 796/2004. Under Article 73a(4) of that regulation, the same applies to payments which turn out to be undue for having been made on the basis of entitlements which themselves were allocated unduly to the farmer concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point81">81</p>
+</td>
+<td valign="top">
+<p class="normal">Nevertheless, pursuant to Article 73(4) of that regulation, the farmer is not, as a rule, required to repay aid unduly paid to him if the payment was made by error of the competent authority or of another authority and if the error could not reasonably have been detected by the farmer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point82">82</p>
+</td>
+<td valign="top">
+<p class="normal">As pointed out by the Advocate General in point 70 of his Opinion, that exception is designed to ensure that the principle of the protection of legitimate expectations is respected.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point83">83</p>
+</td>
+<td valign="top">
+<p class="normal">In the present case, it is apparent from the answer to the first and second questions that the error lay in the fact that the competent authority paid Mr Demmer aid corresponding to the areas at issue in the main proceedings, whilst those areas were not eligible for that aid, on the ground that they were not part of his holding and/or they were not predominantly used for agricultural activities.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point84">84</p>
+</td>
+<td valign="top">
+<p class="normal">In order to determine whether such an error could have been detected, it must be remembered that farmers, in their professional capacity, are supposed to exercise particular care in applying for aid and are deemed to be aware of the conditions of its allocation. This is apparent, inter alia, from Article 12 of Regulation No 796/2004, under which it falls on the farmer to check the accuracy of the information on the pre-printed form employed to apply for aid under the single payment scheme. It further transpires from that provision that that payment scheme is founded on the premiss that farmers are aware of the conditions that govern the grant of aid under the schemes in question.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point85">85</p>
+</td>
+<td valign="top">
+<p class="normal">It should be further observed that, as it provides for an exception to the obligation to repay aid unduly paid, Article 73(4) of Regulation No 796/2004 must be interpreted narrowly, especially since such an obligation is aimed at protecting the European Union’s financial interests.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point86">86</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, and despite the difficulties of interpretation which may arise from the relevant provisions of EU law, the conclusion must be that, as a rule, a farmer in Mr Demmer’s situation ought reasonably to have detected that the areas at issue in the main proceedings were not eligible for aid on the ground that they did not form part of his holding and/or were not predominantly used for agricultural activities and therefore did not fulfil the conditions laid down in Article 34(2)(a) du Regulation No 73/2009.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point87">87</p>
+</td>
+<td valign="top">
+<p class="normal">In that assessment, it is nevertheless for the referring court to take account of the overall circumstances of the dispute in the main proceedings including the question whether, prior to the changes to the register of agricultural parcels of land which took place in 2008, there was an administrative practice in Denmark of systematically recognising areas such as those at issue in the main proceedings as eligible for the aid concerned. If so, it must be presumed that Mr Demmer could not have detected the error referred to in paragraph 83 of this judgment (see, to that effect, judgment in <span class="italic">Vonk Noordegraaf</span>, C‑105/13, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A1126&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2014:1126</a>, paragraph 50).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point88">88</p>
+</td>
+<td valign="top">
+<p class="normal">By contrast, the fact that the competent authorities paid out the aid for the areas at issue in the main proceedings does not in itself rule out the possibility of there being such an error which could reasonably have been detected by the farmer concerned. The provisions referred to by the referring court in its questions, in particular Article 73 of Regulation No 796/2004, concern precisely the scenario in which an undue payment has been made, with the result that farmers are supposed to be aware of the risk that corrections may be made, including after the aid has been paid to them.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point89">89</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, in order to assess whether an error behind the payment of the aid could reasonably have been detected by the farmer concerned, the relevant moment, as is clear from the wording of Article 73(4) of Regulation No 796/2004, is the time of the payment.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point90">90</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, since the aid is paid for a single year at a time and since the circumstances relevant for determining whether the areas concerned are eligible for aid may vary over the course of time, the assessment under Article 73(4) of Regulation No 796/2004 must be conducted separately for each of the years concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point91">91</p>
+</td>
+<td valign="top">
+<p class="normal">Lastly, it must be borne in mind that, as provided for in Article 73(5) of Regulation No 796/2004, the obligation to repay unduly paid aid is limited to ten years from the date of the payment of the aid, which is reduced to four years where the farmer has acted in good faith.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point92">92</p>
+</td>
+<td valign="top">
+<p class="normal">It should be observed in that regard that the farmer concerned will be considered to have acted in good faith where he or she was sincerely convinced that the areas concerned were eligible for the aid. However, for the reason set out in paragraph 88 of this judgment, the fact that the competent authorities paid out the aid for those areas does not in itself suffice to establish that farmer’s good faith.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point93">93</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, since the rationale for taking the farmer’s good faith into account is to uphold the principle of the protection of legitimate expectations, that good faith must, in circumstances such as those of the dispute in the main proceedings, exist at the time of making the application for the aid and must continue for four years after the date on which the aid is paid. Consequently, the assessment of the existence of that good faith for the purposes of Article 73(5) of Regulation No 796/2004 must be conducted separately in respect of each of the years concerned and the farmer’s good faith must continue until the end of the fourth year following the date of the payment of the aid.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point94">94</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answers to the third, fourth and fifth questions are:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">Article 137 of Regulation No 73/2009 must be interpreted as meaning that a farmer who was informed prior to 1 January 2010 that payment entitlements were allocated to him or her unduly may not rely on that article for the purpose of having those entitlements regularised.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">Article 73(4) of Regulation No 796/2004 must be interpreted as meaning that a farmer ought reasonably to have detected as ineligible for aid areas in respect of whose use he or she has no discretion for the purpose of carrying out his or her agricultural activity and/or on which he or she is unable to carry out agricultural activity due to restrictions arising from the pursuance of a non-agricultural activity on those same areas. The relevant moment for assessing whether the error committed could reasonably be detected by that farmer is the time of the payment. The assessment under Article 73(4) of Regulation No 796/2004 must be conducted separately in respect of each of the years concerned.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">—</p>
+</td>
+<td valign="top">
+<p class="normal">Article 73(5) of Regulation No 796/2004 must be interpreted as meaning that, in circumstances such as those of the dispute in the main proceedings, a farmer must be regarded as having been in good faith if he or she sincerely believed that the areas concerned were eligible for aid. The assessment of that farmer’s good faith for the purposes of Article 73(5) of Regulation No 796/2004 must be conducted separately in respect of each of the years concerned and that good faith must continue until the end of the fourth year following the date of the payment of the aid.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point95">95</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (First Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">1.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 44(2) of Council Regulation No 1782/2003 (EC) of 29 September 2003 establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers and amending Regulations (EEC) No 2019/93, (EC) No 1452/2001, (EC) No 1453/2001, (EC) No 1454/2001, (EC) 1868/94, (EC) No 1251/1999, (EC) No 1254/1999, (EC) No 1673/2000, (EEC) No 2358/71 and (EC) No 2529/2001, Articles 34(2)(a) of Council Regulation (EC) No 73/2009 of 19 January 2009 establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers, amending Regulations (EC) No 1290/2005, (EC) No 247/2006, (EC) No 378/2007 and repealing Regulation No 1782/2003, must be interpreted as meaning that an agricultural area made up of airfield safety areas surrounding runways, taxiways and stopways which are subject to specific rules and restrictions is an area eligible for the aid concerned, provided that: (i) the farmer using that area enjoys a sufficient degree of autonomy with regard to its use for the purposes of his or her agricultural activity; and (ii) the farmer is able to carry out the agricultural activity on that area despite restrictions arising from the pursuance of a non-agricultural activity on those same areas.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count bold">
+<span class="bold">2.</span>
+</p>
+</td>
+<td valign="top">
+<p class="normal">
+<span class="bold">Article 137 of Regulation No 73/2009 must be interpreted as meaning that a farmer who was informed prior to 1 January 2010 that payment entitlements were allocated to him or her unduly may not rely on that article for the purpose of having those entitlements regularised.</span>
+</p>
+<p class="normal">
+<span class="bold">Article 73(4) of Commission Regulation (EC) No 796/2004 of 21 April 2004 laying down detailed rules for the implementation of cross-compliance, modulation and the integrated administration and control system provided for in Regulation No 1782/2003, as amended by Commission Regulation (EC) No 2184/2005 of 23 December 2005, must be interpreted as meaning that a farmer ought reasonably to have detected as ineligible for aid areas in respect of whose use he or she has no discretion for the purpose of carrying out his or her agricultural activity and/or on which he or she is unable to carry out agricultural activity due to restrictions arising from the pursuance of a non-agricultural activity on those same areas. The relevant moment for assessing whether the error committed could reasonably be detected by that farmer is the time of the payment. The assessment under Article 73(4) of Regulation No 796/2004 must be conducted separately in respect of each of the years concerned.</span>
+</p>
+<p class="normal">
+<span class="bold">Article 73(5) of Regulation No 796/2004, as amended by Regulation No 2184/2005, must be interpreted as meaning that, in circumstances such as those of the dispute in the main proceedings, a farmer must be regarded as having been in good faith if he or she sincerely believed that the areas concerned were eligible for aid. The assessment of that farmer’s good faith for the purposes of Article 73(5) of Regulation No 796/2004 must be conducted separately in respect of each of the years concerned and that good faith must continue until the end of the fourth year following the date of the payment of the aid.</span>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62013CJ0684_EN_01-E0001" id="t-ECR_62013CJ0684_EN_01-E0001">*1</a>
+</span>)	Language of the case: Danish.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>

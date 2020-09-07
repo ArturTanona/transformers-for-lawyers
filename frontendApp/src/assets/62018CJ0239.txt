@@ -1,0 +1,1196 @@
+<div class="panel-body" id="text">
+<div id="textTabContent">
+<div class="tabContent" id="document1">
+<div class="tabContent">
+<div lang="">
+<p class="sum-title-1">
+<a id="judgment"> </a>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+<p class="sum-title-1">17 October 2019 (<span class="note">
+<a href="#t-ECR_62018CJ0239_EN_01-E0001" id="c-ECR_62018CJ0239_EN_01-E0001">*1</a>
+</span>)</p>
+<p class="index">(Reference for a preliminary ruling — Plant variety rights — Regulation (EC) No 2100/94 — Derogation provided for in Article 14 — Regulation (EC) No 1768/95 — Article 11(1) and (2) — Requests for information — Information provided by official bodies — Request for information on the actual use of material of specific species or varieties — Content of the request)</p>
+<p class="normal">In Case C‑239/18,</p>
+<p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Thüringer Oberlandesgericht (Higher Regional Court of Thuringia, Germany), made by decision of 28 March 2018, received at the Court on 3 April 2018, in the proceedings</p>
+<p class="normal">
+<span class="bold">Saatgut-Treuhandverwaltungs GmbH</span>
+</p>
+<p class="pnormal">v</p>
+<p class="normal">
+<span class="bold">Freistaat Thüringen,</span>
+</p>
+<p class="normal">THE COURT (Fifth Chamber),</p>
+<p class="normal">composed of E. Regan, President of the Chamber, I. Jarukaitis, E. Juhász, M. Ilešič (Rapporteur) and C. Lycourgos, Judges,</p>
+<p class="normal">Advocate General: M. Bobek,</p>
+<p class="normal">Registrar: D. Dittert, Head of Unit,</p>
+<p class="normal">having regard to the written procedure and further to the hearing on 31 January 2019,</p>
+<p class="normal">after considering the observations submitted on behalf of:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Saatgut-Treuhandverwaltungs GmbH, by K. von Gierke and F. Moos, Rechtsanwälte,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">Freistaat Thüringen, by J. Liebergeld, S. Ernst, R. Ruppel, S. Bloß and J. Löhr, Rechtsanwälte,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the Spanish Government, by L. Aguilera Ruiz, acting as Agent,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the European Commission, by B. Eggers and G. Koleva, acting as Agents,</p>
+</td>
+</tr>
+</table>
+<p class="normal">after hearing the Opinion of the Advocate General at the sitting on 23 May 2019,</p>
+<p class="normal">gives the following</p>
+<p class="sum-title-1">
+<span class="bold">Judgment</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point1">1</p>
+</td>
+<td valign="top">
+<p class="normal">This request for a preliminary ruling concerns the interpretation of Article 11(1) and (2) of Commission Regulation (EC) No 1768/95 of 24 July 1995 implementing rules on the agricultural exemption provided for in Article 14(3) of Council Regulation (EC) No 2100/94 on Community plant variety rights (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1995:173:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1995 L 173, p. 14</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point2">2</p>
+</td>
+<td valign="top">
+<p class="normal">The request has been made in proceedings between Saatgut-Treuhandverwaltungs GmbH (‘STV’) and Freistaat Thüringen (<span class="italic">Land</span> of Thuringia, Germany) concerning the latter’s refusal to provide STV with information which may be obtained from a database based on information provided by farmers in the context of requests for subsidies paid pursuant to European agricultural funds.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Legal context</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The basic regulation</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point3">3</p>
+</td>
+<td valign="top">
+<p class="normal">The 17th and 18th recitals of Council Regulation (EC) No 2100/94 of 27 July 1994 on Community plant variety rights (<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1994:227:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1994 L 227, p. 1</a>) (‘the basic regulation’) state:</p>
+<p class="normal">‘Whereas the exercise of Community plant variety rights must be subjected to restrictions laid down in provisions adopted in the public interest;</p>
+<p class="normal">Whereas this includes safeguarding agricultural production; whereas that purpose requires an authorisation for farmers to use the product of the harvest for propagation under certain conditions.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point4">4</p>
+</td>
+<td valign="top">
+<p class="normal">Article 5 of that regulation, entitled ‘Object of Community plant variety rights’, provides in its paragraphs 1 and 2:</p>
+<p class="normal">‘1.   Varieties of all botanical genera and species, including, inter alia, hybrids between genera or species, may form the object of Community plant variety rights.</p>
+<p class="normal">2.   For the purpose of this Regulation, “variety” shall be taken to mean a plant grouping within a single botanical taxon of the lowest known rank …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point5">5</p>
+</td>
+<td valign="top">
+<p class="normal">Article 13 of that regulation, entitled ‘Rights of the holder of a Community plant variety right and prohibited acts’, provides in its paragraph 2:</p>
+<p class="normal">‘1.   A Community plant variety right shall have the effect that the holder or holders of the Community plant variety right, hereinafter referred to as “the holder”, shall be entitled to effect the acts set out in paragraph 2.</p>
+<p class="normal">2.   Without prejudice to the provisions of Articles 15 and 16, the following acts in respect of variety constituents, or harvested material of the protected variety … shall require the authorisation of the holder:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">production or reproduction (multiplication);</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">conditioning for the purpose of propagation;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">offering for sale;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(d)</p>
+</td>
+<td valign="top">
+<p class="normal">selling or other marketing;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(e)</p>
+</td>
+<td valign="top">
+<p class="normal">exporting from the [European Union];</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(f)</p>
+</td>
+<td valign="top">
+<p class="normal">importing to the [European Union];</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(g)</p>
+</td>
+<td valign="top">
+<p class="normal">stocking for any of the purposes mentioned in (a) to (f).</p>
+</td>
+</tr>
+</table>
+<p class="normal">The holder may make his authorisation subject to conditions and limitations.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point6">6</p>
+</td>
+<td valign="top">
+<p class="normal">Article 14 of that regulation, entitled ‘Derogation from Community plant variety right’, reads as follows:</p>
+<p class="normal">‘1.   Notwithstanding Article 13(2), and for the purposes of safeguarding agricultural production, farmers are authorised to use for propagating purposes in the field, on their own holding the product of the harvest which they have obtained by planting, on their own holding, propagating material of a variety other than a hybrid or synthetic variety, which is covered by a Community plant variety right.</p>
+<p class="normal">2.   The provisions of paragraph 1 shall only apply to agricultural plant species of:</p>
+<p class="normal">…</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">Cereals:</p>
+<p class="normal">
+<span class="italic">Avena sativa</span> — Oats</p>
+<p class="normal">
+<span class="italic">Hordeum vulgare L</span>. — Barley</p>
+<p class="normal">
+<span class="italic">Oryza sativa L</span>. — Rice</p>
+<p class="normal">
+<span class="italic">Phalaris canariensis L</span>. — Canary grass</p>
+<p class="normal">
+<span class="italic">Secale cereale L</span>. — Rye</p>
+<p class="normal">
+<span class="italic">X Triticosecale Wittm</span>. — Triticale</p>
+<p class="normal">
+<span class="italic">Triticium aestivum L. emend. Fiori et Paol</span>. — Wheat</p>
+<p class="normal">
+<span class="italic">Triticum durum Desf</span>. — Durum wheat</p>
+<p class="normal">
+<span class="italic">Triticum spelta L</span>. — Spelt wheat</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(c)</p>
+</td>
+<td valign="top">
+<p class="normal">Potatoes:</p>
+</td>
+</tr>
+</table>
+<p class="normal">
+<span class="italic">Solanum tuberosum</span> — Potatoes</p>
+<p class="normal">…</p>
+<p class="normal">3.   Conditions to give effect to the derogation provided for in paragraph 1 and to safeguard the legitimate interests of the breeder and of the farmer shall be established, before the entry into force of this Regulation, in implementing rules pursuant to Article 114, on the basis of the following criteria:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">there shall be no quantitative restriction of the level of the farmer’s holding to the extent necessary for the requirements of the holding,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the product of the harvest may be processed for planting, either by the farmer himself or through services supplied to him, …</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">small farmers shall not be required to pay any remuneration to the holder; small farmers shall be considered to be:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">in the case of those of the plant species referred to in paragraph 2 of this Article to which Council Regulation (EEC) No 1765/92 of 30 June 1992 establishing a support system for producers of certain arable crops [<a href="./../../../legal-content/EN/AUTO/?uri=OJ:L:1992:181:TOC" hreflang="en" onclick="target='CourtTab';">OJ 1992 L 181, p. 12</a>] applies, farmers who do not grow plants on an area bigger than the area which would be needed to produce 92 tonnes of cereals; for the calculation of the area, Article 8(2) of the aforesaid Regulation shall apply,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">in the case of other plant species referred to in paragraph 2 of this Article, farmers who meet comparable appropriate criteria,</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">other farmers shall be required to pay an equitable remuneration to the holder, which shall be sensibly lower than the amount charged for the licensed production of propagating material of the same variety in the same area; the actual level of this equitable remuneration may be subject to variation over time, taking into account the extent to which use will be made of the derogation provided for in paragraph 1 in respect of the variety concerned,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">monitoring compliance with the provisions of this Article or the provisions adopted pursuant to this Article shall be a matter of exclusive responsibility of holders; in organising that monitoring, they may not provide for assistance from official bodies,</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">relevant information shall be provided to the holders on their request, by farmers and by suppliers of processing services; relevant information may equally be provided by official bodies involved in the monitoring of agricultural production, if such information has been obtained through ordinary performance of their tasks, without additional burden or costs. These provisions are without prejudice, in respect of personal data, to [EU] and national legislation on the protection of individuals with regard to the processing and free movement of personal data.’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">Regulation No 1768/95</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point7">7</p>
+</td>
+<td valign="top">
+<p class="normal">The first to fifth recitals of Regulation No 1768/95 state:</p>
+<p class="normal">‘Whereas Article 14 of the basic Regulation provides for a derogation from Community plant variety right for the purposes of safeguarding agricultural production …;</p>
+<p class="normal">Whereas the conditions to give effect to this derogation and to safeguard the legitimate interests of the breeder and of the farmer shall be established in implementing rules, on the basis of criteria laid down in Article 14(3) of the basic Regulation;</p>
+<p class="normal">Whereas this Regulation establishes those conditions in specifying, in particular, the obligations of farmers, processors and holders resulting from the aforesaid criteria;</p>
+<p class="normal">Whereas these obligations relate essentially to the payment, by farmers, of an equitable remuneration to the holder for the use made of the derogation, to the supply of information, to the safeguarding of the identity of the product of the harvest entered for processing with that resulting from processing as well as to the monitoring of compliance with the provisions on the derogation;</p>
+<p class="normal">Whereas, also, the definition of “small farmers” who shall not be required to pay a remuneration to the holder for the use made of the derogation is completed in particular in respect of farmers growing certain fodder plants and potatoes.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point8">8</p>
+</td>
+<td valign="top">
+<p class="normal">Article 7 of Regulation No 1768/95 relates specifically to ‘Small farmers’. Paragraph 5 thereof provides:</p>
+<p class="normal">‘A farmer who claims to be a “small farmer” shall, in the case of dispute, provide the proof that the requirements for this category of farmers are met. …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point9">9</p>
+</td>
+<td valign="top">
+<p class="normal">Articles 8 and 9 of Regulation No 1768/95 concern information which must be supplied by farmers and processors. Paragraph 4 of those provisions requires the holder to specify, in his request, his name and address, the variety or varieties in respect of which he is interested in information, as well as the reference or references to the relevant Community plant variety right or rights.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point10">10</p>
+</td>
+<td valign="top">
+<p class="normal">Article 11 of Regulation No 1768/95, entitled ‘Information by official bodies’, provides:</p>
+<p class="normal">‘1.   A request for information on the actual use of material, by planting, of specific species or varieties, or on the results of such use, which a holder addresses to an official body, must be made in writing. In this request, the holder shall specify his name and address, the variety or varieties in respect of which he is interested in information and the type of information he seeks. He also shall provide evidence for his holdership.</p>
+<p class="normal">2.   The official body may, without prejudice to the provisions of Article 12, withhold the requested information only if</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">it is not involved in the monitoring of agricultural production, or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">it is not allowed, under [EU] rules or rules of Member States governing the general discretion applicable in respect of activities of official bodies, to provide such information to holders, or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">it is under its discretion, pursuant to the [EU] legislation or the legislation of Member States under which the information has been collected, to withhold such information, or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the requested information is not or no longer available, or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">such information cannot be obtained through ordinary performance of the tasks of the official body, or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">such information can only be obtained with additional burden or costs, or</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">such information relates specifically to material which does not belong to varieties of the holder.</p>
+</td>
+</tr>
+</table>
+<p class="normal">The official bodies concerned shall inform the Commission on the manner in which they exercise the discretion referred to in the third indent above.</p>
+<p class="normal">3.   In providing the information, the official body shall not differentiate between holders. The official body may provide the requested information in making copies available to the holder, which have been produced from documents containing information additional to that relating to material belonging to varieties of the holder, provided that it is ensured that any possibility to identify individuals protected under the provisions referred to in Article 12 has been removed.</p>
+<p class="normal">4.   If the official body takes the decision to withhold the requested information, it shall inform the requesting holder thereof in writing and indicate the reason for this decision.’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point11">11</p>
+</td>
+<td valign="top">
+<p class="normal">Article 12 of Regulation No 1768/95 concerns the protection of individuals with regard to the processing and free movement of personal data.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point12">12</p>
+</td>
+<td valign="top">
+<p class="normal">STV represents seed-breeding undertakings that hold Community plant variety rights and is, inter alia, entrusted by those undertakings with the task of monitoring the planting, by farmers, of protected varieties in this respect and to claim from those farmers the right to remuneration to which those undertakings are entitled.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point13">13</p>
+</td>
+<td valign="top">
+<p class="normal">The <span class="italic">Land</span> of Thuringia is responsible for the monitoring of EU funds, in the context of the administration and supervision of grants from the European Agricultural Guarantee Fund (EAGF) and the European Agricultural Fund for Rural Development (EAFRD). On that basis, according to the order for reference, that <span class="italic">Land</span> maintains the ‘InVeKoS’ database (<span class="italic">Integriertes Verwaltungs- und Kontrollsystem</span>; integrated administration and supervision system), based on information provided for that purpose by farmers who submit funding requests. STV claims that that information includes the plant species used by those farmers and the areas on which those species are grown.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point14">14</p>
+</td>
+<td valign="top">
+<p class="normal">By letter of 5 April 2016, STV requested that, on the basis of Article 11 of Regulation No 1768/95, the <span class="italic">Land</span> of Thuringia provide it with information saved in the InVeKoS database. That request was rejected.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point15">15</p>
+</td>
+<td valign="top">
+<p class="normal">By application of 23 December 2016, STV brought the matter before the Landgericht Erfurt (Regional Court, Erfurt, Germany), requesting that the <span class="italic">Land</span> of Thuringia be ordered, on the basis on Article 11(1) of Regulation No 1768/95, to provide it with the following data saved in the InVeKoS database:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">the names and addresses of the agricultural holdings;</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">in hectares, the areas of each holding on which plants are grown; and</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">–</p>
+</td>
+<td valign="top">
+<p class="normal">in hectares, the areas on which cereals and potatoes are grown.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point16">16</p>
+</td>
+<td valign="top">
+<p class="normal">That request was rejected by that court on 17 August 2017 on the basis of the second and third indents of Article 11(2), in conjunction with Article 12, of Regulation No 1768/95.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point17">17</p>
+</td>
+<td valign="top">
+<p class="normal">STV brought an appeal against that decision before the referring court.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point18">18</p>
+</td>
+<td valign="top">
+<p class="normal">STV submits, in this respect, that the information contained in the InVeKoS database is capable of providing an insight into the size of the areas which are actually under cultivation by farmers and, therefore, into the classification of those farmers as ‘small farmers’, within the meaning of Article 14(3) of the basic regulation. Obtaining that information would thus release STV from having to request information from those farmers. STV adds that it is prepared to reimburse the <span class="italic">Land</span> of Thuringia for any costs which the latter might incur in acceding to STV’s request.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point19">19</p>
+</td>
+<td valign="top">
+<p class="normal">The <span class="italic">Land</span> of Thuringia contends that the InVeKoS database does not contain any information relating to specific varieties, with the exception of information relating to hemp and hops. Furthermore, that <span class="italic">Land</span> states that it does not have its own programming capabilities to develop the specific search which would be necessary in order to process the requested data and that the employment of an external service provider for that programming work would give rise to costs estimated at EUR 6000.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point20">20</p>
+</td>
+<td valign="top">
+<p class="normal">In those circumstances, the Thüringer Oberlandesgericht (Higher Regional Court of Thuringia, Germany) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">‘(1)</p>
+</td>
+<td valign="top">
+<p class="normal">Does a right to information from official bodies under Article 11(1) of Regulation No 1768/95 exist in a situation where a request relates solely to information concerning species of plants, without the request for information also seeking information on a protected variety?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(2)</p>
+</td>
+<td valign="top">
+<p class="normal">If the answer to Question 1 is that such a right to information can exist:</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(a)</p>
+</td>
+<td valign="top">
+<p class="normal">Is a body which monitors subsidies for farmers from EU funds and, in that respect, stores data which relate to (plant) species obtained from farmers who apply for those subsidies to be regarded as an official body involved in the monitoring of agricultural production within the meaning of the first indent of Article 11(2) of Regulation No 1768/95?</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count">(b)</p>
+</td>
+<td valign="top">
+<p class="normal">Is an official body justified in withholding the requested information if the provision of that information requires the data which it holds to be processed and catalogued by a third party and if doing so would require financial expense in the region of EUR 6000? In that regard, is it relevant whether the person making the request is prepared to meet the costs incurred?’</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Consideration of the questions referred</span>
+</p>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The first question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point21">21</p>
+</td>
+<td valign="top">
+<p class="normal">By its first question, the referring court asks, in essence, whether Article 11(1) of Regulation No 1768/95 must be interpreted as meaning that it provides the possibility for the holder to request information from an official body on the use of material of species, without such a request defining the specific protected variety for which that information is requested.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point22">22</p>
+</td>
+<td valign="top">
+<p class="normal">It must be observed as a preliminary point that, under Article 13(2) of the basic regulation, the authorisation of the holder is required, in respect of variety constituents, or harvested material of the protected variety, inter alia, for production or reproduction (multiplication), for conditioning for the purposes of propagation, for offering for sale, for selling or other marketing and for stocking for those purposes.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point23">23</p>
+</td>
+<td valign="top">
+<p class="normal">As the Court has previously pointed out, the provisions of Article 14 of the basic regulation, which, as is clear from the 17th and 18th recitals thereof, were adopted on the basis of the public interest in safeguarding agricultural production, constitute an exception to that rule (judgments of 10 April 2003, Schulin, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A218&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑305/00</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A218&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:218</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A218&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point47" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">47</a>, and of 14 October 2004, Brangewitz, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A622&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑336/02</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A622&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2004:622</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A622&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point37" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">37</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point24">24</p>
+</td>
+<td valign="top">
+<p class="normal">In this respect, Article 14 of that regulation provides that use of the product of the harvest obtained by farmers, on their own holding, for propagating purposes in the field is not subject to the authorisation of the holder when that use fulfils certain conditions established in an implementing regulation on the basis of a number of criteria which that regulation lists.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point25">25</p>
+</td>
+<td valign="top">
+<p class="normal">Regulation No 1768/95 thus establishes, according to its first to fifth recitals, the conditions under which effect can be given to the derogation from Community plant variety rights, provided for in Article 14 of the basic regulation, for the purposes of safeguarding agricultural production and the legitimate interests of the breeder and of the farmer on the basis of the criteria provided for in paragraph 3 of that article.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point26">26</p>
+</td>
+<td valign="top">
+<p class="normal">Among those criteria, inter alia, the fourth indent of Article 14(3) provides that, apart from small farmers, ‘other farmers shall be required to pay an equitable remuneration to the holder’, while the sixth indent provides that ‘relevant information may … be provided by official bodies …’</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point27">27</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the first sentence of Article 11(1) of Regulation No 1768/95 provides the possibility for a holder to submit to such official bodies a ‘request for information on the actual use of material, by planting, of specific species or varieties, or on the results of such use’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point28">28</p>
+</td>
+<td valign="top">
+<p class="normal">STV infers from this, in the present case, that holders have the right to request the information held by official bodies concerning the cultivation practices of farmers, inter alia, the areas on which certain species are cultivated, since that information is relevant for the purpose of exercising the rights which result from the planting of protected varieties. In particular, STV submits that that information would enable it to determine which farmers are covered by the classification of ‘small farmers’ within the meaning of the third indent of Article 14(3) of the basic regulation, read in conjunction with Article 7 of Regulation No 1768/95.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point29">29</p>
+</td>
+<td valign="top">
+<p class="normal">The <span class="italic">Land</span> of Thuringia, for its part, takes the view that Article 11(1) of Regulation No 1768/95 confers a right to information only in relation to protected varieties which are specifically named.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point30">30</p>
+</td>
+<td valign="top">
+<p class="normal">It should be borne in mind that it follows from settled case-law that, in interpreting a provision of EU law, it is necessary to have recourse not only to its wording but also to the context in which it is used, taking into account the scheme and objectives pursued by the rules of which it is part (judgment of 19 October 2017, Vion Livestock, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A783&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑383/16</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A783&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2017:783</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A783&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point35" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">35</a> and the case-law cited).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point31">31</p>
+</td>
+<td valign="top">
+<p class="normal">In the first place, as regards the wording of Article 11(1) of Regulation No 1768/95, it must be noted that it is true that, as has been recalled in paragraph 27 of this judgment, the first sentence of Article 11(1) refers to the possibility for a holder to obtain, inter alia, information on the actual use of ‘material of specific species or varieties’ from official bodies.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point32">32</p>
+</td>
+<td valign="top">
+<p class="normal">However, that reference cannot be conclusive, since the second sentence of Article 11(1) of that regulation requires the holder, in his request for information, to specify ‘the variety or varieties in respect of which he is interested in information’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point33">33</p>
+</td>
+<td valign="top">
+<p class="normal">Moreover, according to the third sentence of Article 11(1) of that regulation, the holder who makes such a request for information must also provide evidence of his holdership. As pointed out by the Advocate General in point 48 of his Opinion, it follows from the wording of Article 5(1) of the basic regulation that only ‘varieties of all botanical genera and species’ may form the object of Community plant variety rights, with the result that the evidence of holdership required by Article 11(1) can include only varieties and not more generally species.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point34">34</p>
+</td>
+<td valign="top">
+<p class="normal">It is thus clear from the wording of Article 11(1) of Regulation No 1768/95 that a request for information made pursuant to that provision must necessarily define the specific variety for which the information is requested.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point35">35</p>
+</td>
+<td valign="top">
+<p class="normal">Such a literal interpretation of Article 11(1) of Regulation No 1768/95 is, in the second place, corroborated by the objective pursued by that regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point36">36</p>
+</td>
+<td valign="top">
+<p class="normal">It must be noted that, as stated in its second recital, Regulation No 1768/95 has as its objective to establish, on the basis of criteria laid down in Article 14(3) of the basic regulation, the conditions to give effect, first, to the derogation from the Community plant variety right for the purposes of safeguarding agricultural production and, second, to safeguard the legitimate interests of the breeder and of the farmer.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point37">37</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the fourth recital of Regulation No 1768/95 states that the obligations specified in that regulation relate essentially to the payment, by farmers, of an equitable remuneration to the holder for the use made of the derogation, to the supply of information, to the safeguarding of the identity of the product of the harvest entered for processing with that resulting from processing as well as to the monitoring of compliance with the provisions on the derogation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point38">38</p>
+</td>
+<td valign="top">
+<p class="normal">Therefore, the right to information conferred upon the holder has the specific aim of providing him with the means of ensuring compliance, by farmers, with the conditions which make it possible to give effect to the derogation provided for in Article 14(1) of the basic regulation.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point39">39</p>
+</td>
+<td valign="top">
+<p class="normal">To that end, Articles 8, 9 and 11 of Regulation No 1768/95 authorise the holder to make a request to the farmer, the supplier of processing services or an official body, respectively, seeking to obtain any relevant information for the sole purpose of preserving his industrial-property rights, which, as noted in paragraph 33 of this judgment, can relate only to varieties and not more generally to species (see, to that effect, judgment of 14 October 2004, Brangewitz, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A622&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑336/02</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A622&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2004:622</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A622&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point53" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">53</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A622&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point61" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">61</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point40">40</p>
+</td>
+<td valign="top">
+<p class="normal">In this respect, to interpret Article 11(1) of Regulation No 1768/95 as meaning that every holder is in a position to request information from an official body on the planting undertaken by farmers, even if they have never used, or have never had the intention of using, protected varieties pursuant to Article 14(1) of the basic regulation would go beyond what is necessary in order to safeguard the legitimate interests of the breeder (see, to that effect, judgment of 10 April 2003, Schulin, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A218&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑305/00</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A218&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:218</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A218&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point57" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">57</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point41">41</p>
+</td>
+<td valign="top">
+<p class="normal">Admittedly, as STV has noted, the third indent of Article 14(3) of the basic regulation provides, as one of the criteria on the basis of which the conditions to give effect to the derogation provided for in Article 14(1) are established, that ‘small farmers shall not be required to pay any remuneration to the holder’. Additionally, the classification of ‘small farmers’ depends, as is apparent from that same indent, on the size of the area on which such farmers grow plant species.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point42">42</p>
+</td>
+<td valign="top">
+<p class="normal">However, implementation of the criterion according to which ‘small farmers’ are not required to pay remuneration to the holder if they fulfil the conditions set out in Article 7 of Regulation No 1768/95 cannot justify an interpretation of Article 11 of Regulation No 1768/95 which goes beyond what is necessary for attaining the objective noted in paragraph 38 of this judgment. Under Article 7(5) of Regulation No 1768/95, it is for the farmer who claims to be a ‘small farmer’, and not for the holder, to provide the proof that the related conditions are satisfied. It follows that obtaining information from an official body on the size of the area on which a farmer grows certain plant species is not a measure that is necessary to preserve the rights of holders.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point43">43</p>
+</td>
+<td valign="top">
+<p class="normal">In the third place, that finding is also borne out by the context of which Article 11(1) of Regulation No 1768/95 forms part.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point44">44</p>
+</td>
+<td valign="top">
+<p class="normal">In that respect, first, it follows from the seventh indent of Article 11(2) of Regulation No 1768/95 that the official body is entitled to withhold the requested information if such information relates specifically to ‘material which does not belong to varieties of the holder’. As the Advocate General stated, in essence, in point 49 of his Opinion, the fact that an official body is in any event entitled to withhold any information relating specifically to material which does not belong to those varieties militates against an interpretation according to which the holder is entitled to make a request for information which does not relate specifically to the varieties for which he is covered by a right.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point45">45</p>
+</td>
+<td valign="top">
+<p class="normal">Second, it has been noted in paragraph 39 of the present judgment that Articles 8, 9 and 11 of Regulation No 1768/95 entitle the holder to make a request, to the farmer, the supplier of processing services or an official body respectively, seeking to obtain any relevant information to preserve his industrial-property rights.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point46">46</p>
+</td>
+<td valign="top">
+<p class="normal">As regards the requests which may be made to the farmer under Article 8 of Regulation No 1768/95, paragraph 4 of that article expressly indicates that, in his request, the holder must specify ‘the variety or varieties in respect of which he is interested in information, as well as the reference or references to the relevant Community plant variety right or rights’ and must provide, if required by the farmer, evidence for holdership. Identical requirements are applicable <span class="italic">mutatis mutandis</span> to requests made in respect of a supplier of processing services pursuant to Article 9(4) of that regulation. Article 11(1) of Regulation No 1768/95 requires the holder, in his request for information addressed to an official body, to specify ‘the variety or varieties in respect of which he is interested in information and the type of information he seeks’.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point47">47</p>
+</td>
+<td valign="top">
+<p class="normal">In that regard, the Court has held, first, as regards requests which may be made to a farmer, that the holder is authorised to request information from a farmer, pursuant to Article 8, only if he has some indication, such as the acquisition of propagating material of a protected plant variety of the holder, of past or future use of the derogation provided for in Article 14(1) of the basic regulation (see, to that effect, judgment of 10 April 2003, Schulin, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2003%3A218&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑305/00</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A218&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2003:218</a>, paragraphs <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A218&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point63" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">63</a> and <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2003%3A218&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point65" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">65</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point48">48</p>
+</td>
+<td valign="top">
+<p class="normal">Second, as regards requests made to a supplier of processing services, the Court has held that, once the holder has an indication that the supplier of processing services has processed or intends to process the product of the harvest obtained by the farmer by planting propagating material of a variety of the holder for planting, such a supplier is required to provide the holder with the relevant information relating not only to the farmers for whom the holder has some indication that the processor has provided or intends to provide such services but also to all other farmers for whom he has provided or intends to provide them, where the variety in question has been declared or is otherwise known to him (see, to that effect, judgment of 14 October 2004, Brangewitz, <a class="CourtLink" href="./../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2004%3A622&amp;locale=en" hreflang="en" onclick="target='CourtTab';" type="application/xml;notice=branch">C‑336/02</a>, <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A622&amp;lang=EN&amp;format=pdf&amp;target=null" hreflang="en" onclick="target='CourtTab';" type="application/pdf">EU:C:2004:622</a>, paragraph <a class="CourtLink" href="./../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2004%3A622&amp;lang=EN&amp;format=html&amp;target=null&amp;anchor=#point65" hreflang="en" onclick="target='CourtTab';" type="application/xhtml+xml">65</a>).</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point49">49</p>
+</td>
+<td valign="top">
+<p class="normal">It follows from, inter alia, that case-law that requests for information made to a farmer and to a supplier of processing services, on the basis of Article 8(4) and of Article 9(4) of Regulation 1768/95 respectively, relate specifically to varieties of the holder and not to species. In the light of the similar wording of Article 11(1) of that regulation, which is noted in paragraph 46 of this judgment, it must be held that a request for information addressed to an official body must also specifically include a variety of the holder.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point50">50</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the foregoing considerations, the answer to the first question must be that Article 11(1) of Regulation No 1768/95 must be interpreted as meaning that it does not provide the possibility for the holder of the Community plant variety right to request information from an official body on the use of material of species, without such a request defining the specific protected variety for which that information is requested.</p>
+</td>
+</tr>
+</table>
+<p class="title-grseq-2">
+<span class="bold">
+<span class="italic">The second question</span>
+</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point51">51</p>
+</td>
+<td valign="top">
+<p class="normal">In the light of the answer given to the first question, there is no need to answer the second question.</p>
+</td>
+</tr>
+</table>
+<p class="sum-title-1">
+<span class="bold">Costs</span>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top">
+<p class="count" id="point52">52</p>
+</td>
+<td valign="top">
+<p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tr>
+<td valign="top"> </td>
+<td valign="top">
+<p class="normal">On those grounds, the Court (Fifth Chamber) hereby rules:</p>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<p class="normal">
+<span class="bold">Article 11(1) of Commission Regulation (EC) No 1768/95 of 24 July 1995 implementing rules on the agricultural exemption provided for in Article 14(3) of Council Regulation (EC) No 2100/94 on Community plant variety rights must be interpreted as meaning that it does not provide the possibility for the holder of the Community plant variety right to request information from an official body on the use of material of species, without such a request defining the specific protected variety for which that information is requested.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<col width="5%"/>
+<col width="95%"/>
+<tbody>
+<tr>
+<td> </td>
+<td>
+<div class="signaturecase">
+<p class="normal">[Signatures]</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="note"/>
+<p class="note">(<span class="note">
+<a href="#c-ECR_62018CJ0239_EN_01-E0001" id="t-ECR_62018CJ0239_EN_01-E0001">*1</a>
+</span>)	Language of the case: German.</p>
+</div>
+<a class="" href="#document1">Top</a> </div> </div>
+</div>
+</div>
