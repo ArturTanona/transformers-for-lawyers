@@ -3,41 +3,39 @@ AI apps/benchmark for legaltech
 
 
 <h2> Searching better search options for lawyers </h2>
-<i>DEMO with huggingface, jina and European Court of Justice judgments</i>
+<i>DEMO with huggingface, Jina and European Court of Justice judgments</i>
 <br><br><br>
 
-This site contains 113 judgments of European Court of Justice
-from 2019 and 2020 concerning the tax issues.
+This site contains 113 judgments of the European Court of Justice
+from 2019 and 2020 concerning tax issues.
 <br><br>
 All sentences from judgments have been encoded via BERT model
  (<code>bert-base-uncased</code>  provided by
  <a href="https://huggingface.co/">Huggingface's
- <code>transformers</code> library</a>), i.e. example
- of very powerful NLP model that conquered the AI applications.
+ <code>transformers</code> library</a>), an example
+ of a very powerful NLP model that has conquered AI applications.
 <br><br>
-The infrastructure of the search experience is base on
-<a href="https://jina.ai/#/">JINA AI</a>
-- a wonderful scalable library to design neural search engines,
-basing on the <b>newest Deep Learning strategies</b>.
+The infrastructure of the search experience is based on
+<a href="https://jina.ai/#/">Jina</a> - a wonderful scalable library to design neural search engines,
+based on the <b>newest Deep Learning strategies</b>.
 <br><br>
-The entire concept - as well as the Jina and Huggingface
-- has a great future in legal tech, because lawyers
-needs to use a lots of documents, and searching among them is highly challenging...
+The entire concept - as well as Jina and Huggingface - has a great future in legal tech, because lawyers
+need to use a lot of documents, and searching among them is highly challenging...
 <br><br><br>
 
 
 <h2> ...That's why law is so compelling and hard</h2>
-<br> <b> How it works? </b>
+<br> <b> How does it work? </b>
 <ol>
-<li>You need to write a phrase / sentence</li>
+<li>Write a phrase / sentence</li>
 <li>Click Enter</li>
-<li>You get the most similar sentence (the lower score, the better)</li>
+<li>You get the most similar sentence (the lower the score, the better)</li>
 </ol>
 
 <br> <b> Enjoy!... </b><br>
 <br>
-... and be aware that this is a playground. Sometimes BERT gives not proper hits,
-but sometimes analogies are pretty impressive, like
+... and be aware that this is a playground. Sometimes BERT doesn't give proper hits,
+but sometimes analogies are pretty impressive, like:
 <br>
 <br>
 <b>QUERY:</b><i> that complaint was rejected</i>
@@ -59,7 +57,7 @@ and fine-tune it, in order to prepare an ultimate benchmark of AI solutions
 for legaltech, so stay tuned and follow me at
 <a href="https://www.linkedin.com/in/artur-tanona/">LinkedIn</a>,
 <a href="https://twitter.com/ArturTanona/">Twitter</a>
-and on blog at <a href="https://www.intelilex.net">inteliLex</a>.
+and on my blog at <a href="https://www.intelilex.net">inteliLex</a>.
 
 
 <br><br>
@@ -74,31 +72,39 @@ Feel free to contact me: <a href="artur.tanona@gmail.com">artur.tanona@gmail.com
 
 ## Works on Ubuntu 18.04 and Docker
 
-Below please find to launch it on Ubuntu. If you are working on e.g. Windows 10 you need to have a docer engine running and you can skip to the last part "Run on docker"
+Below please find how to launch it on Ubuntu. If you are working on (for example) Windows 10 you need to have a Docker engine running and you can skip to the last part "[Run on Docker"](#run-on-docker)
 
 ## 1. Upload
 
-Upload documents in "*.txt" format to `search_engine/data` and `frontenApp/src/assets`.
+Upload documents in `*.txt` format to `search_engine/data` and `frontendApp/src/assets`.
 
-## 2. Set up global environment variables
-<code>export JINA_PORT=56798<br>
-export PARALLEL=1<br>
-export SHARDS=6<br>
-export CLIENT_PORT=80<br>
+## 2. Set global environment variables
+
+```sh
+export PARALLEL=1
+export SHARDS=6
+export CLIENT_PORT=80
 export TMP_WORKSPACE=test_index
-</code>
+export JINA_PORT=56798
+```
 
 ## 3. Run locally
-In `search_engine` directory:<br>
-`python3.7 app.py -t index`<br>
-`gunicorn -w  1  --bind 0.0.0.0:6500 main:app`
+In the `search_engine` directory:<br>
 
-In `frontendApp` directory:<br>
-`npm install`<br>
-`ng serve`<br>
+```sh
+python3.7 app.py -t index
+gunicorn -w  1  --bind 0.0.0.0:6500 main:app
+```
+
+In the `frontendApp` directory:<br>
+
+```sh
+npm install
+ng serve
+```
 
 And you can open the website on `http://localhost:4200`
-## Run on docker
 
-You can easily create docker apps, but you need to set up proper variables into DockerFiles in each app.
+## Run on Docker
 
+You can easily create Docker apps, but you need to set up the proper variables in DockerFiles for each app.
