@@ -1,5 +1,5 @@
 <h1>How to find a proper use case? - legal tech search experience. 
-Grasp of ideas for Jina X Hackathon participants.</h1>
+Some ideas for Jina X Hackathon participants.</h1>
 
 
 This short post is not for those who would like to create a sophisticated technical architecture, 
