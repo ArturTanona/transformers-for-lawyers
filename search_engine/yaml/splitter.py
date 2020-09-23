@@ -41,5 +41,4 @@ class SentenceSplitter(Sentencizer):
                     weight=1.0 if self.uniform_weight else len(f) / len(text),
                     location=[s, e]
                 ))
-        print(results)
         return results
