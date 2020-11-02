@@ -1,0 +1,36 @@
+version: "2.3"
+services:
+  backend:
+    image: arturtanona/transformers-for-lawyers_backend
+    build:
+      context: ../search_engine
+      dockerfile: ./Dockerfile
+#    runtime: nvidia
+#    environment:
+#      - NVIDIA_VISIBLE_DEVICES=all
+
+    volumes:
+#      - ./search_engine/test_index:/test_index
+      - ./search_engine/data:/data
+      - ./search_engine/pip_cache:/pip_host_cache
+
+    env_file:
+      - ".public_env"
+    ports:
+      - "5000:80"
+
+
+  frontend:
+    image: arturtanona/transformers-for-lawyers_frontend
+    build:
+      context: ../frontendApp
+      dockerfile: ./Dockerfile
+    ports:
+      - "4200:4200"
+    depends_on:
+      - backend
+
+
+    env_file:
+        - ".public_env"
+

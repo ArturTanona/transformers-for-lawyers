@@ -1,0 +1,13 @@
+FROM jinaai/jina:2-py37-perf
+
+RUN apt update && apt install -y git
+COPY gpu_requirements.txt gpu_requirements.txt
+RUN pip install --no-cache-dir -r gpu_requirements.txt
+RUN pip uninstall torch -y
+COPY torch1.8.1 /torch
+RUN ls -l /torch
+RUN pip install torch==1.9.1+cu111 -f https://download.pytorch.org/whl/torch_stable.html
+COPY . /workdir/
+WORKDIR /workdir
+
+ENTRYPOINT ["jina", "executor", "--uses", "config.yml"]

@@ -1,0 +1,31 @@
+
+jtype: Flow
+version: '1'
+with:
+  workspace: $JINA_WORKSPACE
+executors:
+  - name: segmenter
+    uses: 'jinahub+docker://Sentencizer'
+  - name: encoder
+    uses: 'docker://rtx3090_encoder'
+    uses_with:
+      pooling_strategy: 'cls'
+      pretrained_model_name_or_path: distilbert-base-cased
+      max_length: 96
+      device: 'cuda:0'
+      default_traversal_paths: ['c']
+    gpus: all
+  - name: indexer
+    uses: 'jinahub://SimpleIndexer/old'
+    uses_metas:
+      workspace: $JINA_WORKSPACE
+    uses_with:
+      default_traversal_paths: ['c']
+  - name: root_indexer
+    uses: 'jinahub+docker://LMDBStorage'
+    volumes: $JINA_WORKSPACE_MOUNT
+    uses_with:
+      default_traversal_paths: ['r']
+    needs: [gateway]
+  - name: wait_both
+    needs: [indexer, root_indexer]

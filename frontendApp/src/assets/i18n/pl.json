@@ -1,0 +1,15 @@
+{
+    "tfl.results": "Wstecz",
+    "tfl.edit": "Edytuj",
+    "tfl.verify": "Analizuj",
+    "tfl.sentenceSearch": "Szukaj zdań",
+    "tfl.phraseSearch": "Szukaj fraz",
+    "tfl.resultsTitle": "Liczba dokumentów zawierających podobne zdania",
+    "tfl.searchWithDescription": "Filtruj po słowach",
+    "tfl.projectInfo": "O projekcie",
+    "tfl.instruction": "Wklej zdania z dokumentów publicznych, które chcesz przeanalizować - max. 16 zdań. Demo dostarczy również podobnych fraz.",
+    "aboutProject": {
+        "text": "assets/aboutProject/pl.html" ,
+            "title": "O projekcie"
+    }
+}

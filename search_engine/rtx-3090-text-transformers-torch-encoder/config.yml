@@ -1,0 +1,4 @@
+jtype: TransformerTorchEncoder
+metas:
+  py_modules:
+    - transform_encoder.py

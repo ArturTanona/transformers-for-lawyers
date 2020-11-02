@@ -1,0 +1,15 @@
+{
+    "tfl.results": "Results",
+    "tfl.edit": "Edit",
+    "tfl.verify": "Verify",
+    "tfl.sentenceSearch": "Search with sentences",
+    "tfl.phraseSearch": "Search with phrases",
+    "tfl.resultsTitle": "Number of documents with similar sentences",
+    "tfl.searchWithDescription": "Search in description",
+    "tfl.projectInfo": "About project",
+    "tfl.instruction": "Paste sentences from a document (max. 16 sentences) and demo will find similar sentences. It  will also deliver classic keyphrases",
+    "aboutProject": {
+        "text": "assets/aboutProject/en.html",
+        "title": "About project"
+    }
+}
