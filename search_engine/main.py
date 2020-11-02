@@ -1,15 +1,34 @@
-import subprocess
+#!/usr/bin/python3.7
+import json
+import logging
 import os
-from flask import Flask, request, jsonify
+import platform
+import subprocess
+
+logger = logging.getLogger("TEST")
+logger.setLevel(logging.INFO)
+
+import time
+
+import requests
+from checksumdir import dirhash
+from flask import Flask, jsonify, request
 from flask_cors import CORS
-from jina.clients import py_client
 from Observable import Observable
+
 from settings import client_port
+
 server_port = int(os.environ["JINA_PORT"])
-try:
-    subprocess.Popen(["python3.7", "app.py", "-t", "query_restful"])
-except FileNotFoundError:
-    subprocess.Popen(["python3", "app.py", "-t", "query_restful"])
+logger.error("================== test")
+if dirhash("/test_index") != os.environ["HASH_DIRECTORY"]:
+    logger.error("================== OK")
+    process = subprocess.Popen(["python", "app.py", "-t", "index"])
+    process.wait()
+    time.sleep(30)
+else:
+    logger.error("================== OK NOK")
+logger.error(dirhash("/test_index"))
+subprocess.Popen(["python", "app.py", "-t", "query_restful"])
 
 app = Flask(__name__)
 CORS(app)
@@ -28,12 +47,17 @@ def response():
 def search():
     observable = Observable()
     query = request.get_json()
-    py_client(host="localhost", port_expose=server_port, top_k=100).search(
-        input_fn=read_query_data(query["searchQuery"]), output_fn=lambda x: observable.callback(x)
-    )
+    query = query["data"]
+
+    answer = requests.post(
+        f"http://localhost:{server_port}/api/search", json={"data": query, "top_k": 10}
+    ).text
+
+    answer = json.loads(answer)
+    observable.result = answer
     results = observable.format_response()
     return jsonify(results)
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=client_port)
+    app.run(host="0.0.0.0", port=6500)

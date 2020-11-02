@@ -1,2 +1,6 @@
 test/*
 test_index/*
+MorfeuszCorrector/*
+pip_cache/*
+.idea/*
+workspace/*

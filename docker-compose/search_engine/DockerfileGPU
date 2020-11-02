@@ -1,0 +1,19 @@
+FROM anibali/pytorch:1.7.0-cuda11.0-ubuntu20.04
+ENV TZ=Europe/Kiev
+WORKDIR /
+RUN sudo apt-get update
+RUN sudo apt-get install -y curl python3.8 python3.8-dev python3.8-distutils python3-dev python3-pip
+RUN sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8 1
+RUN sudo update-alternatives --set python /usr/bin/python3.8
+RUN sudo apt install llvm-9-dev -y
+RUN sudo ln -s /usr/bin/llvm-config-9 /usr/bin/llvm-config
+ADD ./requirements.txt /requirements.txt
+RUN echo 'alias python3.8=/usr/bin/python3'
+RUN python3.8 -m pip install -r requirements.txt
+ADD . /app
+RUN sudo apt install llvm-9-dev -y
+RUN python3.8 -m pip install jina==1.1.9
+WORKDIR /app
+
+RUN sudo chmod 777 launch.sh
+ENTRYPOINT ["./launch.sh"]

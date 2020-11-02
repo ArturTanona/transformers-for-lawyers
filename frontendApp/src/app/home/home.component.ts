@@ -1,11 +1,9 @@
-import { DocumentViewService } from '../services/document-view.service';
 import { SearchComponent } from '../search/search.component'
 
 import { Hit } from '../hit';
 import {SelectItem} from 'primeng/api';
 import { HttpClient } from '@angular/common/http'
 import { Observable } from 'rxjs';
-import { DocumentViewerComponent } from '../document/document-viewer/document-viewer.component';
 import { Component, ViewChild, AfterViewInit } from '@angular/core';
 import { TaberComponent } from '../taber/taber.component';
 import { MenuComponent } from '../menu/menu.component'
@@ -18,7 +16,6 @@ import { MenuComponent } from '../menu/menu.component'
 export class HomeComponent implements AfterViewInit {
     hits: Hit[];
 
-    // @ViewChild("component1") viewer: DocumentViewerComponent;
     @ViewChild("searcher") searcher: SearchComponent;
     @ViewChild("taber") taber: TaberComponent;
 
@@ -46,15 +43,11 @@ export class HomeComponent implements AfterViewInit {
     counter = 0;
 
 
-    documentViewService: DocumentViewService;
 
     this_httpClient: HttpClient;
-    constructor(private httpClient:  HttpClient,
-      providedDocumentViewService: DocumentViewService,
-      private providedViewer: DocumentViewerComponent ) {
+    constructor(private httpClient:  HttpClient) {
         var reader = new FileReader();
         this.this_httpClient = httpClient;
-        this.documentViewService = providedDocumentViewService;
 
     }
 
@@ -81,8 +74,8 @@ export class HomeComponent implements AfterViewInit {
       {
         this.taber.items = [];
       }
-      this.getJSON("./assets/" + this.mapIdJudgments[$event.id-1] + ".txt").subscribe(data => {
-        var test = {"id": this.mapIdJudgments[$event.id-1], "text":""  };
+      this.getJSON("./assets/" + $event.id + ".txt").subscribe(data => {
+        var test = {"id": $event.id, "text":""  };
         test.text = data;
         test.text = data.replace($event.match,
           "<span id='focus' style='background-color:yellow'>" + $event.match + "</span>");

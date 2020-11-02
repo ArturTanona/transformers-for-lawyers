@@ -1,6 +1,6 @@
 <p-scrollPanel [style]="{width: '100%', height: '80vh'}" styleClass="custombar1">
 <p-dataView #dv [value]="hits" [paginator]="true"  [rows]="3" paginatorPosition="both" filterBy="score "
-    [sortField]="sortField" [sortOrder]="sortOrder">
+    [sortField]="sortField" [sortOrder]="sortOrder" [styleClass]="'homeDataview'">
     <p-header>
         <div class="ui-helper-clearfix">
             <div class="p-grid">
@@ -27,5 +27,5 @@
             </div>
         </div>
     </ng-template>
-</p-dataView>
+    </p-dataView>
 </p-scrollPanel>

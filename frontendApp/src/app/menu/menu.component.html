@@ -1,5 +1,5 @@
-<p-card header="BERTxperience" subheader="Transformers for lawyers - AI playground experience for lawyers [Desktop version]">
-   </p-card>
-<p-breadcrumb [model]="items"></p-breadcrumb>
 
-
+<div style='display:flex;width:100%;z-index: 10000px;'><p-breadcrumb style='width:95%' [style]='{width: "100%"}' [model]="items">
+</p-breadcrumb>
+<div><p-button (onClick)="useLanguage('pl')" label='PL'></p-button></div><div><p-button (onClick)="useLanguage('en')" label='EN'></p-button></div>
+</div>
