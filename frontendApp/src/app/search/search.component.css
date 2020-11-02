@@ -46,3 +46,12 @@
 }
 
 
+
+body .ui-dataview .ui-dataview-content  {
+  padding: 0.571em 1em;
+  border: 1px solid #c8c8c8;
+  background-color: #ffffff;
+  color: #333333;
+  padding: 0.571em 1em;
+  height: 100%;
+}

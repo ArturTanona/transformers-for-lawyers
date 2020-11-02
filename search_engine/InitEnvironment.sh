@@ -1,5 +1,5 @@
 export JINA_PORT=X
-export PARALLEL=1
-export SHARDS=6
+export JINA_PARALLEL=1
+export JINA_SHARDS=1
 export CLIENT_PORT=80
-export TMP_WORKSPACE=../../test_index
+export JINA_WORKSPACE=test_index

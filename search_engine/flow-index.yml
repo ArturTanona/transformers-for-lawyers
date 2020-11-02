@@ -1,26 +1,24 @@
 !Flow
 with:
-  prefetch: 10
-  batch-size: 10
+  prefetch: 5
+  batch-size: 5
 pods:
-  sentencizer:
+  crafter:
     uses: yaml/craft-split.yml
-    parallel: $PARALLEL
+    timeout_ready: 600000
     read_only: true
-    needs: gateway
   encoder:
     uses: yaml/encode.yml
-    parallel: $PARALLEL
-    timeout_ready: 60000
+    parallel: $JINA_PARALLEL
+    timeout_ready: 600000
     read_only: true
-  chunk_indexer:
+  chunk_idx:
     uses: yaml/index-chunk.yml
-    shards: $SHARDS
+    shards: $JINA_SHARDS
     separated_workspace: true
-  doc_indexer:
+  doc_idx:
     uses: yaml/index-doc.yml
     needs: gateway
   join_all:
     uses: _merge
-    needs: [doc_indexer, chunk_indexer]
-    read_only: true
+    needs: [doc_idx, chunk_idx]

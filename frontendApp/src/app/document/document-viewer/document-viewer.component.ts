@@ -1,10 +1,4 @@
-
-/**  Copyright 2020 Google LLC. All Rights Reserved.
-    Use of this source code is governed by an MIT-style license that
-    can be found in the LICENSE file at http://angular.io/license */
-
 import { Component, OnInit, Input  } from '@angular/core';
-import { ScrollPanelModule } from 'primeng/scrollpanel';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
@@ -13,14 +7,12 @@ import { Observable } from 'rxjs';
   templateUrl: './document-viewer.component.html',
   styleUrls: ['./document-viewer.component.css']
 })
-export class DocumentViewerComponent implements OnInit, ScrollPanelModule {
+export class DocumentViewerComponent implements OnInit {
 
-  constructor(private http: HttpClient) { }
-  content = "s";
   @Input() childMessage: string;
   ngOnInit(): void {
   }
-
+  constructor(private http: HttpClient) { }
 
 
   public getJSON(jsonUrl): Observable<any> {

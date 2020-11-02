@@ -1,0 +1,5 @@
+!SentenceSplitter
+with:
+  min_sent_len: 6
+metas:
+  py_modules: splitter.py

@@ -8,15 +8,16 @@ from jina.hub.crafters.nlp.Sentencizer import Sentencizer
 import pickle
 
 
-class Splitter(Sentencizer):
-    count = 0
-    separator = "|"
-
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-
-    def craft(self, text: str, *args, **kwargs) -> Dict:
-        return dict(text=text, meta_info=text[:5].encode("utf-8"))
+# class Splitter(Sentencizer):
+#     count = 0
+#     separator = "|"
+#
+#     def __init__(self, *args, **kwargs):
+#         super().__init__(*args, **kwargs)
+#
+#     def craft(self, text: str, *args, **kwargs) -> Dict:
+#         print('================== test2')
+#         return dict(text=text, meta_info=text[:5].encode("utf-8"))
 
 
 class SentenceSplitter(Sentencizer):
@@ -39,6 +40,7 @@ class SentenceSplitter(Sentencizer):
                     text=f,
                     offset=ci,
                     weight=1.0 if self.uniform_weight else len(f) / len(text),
-                    location=[s, e]
+                    location=[s, e],
+                    meta_info='testID'.encode("utf-8")
                 ))
         return results
