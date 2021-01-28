@@ -1,20 +1,28 @@
-FROM ubuntu:18.04
+FROM anibali/pytorch:1.7.0-cuda11.0-ubuntu20.04
 ENV TZ=Europe/Kiev
 WORKDIR /
-RUN apt-get update
-RUN apt-get install -y curl python3.7 python3.7-dev python3.7-distutils python3-dev python3-pip
-RUN update-alternatives --install /usr/bin/python python /usr/bin/python3.7 1
-RUN update-alternatives --set python /usr/bin/python3.7
-RUN apt install llvm-9-dev -y
-RUN ln -s /usr/bin/llvm-config-9 /usr/bin/llvm-config
+RUN sudo apt-get update
+RUN sudo apt-get install -y curl python3.8 python3.8-dev python3.8-distutils python3-dev python3-pip
+RUN sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8 1
+RUN sudo update-alternatives --set python /usr/bin/python3.8
+RUN sudo apt install llvm-9-dev -y
+RUN sudo ln -s /usr/bin/llvm-config-9 /usr/bin/llvm-config
 ADD ./requirements.txt /requirements.txt
-ADD ./.pip_cache /pip_cache
-RUN echo 'alias python3.7=/usr/bin/python3'
-RUN python3.7 -m pip install -r requirements.txt --cache-dir /pip_cache
-ADD . /
-RUN apt install llvm-9-dev -y
-RUN python3.7 -m pip install --pre torch -f https://download.pytorch.org/whl/nightly/cu110/torch_nightly.html --cache-dir /pip_cache
+ADD ./pip_cache /pip_cache
+RUN echo 'alias python3.8=/usr/bin/python3'
+RUN python3.8 -m pip install -r requirements.txt --cache-dir /pip_cache
+ADD . /app
+RUN sudo apt install llvm-9-dev -y
+RUN sudo chmod 777 -R /pip_cache
+RUN python3.8 -m pip uninstall torch --y
+RUN python3.8 -m pip install --pre torch -f https://download.pytorch.org/whl/nightly/cu110/torch_nightly.html --cache-dir /pip_cache
 
+WORKDIR /app
 
-RUN chmod 777 launch.sh
+RUN sudo chmod 777 launch.sh
+RUN sudo mkdir /test_index /pip_host_cache
+RUN sudo chmod -R  777  /test_index
+RUN sudo chmod -R  777 /pip_cache
+RUN sudo chmod -R  777 /pip_host_cache
+
 ENTRYPOINT ["./launch.sh"]

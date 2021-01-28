@@ -10,11 +10,8 @@ from jina import Document
 
 
 def data_fn():
-    print('test', os.getcwd(), os.listdir("data"))
-    documents = glob("./data/*")
-    print(documents)
+    documents = glob("/data/*")
     for i in documents:
-        print(i)
         with open(i, 'r', encoding='utf-8') as f:
             content = f.read()
         with Document() as d:

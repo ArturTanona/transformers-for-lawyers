@@ -5,6 +5,12 @@ pods:
     show_exc_info: true
     uses: pods/segment.yml
     read_only: true
+    port-in:
+      55556
+    port-out:
+      55557
+    port-ctrl:
+      55558
   - name: encoder
     show_exc_info: true
     uses: pods/encode.yml
@@ -12,15 +18,39 @@ pods:
     shards: $JINA_PARALLEL
     timeout_ready: 600000
     read_only: true
+    port-in:
+      55559
+    port-out:
+      55560
+    port-ctrl:
+      55561
   - name: chunk_idx
     polling: any
     show_exc_info: true
     uses: pods/chunk.yml
     shards: $JINA_SHARDS
+    port-in:
+      55562
+    port-out:
+      55563
+    port-ctrl:
+      55564
   - name: doc_idx
     polling: any
     uses: pods/doc.yml
     needs: gateway
+    port-in:
+      55565
+    port-out:
+      55566
+    port-ctrl:
+      55567
   - name: join_all
     uses: _merge
     needs: [doc_idx, chunk_idx]
+    port-in:
+      55568
+    port-out:
+      55569
+    port-ctrl:
+      55570

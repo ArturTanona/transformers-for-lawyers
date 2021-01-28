@@ -1,7 +1,5 @@
 #!/usr/bin/python3.7
 import platform;
-
-print(platform.sys.version);
 import subprocess
 import os
 import json

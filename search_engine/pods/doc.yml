@@ -4,6 +4,7 @@ with:
 metas:
   name: doc_indexer  # a customized name
   workspace: $JINA_WORKSPACE
+
 requests:
   on:
     ControlRequest:
