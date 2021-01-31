@@ -14,7 +14,7 @@ services:
       - ./search_engine/pip_cache:/pip_host_cache
 
     env_file:
-      - ".env/.env"
+      - ".public_env"
     ports:
       - "5000:80"
 
@@ -28,5 +28,5 @@ services:
 
 
     env_file:
-        - ".env/.env"
+        - ".public_env"
 

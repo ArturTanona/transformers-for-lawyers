@@ -91,13 +91,19 @@ JINA_MAX_DOCS=100
 JINA_PORT=65481
 ```
 ## 3. Run locally
-Create virtual environment and source it. Then, in the `search_engine` directory:<br>
+Create virtual environment and source it.
 
 ```
+mkdir search_engine/pip_cache
+sudo docker-compose build
+sudo mkdir search_engine/test_index
+sudo chmod 777 -R search_engine/test_index
 sudo docker-compose up
 ```
 
-And you can open the website on `http://localhost:4200`
+And you can open the website on `http://localhost:4200`.
+
+Please wait for a while in order to build index. 
 
 ## 4. Caveat
 
