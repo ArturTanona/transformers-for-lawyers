@@ -1,6 +1,7 @@
 version: "2.3"
 services:
   backend:
+    image: arturtanona/transformers-for-lawyers_backend
     build:
       context: ./search_engine
       dockerfile: ./Dockerfile
@@ -20,6 +21,7 @@ services:
 
 
   frontend:
+    image: arturtanona/transformers-for-lawyers_frontend
     build:
       context: ./frontendApp
       dockerfile: ./Dockerfile
