@@ -82,13 +82,13 @@ Upload documents in `*.txt` format to `search_engine/data` and `frontendApp/src/
 
 And put them in the `.public_env` file:
 ```
-JINA_PORT=56798
-JINA_PARALLEL=1
-JINA_SHARDS=1
-CLIENT_PORT=80
-JINA_WORKSPACE=test_index
-JINA_MAX_DOCS=100
-JINA_PORT=65481
+export JINA_PORT=56798
+export JINA_PARALLEL=1
+export JINA_SHARDS=1
+export CLIENT_PORT=80
+export JINA_WORKSPACE=test_index
+export JINA_MAX_DOCS=100
+export JINA_PORT=65481
 ```
 ## 3. Run locally
 Create virtual environment and source it.

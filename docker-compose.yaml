@@ -5,12 +5,12 @@ services:
     build:
       context: ./search_engine
       dockerfile: ./Dockerfile
-    runtime: nvidia
-    environment:
-      - NVIDIA_VISIBLE_DEVICES=all
+#    runtime: nvidia
+#    environment:
+#      - NVIDIA_VISIBLE_DEVICES=all
 
     volumes:
-      - ./search_engine/test_index:/test_index
+#      - ./search_engine/test_index:/test_index
       - ./search_engine/data:/data
       - ./search_engine/pip_cache:/pip_host_cache
 

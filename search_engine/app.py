@@ -10,7 +10,7 @@ from jina import Document
 
 
 def data_fn():
-    documents = glob("/data/*")
+    documents = glob("/`````````````````data/*")
     for i in documents:
         with open(i, 'r', encoding='utf-8') as f:
             content = f.read()
