@@ -1,5 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+./idea/*
+poldata/*
+
 *.py[cod]
 *$py.class
 
@@ -128,3 +131,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.pkl
+*/assets/ipbox/*
+*/assets/state_aid/*
+data/*
+.env
+pip_cache/*
+test_index/*

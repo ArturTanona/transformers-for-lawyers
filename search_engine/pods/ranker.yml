@@ -1,0 +1,10 @@
+!SimpleAggregateRanker
+with:
+  aggregate_function: 'min'
+  is_reversed_score: true
+requests:
+  on:
+    ControlRequest:
+      - !ControlReqDriver {}
+    SearchRequest:
+      - !Chunk2DocRankDriver {}

@@ -1,8 +1,9 @@
 <mat-grid-list [cols]="columnGlobalNumber"  [gutterSize]="'20px'" (window:resize)="onResize($event)">
-  <mat-grid-tile [colspan]="columnNumber" [rowspan]="rowNumber" [style]="{top: '5px'}">
-    <search [style]="{width: '100%', height: '100%'}" div="test" (messageEvent)="receiveMessage($event)"></search>
-  </mat-grid-tile>
-  <mat-grid-tile [colspan]="columnNumber" [rowspan]="rowNumber">
-    <app-taber class="containerTab" #taber [style]="{width: '100%', height: '100%'}"></app-taber>
-  </mat-grid-tile>
-</mat-grid-list>
+      <mat-grid-tile [colspan]="columnNumber" [rowspan]="rowNumber" [style]="{top: '5px'}">
+        <search [style]="{width: '100%', height: '100%'}" div="test" (messageEvent)="receiveMessage($event)"></search>
+      </mat-grid-tile>
+      <mat-grid-tile [colspan]="columnNumber" [rowspan]="rowNumber">
+        <app-taber class="containerTab" #taber [style]="{width: '100%', height: '100%'}"></app-taber>
+      </mat-grid-tile>
+    </mat-grid-list>
+    

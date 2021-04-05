@@ -1,0 +1,155 @@
+<div style='display: flex'>
+    <div style='width:55%'>
+        <div style="width:100%;background-color: azure;padding:1px;font-family: 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 14px;">
+            
+                <div style='padding:5px;margin-bottom:2px'> {{"tfl.instruction"|translate}} </div>
+                <div style='align-content: center;width:100%'>
+                    <div style='display: table;margin: 0 auto'>
+                    <p-button [styleClass]='"customButton"' [style]='{height:"100%"}' icon='pi pi-search'
+                        label='{{"tfl.verify"|translate}}' [disabled]='!editorState.getEditorState()'
+                        (onClick)='searchRequest()' [styleClass]="'customButton'">
+                    </p-button>
+                    <p-toggleButton [styleClass]='"customButton"'
+                        onLabel='{{"tfl.edit"|translate}}' offLabel='{{"tfl.results"|translate}}' onIcon='pi pi-pencil'
+                        offIcon='pi pi-list' iconPos='left'
+                        [disabled]='(editorState.getSearchingState() || !editorState.sequenceHasStarted())'
+                        [(ngModel)]="editorState.buttonIsOn" (onChange)='editorState.switchEditor()'></p-toggleButton>
+                </div>
+            </div>
+        </div>
+        <div class='container' style="display:flex;padding:10px 0;">
+            <div id='listContainer' style="float:left;font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 16px;">
+                <div *ngIf='editorState.getEditorState()' style='margin-left:10%'>
+                    <textarea #text [rows]="35" [cols]="70" pInputTextarea [(ngModel)]="property"></textarea>
+                </div>
+                <p-progressSpinner
+                    [style]="{ width: '250px', height: '250px', position:'fixed', top: '45%', right: '45%'}"
+                    *ngIf='(editorState.getSearchingState())'></p-progressSpinner>
+                <div *ngIf='editorState.getResultState()' class="css-grid test" style="float:left; width:100%">
+                    <mat-accordion class="example-headers-align">
+                        <div *ngFor="let sentence of sentences">
+                            <div [id]='"card" + sentence.id'>
+                                <mat-expansion-panel (opened)="panelOpenState = true" (closed)="panelOpenState = false">
+                                    <mat-expansion-panel-header (click)='toggle(sentence.id, true)'
+                                        [style]="{'padding': '10px 10px 10px 5px', 'background-color': mapOfColor(sentence.count)}">
+                                        <div style='width:20px;float:left;margin-right:5px'>{{sentence.id +1 }}. </div>
+                                        <div>
+                                            <span [style]="{'font-weight': isSelected(sentence.id)}">{{sentence.text}}
+                                            </span>
+                                            <br>
+                                            <div style='font-size:12px; text-align:right;width:100%'>
+                                                <i>{{"tfl.resultsTitle"|translate}}</i>: <b>{{sentence.count}}</b></div>
+                                        </div>
+                                    </mat-expansion-panel-header>
+                                    <mat-action-row class='ngClass'>
+                                        <div style='width:100%'>
+                                            <div style='width:100%'>
+                                                <p-toolbar>
+                                                    <div id='buttons'>
+                                                        <p-button label='{{"tfl.sentenceSearch"|translate}}'
+                                                            [styleClass]='"customButton searchButton"'
+                                                            class="p-button-raised"
+                                                            (click)='searchWithSentence(sentence.id)'>
+                                                        </p-button>
+                                                        <p-button label='{{"tfl.phraseSearch"|translate}}'
+                                                            [styleClass]='"customButton searchButton"'
+                                                            class="p-button-raised"
+                                                            (click)='searchWithPhrase(sentence.id)'>
+                                                        </p-button>
+                                                    </div>
+                                                </p-toolbar>
+                                            </div>
+                                            <div [ngStyle]="{width:'100%'}"
+                                                *ngIf='sentence.id == selectedReferenceSentence && !searchPhrase'>
+                                                <p-dataView [paginatorPosition]='"top"' [style]="{width:'100%'}" #dv
+                                                    filterBy="sentence" [value]="selectedSentences" [paginator]='true'
+                                                    [rows]='10'>
+                                                    <p-header>
+                                                        <input [style]='{width: "50%"}' type="search"
+                                                            placeholder='{{"tfl.searchWithDescription"|translate}}'
+                                                            (input)='dv.filter($event.target.value, "contains")'>
+                                                    </p-header>
+                                                    <ng-template let-match pTemplate="listItem">
+                                                        <div class="p-col-12">
+                                                            <div class="product-list-item">
+                                                                <p-card [style]='{cursor: "pointer"}'
+                                                                    (click)='selectRulingWithSentence(match.id, match.sentence, match.num)'>
+                                                                    <b>
+                                                                        <p-card [style]="{backgroundColor:'#cfd3ce'}">
+                                                                            {{match.name}}</p-card>
+                                                                    </b>
+
+                                                                    <br>
+                                                                    <div [id]='match.id.toString() + "_" + match.num.toString()' class="product-name"><span
+                                                                            [style.background-color]='isSelectedRuling(match.num)'
+                                                                            [innerHtml]='match.sentence'></span>
+                                                                    </div>
+                                                                </p-card>
+                                                            </div>
+                                                        </div>
+                                                    </ng-template>
+                                                </p-dataView>
+                                            </div>
+                                            <div [ngStyle]="{'max-width.px': changeWidth(sentence.id)}"
+                                                *ngIf='sentence.id == selectedReferenceSentence && searchPhrase'>
+                                                <p-dataView [paginatorPosition]='"top"' [style]="{width:'100%'}" #dv
+                                                    filterBy="sentence" [value]="selectedWhooshSentences"
+                                                    [paginator]='true' [rows]='10'>
+                                                    <p-header>
+                                                        <input [style]='{width: "50%"}' type="search"
+                                                            placeholder='{{"tfl.searchWithDescription"|translate}}'
+                                                            (input)='dv.filter($event.target.value, "contains")'>
+                                                    </p-header>
+                                                    <ng-template let-match pTemplate="listItem">
+                                                        <div class="p-col-12">
+                                                            <div class="product-list-item">
+                                                                <p-card>
+                                                                    <b>
+                                                                        <p-card [style]="{backgroundColor:'#cfd3ce'}">
+                                                                            {{match.name}}</p-card>
+
+                                                                    </b>
+                                                                    <br>
+                                                                    <div class="product-name">
+                                                                        <div
+                                                                            *ngFor="let match_record of match.sentence">
+                                                                            <div [id]='match.id.toString() + "_" + match.num.toString() + " " + match_record.phrase_id.toString()' class="product-name"><span
+                                                                                [style.background-color]='isSelectedPhrase(match.id, match.num, match_record.phrase_id)'
+                                                                                [style]='{cursor: "pointer"}'
+                                                                                (click)='selectRulingWithWord(match.id, match.sentence, match.num, match_record.phrase_id)'
+                                                                                [innerHtml]='"..." + match_record.sentence + "..."'></span><br><br>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </p-card>
+
+                                                            </div>
+                                                        </div>
+                                                    </ng-template>
+                                                </p-dataView>
+                                            </div>
+                                        </div>
+                                    </mat-action-row>
+
+
+
+                                </mat-expansion-panel>
+
+                            </div>
+                        </div>
+                    </mat-accordion>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div *ngIf='sentenceIsSelected' id='textContainer'
+            style='position:fixed;top:10%;float:right;margin-right:5%;margin-left:10px;width:35%;font-size:18px'>
+        <p-card [style]="{'background-color': 'rgb(207, 211, 206)', 'font-size': '18px'}">
+            <b>{{currentRulingName}}</b>
+        </p-card>
+        <div [id]='"rulingScrollbar"' class='customScroll' style='background-color: white' [innerHTML]='selectedRuling'></div>
+    </div>
+</div>

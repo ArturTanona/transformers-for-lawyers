@@ -3,28 +3,33 @@ __license__ = "Apache-2.0"
 
 import click
 import os
-import pickle
 from glob import glob
 from jina.flow import Flow
+from jina.proto import jina_pb2
+from jina import Document
 
 
 def data_fn():
-    documents = glob("data/*")
+    documents = glob("/`````````````````data/*")
     for i in documents:
         with open(i, 'r', encoding='utf-8') as f:
             content = f.read()
-        yield content
+        with Document() as d:
+            d.text = content
+            d.tags['id_document'] = i
+        yield d
 
 
 @click.command()
 @click.option('--task', '-t')
 def main(task):
     if task == 'index':
-        f = Flow().load_config('flow-index.yml')
+        os.makedirs("data", exist_ok=True)
+        f = Flow().load_config('flows/index.yml')
         with f:
             f.index(input_fn=data_fn)
     elif task == 'query_restful':
-        f = Flow().load_config('flow-query.yml')
+        f = Flow(rest_api=True).load_config('flows/query.yml')
         with f:
             f.block()
     else:

@@ -1,13 +1,14 @@
-import { DocumentViewService } from '../services/document-view.service';
 import { Hit } from '../hit';
 import { SelectItem } from 'primeng/api';
 import { HttpClient } from '@angular/common/http'
 import { Observable } from 'rxjs';
 import { DocumentViewerComponent } from '../document/document-viewer/document-viewer.component';
-import { Component, ViewChild, AfterViewInit } from '@angular/core';
+import { Component, ViewChild, AfterViewInit,ViewEncapsulation } from '@angular/core';
 import { Output, EventEmitter } from '@angular/core';
 import { ProgressBarComponent } from "../progress-bar/progress-bar.component"
+import { environment } from 'src/environments/environment';
 @Component({
+  encapsulation: ViewEncapsulation.None,
   selector: 'search',
   templateUrl: './search.component.html',
   styleUrls: ['./search.component.css'],
@@ -15,7 +16,6 @@ import { ProgressBarComponent } from "../progress-bar/progress-bar.component"
 export class SearchComponent implements AfterViewInit {
   hits: Hit[];
 
-  @ViewChild("component1") viewer: DocumentViewerComponent;
   @ViewChild("progressBar") progressBart: ProgressBarComponent;
   selectedHit: Hit;
   searching: boolean = false;
@@ -36,12 +36,10 @@ export class SearchComponent implements AfterViewInit {
   title = 'taxfighter';
   @Output() messageEvent = new EventEmitter<Hit>();
 
-  documentViewService: DocumentViewService;
 
   this_httpClient: HttpClient;
   constructor(private httpClient: HttpClient,
-    providedDocumentViewService: DocumentViewService,
-    private providedViewer: DocumentViewerComponent) {
+    ) {
     var reader = new FileReader();
     this.this_httpClient = httpClient;
   }
@@ -54,10 +52,9 @@ export class SearchComponent implements AfterViewInit {
       { label: 'Score', value: 'score' }
     ];
     var answer = [
-      { "end": 11908, "id": 109, "match": "Since that complaint was rejected, SJ appealed to the French Social Security Court.", "score": 0.43968063592910767, "start": 11825 },
-      { "end": 6951, "id": 126, "match": "That court relied on Article of the VAT Directive.", "score": 0.44406506419181824, "start": 6901 },
-      ,
-      { "end": 9092, "id": 102, "match": "The office of magistrate is  \u201chonorary\u201d.", "score": 0.4448329508304596, "start": 9052 }
+      {end: Array(2), id: "62017CJ0616", match: "The reliability of the tests, studies and analyses…r the authorisation of a plant protection product", score: 3.00497, start: 43486},
+      {end: Array(2), id: "62014CJ0547", match: "Admissibility of certain of the questions referred", score: 3.1625676, start: 42500},
+      {end: Array(2), id: "62019CJ0217", match: "The condition relating to judicious use", score: 3.162841, start: 34161}
     ]
 
 
@@ -69,19 +66,21 @@ export class SearchComponent implements AfterViewInit {
   }
 
   selectHit(event: Event, hit: Hit) {
+    console.log(hit)
     this.messageEvent.emit(hit);
   }
 
   search(event) {
-    var data = { "searchQuery": event, "top_k": 19 };
+    var data = { "data": [event], "top_k": 19 };
     const options = { headers: { 'Content-Type': 'application/json' } };
     this.searching = true;
-    this.this_httpClient.post<any>("http://localhost:6500/api/search", JSON.stringify(data), options)
+    this.this_httpClient.post<any>(environment.apiUrl + "/api/search", JSON.stringify(data), options)
       .subscribe(data => this.setData(data));
 
   }
 
   private setData(data) {
+    console.log(data)
     this.hits = data;
     this.searching = false;
   }

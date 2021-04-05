@@ -1,4 +1,4 @@
-FROM teracy/angular-cli as builder
+FROM node:14.14-alpine as builder
 
 COPY package.json package-lock.json ./
 
@@ -8,4 +8,18 @@ WORKDIR /app-ui
 
 COPY . .
 
-CMD ["ng", "serve"]
+RUN npm run ng build -- --deploy-url=/frontend-app/ --prod
+
+
+FROM nginx:alpine
+
+COPY ./.nginx/nginx.conf /etc/nginx/nginx.conf
+
+RUN rm -rf /usr/share/nginx/html/*
+
+COPY --from=builder /app-ui/dist /usr/share/nginx/html
+RUN  cp -r  /usr/share/nginx/html/frontend-app/assets /usr/share/nginx/html/
+
+EXPOSE 4200 80
+
+CMD ["nginx", "-g", "daemon off;"]

@@ -80,31 +80,31 @@ Upload documents in `*.txt` format to `search_engine/data` and `frontendApp/src/
 
 ## 2. Set global environment variables
 
-```sh
-export PARALLEL=1
-export SHARDS=6
-export CLIENT_PORT=80
-export TMP_WORKSPACE=test_index
+And put them in the `.public_env` file:
+```
 export JINA_PORT=56798
+export JINA_PARALLEL=1
+export JINA_SHARDS=1
+export CLIENT_PORT=80
+export JINA_WORKSPACE=test_index
+export JINA_MAX_DOCS=100
+export JINA_PORT=65481
 ```
-
 ## 3. Run locally
-In the `search_engine` directory:<br>
+Create virtual environment and source it.
 
-```sh
-python3.7 app.py -t index
-gunicorn -w  1  --bind 0.0.0.0:6500 main:app
+```
+mkdir search_engine/pip_cache
+sudo docker-compose build
+sudo mkdir search_engine/test_index
+sudo chmod 777 -R search_engine/test_index
+sudo docker-compose up
 ```
 
-In the `frontendApp` directory:<br>
+And you can open the website on `http://localhost:4200`.
 
-```sh
-npm install
-ng serve
-```
+Please wait for a while in order to build index. 
 
-And you can open the website on `http://localhost:4200`
+## 4. Caveat
 
-## Run on Docker
-
-You can easily create Docker apps, but you need to set up the proper variables in DockerFiles for each app.
+Demo does not include PolTaxBERT and StateAid Bert - they will be included soon. 
