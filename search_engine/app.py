@@ -48,6 +48,7 @@ def query_text():
     def print_result(response):
         doc = response.docs[0]
         docs_dict = {parent.id: parent.tags["SName"] for parent in doc.matches}
+        import pdb; pdb.set_trace()
         for index, chunk in enumerate(doc.chunks):
             print(f"Chunk {index}: {chunk.text}")
             for match in chunk.matches:
@@ -64,7 +65,6 @@ def query_text():
                 inputs=doc,
                 parameters={"lookup_type": "parent"},
                 return_results=True,
-                top_k=20
             )
             print_result(response[0].data)
 
@@ -89,7 +89,7 @@ def main(task, num_docs):
                     \n +---------------------------------------------------------------------------------+"
             )
             sys.exit(1)
-        index(num_docs)
+        index()
     elif task == "query":
         query()
     elif task == "query_text":
