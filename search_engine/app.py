@@ -48,7 +48,6 @@ def query_text():
     def print_result(response):
         doc = response.docs[0]
         docs_dict = {parent.id: parent.tags["SName"] for parent in doc.matches}
-        import pdb; pdb.set_trace()
         for index, chunk in enumerate(doc.chunks):
             print(f"Chunk {index}: {chunk.text}")
             for match in chunk.matches:
