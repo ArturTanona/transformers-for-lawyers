@@ -64,6 +64,7 @@ def query_text():
                 inputs=doc,
                 parameters={"lookup_type": "parent"},
                 return_results=True,
+                top_k=20
             )
             print_result(response[0].data)
 
