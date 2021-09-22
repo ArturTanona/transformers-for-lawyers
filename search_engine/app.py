@@ -1,14 +1,9 @@
-__copyright__ = "Copyright (c) 2021 Jina AI Limited. All rights reserved."
-__license__ = "Apache-2.0"
-
-__version__ = "0.0.1"
-
 import os
 import sys
 from glob import glob
 
 import click
-from jina import Document, DocumentArray, Flow
+from jina import Document, Flow
 from jina.logging.predefined import default_logger as logger
 
 
@@ -34,15 +29,13 @@ def config():
     os.environ.setdefault("JINA_PORT", str(45678))
 
 
-# for index
-def index(num_docs):
+def index():
     flow = Flow.load_config("flows/index.yml")
     with flow:
         input_docs = input_generator()
         flow.post(on="/index", inputs=input_docs, request_size=10, show_progress=True)
 
 
-# for search
 def query():
     flow = Flow.load_config("flows/query.yml")
     flow.rest_api = True
