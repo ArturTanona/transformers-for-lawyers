@@ -54,18 +54,11 @@ def query():
 def query_text():
     def print_result(response):
         doc = response.docs[0]
-        for index, parent in enumerate(doc.matches):
-            print(f'Parent {index}: Song Name: {parent.tags["SName"]}\n{parent.text}')
-        import pdb
-
-        pdb.set_trace()
+        docs_dict = {parent.id: parent.tags["SName"] for parent in doc.matches}
         for index, chunk in enumerate(doc.chunks):
             print(f"Chunk {index}: {chunk.text}")
             for match in chunk.matches:
-                import pdb
-
-                pdb.set_trace()
-                print(f"\tMatch: {match.text}")
+                print(f"\tMatch: {match.text} Document: {docs_dict[match.parent_id]}")
 
     f = Flow.load_config("flows/query.yml")
     with f:
